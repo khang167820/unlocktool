@@ -1333,7 +1333,7 @@ setInterval(updateCountdowns, 1000);
 setInterval(updateWaitingTime, 1000);
 window.onload = function() { updateCountdowns(); updateWaitingTime(); };
 
-// Tạo 100 tài khoản ảo đang thuê với đếm ngược thời gian thực và sắp xếp đan xen với tài khoản thật
+// Tạo 60 tài khoản ảo đang thuê với đếm ngược thời gian thực và sắp xếp đan xen với tài khoản thật
 function createVirtualRentingAccounts() {
     const tbody = document.querySelector('table tbody');
     if (!tbody) return;
@@ -1357,12 +1357,12 @@ function createVirtualRentingAccounts() {
     // Mảng để lưu tất cả tài khoản ảo trước khi sắp xếp
     const virtualAccounts = [];
     
-    for (let i = 0; i < 100; i++) {
+    for (let i = 0; i < 60; i++) {
         // Tất cả tài khoản ảo đều bắt đầu bằng "M" + 9 dấu *
         const maskedUsername = 'M' + '*'.repeat(9);
         const maskedPassword = 'U' + '*'.repeat(7);
         
-        // Tạo ID ảo từ 65 trở lên (200-299 cho 100 tài khoản)
+        // Tạo ID ảo từ 65 trở lên (200-259 cho 60 tài khoản)
         const virtualId = 200 + i;
         const timerKey = 'virtual_' + virtualId;
         
