@@ -895,7 +895,23 @@ $history_result = $stmt->get_result();
             }
             .cta-support, .history-btn { width: 100%; justify-content: center; }
         }
-    </style>
+    /* Blinking animation for rent button */
+.btn-blink {
+    animation: blink-animation 1.5s ease-in-out infinite;
+    font-weight: bold;
+}
+@keyframes blink-animation {
+    0%, 100% { 
+        box-shadow: 0 0 5px #007bff, 0 0 10px #007bff; 
+        transform: scale(1);
+    }
+    50% { 
+        box-shadow: 0 0 15px #007bff, 0 0 25px #007bff, 0 0 35px #007bff; 
+        transform: scale(1.05);
+        background: linear-gradient(135deg, #0056b3, #007bff);
+    }
+}
+</style>
 </head>
 <body class="p-4">
 
