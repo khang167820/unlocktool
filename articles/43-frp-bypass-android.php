@@ -1,7 +1,7 @@
-<?php
-$page_title = "FRP Bypass Android 2026 - Hu?ng D?n M? Khóa Google Account";
-$page_description = "Hu?ng d?n FRP Bypass Android d?y d? nh?t. Bypass Google Account cho Samsung, Xiaomi, Oppo, Vivo, Realme. Thuê tool FRP bypass ch? 8.000d/6h t?i UnlockTool.us";
-$page_keywords = "frp bypass, frp bypass android, bypass google account, frp samsung, frp xiaomi, frp oppo, xóa tài kho?n google";
+ï»¿<?php
+$page_title = "FRP Bypass Android 2026 - Hu?ng D?n M? Khï¿½a Google Account";
+$page_description = "Hu?ng d?n FRP Bypass Android d?y d? nh?t. Bypass Google Account cho Samsung, Xiaomi, Oppo, Vivo, Realme. Thuï¿½ tool FRP bypass ch? 8.000d/6h t?i UnlockTool.us";
+$page_keywords = "frp bypass, frp bypass android, bypass google account, frp samsung, frp xiaomi, frp oppo, xï¿½a tï¿½i kho?n google";
 $canonical_url = "https://www.unlocktool.us/articles/43-frp-bypass-android.php";
 ?>
 <!DOCTYPE html>
@@ -21,20 +21,21 @@ $canonical_url = "https://www.unlocktool.us/articles/43-frp-bypass-android.php";
     <link rel="canonical" href="<?php echo $canonical_url; ?>">\n    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">">
     <meta property="og:title" content="<?php echo $page_title; ?>">
-    <meta property="og:description" content="<?php echo $page_description; ?>">
+    <meta property="og:description" content="<?php echo $page_description; ?>
+    <meta property="og:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
     
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"HowTo","name":"Cách Bypass FRP Android","description":"Hu?ng d?n bypass Google Account (FRP) cho di?n tho?i Android","step":[
-        {"@type":"HowToStep","name":"Xác d?nh hãng và model","text":"Xác d?nh di?n tho?i thu?c hãng nào: Samsung, Xiaomi, Oppo, Vivo..."},
-        {"@type":"HowToStep","name":"Ch?n phuong pháp phù h?p","text":"ADB, EDL, Download Mode ho?c phuong pháp d?c bi?t theo hãng"},
+    {"@context":"https://schema.org","@type":"HowTo","name":"Cï¿½ch Bypass FRP Android","description":"Hu?ng d?n bypass Google Account (FRP) cho di?n tho?i Android","step":[
+        {"@type":"HowToStep","name":"Xï¿½c d?nh hï¿½ng vï¿½ model","text":"Xï¿½c d?nh di?n tho?i thu?c hï¿½ng nï¿½o: Samsung, Xiaomi, Oppo, Vivo..."},
+        {"@type":"HowToStep","name":"Ch?n phuong phï¿½p phï¿½ h?p","text":"ADB, EDL, Download Mode ho?c phuong phï¿½p d?c bi?t theo hï¿½ng"},
         {"@type":"HowToStep","name":"Th?c hi?n bypass","text":"S? d?ng tool ho?c d?ch v? k? thu?t d? bypass FRP"}
     ]}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"FRP là gì?","acceptedAnswer":{"@type":"Answer","text":"FRP (Factory Reset Protection) là tính nang b?o m?t c?a Google, yêu c?u dang nh?p tài kho?n Google cu sau khi factory reset."}},
-        {"@type":"Question","name":"FRP Bypass có m?t d? li?u không?","acceptedAnswer":{"@type":"Answer","text":"Bypass FRP thông thu?ng không m?t thêm d? li?u vì máy dã du?c factory reset tru?c dó."}},
-        {"@type":"Question","name":"Giá bypass FRP bao nhiêu?","acceptedAnswer":{"@type":"Answer","text":"T? làm: thuê tool 8.000d/6h. D?ch v? k? thu?t: t? 50.000d t?i Thuetaikhoan.net."}}
+        {"@type":"Question","name":"FRP lï¿½ gï¿½?","acceptedAnswer":{"@type":"Answer","text":"FRP (Factory Reset Protection) lï¿½ tï¿½nh nang b?o m?t c?a Google, yï¿½u c?u dang nh?p tï¿½i kho?n Google cu sau khi factory reset."}},
+        {"@type":"Question","name":"FRP Bypass cï¿½ m?t d? li?u khï¿½ng?","acceptedAnswer":{"@type":"Answer","text":"Bypass FRP thï¿½ng thu?ng khï¿½ng m?t thï¿½m d? li?u vï¿½ mï¿½y dï¿½ du?c factory reset tru?c dï¿½."}},
+        {"@type":"Question","name":"Giï¿½ bypass FRP bao nhiï¿½u?","acceptedAnswer":{"@type":"Answer","text":"T? lï¿½m: thuï¿½ tool 8.000d/6h. D?ch v? k? thu?t: t? 50.000d t?i Thuetaikhoan.net."}}
     ]}
     </script>
     
@@ -110,7 +111,7 @@ $canonical_url = "https://www.unlocktool.us/articles/43-frp-bypass-android.php";
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? khóa di?n tho?i",
+        "name": "D?ch v? m? khï¿½a di?n tho?i",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -128,7 +129,7 @@ $canonical_url = "https://www.unlocktool.us/articles/43-frp-bypass-android.php";
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
             <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bï¿½i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -139,7 +140,7 @@ $canonical_url = "https://www.unlocktool.us/articles/43-frp-bypass-android.php";
         <p class="lead">Bypass FRP cho t?t c? Android: Samsung, Xiaomi, Oppo, Vivo, Realme...</p>
         <div class="mt-4">
             <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg me-2">
-                <i class="fas fa-tools me-2"></i>Thuê Tool 8K/6H
+                <i class="fas fa-tools me-2"></i>Thuï¿½ Tool 8K/6H
             </a>
             <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg">
                 <i class="fas fa-headset me-2"></i>D?ch V? T? 50K
@@ -155,47 +156,47 @@ $canonical_url = "https://www.unlocktool.us/articles/43-frp-bypass-android.php";
             <div class="toc">
                 <h5><i class="fas fa-list me-2"></i>M?c l?c</h5>
                 <ul>
-                    <li><a href="#frp">1. FRP là gì?</a></li>
-                    <li><a href="#nguyen-nhan">2. Khi nào g?p FRP Lock?</a></li>
-                    <li><a href="#phuong-phap">3. Các phuong pháp Bypass FRP</a></li>
-                    <li><a href="#theo-hang">4. Bypass FRP theo t?ng hãng</a></li>
+                    <li><a href="#frp">1. FRP lï¿½ gï¿½?</a></li>
+                    <li><a href="#nguyen-nhan">2. Khi nï¿½o g?p FRP Lock?</a></li>
+                    <li><a href="#phuong-phap">3. Cï¿½c phuong phï¿½p Bypass FRP</a></li>
+                    <li><a href="#theo-hang">4. Bypass FRP theo t?ng hï¿½ng</a></li>
                     <li><a href="#tool">5. Tool Bypass FRP</a></li>
-                    <li><a href="#thue-tool">6. Thuê tool Bypass FRP</a></li>
-                    <li><a href="#dich-vu">7. D?ch v? k? thu?t viên</a></li>
+                    <li><a href="#thue-tool">6. Thuï¿½ tool Bypass FRP</a></li>
+                    <li><a href="#dich-vu">7. D?ch v? k? thu?t viï¿½n</a></li>
                     <li><a href="#faq">8. FAQ</a></li>
                 </ul>
             </div>
 
             <section id="frp" class="mt-5">
-                <h2><i class="fab fa-google text-primary me-2"></i>1. FRP Là Gì?</h2>
+                <h2><i class="fab fa-google text-primary me-2"></i>1. FRP Lï¿½ Gï¿½?</h2>
                 
-                <p><strong>FRP</strong> (Factory Reset Protection) là tính nang b?o m?t du?c Google gi?i thi?u t? Android 5.1 Lollipop. Khi FRP du?c kích ho?t, sau m?i l?n factory reset, thi?t b? s? yêu c?u dang nh?p <strong>tài kho?n Google dã dang nh?p tru?c dó</strong> d? có th? s? d?ng.</p>
+                <p><strong>FRP</strong> (Factory Reset Protection) lï¿½ tï¿½nh nang b?o m?t du?c Google gi?i thi?u t? Android 5.1 Lollipop. Khi FRP du?c kï¿½ch ho?t, sau m?i l?n factory reset, thi?t b? s? yï¿½u c?u dang nh?p <strong>tï¿½i kho?n Google dï¿½ dang nh?p tru?c dï¿½</strong> d? cï¿½ th? s? d?ng.</p>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-shield-alt me-2"></i>M?c dích c?a FRP</h5>
-                    <p class="mb-0">FRP du?c thi?t k? d? b?o v? ngu?i dùng trong tru?ng h?p di?n tho?i b? m?t ho?c b? dánh c?p. Ngay c? khi k? tr?m factory reset máy, h? v?n không th? s? d?ng n?u không bi?t thông tin tài kho?n Google g?c.</p>
+                    <h5><i class="fas fa-shield-alt me-2"></i>M?c dï¿½ch c?a FRP</h5>
+                    <p class="mb-0">FRP du?c thi?t k? d? b?o v? ngu?i dï¿½ng trong tru?ng h?p di?n tho?i b? m?t ho?c b? dï¿½nh c?p. Ngay c? khi k? tr?m factory reset mï¿½y, h? v?n khï¿½ng th? s? d?ng n?u khï¿½ng bi?t thï¿½ng tin tï¿½i kho?n Google g?c.</p>
                 </div>
             </section>
 
             <section id="nguyen-nhan" class="mt-5">
-                <h2><i class="fas fa-question-circle text-primary me-2"></i>2. Khi Nào G?p FRP Lock?</h2>
+                <h2><i class="fas fa-question-circle text-primary me-2"></i>2. Khi Nï¿½o G?p FRP Lock?</h2>
 
                 <ul>
-                    <li><i class="fas fa-check text-success me-2"></i>Quên tài kho?n/m?t kh?u Google sau factory reset</li>
-                    <li><i class="fas fa-check text-success me-2"></i>Mua máy cu, ch? cu quên dang xu?t Google</li>
-                    <li><i class="fas fa-check text-success me-2"></i>Reset máy t? Recovery mà chua xóa Google account</li>
-                    <li><i class="fas fa-check text-success me-2"></i>Nh?n máy t? ngu?i khác</li>
+                    <li><i class="fas fa-check text-success me-2"></i>Quï¿½n tï¿½i kho?n/m?t kh?u Google sau factory reset</li>
+                    <li><i class="fas fa-check text-success me-2"></i>Mua mï¿½y cu, ch? cu quï¿½n dang xu?t Google</li>
+                    <li><i class="fas fa-check text-success me-2"></i>Reset mï¿½y t? Recovery mï¿½ chua xï¿½a Google account</li>
+                    <li><i class="fas fa-check text-success me-2"></i>Nh?n mï¿½y t? ngu?i khï¿½c</li>
                 </ul>
             </section>
 
             <section id="phuong-phap" class="mt-5">
-                <h2><i class="fas fa-tools text-primary me-2"></i>3. Các Phuong Pháp Bypass FRP</h2>
+                <h2><i class="fas fa-tools text-primary me-2"></i>3. Cï¿½c Phuong Phï¿½p Bypass FRP</h2>
 
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-terminal text-primary me-2"></i>ADB Method</h5>
-                            <p>Bypass qua ADB (Android Debug Bridge), nhanh và không flash.</p>
+                            <p>Bypass qua ADB (Android Debug Bridge), nhanh vï¿½ khï¿½ng flash.</p>
                             <span class="badge bg-success">Ph? bi?n</span>
                         </div>
                     </div>
@@ -209,22 +210,22 @@ $canonical_url = "https://www.unlocktool.us/articles/43-frp-bypass-android.php";
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-hdd text-warning me-2"></i>Flash FRP File</h5>
-                            <p>Flash file xóa phân vùng FRP.</p>
+                            <p>Flash file xï¿½a phï¿½n vï¿½ng FRP.</p>
                             <span class="badge bg-warning text-dark">C?n tool</span>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-keyboard text-secondary me-2"></i>Talkback/Bypass App</h5>
-                            <p>S? d?ng các l? h?ng ph?n m?m d? bypass.</p>
-                            <span class="badge bg-secondary">Tùy model</span>
+                            <p>S? d?ng cï¿½c l? h?ng ph?n m?m d? bypass.</p>
+                            <span class="badge bg-secondary">Tï¿½y model</span>
                         </div>
                     </div>
                 </div>
             </section>
 
             <section id="theo-hang" class="mt-5">
-                <h2><i class="fas fa-mobile-alt text-primary me-2"></i>4. Bypass FRP Theo T?ng Hãng</h2>
+                <h2><i class="fas fa-mobile-alt text-primary me-2"></i>4. Bypass FRP Theo T?ng Hï¿½ng</h2>
 
                 <div class="row">
                     <div class="col-6 col-md-4 mb-3">
@@ -277,47 +278,47 @@ $canonical_url = "https://www.unlocktool.us/articles/43-frp-bypass-android.php";
 
                 <table class="table table-custom">
                     <thead>
-                        <tr><th>Tool</th><th>Hãng h? tr?</th><th>Thuê</th></tr>
+                        <tr><th>Tool</th><th>Hï¿½ng h? tr?</th><th>Thuï¿½</th></tr>
                     </thead>
                     <tbody>
-                        <tr><td><strong>UnlockTool</strong></td><td>Ða hãng (Samsung, Xiaomi, Oppo...)</td><td>8.000d/6h</td></tr>
+                        <tr><td><strong>UnlockTool</strong></td><td>ï¿½a hï¿½ng (Samsung, Xiaomi, Oppo...)</td><td>8.000d/6h</td></tr>
                         <tr><td><strong>Samsung Tool Pro</strong></td><td>Samsung</td><td>8.000d/6h</td></tr>
                         <tr><td><strong>Griffin-Unlocker</strong></td><td>Qualcomm (Xiaomi, Oppo...)</td><td>8.000d/6h</td></tr>
                         <tr><td><strong>DFT Pro</strong></td><td>Samsung</td><td>8.000d/6h</td></tr>
-                        <tr><td><strong>Android Multitool</strong></td><td>Ða hãng</td><td>8.000d/6h</td></tr>
+                        <tr><td><strong>Android Multitool</strong></td><td>ï¿½a hï¿½ng</td><td>8.000d/6h</td></tr>
                     </tbody>
                 </table>
-                <p class="text-muted">T?t c? tool d?u có th? thuê t?i <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a>!</p>
+                <p class="text-muted">T?t c? tool d?u cï¿½ th? thuï¿½ t?i <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a>!</p>
             </section>
 
             <section id="thue-tool" class="mt-5">
-                <h2><i class="fas fa-shopping-cart text-primary me-2"></i>6. Thuê Tool Bypass FRP</h2>
+                <h2><i class="fas fa-shopping-cart text-primary me-2"></i>6. Thuï¿½ Tool Bypass FRP</h2>
 
                 <div class="price-highlight">
-                    <p class="mb-2">Thuê tool Bypass FRP ch?</p>
+                    <p class="mb-2">Thuï¿½ tool Bypass FRP ch?</p>
                     <div class="price">8.000d / 6 ti?ng</div>
-                    <p class="mt-2 mb-3">Ða hãng: Samsung, Xiaomi, Oppo, Vivo, Realme...</p>
+                    <p class="mt-2 mb-3">ï¿½a hï¿½ng: Samsung, Xiaomi, Oppo, Vivo, Realme...</p>
                     <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg">
-                        <i class="fas fa-bolt me-2"></i>Thuê Ngay T?i UnlockTool.us
+                        <i class="fas fa-bolt me-2"></i>Thuï¿½ Ngay T?i UnlockTool.us
                     </a>
                 </div>
             </section>
 
             <section id="dich-vu" class="mt-5">
-                <h2><i class="fas fa-headset text-primary me-2"></i>7. D?ch V? K? Thu?t Viên</h2>
+                <h2><i class="fas fa-headset text-primary me-2"></i>7. D?ch V? K? Thu?t Viï¿½n</h2>
 
                 <div class="service-cta">
                     <h4><i class="fas fa-unlock me-2"></i>D?ch V? Bypass FRP</h4>
-                    <p>K? thu?t viên kinh nghi?m - H? tr? t? xa 24/7</p>
+                    <p>K? thu?t viï¿½n kinh nghi?m - H? tr? t? xa 24/7</p>
                     <p class="h2 fw-bold">T? 50.000d</p>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light btn-lg">
-                        <i class="fas fa-shopping-cart me-2"></i>Ð?t D?ch V? T?i Thuetaikhoan.net
+                        <i class="fas fa-shopping-cart me-2"></i>ï¿½?t D?ch V? T?i Thuetaikhoan.net
                     </a>
                 </div>
 
-                <h3 class="mt-4">7.1. B?ng giá theo hãng</h3>
+                <h3 class="mt-4">7.1. B?ng giï¿½ theo hï¿½ng</h3>
                 <table class="table table-bordered">
-                    <thead class="table-primary"><tr><th>Hãng</th><th>Giá t?</th></tr></thead>
+                    <thead class="table-primary"><tr><th>Hï¿½ng</th><th>Giï¿½ t?</th></tr></thead>
                     <tbody>
                         <tr><td>Samsung</td><td>50.000d</td></tr>
                         <tr><td>Xiaomi/Redmi/POCO</td><td>50.000d</td></tr>
@@ -329,51 +330,51 @@ $canonical_url = "https://www.unlocktool.us/articles/43-frp-bypass-android.php";
             </section>
 
             <section id="faq" class="mt-5">
-                <h2><i class="fas fa-question-circle text-primary me-2"></i>8. Câu H?i Thu?ng G?p</h2>
+                <h2><i class="fas fa-question-circle text-primary me-2"></i>8. Cï¿½u H?i Thu?ng G?p</h2>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Bypass FRP có m?t d? li?u không?</span>
+                        <span>Bypass FRP cï¿½ m?t d? li?u khï¿½ng?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Bypass FRP thu?ng không m?t thêm d? li?u vì máy dã du?c factory reset tru?c dó (d? li?u dã m?t).</p>
+                        <p>Bypass FRP thu?ng khï¿½ng m?t thï¿½m d? li?u vï¿½ mï¿½y dï¿½ du?c factory reset tru?c dï¿½ (d? li?u dï¿½ m?t).</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Bypass FRP m?t bao lâu?</span>
+                        <span>Bypass FRP m?t bao lï¿½u?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Thông thu?ng t? 5-30 phút tùy model và phuong pháp.</p>
+                        <p>Thï¿½ng thu?ng t? 5-30 phï¿½t tï¿½y model vï¿½ phuong phï¿½p.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Bypass xong có b? khóa l?i không?</span>
+                        <span>Bypass xong cï¿½ b? khï¿½a l?i khï¿½ng?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Sau khi bypass, b?n có th? dang nh?p tài kho?n Google m?i. FRP ch? quay l?i n?u b?n reset l?i máy mà chua xóa Google account m?i.</p>
+                        <p>Sau khi bypass, b?n cï¿½ th? dang nh?p tï¿½i kho?n Google m?i. FRP ch? quay l?i n?u b?n reset l?i mï¿½y mï¿½ chua xï¿½a Google account m?i.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Tool nào bypass FRP t?t nh?t?</span>
+                        <span>Tool nï¿½o bypass FRP t?t nh?t?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>UnlockTool là tool da nang nh?t, h? tr? nhi?u hãng. V?i Samsung, có th? dùng Samsung Tool Pro ho?c DFT Pro. T?t c? d?u thuê 8.000d/6h t?i UnlockTool.us.</p>
+                        <p>UnlockTool lï¿½ tool da nang nh?t, h? tr? nhi?u hï¿½ng. V?i Samsung, cï¿½ th? dï¿½ng Samsung Tool Pro ho?c DFT Pro. T?t c? d?u thuï¿½ 8.000d/6h t?i UnlockTool.us.</p>
                     </div>
                 </div>
             </section>
 
             <section class="mt-5">
                 <h2><i class="fas fa-flag-checkered text-primary me-2"></i>K?t Lu?n</h2>
-                <p>FRP Bypass không còn là v?n d? khó n?u có dúng tool và phuong pháp. V?i giá thuê ch? 8.000d/6h t?i UnlockTool.us, b?n có th? t? bypass FRP cho nhi?u hãng Android!</p>
+                <p>FRP Bypass khï¿½ng cï¿½n lï¿½ v?n d? khï¿½ n?u cï¿½ dï¿½ng tool vï¿½ phuong phï¿½p. V?i giï¿½ thuï¿½ ch? 8.000d/6h t?i UnlockTool.us, b?n cï¿½ th? t? bypass FRP cho nhi?u hï¿½ng Android!</p>
                 
                 <div class="text-center mt-4">
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-google btn-lg me-2 mb-2">Thuê Tool 8K/6H</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-google btn-lg me-2 mb-2">Thuï¿½ Tool 8K/6H</a>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-primary btn-lg mb-2">D?ch V? T? 50K</a>
                 </div>
             </section>
@@ -384,13 +385,13 @@ $canonical_url = "https://www.unlocktool.us/articles/43-frp-bypass-android.php";
                 <div class="price-highlight mb-4">
                     <h5>Bypass FRP</h5>
                     <p class="price">8.000d/6H</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100">Thuê Tool</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100">Thuï¿½ Tool</a>
                 </div>
                 <div class="card mb-4">
                     <div class="card-header bg-primary text-white">D?ch V? K? Thu?t</div>
                     <div class="card-body">
                         <p class="h4 fw-bold">T? 50.000d</p>
-                        <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-primary w-100">Ð?t D?ch V?</a>
+                        <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-primary w-100">ï¿½?t D?ch V?</a>
                     </div>
                 </div>
                 <div class="card">
@@ -412,7 +413,7 @@ $canonical_url = "https://www.unlocktool.us/articles/43-frp-bypass-android.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bài vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bï¿½i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -426,7 +427,7 @@ $canonical_url = "https://www.unlocktool.us/articles/43-frp-bypass-android.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài vi?t liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bï¿½i vi?t liï¿½n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
@@ -461,7 +462,7 @@ $canonical_url = "https://www.unlocktool.us/articles/43-frp-bypass-android.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Ð?i ngu k? thu?t viên chuyên nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khóa di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">ï¿½?i ngu k? thu?t viï¿½n chuyï¿½n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khï¿½a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         

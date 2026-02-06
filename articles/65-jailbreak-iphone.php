@@ -1,4 +1,4 @@
-<?php
+ï»¿<?php
 $page_title = "Jailbreak iPhone 2026 - Hu?ng D?n Chi Ti?t iOS 15/16/17/18 T? A-Z";
 $page_description = "Hu?ng d?n jailbreak iPhone d?y d? nh?t 2026. Checkra1n, Palera1n, Dopamine, Unc0ver cho iOS 12-18. Jailbreak c?n thi?t d? bypass iCloud. T?i WinRa1n t?i file.unlocktool.net";
 $page_keywords = "jailbreak iphone, checkra1n, palera1n, dopamine, unc0ver, jailbreak ios 17, jailbreak ios 18, winra1n, jailbreak windows";
@@ -21,7 +21,8 @@ $canonical_url = "https://www.unlocktool.us/articles/65-jailbreak-iphone.php";
     <link rel="canonical" href="<?php echo $canonical_url; ?>">\n    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">">
     <meta property="og:title" content="<?php echo $page_title; ?>">
-    <meta property="og:description" content="<?php echo $page_description; ?>">
+    <meta property="og:description" content="<?php echo $page_description; ?>
+    <meta property="og:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
     <meta property="og:type" content="article">
     <meta property="og:url" content="<?php echo $canonical_url; ?>">
     
@@ -65,11 +66,11 @@ $canonical_url = "https://www.unlocktool.us/articles/65-jailbreak-iphone.php";
         "@context": "https://schema.org",
         "@type": "HowTo",
         "name": "Hu?ng d?n Jailbreak iPhone 2026",
-        "description": "Hu?ng d?n chi ti?t cách jailbreak iPhone t?t c? model t? iPhone 5s d?n iPhone 15, iOS 12 d?n iOS 18",
+        "description": "Hu?ng d?n chi ti?t cï¿½ch jailbreak iPhone t?t c? model t? iPhone 5s d?n iPhone 15, iOS 12 d?n iOS 18",
         "totalTime": "PT15M",
         "supply": [
-            {"@type": "HowToSupply", "name": "Máy tính Windows/macOS/Linux"},
-            {"@type": "HowToSupply", "name": "Cáp USB Lightning/Type-C"},
+            {"@type": "HowToSupply", "name": "Mï¿½y tï¿½nh Windows/macOS/Linux"},
+            {"@type": "HowToSupply", "name": "Cï¿½p USB Lightning/Type-C"},
             {"@type": "HowToSupply", "name": "iPhone c?n jailbreak"}
         ],
         "tool": [
@@ -78,11 +79,11 @@ $canonical_url = "https://www.unlocktool.us/articles/65-jailbreak-iphone.php";
             {"@type": "HowToTool", "name": "Dopamine"}
         ],
         "step": [
-            {"@type": "HowToStep", "name": "Xác d?nh model và iOS", "text": "Ki?m tra model iPhone và phiên b?n iOS d? ch?n tool phù h?p"},
-            {"@type": "HowToStep", "name": "T?i tool jailbreak", "text": "T?i Checkra1n/WinRa1n, Palera1n ho?c Dopamine tùy thi?t b?"},
-            {"@type": "HowToStep", "name": "Vào DFU Mode", "text": "Ðua iPhone vào ch? d? DFU theo hu?ng d?n"},
-            {"@type": "HowToStep", "name": "Th?c hi?n jailbreak", "text": "Ch?y tool và d?i quá trình jailbreak hoàn t?t"},
-            {"@type": "HowToStep", "name": "Cài d?t Cydia/Sileo", "text": "Sau khi jailbreak, cài d?t package manager d? cài tweak"}
+            {"@type": "HowToStep", "name": "Xï¿½c d?nh model vï¿½ iOS", "text": "Ki?m tra model iPhone vï¿½ phiï¿½n b?n iOS d? ch?n tool phï¿½ h?p"},
+            {"@type": "HowToStep", "name": "T?i tool jailbreak", "text": "T?i Checkra1n/WinRa1n, Palera1n ho?c Dopamine tï¿½y thi?t b?"},
+            {"@type": "HowToStep", "name": "Vï¿½o DFU Mode", "text": "ï¿½ua iPhone vï¿½o ch? d? DFU theo hu?ng d?n"},
+            {"@type": "HowToStep", "name": "Th?c hi?n jailbreak", "text": "Ch?y tool vï¿½ d?i quï¿½ trï¿½nh jailbreak hoï¿½n t?t"},
+            {"@type": "HowToStep", "name": "Cï¿½i d?t Cydia/Sileo", "text": "Sau khi jailbreak, cï¿½i d?t package manager d? cï¿½i tweak"}
         ]
     }
     </script>
@@ -94,26 +95,26 @@ $canonical_url = "https://www.unlocktool.us/articles/65-jailbreak-iphone.php";
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Jailbreak iPhone là gì?",
+                "name": "Jailbreak iPhone lï¿½ gï¿½?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Jailbreak là quá trình khai thác l? h?ng trong iOS d? m? khóa quy?n root, cho phép cài d?t ?ng d?ng bên th? ba, tweak tùy bi?n, và truy c?p h? th?ng file mà Apple không cho phép."
+                    "text": "Jailbreak lï¿½ quï¿½ trï¿½nh khai thï¿½c l? h?ng trong iOS d? m? khï¿½a quy?n root, cho phï¿½p cï¿½i d?t ?ng d?ng bï¿½n th? ba, tweak tï¿½y bi?n, vï¿½ truy c?p h? th?ng file mï¿½ Apple khï¿½ng cho phï¿½p."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Jailbreak có làm m?t b?o hành không?",
+                "name": "Jailbreak cï¿½ lï¿½m m?t b?o hï¿½nh khï¿½ng?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "V? m?t k? thu?t, jailbreak có th? void warranty. Tuy nhiên, b?n có th? restore iPhone v? tr?ng thái g?c b?ng iTunes tru?c khi mang di b?o hành, Apple s? không bi?t máy t?ng jailbreak."
+                    "text": "V? m?t k? thu?t, jailbreak cï¿½ th? void warranty. Tuy nhiï¿½n, b?n cï¿½ th? restore iPhone v? tr?ng thï¿½i g?c b?ng iTunes tru?c khi mang di b?o hï¿½nh, Apple s? khï¿½ng bi?t mï¿½y t?ng jailbreak."
                 }
             },
             {
                 "@type": "Question",
-                "name": "iPhone 15/16 có jailbreak du?c không?",
+                "name": "iPhone 15/16 cï¿½ jailbreak du?c khï¿½ng?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "iPhone 15/16 (chip A16/A17/A18) hi?n chua có jailbreak ?n d?nh do chua có exploit. Dopamine h? tr? d?n iPhone 14/A15 trên iOS 15-16.6.1. C?n ch? exploit m?i trong tuong lai."
+                    "text": "iPhone 15/16 (chip A16/A17/A18) hi?n chua cï¿½ jailbreak ?n d?nh do chua cï¿½ exploit. Dopamine h? tr? d?n iPhone 14/A15 trï¿½n iOS 15-16.6.1. C?n ch? exploit m?i trong tuong lai."
                 }
             }
         ]
@@ -168,7 +169,7 @@ $canonical_url = "https://www.unlocktool.us/articles/65-jailbreak-iphone.php";
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? khóa di?n tho?i",
+        "name": "D?ch v? m? khï¿½a di?n tho?i",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -186,7 +187,7 @@ $canonical_url = "https://www.unlocktool.us/articles/65-jailbreak-iphone.php";
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
             <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bï¿½i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -196,7 +197,7 @@ $canonical_url = "https://www.unlocktool.us/articles/65-jailbreak-iphone.php";
         <div class="row align-items-center">
             <div class="col-lg-8">
                 <h1><i class="fab fa-apple me-3"></i><?php echo $page_title; ?></h1>
-                <p class="lead mt-3">Hu?ng d?n jailbreak iPhone toàn di?n nh?t 2026. T? iPhone 5s d?n iPhone 15, iOS 12 d?n iOS 18. Checkra1n, Palera1n, Dopamine, Unc0ver - t?t c? trong m?t bài vi?t.</p>
+                <p class="lead mt-3">Hu?ng d?n jailbreak iPhone toï¿½n di?n nh?t 2026. T? iPhone 5s d?n iPhone 15, iOS 12 d?n iOS 18. Checkra1n, Palera1n, Dopamine, Unc0ver - t?t c? trong m?t bï¿½i vi?t.</p>
                 <div class="mt-4">
                     <a href="https://file.unlocktool.net/page/tool---android---pc/tool-winra1n21-jailbreak-iphone---ipad" target="_blank" class="btn btn-light btn-lg me-2 mb-2"><i class="fas fa-download me-2"></i>T?i WinRa1n</a>
                     <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-outline-light btn-lg mb-2"><i class="fas fa-unlock me-2"></i>Bypass iCloud</a>
@@ -215,85 +216,85 @@ $canonical_url = "https://www.unlocktool.us/articles/65-jailbreak-iphone.php";
             
             <!-- M?c l?c -->
             <div class="toc">
-                <h5><i class="fas fa-list me-2"></i>M?c L?c Bài Vi?t</h5>
+                <h5><i class="fas fa-list me-2"></i>M?c L?c Bï¿½i Vi?t</h5>
                 <ul>
-                    <li><a href="#jailbreak-la-gi">1. Jailbreak iPhone là gì? L?i ích và r?i ro</a></li>
-                    <li><a href="#cac-loai-jailbreak">2. Các lo?i jailbreak: Tethered, Semi-tethered, Untethered</a></li>
-                    <li><a href="#bang-tuong-thich">3. B?ng tuong thích iPhone và iOS v?i các tool</a></li>
-                    <li><a href="#tool-jailbreak">4. Các tool jailbreak 2026: Checkra1n, Palera1n, Dopamine</a></li>
+                    <li><a href="#jailbreak-la-gi">1. Jailbreak iPhone lï¿½ gï¿½? L?i ï¿½ch vï¿½ r?i ro</a></li>
+                    <li><a href="#cac-loai-jailbreak">2. Cï¿½c lo?i jailbreak: Tethered, Semi-tethered, Untethered</a></li>
+                    <li><a href="#bang-tuong-thich">3. B?ng tuong thï¿½ch iPhone vï¿½ iOS v?i cï¿½c tool</a></li>
+                    <li><a href="#tool-jailbreak">4. Cï¿½c tool jailbreak 2026: Checkra1n, Palera1n, Dopamine</a></li>
                     <li><a href="#huong-dan-checkra1n">5. Hu?ng d?n jailbreak b?ng Checkra1n/WinRa1n</a></li>
                     <li><a href="#huong-dan-palera1n">6. Hu?ng d?n jailbreak b?ng Palera1n</a></li>
                     <li><a href="#huong-dan-dopamine">7. Hu?ng d?n jailbreak b?ng Dopamine</a></li>
-                    <li><a href="#dfu-mode">8. Cách vào DFU Mode cho t?t c? iPhone</a></li>
-                    <li><a href="#sau-jailbreak">9. Sau khi jailbreak: Cydia, Sileo và tweak nên cài</a></li>
-                    <li><a href="#loi-thuong-gap">10. L?i thu?ng g?p khi jailbreak và cách kh?c ph?c</a></li>
+                    <li><a href="#dfu-mode">8. Cï¿½ch vï¿½o DFU Mode cho t?t c? iPhone</a></li>
+                    <li><a href="#sau-jailbreak">9. Sau khi jailbreak: Cydia, Sileo vï¿½ tweak nï¿½n cï¿½i</a></li>
+                    <li><a href="#loi-thuong-gap">10. L?i thu?ng g?p khi jailbreak vï¿½ cï¿½ch kh?c ph?c</a></li>
                     <li><a href="#bypass-icloud">11. Bypass iCloud sau khi jailbreak</a></li>
-                    <li><a href="#faq">12. FAQ - Câu h?i thu?ng g?p</a></li>
+                    <li><a href="#faq">12. FAQ - Cï¿½u h?i thu?ng g?p</a></li>
                 </ul>
             </div>
 
             <!-- Ph?n 1 -->
-            <h2 id="jailbreak-la-gi"><i class="fas fa-question-circle me-2"></i>1. Jailbreak iPhone Là Gì? L?i Ích Và R?i Ro</h2>
+            <h2 id="jailbreak-la-gi"><i class="fas fa-question-circle me-2"></i>1. Jailbreak iPhone Lï¿½ Gï¿½? L?i ï¿½ch Vï¿½ R?i Ro</h2>
             
-            <p><strong>Jailbreak</strong> là quá trình khai thác l? h?ng b?o m?t (exploit) trong h? di?u hành iOS d? có du?c quy?n truy c?p root (quy?n cao nh?t) vào h? th?ng. Khi jailbreak, b?n có th? vu?t qua các h?n ch? mà Apple d?t ra và tùy bi?n iPhone theo ý mu?n.</p>
+            <p><strong>Jailbreak</strong> lï¿½ quï¿½ trï¿½nh khai thï¿½c l? h?ng b?o m?t (exploit) trong h? di?u hï¿½nh iOS d? cï¿½ du?c quy?n truy c?p root (quy?n cao nh?t) vï¿½o h? th?ng. Khi jailbreak, b?n cï¿½ th? vu?t qua cï¿½c h?n ch? mï¿½ Apple d?t ra vï¿½ tï¿½y bi?n iPhone theo ï¿½ mu?n.</p>
 
-            <h3>L?i ích c?a Jailbreak</h3>
+            <h3>L?i ï¿½ch c?a Jailbreak</h3>
             <ul>
-                <li><strong>Cài d?t tweak:</strong> Thay d?i giao di?n, thêm tính nang mà Apple không có</li>
-                <li><strong>Cài app bên ngoài App Store:</strong> Cài IPA, app b? Apple t? ch?i</li>
-                <li><strong>Bypass iCloud:</strong> B?t bu?c ph?i jailbreak d? bypass Activation Lock trên thi?t b? checkm8</li>
-                <li><strong>Tùy bi?n sâu:</strong> Theme icon, font, animation, control center...</li>
-                <li><strong>Truy c?p file system:</strong> Qu?n lý file nhu trên máy tính</li>
-                <li><strong>T?i nh?c/video mi?n phí:</strong> Các tweak nhu Cercube, uYou+...</li>
-                <li><strong>Ch?n qu?ng cáo:</strong> System-wide ad blocking</li>
+                <li><strong>Cï¿½i d?t tweak:</strong> Thay d?i giao di?n, thï¿½m tï¿½nh nang mï¿½ Apple khï¿½ng cï¿½</li>
+                <li><strong>Cï¿½i app bï¿½n ngoï¿½i App Store:</strong> Cï¿½i IPA, app b? Apple t? ch?i</li>
+                <li><strong>Bypass iCloud:</strong> B?t bu?c ph?i jailbreak d? bypass Activation Lock trï¿½n thi?t b? checkm8</li>
+                <li><strong>Tï¿½y bi?n sï¿½u:</strong> Theme icon, font, animation, control center...</li>
+                <li><strong>Truy c?p file system:</strong> Qu?n lï¿½ file nhu trï¿½n mï¿½y tï¿½nh</li>
+                <li><strong>T?i nh?c/video mi?n phï¿½:</strong> Cï¿½c tweak nhu Cercube, uYou+...</li>
+                <li><strong>Ch?n qu?ng cï¿½o:</strong> System-wide ad blocking</li>
             </ul>
 
             <h3>R?i ro c?a Jailbreak</h3>
             <div class="warning-box">
                 <ul class="mb-0">
-                    <li><strong>M?t b?o hành:</strong> Apple có th? t? ch?i b?o hành (có th? restore d? xóa d?u v?t)</li>
-                    <li><strong>B?o m?t gi?m:</strong> Tweak d?c h?i có th? an c?p d? li?u</li>
-                    <li><strong>M?t ?n d?nh:</strong> M?t s? tweak conflict gây crash, respring loop</li>
-                    <li><strong>Không OTA update:</strong> Update iOS OTA có th? gây bootloop</li>
-                    <li><strong>App banking detect:</strong> M?t s? app banking, game không cho dùng trên máy jailbreak</li>
+                    <li><strong>M?t b?o hï¿½nh:</strong> Apple cï¿½ th? t? ch?i b?o hï¿½nh (cï¿½ th? restore d? xï¿½a d?u v?t)</li>
+                    <li><strong>B?o m?t gi?m:</strong> Tweak d?c h?i cï¿½ th? an c?p d? li?u</li>
+                    <li><strong>M?t ?n d?nh:</strong> M?t s? tweak conflict gï¿½y crash, respring loop</li>
+                    <li><strong>Khï¿½ng OTA update:</strong> Update iOS OTA cï¿½ th? gï¿½y bootloop</li>
+                    <li><strong>App banking detect:</strong> M?t s? app banking, game khï¿½ng cho dï¿½ng trï¿½n mï¿½y jailbreak</li>
                 </ul>
             </div>
 
             <!-- Ph?n 2 -->
-            <h2 id="cac-loai-jailbreak"><i class="fas fa-layer-group me-2"></i>2. Các Lo?i Jailbreak</h2>
+            <h2 id="cac-loai-jailbreak"><i class="fas fa-layer-group me-2"></i>2. Cï¿½c Lo?i Jailbreak</h2>
 
             <div class="tool-card">
                 <h4><i class="fas fa-link text-danger me-2"></i>Tethered Jailbreak</h4>
-                <p><strong>Ð?c di?m:</strong> M?i l?n iPhone t?t ngu?n, c?n k?t n?i máy tính d? boot l?i vào tr?ng thái jailbreak.</p>
-                <p><strong>Uu di?m:</strong> Thu?ng là bu?c d?u khi exploit m?i ra</p>
-                <p class="mb-0"><strong>Nhu?c di?m:</strong> B?t ti?n, không th? restart mà không có máy tính</p>
+                <p><strong>ï¿½?c di?m:</strong> M?i l?n iPhone t?t ngu?n, c?n k?t n?i mï¿½y tï¿½nh d? boot l?i vï¿½o tr?ng thï¿½i jailbreak.</p>
+                <p><strong>Uu di?m:</strong> Thu?ng lï¿½ bu?c d?u khi exploit m?i ra</p>
+                <p class="mb-0"><strong>Nhu?c di?m:</strong> B?t ti?n, khï¿½ng th? restart mï¿½ khï¿½ng cï¿½ mï¿½y tï¿½nh</p>
             </div>
 
             <div class="tool-card">
                 <h4><i class="fas fa-sync text-warning me-2"></i>Semi-tethered Jailbreak (Ph? bi?n nh?t)</h4>
-                <p><strong>Ð?c di?m:</strong> Sau khi restart, iPhone v?n boot du?c bình thu?ng nhung m?t jailbreak. C?n k?t n?i máy tính d? jailbreak l?i.</p>
+                <p><strong>ï¿½?c di?m:</strong> Sau khi restart, iPhone v?n boot du?c bï¿½nh thu?ng nhung m?t jailbreak. C?n k?t n?i mï¿½y tï¿½nh d? jailbreak l?i.</p>
                 <p><strong>Tool:</strong> Checkra1n, Palera1n</p>
-                <p class="mb-0"><strong>Phù h?p:</strong> Bypass iCloud, vì ch? c?n jailbreak 1 l?n d? bypass</p>
+                <p class="mb-0"><strong>Phï¿½ h?p:</strong> Bypass iCloud, vï¿½ ch? c?n jailbreak 1 l?n d? bypass</p>
             </div>
 
             <div class="tool-card">
                 <h4><i class="fas fa-mobile-alt text-info me-2"></i>Semi-untethered Jailbreak</h4>
-                <p><strong>Ð?c di?m:</strong> Sau khi restart, c?n m? app trên iPhone d? kích ho?t l?i jailbreak, không c?n máy tính.</p>
+                <p><strong>ï¿½?c di?m:</strong> Sau khi restart, c?n m? app trï¿½n iPhone d? kï¿½ch ho?t l?i jailbreak, khï¿½ng c?n mï¿½y tï¿½nh.</p>
                 <p><strong>Tool:</strong> Unc0ver, Taurine, Dopamine</p>
                 <p class="mb-0"><strong>Uu di?m:</strong> Ti?n l?i hon semi-tethered</p>
             </div>
 
             <div class="tool-card">
                 <h4><i class="fas fa-star text-success me-2"></i>Untethered Jailbreak (Hi?m)</h4>
-                <p><strong>Ð?c di?m:</strong> Jailbreak vinh vi?n, restart v?n gi? jailbreak.</p>
-                <p><strong>Tình tr?ng:</strong> R?t hi?m trên iOS hi?n d?i, exploit untethered r?t khó tìm</p>
-                <p class="mb-0"><strong>Ví d?:</strong> M?t s? jailbreak iOS 9 và cu hon</p>
+                <p><strong>ï¿½?c di?m:</strong> Jailbreak vinh vi?n, restart v?n gi? jailbreak.</p>
+                <p><strong>Tï¿½nh tr?ng:</strong> R?t hi?m trï¿½n iOS hi?n d?i, exploit untethered r?t khï¿½ tï¿½m</p>
+                <p class="mb-0"><strong>Vï¿½ d?:</strong> M?t s? jailbreak iOS 9 vï¿½ cu hon</p>
             </div>
 
             <!-- Ph?n 3 -->
-            <h2 id="bang-tuong-thich"><i class="fas fa-table me-2"></i>3. B?ng Tuong Thích iPhone và iOS</h2>
+            <h2 id="bang-tuong-thich"><i class="fas fa-table me-2"></i>3. B?ng Tuong Thï¿½ch iPhone vï¿½ iOS</h2>
 
-            <p>B?ng du?i dây t?ng h?p kh? nang jailbreak c?a t?ng iPhone v?i các phiên b?n iOS:</p>
+            <p>B?ng du?i dï¿½y t?ng h?p kh? nang jailbreak c?a t?ng iPhone v?i cï¿½c phiï¿½n b?n iOS:</p>
 
             <table class="table table-custom">
                 <thead>
@@ -393,172 +394,172 @@ $canonical_url = "https://www.unlocktool.us/articles/65-jailbreak-iphone.php";
                 </tbody>
             </table>
 
-            <p class="text-muted"><small>* iPhone 8/X (A11) trên iOS 14+ c?n t?t passcode tru?c khi jailbreak b?ng Checkra1n</small></p>
+            <p class="text-muted"><small>* iPhone 8/X (A11) trï¿½n iOS 14+ c?n t?t passcode tru?c khi jailbreak b?ng Checkra1n</small></p>
 
             <div class="info-box">
-                <h5><i class="fas fa-info-circle me-2"></i>Luu ý v? Bypass iCloud</h5>
-                <p class="mb-0">Ch? các thi?t b? có <strong>checkm8 exploit</strong> (A7-A11, t?c iPhone 5s d?n iPhone X) m?i có th? bypass iCloud b?ng UnlockTool. Các thi?t b? A12+ (iPhone XR tr? lên) không có exploit bootrom, không th? bypass iCloud theo cách truy?n th?ng.</p>
+                <h5><i class="fas fa-info-circle me-2"></i>Luu ï¿½ v? Bypass iCloud</h5>
+                <p class="mb-0">Ch? cï¿½c thi?t b? cï¿½ <strong>checkm8 exploit</strong> (A7-A11, t?c iPhone 5s d?n iPhone X) m?i cï¿½ th? bypass iCloud b?ng UnlockTool. Cï¿½c thi?t b? A12+ (iPhone XR tr? lï¿½n) khï¿½ng cï¿½ exploit bootrom, khï¿½ng th? bypass iCloud theo cï¿½ch truy?n th?ng.</p>
             </div>
 
             <!-- Ph?n 4 -->
-            <h2 id="tool-jailbreak"><i class="fas fa-tools me-2"></i>4. Các Tool Jailbreak 2026</h2>
+            <h2 id="tool-jailbreak"><i class="fas fa-tools me-2"></i>4. Cï¿½c Tool Jailbreak 2026</h2>
 
             <div class="tool-card">
                 <h4><i class="fas fa-check-circle text-success me-2"></i>Checkra1n / WinRa1n</h4>
-                <p><strong>Ð?c di?m:</strong></p>
+                <p><strong>ï¿½?c di?m:</strong></p>
                 <ul>
                     <li><strong>Lo?i:</strong> Semi-tethered (c?n jailbreak l?i m?i l?n restart)</li>
-                    <li><strong>Exploit:</strong> checkm8 (bootrom exploit, không th? patch b?ng software)</li>
+                    <li><strong>Exploit:</strong> checkm8 (bootrom exploit, khï¿½ng th? patch b?ng software)</li>
                     <li><strong>Thi?t b?:</strong> iPhone 5s - iPhone X (chip A7-A11)</li>
                     <li><strong>iOS:</strong> iOS 12.0 - 14.8.1 (full support), iOS 15.x - 16.7.x (A10-A11 v?i h?n ch?)</li>
                     <li><strong>N?n t?ng:</strong> macOS, Linux (Checkra1n g?c), Windows (WinRa1n)</li>
                 </ul>
                 <p><strong>Uu di?m:</strong></p>
                 <ul>
-                    <li>Exploit bootrom = không bao gi? b? Apple patch</li>
+                    <li>Exploit bootrom = khï¿½ng bao gi? b? Apple patch</li>
                     <li>H? tr? bypass iCloud</li>
-                    <li>WinRa1n cho phép jailbreak trên Windows</li>
+                    <li>WinRa1n cho phï¿½p jailbreak trï¿½n Windows</li>
                 </ul>
                 <a href="https://file.unlocktool.net/page/tool---android---pc/tool-winra1n21-jailbreak-iphone---ipad" target="_blank" class="btn btn-dark"><i class="fas fa-download me-2"></i>T?i WinRa1n</a>
             </div>
 
             <div class="tool-card">
                 <h4><i class="fas fa-star text-warning me-2"></i>Palera1n</h4>
-                <p><strong>Ð?c di?m:</strong></p>
+                <p><strong>ï¿½?c di?m:</strong></p>
                 <ul>
                     <li><strong>Lo?i:</strong> Semi-tethered</li>
                     <li><strong>Exploit:</strong> checkm8</li>
                     <li><strong>Thi?t b?:</strong> iPhone 6s - iPhone X (A9-A11)</li>
-                    <li><strong>iOS:</strong> iOS 15.0 - 17.x (c?p nh?t liên t?c)</li>
-                    <li><strong>N?n t?ng:</strong> macOS, Linux (không có Windows)</li>
-                    <li><strong>Yêu c?u:</strong> Cáp USB-A to Lightning (không h? tr? USB-C to Lightning)</li>
+                    <li><strong>iOS:</strong> iOS 15.0 - 17.x (c?p nh?t liï¿½n t?c)</li>
+                    <li><strong>N?n t?ng:</strong> macOS, Linux (khï¿½ng cï¿½ Windows)</li>
+                    <li><strong>Yï¿½u c?u:</strong> Cï¿½p USB-A to Lightning (khï¿½ng h? tr? USB-C to Lightning)</li>
                 </ul>
-                <p><strong>Uu di?m:</strong> H? tr? iOS m?i hon Checkra1n trên cùng thi?t b?</p>
+                <p><strong>Uu di?m:</strong> H? tr? iOS m?i hon Checkra1n trï¿½n cï¿½ng thi?t b?</p>
             </div>
 
             <div class="tool-card">
                 <h4><i class="fas fa-rocket text-primary me-2"></i>Dopamine</h4>
-                <p><strong>Ð?c di?m:</strong></p>
+                <p><strong>ï¿½?c di?m:</strong></p>
                 <ul>
-                    <li><strong>Lo?i:</strong> Semi-untethered (jailbreak qua app, không c?n máy tính sau l?n d?u)</li>
-                    <li><strong>Exploit:</strong> Kernel exploit (không ph?i bootrom)</li>
+                    <li><strong>Lo?i:</strong> Semi-untethered (jailbreak qua app, khï¿½ng c?n mï¿½y tï¿½nh sau l?n d?u)</li>
+                    <li><strong>Exploit:</strong> Kernel exploit (khï¿½ng ph?i bootrom)</li>
                     <li><strong>Thi?t b?:</strong> iPhone XR - iPhone 14 Pro Max (A12-A16)</li>
                     <li><strong>iOS:</strong> iOS 15.0 - 16.6.1</li>
                     <li><strong>Package Manager:</strong> Sileo, Zebra</li>
                 </ul>
-                <p><strong>Luu ý:</strong> Không th? dùng d? bypass iCloud vì không có bootrom exploit</p>
+                <p><strong>Luu ï¿½:</strong> Khï¿½ng th? dï¿½ng d? bypass iCloud vï¿½ khï¿½ng cï¿½ bootrom exploit</p>
             </div>
 
             <div class="tool-card">
                 <h4><i class="fas fa-unlock text-secondary me-2"></i>Unc0ver</h4>
-                <p><strong>Ð?c di?m:</strong></p>
+                <p><strong>ï¿½?c di?m:</strong></p>
                 <ul>
                     <li><strong>Lo?i:</strong> Semi-untethered</li>
-                    <li><strong>Thi?t b?:</strong> iPhone 5s - iPhone 13 (tùy iOS)</li>
+                    <li><strong>Thi?t b?:</strong> iPhone 5s - iPhone 13 (tï¿½y iOS)</li>
                     <li><strong>iOS:</strong> iOS 11.0 - 14.8 (ph? bi?n nh?t), m?t s? version iOS 15</li>
                     <li><strong>Package Manager:</strong> Cydia</li>
                 </ul>
-                <p class="mb-0"><strong>Tình tr?ng:</strong> Ít du?c update, Dopamine là s? thay th? t?t hon cho iOS 15+</p>
+                <p class="mb-0"><strong>Tï¿½nh tr?ng:</strong> ï¿½t du?c update, Dopamine lï¿½ s? thay th? t?t hon cho iOS 15+</p>
             </div>
 
             <!-- Ph?n 5 -->
             <h2 id="huong-dan-checkra1n"><i class="fas fa-list-ol me-2"></i>5. Hu?ng D?n Jailbreak B?ng Checkra1n/WinRa1n</h2>
 
-            <p>WinRa1n là phiên b?n Checkra1n ch?y trên Windows, phù h?p cho da s? ngu?i dùng Vi?t Nam.</p>
+            <p>WinRa1n lï¿½ phiï¿½n b?n Checkra1n ch?y trï¿½n Windows, phï¿½ h?p cho da s? ngu?i dï¿½ng Vi?t Nam.</p>
 
             <h3>Chu?n b?</h3>
             <ul>
-                <li><strong>Máy tính:</strong> Windows 7/8/10/11 (WinRa1n) ho?c macOS/Linux (Checkra1n)</li>
-                <li><strong>Cáp USB:</strong> Cáp Lightning chính hãng ho?c cáp t?t</li>
+                <li><strong>Mï¿½y tï¿½nh:</strong> Windows 7/8/10/11 (WinRa1n) ho?c macOS/Linux (Checkra1n)</li>
+                <li><strong>Cï¿½p USB:</strong> Cï¿½p Lightning chï¿½nh hï¿½ng ho?c cï¿½p t?t</li>
                 <li><strong>iPhone:</strong> iPhone 5s - iPhone X, iOS 12.0 - 14.8.1</li>
-                <li><strong>iTunes:</strong> Cài t? apple.com (KHÔNG ph?i Microsoft Store)</li>
+                <li><strong>iTunes:</strong> Cï¿½i t? apple.com (KHï¿½NG ph?i Microsoft Store)</li>
                 <li><strong>Antivirus:</strong> T?t t?m th?i</li>
             </ul>
 
-            <h3>Các bu?c th?c hi?n</h3>
+            <h3>Cï¿½c bu?c th?c hi?n</h3>
 
             <div class="step-box">
                 <h5><strong>Bu?c 1:</strong> T?i WinRa1n</h5>
-                <p class="mb-0">T?i t? <a href="https://file.unlocktool.net/page/tool---android---pc/tool-winra1n21-jailbreak-iphone---ipad" target="_blank">file.unlocktool.net</a> ? Gi?i nén vào thu m?c (không có d?u ti?ng Vi?t trong du?ng d?n)</p>
+                <p class="mb-0">T?i t? <a href="https://file.unlocktool.net/page/tool---android---pc/tool-winra1n21-jailbreak-iphone---ipad" target="_blank">file.unlocktool.net</a> ? Gi?i nï¿½n vï¿½o thu m?c (khï¿½ng cï¿½ d?u ti?ng Vi?t trong du?ng d?n)</p>
             </div>
 
             <div class="step-box">
-                <h5><strong>Bu?c 2:</strong> Cài iTunes và driver</h5>
-                <p class="mb-0">T?i iTunes t? apple.com và cài d?t. iTunes s? t? cài Apple Mobile Device driver.</p>
+                <h5><strong>Bu?c 2:</strong> Cï¿½i iTunes vï¿½ driver</h5>
+                <p class="mb-0">T?i iTunes t? apple.com vï¿½ cï¿½i d?t. iTunes s? t? cï¿½i Apple Mobile Device driver.</p>
             </div>
 
             <div class="step-box">
                 <h5><strong>Bu?c 3:</strong> Ch?y WinRa1n</h5>
-                <p class="mb-0">Chu?t ph?i vào WinRa1n.exe ? Run as administrator</p>
+                <p class="mb-0">Chu?t ph?i vï¿½o WinRa1n.exe ? Run as administrator</p>
             </div>
 
             <div class="step-box">
-                <h5><strong>Bu?c 4:</strong> K?t n?i iPhone và vào DFU Mode</h5>
+                <h5><strong>Bu?c 4:</strong> K?t n?i iPhone vï¿½ vï¿½o DFU Mode</h5>
                 <ul class="mb-0">
-                    <li>K?t n?i iPhone v?i máy tính b?ng cáp USB</li>
-                    <li>WinRa1n s? hu?ng d?n vào DFU Mode</li>
-                    <li>Làm theo hu?ng d?n trên màn hình (xem ph?n DFU Mode bên du?i)</li>
+                    <li>K?t n?i iPhone v?i mï¿½y tï¿½nh b?ng cï¿½p USB</li>
+                    <li>WinRa1n s? hu?ng d?n vï¿½o DFU Mode</li>
+                    <li>Lï¿½m theo hu?ng d?n trï¿½n mï¿½n hï¿½nh (xem ph?n DFU Mode bï¿½n du?i)</li>
                 </ul>
             </div>
 
             <div class="step-box">
                 <h5><strong>Bu?c 5:</strong> Jailbreak</h5>
                 <ul class="mb-0">
-                    <li>Khi dã vào DFU Mode, WinRa1n s? t? d?ng b?t d?u jailbreak</li>
-                    <li>Màn hình iPhone s? hi?n logo Apple v?i thanh ti?n trình</li>
-                    <li>Ð?i iPhone kh?i d?ng l?i</li>
-                    <li>Th?y app Cydia trên màn hình = Jailbreak thành công!</li>
+                    <li>Khi dï¿½ vï¿½o DFU Mode, WinRa1n s? t? d?ng b?t d?u jailbreak</li>
+                    <li>Mï¿½n hï¿½nh iPhone s? hi?n logo Apple v?i thanh ti?n trï¿½nh</li>
+                    <li>ï¿½?i iPhone kh?i d?ng l?i</li>
+                    <li>Th?y app Cydia trï¿½n mï¿½n hï¿½nh = Jailbreak thï¿½nh cï¿½ng!</li>
                 </ul>
             </div>
 
             <div class="success-box">
-                <h5><i class="fas fa-check-circle me-2"></i>Thành công!</h5>
-                <p class="mb-0">Sau khi jailbreak, b?n có th? m? Cydia d? cài tweak, ho?c s? d?ng UnlockTool d? bypass iCloud.</p>
+                <h5><i class="fas fa-check-circle me-2"></i>Thï¿½nh cï¿½ng!</h5>
+                <p class="mb-0">Sau khi jailbreak, b?n cï¿½ th? m? Cydia d? cï¿½i tweak, ho?c s? d?ng UnlockTool d? bypass iCloud.</p>
             </div>
 
             <!-- Ph?n 8: DFU Mode -->
-            <h2 id="dfu-mode"><i class="fas fa-mobile-alt me-2"></i>8. Cách Vào DFU Mode Cho T?t C? iPhone</h2>
+            <h2 id="dfu-mode"><i class="fas fa-mobile-alt me-2"></i>8. Cï¿½ch Vï¿½o DFU Mode Cho T?t C? iPhone</h2>
 
-            <p>DFU (Device Firmware Update) Mode là ch? d? d?c bi?t c?n thi?t cho jailbreak b?ng Checkra1n/WinRa1n.</p>
+            <p>DFU (Device Firmware Update) Mode lï¿½ ch? d? d?c bi?t c?n thi?t cho jailbreak b?ng Checkra1n/WinRa1n.</p>
 
             <div class="dfu-guide">
-                <h4>iPhone 8, X (Face ID và Home button không co)</h4>
+                <h4>iPhone 8, X (Face ID vï¿½ Home button khï¿½ng co)</h4>
                 <ol>
-                    <li>K?t n?i iPhone v?i máy tính</li>
+                    <li>K?t n?i iPhone v?i mï¿½y tï¿½nh</li>
                     <li>Nh?n nhanh <strong>Vol Up</strong>, r?i nh?n nhanh <strong>Vol Down</strong></li>
-                    <li>Gi? nút <strong>Side (Power)</strong> d?n khi màn hình t?t den</li>
-                    <li>Ti?p t?c gi? Side, d?ng th?i gi? thêm <strong>Vol Down</strong> trong 5 giây</li>
-                    <li>Th? nút Side, ti?p t?c gi? Vol Down thêm 10 giây</li>
-                    <li>Màn hình v?n den = Ðã vào DFU Mode</li>
+                    <li>Gi? nï¿½t <strong>Side (Power)</strong> d?n khi mï¿½n hï¿½nh t?t den</li>
+                    <li>Ti?p t?c gi? Side, d?ng th?i gi? thï¿½m <strong>Vol Down</strong> trong 5 giï¿½y</li>
+                    <li>Th? nï¿½t Side, ti?p t?c gi? Vol Down thï¿½m 10 giï¿½y</li>
+                    <li>Mï¿½n hï¿½nh v?n den = ï¿½ï¿½ vï¿½o DFU Mode</li>
                 </ol>
             </div>
 
             <div class="dfu-guide">
                 <h4>iPhone 7/7 Plus</h4>
                 <ol>
-                    <li>K?t n?i iPhone v?i máy tính</li>
-                    <li>Gi? d?ng th?i <strong>Power</strong> + <strong>Vol Down</strong> trong 10 giây</li>
-                    <li>Th? nút Power, ti?p t?c gi? Vol Down thêm 5 giây</li>
-                    <li>Màn hình den = DFU Mode</li>
+                    <li>K?t n?i iPhone v?i mï¿½y tï¿½nh</li>
+                    <li>Gi? d?ng th?i <strong>Power</strong> + <strong>Vol Down</strong> trong 10 giï¿½y</li>
+                    <li>Th? nï¿½t Power, ti?p t?c gi? Vol Down thï¿½m 5 giï¿½y</li>
+                    <li>Mï¿½n hï¿½nh den = DFU Mode</li>
                 </ol>
             </div>
 
             <div class="dfu-guide">
-                <h4>iPhone 6s tr? xu?ng (có nút Home v?t lý)</h4>
+                <h4>iPhone 6s tr? xu?ng (cï¿½ nï¿½t Home v?t lï¿½)</h4>
                 <ol>
-                    <li>K?t n?i iPhone v?i máy tính</li>
-                    <li>Gi? d?ng th?i <strong>Power</strong> + <strong>Home</strong> trong 10 giây</li>
-                    <li>Th? nút Power, ti?p t?c gi? Home thêm 5 giây</li>
-                    <li>Màn hình den = DFU Mode</li>
+                    <li>K?t n?i iPhone v?i mï¿½y tï¿½nh</li>
+                    <li>Gi? d?ng th?i <strong>Power</strong> + <strong>Home</strong> trong 10 giï¿½y</li>
+                    <li>Th? nï¿½t Power, ti?p t?c gi? Home thï¿½m 5 giï¿½y</li>
+                    <li>Mï¿½n hï¿½nh den = DFU Mode</li>
                 </ol>
             </div>
 
             <div class="warning-box">
-                <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu ý DFU Mode</h5>
+                <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu ï¿½ DFU Mode</h5>
                 <ul class="mb-0">
-                    <li>N?u th?y logo Apple = Chua vào DFU, th? l?i</li>
-                    <li>N?u th?y màn hình k?t n?i iTunes = Recovery Mode, không ph?i DFU</li>
-                    <li>Timing r?t quan tr?ng, có th? ph?i th? nhi?u l?n</li>
+                    <li>N?u th?y logo Apple = Chua vï¿½o DFU, th? l?i</li>
+                    <li>N?u th?y mï¿½n hï¿½nh k?t n?i iTunes = Recovery Mode, khï¿½ng ph?i DFU</li>
+                    <li>Timing r?t quan tr?ng, cï¿½ th? ph?i th? nhi?u l?n</li>
                 </ul>
             </div>
 
@@ -566,107 +567,107 @@ $canonical_url = "https://www.unlocktool.us/articles/65-jailbreak-iphone.php";
             <h2 id="loi-thuong-gap"><i class="fas fa-exclamation-triangle me-2"></i>10. L?i Thu?ng G?p Khi Jailbreak</h2>
 
             <div class="danger-box">
-                <h5><i class="fas fa-times-circle me-2"></i>L?i: "USB Error" / Không nh?n iPhone</h5>
-                <p><strong>Nguyên nhân:</strong> Driver chua cài, cáp h?ng, c?ng USB l?i</p>
+                <h5><i class="fas fa-times-circle me-2"></i>L?i: "USB Error" / Khï¿½ng nh?n iPhone</h5>
+                <p><strong>Nguyï¿½n nhï¿½n:</strong> Driver chua cï¿½i, cï¿½p h?ng, c?ng USB l?i</p>
                 <p><strong>Kh?c ph?c:</strong></p>
                 <ul class="mb-0">
-                    <li>Cài iTunes t? apple.com (không ph?i Microsoft Store)</li>
-                    <li>Ð?i cáp USB khác (dùng cáp chính hãng)</li>
-                    <li>Ð?i c?ng USB (uu tiên USB 2.0)</li>
+                    <li>Cï¿½i iTunes t? apple.com (khï¿½ng ph?i Microsoft Store)</li>
+                    <li>ï¿½?i cï¿½p USB khï¿½c (dï¿½ng cï¿½p chï¿½nh hï¿½ng)</li>
+                    <li>ï¿½?i c?ng USB (uu tiï¿½n USB 2.0)</li>
                     <li>T?t antivirus</li>
                 </ul>
             </div>
 
             <div class="danger-box">
-                <h5><i class="fas fa-times-circle me-2"></i>L?i: Stuck ? "Booting" / Không qua du?c</h5>
-                <p><strong>Nguyên nhân:</strong> iOS không tuong thích, timing DFU sai</p>
+                <h5><i class="fas fa-times-circle me-2"></i>L?i: Stuck ? "Booting" / Khï¿½ng qua du?c</h5>
+                <p><strong>Nguyï¿½n nhï¿½n:</strong> iOS khï¿½ng tuong thï¿½ch, timing DFU sai</p>
                 <p><strong>Kh?c ph?c:</strong></p>
                 <ul class="mb-0">
-                    <li>Ki?m tra iOS có trong danh sách h? tr? không</li>
-                    <li>Th? vào DFU l?i v?i timing chính xác hon</li>
-                    <li>Th? trên máy tính khác</li>
+                    <li>Ki?m tra iOS cï¿½ trong danh sï¿½ch h? tr? khï¿½ng</li>
+                    <li>Th? vï¿½o DFU l?i v?i timing chï¿½nh xï¿½c hon</li>
+                    <li>Th? trï¿½n mï¿½y tï¿½nh khï¿½c</li>
                 </ul>
             </div>
 
             <div class="danger-box">
-                <h5><i class="fas fa-times-circle me-2"></i>L?i: iPhone 8/X "Unsupported" trên iOS 14+</h5>
-                <p><strong>Nguyên nhân:</strong> A11 trên iOS 14+ c?n t?t passcode</p>
+                <h5><i class="fas fa-times-circle me-2"></i>L?i: iPhone 8/X "Unsupported" trï¿½n iOS 14+</h5>
+                <p><strong>Nguyï¿½n nhï¿½n:</strong> A11 trï¿½n iOS 14+ c?n t?t passcode</p>
                 <p><strong>Kh?c ph?c:</strong></p>
                 <ul class="mb-0">
-                    <li>Vào Settings ? Face ID & Passcode ? Turn Passcode Off</li>
+                    <li>Vï¿½o Settings ? Face ID & Passcode ? Turn Passcode Off</li>
                     <li>Jailbreak l?i</li>
-                    <li>Sau khi jailbreak xong có th? b?t l?i passcode</li>
+                    <li>Sau khi jailbreak xong cï¿½ th? b?t l?i passcode</li>
                 </ul>
             </div>
 
             <!-- Ph?n 11: Bypass iCloud -->
             <h2 id="bypass-icloud"><i class="fas fa-unlock me-2"></i>11. Bypass iCloud Sau Khi Jailbreak</h2>
 
-            <p>M?c dích chính c?a nhi?u ngu?i jailbreak là d? bypass iCloud Activation Lock. Ðây là quy trình:</p>
+            <p>M?c dï¿½ch chï¿½nh c?a nhi?u ngu?i jailbreak lï¿½ d? bypass iCloud Activation Lock. ï¿½ï¿½y lï¿½ quy trï¿½nh:</p>
 
             <div class="info-box">
-                <h5><i class="fas fa-lightbulb me-2"></i>Quy trình Bypass iCloud</h5>
+                <h5><i class="fas fa-lightbulb me-2"></i>Quy trï¿½nh Bypass iCloud</h5>
                 <ol class="mb-0">
                     <li>Jailbreak iPhone b?ng Checkra1n/WinRa1n</li>
-                    <li>Thuê tài kho?n UnlockTool t?i <a href="https://www.unlocktool.us/">UnlockTool.us</a> (8.000d/6h)</li>
+                    <li>Thuï¿½ tï¿½i kho?n UnlockTool t?i <a href="https://www.unlocktool.us/">UnlockTool.us</a> (8.000d/6h)</li>
                     <li>M? UnlockTool ? Tab iPhone</li>
-                    <li>K?t n?i iPhone dã jailbreak</li>
+                    <li>K?t n?i iPhone dï¿½ jailbreak</li>
                     <li>Ch?n Bypass iCloud ? Click Start</li>
-                    <li>Ð?i hoàn t?t ? iPhone có th? s? d?ng</li>
+                    <li>ï¿½?i hoï¿½n t?t ? iPhone cï¿½ th? s? d?ng</li>
                 </ol>
             </div>
 
             <div class="warning-box">
-                <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu ý Bypass iCloud</h5>
+                <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu ï¿½ Bypass iCloud</h5>
                 <ul class="mb-0">
-                    <li><strong>Ch? áp d?ng:</strong> iPhone 5s - iPhone X (chip A7-A11)</li>
-                    <li><strong>iPhone XR tr? lên:</strong> Không th? bypass b?ng phuong pháp này</li>
+                    <li><strong>Ch? ï¿½p d?ng:</strong> iPhone 5s - iPhone X (chip A7-A11)</li>
+                    <li><strong>iPhone XR tr? lï¿½n:</strong> Khï¿½ng th? bypass b?ng phuong phï¿½p nï¿½y</li>
                     <li><strong>Semi-tethered:</strong> M?i l?n restart c?n jailbreak l?i</li>
-                    <li><strong>Không có sóng:</strong> Bypass checkm8 không có sóng di d?ng (ch? WiFi)</li>
+                    <li><strong>Khï¿½ng cï¿½ sï¿½ng:</strong> Bypass checkm8 khï¿½ng cï¿½ sï¿½ng di d?ng (ch? WiFi)</li>
                 </ul>
             </div>
 
             <div class="price-box">
                 <h3><i class="fas fa-unlock-alt me-2"></i>Bypass iCloud Sau Jailbreak</h3>
                 <p class="price">8.000d</p>
-                <p class="lead">/ 6 ti?ng - Thuê UnlockTool</p>
+                <p class="lead">/ 6 ti?ng - Thuï¿½ UnlockTool</p>
                 <div class="mt-4">
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg me-2 mb-2"><i class="fas fa-tools me-2"></i>Thuê UnlockTool</a>
-                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg mb-2"><i class="fas fa-headset me-2"></i>Ð?t D?ch V?</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg me-2 mb-2"><i class="fas fa-tools me-2"></i>Thuï¿½ UnlockTool</a>
+                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg mb-2"><i class="fas fa-headset me-2"></i>ï¿½?t D?ch V?</a>
                 </div>
             </div>
 
             <!-- Ph?n 12: FAQ -->
-            <h2 id="faq"><i class="fas fa-question-circle me-2"></i>12. FAQ - Câu H?i Thu?ng G?p</h2>
+            <h2 id="faq"><i class="fas fa-question-circle me-2"></i>12. FAQ - Cï¿½u H?i Thu?ng G?p</h2>
 
             <div class="faq-item">
-                <h4>Jailbreak có làm m?t d? li?u không?</h4>
-                <p>Không. Jailbreak không xóa d? li?u trên iPhone. Tuy nhiên, nên backup tru?c d? phòng tru?ng h?p x?u nh?t.</p>
+                <h4>Jailbreak cï¿½ lï¿½m m?t d? li?u khï¿½ng?</h4>
+                <p>Khï¿½ng. Jailbreak khï¿½ng xï¿½a d? li?u trï¿½n iPhone. Tuy nhiï¿½n, nï¿½n backup tru?c d? phï¿½ng tru?ng h?p x?u nh?t.</p>
             </div>
 
             <div class="faq-item">
-                <h4>Jailbreak có th? b? Apple phát hi?n không?</h4>
-                <p>Có th?. M?t s? app (banking, game) có th? detect jailbreak và t? ch?i ho?t d?ng. Dùng tweak nhu A-Bypass, Liberty Lite d? ?n jailbreak.</p>
+                <h4>Jailbreak cï¿½ th? b? Apple phï¿½t hi?n khï¿½ng?</h4>
+                <p>Cï¿½ th?. M?t s? app (banking, game) cï¿½ th? detect jailbreak vï¿½ t? ch?i ho?t d?ng. Dï¿½ng tweak nhu A-Bypass, Liberty Lite d? ?n jailbreak.</p>
             </div>
 
             <div class="faq-item">
-                <h4>Làm sao d? b? jailbreak?</h4>
-                <p>Restore iPhone qua iTunes/Finder s? xóa hoàn toàn jailbreak. Ho?c dùng Succession (tweak) d? restore mà không c?n máy tính.</p>
+                <h4>Lï¿½m sao d? b? jailbreak?</h4>
+                <p>Restore iPhone qua iTunes/Finder s? xï¿½a hoï¿½n toï¿½n jailbreak. Ho?c dï¿½ng Succession (tweak) d? restore mï¿½ khï¿½ng c?n mï¿½y tï¿½nh.</p>
             </div>
 
             <div class="faq-item">
-                <h4>iPhone 15/16 có jailbreak du?c không?</h4>
-                <p>Hi?n t?i chua. iPhone 15/16 (A16-A18) chua có exploit công khai. C?n ch? các nhà nghiên c?u b?o m?t tìm ra l? h?ng m?i.</p>
+                <h4>iPhone 15/16 cï¿½ jailbreak du?c khï¿½ng?</h4>
+                <p>Hi?n t?i chua. iPhone 15/16 (A16-A18) chua cï¿½ exploit cï¿½ng khai. C?n ch? cï¿½c nhï¿½ nghiï¿½n c?u b?o m?t tï¿½m ra l? h?ng m?i.</p>
             </div>
 
             <div class="faq-item">
-                <h4>Jailbreak có update iOS du?c không?</h4>
-                <p>Có th?, nhung không khuy?n khích OTA update. Nên restore qua iTunes/Finder. Luu ý iOS m?i có th? chua có jailbreak.</p>
+                <h4>Jailbreak cï¿½ update iOS du?c khï¿½ng?</h4>
+                <p>Cï¿½ th?, nhung khï¿½ng khuy?n khï¿½ch OTA update. Nï¿½n restore qua iTunes/Finder. Luu ï¿½ iOS m?i cï¿½ th? chua cï¿½ jailbreak.</p>
             </div>
 
             <div class="faq-item">
-                <h4>Không t? jailbreak du?c thì sao?</h4>
-                <p>Liên h? <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a> d? du?c k? thu?t viên h? tr? t? xa qua TeamViewer, ho?c mang máy d?n c?a hàng.</p>
+                <h4>Khï¿½ng t? jailbreak du?c thï¿½ sao?</h4>
+                <p>Liï¿½n h? <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a> d? du?c k? thu?t viï¿½n h? tr? t? xa qua TeamViewer, ho?c mang mï¿½y d?n c?a hï¿½ng.</p>
             </div>
 
         </div>
@@ -676,7 +677,7 @@ $canonical_url = "https://www.unlocktool.us/articles/65-jailbreak-iphone.php";
             <div class="sticky-top" style="top:20px">
                 <div class="tool-card text-center mb-4">
                     <h5><i class="fas fa-download me-2"></i>T?i WinRa1n</h5>
-                    <p class="small">Jailbreak iPhone trên Windows</p>
+                    <p class="small">Jailbreak iPhone trï¿½n Windows</p>
                     <a href="https://file.unlocktool.net/page/tool---android---pc/tool-winra1n21-jailbreak-iphone---ipad" target="_blank" class="btn btn-dark w-100 mb-3">Download WinRa1n</a>
                     <hr>
                     <h5><i class="fas fa-unlock me-2"></i>Bypass iCloud</h5>
@@ -686,7 +687,7 @@ $canonical_url = "https://www.unlocktool.us/articles/65-jailbreak-iphone.php";
 
                 <div class="card mb-4">
                     <div class="card-header bg-dark text-white">
-                        <i class="fas fa-link me-2"></i>Tài Nguyên H?u Ích
+                        <i class="fas fa-link me-2"></i>Tï¿½i Nguyï¿½n H?u ï¿½ch
                     </div>
                     <div class="card-body">
                         <ul class="list-unstyled mb-0">
@@ -702,7 +703,7 @@ $canonical_url = "https://www.unlocktool.us/articles/65-jailbreak-iphone.php";
                         <i class="fas fa-headset me-2"></i>C?n H? Tr??
                     </div>
                     <div class="card-body">
-                        <p>Không t? jailbreak du?c? K? thu?t viên s? h? tr? t? xa!</p>
+                        <p>Khï¿½ng t? jailbreak du?c? K? thu?t viï¿½n s? h? tr? t? xa!</p>
                         <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-primary w-100">Thuetaikhoan.net</a>
                     </div>
                 </div>
@@ -718,7 +719,7 @@ $canonical_url = "https://www.unlocktool.us/articles/65-jailbreak-iphone.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bài vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bï¿½i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -732,7 +733,7 @@ $canonical_url = "https://www.unlocktool.us/articles/65-jailbreak-iphone.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài vi?t liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bï¿½i vi?t liï¿½n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
@@ -767,7 +768,7 @@ $canonical_url = "https://www.unlocktool.us/articles/65-jailbreak-iphone.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Ð?i ngu k? thu?t viên chuyên nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khóa di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">ï¿½?i ngu k? thu?t viï¿½n chuyï¿½n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khï¿½a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -775,7 +776,7 @@ $canonical_url = "https://www.unlocktool.us/articles/65-jailbreak-iphone.php";
 </div>
 <footer class="bg-dark text-white py-4">
     <div class="container text-center">
-        <p class="mb-2">Bài vi?t du?c c?p nh?t: Tháng 1/2026</p>
+        <p class="mb-2">Bï¿½i vi?t du?c c?p nh?t: Thï¿½ng 1/2026</p>
         <p>&copy; 2026 <a href="https://www.unlocktool.us/" class="text-white">UnlockTool.us</a> - <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
     </div>
 </footer>

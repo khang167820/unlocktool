@@ -1,7 +1,7 @@
-<?php
-$page_title = "Cách S? D?ng UnlockTool 2026 - Hu?ng D?n T? A-Z Chi Ti?t Nh?t";
-$page_description = "Hu?ng d?n cách s? d?ng UnlockTool t? A-Z chi ti?t nh?t 2026. T? cài d?t, dang nh?p d?n s? d?ng các tính nang FRP, Mi Account, iCloud Bypass cho ngu?i m?i b?t d?u.";
-$page_keywords = "cách s? d?ng unlocktool, hu?ng d?n s? d?ng unlocktool, unlocktool tutorial, cách dùng unlocktool, unlocktool guide, unlocktool cho ngu?i m?i";
+ï»¿<?php
+$page_title = "Cï¿½ch S? D?ng UnlockTool 2026 - Hu?ng D?n T? A-Z Chi Ti?t Nh?t";
+$page_description = "Hu?ng d?n cï¿½ch s? d?ng UnlockTool t? A-Z chi ti?t nh?t 2026. T? cï¿½i d?t, dang nh?p d?n s? d?ng cï¿½c tï¿½nh nang FRP, Mi Account, iCloud Bypass cho ngu?i m?i b?t d?u.";
+$page_keywords = "cï¿½ch s? d?ng unlocktool, hu?ng d?n s? d?ng unlocktool, unlocktool tutorial, cï¿½ch dï¿½ng unlocktool, unlocktool guide, unlocktool cho ngu?i m?i";
 $canonical_url = "https://www.unlocktool.us/articles/19-cach-su-dung-unlocktool.php";
 ?>
 <!DOCTYPE html>
@@ -23,25 +23,26 @@ $canonical_url = "https://www.unlocktool.us/articles/19-cach-su-dung-unlocktool.
     
     <meta property="og:type" content="article">
     <meta property="og:title" content="<?php echo $page_title; ?>">
-    <meta property="og:description" content="<?php echo $page_description; ?>">
+    <meta property="og:description" content="<?php echo $page_description; ?>
+    <meta property="og:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
     
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "HowTo",
-        "name": "Cách s? d?ng UnlockTool",
-        "description": "Hu?ng d?n chi ti?t cách s? d?ng UnlockTool cho ngu?i m?i b?t d?u",
+        "name": "Cï¿½ch s? d?ng UnlockTool",
+        "description": "Hu?ng d?n chi ti?t cï¿½ch s? d?ng UnlockTool cho ngu?i m?i b?t d?u",
         "totalTime": "PT30M",
         "step": [
-            {"@type": "HowToStep", "position": 1, "name": "T?i UnlockTool", "text": "Download UnlockTool t? trang chính th?c"},
-            {"@type": "HowToStep", "position": 2, "name": "Cài Driver", "text": "Cài d?t driver cho hãng di?n tho?i c?n m? khóa"},
-            {"@type": "HowToStep", "position": 3, "name": "T?t Antivirus", "text": "T?t Windows Defender và ph?n m?m antivirus"},
-            {"@type": "HowToStep", "position": 4, "name": "Gi?i nén", "text": "Gi?i nén file UnlockTool dã t?i"},
+            {"@type": "HowToStep", "position": 1, "name": "T?i UnlockTool", "text": "Download UnlockTool t? trang chï¿½nh th?c"},
+            {"@type": "HowToStep", "position": 2, "name": "Cï¿½i Driver", "text": "Cï¿½i d?t driver cho hï¿½ng di?n tho?i c?n m? khï¿½a"},
+            {"@type": "HowToStep", "position": 3, "name": "T?t Antivirus", "text": "T?t Windows Defender vï¿½ ph?n m?m antivirus"},
+            {"@type": "HowToStep", "position": 4, "name": "Gi?i nï¿½n", "text": "Gi?i nï¿½n file UnlockTool dï¿½ t?i"},
             {"@type": "HowToStep", "position": 5, "name": "Ch?y Admin", "text": "Ch?y UnlockTool.exe v?i quy?n Administrator"},
-            {"@type": "HowToStep", "position": 6, "name": "Ðang nh?p", "text": "Nh?p Username/Password d? dang nh?p"},
-            {"@type": "HowToStep", "position": 7, "name": "Ch?n hãng", "text": "Ch?n tab hãng di?n tho?i (Samsung, Xiaomi...)"},
-            {"@type": "HowToStep", "position": 8, "name": "K?t n?i máy", "text": "C?m di?n tho?i vào máy tính dúng mode"},
-            {"@type": "HowToStep", "position": 9, "name": "Th?c hi?n", "text": "Ch?n tính nang c?n dùng và click Start"}
+            {"@type": "HowToStep", "position": 6, "name": "ï¿½ang nh?p", "text": "Nh?p Username/Password d? dang nh?p"},
+            {"@type": "HowToStep", "position": 7, "name": "Ch?n hï¿½ng", "text": "Ch?n tab hï¿½ng di?n tho?i (Samsung, Xiaomi...)"},
+            {"@type": "HowToStep", "position": 8, "name": "K?t n?i mï¿½y", "text": "C?m di?n tho?i vï¿½o mï¿½y tï¿½nh dï¿½ng mode"},
+            {"@type": "HowToStep", "position": 9, "name": "Th?c hi?n", "text": "Ch?n tï¿½nh nang c?n dï¿½ng vï¿½ click Start"}
         ]
     }
     </script>
@@ -51,9 +52,9 @@ $canonical_url = "https://www.unlocktool.us/articles/19-cach-su-dung-unlocktool.
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "UnlockTool có khó s? d?ng không?", "acceptedAnswer": {"@type": "Answer", "text": "UnlockTool có giao di?n don gi?n, d? s? d?ng. Ngu?i m?i cung có th? làm du?c n?u làm theo hu?ng d?n t?ng bu?c."}},
-            {"@type": "Question", "name": "C?n nh?ng gì d? s? d?ng UnlockTool?", "acceptedAnswer": {"@type": "Answer", "text": "C?n: (1) Máy tính Windows, (2) File UnlockTool, (3) Driver phù h?p, (4) Cáp USB t?t, (5) Tài kho?n UnlockTool có license."}},
-            {"@type": "Question", "name": "M?t bao lâu d? h?c s? d?ng UnlockTool?", "acceptedAnswer": {"@type": "Answer", "text": "V?i ngu?i m?i, kho?ng 30 phút - 1 gi? d?c hu?ng d?n và th?c hành là có th? s? d?ng du?c các tính nang co b?n."}}
+            {"@type": "Question", "name": "UnlockTool cï¿½ khï¿½ s? d?ng khï¿½ng?", "acceptedAnswer": {"@type": "Answer", "text": "UnlockTool cï¿½ giao di?n don gi?n, d? s? d?ng. Ngu?i m?i cung cï¿½ th? lï¿½m du?c n?u lï¿½m theo hu?ng d?n t?ng bu?c."}},
+            {"@type": "Question", "name": "C?n nh?ng gï¿½ d? s? d?ng UnlockTool?", "acceptedAnswer": {"@type": "Answer", "text": "C?n: (1) Mï¿½y tï¿½nh Windows, (2) File UnlockTool, (3) Driver phï¿½ h?p, (4) Cï¿½p USB t?t, (5) Tï¿½i kho?n UnlockTool cï¿½ license."}},
+            {"@type": "Question", "name": "M?t bao lï¿½u d? h?c s? d?ng UnlockTool?", "acceptedAnswer": {"@type": "Answer", "text": "V?i ngu?i m?i, kho?ng 30 phï¿½t - 1 gi? d?c hu?ng d?n vï¿½ th?c hï¿½nh lï¿½ cï¿½ th? s? d?ng du?c cï¿½c tï¿½nh nang co b?n."}}
         ]
     }
     </script>
@@ -150,7 +151,7 @@ $canonical_url = "https://www.unlocktool.us/articles/19-cach-su-dung-unlocktool.
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? khóa di?n tho?i",
+        "name": "D?ch v? m? khï¿½a di?n tho?i",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -167,7 +168,7 @@ $canonical_url = "https://www.unlocktool.us/articles/19-cach-su-dung-unlocktool.
 <header class="header">
     <div class="container">
         <div style="font-size:3rem;margin-bottom:20px"><i class="fas fa-book-open"></i></div>
-        <h1>Cách S? D?ng UnlockTool 2026</h1>
+        <h1>Cï¿½ch S? D?ng UnlockTool 2026</h1>
         <p>Hu?ng d?n t? A-Z chi ti?t nh?t cho ngu?i m?i b?t d?u</p>
     </div>
 </header>
@@ -177,8 +178,8 @@ $canonical_url = "https://www.unlocktool.us/articles/19-cach-su-dung-unlocktool.
         
         <!-- Guide Hero -->
         <div class="guide-hero">
-            <h3><i class="fas fa-graduation-cap"></i> H?c UnlockTool trong 30 phút</h3>
-            <p>T? download, cài d?t d?n s? d?ng thành th?o - Hu?ng d?n dành cho ngu?i m?i</p>
+            <h3><i class="fas fa-graduation-cap"></i> H?c UnlockTool trong 30 phï¿½t</h3>
+            <p>T? download, cï¿½i d?t d?n s? d?ng thï¿½nh th?o - Hu?ng d?n dï¿½nh cho ngu?i m?i</p>
         </div>
         
         <!-- TOC -->
@@ -187,13 +188,13 @@ $canonical_url = "https://www.unlocktool.us/articles/19-cach-su-dung-unlocktool.
             <ul>
                 <li><a href="#tong-quan">1. T?ng quan v? UnlockTool</a></li>
                 <li><a href="#chuan-bi">2. Chu?n b? tru?c khi s? d?ng</a></li>
-                <li><a href="#tai-cai-dat">3. T?i và cài d?t UnlockTool</a></li>
-                <li><a href="#dang-nhap">4. Ðang nh?p UnlockTool</a></li>
+                <li><a href="#tai-cai-dat">3. T?i vï¿½ cï¿½i d?t UnlockTool</a></li>
+                <li><a href="#dang-nhap">4. ï¿½ang nh?p UnlockTool</a></li>
                 <li><a href="#giao-dien">5. Gi?i thi?u giao di?n</a></li>
                 <li><a href="#samsung">6. S? d?ng UnlockTool cho Samsung</a></li>
                 <li><a href="#xiaomi">7. S? d?ng UnlockTool cho Xiaomi</a></li>
                 <li><a href="#iphone">8. S? d?ng UnlockTool cho iPhone</a></li>
-                <li><a href="#luu-y">9. Luu ý quan tr?ng</a></li>
+                <li><a href="#luu-y">9. Luu ï¿½ quan tr?ng</a></li>
                 <li><a href="#faq">10. FAQ</a></li>
             </ul>
         </div>
@@ -201,30 +202,30 @@ $canonical_url = "https://www.unlocktool.us/articles/19-cach-su-dung-unlocktool.
         <!-- Section 1 -->
         <h2 id="tong-quan">1. T?ng quan v? UnlockTool</h2>
         
-        <p><strong>UnlockTool</strong> là ph?n m?m m? khóa di?n tho?i da nang, h? tr? nhi?u hãng và nhi?u tính nang. Tru?c khi b?t d?u s? d?ng, hãy hi?u nh?ng di?u co b?n sau:</p>
+        <p><strong>UnlockTool</strong> lï¿½ ph?n m?m m? khï¿½a di?n tho?i da nang, h? tr? nhi?u hï¿½ng vï¿½ nhi?u tï¿½nh nang. Tru?c khi b?t d?u s? d?ng, hï¿½y hi?u nh?ng di?u co b?n sau:</p>
         
-        <h3>1.1. UnlockTool làm du?c gì?</h3>
+        <h3>1.1. UnlockTool lï¿½m du?c gï¿½?</h3>
         
         <div class="interface-grid">
             <div class="interface-card">
                 <i class="fas fa-unlock"></i>
                 <h5>FRP Bypass</h5>
-                <p>Xóa khóa Google sau reset</p>
+                <p>Xï¿½a khï¿½a Google sau reset</p>
             </div>
             <div class="interface-card">
                 <i class="fas fa-user-slash"></i>
                 <h5>Account Remove</h5>
-                <p>Xóa Mi Account, Samsung Account</p>
+                <p>Xï¿½a Mi Account, Samsung Account</p>
             </div>
             <div class="interface-card">
                 <i class="fab fa-apple"></i>
                 <h5>iCloud Bypass</h5>
-                <p>Bypass iCloud trên iPhone checkm8</p>
+                <p>Bypass iCloud trï¿½n iPhone checkm8</p>
             </div>
             <div class="interface-card">
                 <i class="fas fa-lock-open"></i>
                 <h5>Screen Unlock</h5>
-                <p>Xóa m?t kh?u màn hình</p>
+                <p>Xï¿½a m?t kh?u mï¿½n hï¿½nh</p>
             </div>
             <div class="interface-card">
                 <i class="fas fa-sim-card"></i>
@@ -238,29 +239,29 @@ $canonical_url = "https://www.unlocktool.us/articles/19-cach-su-dung-unlocktool.
             </div>
         </div>
         
-        <h3>1.2. Các hãng du?c h? tr?</h3>
+        <h3>1.2. Cï¿½c hï¿½ng du?c h? tr?</h3>
         
         <ul>
             <li><strong>Samsung:</strong> Galaxy S, A, M, Tab, Z series</li>
             <li><strong>Xiaomi:</strong> Xiaomi, Redmi, POCO</li>
             <li><strong>Apple:</strong> iPhone, iPad (checkm8 devices)</li>
-            <li><strong>Oppo/Realme:</strong> H?u h?t các model</li>
-            <li><strong>Vivo:</strong> H?u h?t các model</li>
+            <li><strong>Oppo/Realme:</strong> H?u h?t cï¿½c model</li>
+            <li><strong>Vivo:</strong> H?u h?t cï¿½c model</li>
             <li><strong>Huawei/Honor:</strong> M?t s? model</li>
         </ul>
         
         <!-- Section 2 -->
         <h2 id="chuan-bi">2. Chu?n b? tru?c khi s? d?ng</h2>
         
-        <h3>2.1. Yêu c?u h? th?ng</h3>
+        <h3>2.1. Yï¿½u c?u h? th?ng</h3>
         
         <table>
             <tr>
-                <th>Thành ph?n</th>
-                <th>Yêu c?u</th>
+                <th>Thï¿½nh ph?n</th>
+                <th>Yï¿½u c?u</th>
             </tr>
             <tr>
-                <td>H? di?u hành</td>
+                <td>H? di?u hï¿½nh</td>
                 <td>Windows 7/8/10/11</td>
             </tr>
             <tr>
@@ -284,109 +285,109 @@ $canonical_url = "https://www.unlocktool.us/articles/19-cach-su-dung-unlocktool.
         <h3>2.2. Checklist chu?n b?</h3>
         
         <ul class="checklist">
-            <li>Máy tính Windows dã k?t n?i internet</li>
-            <li>Cáp USB ch?t lu?ng t?t (không dùng cáp r? ti?n)</li>
-            <li>File UnlockTool dã t?i</li>
-            <li>Driver phù h?p v?i hãng di?n tho?i</li>
-            <li>Tài kho?n UnlockTool (mua ho?c thuê)</li>
-            <li>Ði?n tho?i c?n m? khóa (pin > 50%)</li>
+            <li>Mï¿½y tï¿½nh Windows dï¿½ k?t n?i internet</li>
+            <li>Cï¿½p USB ch?t lu?ng t?t (khï¿½ng dï¿½ng cï¿½p r? ti?n)</li>
+            <li>File UnlockTool dï¿½ t?i</li>
+            <li>Driver phï¿½ h?p v?i hï¿½ng di?n tho?i</li>
+            <li>Tï¿½i kho?n UnlockTool (mua ho?c thuï¿½)</li>
+            <li>ï¿½i?n tho?i c?n m? khï¿½a (pin > 50%)</li>
         </ul>
         
         <!-- Section 3 -->
-        <h2 id="tai-cai-dat">3. T?i và cài d?t UnlockTool</h2>
+        <h2 id="tai-cai-dat">3. T?i vï¿½ cï¿½i d?t UnlockTool</h2>
         
         <div class="step-container">
             <div class="step-box">
-                <div class="step-title">T?i UnlockTool t? trang chính th?c</div>
-                <p class="mb-0">Truy c?p <a href="https://file.unlocktool.net/page/index.php" target="_blank">file.unlocktool.net/page/index.php</a> và t?i phiên b?n m?i nh?t. Ch?n link Mega, Google Drive ho?c MediaFire.</p>
+                <div class="step-title">T?i UnlockTool t? trang chï¿½nh th?c</div>
+                <p class="mb-0">Truy c?p <a href="https://file.unlocktool.net/page/index.php" target="_blank">file.unlocktool.net/page/index.php</a> vï¿½ t?i phiï¿½n b?n m?i nh?t. Ch?n link Mega, Google Drive ho?c MediaFire.</p>
             </div>
             
             <div class="step-box">
-                <div class="step-title">T?i Driver phù h?p</div>
-                <p class="mb-0">Truy c?p <a href="https://file.unlocktool.net/page/all-driver" target="_blank">file.unlocktool.net/page/all-driver</a> và t?i driver cho hãng di?n tho?i c?n x? lý (Samsung, Qualcomm 9008, MTK...)</p>
+                <div class="step-title">T?i Driver phï¿½ h?p</div>
+                <p class="mb-0">Truy c?p <a href="https://file.unlocktool.net/page/all-driver" target="_blank">file.unlocktool.net/page/all-driver</a> vï¿½ t?i driver cho hï¿½ng di?n tho?i c?n x? lï¿½ (Samsung, Qualcomm 9008, MTK...)</p>
             </div>
             
             <div class="step-box">
-                <div class="step-title">T?t Windows Defender và Antivirus</div>
-                <p class="mb-0">Vào Windows Security ? Virus & threat protection ? Manage settings ? T?t Real-time protection. Làm tuong t? v?i các ph?n m?m antivirus khác.</p>
+                <div class="step-title">T?t Windows Defender vï¿½ Antivirus</div>
+                <p class="mb-0">Vï¿½o Windows Security ? Virus & threat protection ? Manage settings ? T?t Real-time protection. Lï¿½m tuong t? v?i cï¿½c ph?n m?m antivirus khï¿½c.</p>
             </div>
             
             <div class="step-box">
-                <div class="step-title">Gi?i nén file UnlockTool</div>
-                <p class="mb-0">Click chu?t ph?i vào file .zip ho?c .rar ? Extract All. N?u có password, ki?m tra trang download d? l?y.</p>
+                <div class="step-title">Gi?i nï¿½n file UnlockTool</div>
+                <p class="mb-0">Click chu?t ph?i vï¿½o file .zip ho?c .rar ? Extract All. N?u cï¿½ password, ki?m tra trang download d? l?y.</p>
             </div>
             
             <div class="step-box">
-                <div class="step-title">Cài d?t Driver</div>
-                <p class="mb-0">Ch?y file cài d?t driver dã t?i và làm theo hu?ng d?n. Kh?i d?ng l?i máy tính sau khi cài xong.</p>
+                <div class="step-title">Cï¿½i d?t Driver</div>
+                <p class="mb-0">Ch?y file cï¿½i d?t driver dï¿½ t?i vï¿½ lï¿½m theo hu?ng d?n. Kh?i d?ng l?i mï¿½y tï¿½nh sau khi cï¿½i xong.</p>
             </div>
         </div>
         
         <div class="warning-box">
-            <h4><i class="fas fa-exclamation-triangle"></i> Luu ý quan tr?ng</h4>
+            <h4><i class="fas fa-exclamation-triangle"></i> Luu ï¿½ quan tr?ng</h4>
             <ul class="mb-0">
-                <li>Ph?i t?t antivirus tru?c khi gi?i nén và ch?y UnlockTool</li>
-                <li>Thêm thu m?c UnlockTool vào danh sách lo?i tr? c?a antivirus</li>
-                <li>Không d?i tên thu m?c ho?c file UnlockTool</li>
+                <li>Ph?i t?t antivirus tru?c khi gi?i nï¿½n vï¿½ ch?y UnlockTool</li>
+                <li>Thï¿½m thu m?c UnlockTool vï¿½o danh sï¿½ch lo?i tr? c?a antivirus</li>
+                <li>Khï¿½ng d?i tï¿½n thu m?c ho?c file UnlockTool</li>
             </ul>
         </div>
         
         <!-- Section 4 -->
-        <h2 id="dang-nhap">4. Ðang nh?p UnlockTool</h2>
+        <h2 id="dang-nhap">4. ï¿½ang nh?p UnlockTool</h2>
         
         <div class="step-container">
             <div class="step-box">
                 <div class="step-title">Ch?y UnlockTool v?i quy?n Administrator</div>
-                <p class="mb-0">Click chu?t ph?i vào <strong>UnlockTool.exe</strong> ? Ch?n <strong>Run as administrator</strong>. Ðây là bu?c b?t bu?c!</p>
+                <p class="mb-0">Click chu?t ph?i vï¿½o <strong>UnlockTool.exe</strong> ? Ch?n <strong>Run as administrator</strong>. ï¿½ï¿½y lï¿½ bu?c b?t bu?c!</p>
             </div>
             
             <div class="step-box">
-                <div class="step-title">Nh?p thông tin dang nh?p</div>
-                <p class="mb-0">Nh?p <strong>Username</strong> và <strong>Password</strong> c?a tài kho?n UnlockTool. N?u chua có, <a href="https://www.unlocktool.us/" target="_blank">thuê tài kho?n t? 8K</a>.</p>
+                <div class="step-title">Nh?p thï¿½ng tin dang nh?p</div>
+                <p class="mb-0">Nh?p <strong>Username</strong> vï¿½ <strong>Password</strong> c?a tï¿½i kho?n UnlockTool. N?u chua cï¿½, <a href="https://www.unlocktool.us/" target="_blank">thuï¿½ tï¿½i kho?n t? 8K</a>.</p>
             </div>
             
             <div class="step-box">
                 <div class="step-title">Click Login</div>
-                <p class="mb-0">Ch? vài giây d? ph?n m?m xác th?c tài kho?n v?i server. N?u thành công, giao di?n chính s? hi?n ra.</p>
+                <p class="mb-0">Ch? vï¿½i giï¿½y d? ph?n m?m xï¿½c th?c tï¿½i kho?n v?i server. N?u thï¿½nh cï¿½ng, giao di?n chï¿½nh s? hi?n ra.</p>
             </div>
         </div>
         
         <div class="tip-box">
-            <h4><i class="fas fa-lightbulb"></i> Không có tài kho?n?</h4>
-            <p class="mb-0">B?n có th? thuê tài kho?n UnlockTool v?i giá ch? t? 8.000d cho 6 ti?ng t?i <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a>. H? th?ng t? d?ng 24/7, nh?n tài kho?n ngay sau thanh toán.</p>
+            <h4><i class="fas fa-lightbulb"></i> Khï¿½ng cï¿½ tï¿½i kho?n?</h4>
+            <p class="mb-0">B?n cï¿½ th? thuï¿½ tï¿½i kho?n UnlockTool v?i giï¿½ ch? t? 8.000d cho 6 ti?ng t?i <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a>. H? th?ng t? d?ng 24/7, nh?n tï¿½i kho?n ngay sau thanh toï¿½n.</p>
         </div>
         
         <!-- Section 5 -->
         <h2 id="giao-dien">5. Gi?i thi?u giao di?n UnlockTool</h2>
         
-        <p>Sau khi dang nh?p, b?n s? th?y giao di?n chính c?a UnlockTool v?i các ph?n:</p>
+        <p>Sau khi dang nh?p, b?n s? th?y giao di?n chï¿½nh c?a UnlockTool v?i cï¿½c ph?n:</p>
         
-        <h3>5.1. Thanh Menu chính</h3>
+        <h3>5.1. Thanh Menu chï¿½nh</h3>
         <ul>
-            <li><strong>Samsung:</strong> T?t c? tính nang cho Samsung</li>
-            <li><strong>Xiaomi:</strong> Tính nang cho Xiaomi, Redmi, POCO</li>
-            <li><strong>Oppo/Realme:</strong> Tính nang cho Oppo, Realme</li>
-            <li><strong>Vivo:</strong> Tính nang cho Vivo</li>
+            <li><strong>Samsung:</strong> T?t c? tï¿½nh nang cho Samsung</li>
+            <li><strong>Xiaomi:</strong> Tï¿½nh nang cho Xiaomi, Redmi, POCO</li>
+            <li><strong>Oppo/Realme:</strong> Tï¿½nh nang cho Oppo, Realme</li>
+            <li><strong>Vivo:</strong> Tï¿½nh nang cho Vivo</li>
             <li><strong>Apple:</strong> iCloud bypass, Hello bypass cho iPhone/iPad</li>
-            <li><strong>MTK:</strong> Tính nang cho di?n tho?i chip MediaTek</li>
-            <li><strong>Qualcomm:</strong> Tính nang cho di?n tho?i chip Qualcomm</li>
+            <li><strong>MTK:</strong> Tï¿½nh nang cho di?n tho?i chip MediaTek</li>
+            <li><strong>Qualcomm:</strong> Tï¿½nh nang cho di?n tho?i chip Qualcomm</li>
         </ul>
         
-        <h3>5.2. Khu v?c thông tin</h3>
+        <h3>5.2. Khu v?c thï¿½ng tin</h3>
         <ul>
-            <li><strong>Device Info:</strong> Hi?n th? thông tin di?n tho?i dã k?t n?i</li>
-            <li><strong>Log:</strong> Hi?n th? ti?n trình và k?t qu? thao tác</li>
-            <li><strong>Credits:</strong> S? credit còn l?i (n?u có)</li>
+            <li><strong>Device Info:</strong> Hi?n th? thï¿½ng tin di?n tho?i dï¿½ k?t n?i</li>
+            <li><strong>Log:</strong> Hi?n th? ti?n trï¿½nh vï¿½ k?t qu? thao tï¿½c</li>
+            <li><strong>Credits:</strong> S? credit cï¿½n l?i (n?u cï¿½)</li>
         </ul>
         
-        <h3>5.3. Các nút ch?c nang</h3>
-        <p>M?i tab s? có các nút ch?c nang khác nhau nhu:</p>
+        <h3>5.3. Cï¿½c nï¿½t ch?c nang</h3>
+        <p>M?i tab s? cï¿½ cï¿½c nï¿½t ch?c nang khï¿½c nhau nhu:</p>
         <ul>
-            <li><strong>FRP Remove:</strong> Xóa khóa Google FRP</li>
-            <li><strong>Account Remove:</strong> Xóa tài kho?n (Mi Account, Samsung Account...)</li>
-            <li><strong>Pattern/Password Remove:</strong> Xóa m?t kh?u màn hình</li>
-            <li><strong>Factory Reset:</strong> Reset máy v? m?c d?nh</li>
-            <li><strong>Read Info:</strong> Ð?c thông tin máy</li>
+            <li><strong>FRP Remove:</strong> Xï¿½a khï¿½a Google FRP</li>
+            <li><strong>Account Remove:</strong> Xï¿½a tï¿½i kho?n (Mi Account, Samsung Account...)</li>
+            <li><strong>Pattern/Password Remove:</strong> Xï¿½a m?t kh?u mï¿½n hï¿½nh</li>
+            <li><strong>Factory Reset:</strong> Reset mï¿½y v? m?c d?nh</li>
+            <li><strong>Read Info:</strong> ï¿½?c thï¿½ng tin mï¿½y</li>
         </ul>
         
         <!-- Section 6 -->
@@ -394,36 +395,36 @@ $canonical_url = "https://www.unlocktool.us/articles/19-cach-su-dung-unlocktool.
         
         <h3>6.1. Chu?n b?</h3>
         <ul>
-            <li>Cài Samsung USB Driver</li>
-            <li>Bi?t cách vào Download Mode trên Samsung</li>
+            <li>Cï¿½i Samsung USB Driver</li>
+            <li>Bi?t cï¿½ch vï¿½o Download Mode trï¿½n Samsung</li>
         </ul>
         
         <h3>6.2. FRP Bypass Samsung - T?ng bu?c</h3>
         
         <div class="step-container">
             <div class="step-box">
-                <div class="step-title">Ðua Samsung vào Download Mode</div>
-                <p class="mb-0">T?t ngu?n ? Gi? Vol Down + Vol Up khi c?m cáp USB vào máy tính ? Nh?n Vol Up d? vào Download Mode</p>
+                <div class="step-title">ï¿½ua Samsung vï¿½o Download Mode</div>
+                <p class="mb-0">T?t ngu?n ? Gi? Vol Down + Vol Up khi c?m cï¿½p USB vï¿½o mï¿½y tï¿½nh ? Nh?n Vol Up d? vï¿½o Download Mode</p>
             </div>
             
             <div class="step-box">
                 <div class="step-title">M? UnlockTool ? Tab Samsung</div>
-                <p class="mb-0">Click vào tab <strong>Samsung</strong> trên thanh menu</p>
+                <p class="mb-0">Click vï¿½o tab <strong>Samsung</strong> trï¿½n thanh menu</p>
             </div>
             
             <div class="step-box">
-                <div class="step-title">Ch? nh?n máy</div>
-                <p class="mb-0">Ph?n m?m s? t? d?ng nh?n máy và hi?n th? thông tin (Model, Android version...)</p>
+                <div class="step-title">Ch? nh?n mï¿½y</div>
+                <p class="mb-0">Ph?n m?m s? t? d?ng nh?n mï¿½y vï¿½ hi?n th? thï¿½ng tin (Model, Android version...)</p>
             </div>
             
             <div class="step-box">
                 <div class="step-title">Click FRP Remove</div>
-                <p class="mb-0">Ch?n nút <strong>FRP Remove</strong> và ch? quá trình hoàn t?t (2-10 phút)</p>
+                <p class="mb-0">Ch?n nï¿½t <strong>FRP Remove</strong> vï¿½ ch? quï¿½ trï¿½nh hoï¿½n t?t (2-10 phï¿½t)</p>
             </div>
             
             <div class="step-box">
-                <div class="step-title">Hoàn t?t</div>
-                <p class="mb-0">Máy s? t? kh?i d?ng l?i. FRP dã du?c xóa thành công!</p>
+                <div class="step-title">Hoï¿½n t?t</div>
+                <p class="mb-0">Mï¿½y s? t? kh?i d?ng l?i. FRP dï¿½ du?c xï¿½a thï¿½nh cï¿½ng!</p>
             </div>
         </div>
         
@@ -432,22 +433,22 @@ $canonical_url = "https://www.unlocktool.us/articles/19-cach-su-dung-unlocktool.
         
         <h3>7.1. Chu?n b?</h3>
         <ul>
-            <li>Xác d?nh chip c?a Xiaomi (Qualcomm hay MediaTek)</li>
-            <li>Cài driver phù h?p (Qualcomm 9008 ho?c MTK)</li>
-            <li>Bi?t cách vào EDL Mode ho?c MTK Mode</li>
+            <li>Xï¿½c d?nh chip c?a Xiaomi (Qualcomm hay MediaTek)</li>
+            <li>Cï¿½i driver phï¿½ h?p (Qualcomm 9008 ho?c MTK)</li>
+            <li>Bi?t cï¿½ch vï¿½o EDL Mode ho?c MTK Mode</li>
         </ul>
         
         <h3>7.2. Mi Account Remove - T?ng bu?c</h3>
         
         <div class="step-container">
             <div class="step-box">
-                <div class="step-title">Ðua Xiaomi vào EDL Mode (9008)</div>
-                <p class="mb-0">S? d?ng Test Point ho?c ADB command d? vào EDL Mode</p>
+                <div class="step-title">ï¿½ua Xiaomi vï¿½o EDL Mode (9008)</div>
+                <p class="mb-0">S? d?ng Test Point ho?c ADB command d? vï¿½o EDL Mode</p>
             </div>
             
             <div class="step-box">
                 <div class="step-title">M? UnlockTool ? Tab Xiaomi</div>
-                <p class="mb-0">Click vào tab <strong>Xiaomi</strong></p>
+                <p class="mb-0">Click vï¿½o tab <strong>Xiaomi</strong></p>
             </div>
             
             <div class="step-box">
@@ -457,14 +458,14 @@ $canonical_url = "https://www.unlocktool.us/articles/19-cach-su-dung-unlocktool.
             
             <div class="step-box">
                 <div class="step-title">Click Mi Account Remove</div>
-                <p class="mb-0">Ch? 5-15 phút d? hoàn t?t</p>
+                <p class="mb-0">Ch? 5-15 phï¿½t d? hoï¿½n t?t</p>
             </div>
         </div>
         
         <!-- Section 8 -->
         <h2 id="iphone">8. S? d?ng UnlockTool cho iPhone</h2>
         
-        <p>UnlockTool h? tr? bypass iCloud trên các thi?t b? iPhone checkm8 (iPhone 5S - iPhone X).</p>
+        <p>UnlockTool h? tr? bypass iCloud trï¿½n cï¿½c thi?t b? iPhone checkm8 (iPhone 5S - iPhone X).</p>
         
         <h3>8.1. Thi?t b? du?c h? tr?</h3>
         <ul>
@@ -480,70 +481,70 @@ $canonical_url = "https://www.unlocktool.us/articles/19-cach-su-dung-unlocktool.
         
         <div class="step-container">
             <div class="step-box">
-                <div class="step-title">Cài iTunes ho?c Apple Driver</div>
-                <p class="mb-0">Cài iTunes t? Apple website ho?c driver riêng</p>
+                <div class="step-title">Cï¿½i iTunes ho?c Apple Driver</div>
+                <p class="mb-0">Cï¿½i iTunes t? Apple website ho?c driver riï¿½ng</p>
             </div>
             
             <div class="step-box">
-                <div class="step-title">Ðua iPhone vào DFU Mode</div>
-                <p class="mb-0">Tùy model s? có cách khác nhau, xem hu?ng d?n trong UnlockTool</p>
+                <div class="step-title">ï¿½ua iPhone vï¿½o DFU Mode</div>
+                <p class="mb-0">Tï¿½y model s? cï¿½ cï¿½ch khï¿½c nhau, xem hu?ng d?n trong UnlockTool</p>
             </div>
             
             <div class="step-box">
                 <div class="step-title">M? UnlockTool ? Tab Apple</div>
-                <p class="mb-0">Ch? nh?n máy trong DFU Mode</p>
+                <p class="mb-0">Ch? nh?n mï¿½y trong DFU Mode</p>
             </div>
             
             <div class="step-box">
-                <div class="step-title">Ch?n tính nang và th?c hi?n</div>
-                <p class="mb-0">Ch?n Hello Bypass ho?c iCloud Bypass tùy nhu c?u</p>
+                <div class="step-title">Ch?n tï¿½nh nang vï¿½ th?c hi?n</div>
+                <p class="mb-0">Ch?n Hello Bypass ho?c iCloud Bypass tï¿½y nhu c?u</p>
             </div>
         </div>
         
         <div class="info-box">
-            <h4><i class="fas fa-info-circle"></i> Luu ý v? iPhone</h4>
+            <h4><i class="fas fa-info-circle"></i> Luu ï¿½ v? iPhone</h4>
             <ul class="mb-0">
                 <li>Ch? h? tr? thi?t b? checkm8 (iPhone X tr? xu?ng)</li>
-                <li>iPhone 11 tr? lên hi?n không h? tr? bypass iCloud</li>
+                <li>iPhone 11 tr? lï¿½n hi?n khï¿½ng h? tr? bypass iCloud</li>
                 <li>C?n t?i file Ramdisk t? trang download</li>
             </ul>
         </div>
         
         <!-- Section 9 -->
-        <h2 id="luu-y">9. Luu ý quan tr?ng khi s? d?ng UnlockTool</h2>
+        <h2 id="luu-y">9. Luu ï¿½ quan tr?ng khi s? d?ng UnlockTool</h2>
         
-        <h3>9.1. Nh?ng di?u NÊN làm</h3>
+        <h3>9.1. Nh?ng di?u Nï¿½N lï¿½m</h3>
         <ul>
-            <li>Luôn ch?y UnlockTool v?i quy?n Administrator</li>
-            <li>S? d?ng cáp USB ch?t lu?ng t?t</li>
-            <li>Cài dúng driver cho t?ng hãng</li>
-            <li>Ð?m b?o pin di?n tho?i trên 50%</li>
-            <li>Ð?c k? hu?ng d?n tru?c khi th?c hi?n</li>
-            <li>Backup d? li?u quan tr?ng tru?c khi x? lý</li>
+            <li>Luï¿½n ch?y UnlockTool v?i quy?n Administrator</li>
+            <li>S? d?ng cï¿½p USB ch?t lu?ng t?t</li>
+            <li>Cï¿½i dï¿½ng driver cho t?ng hï¿½ng</li>
+            <li>ï¿½?m b?o pin di?n tho?i trï¿½n 50%</li>
+            <li>ï¿½?c k? hu?ng d?n tru?c khi th?c hi?n</li>
+            <li>Backup d? li?u quan tr?ng tru?c khi x? lï¿½</li>
         </ul>
         
-        <h3>9.2. Nh?ng di?u KHÔNG NÊN làm</h3>
+        <h3>9.2. Nh?ng di?u KHï¿½NG Nï¿½N lï¿½m</h3>
         <ul>
-            <li>Không rút cáp USB khi dang x? lý</li>
-            <li>Không t?t máy tính ho?c UnlockTool gi?a ch?ng</li>
-            <li>Không s? d?ng nhi?u tài kho?n cùng lúc trên 1 PC</li>
-            <li>Không share tài kho?n cho ngu?i khác</li>
+            <li>Khï¿½ng rï¿½t cï¿½p USB khi dang x? lï¿½</li>
+            <li>Khï¿½ng t?t mï¿½y tï¿½nh ho?c UnlockTool gi?a ch?ng</li>
+            <li>Khï¿½ng s? d?ng nhi?u tï¿½i kho?n cï¿½ng lï¿½c trï¿½n 1 PC</li>
+            <li>Khï¿½ng share tï¿½i kho?n cho ngu?i khï¿½c</li>
         </ul>
         
         <div class="danger-box">
-            <h4><i class="fas fa-skull-crossbones"></i> C?nh báo</h4>
-            <p class="mb-0">Ng?t k?t n?i ho?c t?t máy khi dang x? lý có th? gây brick di?n tho?i, không th? khôi ph?c. Hãy kiên nh?n ch? d?i!</p>
+            <h4><i class="fas fa-skull-crossbones"></i> C?nh bï¿½o</h4>
+            <p class="mb-0">Ng?t k?t n?i ho?c t?t mï¿½y khi dang x? lï¿½ cï¿½ th? gï¿½y brick di?n tho?i, khï¿½ng th? khï¿½i ph?c. Hï¿½y kiï¿½n nh?n ch? d?i!</p>
         </div>
         
         <!-- Section 10: FAQ -->
-        <h2 id="faq">10. FAQ - Câu h?i thu?ng g?p</h2>
+        <h2 id="faq">10. FAQ - Cï¿½u h?i thu?ng g?p</h2>
         
         <div class="faq-item">
             <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                <span><i class="fas fa-question-circle"></i> UnlockTool có khó s? d?ng không?</span>
+                <span><i class="fas fa-question-circle"></i> UnlockTool cï¿½ khï¿½ s? d?ng khï¿½ng?</span>
             </div>
             <div class="faq-answer">
-                <p>Không khó n?u b?n làm theo hu?ng d?n t?ng bu?c. Giao di?n UnlockTool don gi?n, các nút ch?c nang rõ ràng. Ngu?i m?i cung có th? s? d?ng du?c sau 30 phút làm quen.</p>
+                <p>Khï¿½ng khï¿½ n?u b?n lï¿½m theo hu?ng d?n t?ng bu?c. Giao di?n UnlockTool don gi?n, cï¿½c nï¿½t ch?c nang rï¿½ rï¿½ng. Ngu?i m?i cung cï¿½ th? s? d?ng du?c sau 30 phï¿½t lï¿½m quen.</p>
             </div>
         </div>
         
@@ -552,44 +553,44 @@ $canonical_url = "https://www.unlocktool.us/articles/19-cach-su-dung-unlocktool.
                 <span><i class="fas fa-question-circle"></i> L?i "Login Failed" khi dang nh?p?</span>
             </div>
             <div class="faq-answer">
-                <p>Ki?m tra: (1) Username/Password dã dúng chua, (2) K?t n?i internet có ?n d?nh không, (3) Tài kho?n còn h?n s? d?ng không, (4) Có ai dang dang nh?p tài kho?n này ? máy khác không.</p>
+                <p>Ki?m tra: (1) Username/Password dï¿½ dï¿½ng chua, (2) K?t n?i internet cï¿½ ?n d?nh khï¿½ng, (3) Tï¿½i kho?n cï¿½n h?n s? d?ng khï¿½ng, (4) Cï¿½ ai dang dang nh?p tï¿½i kho?n nï¿½y ? mï¿½y khï¿½c khï¿½ng.</p>
             </div>
         </div>
         
         <div class="faq-item">
             <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                <span><i class="fas fa-question-circle"></i> UnlockTool không nh?n di?n tho?i?</span>
+                <span><i class="fas fa-question-circle"></i> UnlockTool khï¿½ng nh?n di?n tho?i?</span>
             </div>
             <div class="faq-answer">
-                <p>Ki?m tra: (1) Ðã cài driver dúng chua, (2) Ði?n tho?i dã vào dúng mode chua, (3) Th? d?i cáp USB khác, (4) Th? c?ng USB khác trên mainboard, (5) Kh?i d?ng l?i máy tính và th? l?i.</p>
+                <p>Ki?m tra: (1) ï¿½ï¿½ cï¿½i driver dï¿½ng chua, (2) ï¿½i?n tho?i dï¿½ vï¿½o dï¿½ng mode chua, (3) Th? d?i cï¿½p USB khï¿½c, (4) Th? c?ng USB khï¿½c trï¿½n mainboard, (5) Kh?i d?ng l?i mï¿½y tï¿½nh vï¿½ th? l?i.</p>
             </div>
         </div>
         
         <div class="faq-item">
             <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                <span><i class="fas fa-question-circle"></i> Th?i gian thuê tài kho?n tính t? lúc nào?</span>
+                <span><i class="fas fa-question-circle"></i> Th?i gian thuï¿½ tï¿½i kho?n tï¿½nh t? lï¿½c nï¿½o?</span>
             </div>
             <div class="faq-answer">
-                <p>Th?i gian b?t d?u tính t? lúc b?n nh?n du?c thông tin tài kho?n (sau khi thanh toán thành công), không ph?i t? lúc dang nh?p. Vì v?y, nên chu?n b? s?n m?i th? tru?c khi thuê.</p>
+                <p>Th?i gian b?t d?u tï¿½nh t? lï¿½c b?n nh?n du?c thï¿½ng tin tï¿½i kho?n (sau khi thanh toï¿½n thï¿½nh cï¿½ng), khï¿½ng ph?i t? lï¿½c dang nh?p. Vï¿½ v?y, nï¿½n chu?n b? s?n m?i th? tru?c khi thuï¿½.</p>
             </div>
         </div>
         
         <!-- CTA -->
         <div class="cta-box">
             <h3><i class="fas fa-rocket"></i> B?t d?u s? d?ng UnlockTool ngay!</h3>
-            <p>T?i ph?n m?m và thuê tài kho?n d? th?c hành</p>
+            <p>T?i ph?n m?m vï¿½ thuï¿½ tï¿½i kho?n d? th?c hï¿½nh</p>
             <a href="https://file.unlocktool.net/page/index.php" class="cta-btn"><i class="fas fa-download"></i> T?i UnlockTool</a>
             <a href="https://file.unlocktool.net/page/all-driver" class="cta-btn"><i class="fas fa-hdd"></i> T?i Driver</a>
-            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-key"></i> Thuê 8K</a>
+            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-key"></i> Thuï¿½ 8K</a>
         </div>
         
         <!-- Related -->
-        <h2>Bài vi?t liên quan</h2>
+        <h2>Bï¿½i vi?t liï¿½n quan</h2>
         <ul>
             <li><a href="11-unlocktool-download.php">Download UnlockTool</a></li>
             <li><a href="16-unlocktool-cho-samsung.php">UnlockTool cho Samsung</a></li>
             <li><a href="17-unlocktool-cho-xiaomi.php">UnlockTool cho Xiaomi</a></li>
-            <li><a href="25-unlocktool-driver.php">Hu?ng d?n cài Driver</a></li>
+            <li><a href="25-unlocktool-driver.php">Hu?ng d?n cï¿½i Driver</a></li>
         </ul>
         
     </article>
@@ -602,7 +603,7 @@ $canonical_url = "https://www.unlocktool.us/articles/19-cach-su-dung-unlocktool.
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bài vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bï¿½i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -616,7 +617,7 @@ $canonical_url = "https://www.unlocktool.us/articles/19-cach-su-dung-unlocktool.
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài vi?t liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bï¿½i vi?t liï¿½n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
@@ -651,7 +652,7 @@ $canonical_url = "https://www.unlocktool.us/articles/19-cach-su-dung-unlocktool.
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Ð?i ngu k? thu?t viên chuyên nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khóa di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">ï¿½?i ngu k? thu?t viï¿½n chuyï¿½n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khï¿½a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -659,8 +660,8 @@ $canonical_url = "https://www.unlocktool.us/articles/19-cach-su-dung-unlocktool.
 </div>
 <footer>
     <div class="container text-center">
-        <p><strong>UnlockTool.us</strong> - D?ch v? cho thuê tài kho?n UnlockTool</p>
-        <p class="mb-0">© 2026 UnlockTool.us</p>
+        <p><strong>UnlockTool.us</strong> - D?ch v? cho thuï¿½ tï¿½i kho?n UnlockTool</p>
+        <p class="mb-0">ï¿½ 2026 UnlockTool.us</p>
     </div>
 </footer>
 

@@ -1,7 +1,7 @@
-<?php
-$page_title = "Xóa Mi Account Xiaomi b?ng UnlockTool 2026 - Hu?ng d?n chi ti?t";
-$page_description = "Hu?ng d?n xóa Mi Account Xiaomi b?ng UnlockTool 2026. Bypass tài kho?n Xiaomi trên Redmi, POCO, Mi không c?n m?t kh?u, EDL Mode và Fastboot.";
-$page_keywords = "xóa mi account, bypass mi account, unlocktool xiaomi, xóa tài kho?n xiaomi, mi account remove";
+ï»¿<?php
+$page_title = "Xï¿½a Mi Account Xiaomi b?ng UnlockTool 2026 - Hu?ng d?n chi ti?t";
+$page_description = "Hu?ng d?n xï¿½a Mi Account Xiaomi b?ng UnlockTool 2026. Bypass tï¿½i kho?n Xiaomi trï¿½n Redmi, POCO, Mi khï¿½ng c?n m?t kh?u, EDL Mode vï¿½ Fastboot.";
+$page_keywords = "xï¿½a mi account, bypass mi account, unlocktool xiaomi, xï¿½a tï¿½i kho?n xiaomi, mi account remove";
 $canonical_url = "https://www.unlocktool.us/articles/4-xoa-mi-account-xiaomi.php";
 ?>
 <!DOCTYPE html>
@@ -23,20 +23,21 @@ $canonical_url = "https://www.unlocktool.us/articles/4-xoa-mi-account-xiaomi.php
     
     <meta property="og:type" content="article">
     <meta property="og:title" content="<?php echo $page_title; ?>">
-    <meta property="og:description" content="<?php echo $page_description; ?>">
+    <meta property="og:description" content="<?php echo $page_description; ?>
+    <meta property="og:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
     
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "HowTo",
-        "name": "Cách xóa Mi Account Xiaomi b?ng UnlockTool",
-        "description": "Hu?ng d?n bypass tài kho?n Xiaomi (Mi Account) không c?n m?t kh?u",
+        "name": "Cï¿½ch xï¿½a Mi Account Xiaomi b?ng UnlockTool",
+        "description": "Hu?ng d?n bypass tï¿½i kho?n Xiaomi (Mi Account) khï¿½ng c?n m?t kh?u",
         "totalTime": "PT15M",
         "step": [
-            {"@type": "HowToStep", "name": "T?i UnlockTool và Driver", "text": "T?i UnlockTool và Qualcomm/MTK Driver"},
-            {"@type": "HowToStep", "name": "Ðua máy vào EDL Mode", "text": "Gi? Volume Up + Down khi c?m cáp d? vào EDL"},
-            {"@type": "HowToStep", "name": "Ch?n Xiaomi > Mi Account Remove", "text": "Trong UnlockTool ch?n tab Xiaomi và Mi Account Remove"},
-            {"@type": "HowToStep", "name": "Hoàn t?t", "text": "Ch? quá trình hoàn t?t, máy s? t? kh?i d?ng l?i"}
+            {"@type": "HowToStep", "name": "T?i UnlockTool vï¿½ Driver", "text": "T?i UnlockTool vï¿½ Qualcomm/MTK Driver"},
+            {"@type": "HowToStep", "name": "ï¿½ua mï¿½y vï¿½o EDL Mode", "text": "Gi? Volume Up + Down khi c?m cï¿½p d? vï¿½o EDL"},
+            {"@type": "HowToStep", "name": "Ch?n Xiaomi > Mi Account Remove", "text": "Trong UnlockTool ch?n tab Xiaomi vï¿½ Mi Account Remove"},
+            {"@type": "HowToStep", "name": "Hoï¿½n t?t", "text": "Ch? quï¿½ trï¿½nh hoï¿½n t?t, mï¿½y s? t? kh?i d?ng l?i"}
         ]
     }
     </script>
@@ -46,9 +47,9 @@ $canonical_url = "https://www.unlocktool.us/articles/4-xoa-mi-account-xiaomi.php
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "Mi Account là gì?", "acceptedAnswer": {"@type": "Answer", "text": "Mi Account là tài kho?n Xiaomi dùng d? d?ng b? d? li?u, Find Device và b?o v? di?n tho?i. Khi b?t, nó s? khóa máy n?u ai dó reset mà không có m?t kh?u."}},
-            {"@type": "Question", "name": "Xóa Mi Account có m?t MIUI không?", "acceptedAnswer": {"@type": "Answer", "text": "Không, vi?c xóa Mi Account ch? g? b? khóa tài kho?n, h? di?u hành MIUI v?n gi? nguyên."}},
-            {"@type": "Question", "name": "EDL Mode là gì?", "acceptedAnswer": {"@type": "Answer", "text": "EDL (Emergency Download Mode) là ch? d? d?c bi?t trên di?n tho?i Qualcomm cho phép can thi?p sâu vào h? th?ng, flash ROM và xóa khóa."}}
+            {"@type": "Question", "name": "Mi Account lï¿½ gï¿½?", "acceptedAnswer": {"@type": "Answer", "text": "Mi Account lï¿½ tï¿½i kho?n Xiaomi dï¿½ng d? d?ng b? d? li?u, Find Device vï¿½ b?o v? di?n tho?i. Khi b?t, nï¿½ s? khï¿½a mï¿½y n?u ai dï¿½ reset mï¿½ khï¿½ng cï¿½ m?t kh?u."}},
+            {"@type": "Question", "name": "Xï¿½a Mi Account cï¿½ m?t MIUI khï¿½ng?", "acceptedAnswer": {"@type": "Answer", "text": "Khï¿½ng, vi?c xï¿½a Mi Account ch? g? b? khï¿½a tï¿½i kho?n, h? di?u hï¿½nh MIUI v?n gi? nguyï¿½n."}},
+            {"@type": "Question", "name": "EDL Mode lï¿½ gï¿½?", "acceptedAnswer": {"@type": "Answer", "text": "EDL (Emergency Download Mode) lï¿½ ch? d? d?c bi?t trï¿½n di?n tho?i Qualcomm cho phï¿½p can thi?p sï¿½u vï¿½o h? th?ng, flash ROM vï¿½ xï¿½a khï¿½a."}}
         ]
     }
     </script>
@@ -126,7 +127,7 @@ $canonical_url = "https://www.unlocktool.us/articles/4-xoa-mi-account-xiaomi.php
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? khóa di?n tho?i",
+        "name": "D?ch v? m? khï¿½a di?n tho?i",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -142,8 +143,8 @@ $canonical_url = "https://www.unlocktool.us/articles/4-xoa-mi-account-xiaomi.php
 
 <header class="article-header">
     <div class="container text-center">
-        <h1><i class="fas fa-mobile-alt"></i> Xóa Mi Account Xiaomi b?ng UnlockTool 2026</h1>
-        <p>Bypass tài kho?n Xiaomi trên Redmi, POCO, Mi không c?n m?t kh?u</p>
+        <h1><i class="fas fa-mobile-alt"></i> Xï¿½a Mi Account Xiaomi b?ng UnlockTool 2026</h1>
+        <p>Bypass tï¿½i kho?n Xiaomi trï¿½n Redmi, POCO, Mi khï¿½ng c?n m?t kh?u</p>
     </div>
 </header>
 
@@ -151,11 +152,11 @@ $canonical_url = "https://www.unlocktool.us/articles/4-xoa-mi-account-xiaomi.php
     <article class="article-content">
         
         <div class="info-box">
-            <h4><i class="fas fa-info-circle"></i> Mi Account là gì?</h4>
-            <p class="mb-0"><strong>Mi Account</strong> (Tài kho?n Xiaomi) là h? th?ng tài kho?n c?a Xiaomi, tuong t? nhu Samsung Account hay Apple ID. Khi b?t tính nang "Find Device", di?n tho?i s? b? khóa Mi Account sau khi reset n?u không có m?t kh?u g?c.</p>
+            <h4><i class="fas fa-info-circle"></i> Mi Account lï¿½ gï¿½?</h4>
+            <p class="mb-0"><strong>Mi Account</strong> (Tï¿½i kho?n Xiaomi) lï¿½ h? th?ng tï¿½i kho?n c?a Xiaomi, tuong t? nhu Samsung Account hay Apple ID. Khi b?t tï¿½nh nang "Find Device", di?n tho?i s? b? khï¿½a Mi Account sau khi reset n?u khï¿½ng cï¿½ m?t kh?u g?c.</p>
         </div>
         
-        <h2>1. Các dòng Xiaomi du?c h? tr?</h2>
+        <h2>1. Cï¿½c dï¿½ng Xiaomi du?c h? tr?</h2>
         
         <h3>Xiaomi Mi Series</h3>
         <p>
@@ -184,172 +185,172 @@ $canonical_url = "https://www.unlocktool.us/articles/4-xoa-mi-account-xiaomi.php
             <span class="model-badge">POCO C Series</span>
         </p>
         
-        <h2>2. Phuong pháp xóa Mi Account</h2>
+        <h2>2. Phuong phï¿½p xï¿½a Mi Account</h2>
         
-        <h3>Phuong pháp 1: EDL Mode (Chip Qualcomm)</h3>
+        <h3>Phuong phï¿½p 1: EDL Mode (Chip Qualcomm)</h3>
         
-        <p>Ðây là phuong pháp ph? bi?n nh?t cho các máy Xiaomi dùng chip Qualcomm:</p>
+        <p>ï¿½ï¿½y lï¿½ phuong phï¿½p ph? bi?n nh?t cho cï¿½c mï¿½y Xiaomi dï¿½ng chip Qualcomm:</p>
         
         <div class="step-card">
             <span class="step-number">1</span>
-            <strong>Cài d?t Qualcomm Driver</strong>
-            <p class="mb-0 mt-2">T?i và cài Qualcomm Driver t? <a href="https://file.unlocktool.net/page/all-driver" target="_blank">Full Driver UnlockTool</a></p>
+            <strong>Cï¿½i d?t Qualcomm Driver</strong>
+            <p class="mb-0 mt-2">T?i vï¿½ cï¿½i Qualcomm Driver t? <a href="https://file.unlocktool.net/page/all-driver" target="_blank">Full Driver UnlockTool</a></p>
         </div>
         
         <div class="step-card">
             <span class="step-number">2</span>
-            <strong>Ðua máy vào EDL Mode</strong>
+            <strong>ï¿½ua mï¿½y vï¿½o EDL Mode</strong>
             <p class="mb-0 mt-2">
-                <strong>Cách 1:</strong> T?t máy ? Gi? Volume Up + Volume Down ? C?m cáp USB<br>
-                <strong>Cách 2:</strong> Vào Fastboot ? Gõ l?nh: <code>fastboot oem edl</code><br>
-                <strong>Cách 3:</strong> S? d?ng test point (c?n m? máy)
+                <strong>Cï¿½ch 1:</strong> T?t mï¿½y ? Gi? Volume Up + Volume Down ? C?m cï¿½p USB<br>
+                <strong>Cï¿½ch 2:</strong> Vï¿½o Fastboot ? Gï¿½ l?nh: <code>fastboot oem edl</code><br>
+                <strong>Cï¿½ch 3:</strong> S? d?ng test point (c?n m? mï¿½y)
             </p>
         </div>
         
         <div class="step-card">
             <span class="step-number">3</span>
-            <strong>M? UnlockTool và ch?n Xiaomi</strong>
-            <p class="mb-0 mt-2">Ch?y UnlockTool ? Ðang nh?p ? Click tab <strong>"Xiaomi"</strong> ? Ch?n <strong>"Qualcomm"</strong></p>
+            <strong>M? UnlockTool vï¿½ ch?n Xiaomi</strong>
+            <p class="mb-0 mt-2">Ch?y UnlockTool ? ï¿½ang nh?p ? Click tab <strong>"Xiaomi"</strong> ? Ch?n <strong>"Qualcomm"</strong></p>
         </div>
         
         <div class="step-card">
             <span class="step-number">4</span>
             <strong>Ch?n Mi Account Remove</strong>
-            <p class="mb-0 mt-2">Click <strong>"Mi Account Remove"</strong> ho?c <strong>"Remove Mi Cloud"</strong>. Ch? quá trình t? d?ng ch?y.</p>
+            <p class="mb-0 mt-2">Click <strong>"Mi Account Remove"</strong> ho?c <strong>"Remove Mi Cloud"</strong>. Ch? quï¿½ trï¿½nh t? d?ng ch?y.</p>
         </div>
         
         <div class="step-card">
             <span class="step-number">5</span>
-            <strong>Hoàn t?t</strong>
-            <p class="mb-0 mt-2">Sau 3-10 phút, máy s? t? kh?i d?ng l?i. Mi Account dã du?c xóa thành công!</p>
+            <strong>Hoï¿½n t?t</strong>
+            <p class="mb-0 mt-2">Sau 3-10 phï¿½t, mï¿½y s? t? kh?i d?ng l?i. Mi Account dï¿½ du?c xï¿½a thï¿½nh cï¿½ng!</p>
         </div>
         
-        <h3>Phuong pháp 2: MTK Mode (Chip MediaTek)</h3>
+        <h3>Phuong phï¿½p 2: MTK Mode (Chip MediaTek)</h3>
         
-        <p>Cho các máy Xiaomi/Redmi dùng chip MediaTek (Helio):</p>
+        <p>Cho cï¿½c mï¿½y Xiaomi/Redmi dï¿½ng chip MediaTek (Helio):</p>
         
         <ol>
-            <li>Cài d?t MTK Driver</li>
-            <li>T?t máy hoàn toàn</li>
+            <li>Cï¿½i d?t MTK Driver</li>
+            <li>T?t mï¿½y hoï¿½n toï¿½n</li>
             <li>Trong UnlockTool, ch?n Xiaomi ? MTK</li>
-            <li>Gi? Volume Up/Down và c?m cáp USB</li>
+            <li>Gi? Volume Up/Down vï¿½ c?m cï¿½p USB</li>
             <li>Ch?n Mi Account Remove</li>
-            <li>Ch? hoàn t?t</li>
+            <li>Ch? hoï¿½n t?t</li>
         </ol>
         
-        <h3>Phuong pháp 3: Fastboot (Ðã Unlock Bootloader)</h3>
+        <h3>Phuong phï¿½p 3: Fastboot (ï¿½ï¿½ Unlock Bootloader)</h3>
         
-        <p>N?u máy dã unlock bootloader t? tru?c:</p>
+        <p>N?u mï¿½y dï¿½ unlock bootloader t? tru?c:</p>
         
         <ol>
-            <li>Vào Fastboot Mode: T?t máy ? Gi? Volume Down + Power</li>
-            <li>K?t n?i v?i máy tính</li>
+            <li>Vï¿½o Fastboot Mode: T?t mï¿½y ? Gi? Volume Down + Power</li>
+            <li>K?t n?i v?i mï¿½y tï¿½nh</li>
             <li>Trong UnlockTool ch?n Xiaomi ? Fastboot</li>
             <li>Ch?n Mi Account Remove</li>
-            <li>Ch? hoàn t?t</li>
+            <li>Ch? hoï¿½n t?t</li>
         </ol>
         
         <div class="warning-box">
-            <h4><i class="fas fa-exclamation-triangle"></i> Luu ý quan tr?ng</h4>
+            <h4><i class="fas fa-exclamation-triangle"></i> Luu ï¿½ quan tr?ng</h4>
             <ul class="mb-0">
-                <li>Phuong pháp EDL có th? không ho?t d?ng trên m?t s? model m?i do Xiaomi dã khóa EDL</li>
-                <li>M?t s? máy c?n Auth (mã xác th?c) d? vào EDL - UnlockTool có th? h? tr?</li>
+                <li>Phuong phï¿½p EDL cï¿½ th? khï¿½ng ho?t d?ng trï¿½n m?t s? model m?i do Xiaomi dï¿½ khï¿½a EDL</li>
+                <li>M?t s? mï¿½y c?n Auth (mï¿½ xï¿½c th?c) d? vï¿½o EDL - UnlockTool cï¿½ th? h? tr?</li>
                 <li>Backup d? li?u quan tr?ng tru?c khi th?c hi?n</li>
             </ul>
         </div>
         
-        <h2>3. B?ng phuong pháp theo Model</h2>
+        <h2>3. B?ng phuong phï¿½p theo Model</h2>
         
         <table>
             <tr>
                 <th>Model</th>
                 <th>Chip</th>
-                <th>Phuong pháp</th>
+                <th>Phuong phï¿½p</th>
                 <th>C?n Auth?</th>
             </tr>
             <tr>
                 <td>Redmi Note 7-9</td>
                 <td>Qualcomm</td>
                 <td>EDL</td>
-                <td>Không</td>
+                <td>Khï¿½ng</td>
             </tr>
             <tr>
                 <td>Redmi Note 10-11</td>
                 <td>Qualcomm</td>
                 <td>EDL</td>
-                <td>Có th?</td>
+                <td>Cï¿½ th?</td>
             </tr>
             <tr>
                 <td>Redmi Note 12-13</td>
                 <td>MediaTek/Qualcomm</td>
                 <td>MTK/EDL</td>
-                <td>Có th?</td>
+                <td>Cï¿½ th?</td>
             </tr>
             <tr>
                 <td>POCO F1-F3</td>
                 <td>Qualcomm</td>
                 <td>EDL</td>
-                <td>Không</td>
+                <td>Khï¿½ng</td>
             </tr>
             <tr>
                 <td>POCO X3-X5</td>
                 <td>Qualcomm</td>
                 <td>EDL</td>
-                <td>Có th?</td>
+                <td>Cï¿½ th?</td>
             </tr>
             <tr>
                 <td>Redmi 9A/9C/10A</td>
                 <td>MediaTek</td>
                 <td>MTK</td>
-                <td>Không</td>
+                <td>Khï¿½ng</td>
             </tr>
         </table>
         
-        <h2>4. X? lý l?i thu?ng g?p</h2>
+        <h2>4. X? lï¿½ l?i thu?ng g?p</h2>
         
-        <h3>4.1. Không vào du?c EDL Mode</h3>
+        <h3>4.1. Khï¿½ng vï¿½o du?c EDL Mode</h3>
         <ul>
-            <li>Th? gi? nút lâu hon (10-15 giây)</li>
+            <li>Th? gi? nï¿½t lï¿½u hon (10-15 giï¿½y)</li>
             <li>S? d?ng test point (c?n kinh nghi?m)</li>
-            <li>M?t s? model m?i dã b? Xiaomi khóa EDL</li>
+            <li>M?t s? model m?i dï¿½ b? Xiaomi khï¿½a EDL</li>
         </ul>
         
         <h3>4.2. L?i "Need Auth"</h3>
         <ul>
-            <li>Model này c?n mã Auth t? Xiaomi server</li>
-            <li>UnlockTool có th? h? tr? Auth cho m?t s? model</li>
-            <li>Liên h? h? tr? d? du?c tu v?n</li>
+            <li>Model nï¿½y c?n mï¿½ Auth t? Xiaomi server</li>
+            <li>UnlockTool cï¿½ th? h? tr? Auth cho m?t s? model</li>
+            <li>Liï¿½n h? h? tr? d? du?c tu v?n</li>
         </ul>
         
-        <h3>4.3. Máy treo sau khi xóa Mi Account</h3>
+        <h3>4.3. Mï¿½y treo sau khi xï¿½a Mi Account</h3>
         <ul>
-            <li>Vào Recovery Mode và Wipe Data</li>
+            <li>Vï¿½o Recovery Mode vï¿½ Wipe Data</li>
             <li>Flash l?i ROM MIUI m?i</li>
         </ul>
         
-        <h2>5. Câu h?i thu?ng g?p (FAQ)</h2>
+        <h2>5. Cï¿½u h?i thu?ng g?p (FAQ)</h2>
         
         <div class="faq-item">
-            <div class="faq-question">Xóa Mi Account có m?t d? li?u không?</div>
-            <div class="faq-answer">Phuong pháp EDL thu?ng không m?t d? li?u. Tuy nhiên, n?u máy dang ? tr?ng thái khóa, d? li?u có th? dã b? mã hóa và không th? truy c?p.</div>
+            <div class="faq-question">Xï¿½a Mi Account cï¿½ m?t d? li?u khï¿½ng?</div>
+            <div class="faq-answer">Phuong phï¿½p EDL thu?ng khï¿½ng m?t d? li?u. Tuy nhiï¿½n, n?u mï¿½y dang ? tr?ng thï¿½i khï¿½a, d? li?u cï¿½ th? dï¿½ b? mï¿½ hï¿½a vï¿½ khï¿½ng th? truy c?p.</div>
         </div>
         
         <div class="faq-item">
-            <div class="faq-question">Xóa Mi Account khác gì xóa FRP?</div>
-            <div class="faq-answer">Mi Account là tài kho?n c?a Xiaomi, còn FRP (Google Account) là c?a Google. Trên Xiaomi có th? có c? 2 lo?i khóa và c?n xóa c? 2.</div>
+            <div class="faq-question">Xï¿½a Mi Account khï¿½c gï¿½ xï¿½a FRP?</div>
+            <div class="faq-answer">Mi Account lï¿½ tï¿½i kho?n c?a Xiaomi, cï¿½n FRP (Google Account) lï¿½ c?a Google. Trï¿½n Xiaomi cï¿½ th? cï¿½ c? 2 lo?i khï¿½a vï¿½ c?n xï¿½a c? 2.</div>
         </div>
         
         <div class="faq-item">
-            <div class="faq-question">Sau khi xóa Mi Account có dang nh?p l?i du?c không?</div>
-            <div class="faq-answer">Có, b?n có th? dang nh?p Mi Account m?i ho?c b? qua bu?c dang nh?p khi thi?t l?p máy.</div>
+            <div class="faq-question">Sau khi xï¿½a Mi Account cï¿½ dang nh?p l?i du?c khï¿½ng?</div>
+            <div class="faq-answer">Cï¿½, b?n cï¿½ th? dang nh?p Mi Account m?i ho?c b? qua bu?c dang nh?p khi thi?t l?p mï¿½y.</div>
         </div>
         
         <div class="faq-item">
-            <div class="faq-question">UnlockTool có xóa du?c Mi Account trên MIUI 14/15 không?</div>
-            <div class="faq-answer">Có, UnlockTool liên t?c du?c c?p nh?t d? h? tr? các phiên b?n MIUI m?i. Tuy nhiên m?t s? model m?i có th? c?n Auth.</div>
+            <div class="faq-question">UnlockTool cï¿½ xï¿½a du?c Mi Account trï¿½n MIUI 14/15 khï¿½ng?</div>
+            <div class="faq-answer">Cï¿½, UnlockTool liï¿½n t?c du?c c?p nh?t d? h? tr? cï¿½c phiï¿½n b?n MIUI m?i. Tuy nhiï¿½n m?t s? model m?i cï¿½ th? c?n Auth.</div>
         </div>
         
-        <h2>6. Link t?i và tài nguyên</h2>
+        <h2>6. Link t?i vï¿½ tï¿½i nguyï¿½n</h2>
         
         <div class="success-box">
             <h4><i class="fas fa-download"></i> Link t?i</h4>
@@ -362,16 +363,16 @@ $canonical_url = "https://www.unlocktool.us/articles/4-xoa-mi-account-xiaomi.php
         
         <h2>7. K?t lu?n</h2>
         
-        <p>Xóa Mi Account Xiaomi b?ng <strong>UnlockTool</strong> là gi?i pháp hi?u qu? cho nh?ng ai quên m?t kh?u tài kho?n Xiaomi. Phuong pháp EDL cho máy Qualcomm và MTK cho máy MediaTek d?u có t? l? thành công cao.</p>
+        <p>Xï¿½a Mi Account Xiaomi b?ng <strong>UnlockTool</strong> lï¿½ gi?i phï¿½p hi?u qu? cho nh?ng ai quï¿½n m?t kh?u tï¿½i kho?n Xiaomi. Phuong phï¿½p EDL cho mï¿½y Qualcomm vï¿½ MTK cho mï¿½y MediaTek d?u cï¿½ t? l? thï¿½nh cï¿½ng cao.</p>
         
-        <p>N?u b?n c?n tài kho?n UnlockTool v?i giá r?, hãy thuê t?i <a href="https://www.unlocktool.us/">UnlockTool.us</a> - ch? t? 8.000d/6 ti?ng!</p>
+        <p>N?u b?n c?n tï¿½i kho?n UnlockTool v?i giï¿½ r?, hï¿½y thuï¿½ t?i <a href="https://www.unlocktool.us/">UnlockTool.us</a> - ch? t? 8.000d/6 ti?ng!</p>
         
         <div class="text-center my-4">
             <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="download-btn">
                 <i class="fas fa-download"></i> T?i UnlockTool
             </a>
             <a href="https://www.unlocktool.us/" class="download-btn" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
-                <i class="fas fa-key"></i> Thuê Tài Kho?n
+                <i class="fas fa-key"></i> Thuï¿½ Tï¿½i Kho?n
             </a>
         </div>
         
@@ -385,7 +386,7 @@ $canonical_url = "https://www.unlocktool.us/articles/4-xoa-mi-account-xiaomi.php
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bài vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bï¿½i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -399,7 +400,7 @@ $canonical_url = "https://www.unlocktool.us/articles/4-xoa-mi-account-xiaomi.php
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài vi?t liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bï¿½i vi?t liï¿½n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
@@ -434,7 +435,7 @@ $canonical_url = "https://www.unlocktool.us/articles/4-xoa-mi-account-xiaomi.php
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Ð?i ngu k? thu?t viên chuyên nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khóa di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">ï¿½?i ngu k? thu?t viï¿½n chuyï¿½n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khï¿½a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -442,7 +443,7 @@ $canonical_url = "https://www.unlocktool.us/articles/4-xoa-mi-account-xiaomi.php
 </div>
 <footer class="bg-dark text-white py-4 mt-5">
     <div class="container text-center">
-        <p class="mb-0">© 2026 UnlockTool.us - D?ch v? cho thuê tài kho?n UnlockTool uy tín</p>
+        <p class="mb-0">ï¿½ 2026 UnlockTool.us - D?ch v? cho thuï¿½ tï¿½i kho?n UnlockTool uy tï¿½n</p>
     </div>
 </footer>
 

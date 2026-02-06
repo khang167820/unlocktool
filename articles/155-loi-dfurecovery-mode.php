@@ -1,7 +1,7 @@
-<?php
+ï»¿<?php
 $page_title = "DFU Mode vs Recovery Mode iPhone 2026 ?? Hu?ng D?n Chi Ti?t Nh?t";
-$page_description = "?? Hu?ng d?n CHI TI?T NH?T cách vào DFU Mode và Recovery Mode cho t?t c? iPhone t? 5s d?n 16. S?a l?i không vào du?c DFU, stuck Recovery. Thuê UnlockTool ch? 8K!";
-$page_keywords = "dfu mode iphone, recovery mode iphone, cách vào dfu mode, l?i dfu mode, stuck recovery mode, khôi ph?c iphone, bypass icloud dfu, jailbreak dfu mode, unlocktool dfu";
+$page_description = "?? Hu?ng d?n CHI TI?T NH?T cï¿½ch vï¿½o DFU Mode vï¿½ Recovery Mode cho t?t c? iPhone t? 5s d?n 16. S?a l?i khï¿½ng vï¿½o du?c DFU, stuck Recovery. Thuï¿½ UnlockTool ch? 8K!";
+$page_keywords = "dfu mode iphone, recovery mode iphone, cï¿½ch vï¿½o dfu mode, l?i dfu mode, stuck recovery mode, khï¿½i ph?c iphone, bypass icloud dfu, jailbreak dfu mode, unlocktool dfu";
 $canonical_url = "https://www.unlocktool.us/articles/155-loi-dfurecovery-mode.php";
 ?>
 <!DOCTYPE html>
@@ -23,30 +23,31 @@ $canonical_url = "https://www.unlocktool.us/articles/155-loi-dfurecovery-mode.ph
     
     <meta property="og:type" content="article">
     <meta property="og:title" content="<?php echo $page_title; ?>">
-    <meta property="og:description" content="<?php echo $page_description; ?>">
+    <meta property="og:description" content="<?php echo $page_description; ?>
+    <meta property="og:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
     <meta property="og:url" content="<?php echo $canonical_url; ?>">
     
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "HowTo",
-        "name": "Cách vào DFU Mode và Recovery Mode iPhone",
-        "description": "Hu?ng d?n chi ti?t cách dua iPhone vào ch? d? DFU Mode và Recovery Mode cho t?t c? model t? iPhone 5s d?n iPhone 16",
+        "name": "Cï¿½ch vï¿½o DFU Mode vï¿½ Recovery Mode iPhone",
+        "description": "Hu?ng d?n chi ti?t cï¿½ch dua iPhone vï¿½o ch? d? DFU Mode vï¿½ Recovery Mode cho t?t c? model t? iPhone 5s d?n iPhone 16",
         "totalTime": "PT5M",
         "estimatedCost": {"@type": "MonetaryAmount", "currency": "VND", "value": "8000"},
         "supply": [
             {"@type": "HowToSupply", "name": "iPhone ho?c iPad"},
-            {"@type": "HowToSupply", "name": "Cáp Lightning/USB-C"},
-            {"@type": "HowToSupply", "name": "Máy tính có iTunes"}
+            {"@type": "HowToSupply", "name": "Cï¿½p Lightning/USB-C"},
+            {"@type": "HowToSupply", "name": "Mï¿½y tï¿½nh cï¿½ iTunes"}
         ],
         "tool": [
             {"@type": "HowToTool", "name": "iTunes ho?c Finder"},
-            {"@type": "HowToTool", "name": "UnlockTool (tùy ch?n)"}
+            {"@type": "HowToTool", "name": "UnlockTool (tï¿½y ch?n)"}
         ],
         "step": [
-            {"@type": "HowToStep", "name": "K?t n?i iPhone", "text": "K?t n?i iPhone v?i máy tính qua cáp Lightning/USB-C"},
-            {"@type": "HowToStep", "name": "Nh?n t? h?p phím", "text": "Nh?n và gi? các phím phù h?p v?i t?ng model iPhone"},
-            {"@type": "HowToStep", "name": "Xác nh?n thành công", "text": "Màn hình den (DFU) ho?c hi?n logo máy tính (Recovery)"}
+            {"@type": "HowToStep", "name": "K?t n?i iPhone", "text": "K?t n?i iPhone v?i mï¿½y tï¿½nh qua cï¿½p Lightning/USB-C"},
+            {"@type": "HowToStep", "name": "Nh?n t? h?p phï¿½m", "text": "Nh?n vï¿½ gi? cï¿½c phï¿½m phï¿½ h?p v?i t?ng model iPhone"},
+            {"@type": "HowToStep", "name": "Xï¿½c nh?n thï¿½nh cï¿½ng", "text": "Mï¿½n hï¿½nh den (DFU) ho?c hi?n logo mï¿½y tï¿½nh (Recovery)"}
         ]
     }
     </script>
@@ -56,11 +57,11 @@ $canonical_url = "https://www.unlocktool.us/articles/155-loi-dfurecovery-mode.ph
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "DFU Mode là gì?", "acceptedAnswer": {"@type": "Answer", "text": "DFU (Device Firmware Update) là ch? d? khôi ph?c c?p th?p nh?t trên iPhone, cho phép cài d?t l?i firmware hoàn toàn. Màn hình s? den hoàn toàn khi ? ch? d? DFU, nhung iTunes v?n nh?n di?n du?c thi?t b?."}},
-            {"@type": "Question", "name": "Recovery Mode là gì?", "acceptedAnswer": {"@type": "Answer", "text": "Recovery Mode (Ch? d? Khôi ph?c) là ch? d? cho phép restore ho?c update iOS thông qua iTunes/Finder. Màn hình s? hi?n th? bi?u tu?ng cáp k?t n?i máy tính."}},
-            {"@type": "Question", "name": "DFU Mode có xóa d? li?u không?", "acceptedAnswer": {"@type": "Answer", "text": "Không, ch? vào DFU Mode không xóa d? li?u. Tuy nhiên, n?u b?n Restore t? DFU Mode thì s? xóa toàn b? d? li?u trên thi?t b?."}},
-            {"@type": "Question", "name": "Khi nào c?n dùng DFU Mode?", "acceptedAnswer": {"@type": "Answer", "text": "DFU Mode c?n dùng khi: bypass iCloud v?i UnlockTool, jailbreak b?ng checkm8, restore khi Recovery Mode không ho?t d?ng, s?a l?i ph?n m?m nghiêm tr?ng, h? c?p iOS."}},
-            {"@type": "Question", "name": "Không vào du?c DFU Mode ph?i làm sao?", "acceptedAnswer": {"@type": "Answer", "text": "Ki?m tra timing nh?n phím, s? d?ng cáp chính hãng, th? c?ng USB khác. N?u v?n không du?c, có th? nút ngu?n ho?c nút volume b? h?ng - c?n s?a ch?a ph?n c?ng."}}
+            {"@type": "Question", "name": "DFU Mode lï¿½ gï¿½?", "acceptedAnswer": {"@type": "Answer", "text": "DFU (Device Firmware Update) lï¿½ ch? d? khï¿½i ph?c c?p th?p nh?t trï¿½n iPhone, cho phï¿½p cï¿½i d?t l?i firmware hoï¿½n toï¿½n. Mï¿½n hï¿½nh s? den hoï¿½n toï¿½n khi ? ch? d? DFU, nhung iTunes v?n nh?n di?n du?c thi?t b?."}},
+            {"@type": "Question", "name": "Recovery Mode lï¿½ gï¿½?", "acceptedAnswer": {"@type": "Answer", "text": "Recovery Mode (Ch? d? Khï¿½i ph?c) lï¿½ ch? d? cho phï¿½p restore ho?c update iOS thï¿½ng qua iTunes/Finder. Mï¿½n hï¿½nh s? hi?n th? bi?u tu?ng cï¿½p k?t n?i mï¿½y tï¿½nh."}},
+            {"@type": "Question", "name": "DFU Mode cï¿½ xï¿½a d? li?u khï¿½ng?", "acceptedAnswer": {"@type": "Answer", "text": "Khï¿½ng, ch? vï¿½o DFU Mode khï¿½ng xï¿½a d? li?u. Tuy nhiï¿½n, n?u b?n Restore t? DFU Mode thï¿½ s? xï¿½a toï¿½n b? d? li?u trï¿½n thi?t b?."}},
+            {"@type": "Question", "name": "Khi nï¿½o c?n dï¿½ng DFU Mode?", "acceptedAnswer": {"@type": "Answer", "text": "DFU Mode c?n dï¿½ng khi: bypass iCloud v?i UnlockTool, jailbreak b?ng checkm8, restore khi Recovery Mode khï¿½ng ho?t d?ng, s?a l?i ph?n m?m nghiï¿½m tr?ng, h? c?p iOS."}},
+            {"@type": "Question", "name": "Khï¿½ng vï¿½o du?c DFU Mode ph?i lï¿½m sao?", "acceptedAnswer": {"@type": "Answer", "text": "Ki?m tra timing nh?n phï¿½m, s? d?ng cï¿½p chï¿½nh hï¿½ng, th? c?ng USB khï¿½c. N?u v?n khï¿½ng du?c, cï¿½ th? nï¿½t ngu?n ho?c nï¿½t volume b? h?ng - c?n s?a ch?a ph?n c?ng."}}
         ]
     }
     </script>
@@ -155,7 +156,7 @@ $canonical_url = "https://www.unlocktool.us/articles/155-loi-dfurecovery-mode.ph
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? khóa di?n tho?i",
+        "name": "D?ch v? m? khï¿½a di?n tho?i",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -173,7 +174,7 @@ $canonical_url = "https://www.unlocktool.us/articles/155-loi-dfurecovery-mode.ph
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
             <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bï¿½i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -181,9 +182,9 @@ $canonical_url = "https://www.unlocktool.us/articles/155-loi-dfurecovery-mode.ph
 <section class="hero-section">
     <div class="container text-center">
         <h1><i class="fab fa-apple me-2"></i>DFU Mode vs Recovery Mode iPhone 2026</h1>
-        <p class="lead">Hu?ng d?n chi ti?t nh?t cách vào DFU Mode và Recovery Mode cho t?t c? model iPhone - T? iPhone 5s d?n iPhone 16 Pro Max</p>
+        <p class="lead">Hu?ng d?n chi ti?t nh?t cï¿½ch vï¿½o DFU Mode vï¿½ Recovery Mode cho t?t c? model iPhone - T? iPhone 5s d?n iPhone 16 Pro Max</p>
         <div class="mt-4">
-            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>Thuê UnlockTool <span class="flash-sale">CH? 8K</span></a>
+            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>Thuï¿½ UnlockTool <span class="flash-sale">CH? 8K</span></a>
         </div>
     </div>
 </section>
@@ -193,118 +194,118 @@ $canonical_url = "https://www.unlocktool.us/articles/155-loi-dfurecovery-mode.ph
         
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #0066cc;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>Tác gi?:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>Tï¿½c gi?:</strong> UnlockTool.us Team</span>
             <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Ð?c:</strong> ~5 phút</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>ï¿½?c:</strong> ~5 phï¿½t</span>
             <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> <span id="viewCount">1,234</span></span>
         </div>
         <!-- Table of Contents -->
         <div class="toc">
             <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
             <ul>
-                <li><a href="#gioi-thieu">1. DFU Mode và Recovery Mode là gì?</a></li>
-                <li><a href="#so-sanh">2. So sánh DFU Mode vs Recovery Mode</a></li>
-                <li><a href="#khi-nao-can-dung">3. Khi nào c?n dùng DFU Mode / Recovery Mode?</a></li>
-                <li><a href="#cach-vao-dfu">4. Cách vào DFU Mode theo t?ng model iPhone</a></li>
-                <li><a href="#cach-vao-recovery">5. Cách vào Recovery Mode</a></li>
-                <li><a href="#cach-thoat">6. Cách thoát DFU Mode và Recovery Mode</a></li>
-                <li><a href="#loi-thuong-gap">7. L?i thu?ng g?p và cách kh?c ph?c</a></li>
-                <li><a href="#cong-cu-ho-tro">8. Công c? h? tr? vào DFU/Recovery</a></li>
-                <li><a href="#unlocktool">9. UnlockTool và DFU Mode</a></li>
-                <li><a href="#faq">10. Câu h?i thu?ng g?p (FAQ)</a></li>
+                <li><a href="#gioi-thieu">1. DFU Mode vï¿½ Recovery Mode lï¿½ gï¿½?</a></li>
+                <li><a href="#so-sanh">2. So sï¿½nh DFU Mode vs Recovery Mode</a></li>
+                <li><a href="#khi-nao-can-dung">3. Khi nï¿½o c?n dï¿½ng DFU Mode / Recovery Mode?</a></li>
+                <li><a href="#cach-vao-dfu">4. Cï¿½ch vï¿½o DFU Mode theo t?ng model iPhone</a></li>
+                <li><a href="#cach-vao-recovery">5. Cï¿½ch vï¿½o Recovery Mode</a></li>
+                <li><a href="#cach-thoat">6. Cï¿½ch thoï¿½t DFU Mode vï¿½ Recovery Mode</a></li>
+                <li><a href="#loi-thuong-gap">7. L?i thu?ng g?p vï¿½ cï¿½ch kh?c ph?c</a></li>
+                <li><a href="#cong-cu-ho-tro">8. Cï¿½ng c? h? tr? vï¿½o DFU/Recovery</a></li>
+                <li><a href="#unlocktool">9. UnlockTool vï¿½ DFU Mode</a></li>
+                <li><a href="#faq">10. Cï¿½u h?i thu?ng g?p (FAQ)</a></li>
             </ul>
         </div>
         
         <!-- Section 1: Gi?i thi?u -->
-        <h2 id="gioi-thieu"><i class="fas fa-info-circle me-2"></i>1. DFU Mode và Recovery Mode là gì?</h2>
+        <h2 id="gioi-thieu"><i class="fas fa-info-circle me-2"></i>1. DFU Mode vï¿½ Recovery Mode lï¿½ gï¿½?</h2>
         
-        <p>Khi s? d?ng iPhone, iPad, b?n ch?c ch?n s? có lúc c?n d?n hai ch? d? d?c bi?t này: <strong>DFU Mode</strong> (Device Firmware Update Mode) và <strong>Recovery Mode</strong> (Ch? d? Khôi ph?c). Ðây là hai công c? quan tr?ng giúp b?n kh?c ph?c các s? c? ph?n m?m nghiêm tr?ng, restore máy, jailbreak, ho?c bypass iCloud b?ng các công c? nhu <strong>UnlockTool</strong>.</p>
+        <p>Khi s? d?ng iPhone, iPad, b?n ch?c ch?n s? cï¿½ lï¿½c c?n d?n hai ch? d? d?c bi?t nï¿½y: <strong>DFU Mode</strong> (Device Firmware Update Mode) vï¿½ <strong>Recovery Mode</strong> (Ch? d? Khï¿½i ph?c). ï¿½ï¿½y lï¿½ hai cï¿½ng c? quan tr?ng giï¿½p b?n kh?c ph?c cï¿½c s? c? ph?n m?m nghiï¿½m tr?ng, restore mï¿½y, jailbreak, ho?c bypass iCloud b?ng cï¿½c cï¿½ng c? nhu <strong>UnlockTool</strong>.</p>
         
         <div class="row">
             <div class="col-md-6">
                 <div class="mode-card dfu">
                     <h4><i class="fas fa-microchip me-2"></i>DFU Mode (Device Firmware Update)</h4>
-                    <p><strong>DFU Mode</strong> là ch? d? khôi ph?c c?p th?p nh?t trên các thi?t b? Apple. Khi ? ch? d? này:</p>
+                    <p><strong>DFU Mode</strong> lï¿½ ch? d? khï¿½i ph?c c?p th?p nh?t trï¿½n cï¿½c thi?t b? Apple. Khi ? ch? d? nï¿½y:</p>
                     <ul>
-                        <li><strong>Màn hình den hoàn toàn</strong> - không hi?n b?t k? logo nào</li>
-                        <li><strong>B? qua iBoot</strong> - truy c?p tr?c ti?p vào hardware</li>
-                        <li><strong>iTunes/Finder nh?n di?n</strong> - thông báo "iPhone in recovery mode"</li>
-                        <li><strong>Cho phép downgrade</strong> - h? c?p iOS (n?u Apple còn sign)</li>
+                        <li><strong>Mï¿½n hï¿½nh den hoï¿½n toï¿½n</strong> - khï¿½ng hi?n b?t k? logo nï¿½o</li>
+                        <li><strong>B? qua iBoot</strong> - truy c?p tr?c ti?p vï¿½o hardware</li>
+                        <li><strong>iTunes/Finder nh?n di?n</strong> - thï¿½ng bï¿½o "iPhone in recovery mode"</li>
+                        <li><strong>Cho phï¿½p downgrade</strong> - h? c?p iOS (n?u Apple cï¿½n sign)</li>
                         <li><strong>C?n thi?t cho jailbreak</strong> - checkm8, palera1n c?n DFU</li>
-                        <li><strong>Bypass iCloud</strong> - UnlockTool, iRemoval yêu c?u DFU</li>
+                        <li><strong>Bypass iCloud</strong> - UnlockTool, iRemoval yï¿½u c?u DFU</li>
                     </ul>
                     <div class="warning-box">
-                        <strong><i class="fas fa-exclamation-triangle me-2"></i>Luu ý:</strong> DFU Mode khó vào hon Recovery Mode vì yêu c?u timing chính xác khi nh?n các phím.
+                        <strong><i class="fas fa-exclamation-triangle me-2"></i>Luu ï¿½:</strong> DFU Mode khï¿½ vï¿½o hon Recovery Mode vï¿½ yï¿½u c?u timing chï¿½nh xï¿½c khi nh?n cï¿½c phï¿½m.
                     </div>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="mode-card recovery">
-                    <h4><i class="fas fa-sync me-2"></i>Recovery Mode (Ch? d? Khôi ph?c)</h4>
-                    <p><strong>Recovery Mode</strong> là ch? d? khôi ph?c thông thu?ng c?a Apple, d? vào hon DFU:</p>
+                    <h4><i class="fas fa-sync me-2"></i>Recovery Mode (Ch? d? Khï¿½i ph?c)</h4>
+                    <p><strong>Recovery Mode</strong> lï¿½ ch? d? khï¿½i ph?c thï¿½ng thu?ng c?a Apple, d? vï¿½o hon DFU:</p>
                     <ul>
-                        <li><strong>Màn hình hi?n logo</strong> - bi?u tu?ng cáp k?t n?i máy tính</li>
+                        <li><strong>Mï¿½n hï¿½nh hi?n logo</strong> - bi?u tu?ng cï¿½p k?t n?i mï¿½y tï¿½nh</li>
                         <li><strong>Ch?y qua iBoot</strong> - bootloader c?a Apple v?n ho?t d?ng</li>
                         <li><strong>iTunes d? xu?t 2 l?a ch?n</strong> - Update ho?c Restore</li>
-                        <li><strong>Không cho phép downgrade</strong> - ch? cài phiên b?n m?i nh?t</li>
-                        <li><strong>D? vào hon DFU</strong> - ít yêu c?u v? timing</li>
-                        <li><strong>An toàn hon</strong> - ít r?i ro brick máy</li>
+                        <li><strong>Khï¿½ng cho phï¿½p downgrade</strong> - ch? cï¿½i phiï¿½n b?n m?i nh?t</li>
+                        <li><strong>D? vï¿½o hon DFU</strong> - ï¿½t yï¿½u c?u v? timing</li>
+                        <li><strong>An toï¿½n hon</strong> - ï¿½t r?i ro brick mï¿½y</li>
                     </ul>
                     <div class="info-box">
-                        <strong><i class="fas fa-lightbulb me-2"></i>M?o:</strong> N?u b?n ch? c?n restore ho?c update iOS, Recovery Mode là d? và an toàn hon.
+                        <strong><i class="fas fa-lightbulb me-2"></i>M?o:</strong> N?u b?n ch? c?n restore ho?c update iOS, Recovery Mode lï¿½ d? vï¿½ an toï¿½n hon.
                     </div>
                 </div>
             </div>
         </div>
         
-        <!-- Section 2: So sánh -->
-        <h2 id="so-sanh"><i class="fas fa-balance-scale me-2"></i>2. So sánh DFU Mode vs Recovery Mode</h2>
+        <!-- Section 2: So sï¿½nh -->
+        <h2 id="so-sanh"><i class="fas fa-balance-scale me-2"></i>2. So sï¿½nh DFU Mode vs Recovery Mode</h2>
         
-        <p>Ð? hi?u rõ s? khác bi?t gi?a hai ch? d?, hãy xem b?ng so sánh chi ti?t sau:</p>
+        <p>ï¿½? hi?u rï¿½ s? khï¿½c bi?t gi?a hai ch? d?, hï¿½y xem b?ng so sï¿½nh chi ti?t sau:</p>
         
         <table class="comparison-table">
             <thead>
                 <tr>
-                    <th>Ð?c di?m</th>
+                    <th>ï¿½?c di?m</th>
                     <th>DFU Mode</th>
                     <th>Recovery Mode</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <td><strong>Màn hình</strong></td>
-                    <td>Ðen hoàn toàn</td>
-                    <td>Hi?n logo cáp + máy tính</td>
+                    <td><strong>Mï¿½n hï¿½nh</strong></td>
+                    <td>ï¿½en hoï¿½n toï¿½n</td>
+                    <td>Hi?n logo cï¿½p + mï¿½y tï¿½nh</td>
                 </tr>
                 <tr>
                     <td><strong>iBoot ho?t d?ng</strong></td>
-                    <td><i class="fas fa-times times-icon"></i> Không</td>
-                    <td><i class="fas fa-check check-icon"></i> Có</td>
+                    <td><i class="fas fa-times times-icon"></i> Khï¿½ng</td>
+                    <td><i class="fas fa-check check-icon"></i> Cï¿½</td>
                 </tr>
                 <tr>
-                    <td><strong>Ð? khó vào</strong></td>
-                    <td>Khó (c?n timing chính xác)</td>
+                    <td><strong>ï¿½? khï¿½ vï¿½o</strong></td>
+                    <td>Khï¿½ (c?n timing chï¿½nh xï¿½c)</td>
                     <td>D?</td>
                 </tr>
                 <tr>
                     <td><strong>Downgrade iOS</strong></td>
-                    <td><i class="fas fa-check check-icon"></i> Có th? (n?u signed)</td>
-                    <td><i class="fas fa-times times-icon"></i> Không</td>
+                    <td><i class="fas fa-check check-icon"></i> Cï¿½ th? (n?u signed)</td>
+                    <td><i class="fas fa-times times-icon"></i> Khï¿½ng</td>
                 </tr>
                 <tr>
                     <td><strong>Jailbreak</strong></td>
                     <td><i class="fas fa-check check-icon"></i> B?t bu?c</td>
-                    <td><i class="fas fa-times times-icon"></i> Không h? tr?</td>
+                    <td><i class="fas fa-times times-icon"></i> Khï¿½ng h? tr?</td>
                 </tr>
                 <tr>
                     <td><strong>Bypass iCloud</strong></td>
                     <td><i class="fas fa-check check-icon"></i> UnlockTool, iRemoval</td>
-                    <td><i class="fas fa-times times-icon"></i> Không h? tr?</td>
+                    <td><i class="fas fa-times times-icon"></i> Khï¿½ng h? tr?</td>
                 </tr>
                 <tr>
                     <td><strong>Restore/Update</strong></td>
-                    <td><i class="fas fa-check check-icon"></i> Có</td>
-                    <td><i class="fas fa-check check-icon"></i> Có</td>
+                    <td><i class="fas fa-check check-icon"></i> Cï¿½</td>
+                    <td><i class="fas fa-check check-icon"></i> Cï¿½</td>
                 </tr>
                 <tr>
                     <td><strong>R?i ro brick</strong></td>
@@ -314,130 +315,130 @@ $canonical_url = "https://www.unlocktool.us/articles/155-loi-dfurecovery-mode.ph
                 <tr>
                     <td><strong>C?n thi?t cho</strong></td>
                     <td>checkm8, palera1n, UnlockTool</td>
-                    <td>Restore, Update iOS thông thu?ng</td>
+                    <td>Restore, Update iOS thï¿½ng thu?ng</td>
                 </tr>
             </tbody>
         </table>
         
-        <!-- Section 3: Khi nào c?n dùng -->
-        <h2 id="khi-nao-can-dung"><i class="fas fa-question-circle me-2"></i>3. Khi nào c?n dùng DFU Mode / Recovery Mode?</h2>
+        <!-- Section 3: Khi nï¿½o c?n dï¿½ng -->
+        <h2 id="khi-nao-can-dung"><i class="fas fa-question-circle me-2"></i>3. Khi nï¿½o c?n dï¿½ng DFU Mode / Recovery Mode?</h2>
         
-        <h3>3.1. Khi nào c?n DFU Mode?</h3>
+        <h3>3.1. Khi nï¿½o c?n DFU Mode?</h3>
         
-        <p>B?n c?n s? d?ng <strong>DFU Mode</strong> trong các tru?ng h?p sau:</p>
+        <p>B?n c?n s? d?ng <strong>DFU Mode</strong> trong cï¿½c tru?ng h?p sau:</p>
         
         <div class="step-card">
             <span class="step-number">1</span>
             <h5>Bypass iCloud v?i UnlockTool</h5>
-            <p>Khi b?n c?n bypass activation lock, Hello Screen, ho?c passcode trên iPhone 5s d?n iPhone X, UnlockTool yêu c?u thi?t b? ph?i ? ch? d? DFU d? giao ti?p tr?c ti?p v?i chip.</p>
+            <p>Khi b?n c?n bypass activation lock, Hello Screen, ho?c passcode trï¿½n iPhone 5s d?n iPhone X, UnlockTool yï¿½u c?u thi?t b? ph?i ? ch? d? DFU d? giao ti?p tr?c ti?p v?i chip.</p>
         </div>
         
         <div class="step-card">
             <span class="step-number">2</span>
             <h5>Jailbreak b?ng checkm8 / palera1n</h5>
-            <p>Các công c? jailbreak d?a trên exploit checkm8 (nhu palera1n, checkra1n) yêu c?u iPhone ? ch? d? DFU d? inject payload vào bootrom.</p>
+            <p>Cï¿½c cï¿½ng c? jailbreak d?a trï¿½n exploit checkm8 (nhu palera1n, checkra1n) yï¿½u c?u iPhone ? ch? d? DFU d? inject payload vï¿½o bootrom.</p>
         </div>
         
         <div class="step-card">
             <span class="step-number">3</span>
-            <h5>Recovery Mode không ho?t d?ng</h5>
-            <p>Khi máy b? stuck ? logo Apple, Recovery Mode không th? restore du?c, DFU Mode là gi?i pháp cu?i cùng.</p>
+            <h5>Recovery Mode khï¿½ng ho?t d?ng</h5>
+            <p>Khi mï¿½y b? stuck ? logo Apple, Recovery Mode khï¿½ng th? restore du?c, DFU Mode lï¿½ gi?i phï¿½p cu?i cï¿½ng.</p>
         </div>
         
         <div class="step-card">
             <span class="step-number">4</span>
             <h5>H? c?p iOS (Downgrade)</h5>
-            <p>N?u Apple còn ký (sign) phiên b?n iOS cu hon, b?n c?n DFU Mode d? downgrade.</p>
+            <p>N?u Apple cï¿½n kï¿½ (sign) phiï¿½n b?n iOS cu hon, b?n c?n DFU Mode d? downgrade.</p>
         </div>
         
         <div class="step-card">
             <span class="step-number">5</span>
-            <h5>S?a l?i ph?n m?m nghiêm tr?ng</h5>
-            <p>Khi máy boot loop, treo logo, không lên ngu?n - DFU Mode cho phép cài d?t l?i firmware t? d?u.</p>
+            <h5>S?a l?i ph?n m?m nghiï¿½m tr?ng</h5>
+            <p>Khi mï¿½y boot loop, treo logo, khï¿½ng lï¿½n ngu?n - DFU Mode cho phï¿½p cï¿½i d?t l?i firmware t? d?u.</p>
         </div>
         
-        <h3>3.2. Khi nào c?n Recovery Mode?</h3>
+        <h3>3.2. Khi nï¿½o c?n Recovery Mode?</h3>
         
         <p>S? d?ng <strong>Recovery Mode</strong> khi:</p>
         
         <ul>
-            <li><strong>Restore iPhone v? tr?ng thái m?i</strong> - xóa s?ch d? li?u, cài iOS m?i</li>
-            <li><strong>Update iOS th?t b?i</strong> - máy b? stuck khi c?p nh?t OTA</li>
-            <li><strong>Quên passcode</strong> - c?n restore d? xóa passcode (m?t d? li?u)</li>
-            <li><strong>Máy tr?c tr?c ph?n m?m</strong> - màn hình den, treo táo nhung chua d?n m?c c?n DFU</li>
-            <li><strong>H? c?p t? iOS beta</strong> - quay v? phiên b?n stable</li>
+            <li><strong>Restore iPhone v? tr?ng thï¿½i m?i</strong> - xï¿½a s?ch d? li?u, cï¿½i iOS m?i</li>
+            <li><strong>Update iOS th?t b?i</strong> - mï¿½y b? stuck khi c?p nh?t OTA</li>
+            <li><strong>Quï¿½n passcode</strong> - c?n restore d? xï¿½a passcode (m?t d? li?u)</li>
+            <li><strong>Mï¿½y tr?c tr?c ph?n m?m</strong> - mï¿½n hï¿½nh den, treo tï¿½o nhung chua d?n m?c c?n DFU</li>
+            <li><strong>H? c?p t? iOS beta</strong> - quay v? phiï¿½n b?n stable</li>
         </ul>
         
-        <!-- Section 4: Cách vào DFU Mode -->
-        <h2 id="cach-vao-dfu"><i class="fas fa-mobile-alt me-2"></i>4. Cách vào DFU Mode theo t?ng model iPhone</h2>
+        <!-- Section 4: Cï¿½ch vï¿½o DFU Mode -->
+        <h2 id="cach-vao-dfu"><i class="fas fa-mobile-alt me-2"></i>4. Cï¿½ch vï¿½o DFU Mode theo t?ng model iPhone</h2>
         
         <div class="danger-box">
             <h5><i class="fas fa-exclamation-circle me-2"></i>QUAN TR?NG tru?c khi b?t d?u:</h5>
             <ul>
-                <li>Ð?m b?o <strong>iTunes</strong> (Windows/macOS cu) ho?c <strong>Finder</strong> (macOS Catalina+) dã du?c cài d?t và c?p nh?t m?i nh?t</li>
-                <li>S? d?ng <strong>cáp chính hãng Apple</strong> ho?c cáp MFi - cáp r? ti?n có th? gây l?i</li>
-                <li>Th? nhi?u <strong>c?ng USB khác nhau</strong> n?u không thành công</li>
-                <li><strong>Backup d? li?u</strong> n?u có th? - tru?ng h?p c?n restore s? m?t d? li?u</li>
+                <li>ï¿½?m b?o <strong>iTunes</strong> (Windows/macOS cu) ho?c <strong>Finder</strong> (macOS Catalina+) dï¿½ du?c cï¿½i d?t vï¿½ c?p nh?t m?i nh?t</li>
+                <li>S? d?ng <strong>cï¿½p chï¿½nh hï¿½ng Apple</strong> ho?c cï¿½p MFi - cï¿½p r? ti?n cï¿½ th? gï¿½y l?i</li>
+                <li>Th? nhi?u <strong>c?ng USB khï¿½c nhau</strong> n?u khï¿½ng thï¿½nh cï¿½ng</li>
+                <li><strong>Backup d? li?u</strong> n?u cï¿½ th? - tru?ng h?p c?n restore s? m?t d? li?u</li>
             </ul>
         </div>
         
-        <h3>4.1. iPhone 8, iPhone X, và các model m?i hon (8/X/XR/XS/11/12/13/14/15/16)</h3>
+        <h3>4.1. iPhone 8, iPhone X, vï¿½ cï¿½c model m?i hon (8/X/XR/XS/11/12/13/14/15/16)</h3>
         
-        <p>Các model iPhone t? iPhone 8 tr? di s? d?ng phuong pháp m?i d? vào DFU Mode:</p>
+        <p>Cï¿½c model iPhone t? iPhone 8 tr? di s? d?ng phuong phï¿½p m?i d? vï¿½o DFU Mode:</p>
         
         <div class="info-box">
             <h5><i class="fas fa-mobile-alt me-2"></i>Bu?c 1: Chu?n b?</h5>
             <ol>
-                <li>K?t n?i iPhone v?i máy tính b?ng cáp Lightning/USB-C</li>
+                <li>K?t n?i iPhone v?i mï¿½y tï¿½nh b?ng cï¿½p Lightning/USB-C</li>
                 <li>M? iTunes (Windows) ho?c Finder (macOS)</li>
-                <li>Ð?m b?o iPhone dang b?t ngu?n</li>
+                <li>ï¿½?m b?o iPhone dang b?t ngu?n</li>
             </ol>
         </div>
         
         <div class="info-box">
-            <h5><i class="fas fa-hand-pointer me-2"></i>Bu?c 2: Th?c hi?n t? h?p phím</h5>
+            <h5><i class="fas fa-hand-pointer me-2"></i>Bu?c 2: Th?c hi?n t? h?p phï¿½m</h5>
             <ol>
-                <li><strong>Nh?n và th? nhanh</strong> nút <strong>Vol Up</strong> (Tang âm lu?ng)</li>
-                <li><strong>Nh?n và th? nhanh</strong> nút <strong>Vol Down</strong> (Gi?m âm lu?ng)</li>
-                <li><strong>Nh?n và gi?</strong> nút <strong>Side Button</strong> (nút ngu?n bên c?nh) cho d?n khi màn hình <strong>den hoàn toàn</strong></li>
-                <li>Ngay khi màn hình den, <strong>ti?p t?c gi? Side Button</strong> + <strong>nh?n gi? thêm Vol Down</strong> trong <strong>5 giây</strong></li>
-                <li>Sau 5 giây, <strong>th? Side Button</strong> nhung <strong>ti?p t?c gi? Vol Down</strong> thêm <strong>10 giây</strong></li>
+                <li><strong>Nh?n vï¿½ th? nhanh</strong> nï¿½t <strong>Vol Up</strong> (Tang ï¿½m lu?ng)</li>
+                <li><strong>Nh?n vï¿½ th? nhanh</strong> nï¿½t <strong>Vol Down</strong> (Gi?m ï¿½m lu?ng)</li>
+                <li><strong>Nh?n vï¿½ gi?</strong> nï¿½t <strong>Side Button</strong> (nï¿½t ngu?n bï¿½n c?nh) cho d?n khi mï¿½n hï¿½nh <strong>den hoï¿½n toï¿½n</strong></li>
+                <li>Ngay khi mï¿½n hï¿½nh den, <strong>ti?p t?c gi? Side Button</strong> + <strong>nh?n gi? thï¿½m Vol Down</strong> trong <strong>5 giï¿½y</strong></li>
+                <li>Sau 5 giï¿½y, <strong>th? Side Button</strong> nhung <strong>ti?p t?c gi? Vol Down</strong> thï¿½m <strong>10 giï¿½y</strong></li>
             </ol>
         </div>
         
         <div class="tip-box">
-            <h5><i class="fas fa-check-circle me-2"></i>Xác nh?n thành công:</h5>
+            <h5><i class="fas fa-check-circle me-2"></i>Xï¿½c nh?n thï¿½nh cï¿½ng:</h5>
             <ul>
-                <li><strong>Màn hình den hoàn toàn</strong> - không hi?n logo Apple hay b?t k? th? gì</li>
-                <li><strong>iTunes/Finder hi?n th? thông báo:</strong> "iTunes has detected an iPhone in recovery mode"</li>
-                <li>N?u th?y logo Apple ? b?n dã gi? quá lâu, th? l?i</li>
-                <li>N?u th?y logo Recovery (cáp + máy tính) ? b?n dang ? Recovery Mode, không ph?i DFU</li>
+                <li><strong>Mï¿½n hï¿½nh den hoï¿½n toï¿½n</strong> - khï¿½ng hi?n logo Apple hay b?t k? th? gï¿½</li>
+                <li><strong>iTunes/Finder hi?n th? thï¿½ng bï¿½o:</strong> "iTunes has detected an iPhone in recovery mode"</li>
+                <li>N?u th?y logo Apple ? b?n dï¿½ gi? quï¿½ lï¿½u, th? l?i</li>
+                <li>N?u th?y logo Recovery (cï¿½p + mï¿½y tï¿½nh) ? b?n dang ? Recovery Mode, khï¿½ng ph?i DFU</li>
             </ul>
         </div>
         
-        <h3>4.2. iPhone 7 và iPhone 7 Plus</h3>
+        <h3>4.2. iPhone 7 vï¿½ iPhone 7 Plus</h3>
         
-        <p>iPhone 7/7+ có nút Home c?m ?ng (không ph?i nút v?t lý), nên cách vào DFU khác:</p>
+        <p>iPhone 7/7+ cï¿½ nï¿½t Home c?m ?ng (khï¿½ng ph?i nï¿½t v?t lï¿½), nï¿½n cï¿½ch vï¿½o DFU khï¿½c:</p>
         
         <div class="info-box">
             <ol>
-                <li>K?t n?i iPhone 7 v?i máy tính</li>
-                <li><strong>Nh?n và gi? d?ng th?i</strong> nút <strong>Power (Side)</strong> + <strong>Vol Down</strong> trong <strong>8 giây</strong></li>
-                <li>Sau 8 giây, <strong>th? nút Power</strong> nhung <strong>ti?p t?c gi? Vol Down</strong> thêm <strong>10 giây</strong></li>
-                <li>Màn hình den + iTunes nh?n = Thành công!</li>
+                <li>K?t n?i iPhone 7 v?i mï¿½y tï¿½nh</li>
+                <li><strong>Nh?n vï¿½ gi? d?ng th?i</strong> nï¿½t <strong>Power (Side)</strong> + <strong>Vol Down</strong> trong <strong>8 giï¿½y</strong></li>
+                <li>Sau 8 giï¿½y, <strong>th? nï¿½t Power</strong> nhung <strong>ti?p t?c gi? Vol Down</strong> thï¿½m <strong>10 giï¿½y</strong></li>
+                <li>Mï¿½n hï¿½nh den + iTunes nh?n = Thï¿½nh cï¿½ng!</li>
             </ol>
         </div>
         
-        <h3>4.3. iPhone 6s tr? v? tru?c (có nút Home v?t lý)</h3>
+        <h3>4.3. iPhone 6s tr? v? tru?c (cï¿½ nï¿½t Home v?t lï¿½)</h3>
         
-        <p>Áp d?ng cho: iPhone 5s, iPhone 6, iPhone 6 Plus, iPhone 6s, iPhone 6s Plus, iPhone SE (th? h? 1)</p>
+        <p>ï¿½p d?ng cho: iPhone 5s, iPhone 6, iPhone 6 Plus, iPhone 6s, iPhone 6s Plus, iPhone SE (th? h? 1)</p>
         
         <div class="info-box">
             <ol>
-                <li>K?t n?i iPhone v?i máy tính</li>
-                <li><strong>Nh?n và gi? d?ng th?i</strong> nút <strong>Power</strong> + <strong>Home</strong> trong <strong>8 giây</strong></li>
-                <li>Sau 8 giây, <strong>th? nút Power</strong> nhung <strong>ti?p t?c gi? Home</strong> thêm <strong>10 giây</strong></li>
-                <li>Màn hình den + iTunes nh?n = Thành công!</li>
+                <li>K?t n?i iPhone v?i mï¿½y tï¿½nh</li>
+                <li><strong>Nh?n vï¿½ gi? d?ng th?i</strong> nï¿½t <strong>Power</strong> + <strong>Home</strong> trong <strong>8 giï¿½y</strong></li>
+                <li>Sau 8 giï¿½y, <strong>th? nï¿½t Power</strong> nhung <strong>ti?p t?c gi? Home</strong> thï¿½m <strong>10 giï¿½y</strong></li>
+                <li>Mï¿½n hï¿½nh den + iTunes nh?n = Thï¿½nh cï¿½ng!</li>
             </ol>
         </div>
         
@@ -447,7 +448,7 @@ $canonical_url = "https://www.unlocktool.us/articles/155-loi-dfurecovery-mode.ph
             <thead>
                 <tr>
                     <th>Model iPad</th>
-                    <th>Cách vào DFU Mode</th>
+                    <th>Cï¿½ch vï¿½o DFU Mode</th>
                 </tr>
             </thead>
             <tbody>
@@ -456,25 +457,25 @@ $canonical_url = "https://www.unlocktool.us/articles/155-loi-dfurecovery-mode.ph
                     <td>Gi?ng iPhone X+: Vol Up ? Vol Down ? Gi? Power ? Gi? Power + Vol Down 5s ? Gi? Vol Down 10s</td>
                 </tr>
                 <tr>
-                    <td><strong>iPad có nút Home</strong><br>iPad Air, iPad mini, iPad thu?ng</td>
+                    <td><strong>iPad cï¿½ nï¿½t Home</strong><br>iPad Air, iPad mini, iPad thu?ng</td>
                     <td>Gi?ng iPhone 6s: Gi? Power + Home 8s ? Gi? Home 10s</td>
                 </tr>
             </tbody>
         </table>
         
-        <!-- Section 5: Cách vào Recovery Mode -->
-        <h2 id="cach-vao-recovery"><i class="fas fa-sync me-2"></i>5. Cách vào Recovery Mode</h2>
+        <!-- Section 5: Cï¿½ch vï¿½o Recovery Mode -->
+        <h2 id="cach-vao-recovery"><i class="fas fa-sync me-2"></i>5. Cï¿½ch vï¿½o Recovery Mode</h2>
         
-        <p>Recovery Mode d? vào hon DFU Mode nhi?u. Ðây là hu?ng d?n cho t?ng model:</p>
+        <p>Recovery Mode d? vï¿½o hon DFU Mode nhi?u. ï¿½ï¿½y lï¿½ hu?ng d?n cho t?ng model:</p>
         
         <h3>5.1. iPhone 8/X/XR/XS/11/12/13/14/15/16</h3>
         
         <div class="info-box">
             <ol>
-                <li>K?t n?i iPhone v?i máy tính có iTunes/Finder</li>
-                <li><strong>Nh?n và th? nhanh Vol Up</strong></li>
-                <li><strong>Nh?n và th? nhanh Vol Down</strong></li>
-                <li><strong>Nh?n và gi? Side Button</strong> cho d?n khi màn hình hi?n <strong>logo Recovery</strong> (bi?u tu?ng cáp k?t n?i máy tính)</li>
+                <li>K?t n?i iPhone v?i mï¿½y tï¿½nh cï¿½ iTunes/Finder</li>
+                <li><strong>Nh?n vï¿½ th? nhanh Vol Up</strong></li>
+                <li><strong>Nh?n vï¿½ th? nhanh Vol Down</strong></li>
+                <li><strong>Nh?n vï¿½ gi? Side Button</strong> cho d?n khi mï¿½n hï¿½nh hi?n <strong>logo Recovery</strong> (bi?u tu?ng cï¿½p k?t n?i mï¿½y tï¿½nh)</li>
                 <li>Ti?p t?c gi? cho d?n khi iTunes/Finder nh?n di?n</li>
             </ol>
         </div>
@@ -483,8 +484,8 @@ $canonical_url = "https://www.unlocktool.us/articles/155-loi-dfurecovery-mode.ph
         
         <div class="info-box">
             <ol>
-                <li>K?t n?i v?i máy tính</li>
-                <li><strong>Nh?n và gi? Power + Vol Down</strong> cùng lúc</li>
+                <li>K?t n?i v?i mï¿½y tï¿½nh</li>
+                <li><strong>Nh?n vï¿½ gi? Power + Vol Down</strong> cï¿½ng lï¿½c</li>
                 <li>Ti?p t?c gi? cho d?n khi hi?n logo Recovery</li>
             </ol>
         </div>
@@ -493,237 +494,237 @@ $canonical_url = "https://www.unlocktool.us/articles/155-loi-dfurecovery-mode.ph
         
         <div class="info-box">
             <ol>
-                <li>K?t n?i v?i máy tính</li>
-                <li><strong>Nh?n và gi? Power + Home</strong> cùng lúc</li>
+                <li>K?t n?i v?i mï¿½y tï¿½nh</li>
+                <li><strong>Nh?n vï¿½ gi? Power + Home</strong> cï¿½ng lï¿½c</li>
                 <li>Ti?p t?c gi? cho d?n khi hi?n logo Recovery</li>
             </ol>
         </div>
         
-        <h3>5.4. Cách nhanh: K?t n?i khi dang t?t ngu?n</h3>
+        <h3>5.4. Cï¿½ch nhanh: K?t n?i khi dang t?t ngu?n</h3>
         
         <div class="tip-box">
-            <p><strong>M?o:</strong> N?u iPhone dang t?t ngu?n, b?n có th?:</p>
+            <p><strong>M?o:</strong> N?u iPhone dang t?t ngu?n, b?n cï¿½ th?:</p>
             <ol>
-                <li>Gi? nút <strong>Side/Power</strong></li>
-                <li>Trong khi gi?, <strong>c?m cáp USB</strong> vào máy tính</li>
+                <li>Gi? nï¿½t <strong>Side/Power</strong></li>
+                <li>Trong khi gi?, <strong>c?m cï¿½p USB</strong> vï¿½o mï¿½y tï¿½nh</li>
                 <li>Ti?p t?c gi? cho d?n khi hi?n logo Recovery</li>
             </ol>
         </div>
         
-        <!-- Section 6: Cách thoát -->
-        <h2 id="cach-thoat"><i class="fas fa-sign-out-alt me-2"></i>6. Cách thoát DFU Mode và Recovery Mode</h2>
+        <!-- Section 6: Cï¿½ch thoï¿½t -->
+        <h2 id="cach-thoat"><i class="fas fa-sign-out-alt me-2"></i>6. Cï¿½ch thoï¿½t DFU Mode vï¿½ Recovery Mode</h2>
         
-        <h3>6.1. Thoát DFU Mode</h3>
+        <h3>6.1. Thoï¿½t DFU Mode</h3>
         
         <div class="info-box">
-            <h5>iPhone 8/X tr? lên:</h5>
+            <h5>iPhone 8/X tr? lï¿½n:</h5>
             <ol>
-                <li><strong>Nh?n và th? nhanh Vol Up</strong></li>
-                <li><strong>Nh?n và th? nhanh Vol Down</strong></li>
-                <li><strong>Nh?n và gi? Side Button</strong> cho d?n khi logo Apple xu?t hi?n</li>
+                <li><strong>Nh?n vï¿½ th? nhanh Vol Up</strong></li>
+                <li><strong>Nh?n vï¿½ th? nhanh Vol Down</strong></li>
+                <li><strong>Nh?n vï¿½ gi? Side Button</strong> cho d?n khi logo Apple xu?t hi?n</li>
             </ol>
         </div>
         
         <div class="info-box">
             <h5>iPhone 7/7 Plus:</h5>
-            <p>Nh?n và gi? <strong>Power + Vol Down</strong> cho d?n khi logo Apple xu?t hi?n</p>
+            <p>Nh?n vï¿½ gi? <strong>Power + Vol Down</strong> cho d?n khi logo Apple xu?t hi?n</p>
         </div>
         
         <div class="info-box">
             <h5>iPhone 6s tr? v? tru?c:</h5>
-            <p>Nh?n và gi? <strong>Power + Home</strong> cho d?n khi logo Apple xu?t hi?n</p>
+            <p>Nh?n vï¿½ gi? <strong>Power + Home</strong> cho d?n khi logo Apple xu?t hi?n</p>
         </div>
         
-        <h3>6.2. Thoát Recovery Mode</h3>
+        <h3>6.2. Thoï¿½t Recovery Mode</h3>
         
-        <p>Ð? thoát Recovery Mode, b?n có th?:</p>
+        <p>ï¿½? thoï¿½t Recovery Mode, b?n cï¿½ th?:</p>
         
         <ul>
-            <li><strong>Force Restart:</strong> Th?c hi?n t? h?p phím nhu thoát DFU Mode</li>
-            <li><strong>S? d?ng công c?:</strong> RecBoot, TinyUmbrella, ReiBoot có th? exit Recovery Mode t? d?ng</li>
-            <li><strong>Restore:</strong> N?u không thoát du?c, restore qua iTunes (s? m?t d? li?u)</li>
+            <li><strong>Force Restart:</strong> Th?c hi?n t? h?p phï¿½m nhu thoï¿½t DFU Mode</li>
+            <li><strong>S? d?ng cï¿½ng c?:</strong> RecBoot, TinyUmbrella, ReiBoot cï¿½ th? exit Recovery Mode t? d?ng</li>
+            <li><strong>Restore:</strong> N?u khï¿½ng thoï¿½t du?c, restore qua iTunes (s? m?t d? li?u)</li>
         </ul>
         
         <div class="warning-box">
             <h5><i class="fas fa-exclamation-triangle me-2"></i>Stuck Recovery Mode:</h5>
-            <p>N?u iPhone b? stuck ? Recovery Mode (không thoát du?c), dây thu?ng là d?u hi?u c?a l?i ph?n m?m. B?n c?n restore máy ho?c s? d?ng công c? chuyên d?ng nhu <strong>ReiBoot</strong> d? fix.</p>
+            <p>N?u iPhone b? stuck ? Recovery Mode (khï¿½ng thoï¿½t du?c), dï¿½y thu?ng lï¿½ d?u hi?u c?a l?i ph?n m?m. B?n c?n restore mï¿½y ho?c s? d?ng cï¿½ng c? chuyï¿½n d?ng nhu <strong>ReiBoot</strong> d? fix.</p>
         </div>
         
         <!-- Section 7: L?i thu?ng g?p -->
-        <h2 id="loi-thuong-gap"><i class="fas fa-bug me-2"></i>7. L?i thu?ng g?p và cách kh?c ph?c</h2>
+        <h2 id="loi-thuong-gap"><i class="fas fa-bug me-2"></i>7. L?i thu?ng g?p vï¿½ cï¿½ch kh?c ph?c</h2>
         
-        <h3>7.1. Không vào du?c DFU Mode</h3>
+        <h3>7.1. Khï¿½ng vï¿½o du?c DFU Mode</h3>
         
         <div class="faq-item">
-            <h5>Nguyên nhân và gi?i pháp:</h5>
+            <h5>Nguyï¿½n nhï¿½n vï¿½ gi?i phï¿½p:</h5>
             <ul>
-                <li><strong>Timing không dúng:</strong> Ðây là l?i ph? bi?n nh?t. Th?c hành nhi?u l?n, d?m chính xác 5 giây và 10 giây.</li>
-                <li><strong>Cáp kém ch?t lu?ng:</strong> S? d?ng cáp chính hãng Apple ho?c cáp MFi certified.</li>
-                <li><strong>C?ng USB l?i:</strong> Th? c?ng USB khác, t?t nh?t là c?ng USB 2.0 ? phía sau case (desktop).</li>
-                <li><strong>iTunes chua c?p nh?t:</strong> Update iTunes/Finder lên phiên b?n m?i nh?t.</li>
-                <li><strong>Nút Home/Power h?ng:</strong> N?u các nút v?t lý b? l?i, b?n c?n s?a ch?a ph?n c?ng tru?c.</li>
+                <li><strong>Timing khï¿½ng dï¿½ng:</strong> ï¿½ï¿½y lï¿½ l?i ph? bi?n nh?t. Th?c hï¿½nh nhi?u l?n, d?m chï¿½nh xï¿½c 5 giï¿½y vï¿½ 10 giï¿½y.</li>
+                <li><strong>Cï¿½p kï¿½m ch?t lu?ng:</strong> S? d?ng cï¿½p chï¿½nh hï¿½ng Apple ho?c cï¿½p MFi certified.</li>
+                <li><strong>C?ng USB l?i:</strong> Th? c?ng USB khï¿½c, t?t nh?t lï¿½ c?ng USB 2.0 ? phï¿½a sau case (desktop).</li>
+                <li><strong>iTunes chua c?p nh?t:</strong> Update iTunes/Finder lï¿½n phiï¿½n b?n m?i nh?t.</li>
+                <li><strong>Nï¿½t Home/Power h?ng:</strong> N?u cï¿½c nï¿½t v?t lï¿½ b? l?i, b?n c?n s?a ch?a ph?n c?ng tru?c.</li>
             </ul>
         </div>
         
-        <h3>7.2. iTunes không nh?n iPhone trong DFU Mode</h3>
+        <h3>7.2. iTunes khï¿½ng nh?n iPhone trong DFU Mode</h3>
         
         <div class="faq-item">
-            <h5>Gi?i pháp:</h5>
+            <h5>Gi?i phï¿½p:</h5>
             <ul>
-                <li>Cài d?t/g? cài d?t l?i iTunes</li>
-                <li>Cài Apple Mobile Device Support riêng</li>
-                <li>Ki?m tra Device Manager xem có thi?t b? "Unknown" không</li>
-                <li>Th? máy tính khác</li>
-                <li>Trên Windows: T?t antivirus t?m th?i</li>
+                <li>Cï¿½i d?t/g? cï¿½i d?t l?i iTunes</li>
+                <li>Cï¿½i Apple Mobile Device Support riï¿½ng</li>
+                <li>Ki?m tra Device Manager xem cï¿½ thi?t b? "Unknown" khï¿½ng</li>
+                <li>Th? mï¿½y tï¿½nh khï¿½c</li>
+                <li>Trï¿½n Windows: T?t antivirus t?m th?i</li>
             </ul>
         </div>
         
-        <h3>7.3. T? d?ng thoát DFU Mode</h3>
+        <h3>7.3. T? d?ng thoï¿½t DFU Mode</h3>
         
         <div class="faq-item">
-            <h5>Nguyên nhân:</h5>
+            <h5>Nguyï¿½n nhï¿½n:</h5>
             <ul>
-                <li>Cáp không ?n d?nh - di chuy?n cáp gây m?t k?t n?i</li>
-                <li>Pin quá y?u - s?c máy ít nh?t 20% tru?c khi th?</li>
-                <li>Nút b? h?ng - nút không gi? du?c tr?ng thái nh?n</li>
+                <li>Cï¿½p khï¿½ng ?n d?nh - di chuy?n cï¿½p gï¿½y m?t k?t n?i</li>
+                <li>Pin quï¿½ y?u - s?c mï¿½y ï¿½t nh?t 20% tru?c khi th?</li>
+                <li>Nï¿½t b? h?ng - nï¿½t khï¿½ng gi? du?c tr?ng thï¿½i nh?n</li>
             </ul>
         </div>
         
-        <h3>7.4. Hi?n logo Apple thay vì màn hình den</h3>
+        <h3>7.4. Hi?n logo Apple thay vï¿½ mï¿½n hï¿½nh den</h3>
         
         <div class="faq-item">
-            <h5>B?n dã gi? nút quá lâu:</h5>
-            <p>Khi th?y logo Apple, di?u dó có nghia là máy dang boot bình thu?ng. B?n c?n th? l?i và <strong>th? nút dúng th?i di?m</strong> (không gi? quá lâu).</p>
+            <h5>B?n dï¿½ gi? nï¿½t quï¿½ lï¿½u:</h5>
+            <p>Khi th?y logo Apple, di?u dï¿½ cï¿½ nghia lï¿½ mï¿½y dang boot bï¿½nh thu?ng. B?n c?n th? l?i vï¿½ <strong>th? nï¿½t dï¿½ng th?i di?m</strong> (khï¿½ng gi? quï¿½ lï¿½u).</p>
         </div>
         
-        <!-- Section 8: Công c? h? tr? -->
-        <h2 id="cong-cu-ho-tro"><i class="fas fa-tools me-2"></i>8. Công c? h? tr? vào DFU/Recovery Mode</h2>
+        <!-- Section 8: Cï¿½ng c? h? tr? -->
+        <h2 id="cong-cu-ho-tro"><i class="fas fa-tools me-2"></i>8. Cï¿½ng c? h? tr? vï¿½o DFU/Recovery Mode</h2>
         
-        <p>N?u b?n g?p khó khan khi th?c hi?n th? công, có m?t s? công c? h? tr?:</p>
+        <p>N?u b?n g?p khï¿½ khan khi th?c hi?n th? cï¿½ng, cï¿½ m?t s? cï¿½ng c? h? tr?:</p>
         
         <table class="model-table">
             <thead>
                 <tr>
-                    <th>Công c?</th>
-                    <th>Tính nang</th>
-                    <th>Giá</th>
+                    <th>Cï¿½ng c?</th>
+                    <th>Tï¿½nh nang</th>
+                    <th>Giï¿½</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><strong>RecBoot</strong></td>
-                    <td>Vào/thoát Recovery Mode 1 click</td>
-                    <td>Mi?n phí</td>
+                    <td>Vï¿½o/thoï¿½t Recovery Mode 1 click</td>
+                    <td>Mi?n phï¿½</td>
                 </tr>
                 <tr>
                     <td><strong>TinyUmbrella</strong></td>
                     <td>Exit Recovery Mode, luu SHSH</td>
-                    <td>Mi?n phí</td>
+                    <td>Mi?n phï¿½</td>
                 </tr>
                 <tr>
                     <td><strong>Tenorshare ReiBoot</strong></td>
-                    <td>Vào/thoát Recovery + Fix l?i iOS</td>
+                    <td>Vï¿½o/thoï¿½t Recovery + Fix l?i iOS</td>
                     <td>$29.95/nam</td>
                 </tr>
                 <tr>
                     <td><strong>iMyFone Fixppo</strong></td>
-                    <td>Fix l?i iOS không m?t d? li?u</td>
+                    <td>Fix l?i iOS khï¿½ng m?t d? li?u</td>
                     <td>$39.95/nam</td>
                 </tr>
                 <tr>
                     <td><strong>3uTools</strong></td>
-                    <td>Qu?n lý iOS + Enter DFU/Recovery</td>
-                    <td>Mi?n phí</td>
+                    <td>Qu?n lï¿½ iOS + Enter DFU/Recovery</td>
+                    <td>Mi?n phï¿½</td>
                 </tr>
             </tbody>
         </table>
         
         <!-- Section 9: UnlockTool -->
-        <h2 id="unlocktool"><i class="fas fa-unlock me-2"></i>9. UnlockTool và DFU Mode</h2>
+        <h2 id="unlocktool"><i class="fas fa-unlock me-2"></i>9. UnlockTool vï¿½ DFU Mode</h2>
         
-        <p><strong>UnlockTool</strong> là m?t trong nh?ng công c? ph? bi?n nh?t d? bypass iCloud, xóa passcode, và m? khóa iPhone. Và h?u h?t các tính nang c?a UnlockTool d?u yêu c?u iPhone ph?i ? ch? d? <strong>DFU Mode</strong>.</p>
+        <p><strong>UnlockTool</strong> lï¿½ m?t trong nh?ng cï¿½ng c? ph? bi?n nh?t d? bypass iCloud, xï¿½a passcode, vï¿½ m? khï¿½a iPhone. Vï¿½ h?u h?t cï¿½c tï¿½nh nang c?a UnlockTool d?u yï¿½u c?u iPhone ph?i ? ch? d? <strong>DFU Mode</strong>.</p>
         
-        <h3>9.1. Các tính nang c?n DFU Mode</h3>
+        <h3>9.1. Cï¿½c tï¿½nh nang c?n DFU Mode</h3>
         
         <ul>
             <li><strong>Bypass iCloud Activation (Hello Screen)</strong> - iPhone 5s d?n iPhone X</li>
-            <li><strong>Xóa passcode màn hình</strong> - T?t c? model</li>
+            <li><strong>Xï¿½a passcode mï¿½n hï¿½nh</strong> - T?t c? model</li>
             <li><strong>Bypass MDM (Remote Management)</strong></li>
             <li><strong>Disable/Enable SIM Lock</strong></li>
             <li><strong>Read/Write NVMe data</strong></li>
         </ul>
         
-        <h3>9.2. UnlockTool h? tr? vào DFU</h3>
+        <h3>9.2. UnlockTool h? tr? vï¿½o DFU</h3>
         
-        <p>UnlockTool có tính nang hu?ng d?n vào DFU Mode tr?c ti?p trên ph?n m?m:</p>
+        <p>UnlockTool cï¿½ tï¿½nh nang hu?ng d?n vï¿½o DFU Mode tr?c ti?p trï¿½n ph?n m?m:</p>
         
         <ol>
             <li>M? UnlockTool, k?t n?i iPhone</li>
             <li>Ch?n <strong>"Enter DFU"</strong> trong menu</li>
-            <li>Làm theo hu?ng d?n trên màn hình</li>
+            <li>Lï¿½m theo hu?ng d?n trï¿½n mï¿½n hï¿½nh</li>
             <li>UnlockTool s? d?m th?i gian cho b?n</li>
         </ol>
         
         <div class="price-box">
-            <h3><i class="fas fa-fire me-2"></i>FLASH SALE: Thuê UnlockTool CH? 8.000d/6 ti?ng!</h3>
-            <p>R? nh?t Vi?t Nam - H? th?ng t? d?ng 24/7 - Nh?n tài kho?n ngay</p>
-            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg me-2"><i class="fas fa-bolt me-2"></i>Thuê Ngay 8K</a>
-            <a href="https://www.unlocktool.us/" class="btn btn-outline-light btn-lg"><i class="fas fa-info-circle me-2"></i>Xem B?ng Giá</a>
+            <h3><i class="fas fa-fire me-2"></i>FLASH SALE: Thuï¿½ UnlockTool CH? 8.000d/6 ti?ng!</h3>
+            <p>R? nh?t Vi?t Nam - H? th?ng t? d?ng 24/7 - Nh?n tï¿½i kho?n ngay</p>
+            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg me-2"><i class="fas fa-bolt me-2"></i>Thuï¿½ Ngay 8K</a>
+            <a href="https://www.unlocktool.us/" class="btn btn-outline-light btn-lg"><i class="fas fa-info-circle me-2"></i>Xem B?ng Giï¿½</a>
         </div>
         
         <!-- Section 10: FAQ -->
-        <h2 id="faq"><i class="fas fa-question-circle me-2"></i>10. Câu h?i thu?ng g?p (FAQ)</h2>
+        <h2 id="faq"><i class="fas fa-question-circle me-2"></i>10. Cï¿½u h?i thu?ng g?p (FAQ)</h2>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>DFU Mode có xóa d? li?u không?</h5>
-            <p><strong>Không.</strong> Ch? vào DFU Mode không xóa b?t k? d? li?u nào. Tuy nhiên, n?u b?n <strong>Restore</strong> t? DFU Mode thì s? xóa toàn b? d? li?u trên thi?t b?.</p>
+            <h5><i class="fas fa-question me-2"></i>DFU Mode cï¿½ xï¿½a d? li?u khï¿½ng?</h5>
+            <p><strong>Khï¿½ng.</strong> Ch? vï¿½o DFU Mode khï¿½ng xï¿½a b?t k? d? li?u nï¿½o. Tuy nhiï¿½n, n?u b?n <strong>Restore</strong> t? DFU Mode thï¿½ s? xï¿½a toï¿½n b? d? li?u trï¿½n thi?t b?.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>S? khác bi?t gi?a DFU Mode và Recovery Mode?</h5>
-            <p><strong>DFU Mode:</strong> Màn hình den, b? qua iBoot, dùng cho jailbreak/bypass. <strong>Recovery Mode:</strong> Hi?n logo, dùng cho restore/update thông thu?ng.</p>
+            <h5><i class="fas fa-question me-2"></i>S? khï¿½c bi?t gi?a DFU Mode vï¿½ Recovery Mode?</h5>
+            <p><strong>DFU Mode:</strong> Mï¿½n hï¿½nh den, b? qua iBoot, dï¿½ng cho jailbreak/bypass. <strong>Recovery Mode:</strong> Hi?n logo, dï¿½ng cho restore/update thï¿½ng thu?ng.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>iPhone không lên ngu?n có vào du?c DFU không?</h5>
-            <p><strong>Có.</strong> DFU Mode không c?n iOS boot, ch? c?n ph?n c?ng ho?t d?ng. N?u nút b?m còn ho?t d?ng, b?n v?n có th? vào DFU.</p>
+            <h5><i class="fas fa-question me-2"></i>iPhone khï¿½ng lï¿½n ngu?n cï¿½ vï¿½o du?c DFU khï¿½ng?</h5>
+            <p><strong>Cï¿½.</strong> DFU Mode khï¿½ng c?n iOS boot, ch? c?n ph?n c?ng ho?t d?ng. N?u nï¿½t b?m cï¿½n ho?t d?ng, b?n v?n cï¿½ th? vï¿½o DFU.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>T?i sao UnlockTool yêu c?u DFU Mode?</h5>
-            <p>Vì UnlockTool s? d?ng <strong>checkm8 exploit</strong> d? bypass iCloud. Exploit này ch? ho?t d?ng ? c?p BootROM, và DFU Mode là cách duy nh?t d? truy c?p BootROM.</p>
+            <h5><i class="fas fa-question me-2"></i>T?i sao UnlockTool yï¿½u c?u DFU Mode?</h5>
+            <p>Vï¿½ UnlockTool s? d?ng <strong>checkm8 exploit</strong> d? bypass iCloud. Exploit nï¿½y ch? ho?t d?ng ? c?p BootROM, vï¿½ DFU Mode lï¿½ cï¿½ch duy nh?t d? truy c?p BootROM.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Máy b? stuck ? Recovery Mode thì sao?</h5>
-            <p>S? d?ng công c? nhu <strong>RecBoot, ReiBoot</strong> d? thoát. N?u không du?c, b?n c?n Restore qua iTunes (s? m?t d? li?u).</p>
+            <h5><i class="fas fa-question me-2"></i>Mï¿½y b? stuck ? Recovery Mode thï¿½ sao?</h5>
+            <p>S? d?ng cï¿½ng c? nhu <strong>RecBoot, ReiBoot</strong> d? thoï¿½t. N?u khï¿½ng du?c, b?n c?n Restore qua iTunes (s? m?t d? li?u).</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>DFU Mode có an toàn không?</h5>
-            <p><strong>Có.</strong> DFU Mode là tính nang chính th?c c?a Apple, không gây hu h?ng thi?t b?. Tuy nhiên, các thao tác t? DFU (nhu restore, jailbreak) có th? có r?i ro n?u th?c hi?n sai.</p>
+            <h5><i class="fas fa-question me-2"></i>DFU Mode cï¿½ an toï¿½n khï¿½ng?</h5>
+            <p><strong>Cï¿½.</strong> DFU Mode lï¿½ tï¿½nh nang chï¿½nh th?c c?a Apple, khï¿½ng gï¿½y hu h?ng thi?t b?. Tuy nhiï¿½n, cï¿½c thao tï¿½c t? DFU (nhu restore, jailbreak) cï¿½ th? cï¿½ r?i ro n?u th?c hi?n sai.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Tôi c?n thuê UnlockTool ? dâu?</h5>
-            <p>Thuê t?i <a href="https://www.unlocktool.us/"><strong>UnlockTool.us</strong></a> - H? th?ng t? d?ng 24/7, nh?n tài kho?n ngay l?p t?c. Giá ch? <strong>8.000d/6 ti?ng</strong> - r? nh?t Vi?t Nam!</p>
+            <h5><i class="fas fa-question me-2"></i>Tï¿½i c?n thuï¿½ UnlockTool ? dï¿½u?</h5>
+            <p>Thuï¿½ t?i <a href="https://www.unlocktool.us/"><strong>UnlockTool.us</strong></a> - H? th?ng t? d?ng 24/7, nh?n tï¿½i kho?n ngay l?p t?c. Giï¿½ ch? <strong>8.000d/6 ti?ng</strong> - r? nh?t Vi?t Nam!</p>
         </div>
         
         <!-- CTA Section -->
         <div class="price-box">
-            <h3><i class="fas fa-rocket me-2"></i>C?n Bypass iCloud? Thuê UnlockTool Ngay!</h3>
-            <p class="mb-4">UnlockTool h? tr? bypass iCloud, xóa passcode cho iPhone 5s d?n iPhone X. Yêu c?u DFU Mode - hu?ng d?n chi ti?t ? trên!</p>
-            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>Thuê UnlockTool 8K</a>
+            <h3><i class="fas fa-rocket me-2"></i>C?n Bypass iCloud? Thuï¿½ UnlockTool Ngay!</h3>
+            <p class="mb-4">UnlockTool h? tr? bypass iCloud, xï¿½a passcode cho iPhone 5s d?n iPhone X. Yï¿½u c?u DFU Mode - hu?ng d?n chi ti?t ? trï¿½n!</p>
+            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>Thuï¿½ UnlockTool 8K</a>
         </div>
         
         <!-- Related Articles -->
-        <h2><i class="fas fa-link me-2"></i>Bài vi?t liên quan</h2>
+        <h2><i class="fas fa-link me-2"></i>Bï¿½i vi?t liï¿½n quan</h2>
         <ul>
             <li><a href="5-bypass-icloud-iphone.php">Bypass iCloud iPhone b?ng UnlockTool - Hu?ng d?n chi ti?t</a></li>
             <li><a href="65-jailbreak-iphone.php">Jailbreak iPhone 2026 - Checkm8, Palera1n, Checkra1n</a></li>
-            <li><a href="14-thue-unlocktool-gia-re.php">Thuê UnlockTool Giá R? Nh?t - Ch? 8K Flash Sale</a></li>
-            <li><a href="1-unlocktool-la-gi.php">UnlockTool là gì? Hu?ng d?n toàn di?n 2026</a></li>
-            <li><a href="8-loi-unlocktool.php">L?i UnlockTool thu?ng g?p và cách kh?c ph?c</a></li>
+            <li><a href="14-thue-unlocktool-gia-re.php">Thuï¿½ UnlockTool Giï¿½ R? Nh?t - Ch? 8K Flash Sale</a></li>
+            <li><a href="1-unlocktool-la-gi.php">UnlockTool lï¿½ gï¿½? Hu?ng d?n toï¿½n di?n 2026</a></li>
+            <li><a href="8-loi-unlocktool.php">L?i UnlockTool thu?ng g?p vï¿½ cï¿½ch kh?c ph?c</a></li>
         </ul>
         
     </div>
@@ -736,7 +737,7 @@ $canonical_url = "https://www.unlocktool.us/articles/155-loi-dfurecovery-mode.ph
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bài vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bï¿½i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -750,7 +751,7 @@ $canonical_url = "https://www.unlocktool.us/articles/155-loi-dfurecovery-mode.ph
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài vi?t liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bï¿½i vi?t liï¿½n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
@@ -785,7 +786,7 @@ $canonical_url = "https://www.unlocktool.us/articles/155-loi-dfurecovery-mode.ph
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Ð?i ngu k? thu?t viên chuyên nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khóa di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">ï¿½?i ngu k? thu?t viï¿½n chuyï¿½n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khï¿½a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -793,8 +794,8 @@ $canonical_url = "https://www.unlocktool.us/articles/155-loi-dfurecovery-mode.ph
 </div>
 <footer class="bg-dark text-white py-4 text-center">
     <div class="container">
-        <p class="mb-2">&copy; 2026 UnlockTool.us - D?ch v? cho thuê tài kho?n UnlockTool uy tín #1 Vi?t Nam</p>
-        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thuê UnlockTool</a> | <a href="/" class="text-white">Trang ch?</a></p>
+        <p class="mb-2">&copy; 2026 UnlockTool.us - D?ch v? cho thuï¿½ tï¿½i kho?n UnlockTool uy tï¿½n #1 Vi?t Nam</p>
+        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thuï¿½ UnlockTool</a> | <a href="/" class="text-white">Trang ch?</a></p>
     </div>
 </footer>
 

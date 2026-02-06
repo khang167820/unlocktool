@@ -1,7 +1,7 @@
-<?php
-$page_title = "Vietmap Live Pro 2026 - Thuê Tài Kho?n B?n Ð? D?n Ðu?ng Giá R?";
-$page_description = "Vietmap Live Pro - ?ng d?ng b?n d? d?n du?ng t?t nh?t Vi?t Nam. Thuê tài kho?n Vietmap Live Pro giá r? ch? 8.000d/6h t?i UnlockTool.us. C?nh báo camera, t?c d?, giao thông real-time.";
-$page_keywords = "vietmap live pro, thuê vietmap, vietmap live, b?n d? d?n du?ng, vietmap pro, vietmap giá r?";
+ï»¿<?php
+$page_title = "Vietmap Live Pro 2026 - Thuï¿½ Tï¿½i Kho?n B?n ï¿½? D?n ï¿½u?ng Giï¿½ R?";
+$page_description = "Vietmap Live Pro - ?ng d?ng b?n d? d?n du?ng t?t nh?t Vi?t Nam. Thuï¿½ tï¿½i kho?n Vietmap Live Pro giï¿½ r? ch? 8.000d/6h t?i UnlockTool.us. C?nh bï¿½o camera, t?c d?, giao thï¿½ng real-time.";
+$page_keywords = "vietmap live pro, thuï¿½ vietmap, vietmap live, b?n d? d?n du?ng, vietmap pro, vietmap giï¿½ r?";
 $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
 ?>
 <!DOCTYPE html>
@@ -24,13 +24,15 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
     
     <meta property="og:type" content="article">
     <meta property="og:title" content="<?php echo $page_title; ?>">
-    <meta property="og:description" content="<?php echo $page_description; ?>">
+    <meta property="og:description" content="<?php echo $page_description; ?>
+    <meta property="og:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
     <meta property="og:url" content="<?php echo $canonical_url; ?>">
     <meta property="og:locale" content="vi_VN">
     
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="<?php echo $page_title; ?>">
-    <meta name="twitter:description" content="<?php echo $page_description; ?>">
+    <meta name="twitter:description" content="<?php echo $page_description; ?>
+    <meta name="twitter:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
     
     <script type="application/ld+json">
     {
@@ -52,7 +54,7 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
         "name": "Vietmap Live Pro",
         "operatingSystem": "Android, iOS",
         "applicationCategory": "NavigationApplication",
-        "description": "?ng d?ng b?n d? d?n du?ng t?t nh?t Vi?t Nam v?i c?nh báo camera, t?c d?, giao thông real-time",
+        "description": "?ng d?ng b?n d? d?n du?ng t?t nh?t Vi?t Nam v?i c?nh bï¿½o camera, t?c d?, giao thï¿½ng real-time",
         "offers": {
             "@type": "Offer",
             "price": "8000",
@@ -72,11 +74,11 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "Vietmap Live Pro là gì?", "acceptedAnswer": {"@type": "Answer", "text": "Vietmap Live Pro là ?ng d?ng b?n d? d?n du?ng cao c?p c?a Vi?t Nam, cung c?p c?nh báo camera ph?t ngu?i, t?c d? gi?i h?n, giao thông real-time và ch? du?ng chính xác nh?t."}},
-            {"@type": "Question", "name": "Thuê Vietmap Live Pro giá bao nhiêu?", "acceptedAnswer": {"@type": "Answer", "text": "Thuê tài kho?n Vietmap Live Pro t?i UnlockTool.us ch? 8.000d/6 ti?ng, h? th?ng t? d?ng 24/7."}},
-            {"@type": "Question", "name": "Vietmap Live Pro có gì khác Google Maps?", "acceptedAnswer": {"@type": "Answer", "text": "Vietmap Live Pro t?i uu cho Vi?t Nam v?i d? li?u camera ph?t ngu?i, bi?n báo giao thông, làn du?ng chi ti?t hon Google Maps. Ð?c bi?t có c?nh báo t?c d? và camera real-time."}},
-            {"@type": "Question", "name": "Có nên mua hay thuê Vietmap?", "acceptedAnswer": {"@type": "Answer", "text": "N?u di xe thu?ng xuyên, nên mua gói nam. N?u th?nh tho?ng m?i c?n, thuê theo gi? t?i UnlockTool.us ti?t ki?m hon nhi?u."}},
-            {"@type": "Question", "name": "Vietmap có ho?t d?ng offline không?", "acceptedAnswer": {"@type": "Answer", "text": "Có, Vietmap Live Pro h? tr? t?i b?n d? offline d? d?n du?ng khi không có internet. Tuy nhiên, tính nang c?nh báo camera real-time c?n k?t n?i m?ng."}}
+            {"@type": "Question", "name": "Vietmap Live Pro lï¿½ gï¿½?", "acceptedAnswer": {"@type": "Answer", "text": "Vietmap Live Pro lï¿½ ?ng d?ng b?n d? d?n du?ng cao c?p c?a Vi?t Nam, cung c?p c?nh bï¿½o camera ph?t ngu?i, t?c d? gi?i h?n, giao thï¿½ng real-time vï¿½ ch? du?ng chï¿½nh xï¿½c nh?t."}},
+            {"@type": "Question", "name": "Thuï¿½ Vietmap Live Pro giï¿½ bao nhiï¿½u?", "acceptedAnswer": {"@type": "Answer", "text": "Thuï¿½ tï¿½i kho?n Vietmap Live Pro t?i UnlockTool.us ch? 8.000d/6 ti?ng, h? th?ng t? d?ng 24/7."}},
+            {"@type": "Question", "name": "Vietmap Live Pro cï¿½ gï¿½ khï¿½c Google Maps?", "acceptedAnswer": {"@type": "Answer", "text": "Vietmap Live Pro t?i uu cho Vi?t Nam v?i d? li?u camera ph?t ngu?i, bi?n bï¿½o giao thï¿½ng, lï¿½n du?ng chi ti?t hon Google Maps. ï¿½?c bi?t cï¿½ c?nh bï¿½o t?c d? vï¿½ camera real-time."}},
+            {"@type": "Question", "name": "Cï¿½ nï¿½n mua hay thuï¿½ Vietmap?", "acceptedAnswer": {"@type": "Answer", "text": "N?u di xe thu?ng xuyï¿½n, nï¿½n mua gï¿½i nam. N?u th?nh tho?ng m?i c?n, thuï¿½ theo gi? t?i UnlockTool.us ti?t ki?m hon nhi?u."}},
+            {"@type": "Question", "name": "Vietmap cï¿½ ho?t d?ng offline khï¿½ng?", "acceptedAnswer": {"@type": "Answer", "text": "Cï¿½, Vietmap Live Pro h? tr? t?i b?n d? offline d? d?n du?ng khi khï¿½ng cï¿½ internet. Tuy nhiï¿½n, tï¿½nh nang c?nh bï¿½o camera real-time c?n k?t n?i m?ng."}}
         ]
     }
     </script>
@@ -87,7 +89,7 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
         "@type": "BreadcrumbList",
         "itemListElement": [
             {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "Bài vi?t", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 2, "name": "Bï¿½i vi?t", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "Vietmap Live Pro", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -166,15 +168,15 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="/" class="text-white">Trang ch?</a></li>
-                <li class="breadcrumb-item"><a href="/articles/" class="text-white">Bài vi?t</a></li>
+                <li class="breadcrumb-item"><a href="/articles/" class="text-white">Bï¿½i vi?t</a></li>
                 <li class="breadcrumb-item active text-white-50">Vietmap Live Pro</li>
             </ol>
         </nav>
         <h1><i class="fas fa-map-marked-alt me-3"></i><?php echo $page_title; ?></h1>
-        <p class="lead mb-0">?ng d?ng b?n d? d?n du?ng t?t nh?t Vi?t Nam - C?nh báo camera, t?c d?, giao thông real-time!</p>
+        <p class="lead mb-0">?ng d?ng b?n d? d?n du?ng t?t nh?t Vi?t Nam - C?nh bï¿½o camera, t?c d?, giao thï¿½ng real-time!</p>
         <div class="mt-3">
             <span class="badge bg-light text-dark me-2"><i class="fas fa-calendar me-1"></i>25/01/2026</span>
-            <span class="badge bg-light text-dark me-2"><i class="fas fa-clock me-1"></i>15 phút d?c</span>
+            <span class="badge bg-light text-dark me-2"><i class="fas fa-clock me-1"></i>15 phï¿½t d?c</span>
             <span class="badge bg-warning text-dark"><i class="fas fa-star me-1"></i>4.9/5</span>
         </div>
     </div>
@@ -187,184 +189,184 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
             
             <!-- M?c l?c -->
             <div class="toc">
-                <h5><i class="fas fa-list me-2"></i>M?c l?c bài vi?t</h5>
+                <h5><i class="fas fa-list me-2"></i>M?c l?c bï¿½i vi?t</h5>
                 <ul>
-                    <li><a href="#gioi-thieu">1. Vietmap Live Pro là gì?</a></li>
-                    <li><a href="#tinh-nang">2. Tính nang n?i b?t c?a Vietmap Live Pro</a></li>
-                    <li><a href="#so-sanh">3. So sánh Vietmap v?i Google Maps</a></li>
+                    <li><a href="#gioi-thieu">1. Vietmap Live Pro lï¿½ gï¿½?</a></li>
+                    <li><a href="#tinh-nang">2. Tï¿½nh nang n?i b?t c?a Vietmap Live Pro</a></li>
+                    <li><a href="#so-sanh">3. So sï¿½nh Vietmap v?i Google Maps</a></li>
                     <li><a href="#huong-dan">4. Hu?ng d?n s? d?ng Vietmap Live Pro</a></li>
-                    <li><a href="#thue-tai-khoan">5. Thuê tài kho?n Vietmap Live Pro giá r?</a></li>
-                    <li><a href="#mua-vs-thue">6. Nên mua hay thuê Vietmap?</a></li>
-                    <li><a href="#loi-thuong-gap">7. L?i thu?ng g?p và cách kh?c ph?c</a></li>
+                    <li><a href="#thue-tai-khoan">5. Thuï¿½ tï¿½i kho?n Vietmap Live Pro giï¿½ r?</a></li>
+                    <li><a href="#mua-vs-thue">6. Nï¿½n mua hay thuï¿½ Vietmap?</a></li>
+                    <li><a href="#loi-thuong-gap">7. L?i thu?ng g?p vï¿½ cï¿½ch kh?c ph?c</a></li>
                     <li><a href="#meo-su-dung">8. M?o s? d?ng Vietmap hi?u qu?</a></li>
-                    <li><a href="#faq">9. Câu h?i thu?ng g?p</a></li>
+                    <li><a href="#faq">9. Cï¿½u h?i thu?ng g?p</a></li>
                 </ul>
             </div>
 
             <!-- Gi?i thi?u -->
             <section id="gioi-thieu" class="content-section">
-                <h2><i class="fas fa-info-circle text-primary me-2"></i>1. Vietmap Live Pro Là Gì?</h2>
+                <h2><i class="fas fa-info-circle text-primary me-2"></i>1. Vietmap Live Pro Lï¿½ Gï¿½?</h2>
                 
-                <p><strong>Vietmap Live Pro</strong> là ?ng d?ng b?n d? và d?n du?ng cao c?p nh?t t?i Vi?t Nam, du?c phát tri?n b?i Công ty C? ph?n Công ngh? Vietmap. Ðây là gi?i pháp d?nh v? GPS du?c thi?t k? riêng cho ngu?i Vi?t Nam, v?i d? li?u b?n d? chính xác, c?p nh?t liên t?c và d?c bi?t có tính nang <strong>c?nh báo camera ph?t ngu?i</strong> - di?u mà Google Maps không có.</p>
+                <p><strong>Vietmap Live Pro</strong> lï¿½ ?ng d?ng b?n d? vï¿½ d?n du?ng cao c?p nh?t t?i Vi?t Nam, du?c phï¿½t tri?n b?i Cï¿½ng ty C? ph?n Cï¿½ng ngh? Vietmap. ï¿½ï¿½y lï¿½ gi?i phï¿½p d?nh v? GPS du?c thi?t k? riï¿½ng cho ngu?i Vi?t Nam, v?i d? li?u b?n d? chï¿½nh xï¿½c, c?p nh?t liï¿½n t?c vï¿½ d?c bi?t cï¿½ tï¿½nh nang <strong>c?nh bï¿½o camera ph?t ngu?i</strong> - di?u mï¿½ Google Maps khï¿½ng cï¿½.</p>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-lightbulb me-2"></i>Ði?m n?i b?t c?a Vietmap Live Pro</h5>
-                    <p class="mb-0">Vietmap Live Pro du?c hon <strong>5 tri?u ngu?i dùng</strong> tin tu?ng s? d?ng. ?ng d?ng cung c?p c?nh báo camera ph?t ngu?i chính xác, thông tin giao thông real-time, và h? tr? d?n du?ng offline - nh?ng tính nang thi?t y?u cho ngu?i lái xe t?i Vi?t Nam.</p>
+                    <h5><i class="fas fa-lightbulb me-2"></i>ï¿½i?m n?i b?t c?a Vietmap Live Pro</h5>
+                    <p class="mb-0">Vietmap Live Pro du?c hon <strong>5 tri?u ngu?i dï¿½ng</strong> tin tu?ng s? d?ng. ?ng d?ng cung c?p c?nh bï¿½o camera ph?t ngu?i chï¿½nh xï¿½c, thï¿½ng tin giao thï¿½ng real-time, vï¿½ h? tr? d?n du?ng offline - nh?ng tï¿½nh nang thi?t y?u cho ngu?i lï¿½i xe t?i Vi?t Nam.</p>
                 </div>
 
-                <h3>1.1. L?ch s? phát tri?n Vietmap</h3>
-                <p>Vietmap du?c thành l?p t? nam 2009, ban d?u chuyên cung c?p thi?t b? d?n du?ng GPS cho ô tô. Qua nhi?u nam phát tri?n, Vietmap dã:</p>
+                <h3>1.1. L?ch s? phï¿½t tri?n Vietmap</h3>
+                <p>Vietmap du?c thï¿½nh l?p t? nam 2009, ban d?u chuyï¿½n cung c?p thi?t b? d?n du?ng GPS cho ï¿½ tï¿½. Qua nhi?u nam phï¿½t tri?n, Vietmap dï¿½:</p>
                 <ul>
-                    <li><i class="fas fa-check text-success me-2"></i>Ra m?t ?ng d?ng <strong>Vietmap Live</strong> trên smartphone nam 2015</li>
-                    <li><i class="fas fa-check text-success me-2"></i>Phát tri?n <strong>Vietmap Live Pro</strong> v?i nhi?u tính nang cao c?p</li>
-                    <li><i class="fas fa-check text-success me-2"></i>Tích h?p AI d? <strong>d? doán giao thông</strong> và t?i uu l? trình</li>
-                    <li><i class="fas fa-check text-success me-2"></i>Xây d?ng c?ng d?ng <strong>c?p nh?t camera</strong> l?n nh?t Vi?t Nam</li>
-                    <li><i class="fas fa-check text-success me-2"></i>H?p tác v?i các hãng ô tô tích h?p s?n Vietmap</li>
+                    <li><i class="fas fa-check text-success me-2"></i>Ra m?t ?ng d?ng <strong>Vietmap Live</strong> trï¿½n smartphone nam 2015</li>
+                    <li><i class="fas fa-check text-success me-2"></i>Phï¿½t tri?n <strong>Vietmap Live Pro</strong> v?i nhi?u tï¿½nh nang cao c?p</li>
+                    <li><i class="fas fa-check text-success me-2"></i>Tï¿½ch h?p AI d? <strong>d? doï¿½n giao thï¿½ng</strong> vï¿½ t?i uu l? trï¿½nh</li>
+                    <li><i class="fas fa-check text-success me-2"></i>Xï¿½y d?ng c?ng d?ng <strong>c?p nh?t camera</strong> l?n nh?t Vi?t Nam</li>
+                    <li><i class="fas fa-check text-success me-2"></i>H?p tï¿½c v?i cï¿½c hï¿½ng ï¿½ tï¿½ tï¿½ch h?p s?n Vietmap</li>
                 </ul>
 
-                <h3>1.2. Các phiên b?n Vietmap</h3>
+                <h3>1.2. Cï¿½c phiï¿½n b?n Vietmap</h3>
                 <table class="table table-bordered">
                     <thead class="table-primary">
                         <tr>
-                            <th>Phiên b?n</th>
-                            <th>Ð?c di?m</th>
-                            <th>Giá</th>
+                            <th>Phiï¿½n b?n</th>
+                            <th>ï¿½?c di?m</th>
+                            <th>Giï¿½</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td><strong>Vietmap Live (Free)</strong></td>
-                            <td>B?n d? co b?n, qu?ng cáo, gi?i h?n tính nang</td>
-                            <td>Mi?n phí</td>
+                            <td>B?n d? co b?n, qu?ng cï¿½o, gi?i h?n tï¿½nh nang</td>
+                            <td>Mi?n phï¿½</td>
                         </tr>
                         <tr>
                             <td><strong>Vietmap Live Pro</strong></td>
-                            <td>Ð?y d? tính nang, không qu?ng cáo, camera real-time</td>
-                            <td>299.000d/nam ho?c thuê 8K/6h</td>
+                            <td>ï¿½?y d? tï¿½nh nang, khï¿½ng qu?ng cï¿½o, camera real-time</td>
+                            <td>299.000d/nam ho?c thuï¿½ 8K/6h</td>
                         </tr>
                         <tr>
                             <td><strong>Vietmap S1/S2</strong></td>
-                            <td>Thi?t b? d?n du?ng g?n xe, tích h?p camera hành trình</td>
+                            <td>Thi?t b? d?n du?ng g?n xe, tï¿½ch h?p camera hï¿½nh trï¿½nh</td>
                             <td>3-8 tri?u d?ng</td>
                         </tr>
                     </tbody>
                 </table>
 
-                <h3>1.3. Vietmap ho?t d?ng trên nh?ng thi?t b? nào?</h3>
+                <h3>1.3. Vietmap ho?t d?ng trï¿½n nh?ng thi?t b? nï¿½o?</h3>
                 <div class="row">
                     <div class="col-md-6">
                         <div class="feature-card">
                             <h5><i class="fab fa-android text-success me-2"></i>Android</h5>
-                            <p>H? tr? Android 5.0 tr? lên. T?i t? Google Play Store ho?c file APK.</p>
+                            <p>H? tr? Android 5.0 tr? lï¿½n. T?i t? Google Play Store ho?c file APK.</p>
                             <span class="app-badge android"><i class="fab fa-google-play me-2"></i>Google Play</span>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="feature-card">
                             <h5><i class="fab fa-apple text-dark me-2"></i>iOS</h5>
-                            <p>H? tr? iOS 12.0 tr? lên. T?i t? App Store.</p>
+                            <p>H? tr? iOS 12.0 tr? lï¿½n. T?i t? App Store.</p>
                             <span class="app-badge ios"><i class="fab fa-app-store me-2"></i>App Store</span>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <!-- Tính nang -->
+            <!-- Tï¿½nh nang -->
             <section id="tinh-nang" class="content-section">
-                <h2><i class="fas fa-cogs text-primary me-2"></i>2. Tính Nang N?i B?t C?a Vietmap Live Pro</h2>
+                <h2><i class="fas fa-cogs text-primary me-2"></i>2. Tï¿½nh Nang N?i B?t C?a Vietmap Live Pro</h2>
                 
-                <h3>2.1. C?nh báo camera ph?t ngu?i</h3>
+                <h3>2.1. C?nh bï¿½o camera ph?t ngu?i</h3>
                 <div class="success-box">
-                    <h5><i class="fas fa-camera me-2"></i>Tính nang du?c yêu thích nh?t!</h5>
-                    <p>Vietmap Live Pro có co s? d? li?u <strong>hon 50.000 di?m camera</strong> trên toàn qu?c, du?c c?ng d?ng c?p nh?t liên t?c. Khi d?n g?n camera, ?ng d?ng s?:</p>
+                    <h5><i class="fas fa-camera me-2"></i>Tï¿½nh nang du?c yï¿½u thï¿½ch nh?t!</h5>
+                    <p>Vietmap Live Pro cï¿½ co s? d? li?u <strong>hon 50.000 di?m camera</strong> trï¿½n toï¿½n qu?c, du?c c?ng d?ng c?p nh?t liï¿½n t?c. Khi d?n g?n camera, ?ng d?ng s?:</p>
                     <ul class="mb-0">
-                        <li>C?nh báo b?ng <strong>âm thanh</strong> và <strong>hi?n th? trên màn hình</strong></li>
-                        <li>Hi?n th? <strong>t?c d? gi?i h?n</strong> t?i v? trí dó</li>
-                        <li>C?nh báo <strong>kho?ng cách</strong> d?n camera (500m, 300m, 100m...)</li>
-                        <li>Phân lo?i <strong>lo?i camera</strong>: c? d?nh, luu d?ng, t?c d?, vu?t dèn d?...</li>
+                        <li>C?nh bï¿½o b?ng <strong>ï¿½m thanh</strong> vï¿½ <strong>hi?n th? trï¿½n mï¿½n hï¿½nh</strong></li>
+                        <li>Hi?n th? <strong>t?c d? gi?i h?n</strong> t?i v? trï¿½ dï¿½</li>
+                        <li>C?nh bï¿½o <strong>kho?ng cï¿½ch</strong> d?n camera (500m, 300m, 100m...)</li>
+                        <li>Phï¿½n lo?i <strong>lo?i camera</strong>: c? d?nh, luu d?ng, t?c d?, vu?t dï¿½n d?...</li>
                     </ul>
                 </div>
 
-                <h3>2.2. D?n du?ng chính xác</h3>
-                <p>Vietmap Live Pro s? d?ng thu?t toán d?n du?ng tiên ti?n v?i các tính nang:</p>
+                <h3>2.2. D?n du?ng chï¿½nh xï¿½c</h3>
+                <p>Vietmap Live Pro s? d?ng thu?t toï¿½n d?n du?ng tiï¿½n ti?n v?i cï¿½c tï¿½nh nang:</p>
                 <div class="row">
                     <div class="col-md-6">
                         <div class="feature-card">
                             <div class="feature-icon"><i class="fas fa-route"></i></div>
-                            <h5>Ða l? trình</h5>
-                            <p>Ð? xu?t nhi?u l? trình khác nhau: nhanh nh?t, ng?n nh?t, ti?t ki?m xang...</p>
+                            <h5>ï¿½a l? trï¿½nh</h5>
+                            <p>ï¿½? xu?t nhi?u l? trï¿½nh khï¿½c nhau: nhanh nh?t, ng?n nh?t, ti?t ki?m xang...</p>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="feature-card">
                             <div class="feature-icon"><i class="fas fa-traffic-light"></i></div>
-                            <h5>Giao thông real-time</h5>
-                            <p>Hi?n th? tình tr?ng giao thông: d? (t?c), vàng (dông), xanh (thông).</p>
+                            <h5>Giao thï¿½ng real-time</h5>
+                            <p>Hi?n th? tï¿½nh tr?ng giao thï¿½ng: d? (t?c), vï¿½ng (dï¿½ng), xanh (thï¿½ng).</p>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="feature-card">
                             <div class="feature-icon"><i class="fas fa-road"></i></div>
-                            <h5>Hu?ng d?n làn du?ng</h5>
-                            <p>Ch? d?n chi ti?t làn du?ng c?n di t?i các ngã r? ph?c t?p.</p>
+                            <h5>Hu?ng d?n lï¿½n du?ng</h5>
+                            <p>Ch? d?n chi ti?t lï¿½n du?ng c?n di t?i cï¿½c ngï¿½ r? ph?c t?p.</p>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="feature-card">
                             <div class="feature-icon"><i class="fas fa-microphone"></i></div>
-                            <h5>Gi?ng nói t? nhiên</h5>
-                            <p>Hu?ng d?n b?ng gi?ng nói ti?ng Vi?t t? nhiên, rõ ràng.</p>
+                            <h5>Gi?ng nï¿½i t? nhiï¿½n</h5>
+                            <p>Hu?ng d?n b?ng gi?ng nï¿½i ti?ng Vi?t t? nhiï¿½n, rï¿½ rï¿½ng.</p>
                         </div>
                     </div>
                 </div>
 
                 <h3>2.3. B?n d? offline</h3>
-                <p>Vietmap Live Pro cho phép t?i b?n d? v? máy d? s? d?ng khi không có internet:</p>
+                <p>Vietmap Live Pro cho phï¿½p t?i b?n d? v? mï¿½y d? s? d?ng khi khï¿½ng cï¿½ internet:</p>
                 <ul>
-                    <li><strong>T?i theo t?nh/thành:</strong> Ch?n khu v?c c?n di d? ti?t ki?m b? nh?</li>
-                    <li><strong>T?i toàn qu?c:</strong> Kho?ng 500MB cho b?n d? c? nu?c</li>
-                    <li><strong>C?p nh?t t? d?ng:</strong> Khi có wifi, app t? c?p nh?t b?n d? m?i</li>
+                    <li><strong>T?i theo t?nh/thï¿½nh:</strong> Ch?n khu v?c c?n di d? ti?t ki?m b? nh?</li>
+                    <li><strong>T?i toï¿½n qu?c:</strong> Kho?ng 500MB cho b?n d? c? nu?c</li>
+                    <li><strong>C?p nh?t t? d?ng:</strong> Khi cï¿½ wifi, app t? c?p nh?t b?n d? m?i</li>
                 </ul>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu ý v? offline</h5>
-                    <p class="mb-0">Khi dùng offline, tính nang <strong>giao thông real-time</strong> và <strong>c?p nh?t camera m?i</strong> s? không ho?t d?ng. Khuy?n ngh? k?t n?i m?ng khi di chuy?n d? có tr?i nghi?m t?t nh?t.</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu ï¿½ v? offline</h5>
+                    <p class="mb-0">Khi dï¿½ng offline, tï¿½nh nang <strong>giao thï¿½ng real-time</strong> vï¿½ <strong>c?p nh?t camera m?i</strong> s? khï¿½ng ho?t d?ng. Khuy?n ngh? k?t n?i m?ng khi di chuy?n d? cï¿½ tr?i nghi?m t?t nh?t.</p>
                 </div>
 
-                <h3>2.4. Các tính nang khác</h3>
+                <h3>2.4. Cï¿½c tï¿½nh nang khï¿½c</h3>
                 <ul>
-                    <li><strong>Tìm ki?m d?a di?m:</strong> Tìm ATM, cây xang, nhà hàng, khách s?n g?n dây</li>
-                    <li><strong>Luu d?a di?m yêu thích:</strong> Ðánh d?u nhà, công ty, di?m hay d?n</li>
-                    <li><strong>Chia s? v? trí:</strong> G?i v? trí cho b?n bè qua Zalo, Facebook</li>
-                    <li><strong>Ðo kho?ng cách:</strong> Tính quãng du?ng gi?a 2 di?m</li>
+                    <li><strong>Tï¿½m ki?m d?a di?m:</strong> Tï¿½m ATM, cï¿½y xang, nhï¿½ hï¿½ng, khï¿½ch s?n g?n dï¿½y</li>
+                    <li><strong>Luu d?a di?m yï¿½u thï¿½ch:</strong> ï¿½ï¿½nh d?u nhï¿½, cï¿½ng ty, di?m hay d?n</li>
+                    <li><strong>Chia s? v? trï¿½:</strong> G?i v? trï¿½ cho b?n bï¿½ qua Zalo, Facebook</li>
+                    <li><strong>ï¿½o kho?ng cï¿½ch:</strong> Tï¿½nh quï¿½ng du?ng gi?a 2 di?m</li>
                     <li><strong>Xem t?a d?:</strong> Hi?n th? kinh d?, vi d? chi ti?t</li>
-                    <li><strong>Báo di?m camera m?i:</strong> Góp d? li?u camera cho c?ng d?ng</li>
-                    <li><strong>Giao di?n ban dêm:</strong> Ch? d? t?i b?o v? m?t khi lái xe dêm</li>
+                    <li><strong>Bï¿½o di?m camera m?i:</strong> Gï¿½p d? li?u camera cho c?ng d?ng</li>
+                    <li><strong>Giao di?n ban dï¿½m:</strong> Ch? d? t?i b?o v? m?t khi lï¿½i xe dï¿½m</li>
                 </ul>
             </section>
 
-            <!-- So sánh -->
+            <!-- So sï¿½nh -->
             <section id="so-sanh" class="content-section">
-                <h2><i class="fas fa-balance-scale text-primary me-2"></i>3. So Sánh Vietmap V?i Google Maps</h2>
+                <h2><i class="fas fa-balance-scale text-primary me-2"></i>3. So Sï¿½nh Vietmap V?i Google Maps</h2>
 
-                <p>Nhi?u ngu?i th?c m?c t?i sao c?n Vietmap khi dã có Google Maps mi?n phí. Du?i dây là so sánh chi ti?t:</p>
+                <p>Nhi?u ngu?i th?c m?c t?i sao c?n Vietmap khi dï¿½ cï¿½ Google Maps mi?n phï¿½. Du?i dï¿½y lï¿½ so sï¿½nh chi ti?t:</p>
 
                 <table class="table table-custom comparison-table">
                     <thead>
                         <tr>
-                            <th>Tính nang</th>
+                            <th>Tï¿½nh nang</th>
                             <th>Vietmap Live Pro</th>
                             <th>Google Maps</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <td><strong>C?nh báo camera ph?t ngu?i</strong></td>
-                            <td class="yes"><i class="fas fa-check"></i> Có, 50.000+ di?m</td>
-                            <td class="no"><i class="fas fa-times"></i> Không có</td>
+                            <td><strong>C?nh bï¿½o camera ph?t ngu?i</strong></td>
+                            <td class="yes"><i class="fas fa-check"></i> Cï¿½, 50.000+ di?m</td>
+                            <td class="no"><i class="fas fa-times"></i> Khï¿½ng cï¿½</td>
                         </tr>
                         <tr>
-                            <td><strong>C?nh báo t?c d? gi?i h?n</strong></td>
+                            <td><strong>C?nh bï¿½o t?c d? gi?i h?n</strong></td>
                             <td class="yes"><i class="fas fa-check"></i> Chi ti?t t?ng do?n</td>
                             <td class="no"><i class="fas fa-times"></i> R?t h?n ch?</td>
                         </tr>
@@ -374,36 +376,36 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
                             <td>Ch?m hon</td>
                         </tr>
                         <tr>
-                            <td><strong>H?m nh?, ngõ ngách</strong></td>
+                            <td><strong>H?m nh?, ngï¿½ ngï¿½ch</strong></td>
                             <td class="yes"><i class="fas fa-check"></i> R?t chi ti?t</td>
                             <td>Thi?u nhi?u</td>
                         </tr>
                         <tr>
-                            <td><strong>Giao thông real-time</strong></td>
-                            <td class="yes"><i class="fas fa-check"></i> Có</td>
-                            <td class="yes"><i class="fas fa-check"></i> Có</td>
+                            <td><strong>Giao thï¿½ng real-time</strong></td>
+                            <td class="yes"><i class="fas fa-check"></i> Cï¿½</td>
+                            <td class="yes"><i class="fas fa-check"></i> Cï¿½</td>
                         </tr>
                         <tr>
                             <td><strong>B?n d? offline</strong></td>
-                            <td class="yes"><i class="fas fa-check"></i> Có</td>
-                            <td class="yes"><i class="fas fa-check"></i> Có</td>
+                            <td class="yes"><i class="fas fa-check"></i> Cï¿½</td>
+                            <td class="yes"><i class="fas fa-check"></i> Cï¿½</td>
                         </tr>
                         <tr>
-                            <td><strong>Gi?ng nói ti?ng Vi?t</strong></td>
-                            <td class="yes"><i class="fas fa-check"></i> T? nhiên</td>
-                            <td>Máy móc</td>
+                            <td><strong>Gi?ng nï¿½i ti?ng Vi?t</strong></td>
+                            <td class="yes"><i class="fas fa-check"></i> T? nhiï¿½n</td>
+                            <td>Mï¿½y mï¿½c</td>
                         </tr>
                         <tr>
-                            <td><strong>Giá</strong></td>
-                            <td>299K/nam ho?c thuê 8K/6h</td>
-                            <td class="yes">Mi?n phí</td>
+                            <td><strong>Giï¿½</strong></td>
+                            <td>299K/nam ho?c thuï¿½ 8K/6h</td>
+                            <td class="yes">Mi?n phï¿½</td>
                         </tr>
                     </tbody>
                 </table>
 
                 <div class="info-box">
                     <h5><i class="fas fa-lightbulb me-2"></i>K?t lu?n</h5>
-                    <p class="mb-0">N?u b?n lái xe thu?ng xuyên và mu?n tránh b? ph?t ngu?i, <strong>Vietmap Live Pro là l?a ch?n t?t hon</strong>. N?u ch? di b? ho?c th?nh tho?ng m?i lái xe trong thành ph? quen thu?c, Google Maps mi?n phí là d?.</p>
+                    <p class="mb-0">N?u b?n lï¿½i xe thu?ng xuyï¿½n vï¿½ mu?n trï¿½nh b? ph?t ngu?i, <strong>Vietmap Live Pro lï¿½ l?a ch?n t?t hon</strong>. N?u ch? di b? ho?c th?nh tho?ng m?i lï¿½i xe trong thï¿½nh ph? quen thu?c, Google Maps mi?n phï¿½ lï¿½ d?.</p>
                 </div>
             </section>
 
@@ -411,121 +413,121 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
             <section id="huong-dan" class="content-section">
                 <h2><i class="fas fa-book text-primary me-2"></i>4. Hu?ng D?n S? D?ng Vietmap Live Pro</h2>
 
-                <h3>4.1. Cài d?t ?ng d?ng</h3>
+                <h3>4.1. Cï¿½i d?t ?ng d?ng</h3>
                 <div class="d-flex align-items-start mb-4">
                     <div class="step-number">1</div>
                     <div>
                         <h5>T?i ?ng d?ng</h5>
-                        <p>T?i Vietmap Live t? Google Play (Android) ho?c App Store (iOS). ?ng d?ng mi?n phí t?i v?.</p>
+                        <p>T?i Vietmap Live t? Google Play (Android) ho?c App Store (iOS). ?ng d?ng mi?n phï¿½ t?i v?.</p>
                     </div>
                 </div>
                 <div class="d-flex align-items-start mb-4">
                     <div class="step-number">2</div>
                     <div>
-                        <h5>Ðang ký tài kho?n</h5>
-                        <p>T?o tài kho?n b?ng s? di?n tho?i ho?c email. Ho?c dang nh?p tài kho?n dã thuê t?i UnlockTool.us.</p>
+                        <h5>ï¿½ang kï¿½ tï¿½i kho?n</h5>
+                        <p>T?o tï¿½i kho?n b?ng s? di?n tho?i ho?c email. Ho?c dang nh?p tï¿½i kho?n dï¿½ thuï¿½ t?i UnlockTool.us.</p>
                     </div>
                 </div>
                 <div class="d-flex align-items-start mb-4">
                     <div class="step-number">3</div>
                     <div>
-                        <h5>Kích ho?t Pro</h5>
-                        <p>Nh?p mã kích ho?t ho?c dang nh?p tài kho?n Pro dã thuê d? m? khóa d?y d? tính nang.</p>
+                        <h5>Kï¿½ch ho?t Pro</h5>
+                        <p>Nh?p mï¿½ kï¿½ch ho?t ho?c dang nh?p tï¿½i kho?n Pro dï¿½ thuï¿½ d? m? khï¿½a d?y d? tï¿½nh nang.</p>
                     </div>
                 </div>
                 <div class="d-flex align-items-start mb-4">
                     <div class="step-number">4</div>
                     <div>
-                        <h5>C?p quy?n v? trí</h5>
-                        <p>Cho phép ?ng d?ng truy c?p v? trí "Luôn luôn" d? d?n du?ng chính xác.</p>
+                        <h5>C?p quy?n v? trï¿½</h5>
+                        <p>Cho phï¿½p ?ng d?ng truy c?p v? trï¿½ "Luï¿½n luï¿½n" d? d?n du?ng chï¿½nh xï¿½c.</p>
                     </div>
                 </div>
 
                 <h3>4.2. D?n du?ng d?n m?t d?a di?m</h3>
                 <ol>
                     <li>M? Vietmap Live Pro</li>
-                    <li>Nh?n vào ô tìm ki?m, gõ d?a ch? ho?c tên d?a di?m</li>
-                    <li>Ch?n d?a di?m t? danh sách k?t qu?</li>
-                    <li>Nh?n "Ði" ho?c "D?n du?ng"</li>
-                    <li>Ch?n l? trình phù h?p (nhanh nh?t, ng?n nh?t...)</li>
+                    <li>Nh?n vï¿½o ï¿½ tï¿½m ki?m, gï¿½ d?a ch? ho?c tï¿½n d?a di?m</li>
+                    <li>Ch?n d?a di?m t? danh sï¿½ch k?t qu?</li>
+                    <li>Nh?n "ï¿½i" ho?c "D?n du?ng"</li>
+                    <li>Ch?n l? trï¿½nh phï¿½ h?p (nhanh nh?t, ng?n nh?t...)</li>
                     <li>Nh?n "B?t d?u" d? b?t d?u d?n du?ng</li>
                 </ol>
 
                 <h3>4.3. T?i b?n d? offline</h3>
                 <ol>
-                    <li>Vào Menu ? Cài d?t ? B?n d? offline</li>
-                    <li>Ch?n t?nh/thành ph? mu?n t?i</li>
-                    <li>Nh?n "T?i v?" và ch? hoàn t?t</li>
-                    <li>Khi không có m?ng, app t? d?ng dùng b?n d? offline</li>
+                    <li>Vï¿½o Menu ? Cï¿½i d?t ? B?n d? offline</li>
+                    <li>Ch?n t?nh/thï¿½nh ph? mu?n t?i</li>
+                    <li>Nh?n "T?i v?" vï¿½ ch? hoï¿½n t?t</li>
+                    <li>Khi khï¿½ng cï¿½ m?ng, app t? d?ng dï¿½ng b?n d? offline</li>
                 </ol>
             </section>
 
-            <!-- Thuê tài kho?n -->
+            <!-- Thuï¿½ tï¿½i kho?n -->
             <section id="thue-tai-khoan" class="content-section">
-                <h2><i class="fas fa-shopping-cart text-primary me-2"></i>5. Thuê Tài Kho?n Vietmap Live Pro Giá R?</h2>
+                <h2><i class="fas fa-shopping-cart text-primary me-2"></i>5. Thuï¿½ Tï¿½i Kho?n Vietmap Live Pro Giï¿½ R?</h2>
 
-                <p>Thay vì mua gói nam v?i giá 299.000d, b?n có th? <strong>thuê tài kho?n Vietmap Live Pro</strong> theo gi? v?i giá siêu r? t?i <strong>UnlockTool.us</strong>:</p>
+                <p>Thay vï¿½ mua gï¿½i nam v?i giï¿½ 299.000d, b?n cï¿½ th? <strong>thuï¿½ tï¿½i kho?n Vietmap Live Pro</strong> theo gi? v?i giï¿½ siï¿½u r? t?i <strong>UnlockTool.us</strong>:</p>
 
                 <div class="price-highlight">
-                    <p class="mb-2">Thuê Vietmap Live Pro ch? t?</p>
+                    <p class="mb-2">Thuï¿½ Vietmap Live Pro ch? t?</p>
                     <div class="price">8.000d / 6 ti?ng</div>
-                    <p class="mt-2 mb-3">H? th?ng t? d?ng 24/7 - Nh?n tài kho?n ngay!</p>
+                    <p class="mt-2 mb-3">H? th?ng t? d?ng 24/7 - Nh?n tï¿½i kho?n ngay!</p>
                     <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg">
-                        <i class="fas fa-bolt me-2"></i>Thuê Ngay T?i UnlockTool.us
+                        <i class="fas fa-bolt me-2"></i>Thuï¿½ Ngay T?i UnlockTool.us
                     </a>
                 </div>
 
-                <h3>5.1. T?i sao nên thuê t?i UnlockTool.us?</h3>
+                <h3>5.1. T?i sao nï¿½n thuï¿½ t?i UnlockTool.us?</h3>
                 <ul>
-                    <li><i class="fas fa-check text-success me-2"></i><strong>Giá r? nh?t:</strong> Ch? 8.000d/6 ti?ng</li>
-                    <li><i class="fas fa-check text-success me-2"></i><strong>T? d?ng 24/7:</strong> Nh?n tài kho?n ngay sau thanh toán</li>
-                    <li><i class="fas fa-check text-success me-2"></i><strong>Thanh toán d?:</strong> QR Code, Momo, Bank VN</li>
-                    <li><i class="fas fa-check text-success me-2"></i><strong>Ð?y d? tính nang:</strong> Camera, offline, giao thông...</li>
-                    <li><i class="fas fa-check text-success me-2"></i><strong>H? tr? nhanh:</strong> Có nhân viên h? tr? khi c?n</li>
+                    <li><i class="fas fa-check text-success me-2"></i><strong>Giï¿½ r? nh?t:</strong> Ch? 8.000d/6 ti?ng</li>
+                    <li><i class="fas fa-check text-success me-2"></i><strong>T? d?ng 24/7:</strong> Nh?n tï¿½i kho?n ngay sau thanh toï¿½n</li>
+                    <li><i class="fas fa-check text-success me-2"></i><strong>Thanh toï¿½n d?:</strong> QR Code, Momo, Bank VN</li>
+                    <li><i class="fas fa-check text-success me-2"></i><strong>ï¿½?y d? tï¿½nh nang:</strong> Camera, offline, giao thï¿½ng...</li>
+                    <li><i class="fas fa-check text-success me-2"></i><strong>H? tr? nhanh:</strong> Cï¿½ nhï¿½n viï¿½n h? tr? khi c?n</li>
                 </ul>
 
-                <h3>5.2. Các bu?c thuê tài kho?n</h3>
+                <h3>5.2. Cï¿½c bu?c thuï¿½ tï¿½i kho?n</h3>
                 <ol>
                     <li>Truy c?p <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a></li>
-                    <li>Ch?n <strong>Vietmap Live Pro</strong> trong danh sách</li>
-                    <li>Ch?n th?i gian thuê (6h, 12h, 24h, 7 ngày...)</li>
-                    <li>Thanh toán qua QR Code</li>
-                    <li>Nh?n thông tin tài kho?n ngay l?p t?c</li>
-                    <li>Ðang nh?p vào app Vietmap và s? d?ng</li>
+                    <li>Ch?n <strong>Vietmap Live Pro</strong> trong danh sï¿½ch</li>
+                    <li>Ch?n th?i gian thuï¿½ (6h, 12h, 24h, 7 ngï¿½y...)</li>
+                    <li>Thanh toï¿½n qua QR Code</li>
+                    <li>Nh?n thï¿½ng tin tï¿½i kho?n ngay l?p t?c</li>
+                    <li>ï¿½ang nh?p vï¿½o app Vietmap vï¿½ s? d?ng</li>
                 </ol>
             </section>
 
-            <!-- Mua vs Thuê -->
+            <!-- Mua vs Thuï¿½ -->
             <section id="mua-vs-thue" class="content-section">
-                <h2><i class="fas fa-balance-scale-left text-primary me-2"></i>6. Nên Mua Hay Thuê Vietmap?</h2>
+                <h2><i class="fas fa-balance-scale-left text-primary me-2"></i>6. Nï¿½n Mua Hay Thuï¿½ Vietmap?</h2>
 
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Tiêu chí</th>
-                            <th>Mua gói nam (299K)</th>
-                            <th>Thuê t?i UnlockTool.us</th>
+                            <th>Tiï¿½u chï¿½</th>
+                            <th>Mua gï¿½i nam (299K)</th>
+                            <th>Thuï¿½ t?i UnlockTool.us</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <td><strong>Chi phí</strong></td>
-                            <td>299.000d/nam (~8K/tháng)</td>
-                            <td>8.000d/6h, 30K/ngày...</td>
+                            <td><strong>Chi phï¿½</strong></td>
+                            <td>299.000d/nam (~8K/thï¿½ng)</td>
+                            <td>8.000d/6h, 30K/ngï¿½y...</td>
                         </tr>
                         <tr>
-                            <td><strong>Phù h?p v?i</strong></td>
-                            <td>Lái xe hàng ngày</td>
+                            <td><strong>Phï¿½ h?p v?i</strong></td>
+                            <td>Lï¿½i xe hï¿½ng ngï¿½y</td>
                             <td>Th?nh tho?ng di xa</td>
                         </tr>
                         <tr>
                             <td><strong>Nh?n ngay</strong></td>
-                            <td>Sau thanh toán</td>
+                            <td>Sau thanh toï¿½n</td>
                             <td>T? d?ng 24/7</td>
                         </tr>
                         <tr>
-                            <td><strong>Thanh toán</strong></td>
-                            <td>Th?, ví di?n t?</td>
+                            <td><strong>Thanh toï¿½n</strong></td>
+                            <td>Th?, vï¿½ di?n t?</td>
                             <td>QR, Momo, Bank VN</td>
                         </tr>
                     </tbody>
@@ -534,28 +536,28 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
                 <div class="info-box">
                     <h5><i class="fas fa-lightbulb me-2"></i>Khuy?n ngh?</h5>
                     <ul class="mb-0">
-                        <li><strong>Lái xe hàng ngày (di làm, ch?y Grab...):</strong> Mua gói nam ti?t ki?m hon</li>
-                        <li><strong>Th?nh tho?ng di choi, du l?ch:</strong> Thuê theo gi?/ngày ti?t ki?m hon</li>
-                        <li><strong>Mu?n th? tru?c khi mua:</strong> Thuê 6h d? tr?i nghi?m</li>
+                        <li><strong>Lï¿½i xe hï¿½ng ngï¿½y (di lï¿½m, ch?y Grab...):</strong> Mua gï¿½i nam ti?t ki?m hon</li>
+                        <li><strong>Th?nh tho?ng di choi, du l?ch:</strong> Thuï¿½ theo gi?/ngï¿½y ti?t ki?m hon</li>
+                        <li><strong>Mu?n th? tru?c khi mua:</strong> Thuï¿½ 6h d? tr?i nghi?m</li>
                     </ul>
                 </div>
             </section>
 
             <!-- L?i thu?ng g?p -->
             <section id="loi-thuong-gap" class="content-section">
-                <h2><i class="fas fa-bug text-primary me-2"></i>7. L?i Thu?ng G?p Và Cách Kh?c Ph?c</h2>
+                <h2><i class="fas fa-bug text-primary me-2"></i>7. L?i Thu?ng G?p Vï¿½ Cï¿½ch Kh?c Ph?c</h2>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="toggleFaq(this)">
-                        <span><i class="fas fa-exclamation-circle text-danger me-2"></i>GPS không chính xác / nh?y v? trí</span>
+                        <span><i class="fas fa-exclamation-circle text-danger me-2"></i>GPS khï¿½ng chï¿½nh xï¿½c / nh?y v? trï¿½</span>
                         <i class="fas fa-chevron-down"></i>
                     </div>
                     <div class="faq-answer">
-                        <p><strong>Nguyên nhân:</strong> Tín hi?u GPS y?u do trong nhà, g?m c?u, ho?c cài d?t sai.</p>
-                        <p><strong>Cách kh?c ph?c:</strong></p>
+                        <p><strong>Nguyï¿½n nhï¿½n:</strong> Tï¿½n hi?u GPS y?u do trong nhï¿½, g?m c?u, ho?c cï¿½i d?t sai.</p>
+                        <p><strong>Cï¿½ch kh?c ph?c:</strong></p>
                         <ul>
-                            <li>Ra noi thoáng d? b?t GPS t?t hon</li>
-                            <li>B?t ch? d? v? trí "High accuracy" (Android)</li>
+                            <li>Ra noi thoï¿½ng d? b?t GPS t?t hon</li>
+                            <li>B?t ch? d? v? trï¿½ "High accuracy" (Android)</li>
                             <li>T?t/b?t GPS l?i</li>
                             <li>Kh?i d?ng l?i di?n tho?i</li>
                         </ul>
@@ -564,17 +566,17 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="toggleFaq(this)">
-                        <span><i class="fas fa-exclamation-circle text-danger me-2"></i>Không c?nh báo camera</span>
+                        <span><i class="fas fa-exclamation-circle text-danger me-2"></i>Khï¿½ng c?nh bï¿½o camera</span>
                         <i class="fas fa-chevron-down"></i>
                     </div>
                     <div class="faq-answer">
-                        <p><strong>Nguyên nhân:</strong> Chua b?t c?nh báo, không có m?ng, ho?c dùng b?n free.</p>
-                        <p><strong>Cách kh?c ph?c:</strong></p>
+                        <p><strong>Nguyï¿½n nhï¿½n:</strong> Chua b?t c?nh bï¿½o, khï¿½ng cï¿½ m?ng, ho?c dï¿½ng b?n free.</p>
+                        <p><strong>Cï¿½ch kh?c ph?c:</strong></p>
                         <ul>
-                            <li>Ki?m tra cài d?t c?nh báo camera dã b?t chua</li>
-                            <li>Ð?m b?o có k?t n?i internet</li>
-                            <li>Ki?m tra tài kho?n Pro còn h?n không</li>
-                            <li>C?p nh?t app lên phiên b?n m?i nh?t</li>
+                            <li>Ki?m tra cï¿½i d?t c?nh bï¿½o camera dï¿½ b?t chua</li>
+                            <li>ï¿½?m b?o cï¿½ k?t n?i internet</li>
+                            <li>Ki?m tra tï¿½i kho?n Pro cï¿½n h?n khï¿½ng</li>
+                            <li>C?p nh?t app lï¿½n phiï¿½n b?n m?i nh?t</li>
                         </ul>
                     </div>
                 </div>
@@ -585,12 +587,12 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
                         <i class="fas fa-chevron-down"></i>
                     </div>
                     <div class="faq-answer">
-                        <p><strong>Nguyên nhân:</strong> Ði?n tho?i y?u, b? nh? d?y, ho?c b?n d? offline quá n?ng.</p>
-                        <p><strong>Cách kh?c ph?c:</strong></p>
+                        <p><strong>Nguyï¿½n nhï¿½n:</strong> ï¿½i?n tho?i y?u, b? nh? d?y, ho?c b?n d? offline quï¿½ n?ng.</p>
+                        <p><strong>Cï¿½ch kh?c ph?c:</strong></p>
                         <ul>
-                            <li>Xóa cache ?ng d?ng</li>
-                            <li>Xóa b?t b?n d? offline không c?n</li>
-                            <li>T?t các app ch?y n?n khác</li>
+                            <li>Xï¿½a cache ?ng d?ng</li>
+                            <li>Xï¿½a b?t b?n d? offline khï¿½ng c?n</li>
+                            <li>T?t cï¿½c app ch?y n?n khï¿½c</li>
                             <li>Kh?i d?ng l?i di?n tho?i</li>
                         </ul>
                     </div>
@@ -604,26 +606,26 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
                 <div class="row">
                     <div class="col-md-6">
                         <div class="feature-card">
-                            <h5><i class="fas fa-volume-up text-primary me-2"></i>B?t âm thanh c?nh báo</h5>
-                            <p>Ð?m b?o âm lu?ng di?n tho?i d? to và b?t c?nh báo b?ng gi?ng nói trong cài d?t.</p>
+                            <h5><i class="fas fa-volume-up text-primary me-2"></i>B?t ï¿½m thanh c?nh bï¿½o</h5>
+                            <p>ï¿½?m b?o ï¿½m lu?ng di?n tho?i d? to vï¿½ b?t c?nh bï¿½o b?ng gi?ng nï¿½i trong cï¿½i d?t.</p>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="feature-card">
-                            <h5><i class="fas fa-car me-2"></i>G?n di?n tho?i dúng v? trí</h5>
-                            <p>G?n di?n tho?i trên taplo ho?c kính ch?n gió d? d? nhìn và GPS b?t t?t hon.</p>
+                            <h5><i class="fas fa-car me-2"></i>G?n di?n tho?i dï¿½ng v? trï¿½</h5>
+                            <p>G?n di?n tho?i trï¿½n taplo ho?c kï¿½nh ch?n giï¿½ d? d? nhï¿½n vï¿½ GPS b?t t?t hon.</p>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="feature-card">
                             <h5><i class="fas fa-download me-2"></i>T?i b?n d? tru?c</h5>
-                            <p>N?u di xa, t?i b?n d? offline tru?c khi di d? tránh m?t m?ng gi?a du?ng.</p>
+                            <p>N?u di xa, t?i b?n d? offline tru?c khi di d? trï¿½nh m?t m?ng gi?a du?ng.</p>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="feature-card">
                             <h5><i class="fas fa-battery-full me-2"></i>S?c di?n tho?i</h5>
-                            <p>GPS và màn hình sáng r?t t?n pin. Nên c?m s?c xe khi dùng Vietmap.</p>
+                            <p>GPS vï¿½ mï¿½n hï¿½nh sï¿½ng r?t t?n pin. Nï¿½n c?m s?c xe khi dï¿½ng Vietmap.</p>
                         </div>
                     </div>
                 </div>
@@ -631,55 +633,55 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
 
             <!-- FAQ -->
             <section id="faq" class="content-section">
-                <h2><i class="fas fa-question-circle text-primary me-2"></i>9. Câu H?i Thu?ng G?p (FAQ)</h2>
+                <h2><i class="fas fa-question-circle text-primary me-2"></i>9. Cï¿½u H?i Thu?ng G?p (FAQ)</h2>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="toggleFaq(this)">
-                        <span>Vietmap Live Pro có mi?n phí không?</span>
+                        <span>Vietmap Live Pro cï¿½ mi?n phï¿½ khï¿½ng?</span>
                         <i class="fas fa-chevron-down"></i>
                     </div>
                     <div class="faq-answer">
-                        <p>Vietmap Live có b?n mi?n phí nhung gi?i h?n tính nang và có qu?ng cáo. Ð? dùng d?y d? (camera, không qu?ng cáo), c?n mua gói Pro ho?c thuê t?i UnlockTool.us v?i giá 8.000d/6h.</p>
+                        <p>Vietmap Live cï¿½ b?n mi?n phï¿½ nhung gi?i h?n tï¿½nh nang vï¿½ cï¿½ qu?ng cï¿½o. ï¿½? dï¿½ng d?y d? (camera, khï¿½ng qu?ng cï¿½o), c?n mua gï¿½i Pro ho?c thuï¿½ t?i UnlockTool.us v?i giï¿½ 8.000d/6h.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="toggleFaq(this)">
-                        <span>Vietmap c?p nh?t camera có nhanh không?</span>
+                        <span>Vietmap c?p nh?t camera cï¿½ nhanh khï¿½ng?</span>
                         <i class="fas fa-chevron-down"></i>
                     </div>
                     <div class="faq-answer">
-                        <p>Có, Vietmap có c?ng d?ng l?n liên t?c c?p nh?t camera m?i. Thông thu?ng camera m?i du?c c?p nh?t trong vài ngày d?n 1 tu?n sau khi l?p d?t.</p>
+                        <p>Cï¿½, Vietmap cï¿½ c?ng d?ng l?n liï¿½n t?c c?p nh?t camera m?i. Thï¿½ng thu?ng camera m?i du?c c?p nh?t trong vï¿½i ngï¿½y d?n 1 tu?n sau khi l?p d?t.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="toggleFaq(this)">
-                        <span>Thuê Vietmap ? dâu uy tín?</span>
+                        <span>Thuï¿½ Vietmap ? dï¿½u uy tï¿½n?</span>
                         <i class="fas fa-chevron-down"></i>
                     </div>
                     <div class="faq-answer">
-                        <p>Thuê Vietmap Live Pro uy tín t?i <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a> - giá 8.000d/6h, h? th?ng t? d?ng 24/7, thanh toán QR Code d? dàng.</p>
+                        <p>Thuï¿½ Vietmap Live Pro uy tï¿½n t?i <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a> - giï¿½ 8.000d/6h, h? th?ng t? d?ng 24/7, thanh toï¿½n QR Code d? dï¿½ng.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="toggleFaq(this)">
-                        <span>1 tài kho?n dùng du?c m?y thi?t b??</span>
+                        <span>1 tï¿½i kho?n dï¿½ng du?c m?y thi?t b??</span>
                         <i class="fas fa-chevron-down"></i>
                     </div>
                     <div class="faq-answer">
-                        <p>Thông thu?ng 1 tài kho?n Vietmap Pro có th? dang nh?p trên 1-2 thi?t b? cùng lúc. Khi thuê, b?n s? nh?n tài kho?n dùng riêng trong th?i gian thuê.</p>
+                        <p>Thï¿½ng thu?ng 1 tï¿½i kho?n Vietmap Pro cï¿½ th? dang nh?p trï¿½n 1-2 thi?t b? cï¿½ng lï¿½c. Khi thuï¿½, b?n s? nh?n tï¿½i kho?n dï¿½ng riï¿½ng trong th?i gian thuï¿½.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="toggleFaq(this)">
-                        <span>Vietmap có dùng du?c ? nu?c ngoài không?</span>
+                        <span>Vietmap cï¿½ dï¿½ng du?c ? nu?c ngoï¿½i khï¿½ng?</span>
                         <i class="fas fa-chevron-down"></i>
                     </div>
                     <div class="faq-answer">
-                        <p>Vietmap ch? y?u t?i uu cho Vi?t Nam. N?u di nu?c ngoài, nên dùng Google Maps ho?c b?n d? d?a phuong.</p>
+                        <p>Vietmap ch? y?u t?i uu cho Vi?t Nam. N?u di nu?c ngoï¿½i, nï¿½n dï¿½ng Google Maps ho?c b?n d? d?a phuong.</p>
                     </div>
                 </div>
             </section>
@@ -688,45 +690,45 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
             <section class="content-section">
                 <h2><i class="fas fa-flag-checkered text-primary me-2"></i>K?t Lu?n</h2>
                 
-                <p><strong>Vietmap Live Pro</strong> là ?ng d?ng b?n d? d?n du?ng không th? thi?u cho ngu?i lái xe t?i Vi?t Nam. V?i tính nang c?nh báo camera ph?t ngu?i, giao thông real-time và b?n d? chi ti?t, Vietmap giúp b?n lái xe an toàn và tránh b? ph?t.</p>
+                <p><strong>Vietmap Live Pro</strong> lï¿½ ?ng d?ng b?n d? d?n du?ng khï¿½ng th? thi?u cho ngu?i lï¿½i xe t?i Vi?t Nam. V?i tï¿½nh nang c?nh bï¿½o camera ph?t ngu?i, giao thï¿½ng real-time vï¿½ b?n d? chi ti?t, Vietmap giï¿½p b?n lï¿½i xe an toï¿½n vï¿½ trï¿½nh b? ph?t.</p>
 
                 <div class="success-box">
-                    <h5>Tóm t?t</h5>
+                    <h5>Tï¿½m t?t</h5>
                     <ul class="mb-0">
                         <li><strong>Vietmap Live Pro</strong> - B?n d? d?n du?ng t?t nh?t Vi?t Nam</li>
-                        <li><strong>Tính nang n?i b?t:</strong> C?nh báo camera, giao thông real-time, offline</li>
-                        <li><strong>Giá mua:</strong> 299.000d/nam</li>
-                        <li><strong>Giá thuê:</strong> Ch? 8.000d/6h t?i UnlockTool.us</li>
+                        <li><strong>Tï¿½nh nang n?i b?t:</strong> C?nh bï¿½o camera, giao thï¿½ng real-time, offline</li>
+                        <li><strong>Giï¿½ mua:</strong> 299.000d/nam</li>
+                        <li><strong>Giï¿½ thuï¿½:</strong> Ch? 8.000d/6h t?i UnlockTool.us</li>
                     </ul>
                 </div>
 
                 <div class="text-center mt-5">
                     <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-vietmap btn-lg me-3 mb-3">
-                        <i class="fas fa-shopping-cart me-2"></i>Thuê Vietmap Pro - 8K/6H
+                        <i class="fas fa-shopping-cart me-2"></i>Thuï¿½ Vietmap Pro - 8K/6H
                     </a>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-primary btn-lg mb-3">
-                        <i class="fas fa-headset me-2"></i>D?ch V? Khác - Thuetaikhoan.net
+                        <i class="fas fa-headset me-2"></i>D?ch V? Khï¿½c - Thuetaikhoan.net
                     </a>
                 </div>
             </section>
 
-            <!-- Bài vi?t liên quan -->
+            <!-- Bï¿½i vi?t liï¿½n quan -->
             <section class="content-section">
-                <h3><i class="fas fa-newspaper text-primary me-2"></i>Bài Vi?t Liên Quan</h3>
+                <h3><i class="fas fa-newspaper text-primary me-2"></i>Bï¿½i Vi?t Liï¿½n Quan</h3>
                 <div class="row">
                     <div class="col-md-4">
                         <div class="card">
                             <div class="card-body">
-                                <h6><a href="/articles/1-unlocktool-la-gi.php">UnlockTool là gì?</a></h6>
-                                <p class="small text-muted">Tìm hi?u v? UnlockTool - công c? m? khóa di?n tho?i.</p>
+                                <h6><a href="/articles/1-unlocktool-la-gi.php">UnlockTool lï¿½ gï¿½?</a></h6>
+                                <p class="small text-muted">Tï¿½m hi?u v? UnlockTool - cï¿½ng c? m? khï¿½a di?n tho?i.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="card">
                             <div class="card-body">
-                                <h6><a href="/articles/39-dich-vu-ky-thuat-mo-khoa.php">D?ch v? k? thu?t viên</a></h6>
-                                <p class="small text-muted">D?ch v? m? khóa di?n tho?i chuyên nghi?p.</p>
+                                <h6><a href="/articles/39-dich-vu-ky-thuat-mo-khoa.php">D?ch v? k? thu?t viï¿½n</a></h6>
+                                <p class="small text-muted">D?ch v? m? khï¿½a di?n tho?i chuyï¿½n nghi?p.</p>
                             </div>
                         </div>
                     </div>
@@ -734,7 +736,7 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
                         <div class="card">
                             <div class="card-body">
                                 <h6><a href="/articles/34-check-imei-iphone-samsung.php">Check IMEI</a></h6>
-                                <p class="small text-muted">Ki?m tra IMEI tru?c khi mua máy cu.</p>
+                                <p class="small text-muted">Ki?m tra IMEI tru?c khi mua mï¿½y cu.</p>
                             </div>
                         </div>
                     </div>
@@ -753,7 +755,7 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
                         <p class="display-6 fw-bold">8.000d/6H</p>
                         <p>H? th?ng t? d?ng 24/7</p>
                         <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-block w-100">
-                            Thuê Ngay
+                            Thuï¿½ Ngay
                         </a>
                     </div>
                 </div>
@@ -761,14 +763,14 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
                 <!-- D?ch v? Box -->
                 <div class="card mb-4">
                     <div class="card-header bg-success text-white">
-                        <i class="fas fa-list me-2"></i>D?ch V? Khác
+                        <i class="fas fa-list me-2"></i>D?ch V? Khï¿½c
                     </div>
                     <div class="card-body">
                         <ul class="list-unstyled mb-0">
-                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Thuê UnlockTool</li>
+                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Thuï¿½ UnlockTool</li>
                             <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Bypass FRP</li>
                             <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Off iCloud</li>
-                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Xóa Knox Samsung</li>
+                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Xï¿½a Knox Samsung</li>
                             <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Check IMEI</li>
                         </ul>
                         <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-success w-100 mt-3">
@@ -780,7 +782,7 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
                 <!-- Rating Box -->
                 <div class="card">
                     <div class="card-body text-center">
-                        <h6>Ðánh Giá Bài Vi?t</h6>
+                        <h6>ï¿½ï¿½nh Giï¿½ Bï¿½i Vi?t</h6>
                         <div class="mb-2" style="color: #ffc107; font-size: 1.2rem;">
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
@@ -788,7 +790,7 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
                         </div>
-                        <p class="mb-0">4.9/5 (15,000 dánh giá)</p>
+                        <p class="mb-0">4.9/5 (15,000 dï¿½nh giï¿½)</p>
                     </div>
                 </div>
             </div>
@@ -804,7 +806,7 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bài vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bï¿½i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -818,7 +820,7 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài vi?t liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bï¿½i vi?t liï¿½n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
@@ -853,7 +855,7 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Ð?i ngu k? thu?t viên chuyên nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khóa di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">ï¿½?i ngu k? thu?t viï¿½n chuyï¿½n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khï¿½a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -864,13 +866,13 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
         <div class="row">
             <div class="col-md-6">
                 <h5>UnlockTool.us</h5>
-                <p>D?ch v? cho thuê tài kho?n uy tín, giá r? nh?t Vi?t Nam. H? th?ng t? d?ng 24/7.</p>
+                <p>D?ch v? cho thuï¿½ tï¿½i kho?n uy tï¿½n, giï¿½ r? nh?t Vi?t Nam. H? th?ng t? d?ng 24/7.</p>
             </div>
             <div class="col-md-3">
-                <h6>Liên k?t</h6>
+                <h6>Liï¿½n k?t</h6>
                 <ul class="list-unstyled">
                     <li><a href="https://www.unlocktool.us/" class="text-white-50">Trang ch?</a></li>
-                    <li><a href="https://www.unlocktool.us/articles/" class="text-white-50">Bài vi?t</a></li>
+                    <li><a href="https://www.unlocktool.us/articles/" class="text-white-50">Bï¿½i vi?t</a></li>
                     <li><a href="https://thuetaikhoan.net" class="text-white-50">D?ch v? k? thu?t</a></li>
                 </ul>
             </div>
@@ -879,7 +881,7 @@ $canonical_url = "https://www.unlocktool.us/articles/45-vietmap-live-pro.php";
                 <ul class="list-unstyled">
                     <li><a href="https://thuetaikhoan.net" class="text-white-50">Bypass FRP</a></li>
                     <li><a href="https://thuetaikhoan.net" class="text-white-50">Off iCloud</a></li>
-                    <li><a href="https://thuetaikhoan.net" class="text-white-50">Xóa Mi Account</a></li>
+                    <li><a href="https://thuetaikhoan.net" class="text-white-50">Xï¿½a Mi Account</a></li>
                 </ul>
             </div>
         </div>

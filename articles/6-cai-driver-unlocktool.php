@@ -1,7 +1,7 @@
-<?php
-$page_title = "Cài d?t Driver UnlockTool d?y d? 2026 - Samsung, Qualcomm, MTK, ADB";
-$page_description = "Hu?ng d?n cài d?t driver UnlockTool d?y d? cho Samsung, Qualcomm, MTK, ADB. Link t?i driver chính th?c và cách kh?c ph?c l?i driver.";
-$page_keywords = "driver unlocktool, samsung driver, qualcomm driver, mtk driver, adb driver, cài driver di?n tho?i";
+ï»¿<?php
+$page_title = "Cï¿½i d?t Driver UnlockTool d?y d? 2026 - Samsung, Qualcomm, MTK, ADB";
+$page_description = "Hu?ng d?n cï¿½i d?t driver UnlockTool d?y d? cho Samsung, Qualcomm, MTK, ADB. Link t?i driver chï¿½nh th?c vï¿½ cï¿½ch kh?c ph?c l?i driver.";
+$page_keywords = "driver unlocktool, samsung driver, qualcomm driver, mtk driver, adb driver, cï¿½i driver di?n tho?i";
 $canonical_url = "https://www.unlocktool.us/articles/6-cai-driver-unlocktool.php";
 ?>
 <!DOCTYPE html>
@@ -22,16 +22,17 @@ $canonical_url = "https://www.unlocktool.us/articles/6-cai-driver-unlocktool.php
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">">
     <meta property="og:type" content="article">
     <meta property="og:title" content="<?php echo $page_title; ?>">
-    <meta property="og:description" content="<?php echo $page_description; ?>">
+    <meta property="og:description" content="<?php echo $page_description; ?>
+    <meta property="og:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
     
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "Driver UnlockTool là gì?", "acceptedAnswer": {"@type": "Answer", "text": "Driver là ph?n m?m giúp máy tính nh?n di?n và giao ti?p v?i di?n tho?i. M?i hãng di?n tho?i c?n driver riêng."}},
-            {"@type": "Question", "name": "C?n cài nh?ng driver nào?", "acceptedAnswer": {"@type": "Answer", "text": "Tùy di?n tho?i: Samsung c?n Samsung USB Driver, Xiaomi/Oppo chip Qualcomm c?n Qualcomm Driver, máy MTK c?n MTK Driver."}},
-            {"@type": "Question", "name": "T?i sao máy tính không nh?n di?n tho?i?", "acceptedAnswer": {"@type": "Answer", "text": "Có th? do thi?u driver, driver cài sai, ho?c cáp USB kém ch?t lu?ng. Th? cài l?i driver và dùng cáp khác."}}
+            {"@type": "Question", "name": "Driver UnlockTool lï¿½ gï¿½?", "acceptedAnswer": {"@type": "Answer", "text": "Driver lï¿½ ph?n m?m giï¿½p mï¿½y tï¿½nh nh?n di?n vï¿½ giao ti?p v?i di?n tho?i. M?i hï¿½ng di?n tho?i c?n driver riï¿½ng."}},
+            {"@type": "Question", "name": "C?n cï¿½i nh?ng driver nï¿½o?", "acceptedAnswer": {"@type": "Answer", "text": "Tï¿½y di?n tho?i: Samsung c?n Samsung USB Driver, Xiaomi/Oppo chip Qualcomm c?n Qualcomm Driver, mï¿½y MTK c?n MTK Driver."}},
+            {"@type": "Question", "name": "T?i sao mï¿½y tï¿½nh khï¿½ng nh?n di?n tho?i?", "acceptedAnswer": {"@type": "Answer", "text": "Cï¿½ th? do thi?u driver, driver cï¿½i sai, ho?c cï¿½p USB kï¿½m ch?t lu?ng. Th? cï¿½i l?i driver vï¿½ dï¿½ng cï¿½p khï¿½c."}}
         ]
     }
     </script>
@@ -112,7 +113,7 @@ $canonical_url = "https://www.unlocktool.us/articles/6-cai-driver-unlocktool.php
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? khóa di?n tho?i",
+        "name": "D?ch v? m? khï¿½a di?n tho?i",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -128,8 +129,8 @@ $canonical_url = "https://www.unlocktool.us/articles/6-cai-driver-unlocktool.php
 
 <header class="article-header">
     <div class="container text-center">
-        <h1><i class="fas fa-hdd"></i> Cài d?t Driver UnlockTool d?y d? 2026</h1>
-        <p>Hu?ng d?n cài driver Samsung, Qualcomm, MTK, ADB cho UnlockTool</p>
+        <h1><i class="fas fa-hdd"></i> Cï¿½i d?t Driver UnlockTool d?y d? 2026</h1>
+        <p>Hu?ng d?n cï¿½i driver Samsung, Qualcomm, MTK, ADB cho UnlockTool</p>
     </div>
 </header>
 
@@ -137,15 +138,15 @@ $canonical_url = "https://www.unlocktool.us/articles/6-cai-driver-unlocktool.php
     <article class="article-content">
         
         <div class="info-box">
-            <h4><i class="fas fa-info-circle"></i> T?i sao c?n cài Driver?</h4>
-            <p class="mb-0"><strong>Driver</strong> là ph?n m?m trung gian giúp máy tính nh?n di?n và giao ti?p v?i di?n tho?i. Không có driver ho?c driver không dúng, UnlockTool s? không th? k?t n?i v?i di?n tho?i d? th?c hi?n các thao tác m? khóa.</p>
+            <h4><i class="fas fa-info-circle"></i> T?i sao c?n cï¿½i Driver?</h4>
+            <p class="mb-0"><strong>Driver</strong> lï¿½ ph?n m?m trung gian giï¿½p mï¿½y tï¿½nh nh?n di?n vï¿½ giao ti?p v?i di?n tho?i. Khï¿½ng cï¿½ driver ho?c driver khï¿½ng dï¿½ng, UnlockTool s? khï¿½ng th? k?t n?i v?i di?n tho?i d? th?c hi?n cï¿½c thao tï¿½c m? khï¿½a.</p>
         </div>
         
-        <h2>1. Link t?i Driver chính th?c</h2>
+        <h2>1. Link t?i Driver chï¿½nh th?c</h2>
         
         <div class="success-box">
             <h4><i class="fas fa-download"></i> T?i t?t c? Driver m?t l?n</h4>
-            <p>Ð? ti?n l?i, b?n có th? t?i gói Full Driver ch?a t?t c? driver c?n thi?t:</p>
+            <p>ï¿½? ti?n l?i, b?n cï¿½ th? t?i gï¿½i Full Driver ch?a t?t c? driver c?n thi?t:</p>
             <div class="text-center">
                 <a href="https://file.unlocktool.net/page/all-driver" target="_blank" class="download-btn">
                     <i class="fas fa-download"></i> T?i Full Driver UnlockTool
@@ -153,24 +154,24 @@ $canonical_url = "https://www.unlocktool.us/articles/6-cai-driver-unlocktool.php
             </div>
         </div>
         
-        <h2>2. Các lo?i Driver c?n thi?t</h2>
+        <h2>2. Cï¿½c lo?i Driver c?n thi?t</h2>
         
         <div class="driver-card">
             <h4><i class="fas fa-mobile-alt text-primary"></i> Samsung USB Driver</h4>
             <span class="badge badge-primary">B?t bu?c cho Samsung</span>
-            <p class="mt-2">Driver chính th?c t? Samsung d? k?t n?i di?n tho?i Samsung v?i máy tính ? các ch? d?:</p>
+            <p class="mt-2">Driver chï¿½nh th?c t? Samsung d? k?t n?i di?n tho?i Samsung v?i mï¿½y tï¿½nh ? cï¿½c ch? d?:</p>
             <ul>
                 <li>Normal Mode (ADB)</li>
                 <li>Download Mode (Odin)</li>
                 <li>Recovery Mode</li>
             </ul>
-            <p><strong>Ði?n tho?i áp d?ng:</strong> T?t c? Samsung Galaxy S, A, M, Note, Tab...</p>
+            <p><strong>ï¿½i?n tho?i ï¿½p d?ng:</strong> T?t c? Samsung Galaxy S, A, M, Note, Tab...</p>
         </div>
         
         <div class="driver-card">
             <h4><i class="fas fa-microchip text-danger"></i> Qualcomm Driver (QDLoader)</h4>
-            <span class="badge badge-danger">Cho máy chip Qualcomm</span>
-            <p class="mt-2">Driver cho các di?n tho?i dùng chip Qualcomm Snapdragon ? ch? d? EDL (9008):</p>
+            <span class="badge badge-danger">Cho mï¿½y chip Qualcomm</span>
+            <p class="mt-2">Driver cho cï¿½c di?n tho?i dï¿½ng chip Qualcomm Snapdragon ? ch? d? EDL (9008):</p>
             <ul>
                 <li>Xiaomi (Mi, Redmi, POCO)</li>
                 <li>Oppo, Realme (m?t s? model)</li>
@@ -183,14 +184,14 @@ $canonical_url = "https://www.unlocktool.us/articles/6-cai-driver-unlocktool.php
         
         <div class="driver-card">
             <h4><i class="fas fa-microchip text-warning"></i> MTK Driver (MediaTek)</h4>
-            <span class="badge badge-warning text-dark">Cho máy chip MediaTek</span>
-            <p class="mt-2">Driver cho các di?n tho?i dùng chip MediaTek (Helio):</p>
+            <span class="badge badge-warning text-dark">Cho mï¿½y chip MediaTek</span>
+            <p class="mt-2">Driver cho cï¿½c di?n tho?i dï¿½ng chip MediaTek (Helio):</p>
             <ul>
                 <li>Xiaomi Redmi (m?t s? model)</li>
                 <li>Oppo, Realme (m?t s? model)</li>
                 <li>Vivo (m?t s? model)</li>
                 <li>Tecno, Infinix</li>
-                <li>Samsung giá r?...</li>
+                <li>Samsung giï¿½ r?...</li>
             </ul>
             <p><strong>Ch? d? nh?n:</strong> MediaTek PreLoader USB VCOM</p>
         </div>
@@ -198,35 +199,35 @@ $canonical_url = "https://www.unlocktool.us/articles/6-cai-driver-unlocktool.php
         <div class="driver-card">
             <h4><i class="fab fa-android text-success"></i> ADB & Fastboot Driver</h4>
             <span class="badge badge-success">Cho t?t c? Android</span>
-            <p class="mt-2">Driver chung cho Android Debug Bridge và Fastboot Mode:</p>
+            <p class="mt-2">Driver chung cho Android Debug Bridge vï¿½ Fastboot Mode:</p>
             <ul>
                 <li>K?t n?i ADB khi b?t USB Debugging</li>
                 <li>K?t n?i Fastboot Mode</li>
-                <li>Cài d?t APK, ch?y l?nh ADB...</li>
+                <li>Cï¿½i d?t APK, ch?y l?nh ADB...</li>
             </ul>
         </div>
         
-        <h2>3. Hu?ng d?n cài d?t Driver</h2>
+        <h2>3. Hu?ng d?n cï¿½i d?t Driver</h2>
         
-        <h3>3.1. Cài d?t Samsung USB Driver</h3>
+        <h3>3.1. Cï¿½i d?t Samsung USB Driver</h3>
         
         <ol class="step-list">
-            <li>Gi?i nén file Samsung_USB_Driver.zip dã t?i</li>
+            <li>Gi?i nï¿½n file Samsung_USB_Driver.zip dï¿½ t?i</li>
             <li>Ch?y file <strong>SAMSUNG_USB_Driver_for_Mobile_Phones.exe</strong></li>
-            <li>Ch?n ngôn ng? và click <strong>Next</strong></li>
-            <li>Ð?c và ch?p nh?n di?u kho?n ? Click <strong>Install</strong></li>
-            <li>Ch? cài d?t hoàn t?t ? Click <strong>Finish</strong></li>
-            <li><strong>Kh?i d?ng l?i máy tính</strong></li>
+            <li>Ch?n ngï¿½n ng? vï¿½ click <strong>Next</strong></li>
+            <li>ï¿½?c vï¿½ ch?p nh?n di?u kho?n ? Click <strong>Install</strong></li>
+            <li>Ch? cï¿½i d?t hoï¿½n t?t ? Click <strong>Finish</strong></li>
+            <li><strong>Kh?i d?ng l?i mï¿½y tï¿½nh</strong></li>
         </ol>
         
-        <h3>3.2. Cài d?t Qualcomm Driver</h3>
+        <h3>3.2. Cï¿½i d?t Qualcomm Driver</h3>
         
         <ol class="step-list">
-            <li>Gi?i nén file Qualcomm_Driver.zip</li>
+            <li>Gi?i nï¿½n file Qualcomm_Driver.zip</li>
             <li>Ch?y file <strong>Qualcomm_QDLoader_Driver.exe</strong> ho?c <strong>QPST.exe</strong></li>
             <li>N?u Windows h?i, ch?n <strong>"Run anyway"</strong></li>
-            <li>Click <strong>Install</strong> và ch? hoàn t?t</li>
-            <li>Có th? c?n t?t Driver Signature Enforcement:
+            <li>Click <strong>Install</strong> vï¿½ ch? hoï¿½n t?t</li>
+            <li>Cï¿½ th? c?n t?t Driver Signature Enforcement:
                 <ul>
                     <li>Settings ? Update & Security ? Recovery ? Advanced Startup</li>
                     <li>Ch?n Troubleshoot ? Advanced ? Startup Settings ? Restart</li>
@@ -235,34 +236,34 @@ $canonical_url = "https://www.unlocktool.us/articles/6-cai-driver-unlocktool.php
             </li>
         </ol>
         
-        <h3>3.3. Cài d?t MTK Driver</h3>
+        <h3>3.3. Cï¿½i d?t MTK Driver</h3>
         
         <ol class="step-list">
-            <li>Gi?i nén file MTK_Driver.zip</li>
+            <li>Gi?i nï¿½n file MTK_Driver.zip</li>
             <li>Ch?y file <strong>MTK_USB_Driver.exe</strong> ho?c <strong>InstallDriver.exe</strong></li>
             <li>Click <strong>Install</strong></li>
-            <li>N?u b? ch?n b?i Windows, t?t Driver Signature nhu trên</li>
-            <li>Hoàn t?t và kh?i d?ng l?i máy</li>
+            <li>N?u b? ch?n b?i Windows, t?t Driver Signature nhu trï¿½n</li>
+            <li>Hoï¿½n t?t vï¿½ kh?i d?ng l?i mï¿½y</li>
         </ol>
         
-        <h3>3.4. Cài d?t ADB Driver</h3>
+        <h3>3.4. Cï¿½i d?t ADB Driver</h3>
         
         <ol class="step-list">
-            <li>Gi?i nén file ADB_Driver.zip</li>
+            <li>Gi?i nï¿½n file ADB_Driver.zip</li>
             <li>Ch?y file <strong>adb-setup.exe</strong> ho?c <strong>Universal_Adb_Driver.exe</strong></li>
-            <li>Nh?n <strong>Y</strong> khi du?c h?i d? cài ADB, Fastboot Driver</li>
-            <li>Ch? cài d?t hoàn t?t</li>
+            <li>Nh?n <strong>Y</strong> khi du?c h?i d? cï¿½i ADB, Fastboot Driver</li>
+            <li>Ch? cï¿½i d?t hoï¿½n t?t</li>
         </ol>
         
-        <h2>4. Ki?m tra Driver dã cài dúng</h2>
+        <h2>4. Ki?m tra Driver dï¿½ cï¿½i dï¿½ng</h2>
         
         <h3>4.1. Ki?m tra trong Device Manager</h3>
         
         <ol>
             <li>Nh?n <strong>Win + X</strong> ? Ch?n <strong>Device Manager</strong></li>
-            <li>K?t n?i di?n tho?i v?i máy tính</li>
-            <li>Ki?m tra xem có thi?t b? nào có d?u <strong>!</strong> ho?c <strong>?</strong> không</li>
-            <li>Các thi?t b? nên hi?n th? dúng tên:
+            <li>K?t n?i di?n tho?i v?i mï¿½y tï¿½nh</li>
+            <li>Ki?m tra xem cï¿½ thi?t b? nï¿½o cï¿½ d?u <strong>!</strong> ho?c <strong>?</strong> khï¿½ng</li>
+            <li>Cï¿½c thi?t b? nï¿½n hi?n th? dï¿½ng tï¿½n:
                 <ul>
                     <li><strong>Samsung:</strong> "SAMSUNG Mobile USB Composite Device"</li>
                     <li><strong>Qualcomm EDL:</strong> "Qualcomm HS-USB QDLoader 9008"</li>
@@ -274,41 +275,41 @@ $canonical_url = "https://www.unlocktool.us/articles/6-cai-driver-unlocktool.php
         
         <h3>4.2. Ki?m tra trong UnlockTool</h3>
         
-        <p>M? UnlockTool và k?t n?i di?n tho?i. N?u ph?n m?m hi?n th? thông tin di?n tho?i (model, IMEI...) thì driver dã cài dúng.</p>
+        <p>M? UnlockTool vï¿½ k?t n?i di?n tho?i. N?u ph?n m?m hi?n th? thï¿½ng tin di?n tho?i (model, IMEI...) thï¿½ driver dï¿½ cï¿½i dï¿½ng.</p>
         
         <h2>5. Kh?c ph?c l?i Driver</h2>
         
         <h3>5.1. L?i "Unknown Device" ho?c "?" trong Device Manager</h3>
         
         <ul>
-            <li>Click chu?t ph?i vào thi?t b? Unknown ? <strong>Update Driver</strong></li>
+            <li>Click chu?t ph?i vï¿½o thi?t b? Unknown ? <strong>Update Driver</strong></li>
             <li>Ch?n <strong>Browse my computer for drivers</strong></li>
-            <li>Ch?n thu m?c ch?a driver dã gi?i nén</li>
-            <li>Click <strong>Next</strong> và ch? cài d?t</li>
+            <li>Ch?n thu m?c ch?a driver dï¿½ gi?i nï¿½n</li>
+            <li>Click <strong>Next</strong> vï¿½ ch? cï¿½i d?t</li>
         </ul>
         
         <h3>5.2. Driver b? Windows ch?n</h3>
         
         <ul>
-            <li>T?t Driver Signature Enforcement (xem hu?ng d?n ? trên)</li>
-            <li>Ho?c s? d?ng công c? <strong>Driver Signature Tool</strong></li>
+            <li>T?t Driver Signature Enforcement (xem hu?ng d?n ? trï¿½n)</li>
+            <li>Ho?c s? d?ng cï¿½ng c? <strong>Driver Signature Tool</strong></li>
         </ul>
         
-        <h3>5.3. Ði?n tho?i không hi?n trong Device Manager</h3>
+        <h3>5.3. ï¿½i?n tho?i khï¿½ng hi?n trong Device Manager</h3>
         
         <ul>
-            <li>Th? cáp USB khác (uu tiên cáp chính hãng)</li>
-            <li>Th? c?ng USB khác (uu tiên USB 2.0)</li>
-            <li>Ð?m b?o di?n tho?i ? dúng ch? d? (Download, EDL, ADB...)</li>
+            <li>Th? cï¿½p USB khï¿½c (uu tiï¿½n cï¿½p chï¿½nh hï¿½ng)</li>
+            <li>Th? c?ng USB khï¿½c (uu tiï¿½n USB 2.0)</li>
+            <li>ï¿½?m b?o di?n tho?i ? dï¿½ng ch? d? (Download, EDL, ADB...)</li>
             <li>Ki?m tra pin di?n tho?i > 30%</li>
         </ul>
         
-        <h2>6. B?ng Driver theo hãng di?n tho?i</h2>
+        <h2>6. B?ng Driver theo hï¿½ng di?n tho?i</h2>
         
         <table>
             <tr>
-                <th>Hãng</th>
-                <th>Driver c?n cài</th>
+                <th>Hï¿½ng</th>
+                <th>Driver c?n cï¿½i</th>
                 <th>Ch? d? k?t n?i</th>
             </tr>
             <tr>
@@ -351,30 +352,30 @@ $canonical_url = "https://www.unlocktool.us/articles/6-cai-driver-unlocktool.php
         <h2>7. FAQ</h2>
         
         <div class="faq-item">
-            <div class="faq-question">Cài t?t c? driver có b? xung d?t không?</div>
-            <div class="faq-answer">Không, các driver ho?t d?ng d?c l?p. B?n có th? cài t?t c? driver d? s?n sàng cho m?i lo?i di?n tho?i.</div>
+            <div class="faq-question">Cï¿½i t?t c? driver cï¿½ b? xung d?t khï¿½ng?</div>
+            <div class="faq-answer">Khï¿½ng, cï¿½c driver ho?t d?ng d?c l?p. B?n cï¿½ th? cï¿½i t?t c? driver d? s?n sï¿½ng cho m?i lo?i di?n tho?i.</div>
         </div>
         
         <div class="faq-item">
-            <div class="faq-question">Có c?n cài l?i driver khi update UnlockTool không?</div>
-            <div class="faq-answer">Thu?ng không c?n. Driver ch? c?n cài m?t l?n tr? khi có v?n d? ho?c update Windows làm m?t driver.</div>
+            <div class="faq-question">Cï¿½ c?n cï¿½i l?i driver khi update UnlockTool khï¿½ng?</div>
+            <div class="faq-answer">Thu?ng khï¿½ng c?n. Driver ch? c?n cï¿½i m?t l?n tr? khi cï¿½ v?n d? ho?c update Windows lï¿½m m?t driver.</div>
         </div>
         
         <div class="faq-item">
-            <div class="faq-question">Antivirus có ch?n driver không?</div>
-            <div class="faq-answer">Có th?. M?t s? antivirus ch?n driver không có ch? ký s?. T?m t?t antivirus khi cài driver.</div>
+            <div class="faq-question">Antivirus cï¿½ ch?n driver khï¿½ng?</div>
+            <div class="faq-answer">Cï¿½ th?. M?t s? antivirus ch?n driver khï¿½ng cï¿½ ch? kï¿½ s?. T?m t?t antivirus khi cï¿½i driver.</div>
         </div>
         
         <h2>8. K?t lu?n</h2>
         
-        <p>Cài d?t driver dúng và d?y d? là bu?c quan tr?ng nh?t d? s? d?ng <strong>UnlockTool</strong> hi?u qu?. Hãy t?i Full Driver t? ngu?n chính th?c và cài d?t theo hu?ng d?n.</p>
+        <p>Cï¿½i d?t driver dï¿½ng vï¿½ d?y d? lï¿½ bu?c quan tr?ng nh?t d? s? d?ng <strong>UnlockTool</strong> hi?u qu?. Hï¿½y t?i Full Driver t? ngu?n chï¿½nh th?c vï¿½ cï¿½i d?t theo hu?ng d?n.</p>
         
         <div class="text-center my-4">
             <a href="https://file.unlocktool.net/page/all-driver" target="_blank" class="download-btn">
                 <i class="fas fa-download"></i> T?i Full Driver
             </a>
             <a href="https://www.unlocktool.us/" class="download-btn" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
-                <i class="fas fa-key"></i> Thuê Tài Kho?n UnlockTool
+                <i class="fas fa-key"></i> Thuï¿½ Tï¿½i Kho?n UnlockTool
             </a>
         </div>
         
@@ -388,7 +389,7 @@ $canonical_url = "https://www.unlocktool.us/articles/6-cai-driver-unlocktool.php
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bài vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bï¿½i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -402,7 +403,7 @@ $canonical_url = "https://www.unlocktool.us/articles/6-cai-driver-unlocktool.php
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài vi?t liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bï¿½i vi?t liï¿½n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
@@ -437,7 +438,7 @@ $canonical_url = "https://www.unlocktool.us/articles/6-cai-driver-unlocktool.php
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Ð?i ngu k? thu?t viên chuyên nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khóa di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">ï¿½?i ngu k? thu?t viï¿½n chuyï¿½n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khï¿½a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -445,7 +446,7 @@ $canonical_url = "https://www.unlocktool.us/articles/6-cai-driver-unlocktool.php
 </div>
 <footer class="bg-dark text-white py-4 mt-5">
     <div class="container text-center">
-        <p class="mb-0">© 2026 UnlockTool.us - D?ch v? cho thuê tài kho?n UnlockTool</p>
+        <p class="mb-0">ï¿½ 2026 UnlockTool.us - D?ch v? cho thuï¿½ tï¿½i kho?n UnlockTool</p>
     </div>
 </footer>
 

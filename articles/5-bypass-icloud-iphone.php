@@ -1,7 +1,7 @@
-<?php
+ï»¿<?php
 $page_title = "Bypass iCloud iPhone b?ng UnlockTool 2026 - Hu?ng d?n Ramdisk";
-$page_description = "Hu?ng d?n bypass iCloud iPhone b?ng UnlockTool 2026. S? d?ng Ramdisk d? b? qua màn hình khóa iCloud trên iPhone 5SE d?n iPhone X, iPad.";
-$page_keywords = "bypass icloud, unlocktool iphone, ramdisk iphone, b? qua icloud, m? khóa icloud";
+$page_description = "Hu?ng d?n bypass iCloud iPhone b?ng UnlockTool 2026. S? d?ng Ramdisk d? b? qua mï¿½n hï¿½nh khï¿½a iCloud trï¿½n iPhone 5SE d?n iPhone X, iPad.";
+$page_keywords = "bypass icloud, unlocktool iphone, ramdisk iphone, b? qua icloud, m? khï¿½a icloud";
 $canonical_url = "https://www.unlocktool.us/articles/5-bypass-icloud-iphone.php";
 ?>
 <!DOCTYPE html>
@@ -23,19 +23,20 @@ $canonical_url = "https://www.unlocktool.us/articles/5-bypass-icloud-iphone.php"
     
     <meta property="og:type" content="article">
     <meta property="og:title" content="<?php echo $page_title; ?>">
-    <meta property="og:description" content="<?php echo $page_description; ?>">
+    <meta property="og:description" content="<?php echo $page_description; ?>
+    <meta property="og:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
     
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "HowTo",
-        "name": "Cách bypass iCloud iPhone b?ng UnlockTool",
-        "description": "Hu?ng d?n s? d?ng Ramdisk d? b? qua màn hình khóa iCloud trên iPhone",
+        "name": "Cï¿½ch bypass iCloud iPhone b?ng UnlockTool",
+        "description": "Hu?ng d?n s? d?ng Ramdisk d? b? qua mï¿½n hï¿½nh khï¿½a iCloud trï¿½n iPhone",
         "step": [
             {"@type": "HowToStep", "name": "Jailbreak iPhone", "text": "S? d?ng checkra1n ho?c WinRa1n d? jailbreak"},
-            {"@type": "HowToStep", "name": "T?i Ramdisk", "text": "T?i file Ramdisk phù h?p v?i model iPhone"},
+            {"@type": "HowToStep", "name": "T?i Ramdisk", "text": "T?i file Ramdisk phï¿½ h?p v?i model iPhone"},
             {"@type": "HowToStep", "name": "Load Ramdisk", "text": "Trong UnlockTool load file Ramdisk"},
-            {"@type": "HowToStep", "name": "Bypass iCloud", "text": "Click iCloud Bypass và ch? hoàn t?t"}
+            {"@type": "HowToStep", "name": "Bypass iCloud", "text": "Click iCloud Bypass vï¿½ ch? hoï¿½n t?t"}
         ]
     }
     </script>
@@ -45,9 +46,9 @@ $canonical_url = "https://www.unlocktool.us/articles/5-bypass-icloud-iphone.php"
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "Bypass iCloud có xóa du?c hoàn toàn không?", "acceptedAnswer": {"@type": "Answer", "text": "Bypass iCloud ch? b? qua màn hình khóa, không xóa du?c iCloud kh?i server Apple. Máy v?n linked v?i iCloud cu."}},
-            {"@type": "Question", "name": "iPhone nào có th? bypass iCloud?", "acceptedAnswer": {"@type": "Answer", "text": "UnlockTool h? tr? bypass iCloud trên iPhone 5SE, 6, 6 Plus, 6s, 6s Plus, 7, 7 Plus, 8, 8 Plus, X và các iPad tuong ?ng."}},
-            {"@type": "Question", "name": "Sau bypass iCloud có dùng SIM du?c không?", "acceptedAnswer": {"@type": "Answer", "text": "Tùy phuong pháp, m?t s? bypass không h? tr? SIM (WiFi only), m?t s? h? tr? SIM v?i tín hi?u ?n d?nh."}}
+            {"@type": "Question", "name": "Bypass iCloud cï¿½ xï¿½a du?c hoï¿½n toï¿½n khï¿½ng?", "acceptedAnswer": {"@type": "Answer", "text": "Bypass iCloud ch? b? qua mï¿½n hï¿½nh khï¿½a, khï¿½ng xï¿½a du?c iCloud kh?i server Apple. Mï¿½y v?n linked v?i iCloud cu."}},
+            {"@type": "Question", "name": "iPhone nï¿½o cï¿½ th? bypass iCloud?", "acceptedAnswer": {"@type": "Answer", "text": "UnlockTool h? tr? bypass iCloud trï¿½n iPhone 5SE, 6, 6 Plus, 6s, 6s Plus, 7, 7 Plus, 8, 8 Plus, X vï¿½ cï¿½c iPad tuong ?ng."}},
+            {"@type": "Question", "name": "Sau bypass iCloud cï¿½ dï¿½ng SIM du?c khï¿½ng?", "acceptedAnswer": {"@type": "Answer", "text": "Tï¿½y phuong phï¿½p, m?t s? bypass khï¿½ng h? tr? SIM (WiFi only), m?t s? h? tr? SIM v?i tï¿½n hi?u ?n d?nh."}}
         ]
     }
     </script>
@@ -128,7 +129,7 @@ $canonical_url = "https://www.unlocktool.us/articles/5-bypass-icloud-iphone.php"
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? khóa di?n tho?i",
+        "name": "D?ch v? m? khï¿½a di?n tho?i",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -145,7 +146,7 @@ $canonical_url = "https://www.unlocktool.us/articles/5-bypass-icloud-iphone.php"
 <header class="article-header">
     <div class="container text-center">
         <h1><i class="fab fa-apple"></i> Bypass iCloud iPhone b?ng UnlockTool 2026</h1>
-        <p>Hu?ng d?n s? d?ng Ramdisk b? qua màn hình khóa iCloud</p>
+        <p>Hu?ng d?n s? d?ng Ramdisk b? qua mï¿½n hï¿½nh khï¿½a iCloud</p>
     </div>
 </header>
 
@@ -153,18 +154,18 @@ $canonical_url = "https://www.unlocktool.us/articles/5-bypass-icloud-iphone.php"
     <article class="article-content">
         
         <div class="danger-box">
-            <h4><i class="fas fa-exclamation-triangle"></i> C?nh báo pháp lý</h4>
-            <p class="mb-0">Bypass iCloud ch? du?c s? d?ng cho m?c dích h?p pháp nhu khôi ph?c thi?t b? c?a chính b?n khi quên m?t kh?u. Vi?c bypass iCloud trên thi?t b? an c?p là <strong>b?t h?p pháp</strong> và vi ph?m pháp lu?t.</p>
+            <h4><i class="fas fa-exclamation-triangle"></i> C?nh bï¿½o phï¿½p lï¿½</h4>
+            <p class="mb-0">Bypass iCloud ch? du?c s? d?ng cho m?c dï¿½ch h?p phï¿½p nhu khï¿½i ph?c thi?t b? c?a chï¿½nh b?n khi quï¿½n m?t kh?u. Vi?c bypass iCloud trï¿½n thi?t b? an c?p lï¿½ <strong>b?t h?p phï¿½p</strong> vï¿½ vi ph?m phï¿½p lu?t.</p>
         </div>
         
         <div class="info-box">
-            <h4><i class="fas fa-info-circle"></i> iCloud Activation Lock là gì?</h4>
-            <p class="mb-0"><strong>iCloud Activation Lock</strong> là tính nang b?o m?t c?a Apple, t? d?ng kích ho?t khi b?t Find My iPhone. Khi thi?t b? b? reset ho?c restore, nó yêu c?u dang nh?p Apple ID g?c d? ti?p t?c s? d?ng.</p>
+            <h4><i class="fas fa-info-circle"></i> iCloud Activation Lock lï¿½ gï¿½?</h4>
+            <p class="mb-0"><strong>iCloud Activation Lock</strong> lï¿½ tï¿½nh nang b?o m?t c?a Apple, t? d?ng kï¿½ch ho?t khi b?t Find My iPhone. Khi thi?t b? b? reset ho?c restore, nï¿½ yï¿½u c?u dang nh?p Apple ID g?c d? ti?p t?c s? d?ng.</p>
         </div>
         
         <h2>1. iPhone/iPad du?c h? tr? Bypass</h2>
         
-        <p>UnlockTool s? d?ng phuong pháp Ramdisk d? bypass iCloud, ch? h? tr? các thi?t b? có l? h?ng checkm8:</p>
+        <p>UnlockTool s? d?ng phuong phï¿½p Ramdisk d? bypass iCloud, ch? h? tr? cï¿½c thi?t b? cï¿½ l? h?ng checkm8:</p>
         
         <h3>iPhone</h3>
         <p>
@@ -193,14 +194,14 @@ $canonical_url = "https://www.unlocktool.us/articles/5-bypass-icloud-iphone.php"
         </p>
         
         <div class="warning-box">
-            <p class="mb-0"><strong>Luu ý:</strong> iPhone XR, XS, 11, 12, 13, 14, 15 và các iPad m?i hon KHÔNG h? tr? bypass b?ng phuong pháp này do không có l? h?ng checkm8.</p>
+            <p class="mb-0"><strong>Luu ï¿½:</strong> iPhone XR, XS, 11, 12, 13, 14, 15 vï¿½ cï¿½c iPad m?i hon KHï¿½NG h? tr? bypass b?ng phuong phï¿½p nï¿½y do khï¿½ng cï¿½ l? h?ng checkm8.</p>
         </div>
         
         <h2>2. Chu?n b?</h2>
         
         <h3>2.1. Ph?n m?m c?n thi?t</h3>
         <ul>
-            <li><strong>UnlockTool:</strong> <a href="https://file.unlocktool.net/page/index.php" target="_blank">T?i t?i dây</a></li>
+            <li><strong>UnlockTool:</strong> <a href="https://file.unlocktool.net/page/index.php" target="_blank">T?i t?i dï¿½y</a></li>
             <li><strong>WinRa1n (Jailbreak):</strong> <a href="https://file.unlocktool.net/page/tool---android---pc/tool-winra1n21-jailbreak-iphone---ipad" target="_blank">T?i WinRa1n</a></li>
             <li><strong>Ramdisk iPhone:</strong> <a href="https://file.unlocktool.net/page/all-ramdisk---iphone" target="_blank">T?i Ramdisk iPhone</a></li>
             <li><strong>Ramdisk iPad:</strong> <a href="http://file.unlocktool.net/page/all-ramdisk---ipad" target="_blank">T?i Ramdisk iPad</a></li>
@@ -210,9 +211,9 @@ $canonical_url = "https://www.unlocktool.us/articles/5-bypass-icloud-iphone.php"
         
         <h3>2.2. Ph?n c?ng</h3>
         <ul>
-            <li>Máy tính Windows (7/8/10/11)</li>
-            <li>Cáp Lightning USB chính hãng Apple (r?t quan tr?ng!)</li>
-            <li>iPhone/iPad dang b? khóa iCloud</li>
+            <li>Mï¿½y tï¿½nh Windows (7/8/10/11)</li>
+            <li>Cï¿½p Lightning USB chï¿½nh hï¿½ng Apple (r?t quan tr?ng!)</li>
+            <li>iPhone/iPad dang b? khï¿½a iCloud</li>
         </ul>
         
         <h2>3. Hu?ng d?n Bypass iCloud</h2>
@@ -221,31 +222,31 @@ $canonical_url = "https://www.unlocktool.us/articles/5-bypass-icloud-iphone.php"
         
         <div class="step-card">
             <span class="step-number">1</span>
-            <strong>Ðua iPhone vào DFU Mode</strong>
+            <strong>ï¿½ua iPhone vï¿½o DFU Mode</strong>
             <p class="mb-0 mt-2">
-                <strong>iPhone 7/7 Plus:</strong> Gi? Volume Down + Power 10 giây ? Th? Power, ti?p t?c gi? Volume Down<br>
-                <strong>iPhone 8/X:</strong> Nh?n Volume Up ? Volume Down ? Gi? Power ? Khi màn hình t?t, gi? Power + Volume Down
+                <strong>iPhone 7/7 Plus:</strong> Gi? Volume Down + Power 10 giï¿½y ? Th? Power, ti?p t?c gi? Volume Down<br>
+                <strong>iPhone 8/X:</strong> Nh?n Volume Up ? Volume Down ? Gi? Power ? Khi mï¿½n hï¿½nh t?t, gi? Power + Volume Down
             </p>
         </div>
         
         <div class="step-card">
             <span class="step-number">2</span>
             <strong>Ch?y WinRa1n</strong>
-            <p class="mb-0 mt-2">M? WinRa1n.exe v?i quy?n Administrator. Click "Jailbreak" và ch? quá trình hoàn t?t.</p>
+            <p class="mb-0 mt-2">M? WinRa1n.exe v?i quy?n Administrator. Click "Jailbreak" vï¿½ ch? quï¿½ trï¿½nh hoï¿½n t?t.</p>
         </div>
         
         <h3>Bu?c 2: Bypass iCloud b?ng UnlockTool</h3>
         
         <div class="step-card">
             <span class="step-number">3</span>
-            <strong>M? UnlockTool và dang nh?p</strong>
-            <p class="mb-0 mt-2">Ch?y UnlockTool.exe ? Ðang nh?p tài kho?n. N?u chua có, <a href="https://www.unlocktool.us/">thuê t?i dây</a>.</p>
+            <strong>M? UnlockTool vï¿½ dang nh?p</strong>
+            <p class="mb-0 mt-2">Ch?y UnlockTool.exe ? ï¿½ang nh?p tï¿½i kho?n. N?u chua cï¿½, <a href="https://www.unlocktool.us/">thuï¿½ t?i dï¿½y</a>.</p>
         </div>
         
         <div class="step-card">
             <span class="step-number">4</span>
             <strong>Ch?n tab iPhone/iPad</strong>
-            <p class="mb-0 mt-2">Click vào tab <strong>"iPhone"</strong> ho?c <strong>"iPad"</strong> tùy thi?t b? c?a b?n.</p>
+            <p class="mb-0 mt-2">Click vï¿½o tab <strong>"iPhone"</strong> ho?c <strong>"iPad"</strong> tï¿½y thi?t b? c?a b?n.</p>
         </div>
         
         <div class="step-card">
@@ -257,56 +258,56 @@ $canonical_url = "https://www.unlocktool.us/articles/5-bypass-icloud-iphone.php"
         <div class="step-card">
             <span class="step-number">6</span>
             <strong>Bypass iCloud</strong>
-            <p class="mb-0 mt-2">Click <strong>"iCloud Bypass"</strong> ho?c <strong>"Hello Bypass"</strong>. Ch? quá trình t? d?ng ch?y (3-10 phút).</p>
+            <p class="mb-0 mt-2">Click <strong>"iCloud Bypass"</strong> ho?c <strong>"Hello Bypass"</strong>. Ch? quï¿½ trï¿½nh t? d?ng ch?y (3-10 phï¿½t).</p>
         </div>
         
         <div class="step-card">
             <span class="step-number">7</span>
-            <strong>Hoàn t?t</strong>
-            <p class="mb-0 mt-2">iPhone s? t? kh?i d?ng l?i và vào màn hình chính. Bypass thành công!</p>
+            <strong>Hoï¿½n t?t</strong>
+            <p class="mb-0 mt-2">iPhone s? t? kh?i d?ng l?i vï¿½ vï¿½o mï¿½n hï¿½nh chï¿½nh. Bypass thï¿½nh cï¿½ng!</p>
         </div>
         
-        <h2>4. Các lo?i Bypass</h2>
+        <h2>4. Cï¿½c lo?i Bypass</h2>
         
         <table>
             <tr>
                 <th>Lo?i Bypass</th>
                 <th>SIM</th>
-                <th>Tính nang</th>
-                <th>Ghi chú</th>
+                <th>Tï¿½nh nang</th>
+                <th>Ghi chï¿½</th>
             </tr>
             <tr>
                 <td>Hello Bypass</td>
-                <td>Không</td>
-                <td>WiFi only, không g?i di?n</td>
-                <td>Ðon gi?n nh?t</td>
+                <td>Khï¿½ng</td>
+                <td>WiFi only, khï¿½ng g?i di?n</td>
+                <td>ï¿½on gi?n nh?t</td>
             </tr>
             <tr>
                 <td>Untethered Bypass</td>
-                <td>Có th?</td>
-                <td>Kh?i d?ng không c?n PC</td>
+                <td>Cï¿½ th?</td>
+                <td>Kh?i d?ng khï¿½ng c?n PC</td>
                 <td>Ph?c t?p hon</td>
             </tr>
             <tr>
                 <td>Signal Bypass</td>
-                <td>Có</td>
-                <td>Ð?y d? tín hi?u, g?i di?n</td>
-                <td>C?n thêm bu?c</td>
+                <td>Cï¿½</td>
+                <td>ï¿½?y d? tï¿½n hi?u, g?i di?n</td>
+                <td>C?n thï¿½m bu?c</td>
             </tr>
         </table>
         
         <h2>5. H?n ch? sau Bypass</h2>
         
         <ul>
-            <li><i class="fas fa-times text-danger"></i> Không th? dang nh?p Apple ID m?i (m?t s? tru?ng h?p)</li>
-            <li><i class="fas fa-times text-danger"></i> Không s? d?ng du?c iMessage, FaceTime (tùy bypass)</li>
-            <li><i class="fas fa-times text-danger"></i> M?t s? app yêu c?u dang nh?p Apple ID có th? không ho?t d?ng</li>
-            <li><i class="fas fa-times text-danger"></i> Không th? update iOS (s? m?t bypass)</li>
-            <li><i class="fas fa-check text-success"></i> V?n s? d?ng du?c WiFi, App Store (tài kho?n khác)</li>
-            <li><i class="fas fa-check text-success"></i> Camera, ch?p ?nh, quay video bình thu?ng</li>
+            <li><i class="fas fa-times text-danger"></i> Khï¿½ng th? dang nh?p Apple ID m?i (m?t s? tru?ng h?p)</li>
+            <li><i class="fas fa-times text-danger"></i> Khï¿½ng s? d?ng du?c iMessage, FaceTime (tï¿½y bypass)</li>
+            <li><i class="fas fa-times text-danger"></i> M?t s? app yï¿½u c?u dang nh?p Apple ID cï¿½ th? khï¿½ng ho?t d?ng</li>
+            <li><i class="fas fa-times text-danger"></i> Khï¿½ng th? update iOS (s? m?t bypass)</li>
+            <li><i class="fas fa-check text-success"></i> V?n s? d?ng du?c WiFi, App Store (tï¿½i kho?n khï¿½c)</li>
+            <li><i class="fas fa-check text-success"></i> Camera, ch?p ?nh, quay video bï¿½nh thu?ng</li>
         </ul>
         
-        <h2>6. Link t?i Ramdisk và Diag</h2>
+        <h2>6. Link t?i Ramdisk vï¿½ Diag</h2>
         
         <div class="success-box">
             <h4><i class="fas fa-download"></i> T?i file h? tr?</h4>
@@ -338,40 +339,40 @@ $canonical_url = "https://www.unlocktool.us/articles/5-bypass-icloud-iphone.php"
             </table>
         </div>
         
-        <h2>7. FAQ - Câu h?i thu?ng g?p</h2>
+        <h2>7. FAQ - Cï¿½u h?i thu?ng g?p</h2>
         
         <div class="faq-item">
-            <div class="faq-question">Bypass iCloud có xóa du?c iCloud kh?i Apple không?</div>
-            <div class="faq-answer">Không. Bypass ch? b? qua màn hình khóa trên thi?t b?, iCloud v?n linked v?i Apple ID g?c trên server Apple. Ch? ch? s? h?u g?c m?i có th? xóa hoàn toàn.</div>
+            <div class="faq-question">Bypass iCloud cï¿½ xï¿½a du?c iCloud kh?i Apple khï¿½ng?</div>
+            <div class="faq-answer">Khï¿½ng. Bypass ch? b? qua mï¿½n hï¿½nh khï¿½a trï¿½n thi?t b?, iCloud v?n linked v?i Apple ID g?c trï¿½n server Apple. Ch? ch? s? h?u g?c m?i cï¿½ th? xï¿½a hoï¿½n toï¿½n.</div>
         </div>
         
         <div class="faq-item">
-            <div class="faq-question">Sau bypass có update iOS du?c không?</div>
-            <div class="faq-answer">Không nên. N?u update ho?c restore iOS, bypass s? m?t và máy quay l?i màn hình khóa iCloud.</div>
+            <div class="faq-question">Sau bypass cï¿½ update iOS du?c khï¿½ng?</div>
+            <div class="faq-answer">Khï¿½ng nï¿½n. N?u update ho?c restore iOS, bypass s? m?t vï¿½ mï¿½y quay l?i mï¿½n hï¿½nh khï¿½a iCloud.</div>
         </div>
         
         <div class="faq-item">
-            <div class="faq-question">T?i sao c?n cáp chính hãng Apple?</div>
-            <div class="faq-answer">Cáp gi? ho?c kém ch?t lu?ng có th? gây m?t k?t n?i trong quá trình jailbreak/bypass, d?n d?n brick thi?t b?.</div>
+            <div class="faq-question">T?i sao c?n cï¿½p chï¿½nh hï¿½ng Apple?</div>
+            <div class="faq-answer">Cï¿½p gi? ho?c kï¿½m ch?t lu?ng cï¿½ th? gï¿½y m?t k?t n?i trong quï¿½ trï¿½nh jailbreak/bypass, d?n d?n brick thi?t b?.</div>
         </div>
         
         <div class="faq-item">
-            <div class="faq-question">iPhone 11/12/13/14 có bypass du?c không?</div>
-            <div class="faq-answer">Không. Các iPhone t? XR tr? lên không có l? h?ng checkm8 nên không th? bypass b?ng phuong pháp Ramdisk.</div>
+            <div class="faq-question">iPhone 11/12/13/14 cï¿½ bypass du?c khï¿½ng?</div>
+            <div class="faq-answer">Khï¿½ng. Cï¿½c iPhone t? XR tr? lï¿½n khï¿½ng cï¿½ l? h?ng checkm8 nï¿½n khï¿½ng th? bypass b?ng phuong phï¿½p Ramdisk.</div>
         </div>
         
         <h2>8. K?t lu?n</h2>
         
-        <p>Bypass iCloud b?ng <strong>UnlockTool</strong> và Ramdisk là gi?i pháp hi?u qu? cho các iPhone/iPad d?i cu (5SE d?n X). Tuy có m?t s? h?n ch? sau bypass, nhung thi?t b? v?n có th? s? d?ng cho h?u h?t các tác v? hàng ngày.</p>
+        <p>Bypass iCloud b?ng <strong>UnlockTool</strong> vï¿½ Ramdisk lï¿½ gi?i phï¿½p hi?u qu? cho cï¿½c iPhone/iPad d?i cu (5SE d?n X). Tuy cï¿½ m?t s? h?n ch? sau bypass, nhung thi?t b? v?n cï¿½ th? s? d?ng cho h?u h?t cï¿½c tï¿½c v? hï¿½ng ngï¿½y.</p>
         
-        <p>N?u c?n h? tr? ho?c mu?n thuê tài kho?n UnlockTool, hãy truy c?p <a href="https://www.unlocktool.us/">UnlockTool.us</a>.</p>
+        <p>N?u c?n h? tr? ho?c mu?n thuï¿½ tï¿½i kho?n UnlockTool, hï¿½y truy c?p <a href="https://www.unlocktool.us/">UnlockTool.us</a>.</p>
         
         <div class="text-center my-4">
             <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="download-btn">
                 <i class="fas fa-download"></i> T?i UnlockTool
             </a>
             <a href="https://www.unlocktool.us/" class="download-btn" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
-                <i class="fas fa-key"></i> Thuê Tài Kho?n
+                <i class="fas fa-key"></i> Thuï¿½ Tï¿½i Kho?n
             </a>
         </div>
         
@@ -385,7 +386,7 @@ $canonical_url = "https://www.unlocktool.us/articles/5-bypass-icloud-iphone.php"
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bài vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bï¿½i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -399,7 +400,7 @@ $canonical_url = "https://www.unlocktool.us/articles/5-bypass-icloud-iphone.php"
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài vi?t liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bï¿½i vi?t liï¿½n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
@@ -434,7 +435,7 @@ $canonical_url = "https://www.unlocktool.us/articles/5-bypass-icloud-iphone.php"
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Ð?i ngu k? thu?t viên chuyên nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khóa di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">ï¿½?i ngu k? thu?t viï¿½n chuyï¿½n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khï¿½a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -442,7 +443,7 @@ $canonical_url = "https://www.unlocktool.us/articles/5-bypass-icloud-iphone.php"
 </div>
 <footer class="bg-dark text-white py-4 mt-5">
     <div class="container text-center">
-        <p class="mb-0">© 2026 UnlockTool.us - D?ch v? cho thuê tài kho?n UnlockTool</p>
+        <p class="mb-0">ï¿½ 2026 UnlockTool.us - D?ch v? cho thuï¿½ tï¿½i kho?n UnlockTool</p>
     </div>
 </footer>
 

@@ -1,7 +1,7 @@
-<?php
-$page_title = "Unlock Network iPhone 2026 - M? Khóa Nhà M?ng AT&T, T-Mobile, Sprint";
-$page_description = "Hu?ng d?n unlock network iPhone - M? khóa nhà m?ng AT&T, T-Mobile, Sprint, Verizon. D?ch v? unlock network iPhone giá r? t? 150.000d t?i Thuetaikhoan.net";
-$page_keywords = "unlock network iphone, m? khóa nhà m?ng iphone, unlock at&t, unlock t-mobile, unlock sprint, iphone lock";
+ï»¿<?php
+$page_title = "Unlock Network iPhone 2026 - M? Khï¿½a Nhï¿½ M?ng AT&T, T-Mobile, Sprint";
+$page_description = "Hu?ng d?n unlock network iPhone - M? khï¿½a nhï¿½ m?ng AT&T, T-Mobile, Sprint, Verizon. D?ch v? unlock network iPhone giï¿½ r? t? 150.000d t?i Thuetaikhoan.net";
+$page_keywords = "unlock network iphone, m? khï¿½a nhï¿½ m?ng iphone, unlock at&t, unlock t-mobile, unlock sprint, iphone lock";
 $canonical_url = "https://www.unlocktool.us/articles/47-unlock-network-iphone.php";
 ?>
 <!DOCTYPE html>
@@ -21,19 +21,20 @@ $canonical_url = "https://www.unlocktool.us/articles/47-unlock-network-iphone.ph
     <link rel="canonical" href="<?php echo $canonical_url; ?>">\n    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">">
     <meta property="og:title" content="<?php echo $page_title; ?>">
-    <meta property="og:description" content="<?php echo $page_description; ?>">
+    <meta property="og:description" content="<?php echo $page_description; ?>
+    <meta property="og:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
     
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Article","headline":"<?php echo $page_title; ?>","author":{"@type":"Organization","name":"UnlockTool.us"},"datePublished":"2026-01-25"}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"Service","name":"Unlock Network iPhone","provider":{"@type":"Organization","name":"Thuetaikhoan.net"},"description":"D?ch v? m? khóa nhà m?ng iPhone","offers":{"@type":"Offer","price":"150000","priceCurrency":"VND"}}
+    {"@context":"https://schema.org","@type":"Service","name":"Unlock Network iPhone","provider":{"@type":"Organization","name":"Thuetaikhoan.net"},"description":"D?ch v? m? khï¿½a nhï¿½ m?ng iPhone","offers":{"@type":"Offer","price":"150000","priceCurrency":"VND"}}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"iPhone lock là gì?","acceptedAnswer":{"@type":"Answer","text":"iPhone lock là iPhone b? khóa m?ng, ch? dùng du?c SIM c?a nhà m?ng dã bán máy (nhu AT&T, T-Mobile). C?n unlock d? dùng SIM Vi?t Nam."}},
-        {"@type":"Question","name":"Unlock network iPhone giá bao nhiêu?","acceptedAnswer":{"@type":"Answer","text":"Giá unlock network iPhone t? 150.000d d?n 2.000.000d tùy nhà m?ng và d?i máy. Liên h? Thuetaikhoan.net d? du?c báo giá chính xác."}},
-        {"@type":"Question","name":"Unlock network có vinh vi?n không?","acceptedAnswer":{"@type":"Answer","text":"Có, unlock network chính th?ng (qua IMEI) là vinh vi?n. Máy s? du?c Apple ghi nh?n là Unlocked trên server."}}
+        {"@type":"Question","name":"iPhone lock lï¿½ gï¿½?","acceptedAnswer":{"@type":"Answer","text":"iPhone lock lï¿½ iPhone b? khï¿½a m?ng, ch? dï¿½ng du?c SIM c?a nhï¿½ m?ng dï¿½ bï¿½n mï¿½y (nhu AT&T, T-Mobile). C?n unlock d? dï¿½ng SIM Vi?t Nam."}},
+        {"@type":"Question","name":"Unlock network iPhone giï¿½ bao nhiï¿½u?","acceptedAnswer":{"@type":"Answer","text":"Giï¿½ unlock network iPhone t? 150.000d d?n 2.000.000d tï¿½y nhï¿½ m?ng vï¿½ d?i mï¿½y. Liï¿½n h? Thuetaikhoan.net d? du?c bï¿½o giï¿½ chï¿½nh xï¿½c."}},
+        {"@type":"Question","name":"Unlock network cï¿½ vinh vi?n khï¿½ng?","acceptedAnswer":{"@type":"Answer","text":"Cï¿½, unlock network chï¿½nh th?ng (qua IMEI) lï¿½ vinh vi?n. Mï¿½y s? du?c Apple ghi nh?n lï¿½ Unlocked trï¿½n server."}}
     ]}
     </script>
     
@@ -114,7 +115,7 @@ $canonical_url = "https://www.unlocktool.us/articles/47-unlock-network-iphone.ph
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? khóa di?n tho?i",
+        "name": "D?ch v? m? khï¿½a di?n tho?i",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -132,7 +133,7 @@ $canonical_url = "https://www.unlocktool.us/articles/47-unlock-network-iphone.ph
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
             <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bï¿½i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -140,10 +141,10 @@ $canonical_url = "https://www.unlocktool.us/articles/47-unlock-network-iphone.ph
 <section class="hero-section">
     <div class="container">
         <h1><i class="fas fa-sim-card me-3"></i><?php echo $page_title; ?></h1>
-        <p class="lead">M? khóa nhà m?ng iPhone - Dùng SIM Vi?t Nam tho?i mái!</p>
+        <p class="lead">M? khï¿½a nhï¿½ m?ng iPhone - Dï¿½ng SIM Vi?t Nam tho?i mï¿½i!</p>
         <div class="mt-4">
             <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-apple btn-lg">
-                <i class="fas fa-unlock me-2"></i>Ð?t D?ch V? Unlock Network
+                <i class="fas fa-unlock me-2"></i>ï¿½?t D?ch V? Unlock Network
             </a>
         </div>
     </div>
@@ -156,51 +157,51 @@ $canonical_url = "https://www.unlocktool.us/articles/47-unlock-network-iphone.ph
             <div class="toc">
                 <h5><i class="fas fa-list me-2"></i>M?c l?c</h5>
                 <ul>
-                    <li><a href="#iphone-lock">1. iPhone Lock là gì?</a></li>
-                    <li><a href="#cac-nha-mang">2. Các nhà m?ng ph? bi?n</a></li>
-                    <li><a href="#phuong-phap">3. Các phuong pháp unlock network</a></li>
+                    <li><a href="#iphone-lock">1. iPhone Lock lï¿½ gï¿½?</a></li>
+                    <li><a href="#cac-nha-mang">2. Cï¿½c nhï¿½ m?ng ph? bi?n</a></li>
+                    <li><a href="#phuong-phap">3. Cï¿½c phuong phï¿½p unlock network</a></li>
                     <li><a href="#factory-vs-rsim">4. Factory Unlock vs R-SIM</a></li>
-                    <li><a href="#bang-gia">5. B?ng giá unlock network</a></li>
-                    <li><a href="#check-imei">6. Cách check nhà m?ng iPhone</a></li>
-                    <li><a href="#dat-dich-vu">7. Ð?t d?ch v? unlock network</a></li>
+                    <li><a href="#bang-gia">5. B?ng giï¿½ unlock network</a></li>
+                    <li><a href="#check-imei">6. Cï¿½ch check nhï¿½ m?ng iPhone</a></li>
+                    <li><a href="#dat-dich-vu">7. ï¿½?t d?ch v? unlock network</a></li>
                     <li><a href="#faq">8. FAQ</a></li>
                 </ul>
             </div>
 
             <section id="iphone-lock" class="mt-5">
-                <h2><i class="fab fa-apple text-dark me-2"></i>1. iPhone Lock Là Gì?</h2>
+                <h2><i class="fab fa-apple text-dark me-2"></i>1. iPhone Lock Lï¿½ Gï¿½?</h2>
                 
-                <p><strong>iPhone Lock</strong> (còn g?i là iPhone khóa m?ng, carrier locked) là iPhone b? ràng bu?c v?i m?t nhà m?ng c? th?. Máy ch? có th? s? d?ng SIM c?a nhà m?ng dó, không th? dùng SIM c?a nhà m?ng khác ho?c SIM Vi?t Nam.</p>
+                <p><strong>iPhone Lock</strong> (cï¿½n g?i lï¿½ iPhone khï¿½a m?ng, carrier locked) lï¿½ iPhone b? rï¿½ng bu?c v?i m?t nhï¿½ m?ng c? th?. Mï¿½y ch? cï¿½ th? s? d?ng SIM c?a nhï¿½ m?ng dï¿½, khï¿½ng th? dï¿½ng SIM c?a nhï¿½ m?ng khï¿½c ho?c SIM Vi?t Nam.</p>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-question-circle me-2"></i>T?i sao có iPhone Lock?</h5>
-                    <p class="mb-0">T?i M? và m?t s? nu?c, các nhà m?ng (AT&T, T-Mobile, Verizon...) bán iPhone v?i giá r? hon kèm h?p d?ng s? d?ng d?ch v?. Ð? d?m b?o khách hàng không mua máy giá r? r?i dùng SIM m?ng khác, h? khóa máy vào m?ng c?a mình.</p>
+                    <h5><i class="fas fa-question-circle me-2"></i>T?i sao cï¿½ iPhone Lock?</h5>
+                    <p class="mb-0">T?i M? vï¿½ m?t s? nu?c, cï¿½c nhï¿½ m?ng (AT&T, T-Mobile, Verizon...) bï¿½n iPhone v?i giï¿½ r? hon kï¿½m h?p d?ng s? d?ng d?ch v?. ï¿½? d?m b?o khï¿½ch hï¿½ng khï¿½ng mua mï¿½y giï¿½ r? r?i dï¿½ng SIM m?ng khï¿½c, h? khï¿½a mï¿½y vï¿½o m?ng c?a mï¿½nh.</p>
                 </div>
 
                 <h3>1.1. D?u hi?u nh?n bi?t iPhone Lock</h3>
                 <ul>
-                    <li>Không nh?n SIM Vi?t Nam (Viettel, Vinaphone, Mobifone)</li>
-                    <li>Báo "SIM Not Valid" ho?c "SIM Not Supported"</li>
-                    <li>Yêu c?u "Activation Lock" khi g?n SIM l?</li>
-                    <li>Check IMEI hi?n "Carrier: AT&T/T-Mobile/..." thay vì "Unlocked"</li>
+                    <li>Khï¿½ng nh?n SIM Vi?t Nam (Viettel, Vinaphone, Mobifone)</li>
+                    <li>Bï¿½o "SIM Not Valid" ho?c "SIM Not Supported"</li>
+                    <li>Yï¿½u c?u "Activation Lock" khi g?n SIM l?</li>
+                    <li>Check IMEI hi?n "Carrier: AT&T/T-Mobile/..." thay vï¿½ "Unlocked"</li>
                 </ul>
 
                 <h3>1.2. iPhone Lock vs iPhone Qu?c t?</h3>
                 <table class="table table-bordered">
                     <thead class="table-dark">
-                        <tr><th>Tiêu chí</th><th>iPhone Lock</th><th>iPhone Qu?c t?</th></tr>
+                        <tr><th>Tiï¿½u chï¿½</th><th>iPhone Lock</th><th>iPhone Qu?c t?</th></tr>
                     </thead>
                     <tbody>
-                        <tr><td>Giá</td><td>R? hon 20-40%</td><td>Ð?t hon</td></tr>
-                        <tr><td>SIM</td><td>Ch? dùng 1 m?ng</td><td>Dùng m?i SIM</td></tr>
+                        <tr><td>Giï¿½</td><td>R? hon 20-40%</td><td>ï¿½?t hon</td></tr>
+                        <tr><td>SIM</td><td>Ch? dï¿½ng 1 m?ng</td><td>Dï¿½ng m?i SIM</td></tr>
                         <tr><td>Ngu?n g?c</td><td>Thu?ng t? M?, Nh?t</td><td>M?i noi</td></tr>
-                        <tr><td>Update iOS</td><td>Có th? m?t unlock</td><td>An toàn</td></tr>
+                        <tr><td>Update iOS</td><td>Cï¿½ th? m?t unlock</td><td>An toï¿½n</td></tr>
                     </tbody>
                 </table>
             </section>
 
             <section id="cac-nha-mang" class="mt-5">
-                <h2><i class="fas fa-broadcast-tower text-dark me-2"></i>2. Các Nhà M?ng iPhone Lock Ph? Bi?n</h2>
+                <h2><i class="fas fa-broadcast-tower text-dark me-2"></i>2. Cï¿½c Nhï¿½ M?ng iPhone Lock Ph? Bi?n</h2>
 
                 <div class="row">
                     <div class="col-6 col-md-3 mb-3">
@@ -255,36 +256,36 @@ $canonical_url = "https://www.unlocktool.us/articles/47-unlock-network-iphone.ph
                     <div class="col-6 col-md-3 mb-3">
                         <div class="carrier-card">
                             <i class="fas fa-signal fa-3x text-purple mb-3"></i>
-                            <div class="carrier-name">Khác</div>
-                            <p class="small text-muted">Châu Âu, Hàn...</p>
+                            <div class="carrier-name">Khï¿½c</div>
+                            <p class="small text-muted">Chï¿½u ï¿½u, Hï¿½n...</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu ý</h5>
-                    <p class="mb-0">Giá và th?i gian unlock khác nhau tùy nhà m?ng. M?t s? nhà m?ng nhu <strong>Sprint, Softbank</strong> khó unlock hon và giá cao hon.</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu ï¿½</h5>
+                    <p class="mb-0">Giï¿½ vï¿½ th?i gian unlock khï¿½c nhau tï¿½y nhï¿½ m?ng. M?t s? nhï¿½ m?ng nhu <strong>Sprint, Softbank</strong> khï¿½ unlock hon vï¿½ giï¿½ cao hon.</p>
                 </div>
             </section>
 
             <section id="phuong-phap" class="mt-5">
-                <h2><i class="fas fa-unlock-alt text-dark me-2"></i>3. Các Phuong Pháp Unlock Network</h2>
+                <h2><i class="fas fa-unlock-alt text-dark me-2"></i>3. Cï¿½c Phuong Phï¿½p Unlock Network</h2>
 
                 <div class="row">
                     <div class="col-md-6 mb-4">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-check-circle text-success me-2"></i>Factory Unlock (IMEI Unlock)</h5>
-                            <p><strong>Mô t?:</strong> M? khóa chính th?ng qua server Apple. IMEI du?c c?p nh?t t? Lock ? Unlocked.</p>
+                            <p><strong>Mï¿½ t?:</strong> M? khï¿½a chï¿½nh th?ng qua server Apple. IMEI du?c c?p nh?t t? Lock ? Unlocked.</p>
                             <p><strong>Uu di?m:</strong></p>
                             <ul>
-                                <li>Vinh vi?n - không m?t khi update iOS</li>
-                                <li>Không c?n ph?n c?ng/ph?n m?m thêm</li>
-                                <li>An toàn, chính th?ng</li>
+                                <li>Vinh vi?n - khï¿½ng m?t khi update iOS</li>
+                                <li>Khï¿½ng c?n ph?n c?ng/ph?n m?m thï¿½m</li>
+                                <li>An toï¿½n, chï¿½nh th?ng</li>
                             </ul>
                             <p><strong>Nhu?c di?m:</strong></p>
                             <ul>
-                                <li>Giá cao hon</li>
-                                <li>Th?i gian ch? 1-15 ngày</li>
+                                <li>Giï¿½ cao hon</li>
+                                <li>Th?i gian ch? 1-15 ngï¿½y</li>
                             </ul>
                             <span class="badge bg-success">Khuy?n ngh?</span>
                         </div>
@@ -292,17 +293,17 @@ $canonical_url = "https://www.unlocktool.us/articles/47-unlock-network-iphone.ph
                     <div class="col-md-6 mb-4">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-sim-card text-warning me-2"></i>R-SIM / Turbo SIM</h5>
-                            <p><strong>Mô t?:</strong> Dùng chip nh? g?n kèm SIM d? "dánh l?a" iPhone nh?n SIM khác m?ng.</p>
+                            <p><strong>Mï¿½ t?:</strong> Dï¿½ng chip nh? g?n kï¿½m SIM d? "dï¿½nh l?a" iPhone nh?n SIM khï¿½c m?ng.</p>
                             <p><strong>Uu di?m:</strong></p>
                             <ul>
-                                <li>Giá r? (100-300K)</li>
+                                <li>Giï¿½ r? (100-300K)</li>
                                 <li>Nhanh, ngay l?p t?c</li>
                             </ul>
                             <p><strong>Nhu?c di?m:</strong></p>
                             <ul>
                                 <li>M?t khi update iOS ho?c reset</li>
-                                <li>Có th? không ?n d?nh</li>
-                                <li>C?n cài d?t l?i m?i l?n d?i SIM</li>
+                                <li>Cï¿½ th? khï¿½ng ?n d?nh</li>
+                                <li>C?n cï¿½i d?t l?i m?i l?n d?i SIM</li>
                             </ul>
                             <span class="badge bg-warning text-dark">T?m th?i</span>
                         </div>
@@ -315,30 +316,30 @@ $canonical_url = "https://www.unlocktool.us/articles/47-unlock-network-iphone.ph
 
                 <table class="table table-custom comparison-table">
                     <thead>
-                        <tr><th>Tiêu chí</th><th>Factory Unlock</th><th>R-SIM</th></tr>
+                        <tr><th>Tiï¿½u chï¿½</th><th>Factory Unlock</th><th>R-SIM</th></tr>
                     </thead>
                     <tbody>
-                        <tr><td>Vinh vi?n</td><td class="factory">Có</td><td class="rsim">Không</td></tr>
-                        <tr><td>Update iOS</td><td class="factory">An toàn</td><td class="rsim">Có th? m?t</td></tr>
-                        <tr><td>Giá</td><td>500K - 2 tri?u</td><td>100K - 300K</td></tr>
-                        <tr><td>Th?i gian</td><td>1-15 ngày</td><td>Ngay l?p t?c</td></tr>
-                        <tr><td>?n d?nh</td><td class="factory">R?t ?n d?nh</td><td class="rsim">Có th? l?i</td></tr>
-                        <tr><td>Giá tr? bán l?i</td><td class="factory">Cao</td><td class="rsim">Th?p</td></tr>
+                        <tr><td>Vinh vi?n</td><td class="factory">Cï¿½</td><td class="rsim">Khï¿½ng</td></tr>
+                        <tr><td>Update iOS</td><td class="factory">An toï¿½n</td><td class="rsim">Cï¿½ th? m?t</td></tr>
+                        <tr><td>Giï¿½</td><td>500K - 2 tri?u</td><td>100K - 300K</td></tr>
+                        <tr><td>Th?i gian</td><td>1-15 ngï¿½y</td><td>Ngay l?p t?c</td></tr>
+                        <tr><td>?n d?nh</td><td class="factory">R?t ?n d?nh</td><td class="rsim">Cï¿½ th? l?i</td></tr>
+                        <tr><td>Giï¿½ tr? bï¿½n l?i</td><td class="factory">Cao</td><td class="rsim">Th?p</td></tr>
                     </tbody>
                 </table>
 
                 <div class="success-box">
                     <h5><i class="fas fa-thumbs-up me-2"></i>Khuy?n ngh?</h5>
-                    <p class="mb-0">N?u có ngân sách, nên ch?n <strong>Factory Unlock</strong> d? có tr?i nghi?m t?t nh?t và giá tr? bán l?i cao. R-SIM ch? nên dùng t?m th?i ho?c khi ngân sách h?n ch?.</p>
+                    <p class="mb-0">N?u cï¿½ ngï¿½n sï¿½ch, nï¿½n ch?n <strong>Factory Unlock</strong> d? cï¿½ tr?i nghi?m t?t nh?t vï¿½ giï¿½ tr? bï¿½n l?i cao. R-SIM ch? nï¿½n dï¿½ng t?m th?i ho?c khi ngï¿½n sï¿½ch h?n ch?.</p>
                 </div>
             </section>
 
             <section id="bang-gia" class="mt-5">
-                <h2><i class="fas fa-tags text-dark me-2"></i>5. B?ng Giá Unlock Network iPhone</h2>
+                <h2><i class="fas fa-tags text-dark me-2"></i>5. B?ng Giï¿½ Unlock Network iPhone</h2>
 
                 <table class="table table-custom">
                     <thead>
-                        <tr><th>Nhà m?ng</th><th>iPhone 6-8</th><th>iPhone X-11</th><th>iPhone 12-15</th></tr>
+                        <tr><th>Nhï¿½ m?ng</th><th>iPhone 6-8</th><th>iPhone X-11</th><th>iPhone 12-15</th></tr>
                     </thead>
                     <tbody>
                         <tr><td><strong>AT&T (Clean)</strong></td><td>300.000d</td><td>500.000d</td><td>800.000d</td></tr>
@@ -350,103 +351,103 @@ $canonical_url = "https://www.unlocktool.us/articles/47-unlock-network-iphone.ph
                         <tr><td><strong>Docomo</strong></td><td>400.000d</td><td>700.000d</td><td>1.200.000d</td></tr>
                     </tbody>
                 </table>
-                <p class="text-muted"><em>* Giá tham kh?o, có th? thay d?i. "Clean" = không n? cu?c, không blacklist. Máy có v?n d? giá cao hon.</em></p>
+                <p class="text-muted"><em>* Giï¿½ tham kh?o, cï¿½ th? thay d?i. "Clean" = khï¿½ng n? cu?c, khï¿½ng blacklist. Mï¿½y cï¿½ v?n d? giï¿½ cao hon.</em></p>
             </section>
 
             <section id="check-imei" class="mt-5">
-                <h2><i class="fas fa-search text-dark me-2"></i>6. Cách Check Nhà M?ng iPhone</h2>
+                <h2><i class="fas fa-search text-dark me-2"></i>6. Cï¿½ch Check Nhï¿½ M?ng iPhone</h2>
 
                 <h3>6.1. Check b?ng IMEI</h3>
                 <ol>
                     <li>L?y IMEI: Quay *#06# ho?c Settings ? General ? About</li>
-                    <li>Liên h? <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a> d? check chi ti?t</li>
-                    <li>Nh?n k?t qu?: Nhà m?ng, tình tr?ng Lock/Unlock, Clean/Blacklist...</li>
+                    <li>Liï¿½n h? <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a> d? check chi ti?t</li>
+                    <li>Nh?n k?t qu?: Nhï¿½ m?ng, tï¿½nh tr?ng Lock/Unlock, Clean/Blacklist...</li>
                 </ol>
 
-                <h3>6.2. Thông tin c?n bi?t tru?c khi unlock</h3>
+                <h3>6.2. Thï¿½ng tin c?n bi?t tru?c khi unlock</h3>
                 <ul>
-                    <li><strong>Nhà m?ng g?c:</strong> AT&T, T-Mobile, Sprint...</li>
-                    <li><strong>Clean hay Financed:</strong> Máy có n? cu?c, tr? góp không</li>
-                    <li><strong>Blacklist:</strong> Máy có b? báo m?t không</li>
+                    <li><strong>Nhï¿½ m?ng g?c:</strong> AT&T, T-Mobile, Sprint...</li>
+                    <li><strong>Clean hay Financed:</strong> Mï¿½y cï¿½ n? cu?c, tr? gï¿½p khï¿½ng</li>
+                    <li><strong>Blacklist:</strong> Mï¿½y cï¿½ b? bï¿½o m?t khï¿½ng</li>
                     <li><strong>iCloud status:</strong> Find My iPhone ON hay OFF</li>
                 </ul>
 
                 <div class="info-box">
                     <h5><i class="fas fa-info-circle me-2"></i>D?ch v? Check IMEI</h5>
-                    <p class="mb-0">Check IMEI chi ti?t t?i <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a> t? 10.000d - 50.000d. Bi?t chính xác nhà m?ng và tình tr?ng máy tru?c khi unlock.</p>
+                    <p class="mb-0">Check IMEI chi ti?t t?i <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a> t? 10.000d - 50.000d. Bi?t chï¿½nh xï¿½c nhï¿½ m?ng vï¿½ tï¿½nh tr?ng mï¿½y tru?c khi unlock.</p>
                 </div>
             </section>
 
             <section id="dat-dich-vu" class="mt-5">
-                <h2><i class="fas fa-shopping-cart text-dark me-2"></i>7. Ð?t D?ch V? Unlock Network</h2>
+                <h2><i class="fas fa-shopping-cart text-dark me-2"></i>7. ï¿½?t D?ch V? Unlock Network</h2>
 
                 <div class="service-cta">
                     <h4><i class="fas fa-unlock me-2"></i>D?ch V? Unlock Network iPhone</h4>
-                    <p>Factory Unlock chính th?ng - Vinh vi?n - An toàn</p>
+                    <p>Factory Unlock chï¿½nh th?ng - Vinh vi?n - An toï¿½n</p>
                     <p class="h3 fw-bold">T? 300.000d</p>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light btn-lg">
-                        <i class="fas fa-shopping-cart me-2"></i>Ð?t D?ch V? T?i Thuetaikhoan.net
+                        <i class="fas fa-shopping-cart me-2"></i>ï¿½?t D?ch V? T?i Thuetaikhoan.net
                     </a>
-                    <p class="mt-3 mb-0"><small>Không thành công - Hoàn ti?n 100%</small></p>
+                    <p class="mt-3 mb-0"><small>Khï¿½ng thï¿½nh cï¿½ng - Hoï¿½n ti?n 100%</small></p>
                 </div>
 
-                <h3 class="mt-4">7.1. Quy trình unlock</h3>
+                <h3 class="mt-4">7.1. Quy trï¿½nh unlock</h3>
                 <ol>
-                    <li>Liên h? Thuetaikhoan.net, cung c?p IMEI</li>
-                    <li>Check và nh?n báo giá</li>
-                    <li>Thanh toán (có th? tr? tru?c 50%)</li>
-                    <li>Ch? x? lý (1-15 ngày tùy nhà m?ng)</li>
-                    <li>Nh?n thông báo unlock thành công</li>
-                    <li>G?n SIM VN, k?t n?i WiFi d? kích ho?t</li>
+                    <li>Liï¿½n h? Thuetaikhoan.net, cung c?p IMEI</li>
+                    <li>Check vï¿½ nh?n bï¿½o giï¿½</li>
+                    <li>Thanh toï¿½n (cï¿½ th? tr? tru?c 50%)</li>
+                    <li>Ch? x? lï¿½ (1-15 ngï¿½y tï¿½y nhï¿½ m?ng)</li>
+                    <li>Nh?n thï¿½ng bï¿½o unlock thï¿½nh cï¿½ng</li>
+                    <li>G?n SIM VN, k?t n?i WiFi d? kï¿½ch ho?t</li>
                 </ol>
             </section>
 
             <section id="faq" class="mt-5">
-                <h2><i class="fas fa-question-circle text-dark me-2"></i>8. Câu H?i Thu?ng G?p</h2>
+                <h2><i class="fas fa-question-circle text-dark me-2"></i>8. Cï¿½u H?i Thu?ng G?p</h2>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Unlock network có m?t iCloud không?</span>
+                        <span>Unlock network cï¿½ m?t iCloud khï¿½ng?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Không, unlock network và iCloud là 2 vi?c khác nhau. Unlock network ch? m? khóa nhà m?ng, không ?nh hu?ng d?n iCloud.</p>
+                        <p>Khï¿½ng, unlock network vï¿½ iCloud lï¿½ 2 vi?c khï¿½c nhau. Unlock network ch? m? khï¿½a nhï¿½ m?ng, khï¿½ng ?nh hu?ng d?n iCloud.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Factory unlock có vinh vi?n không?</span>
+                        <span>Factory unlock cï¿½ vinh vi?n khï¿½ng?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Có, Factory Unlock (IMEI Unlock) là vinh vi?n. Apple s? c?p nh?t tr?ng thái máy t? Lock ? Unlocked trên server. Update iOS, reset d?u không m?t.</p>
+                        <p>Cï¿½, Factory Unlock (IMEI Unlock) lï¿½ vinh vi?n. Apple s? c?p nh?t tr?ng thï¿½i mï¿½y t? Lock ? Unlocked trï¿½n server. Update iOS, reset d?u khï¿½ng m?t.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>iPhone blacklist có unlock du?c không?</span>
+                        <span>iPhone blacklist cï¿½ unlock du?c khï¿½ng?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Có th? unlock du?c nhung giá cao hon và máy v?n blacklist t?i M?. Khi v? Vi?t Nam dùng SIM VN thì không ?nh hu?ng.</p>
+                        <p>Cï¿½ th? unlock du?c nhung giï¿½ cao hon vï¿½ mï¿½y v?n blacklist t?i M?. Khi v? Vi?t Nam dï¿½ng SIM VN thï¿½ khï¿½ng ?nh hu?ng.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Giá unlock network bao nhiêu?</span>
+                        <span>Giï¿½ unlock network bao nhiï¿½u?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Giá t? 300.000d d?n 2.000.000d tùy nhà m?ng và d?i máy. Liên h? <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a> d? check IMEI và nh?n báo giá chính xác.</p>
+                        <p>Giï¿½ t? 300.000d d?n 2.000.000d tï¿½y nhï¿½ m?ng vï¿½ d?i mï¿½y. Liï¿½n h? <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a> d? check IMEI vï¿½ nh?n bï¿½o giï¿½ chï¿½nh xï¿½c.</p>
                     </div>
                 </div>
             </section>
 
             <section class="mt-5">
                 <h2><i class="fas fa-flag-checkered text-dark me-2"></i>K?t Lu?n</h2>
-                <p>Unlock Network iPhone giúp b?n dùng SIM Vi?t Nam trên iPhone Lock v?i giá r? hon. Khuy?n ngh? ch?n <strong>Factory Unlock</strong> d? có tr?i nghi?m t?t nh?t và giá tr? bán l?i cao.</p>
+                <p>Unlock Network iPhone giï¿½p b?n dï¿½ng SIM Vi?t Nam trï¿½n iPhone Lock v?i giï¿½ r? hon. Khuy?n ngh? ch?n <strong>Factory Unlock</strong> d? cï¿½ tr?i nghi?m t?t nh?t vï¿½ giï¿½ tr? bï¿½n l?i cao.</p>
                 
                 <div class="text-center mt-4">
-                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-apple btn-lg">Ð?t D?ch V? Unlock Network - Thuetaikhoan.net</a>
+                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-apple btn-lg">ï¿½?t D?ch V? Unlock Network - Thuetaikhoan.net</a>
                 </div>
             </section>
         </div>
@@ -458,22 +459,22 @@ $canonical_url = "https://www.unlocktool.us/articles/47-unlock-network-iphone.ph
                     <h5>Unlock Network iPhone</h5>
                     <p class="price">T? 300K</p>
                     <p>Factory Unlock - Vinh vi?n</p>
-                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light w-100">Ð?t D?ch V?</a>
+                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light w-100">ï¿½?t D?ch V?</a>
                 </div>
                 <div class="card mb-4">
                     <div class="card-header bg-dark text-white">Check IMEI</div>
                     <div class="card-body">
-                        <p>Ki?m tra nhà m?ng tru?c khi unlock</p>
+                        <p>Ki?m tra nhï¿½ m?ng tru?c khi unlock</p>
                         <p class="fw-bold">T? 10.000d</p>
                         <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-dark w-100">Check Ngay</a>
                     </div>
                 </div>
                 <div class="card">
-                    <div class="card-header">D?ch V? Khác</div>
+                    <div class="card-header">D?ch V? Khï¿½c</div>
                     <div class="card-body">
                         <ul class="list-unstyled mb-0">
                             <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Bypass/Off iCloud</li>
-                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Thuê tool 8K/6H</li>
+                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Thuï¿½ tool 8K/6H</li>
                         </ul>
                         <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-outline-primary w-100 mt-2">UnlockTool.us</a>
                     </div>
@@ -490,7 +491,7 @@ $canonical_url = "https://www.unlocktool.us/articles/47-unlock-network-iphone.ph
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bài vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bï¿½i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -504,7 +505,7 @@ $canonical_url = "https://www.unlocktool.us/articles/47-unlock-network-iphone.ph
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài vi?t liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bï¿½i vi?t liï¿½n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
@@ -539,7 +540,7 @@ $canonical_url = "https://www.unlocktool.us/articles/47-unlock-network-iphone.ph
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Ð?i ngu k? thu?t viên chuyên nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khóa di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">ï¿½?i ngu k? thu?t viï¿½n chuyï¿½n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khï¿½a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         

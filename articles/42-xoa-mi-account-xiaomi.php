@@ -1,7 +1,7 @@
-<?php
-$page_title = "Xóa Mi Account Xiaomi 2026 - Hu?ng D?n Chi Ti?t Không C?n M?t Kh?u";
-$page_description = "Hu?ng d?n xóa Mi Account Xiaomi, Redmi, POCO không c?n m?t kh?u. D?ch v? xóa Mi Account giá r? t? 100.000d, thuê tool ch? 8.000d/6h t?i UnlockTool.us";
-$page_keywords = "xóa mi account, mi account xiaomi, bypass mi account, mi account redmi, mi account poco, xóa tài kho?n xiaomi";
+ï»¿<?php
+$page_title = "Xï¿½a Mi Account Xiaomi 2026 - Hu?ng D?n Chi Ti?t Khï¿½ng C?n M?t Kh?u";
+$page_description = "Hu?ng d?n xï¿½a Mi Account Xiaomi, Redmi, POCO khï¿½ng c?n m?t kh?u. D?ch v? xï¿½a Mi Account giï¿½ r? t? 100.000d, thuï¿½ tool ch? 8.000d/6h t?i UnlockTool.us";
+$page_keywords = "xï¿½a mi account, mi account xiaomi, bypass mi account, mi account redmi, mi account poco, xï¿½a tï¿½i kho?n xiaomi";
 $canonical_url = "https://www.unlocktool.us/articles/42-xoa-mi-account-xiaomi.php";
 ?>
 <!DOCTYPE html>
@@ -21,20 +21,21 @@ $canonical_url = "https://www.unlocktool.us/articles/42-xoa-mi-account-xiaomi.ph
     <link rel="canonical" href="<?php echo $canonical_url; ?>">\n    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">">
     <meta property="og:title" content="<?php echo $page_title; ?>">
-    <meta property="og:description" content="<?php echo $page_description; ?>">
+    <meta property="og:description" content="<?php echo $page_description; ?>
+    <meta property="og:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
     
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"HowTo","name":"Cách xóa Mi Account Xiaomi","description":"Hu?ng d?n các phuong pháp xóa Mi Account cho Xiaomi, Redmi, POCO","step":[
+    {"@context":"https://schema.org","@type":"HowTo","name":"Cï¿½ch xï¿½a Mi Account Xiaomi","description":"Hu?ng d?n cï¿½c phuong phï¿½p xï¿½a Mi Account cho Xiaomi, Redmi, POCO","step":[
         {"@type":"HowToStep","name":"Chu?n b?","text":"T?i tool UnlockTool ho?c Griffin-Unlocker"},
-        {"@type":"HowToStep","name":"Ðua máy vào EDL","text":"T?t máy, nh?n gi? Vol+ và Vol- cùng lúc, c?m USB"},
-        {"@type":"HowToStep","name":"Ch?y tool xóa Mi Account","text":"Ch?n model, click Remove Mi Account và ch? hoàn t?t"}
+        {"@type":"HowToStep","name":"ï¿½ua mï¿½y vï¿½o EDL","text":"T?t mï¿½y, nh?n gi? Vol+ vï¿½ Vol- cï¿½ng lï¿½c, c?m USB"},
+        {"@type":"HowToStep","name":"Ch?y tool xï¿½a Mi Account","text":"Ch?n model, click Remove Mi Account vï¿½ ch? hoï¿½n t?t"}
     ]}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"Mi Account là gì?","acceptedAnswer":{"@type":"Answer","text":"Mi Account là tài kho?n Xiaomi, tuong t? iCloud c?a Apple. Khi dang nh?p, thi?t b? s? yêu c?u m?t kh?u Mi Account sau khi factory reset."}},
-        {"@type":"Question","name":"Xóa Mi Account có m?t d? li?u không?","acceptedAnswer":{"@type":"Answer","text":"Có, quá trình xóa Mi Account s? factory reset máy và xóa toàn b? d? li?u."}},
-        {"@type":"Question","name":"Giá xóa Mi Account bao nhiêu?","acceptedAnswer":{"@type":"Answer","text":"T? làm: thuê tool 8.000d/6h. D?ch v? k? thu?t: t? 100.000d t?i Thuetaikhoan.net."}}
+        {"@type":"Question","name":"Mi Account lï¿½ gï¿½?","acceptedAnswer":{"@type":"Answer","text":"Mi Account lï¿½ tï¿½i kho?n Xiaomi, tuong t? iCloud c?a Apple. Khi dang nh?p, thi?t b? s? yï¿½u c?u m?t kh?u Mi Account sau khi factory reset."}},
+        {"@type":"Question","name":"Xï¿½a Mi Account cï¿½ m?t d? li?u khï¿½ng?","acceptedAnswer":{"@type":"Answer","text":"Cï¿½, quï¿½ trï¿½nh xï¿½a Mi Account s? factory reset mï¿½y vï¿½ xï¿½a toï¿½n b? d? li?u."}},
+        {"@type":"Question","name":"Giï¿½ xï¿½a Mi Account bao nhiï¿½u?","acceptedAnswer":{"@type":"Answer","text":"T? lï¿½m: thuï¿½ tool 8.000d/6h. D?ch v? k? thu?t: t? 100.000d t?i Thuetaikhoan.net."}}
     ]}
     </script>
     
@@ -108,7 +109,7 @@ $canonical_url = "https://www.unlocktool.us/articles/42-xoa-mi-account-xiaomi.ph
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? khóa di?n tho?i",
+        "name": "D?ch v? m? khï¿½a di?n tho?i",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -126,7 +127,7 @@ $canonical_url = "https://www.unlocktool.us/articles/42-xoa-mi-account-xiaomi.ph
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
             <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bï¿½i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -134,10 +135,10 @@ $canonical_url = "https://www.unlocktool.us/articles/42-xoa-mi-account-xiaomi.ph
 <section class="hero-section">
     <div class="container">
         <h1><i class="fas fa-user-times me-3"></i><?php echo $page_title; ?></h1>
-        <p class="lead">Xóa Mi Account cho Xiaomi, Redmi, POCO - Không c?n m?t kh?u!</p>
+        <p class="lead">Xï¿½a Mi Account cho Xiaomi, Redmi, POCO - Khï¿½ng c?n m?t kh?u!</p>
         <div class="mt-4">
             <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg me-2">
-                <i class="fas fa-tools me-2"></i>Thuê Tool 8K/6H
+                <i class="fas fa-tools me-2"></i>Thuï¿½ Tool 8K/6H
             </a>
             <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg">
                 <i class="fas fa-headset me-2"></i>D?ch V? K? Thu?t
@@ -153,120 +154,120 @@ $canonical_url = "https://www.unlocktool.us/articles/42-xoa-mi-account-xiaomi.ph
             <div class="toc">
                 <h5><i class="fas fa-list me-2"></i>M?c l?c</h5>
                 <ul>
-                    <li><a href="#mi-account">1. Mi Account là gì?</a></li>
-                    <li><a href="#nguyen-nhan">2. Nguyên nhân b? khóa Mi Account</a></li>
-                    <li><a href="#phuong-phap">3. Các phuong pháp xóa Mi Account</a></li>
-                    <li><a href="#huong-dan">4. Hu?ng d?n xóa Mi Account b?ng tool</a></li>
+                    <li><a href="#mi-account">1. Mi Account lï¿½ gï¿½?</a></li>
+                    <li><a href="#nguyen-nhan">2. Nguyï¿½n nhï¿½n b? khï¿½a Mi Account</a></li>
+                    <li><a href="#phuong-phap">3. Cï¿½c phuong phï¿½p xï¿½a Mi Account</a></li>
+                    <li><a href="#huong-dan">4. Hu?ng d?n xï¿½a Mi Account b?ng tool</a></li>
                     <li><a href="#thiet-bi">5. Thi?t b? h? tr?</a></li>
-                    <li><a href="#thue-tool">6. Thuê tool xóa Mi Account</a></li>
-                    <li><a href="#dich-vu">7. D?ch v? k? thu?t viên</a></li>
+                    <li><a href="#thue-tool">6. Thuï¿½ tool xï¿½a Mi Account</a></li>
+                    <li><a href="#dich-vu">7. D?ch v? k? thu?t viï¿½n</a></li>
                     <li><a href="#faq">8. FAQ</a></li>
                 </ul>
             </div>
 
             <section id="mi-account" class="mt-5">
-                <h2><i class="fas fa-info-circle text-warning me-2"></i>1. Mi Account Là Gì?</h2>
+                <h2><i class="fas fa-info-circle text-warning me-2"></i>1. Mi Account Lï¿½ Gï¿½?</h2>
                 
-                <p><strong>Mi Account</strong> (Tài kho?n Xiaomi) là h? th?ng tài kho?n c?a Xiaomi, tuong t? nhu iCloud c?a Apple hay Google Account c?a Android. Khi dang nh?p Mi Account trên di?n tho?i, tính nang <strong>Find Device</strong> s? du?c kích ho?t.</p>
+                <p><strong>Mi Account</strong> (Tï¿½i kho?n Xiaomi) lï¿½ h? th?ng tï¿½i kho?n c?a Xiaomi, tuong t? nhu iCloud c?a Apple hay Google Account c?a Android. Khi dang nh?p Mi Account trï¿½n di?n tho?i, tï¿½nh nang <strong>Find Device</strong> s? du?c kï¿½ch ho?t.</p>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-lock me-2"></i>Khi Mi Account Lock du?c kích ho?t:</h5>
+                    <h5><i class="fas fa-lock me-2"></i>Khi Mi Account Lock du?c kï¿½ch ho?t:</h5>
                     <ul class="mb-0">
-                        <li>Yêu c?u m?t kh?u Mi Account sau factory reset</li>
-                        <li>Không th? s? d?ng máy n?u không có m?t kh?u</li>
-                        <li>B?o v? thi?t b? trong tru?ng h?p b? m?t ho?c dánh c?p</li>
+                        <li>Yï¿½u c?u m?t kh?u Mi Account sau factory reset</li>
+                        <li>Khï¿½ng th? s? d?ng mï¿½y n?u khï¿½ng cï¿½ m?t kh?u</li>
+                        <li>B?o v? thi?t b? trong tru?ng h?p b? m?t ho?c dï¿½nh c?p</li>
                     </ul>
                 </div>
             </section>
 
             <section id="nguyen-nhan" class="mt-5">
-                <h2><i class="fas fa-question-circle text-warning me-2"></i>2. Nguyên Nhân B? Khóa Mi Account</h2>
+                <h2><i class="fas fa-question-circle text-warning me-2"></i>2. Nguyï¿½n Nhï¿½n B? Khï¿½a Mi Account</h2>
 
                 <ul>
-                    <li><i class="fas fa-check text-primary me-2"></i>Quên m?t kh?u Mi Account c?a mình</li>
-                    <li><i class="fas fa-check text-primary me-2"></i>Mua máy cu, ch? cu quên dang xu?t</li>
-                    <li><i class="fas fa-check text-primary me-2"></i>Factory reset mà chua dang xu?t Mi Account</li>
-                    <li><i class="fas fa-check text-primary me-2"></i>Nh?n máy t? ngu?i khác (t?ng, th?a k?)</li>
-                    <li><i class="fas fa-check text-primary me-2"></i>Ðang nh?p nh?m tài kho?n Mi Account</li>
+                    <li><i class="fas fa-check text-primary me-2"></i>Quï¿½n m?t kh?u Mi Account c?a mï¿½nh</li>
+                    <li><i class="fas fa-check text-primary me-2"></i>Mua mï¿½y cu, ch? cu quï¿½n dang xu?t</li>
+                    <li><i class="fas fa-check text-primary me-2"></i>Factory reset mï¿½ chua dang xu?t Mi Account</li>
+                    <li><i class="fas fa-check text-primary me-2"></i>Nh?n mï¿½y t? ngu?i khï¿½c (t?ng, th?a k?)</li>
+                    <li><i class="fas fa-check text-primary me-2"></i>ï¿½ang nh?p nh?m tï¿½i kho?n Mi Account</li>
                 </ul>
             </section>
 
             <section id="phuong-phap" class="mt-5">
-                <h2><i class="fas fa-tools text-warning me-2"></i>3. Các Phuong Pháp Xóa Mi Account</h2>
+                <h2><i class="fas fa-tools text-warning me-2"></i>3. Cï¿½c Phuong Phï¿½p Xï¿½a Mi Account</h2>
 
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-globe text-primary me-2"></i>Qua Website Xiaomi</h5>
-                            <p>N?u bi?t m?t kh?u, dang nh?p <a href="https://i.mi.com" target="_blank">i.mi.com</a> d? xóa thi?t b?.</p>
+                            <p>N?u bi?t m?t kh?u, dang nh?p <a href="https://i.mi.com" target="_blank">i.mi.com</a> d? xï¿½a thi?t b?.</p>
                             <span class="badge bg-success">C?n m?t kh?u</span>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-wrench text-warning me-2"></i>B?ng Tool</h5>
-                            <p>S? d?ng UnlockTool, Griffin-Unlocker d? xóa Mi Account qua EDL.</p>
-                            <span class="badge bg-primary">Không c?n m?t kh?u</span>
+                            <p>S? d?ng UnlockTool, Griffin-Unlocker d? xï¿½a Mi Account qua EDL.</p>
+                            <span class="badge bg-primary">Khï¿½ng c?n m?t kh?u</span>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-headset text-success me-2"></i>D?ch v? k? thu?t</h5>
-                            <p>Ð? k? thu?t viên th?c hi?n, an toàn và nhanh chóng.</p>
+                            <p>ï¿½? k? thu?t viï¿½n th?c hi?n, an toï¿½n vï¿½ nhanh chï¿½ng.</p>
                             <span class="badge bg-info">Khuy?n ngh?</span>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-envelope text-secondary me-2"></i>Liên h? Xiaomi Support</h5>
-                            <p>Cung c?p hóa don mua hàng d? Xiaomi h? tr? xóa.</p>
-                            <span class="badge bg-secondary">C?n hóa don g?c</span>
+                            <h5><i class="fas fa-envelope text-secondary me-2"></i>Liï¿½n h? Xiaomi Support</h5>
+                            <p>Cung c?p hï¿½a don mua hï¿½ng d? Xiaomi h? tr? xï¿½a.</p>
+                            <span class="badge bg-secondary">C?n hï¿½a don g?c</span>
                         </div>
                     </div>
                 </div>
             </section>
 
             <section id="huong-dan" class="mt-5">
-                <h2><i class="fas fa-book text-warning me-2"></i>4. Hu?ng D?n Xóa Mi Account B?ng Tool</h2>
+                <h2><i class="fas fa-book text-warning me-2"></i>4. Hu?ng D?n Xï¿½a Mi Account B?ng Tool</h2>
 
                 <h3>4.1. Chu?n b?</h3>
                 <ul>
-                    <li>Máy tính Windows 7/8/10/11</li>
-                    <li>Tool: UnlockTool ho?c Griffin-Unlocker (thuê t?i <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a>)</li>
+                    <li>Mï¿½y tï¿½nh Windows 7/8/10/11</li>
+                    <li>Tool: UnlockTool ho?c Griffin-Unlocker (thuï¿½ t?i <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a>)</li>
                     <li>Qualcomm USB Driver</li>
-                    <li>Cáp USB ch?t lu?ng t?t</li>
+                    <li>Cï¿½p USB ch?t lu?ng t?t</li>
                 </ul>
 
-                <h3>4.2. Các bu?c th?c hi?n</h3>
+                <h3>4.2. Cï¿½c bu?c th?c hi?n</h3>
                 
                 <div class="d-flex align-items-start mb-4">
                     <div class="step-number me-3">1</div>
                     <div>
-                        <h5>T?i và cài d?t tool</h5>
-                        <p>T?i UnlockTool t? <a href="https://file.unlocktool.net/page/index.php" target="_blank">dây</a>. Cài d?t và dang nh?p tài kho?n.</p>
+                        <h5>T?i vï¿½ cï¿½i d?t tool</h5>
+                        <p>T?i UnlockTool t? <a href="https://file.unlocktool.net/page/index.php" target="_blank">dï¿½y</a>. Cï¿½i d?t vï¿½ dang nh?p tï¿½i kho?n.</p>
                     </div>
                 </div>
 
                 <div class="d-flex align-items-start mb-4">
                     <div class="step-number me-3">2</div>
                     <div>
-                        <h5>Cài d?t Qualcomm Driver</h5>
-                        <p>T?i driver t? <a href="https://file.unlocktool.net/page/all-driver" target="_blank">dây</a> và cài d?t.</p>
+                        <h5>Cï¿½i d?t Qualcomm Driver</h5>
+                        <p>T?i driver t? <a href="https://file.unlocktool.net/page/all-driver" target="_blank">dï¿½y</a> vï¿½ cï¿½i d?t.</p>
                     </div>
                 </div>
 
                 <div class="d-flex align-items-start mb-4">
                     <div class="step-number me-3">3</div>
                     <div>
-                        <h5>Ðua di?n tho?i vào EDL Mode</h5>
-                        <p>T?t máy hoàn toàn ? Nh?n gi? Vol+ và Vol- cùng lúc ? C?m cáp USB ? Máy s? vào EDL (không hi?n gì trên màn hình).</p>
+                        <h5>ï¿½ua di?n tho?i vï¿½o EDL Mode</h5>
+                        <p>T?t mï¿½y hoï¿½n toï¿½n ? Nh?n gi? Vol+ vï¿½ Vol- cï¿½ng lï¿½c ? C?m cï¿½p USB ? Mï¿½y s? vï¿½o EDL (khï¿½ng hi?n gï¿½ trï¿½n mï¿½n hï¿½nh).</p>
                     </div>
                 </div>
 
                 <div class="d-flex align-items-start mb-4">
                     <div class="step-number me-3">4</div>
                     <div>
-                        <h5>Ch?y tool xóa Mi Account</h5>
+                        <h5>Ch?y tool xï¿½a Mi Account</h5>
                         <p>M? UnlockTool ? Tab Xiaomi ? Mi Account ? Ch?n model ? Click "Remove Mi Account".</p>
                     </div>
                 </div>
@@ -274,17 +275,17 @@ $canonical_url = "https://www.unlocktool.us/articles/42-xoa-mi-account-xiaomi.ph
                 <div class="d-flex align-items-start mb-4">
                     <div class="step-number me-3">5</div>
                     <div>
-                        <h5>Hoàn t?t</h5>
-                        <p>Ch? 5-15 phút. Máy s? t? kh?i d?ng l?i và Mi Account dã du?c xóa!</p>
+                        <h5>Hoï¿½n t?t</h5>
+                        <p>Ch? 5-15 phï¿½t. Mï¿½y s? t? kh?i d?ng l?i vï¿½ Mi Account dï¿½ du?c xï¿½a!</p>
                     </div>
                 </div>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu ý quan tr?ng</h5>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu ï¿½ quan tr?ng</h5>
                     <ul class="mb-0">
-                        <li>Xóa Mi Account s? <strong>factory reset</strong> và m?t toàn b? d? li?u</li>
+                        <li>Xï¿½a Mi Account s? <strong>factory reset</strong> vï¿½ m?t toï¿½n b? d? li?u</li>
                         <li>M?t s? model c?n th?c hi?n <strong>test point</strong></li>
-                        <li>N?u không có kinh nghi?m, nên dùng d?ch v? k? thu?t viên</li>
+                        <li>N?u khï¿½ng cï¿½ kinh nghi?m, nï¿½n dï¿½ng d?ch v? k? thu?t viï¿½n</li>
                     </ul>
                 </div>
             </section>
@@ -302,85 +303,85 @@ $canonical_url = "https://www.unlocktool.us/articles/42-xoa-mi-account-xiaomi.ph
                 <p>POCO X6, X5, X4, X3, POCO F5, F4, F3, POCO M6, M5, M4...</p>
 
                 <div class="success-box">
-                    <p class="mb-0"><strong>H? tr? t?t c? model Xiaomi/Redmi/POCO</strong> có chip Qualcomm và MIUI 10-14!</p>
+                    <p class="mb-0"><strong>H? tr? t?t c? model Xiaomi/Redmi/POCO</strong> cï¿½ chip Qualcomm vï¿½ MIUI 10-14!</p>
                 </div>
             </section>
 
             <section id="thue-tool" class="mt-5">
-                <h2><i class="fas fa-shopping-cart text-warning me-2"></i>6. Thuê Tool Xóa Mi Account</h2>
+                <h2><i class="fas fa-shopping-cart text-warning me-2"></i>6. Thuï¿½ Tool Xï¿½a Mi Account</h2>
 
                 <div class="price-highlight">
-                    <p class="mb-2">Thuê tool xóa Mi Account ch?</p>
+                    <p class="mb-2">Thuï¿½ tool xï¿½a Mi Account ch?</p>
                     <div class="price">8.000d / 6 ti?ng</div>
                     <p class="mt-2 mb-3">UnlockTool | Griffin-Unlocker</p>
                     <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg">
-                        <i class="fas fa-bolt me-2"></i>Thuê Ngay T?i UnlockTool.us
+                        <i class="fas fa-bolt me-2"></i>Thuï¿½ Ngay T?i UnlockTool.us
                     </a>
                 </div>
             </section>
 
             <section id="dich-vu" class="mt-5">
-                <h2><i class="fas fa-headset text-warning me-2"></i>7. D?ch V? K? Thu?t Viên</h2>
+                <h2><i class="fas fa-headset text-warning me-2"></i>7. D?ch V? K? Thu?t Viï¿½n</h2>
 
-                <p>Không t? làm du?c ho?c mu?n an toàn? Ð?t d?ch v? xóa Mi Account:</p>
+                <p>Khï¿½ng t? lï¿½m du?c ho?c mu?n an toï¿½n? ï¿½?t d?ch v? xï¿½a Mi Account:</p>
 
                 <div class="service-cta">
-                    <h4><i class="fas fa-user-times me-2"></i>D?ch V? Xóa Mi Account</h4>
-                    <p>K? thu?t viên kinh nghi?m - H? tr? t? xa 24/7</p>
+                    <h4><i class="fas fa-user-times me-2"></i>D?ch V? Xï¿½a Mi Account</h4>
+                    <p>K? thu?t viï¿½n kinh nghi?m - H? tr? t? xa 24/7</p>
                     <p class="h2 fw-bold">T? 100.000d</p>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light btn-lg">
-                        <i class="fas fa-shopping-cart me-2"></i>Ð?t D?ch V? T?i Thuetaikhoan.net
+                        <i class="fas fa-shopping-cart me-2"></i>ï¿½?t D?ch V? T?i Thuetaikhoan.net
                     </a>
-                    <p class="mt-3 mb-0"><small>Không thành công - Hoàn ti?n 100%</small></p>
+                    <p class="mt-3 mb-0"><small>Khï¿½ng thï¿½nh cï¿½ng - Hoï¿½n ti?n 100%</small></p>
                 </div>
             </section>
 
             <section id="faq" class="mt-5">
-                <h2><i class="fas fa-question-circle text-warning me-2"></i>8. Câu H?i Thu?ng G?p</h2>
+                <h2><i class="fas fa-question-circle text-warning me-2"></i>8. Cï¿½u H?i Thu?ng G?p</h2>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Xóa Mi Account m?t bao lâu?</span>
+                        <span>Xï¿½a Mi Account m?t bao lï¿½u?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Thông thu?ng t? 5-30 phút tùy model và phuong pháp.</p>
+                        <p>Thï¿½ng thu?ng t? 5-30 phï¿½t tï¿½y model vï¿½ phuong phï¿½p.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Xóa Mi Account có m?t d? li?u không?</span>
+                        <span>Xï¿½a Mi Account cï¿½ m?t d? li?u khï¿½ng?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Có, quá trình xóa Mi Account s? factory reset máy và xóa toàn b? d? li?u.</p>
+                        <p>Cï¿½, quï¿½ trï¿½nh xï¿½a Mi Account s? factory reset mï¿½y vï¿½ xï¿½a toï¿½n b? d? li?u.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Model nào c?n test point?</span>
+                        <span>Model nï¿½o c?n test point?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>M?t s? model m?i ho?c có secure boot cao c?n test point. Liên h? d? du?c tu v?n chi ti?t.</p>
+                        <p>M?t s? model m?i ho?c cï¿½ secure boot cao c?n test point. Liï¿½n h? d? du?c tu v?n chi ti?t.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Giá xóa Mi Account bao nhiêu?</span>
+                        <span>Giï¿½ xï¿½a Mi Account bao nhiï¿½u?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>T? làm: thuê tool 8.000d/6h. D?ch v? k? thu?t: t? 100.000d t?i Thuetaikhoan.net.</p>
+                        <p>T? lï¿½m: thuï¿½ tool 8.000d/6h. D?ch v? k? thu?t: t? 100.000d t?i Thuetaikhoan.net.</p>
                     </div>
                 </div>
             </section>
 
             <section class="mt-5">
                 <h2><i class="fas fa-flag-checkered text-warning me-2"></i>K?t Lu?n</h2>
-                <p>Xóa Mi Account không quá khó n?u có tool và ki?n th?c co b?n. V?i giá thuê ch? 8.000d/6h t?i UnlockTool.us, b?n có th? t? th?c hi?n. Ho?c d?t d?ch v? k? thu?t viên t? 100.000d d? du?c h? tr? an toàn!</p>
+                <p>Xï¿½a Mi Account khï¿½ng quï¿½ khï¿½ n?u cï¿½ tool vï¿½ ki?n th?c co b?n. V?i giï¿½ thuï¿½ ch? 8.000d/6h t?i UnlockTool.us, b?n cï¿½ th? t? th?c hi?n. Ho?c d?t d?ch v? k? thu?t viï¿½n t? 100.000d d? du?c h? tr? an toï¿½n!</p>
                 
                 <div class="text-center mt-4">
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-xiaomi btn-lg me-2 mb-2">Thuê Tool 8K/6H</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-xiaomi btn-lg me-2 mb-2">Thuï¿½ Tool 8K/6H</a>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-warning btn-lg mb-2">D?ch V? T? 100K</a>
                 </div>
             </section>
@@ -389,17 +390,17 @@ $canonical_url = "https://www.unlocktool.us/articles/42-xoa-mi-account-xiaomi.ph
         <div class="col-lg-4">
             <div class="sticky-top" style="top:20px">
                 <div class="price-highlight mb-4">
-                    <h5>Xóa Mi Account</h5>
+                    <h5>Xï¿½a Mi Account</h5>
                     <p class="price">8.000d/6H</p>
-                    <p>T? làm v?i tool</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100">Thuê Tool</a>
+                    <p>T? lï¿½m v?i tool</p>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100">Thuï¿½ Tool</a>
                 </div>
                 <div class="card mb-4">
                     <div class="card-header bg-warning">D?ch V? K? Thu?t</div>
                     <div class="card-body">
                         <p class="h4 fw-bold">T? 100.000d</p>
-                        <p>Th? làm h? - An toàn</p>
-                        <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-warning w-100">Ð?t D?ch V?</a>
+                        <p>Th? lï¿½m h? - An toï¿½n</p>
+                        <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-warning w-100">ï¿½?t D?ch V?</a>
                     </div>
                 </div>
                 <div class="card">
@@ -421,7 +422,7 @@ $canonical_url = "https://www.unlocktool.us/articles/42-xoa-mi-account-xiaomi.ph
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bài vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bï¿½i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -435,7 +436,7 @@ $canonical_url = "https://www.unlocktool.us/articles/42-xoa-mi-account-xiaomi.ph
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài vi?t liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bï¿½i vi?t liï¿½n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
@@ -470,7 +471,7 @@ $canonical_url = "https://www.unlocktool.us/articles/42-xoa-mi-account-xiaomi.ph
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Ð?i ngu k? thu?t viên chuyên nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khóa di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">ï¿½?i ngu k? thu?t viï¿½n chuyï¿½n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khï¿½a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -478,7 +479,7 @@ $canonical_url = "https://www.unlocktool.us/articles/42-xoa-mi-account-xiaomi.ph
 </div>
 <footer class="bg-dark text-white py-4">
     <div class="container text-center">
-        <p>&copy; 2026 UnlockTool.us - Thuetaikhoan.net | Xóa Mi Account Xiaomi</p>
+        <p>&copy; 2026 UnlockTool.us - Thuetaikhoan.net | Xï¿½a Mi Account Xiaomi</p>
     </div>
 </footer>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>

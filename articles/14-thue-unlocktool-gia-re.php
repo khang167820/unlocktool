@@ -1,7 +1,7 @@
-<?php
-$page_title = "Thuê UnlockTool CH? 8K ?? Giá R? Nh?t Vi?t Nam 2026 - Flash Sale";
-$page_description = "?? FLASH SALE: Thuê UnlockTool CH? 8.000d/6 ti?ng - R? NH?T VI?T NAM! H? th?ng t? d?ng 24/7, nh?n tài kho?n ngay. R? hon 1 ly trà s?a, m? khóa 10+ máy!";
-$page_keywords = "thuê unlocktool giá r? nh?t, thuê unlocktool 8K, rent unlocktool cheap, thuê tài kho?n unlocktool r? nh?t, unlocktool cho thuê 8000d, flash sale unlocktool";
+ï»¿<?php
+$page_title = "Thuï¿½ UnlockTool CH? 8K ?? Giï¿½ R? Nh?t Vi?t Nam 2026 - Flash Sale";
+$page_description = "?? FLASH SALE: Thuï¿½ UnlockTool CH? 8.000d/6 ti?ng - R? NH?T VI?T NAM! H? th?ng t? d?ng 24/7, nh?n tï¿½i kho?n ngay. R? hon 1 ly trï¿½ s?a, m? khï¿½a 10+ mï¿½y!";
+$page_keywords = "thuï¿½ unlocktool giï¿½ r? nh?t, thuï¿½ unlocktool 8K, rent unlocktool cheap, thuï¿½ tï¿½i kho?n unlocktool r? nh?t, unlocktool cho thuï¿½ 8000d, flash sale unlocktool";
 $canonical_url = "https://www.unlocktool.us/articles/14-thue-unlocktool-gia-re.php";
 ?>
 <!DOCTYPE html>
@@ -23,14 +23,15 @@ $canonical_url = "https://www.unlocktool.us/articles/14-thue-unlocktool-gia-re.p
     
     <meta property="og:type" content="website">
     <meta property="og:title" content="<?php echo $page_title; ?>">
-    <meta property="og:description" content="<?php echo $page_description; ?>">
+    <meta property="og:description" content="<?php echo $page_description; ?>
+    <meta property="og:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
     
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "Thuê UnlockTool",
-        "description": "D?ch v? cho thuê tài kho?n UnlockTool giá r?, h? th?ng t? d?ng 24/7",
+        "name": "Thuï¿½ UnlockTool",
+        "description": "D?ch v? cho thuï¿½ tï¿½i kho?n UnlockTool giï¿½ r?, h? th?ng t? d?ng 24/7",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "offers": {
             "@type": "AggregateOffer",
@@ -54,11 +55,11 @@ $canonical_url = "https://www.unlocktool.us/articles/14-thue-unlocktool-gia-re.p
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "Thuê UnlockTool ? dâu uy tín?", "acceptedAnswer": {"@type": "Answer", "text": "Thuê UnlockTool uy tín t?i UnlockTool.us - h? th?ng t? d?ng 24/7, giá t? 8.000d, nh?n tài kho?n ngay sau thanh toán."}},
-            {"@type": "Question", "name": "Thuê UnlockTool giá bao nhiêu?", "acceptedAnswer": {"@type": "Answer", "text": "Giá thuê UnlockTool ch? 8.000d/6 ti?ng - r? nh?t th? tru?ng!"}},
-            {"@type": "Question", "name": "Thuê UnlockTool bao lâu nh?n du?c?", "acceptedAnswer": {"@type": "Answer", "text": "Nh?n tài kho?n ngay sau khi thanh toán thành công, h? th?ng hoàn toàn t? d?ng 24/7, không c?n ch? d?i."}},
-            {"@type": "Question", "name": "Tài kho?n thuê có d?y d? tính nang không?", "acceptedAnswer": {"@type": "Answer", "text": "Có, tài kho?n thuê t?i UnlockTool.us là tài kho?n premium v?i d?y d? 100% tính nang nhu mua license chính hãng."}},
-            {"@type": "Question", "name": "H?t gi? thuê thì sao?", "acceptedAnswer": {"@type": "Answer", "text": "Khi h?t gi?, tài kho?n s? t? d?ng logout. B?n có th? thuê ti?p b?t c? lúc nào c?n s? d?ng."}}
+            {"@type": "Question", "name": "Thuï¿½ UnlockTool ? dï¿½u uy tï¿½n?", "acceptedAnswer": {"@type": "Answer", "text": "Thuï¿½ UnlockTool uy tï¿½n t?i UnlockTool.us - h? th?ng t? d?ng 24/7, giï¿½ t? 8.000d, nh?n tï¿½i kho?n ngay sau thanh toï¿½n."}},
+            {"@type": "Question", "name": "Thuï¿½ UnlockTool giï¿½ bao nhiï¿½u?", "acceptedAnswer": {"@type": "Answer", "text": "Giï¿½ thuï¿½ UnlockTool ch? 8.000d/6 ti?ng - r? nh?t th? tru?ng!"}},
+            {"@type": "Question", "name": "Thuï¿½ UnlockTool bao lï¿½u nh?n du?c?", "acceptedAnswer": {"@type": "Answer", "text": "Nh?n tï¿½i kho?n ngay sau khi thanh toï¿½n thï¿½nh cï¿½ng, h? th?ng hoï¿½n toï¿½n t? d?ng 24/7, khï¿½ng c?n ch? d?i."}},
+            {"@type": "Question", "name": "Tï¿½i kho?n thuï¿½ cï¿½ d?y d? tï¿½nh nang khï¿½ng?", "acceptedAnswer": {"@type": "Answer", "text": "Cï¿½, tï¿½i kho?n thuï¿½ t?i UnlockTool.us lï¿½ tï¿½i kho?n premium v?i d?y d? 100% tï¿½nh nang nhu mua license chï¿½nh hï¿½ng."}},
+            {"@type": "Question", "name": "H?t gi? thuï¿½ thï¿½ sao?", "acceptedAnswer": {"@type": "Answer", "text": "Khi h?t gi?, tï¿½i kho?n s? t? d?ng logout. B?n cï¿½ th? thuï¿½ ti?p b?t c? lï¿½c nï¿½o c?n s? d?ng."}}
         ]
     }
     </script>
@@ -67,15 +68,15 @@ $canonical_url = "https://www.unlocktool.us/articles/14-thue-unlocktool-gia-re.p
     {
         "@context": "https://schema.org",
         "@type": "HowTo",
-        "name": "Cách thuê UnlockTool t?i UnlockTool.us",
-        "description": "Hu?ng d?n thuê tài kho?n UnlockTool t? d?ng 24/7",
+        "name": "Cï¿½ch thuï¿½ UnlockTool t?i UnlockTool.us",
+        "description": "Hu?ng d?n thuï¿½ tï¿½i kho?n UnlockTool t? d?ng 24/7",
         "totalTime": "PT2M",
         "step": [
-            {"@type": "HowToStep", "name": "Truy c?p website", "text": "Vào UnlockTool.us"},
-            {"@type": "HowToStep", "name": "Ch?n tài kho?n", "text": "Ch?n tài kho?n có tr?ng thái Ch? thuê"},
-            {"@type": "HowToStep", "name": "Ch?n gói th?i gian", "text": "Ch?n gói thuê phù h?p (1h, 3h, 6h, 12h, 24h)"},
-            {"@type": "HowToStep", "name": "Thanh toán", "text": "Quét mã QR d? chuy?n kho?n"},
-            {"@type": "HowToStep", "name": "Nh?n tài kho?n", "text": "H? th?ng t? d?ng hi?n th? Username/Password"}
+            {"@type": "HowToStep", "name": "Truy c?p website", "text": "Vï¿½o UnlockTool.us"},
+            {"@type": "HowToStep", "name": "Ch?n tï¿½i kho?n", "text": "Ch?n tï¿½i kho?n cï¿½ tr?ng thï¿½i Ch? thuï¿½"},
+            {"@type": "HowToStep", "name": "Ch?n gï¿½i th?i gian", "text": "Ch?n gï¿½i thuï¿½ phï¿½ h?p (1h, 3h, 6h, 12h, 24h)"},
+            {"@type": "HowToStep", "name": "Thanh toï¿½n", "text": "Quï¿½t mï¿½ QR d? chuy?n kho?n"},
+            {"@type": "HowToStep", "name": "Nh?n tï¿½i kho?n", "text": "H? th?ng t? d?ng hi?n th? Username/Password"}
         ]
     }
     </script>
@@ -183,10 +184,10 @@ $canonical_url = "https://www.unlocktool.us/articles/14-thue-unlocktool-gia-re.p
 
 <header class="header">
     <div class="container">
-        <h1><i class="fas fa-key"></i> Thuê UnlockTool Giá R? Nh?t 2026</h1>
-        <p>H? th?ng t? d?ng 24/7 - Nh?n tài kho?n ngay l?p t?c</p>
+        <h1><i class="fas fa-key"></i> Thuï¿½ UnlockTool Giï¿½ R? Nh?t 2026</h1>
+        <p>H? th?ng t? d?ng 24/7 - Nh?n tï¿½i kho?n ngay l?p t?c</p>
         <div class="mt-4">
-            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt"></i> Thuê Ngay t? 8K</a>
+            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt"></i> Thuï¿½ Ngay t? 8K</a>
         </div>
     </div>
 </header>
@@ -196,147 +197,147 @@ $canonical_url = "https://www.unlocktool.us/articles/14-thue-unlocktool-gia-re.p
         
         <!-- Hero CTA -->
         <div class="hero-cta">
-            <h3><i class="fas fa-fire"></i> Thuê UnlockTool - R? Nh?t Vi?t Nam!</h3>
-            <p>H? th?ng t? d?ng 24/7 | Nh?n tài kho?n trong 1-2 phút | Thanh toán QR ti?n l?i</p>
-            <p style="font-size:1.5rem;margin:20px 0"><strong>Ch? t? 8.000d</strong> - R? hon ly trà s?a!</p>
-            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-shopping-cart"></i> Thuê T?i UnlockTool.us</a>
+            <h3><i class="fas fa-fire"></i> Thuï¿½ UnlockTool - R? Nh?t Vi?t Nam!</h3>
+            <p>H? th?ng t? d?ng 24/7 | Nh?n tï¿½i kho?n trong 1-2 phï¿½t | Thanh toï¿½n QR ti?n l?i</p>
+            <p style="font-size:1.5rem;margin:20px 0"><strong>Ch? t? 8.000d</strong> - R? hon ly trï¿½ s?a!</p>
+            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-shopping-cart"></i> Thuï¿½ T?i UnlockTool.us</a>
         </div>
         
         <!-- Table of Contents -->
         <div class="toc">
             <h4><i class="fas fa-list"></i> M?c l?c</h4>
             <ul>
-                <li><a href="#tai-sao">1. T?i sao nên thuê UnlockTool?</a></li>
-                <li><a href="#bang-gia">2. B?ng giá thuê UnlockTool 2026</a></li>
-                <li><a href="#so-sanh">3. So sánh: Thuê vs Mua License</a></li>
+                <li><a href="#tai-sao">1. T?i sao nï¿½n thuï¿½ UnlockTool?</a></li>
+                <li><a href="#bang-gia">2. B?ng giï¿½ thuï¿½ UnlockTool 2026</a></li>
+                <li><a href="#so-sanh">3. So sï¿½nh: Thuï¿½ vs Mua License</a></li>
                 <li><a href="#tai-sao-chon">4. T?i sao ch?n UnlockTool.us?</a></li>
-                <li><a href="#huong-dan">5. Hu?ng d?n thuê UnlockTool chi ti?t</a></li>
-                <li><a href="#thanh-toan">6. Phuong th?c thanh toán</a></li>
-                <li><a href="#danh-gia">7. Ðánh giá t? khách hàng</a></li>
-                <li><a href="#luu-y">8. Luu ý khi thuê UnlockTool</a></li>
-                <li><a href="#faq">9. FAQ - Câu h?i thu?ng g?p</a></li>
+                <li><a href="#huong-dan">5. Hu?ng d?n thuï¿½ UnlockTool chi ti?t</a></li>
+                <li><a href="#thanh-toan">6. Phuong th?c thanh toï¿½n</a></li>
+                <li><a href="#danh-gia">7. ï¿½ï¿½nh giï¿½ t? khï¿½ch hï¿½ng</a></li>
+                <li><a href="#luu-y">8. Luu ï¿½ khi thuï¿½ UnlockTool</a></li>
+                <li><a href="#faq">9. FAQ - Cï¿½u h?i thu?ng g?p</a></li>
             </ul>
         </div>
         
         <!-- Section 1 -->
-        <h2 id="tai-sao">1. T?i sao nên thuê UnlockTool?</h2>
+        <h2 id="tai-sao">1. T?i sao nï¿½n thuï¿½ UnlockTool?</h2>
         
-        <p><strong>UnlockTool</strong> là ph?n m?m m? khóa di?n tho?i chuyên nghi?p v?i nhi?u tính nang m?nh m?. Tuy nhiên, vi?c mua license chính hãng có giá khá cao - t? <strong>$40 d?n $300</strong> (kho?ng 1-7 tri?u VNÐ). Ðây là s? ti?n không nh?, d?c bi?t n?u b?n ch? c?n s? d?ng vài l?n.</p>
+        <p><strong>UnlockTool</strong> lï¿½ ph?n m?m m? khï¿½a di?n tho?i chuyï¿½n nghi?p v?i nhi?u tï¿½nh nang m?nh m?. Tuy nhiï¿½n, vi?c mua license chï¿½nh hï¿½ng cï¿½ giï¿½ khï¿½ cao - t? <strong>$40 d?n $300</strong> (kho?ng 1-7 tri?u VNï¿½). ï¿½ï¿½y lï¿½ s? ti?n khï¿½ng nh?, d?c bi?t n?u b?n ch? c?n s? d?ng vï¿½i l?n.</p>
         
-        <p><strong>Gi?i pháp:</strong> Thuê tài kho?n UnlockTool theo gi? - b?n ch? tr? ti?n cho th?i gian th?c s? s? d?ng!</p>
+        <p><strong>Gi?i phï¿½p:</strong> Thuï¿½ tï¿½i kho?n UnlockTool theo gi? - b?n ch? tr? ti?n cho th?i gian th?c s? s? d?ng!</p>
         
         <div class="info-box">
-            <h4><i class="fas fa-calculator"></i> Tính toán nhanh</h4>
-            <p><strong>Mua license 1 tháng:</strong> $40 = ~1.000.000 VNÐ</p>
-            <p><strong>Thuê 6 ti?ng:</strong> 8.000 VNÐ</p>
-            <p class="mb-0"><strong>Ti?t ki?m:</strong> 975.000 VNÐ (97.5%) n?u ch? c?n dùng 1 l?n!</p>
+            <h4><i class="fas fa-calculator"></i> Tï¿½nh toï¿½n nhanh</h4>
+            <p><strong>Mua license 1 thï¿½ng:</strong> $40 = ~1.000.000 VNï¿½</p>
+            <p><strong>Thuï¿½ 6 ti?ng:</strong> 8.000 VNï¿½</p>
+            <p class="mb-0"><strong>Ti?t ki?m:</strong> 975.000 VNï¿½ (97.5%) n?u ch? c?n dï¿½ng 1 l?n!</p>
         </div>
         
-        <h3>Ai nên thuê UnlockTool?</h3>
+        <h3>Ai nï¿½n thuï¿½ UnlockTool?</h3>
         
         <ul>
-            <li><strong>Ngu?i dùng cá nhân:</strong> C?n m? khóa 1-2 di?n tho?i c?a mình ho?c ngu?i thân</li>
-            <li><strong>K? thu?t viên nh? l?:</strong> S?a di?n tho?i không thu?ng xuyên, vài máy/tháng</li>
-            <li><strong>C?a hàng m?i m?:</strong> Mu?n test UnlockTool tru?c khi quy?t d?nh mua license</li>
-            <li><strong>Ngu?i m?i h?c ngh?:</strong> C?n công c? d? th?c hành, h?c h?i</li>
+            <li><strong>Ngu?i dï¿½ng cï¿½ nhï¿½n:</strong> C?n m? khï¿½a 1-2 di?n tho?i c?a mï¿½nh ho?c ngu?i thï¿½n</li>
+            <li><strong>K? thu?t viï¿½n nh? l?:</strong> S?a di?n tho?i khï¿½ng thu?ng xuyï¿½n, vï¿½i mï¿½y/thï¿½ng</li>
+            <li><strong>C?a hï¿½ng m?i m?:</strong> Mu?n test UnlockTool tru?c khi quy?t d?nh mua license</li>
+            <li><strong>Ngu?i m?i h?c ngh?:</strong> C?n cï¿½ng c? d? th?c hï¿½nh, h?c h?i</li>
         </ul>
         
         <!-- Section 2 -->
-        <h2 id="bang-gia">2. B?ng giá thuê UnlockTool 2026</h2>
+        <h2 id="bang-gia">2. B?ng giï¿½ thuï¿½ UnlockTool 2026</h2>
         
-        <p>Du?i dây là b?ng giá thuê tài kho?n UnlockTool t?i <a href="https://www.unlocktool.us/">UnlockTool.us</a> - giá r? nh?t th? tru?ng:</p>
+        <p>Du?i dï¿½y lï¿½ b?ng giï¿½ thuï¿½ tï¿½i kho?n UnlockTool t?i <a href="https://www.unlocktool.us/">UnlockTool.us</a> - giï¿½ r? nh?t th? tru?ng:</p>
         
         <div class="price-grid">
             <div class="price-card">
                 <h4>1 Ti?ng</h4>
                 <div class="price-value">15K</div>
-                <div class="price-time">60 phút s? d?ng</div>
-                <div class="price-desc">Phù h?p: M? 1-2 máy nhanh</div>
-                <p class="text-muted mt-3">~250d/phút</p>
+                <div class="price-time">60 phï¿½t s? d?ng</div>
+                <div class="price-desc">Phï¿½ h?p: M? 1-2 mï¿½y nhanh</div>
+                <p class="text-muted mt-3">~250d/phï¿½t</p>
             </div>
             
             <div class="price-card">
                 <h4>3 Ti?ng</h4>
                 <div class="price-value">20K</div>
-                <div class="price-time">180 phút s? d?ng</div>
-                <div class="price-desc">Phù h?p: M? 3-5 máy</div>
-                <p class="text-muted mt-3">~111d/phút</p>
+                <div class="price-time">180 phï¿½t s? d?ng</div>
+                <div class="price-desc">Phï¿½ h?p: M? 3-5 mï¿½y</div>
+                <p class="text-muted mt-3">~111d/phï¿½t</p>
             </div>
             
             <div class="price-card hot">
                 <h4>6 Ti?ng</h4>
                 <div class="price-value">8K</div>
-                <div class="price-time">360 phút s? d?ng</div>
+                <div class="price-time">360 phï¿½t s? d?ng</div>
                 <div class="price-desc"><strong>Ph? bi?n nh?t!</strong></div>
-                <p class="text-muted mt-3">~69d/phút</p>
+                <p class="text-muted mt-3">~69d/phï¿½t</p>
             </div>
             
             <div class="price-card">
                 <h4>12 Ti?ng</h4>
                 <div class="price-value">35K</div>
-                <div class="price-time">720 phút s? d?ng</div>
-                <div class="price-desc">Phù h?p: N?a ngày làm vi?c</div>
-                <p class="text-muted mt-3">~49d/phút</p>
+                <div class="price-time">720 phï¿½t s? d?ng</div>
+                <div class="price-desc">Phï¿½ h?p: N?a ngï¿½y lï¿½m vi?c</div>
+                <p class="text-muted mt-3">~49d/phï¿½t</p>
             </div>
             
             <div class="price-card hot">
                 <h4>24 Ti?ng</h4>
                 <div class="price-value">50K</div>
-                <div class="price-time">1 ngày d?y d?</div>
+                <div class="price-time">1 ngï¿½y d?y d?</div>
                 <div class="price-desc"><strong>Ti?t ki?m nh?t!</strong></div>
-                <p class="text-muted mt-3">~35d/phút</p>
+                <p class="text-muted mt-3">~35d/phï¿½t</p>
             </div>
             
             <div class="price-card">
-                <h4>7 Ngày</h4>
+                <h4>7 Ngï¿½y</h4>
                 <div class="price-value">180K</div>
                 <div class="price-time">168 gi? s? d?ng</div>
-                <div class="price-desc">Phù h?p: C?a hàng nh?</div>
-                <p class="text-muted mt-3">~26K/ngày</p>
+                <div class="price-desc">Phï¿½ h?p: C?a hï¿½ng nh?</div>
+                <p class="text-muted mt-3">~26K/ngï¿½y</p>
             </div>
         </div>
         
         <!-- Section 3 -->
-        <h2 id="so-sanh">3. So sánh: Thuê vs Mua License</h2>
+        <h2 id="so-sanh">3. So sï¿½nh: Thuï¿½ vs Mua License</h2>
         
         <table class="compare-table">
             <thead>
                 <tr>
-                    <th width="35%">Tiêu chí</th>
+                    <th width="35%">Tiï¿½u chï¿½</th>
                     <th>Mua License</th>
-                    <th class="highlight">Thuê Tài Kho?n</th>
+                    <th class="highlight">Thuï¿½ Tï¿½i Kho?n</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <td><strong>Chi phí ban d?u</strong></td>
-                    <td>$40-300 (1-7 tri?u VNÐ)</td>
+                    <td><strong>Chi phï¿½ ban d?u</strong></td>
+                    <td>$40-300 (1-7 tri?u VNï¿½)</td>
                     <td class="highlight"><strong>8.000d/6h</strong></td>
                 </tr>
                 <tr>
                     <td><strong>Th?i h?n</strong></td>
-                    <td>1 tháng - Vinh vi?n</td>
-                    <td class="highlight">1 gi? - 7 ngày</td>
+                    <td>1 thï¿½ng - Vinh vi?n</td>
+                    <td class="highlight">1 gi? - 7 ngï¿½y</td>
                 </tr>
                 <tr>
-                    <td><strong>Tính nang</strong></td>
+                    <td><strong>Tï¿½nh nang</strong></td>
                     <td>100% d?y d?</td>
                     <td class="highlight">100% d?y d?</td>
                 </tr>
                 <tr>
                     <td><strong>C?p nh?t</strong></td>
-                    <td>Có (trong th?i h?n license)</td>
-                    <td class="highlight">Có (phiên b?n m?i nh?t)</td>
+                    <td>Cï¿½ (trong th?i h?n license)</td>
+                    <td class="highlight">Cï¿½ (phiï¿½n b?n m?i nh?t)</td>
                 </tr>
                 <tr>
-                    <td><strong>Phù h?p</strong></td>
-                    <td>C?a hàng l?n, s? d?ng hàng ngày</td>
-                    <td class="highlight">Cá nhân, k? thu?t viên nh?</td>
+                    <td><strong>Phï¿½ h?p</strong></td>
+                    <td>C?a hï¿½ng l?n, s? d?ng hï¿½ng ngï¿½y</td>
+                    <td class="highlight">Cï¿½ nhï¿½n, k? thu?t viï¿½n nh?</td>
                 </tr>
                 <tr>
-                    <td><strong>Ti?t ki?m khi dùng ít</strong></td>
+                    <td><strong>Ti?t ki?m khi dï¿½ng ï¿½t</strong></td>
                     <td><i class="fas fa-times text-danger"></i></td>
-                    <td class="highlight"><i class="fas fa-check text-success"></i> Lên d?n 99%</td>
+                    <td class="highlight"><i class="fas fa-check text-success"></i> Lï¿½n d?n 99%</td>
                 </tr>
             </tbody>
         </table>
@@ -348,81 +349,81 @@ $canonical_url = "https://www.unlocktool.us/articles/14-thue-unlocktool-gia-re.p
             <div class="benefit-card">
                 <i class="fas fa-bolt"></i>
                 <h5>T? d?ng 24/7</h5>
-                <p>H? th?ng hoàn toàn t? d?ng, nh?n tài kho?n ngay sau khi thanh toán thành công. Không c?n ch? d?i admin duy?t.</p>
+                <p>H? th?ng hoï¿½n toï¿½n t? d?ng, nh?n tï¿½i kho?n ngay sau khi thanh toï¿½n thï¿½nh cï¿½ng. Khï¿½ng c?n ch? d?i admin duy?t.</p>
             </div>
             <div class="benefit-card">
                 <i class="fas fa-tags"></i>
-                <h5>Giá r? nh?t</h5>
-                <p>Cam k?t giá thuê UnlockTool r? nh?t th? tru?ng. Ch? t? 8.000d cho 1 ti?ng s? d?ng.</p>
+                <h5>Giï¿½ r? nh?t</h5>
+                <p>Cam k?t giï¿½ thuï¿½ UnlockTool r? nh?t th? tru?ng. Ch? t? 8.000d cho 1 ti?ng s? d?ng.</p>
             </div>
             <div class="benefit-card">
                 <i class="fas fa-star"></i>
-                <h5>Tài kho?n Premium</h5>
-                <p>T?t c? tài kho?n cho thuê d?u là premium, d?y d? 100% tính nang nhu mua license chính hãng.</p>
+                <h5>Tï¿½i kho?n Premium</h5>
+                <p>T?t c? tï¿½i kho?n cho thuï¿½ d?u lï¿½ premium, d?y d? 100% tï¿½nh nang nhu mua license chï¿½nh hï¿½ng.</p>
             </div>
             <div class="benefit-card">
                 <i class="fas fa-qrcode"></i>
-                <h5>Thanh toán ti?n l?i</h5>
-                <p>H? tr? thanh toán qua QR Code ngân hàng, MoMo. Xác nh?n t? d?ng trong vài giây.</p>
+                <h5>Thanh toï¿½n ti?n l?i</h5>
+                <p>H? tr? thanh toï¿½n qua QR Code ngï¿½n hï¿½ng, MoMo. Xï¿½c nh?n t? d?ng trong vï¿½i giï¿½y.</p>
             </div>
             <div class="benefit-card">
                 <i class="fas fa-headset"></i>
                 <h5>H? tr? k? thu?t</h5>
-                <p>Ð?i ngu h? tr? s?n sàng giúp d? qua Zalo, di?n tho?i trong gi? hành chính.</p>
+                <p>ï¿½?i ngu h? tr? s?n sï¿½ng giï¿½p d? qua Zalo, di?n tho?i trong gi? hï¿½nh chï¿½nh.</p>
             </div>
             <div class="benefit-card">
                 <i class="fas fa-shield-alt"></i>
-                <h5>Uy tín - An toàn</h5>
-                <p>Ho?t d?ng t? 2023, ph?c v? hon 6.500 khách hàng v?i t? l? hài lòng 98%.</p>
+                <h5>Uy tï¿½n - An toï¿½n</h5>
+                <p>Ho?t d?ng t? 2023, ph?c v? hon 6.500 khï¿½ch hï¿½ng v?i t? l? hï¿½i lï¿½ng 98%.</p>
             </div>
         </div>
         
         <!-- Section 5 -->
-        <h2 id="huong-dan">5. Hu?ng d?n thuê UnlockTool chi ti?t</h2>
+        <h2 id="huong-dan">5. Hu?ng d?n thuï¿½ UnlockTool chi ti?t</h2>
         
-        <p>Thuê tài kho?n UnlockTool t?i UnlockTool.us c?c k? don gi?n, ch? m?t 1-2 phút:</p>
+        <p>Thuï¿½ tï¿½i kho?n UnlockTool t?i UnlockTool.us c?c k? don gi?n, ch? m?t 1-2 phï¿½t:</p>
         
         <div class="step-container">
             <div class="step-box">
                 <h4>Truy c?p UnlockTool.us</h4>
-                <p class="mb-0">M? trình duy?t và truy c?p <a href="https://www.unlocktool.us/" target="_blank">www.unlocktool.us</a></p>
+                <p class="mb-0">M? trï¿½nh duy?t vï¿½ truy c?p <a href="https://www.unlocktool.us/" target="_blank">www.unlocktool.us</a></p>
             </div>
             
             <div class="step-box">
-                <h4>Ch?n tài kho?n c?n thuê</h4>
-                <p class="mb-0">Trên trang ch?, b?n s? th?y danh sách các tài kho?n. Ch?n tài kho?n có tr?ng thái <strong>"Ch? thuê"</strong> và click nút <strong>"Thuê"</strong>.</p>
+                <h4>Ch?n tï¿½i kho?n c?n thuï¿½</h4>
+                <p class="mb-0">Trï¿½n trang ch?, b?n s? th?y danh sï¿½ch cï¿½c tï¿½i kho?n. Ch?n tï¿½i kho?n cï¿½ tr?ng thï¿½i <strong>"Ch? thuï¿½"</strong> vï¿½ click nï¿½t <strong>"Thuï¿½"</strong>.</p>
             </div>
             
             <div class="step-box">
-                <h4>Ch?n gói th?i gian</h4>
-                <p class="mb-0">Popup hi?n ra v?i các gói: 1 ti?ng (15K), 3 ti?ng (20K), 6 ti?ng (8K), 12 ti?ng (35K), 24 ti?ng (50K), 7 ngày (180K). Ch?n gói phù h?p v?i nhu c?u.</p>
+                <h4>Ch?n gï¿½i th?i gian</h4>
+                <p class="mb-0">Popup hi?n ra v?i cï¿½c gï¿½i: 1 ti?ng (15K), 3 ti?ng (20K), 6 ti?ng (8K), 12 ti?ng (35K), 24 ti?ng (50K), 7 ngï¿½y (180K). Ch?n gï¿½i phï¿½ h?p v?i nhu c?u.</p>
             </div>
             
             <div class="step-box">
-                <h4>Thanh toán qua QR Code</h4>
-                <p class="mb-0">H? th?ng hi?n th? mã QR v?i s? ti?n chính xác. M? app ngân hàng ho?c MoMo, quét mã và chuy?n kho?n. <strong>Luu ý: Chuy?n dúng s? ti?n và n?i dung!</strong></p>
+                <h4>Thanh toï¿½n qua QR Code</h4>
+                <p class="mb-0">H? th?ng hi?n th? mï¿½ QR v?i s? ti?n chï¿½nh xï¿½c. M? app ngï¿½n hï¿½ng ho?c MoMo, quï¿½t mï¿½ vï¿½ chuy?n kho?n. <strong>Luu ï¿½: Chuy?n dï¿½ng s? ti?n vï¿½ n?i dung!</strong></p>
             </div>
             
             <div class="step-box">
-                <h4>Nh?n tài kho?n t? d?ng</h4>
-                <p class="mb-0">Sau khi thanh toán thành công (1-30 giây xác nh?n), h? th?ng t? d?ng hi?n th? <strong>Username</strong> và <strong>Password</strong>. Sao chép và dang nh?p vào UnlockTool!</p>
+                <h4>Nh?n tï¿½i kho?n t? d?ng</h4>
+                <p class="mb-0">Sau khi thanh toï¿½n thï¿½nh cï¿½ng (1-30 giï¿½y xï¿½c nh?n), h? th?ng t? d?ng hi?n th? <strong>Username</strong> vï¿½ <strong>Password</strong>. Sao chï¿½p vï¿½ dang nh?p vï¿½o UnlockTool!</p>
             </div>
             
             <div class="step-box">
                 <h4>B?t d?u s? d?ng</h4>
-                <p class="mb-0">M? UnlockTool, nh?p Username/Password v?a nh?n, dang nh?p và s? d?ng d?y d? tính nang trong th?i gian dã thuê!</p>
+                <p class="mb-0">M? UnlockTool, nh?p Username/Password v?a nh?n, dang nh?p vï¿½ s? d?ng d?y d? tï¿½nh nang trong th?i gian dï¿½ thuï¿½!</p>
             </div>
         </div>
         
         <!-- Section 6 -->
-        <h2 id="thanh-toan">6. Phuong th?c thanh toán</h2>
+        <h2 id="thanh-toan">6. Phuong th?c thanh toï¿½n</h2>
         
-        <p>UnlockTool.us h? tr? nhi?u phuong th?c thanh toán ti?n l?i:</p>
+        <p>UnlockTool.us h? tr? nhi?u phuong th?c thanh toï¿½n ti?n l?i:</p>
         
         <div class="payment-methods">
             <div class="payment-method">
                 <i class="fas fa-university"></i>
-                <span>Ngân hàng (QR Code)</span>
+                <span>Ngï¿½n hï¿½ng (QR Code)</span>
             </div>
             <div class="payment-method">
                 <i class="fas fa-wallet"></i>
@@ -435,114 +436,114 @@ $canonical_url = "https://www.unlocktool.us/articles/14-thue-unlocktool-gia-re.p
         </div>
         
         <div class="info-box">
-            <h4><i class="fas fa-info-circle"></i> Luu ý khi thanh toán</h4>
+            <h4><i class="fas fa-info-circle"></i> Luu ï¿½ khi thanh toï¿½n</h4>
             <ul class="mb-0">
-                <li>Chuy?n <strong>dúng s? ti?n</strong> hi?n th? trên mã QR</li>
-                <li>Nh?p <strong>dúng n?i dung</strong> chuy?n kho?n (mã giao d?ch)</li>
-                <li>H? th?ng xác nh?n t? d?ng trong <strong>1-30 giây</strong></li>
-                <li>N?u quá 2 phút chua nh?n du?c, liên h? h? tr?</li>
+                <li>Chuy?n <strong>dï¿½ng s? ti?n</strong> hi?n th? trï¿½n mï¿½ QR</li>
+                <li>Nh?p <strong>dï¿½ng n?i dung</strong> chuy?n kho?n (mï¿½ giao d?ch)</li>
+                <li>H? th?ng xï¿½c nh?n t? d?ng trong <strong>1-30 giï¿½y</strong></li>
+                <li>N?u quï¿½ 2 phï¿½t chua nh?n du?c, liï¿½n h? h? tr?</li>
             </ul>
         </div>
         
         <!-- Section 7 -->
-        <h2 id="danh-gia">7. Ðánh giá t? khách hàng</h2>
+        <h2 id="danh-gia">7. ï¿½ï¿½nh giï¿½ t? khï¿½ch hï¿½ng</h2>
         
         <div class="review-grid">
             <div class="review-card">
                 <div class="review-stars">?????</div>
-                <div class="review-text">"Thuê UnlockTool ? dây r?t nhanh, ch? 2 phút là có tài kho?n. Giá 8K mà m? du?c 5 máy Samsung FRP, quá dáng d?ng ti?n! S? quay l?i thuê ti?p."</div>
-                <div class="review-author">- Anh Minh, K? thu?t viên t?i Hà N?i</div>
+                <div class="review-text">"Thuï¿½ UnlockTool ? dï¿½y r?t nhanh, ch? 2 phï¿½t lï¿½ cï¿½ tï¿½i kho?n. Giï¿½ 8K mï¿½ m? du?c 5 mï¿½y Samsung FRP, quï¿½ dï¿½ng d?ng ti?n! S? quay l?i thuï¿½ ti?p."</div>
+                <div class="review-author">- Anh Minh, K? thu?t viï¿½n t?i Hï¿½ N?i</div>
             </div>
             
             <div class="review-card">
                 <div class="review-stars">?????</div>
-                <div class="review-text">"H? th?ng t? d?ng 24/7 r?t ti?n, tôi thuê lúc 2h sáng cung nh?n du?c tài kho?n ngay. Không c?n d?i ai c?p nhu ch? khác. Recommended!"</div>
-                <div class="review-author">- Ch? Lan, Ch? c?a hàng TP.HCM</div>
+                <div class="review-text">"H? th?ng t? d?ng 24/7 r?t ti?n, tï¿½i thuï¿½ lï¿½c 2h sï¿½ng cung nh?n du?c tï¿½i kho?n ngay. Khï¿½ng c?n d?i ai c?p nhu ch? khï¿½c. Recommended!"</div>
+                <div class="review-author">- Ch? Lan, Ch? c?a hï¿½ng TP.HCM</div>
             </div>
             
             <div class="review-card">
                 <div class="review-stars">?????</div>
-                <div class="review-text">"Ban d?u d?nh tìm b?n crack, nhung d?c bài vi?t th?y r?i ro quá. Thuê 8K an toàn hon nhi?u, l?i còn có h? tr? khi g?p l?i. Quy?t d?nh dúng d?n!"</div>
-                <div class="review-author">- B?n Tùng, Sinh viên Ðà N?ng</div>
+                <div class="review-text">"Ban d?u d?nh tï¿½m b?n crack, nhung d?c bï¿½i vi?t th?y r?i ro quï¿½. Thuï¿½ 8K an toï¿½n hon nhi?u, l?i cï¿½n cï¿½ h? tr? khi g?p l?i. Quy?t d?nh dï¿½ng d?n!"</div>
+                <div class="review-author">- B?n Tï¿½ng, Sinh viï¿½n ï¿½ï¿½ N?ng</div>
             </div>
             
             <div class="review-card">
                 <div class="review-stars">?????</div>
-                <div class="review-text">"D?ch v? t?t, giá r?. Ch? có di?u th?nh tho?ng h?t tài kho?n ph?i ch?. Nhung overall 4/5 sao. S? ti?p t?c ?ng h?."</div>
-                <div class="review-author">- Anh Hoàng, K? thu?t viên C?n Tho</div>
+                <div class="review-text">"D?ch v? t?t, giï¿½ r?. Ch? cï¿½ di?u th?nh tho?ng h?t tï¿½i kho?n ph?i ch?. Nhung overall 4/5 sao. S? ti?p t?c ?ng h?."</div>
+                <div class="review-author">- Anh Hoï¿½ng, K? thu?t viï¿½n C?n Tho</div>
             </div>
         </div>
         
         <!-- Section 8 -->
-        <h2 id="luu-y">8. Luu ý khi thuê UnlockTool</h2>
+        <h2 id="luu-y">8. Luu ï¿½ khi thuï¿½ UnlockTool</h2>
         
         <ul>
-            <li><strong>T?i UnlockTool tru?c:</strong> Download UnlockTool t? <a href="https://file.unlocktool.net/page/index.php" target="_blank">file.unlocktool.net</a> và cài d?t driver tru?c khi thuê d? không m?t th?i gian.</li>
-            <li><strong>Chu?n b? s?n di?n tho?i:</strong> Ðua di?n tho?i vào mode phù h?p (Download Mode, EDL...) tru?c khi dang nh?p.</li>
-            <li><strong>Ch?n gói phù h?p:</strong> U?c tính s? máy c?n m?, thu?ng m?i máy m?t 5-15 phút. Gói 6 ti?ng d? cho 10-20 máy.</li>
-            <li><strong>Không share tài kho?n:</strong> M?i tài kho?n ch? dang nh?p du?c 1 máy tính. N?u c?n dùng nhi?u máy, thuê nhi?u tài kho?n.</li>
-            <li><strong>H?t gi? t? logout:</strong> Khi h?t th?i gian thuê, tài kho?n s? t? d?ng logout. Nh? hoàn thành công vi?c tru?c!</li>
+            <li><strong>T?i UnlockTool tru?c:</strong> Download UnlockTool t? <a href="https://file.unlocktool.net/page/index.php" target="_blank">file.unlocktool.net</a> vï¿½ cï¿½i d?t driver tru?c khi thuï¿½ d? khï¿½ng m?t th?i gian.</li>
+            <li><strong>Chu?n b? s?n di?n tho?i:</strong> ï¿½ua di?n tho?i vï¿½o mode phï¿½ h?p (Download Mode, EDL...) tru?c khi dang nh?p.</li>
+            <li><strong>Ch?n gï¿½i phï¿½ h?p:</strong> U?c tï¿½nh s? mï¿½y c?n m?, thu?ng m?i mï¿½y m?t 5-15 phï¿½t. Gï¿½i 6 ti?ng d? cho 10-20 mï¿½y.</li>
+            <li><strong>Khï¿½ng share tï¿½i kho?n:</strong> M?i tï¿½i kho?n ch? dang nh?p du?c 1 mï¿½y tï¿½nh. N?u c?n dï¿½ng nhi?u mï¿½y, thuï¿½ nhi?u tï¿½i kho?n.</li>
+            <li><strong>H?t gi? t? logout:</strong> Khi h?t th?i gian thuï¿½, tï¿½i kho?n s? t? d?ng logout. Nh? hoï¿½n thï¿½nh cï¿½ng vi?c tru?c!</li>
         </ul>
         
         <!-- Section 9: FAQ -->
-        <h2 id="faq">9. FAQ - Câu h?i thu?ng g?p</h2>
+        <h2 id="faq">9. FAQ - Cï¿½u h?i thu?ng g?p</h2>
         
         <div class="faq-item">
             <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                <span><i class="fas fa-question-circle"></i> Thuê UnlockTool ? dâu uy tín?</span>
+                <span><i class="fas fa-question-circle"></i> Thuï¿½ UnlockTool ? dï¿½u uy tï¿½n?</span>
                 <i class="fas fa-chevron-down"></i>
             </div>
             <div class="faq-answer">
-                <p>UnlockTool.us là d?a ch? thuê UnlockTool uy tín nh?t v?i h? th?ng t? d?ng 24/7, ho?t d?ng t? 2023 v?i hon 6.500 khách hàng tin dùng.</p>
+                <p>UnlockTool.us lï¿½ d?a ch? thuï¿½ UnlockTool uy tï¿½n nh?t v?i h? th?ng t? d?ng 24/7, ho?t d?ng t? 2023 v?i hon 6.500 khï¿½ch hï¿½ng tin dï¿½ng.</p>
             </div>
         </div>
         
         <div class="faq-item">
             <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                <span><i class="fas fa-question-circle"></i> Tài kho?n thuê có d?y d? tính nang không?</span>
+                <span><i class="fas fa-question-circle"></i> Tï¿½i kho?n thuï¿½ cï¿½ d?y d? tï¿½nh nang khï¿½ng?</span>
                 <i class="fas fa-chevron-down"></i>
             </div>
             <div class="faq-answer">
-                <p>Có! T?t c? tài kho?n cho thuê t?i UnlockTool.us d?u là premium, có d?y d? 100% tính nang nhu mua license: FRP Remove, Mi Account, iCloud Bypass, Flash ROM...</p>
+                <p>Cï¿½! T?t c? tï¿½i kho?n cho thuï¿½ t?i UnlockTool.us d?u lï¿½ premium, cï¿½ d?y d? 100% tï¿½nh nang nhu mua license: FRP Remove, Mi Account, iCloud Bypass, Flash ROM...</p>
             </div>
         </div>
         
         <div class="faq-item">
             <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                <span><i class="fas fa-question-circle"></i> H?t gi? thuê thì sao?</span>
+                <span><i class="fas fa-question-circle"></i> H?t gi? thuï¿½ thï¿½ sao?</span>
                 <i class="fas fa-chevron-down"></i>
             </div>
             <div class="faq-answer">
-                <p>Khi h?t th?i gian thuê, tài kho?n s? t? d?ng logout. B?n có th? thuê ti?p tài kho?n m?i b?t c? lúc nào c?n s? d?ng.</p>
+                <p>Khi h?t th?i gian thuï¿½, tï¿½i kho?n s? t? d?ng logout. B?n cï¿½ th? thuï¿½ ti?p tï¿½i kho?n m?i b?t c? lï¿½c nï¿½o c?n s? d?ng.</p>
             </div>
         </div>
         
         <div class="faq-item">
             <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                <span><i class="fas fa-question-circle"></i> Thuê bao lâu nh?n du?c tài kho?n?</span>
+                <span><i class="fas fa-question-circle"></i> Thuï¿½ bao lï¿½u nh?n du?c tï¿½i kho?n?</span>
                 <i class="fas fa-chevron-down"></i>
             </div>
             <div class="faq-answer">
-                <p>Ngay sau khi thanh toán thành công (1-30 giây xác nh?n), h? th?ng t? d?ng hi?n th? Username/Password. Hoàn toàn t? d?ng, không c?n ch? d?i.</p>
+                <p>Ngay sau khi thanh toï¿½n thï¿½nh cï¿½ng (1-30 giï¿½y xï¿½c nh?n), h? th?ng t? d?ng hi?n th? Username/Password. Hoï¿½n toï¿½n t? d?ng, khï¿½ng c?n ch? d?i.</p>
             </div>
         </div>
         
         <div class="faq-item">
             <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                <span><i class="fas fa-question-circle"></i> Có h? tr? k? thu?t không?</span>
+                <span><i class="fas fa-question-circle"></i> Cï¿½ h? tr? k? thu?t khï¿½ng?</span>
                 <i class="fas fa-chevron-down"></i>
             </div>
             <div class="faq-answer">
-                <p>Có! Ð?i ngu h? tr? s?n sàng giúp d? qua Zalo, di?n tho?i trong gi? hành chính. N?u g?p v?n d? v? tài kho?n ho?c k? thu?t, liên h? ngay d? du?c h? tr?.</p>
+                <p>Cï¿½! ï¿½?i ngu h? tr? s?n sï¿½ng giï¿½p d? qua Zalo, di?n tho?i trong gi? hï¿½nh chï¿½nh. N?u g?p v?n d? v? tï¿½i kho?n ho?c k? thu?t, liï¿½n h? ngay d? du?c h? tr?.</p>
             </div>
         </div>
         
         <!-- Final CTA -->
         <div class="hero-cta">
-            <h3><i class="fas fa-rocket"></i> Thuê UnlockTool Ngay Hôm Nay!</h3>
-            <p>Giá ch? t? 8.000d | T? d?ng 24/7 | Nh?n tài kho?n ngay!</p>
+            <h3><i class="fas fa-rocket"></i> Thuï¿½ UnlockTool Ngay Hï¿½m Nay!</h3>
+            <p>Giï¿½ ch? t? 8.000d | T? d?ng 24/7 | Nh?n tï¿½i kho?n ngay!</p>
             <a href="https://www.unlocktool.us/" class="cta-btn">
-                <i class="fas fa-key"></i> Thuê T?i UnlockTool.us
+                <i class="fas fa-key"></i> Thuï¿½ T?i UnlockTool.us
             </a>
             <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="cta-btn">
                 <i class="fas fa-download"></i> T?i UnlockTool
@@ -550,10 +551,10 @@ $canonical_url = "https://www.unlocktool.us/articles/14-thue-unlocktool-gia-re.p
         </div>
         
         <!-- Related -->
-        <h2>Bài vi?t liên quan</h2>
+        <h2>Bï¿½i vi?t liï¿½n quan</h2>
         <ul>
-            <li><a href="24-thue-tai-khoan-unlocktool.php">Thuê tài kho?n UnlockTool 24/7</a></li>
-            <li><a href="15-unlocktool-gia-bao-nhieu.php">UnlockTool giá bao nhiêu?</a></li>
+            <li><a href="24-thue-tai-khoan-unlocktool.php">Thuï¿½ tï¿½i kho?n UnlockTool 24/7</a></li>
+            <li><a href="15-unlocktool-gia-bao-nhieu.php">UnlockTool giï¿½ bao nhiï¿½u?</a></li>
             <li><a href="22-mua-unlocktool.php">Hu?ng d?n mua UnlockTool</a></li>
             <li><a href="11-unlocktool-download.php">Download UnlockTool</a></li>
         </ul>
@@ -568,7 +569,7 @@ $canonical_url = "https://www.unlocktool.us/articles/14-thue-unlocktool-gia-re.p
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bài vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bï¿½i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -582,7 +583,7 @@ $canonical_url = "https://www.unlocktool.us/articles/14-thue-unlocktool-gia-re.p
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài vi?t liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bï¿½i vi?t liï¿½n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
@@ -617,7 +618,7 @@ $canonical_url = "https://www.unlocktool.us/articles/14-thue-unlocktool-gia-re.p
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Ð?i ngu k? thu?t viên chuyên nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khóa di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">ï¿½?i ngu k? thu?t viï¿½n chuyï¿½n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khï¿½a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -625,9 +626,9 @@ $canonical_url = "https://www.unlocktool.us/articles/14-thue-unlocktool-gia-re.p
 </div>
 <footer>
     <div class="container text-center">
-        <p><strong>UnlockTool.us</strong> - D?ch v? cho thuê tài kho?n UnlockTool uy tín nh?t Vi?t Nam</p>
+        <p><strong>UnlockTool.us</strong> - D?ch v? cho thuï¿½ tï¿½i kho?n UnlockTool uy tï¿½n nh?t Vi?t Nam</p>
         <p>H? tr?: <a href="https://www.unlocktool.us/">www.unlocktool.us</a></p>
-        <p class="mb-0">© 2026 UnlockTool.us - All rights reserved</p>
+        <p class="mb-0">ï¿½ 2026 UnlockTool.us - All rights reserved</p>
     </div>
 </footer>
 

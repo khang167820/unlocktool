@@ -1,7 +1,7 @@
-<?php
-$page_title = "?n iCloud iPhone 2026 - Hide iCloud | Thuê Tool 8K/6H";
-$page_description = "D?ch v? ?n iCloud iPhone - Hide iCloud. So sánh ?n iCloud vs Off iCloud vs Bypass iCloud. Thuê tool 8.000d/6h t?i UnlockTool.us ho?c d?ch v? t? 100.000d";
-$page_keywords = "?n icloud, hide icloud, ?n icloud iphone, d?ch v? ?n icloud, icloud hide, icloud không hi?n";
+ï»¿<?php
+$page_title = "?n iCloud iPhone 2026 - Hide iCloud | Thuï¿½ Tool 8K/6H";
+$page_description = "D?ch v? ?n iCloud iPhone - Hide iCloud. So sï¿½nh ?n iCloud vs Off iCloud vs Bypass iCloud. Thuï¿½ tool 8.000d/6h t?i UnlockTool.us ho?c d?ch v? t? 100.000d";
+$page_keywords = "?n icloud, hide icloud, ?n icloud iphone, d?ch v? ?n icloud, icloud hide, icloud khï¿½ng hi?n";
 $canonical_url = "https://www.unlocktool.us/articles/52-an-icloud-iphone.php";
 ?>
 <!DOCTYPE html>
@@ -21,16 +21,17 @@ $canonical_url = "https://www.unlocktool.us/articles/52-an-icloud-iphone.php";
     <link rel="canonical" href="<?php echo $canonical_url; ?>">\n    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">">
     <meta property="og:title" content="<?php echo $page_title; ?>">
-    <meta property="og:description" content="<?php echo $page_description; ?>">
+    <meta property="og:description" content="<?php echo $page_description; ?>
+    <meta property="og:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
     
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Article","headline":"<?php echo $page_title; ?>","author":{"@type":"Organization","name":"UnlockTool.us"},"datePublished":"2026-01-25"}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"?n iCloud là gì?","acceptedAnswer":{"@type":"Answer","text":"?n iCloud (Hide iCloud) là phuong pháp bypass iCloud mà khi check IMEI s? không hi?n tr?ng thái iCloud Lost/OFF, giúp máy d? bán l?i hon."}},
-        {"@type":"Question","name":"?n iCloud khác gì Off iCloud?","acceptedAnswer":{"@type":"Answer","text":"Off iCloud (Clean) g? iCloud hoàn toàn kh?i server Apple. ?n iCloud ch? che tr?ng thái khi check, iCloud v?n còn trên server nhung máy v?n dùng du?c."}},
-        {"@type":"Question","name":"Giá ?n iCloud bao nhiêu?","acceptedAnswer":{"@type":"Answer","text":"Thuê tool ?n iCloud: 8.000d/6h t?i UnlockTool.us. D?ch v? k? thu?t t? 100.000d t?i Thuetaikhoan.net."}}
+        {"@type":"Question","name":"?n iCloud lï¿½ gï¿½?","acceptedAnswer":{"@type":"Answer","text":"?n iCloud (Hide iCloud) lï¿½ phuong phï¿½p bypass iCloud mï¿½ khi check IMEI s? khï¿½ng hi?n tr?ng thï¿½i iCloud Lost/OFF, giï¿½p mï¿½y d? bï¿½n l?i hon."}},
+        {"@type":"Question","name":"?n iCloud khï¿½c gï¿½ Off iCloud?","acceptedAnswer":{"@type":"Answer","text":"Off iCloud (Clean) g? iCloud hoï¿½n toï¿½n kh?i server Apple. ?n iCloud ch? che tr?ng thï¿½i khi check, iCloud v?n cï¿½n trï¿½n server nhung mï¿½y v?n dï¿½ng du?c."}},
+        {"@type":"Question","name":"Giï¿½ ?n iCloud bao nhiï¿½u?","acceptedAnswer":{"@type":"Answer","text":"Thuï¿½ tool ?n iCloud: 8.000d/6h t?i UnlockTool.us. D?ch v? k? thu?t t? 100.000d t?i Thuetaikhoan.net."}}
     ]}
     </script>
     
@@ -106,7 +107,7 @@ $canonical_url = "https://www.unlocktool.us/articles/52-an-icloud-iphone.php";
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? khóa di?n tho?i",
+        "name": "D?ch v? m? khï¿½a di?n tho?i",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -124,7 +125,7 @@ $canonical_url = "https://www.unlocktool.us/articles/52-an-icloud-iphone.php";
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
             <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bï¿½i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -132,9 +133,9 @@ $canonical_url = "https://www.unlocktool.us/articles/52-an-icloud-iphone.php";
 <section class="hero-section">
     <div class="container">
         <h1><i class="fas fa-eye-slash me-3"></i><?php echo $page_title; ?></h1>
-        <p class="lead">?n tr?ng thái iCloud - D? bán l?i, d? s? d?ng!</p>
+        <p class="lead">?n tr?ng thï¿½i iCloud - D? bï¿½n l?i, d? s? d?ng!</p>
         <div class="mt-4">
-            <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg me-2">Thuê Tool - 8K/6H</a>
+            <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg me-2">Thuï¿½ Tool - 8K/6H</a>
             <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg">D?ch V? - 100K</a>
         </div>
     </div>
@@ -147,37 +148,37 @@ $canonical_url = "https://www.unlocktool.us/articles/52-an-icloud-iphone.php";
             <div class="toc">
                 <h5><i class="fas fa-list me-2"></i>M?c l?c</h5>
                 <ul>
-                    <li><a href="#an-icloud">1. ?n iCloud là gì?</a></li>
-                    <li><a href="#so-sanh">2. So sánh Bypass vs ?n vs Off iCloud</a></li>
-                    <li><a href="#khi-nao">3. Khi nào nên ?n iCloud?</a></li>
+                    <li><a href="#an-icloud">1. ?n iCloud lï¿½ gï¿½?</a></li>
+                    <li><a href="#so-sanh">2. So sï¿½nh Bypass vs ?n vs Off iCloud</a></li>
+                    <li><a href="#khi-nao">3. Khi nï¿½o nï¿½n ?n iCloud?</a></li>
                     <li><a href="#huong-dan">4. Hu?ng d?n ?n iCloud</a></li>
-                    <li><a href="#dich-vu">5. Thuê tool / D?ch v?</a></li>
+                    <li><a href="#dich-vu">5. Thuï¿½ tool / D?ch v?</a></li>
                     <li><a href="#faq">6. FAQ</a></li>
                 </ul>
             </div>
 
             <section id="an-icloud" class="mt-5">
-                <h2><i class="fas fa-info-circle text-primary me-2"></i>1. ?n iCloud Là Gì?</h2>
+                <h2><i class="fas fa-info-circle text-primary me-2"></i>1. ?n iCloud Lï¿½ Gï¿½?</h2>
                 
-                <p><strong>?n iCloud</strong> (Hide iCloud) là m?t phuong pháp x? lý iPhone b? khóa iCloud (Activation Lock) sao cho khi check IMEI trên các trang web ki?m tra, máy s? hi?n th? tr?ng thái <strong>"Clean"</strong> ho?c <strong>"OFF"</strong> thay vì "ON" ho?c "Lost Mode".</p>
+                <p><strong>?n iCloud</strong> (Hide iCloud) lï¿½ m?t phuong phï¿½p x? lï¿½ iPhone b? khï¿½a iCloud (Activation Lock) sao cho khi check IMEI trï¿½n cï¿½c trang web ki?m tra, mï¿½y s? hi?n th? tr?ng thï¿½i <strong>"Clean"</strong> ho?c <strong>"OFF"</strong> thay vï¿½ "ON" ho?c "Lost Mode".</p>
 
                 <div class="info-box">
                     <h5><i class="fas fa-lightbulb me-2"></i>B?n ch?t c?a ?n iCloud</h5>
                     <ul class="mb-0">
-                        <li>iCloud th?c t? <strong>v?n còn trên server Apple</strong></li>
-                        <li>Máy dã du?c bypass nên <strong>v?n s? d?ng du?c bình thu?ng</strong></li>
-                        <li>Khi check IMEI s? <strong>không hi?n tr?ng thái iCloud</strong> ho?c hi?n Clean</li>
-                        <li>Giúp máy <strong>d? bán l?i hon</strong> vì ngu?i mua check th?y s?ch</li>
+                        <li>iCloud th?c t? <strong>v?n cï¿½n trï¿½n server Apple</strong></li>
+                        <li>Mï¿½y dï¿½ du?c bypass nï¿½n <strong>v?n s? d?ng du?c bï¿½nh thu?ng</strong></li>
+                        <li>Khi check IMEI s? <strong>khï¿½ng hi?n tr?ng thï¿½i iCloud</strong> ho?c hi?n Clean</li>
+                        <li>Giï¿½p mï¿½y <strong>d? bï¿½n l?i hon</strong> vï¿½ ngu?i mua check th?y s?ch</li>
                     </ul>
                 </div>
 
                 <h3>1.1. T?i sao c?n ?n iCloud?</h3>
-                <p>Khi b?n mua iPhone bypass iCloud (Hello Screen bypass), máy v?n dùng du?c nhung khi check IMEI s? hi?n "Find My: ON" ho?c "Lost Mode". Ði?u này gây khó khan khi b?n mu?n bán l?i vì ngu?i mua s? nghi ng?.</p>
-                <p>?n iCloud giúp che tr?ng thái này, máy check ra "Clean" nhu iPhone qu?c t? bình thu?ng.</p>
+                <p>Khi b?n mua iPhone bypass iCloud (Hello Screen bypass), mï¿½y v?n dï¿½ng du?c nhung khi check IMEI s? hi?n "Find My: ON" ho?c "Lost Mode". ï¿½i?u nï¿½y gï¿½y khï¿½ khan khi b?n mu?n bï¿½n l?i vï¿½ ngu?i mua s? nghi ng?.</p>
+                <p>?n iCloud giï¿½p che tr?ng thï¿½i nï¿½y, mï¿½y check ra "Clean" nhu iPhone qu?c t? bï¿½nh thu?ng.</p>
             </section>
 
             <section id="so-sanh" class="mt-5">
-                <h2><i class="fas fa-balance-scale text-primary me-2"></i>2. So Sánh Bypass vs ?n vs Off iCloud</h2>
+                <h2><i class="fas fa-balance-scale text-primary me-2"></i>2. So Sï¿½nh Bypass vs ?n vs Off iCloud</h2>
 
                 <div class="row">
                     <div class="col-md-4 mb-4">
@@ -185,12 +186,12 @@ $canonical_url = "https://www.unlocktool.us/articles/52-an-icloud-iphone.php";
                             <h5 class="text-info"><i class="fas fa-play-circle me-2"></i>Bypass iCloud</h5>
                             <hr>
                             <ul class="small">
-                                <li>B? qua màn hình khóa iCloud</li>
-                                <li>Máy dùng du?c nhung có h?n ch?</li>
+                                <li>B? qua mï¿½n hï¿½nh khï¿½a iCloud</li>
+                                <li>Mï¿½y dï¿½ng du?c nhung cï¿½ h?n ch?</li>
                                 <li>Check IMEI v?n hi?n iCloud ON</li>
-                                <li>Có th? m?t khi update/reset</li>
+                                <li>Cï¿½ th? m?t khi update/reset</li>
                             </ul>
-                            <p class="fw-bold text-info">Giá: 8.000d/6H</p>
+                            <p class="fw-bold text-info">Giï¿½: 8.000d/6H</p>
                         </div>
                     </div>
                     <div class="col-md-4 mb-4">
@@ -199,12 +200,12 @@ $canonical_url = "https://www.unlocktool.us/articles/52-an-icloud-iphone.php";
                             <h5 class="text-primary"><i class="fas fa-eye-slash me-2"></i>?n iCloud</h5>
                             <hr>
                             <ul class="small">
-                                <li>Bypass + ?n tr?ng thái</li>
+                                <li>Bypass + ?n tr?ng thï¿½i</li>
                                 <li>Check IMEI hi?n Clean</li>
-                                <li>D? bán l?i hon</li>
-                                <li>iCloud v?n còn trên server</li>
+                                <li>D? bï¿½n l?i hon</li>
+                                <li>iCloud v?n cï¿½n trï¿½n server</li>
                             </ul>
-                            <p class="fw-bold text-primary">Giá: 100.000d+</p>
+                            <p class="fw-bold text-primary">Giï¿½: 100.000d+</p>
                         </div>
                     </div>
                     <div class="col-md-4 mb-4">
@@ -212,12 +213,12 @@ $canonical_url = "https://www.unlocktool.us/articles/52-an-icloud-iphone.php";
                             <h5 class="text-success"><i class="fas fa-check-circle me-2"></i>Off iCloud</h5>
                             <hr>
                             <ul class="small">
-                                <li>G? iCloud hoàn toàn kh?i server</li>
-                                <li>Máy nhu qu?c t? chính hãng</li>
+                                <li>G? iCloud hoï¿½n toï¿½n kh?i server</li>
+                                <li>Mï¿½y nhu qu?c t? chï¿½nh hï¿½ng</li>
                                 <li>Check IMEI s?ch vinh vi?n</li>
-                                <li>Giá cao nh?t</li>
+                                <li>Giï¿½ cao nh?t</li>
                             </ul>
-                            <p class="fw-bold text-success">Giá: 500K - 3 tri?u</p>
+                            <p class="fw-bold text-success">Giï¿½: 500K - 3 tri?u</p>
                         </div>
                     </div>
                 </div>
@@ -225,7 +226,7 @@ $canonical_url = "https://www.unlocktool.us/articles/52-an-icloud-iphone.php";
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Tiêu chí</th>
+                            <th>Tiï¿½u chï¿½</th>
                             <th>Bypass</th>
                             <th>?n (Hide)</th>
                             <th>Off (Clean)</th>
@@ -240,18 +241,18 @@ $canonical_url = "https://www.unlocktool.us/articles/52-an-icloud-iphone.php";
                         </tr>
                         <tr>
                             <td>S? d?ng</td>
-                            <td>Ðu?c, có h?n ch?</td>
-                            <td>Ðu?c, có h?n ch?</td>
-                            <td>Ð?y d? tính nang</td>
+                            <td>ï¿½u?c, cï¿½ h?n ch?</td>
+                            <td>ï¿½u?c, cï¿½ h?n ch?</td>
+                            <td>ï¿½?y d? tï¿½nh nang</td>
                         </tr>
                         <tr>
-                            <td>Bán l?i</td>
-                            <td class="text-danger">Khó</td>
+                            <td>Bï¿½n l?i</td>
+                            <td class="text-danger">Khï¿½</td>
                             <td class="text-primary">D? hon</td>
                             <td class="text-success">D? nh?t</td>
                         </tr>
                         <tr>
-                            <td>Giá</td>
+                            <td>Giï¿½</td>
                             <td>8K/6H (tool)</td>
                             <td>100K+</td>
                             <td>500K - 3 tri?u</td>
@@ -261,24 +262,24 @@ $canonical_url = "https://www.unlocktool.us/articles/52-an-icloud-iphone.php";
             </section>
 
             <section id="khi-nao" class="mt-5">
-                <h2><i class="fas fa-question-circle text-primary me-2"></i>3. Khi Nào Nên ?n iCloud?</h2>
+                <h2><i class="fas fa-question-circle text-primary me-2"></i>3. Khi Nï¿½o Nï¿½n ?n iCloud?</h2>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-thumbs-up me-2"></i>Nên ?n iCloud khi:</h5>
+                    <h5><i class="fas fa-thumbs-up me-2"></i>Nï¿½n ?n iCloud khi:</h5>
                     <ul class="mb-0">
-                        <li>B?n có iPhone bypass và mu?n bán l?i</li>
-                        <li>Không d? ngân sách Off iCloud (vài tri?u)</li>
-                        <li>Ch? c?n máy check ra Clean d? d? giao d?ch</li>
-                        <li>Máy s? d?ng ?n d?nh, không c?n tính nang cao c?p</li>
+                        <li>B?n cï¿½ iPhone bypass vï¿½ mu?n bï¿½n l?i</li>
+                        <li>Khï¿½ng d? ngï¿½n sï¿½ch Off iCloud (vï¿½i tri?u)</li>
+                        <li>Ch? c?n mï¿½y check ra Clean d? d? giao d?ch</li>
+                        <li>Mï¿½y s? d?ng ?n d?nh, khï¿½ng c?n tï¿½nh nang cao c?p</li>
                     </ul>
                 </div>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Không nên ?n iCloud khi:</h5>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Khï¿½ng nï¿½n ?n iCloud khi:</h5>
                     <ul class="mb-0">
-                        <li>B?n c?n máy hoàn toàn s?ch (di du l?ch nu?c ngoài, qua an ninh...)</li>
-                        <li>C?n s? d?ng d?y d? tính nang Apple ID</li>
-                        <li>Có ngân sách Off iCloud (gi?i pháp t?t hon)</li>
+                        <li>B?n c?n mï¿½y hoï¿½n toï¿½n s?ch (di du l?ch nu?c ngoï¿½i, qua an ninh...)</li>
+                        <li>C?n s? d?ng d?y d? tï¿½nh nang Apple ID</li>
+                        <li>Cï¿½ ngï¿½n sï¿½ch Off iCloud (gi?i phï¿½p t?t hon)</li>
                     </ul>
                 </div>
             </section>
@@ -286,38 +287,38 @@ $canonical_url = "https://www.unlocktool.us/articles/52-an-icloud-iphone.php";
             <section id="huong-dan" class="mt-5">
                 <h2><i class="fas fa-book text-primary me-2"></i>4. Hu?ng D?n ?n iCloud</h2>
 
-                <p>?n iCloud là quy trình k? thu?t ph?c t?p, bao g?m:</p>
+                <p>?n iCloud lï¿½ quy trï¿½nh k? thu?t ph?c t?p, bao g?m:</p>
                 <ol>
                     <li>Bypass iCloud (Hello Screen)</li>
-                    <li>S?a d?i thông tin d? ?n tr?ng thái khi check</li>
-                    <li>Ki?m tra l?i b?ng các trang check IMEI</li>
+                    <li>S?a d?i thï¿½ng tin d? ?n tr?ng thï¿½i khi check</li>
+                    <li>Ki?m tra l?i b?ng cï¿½c trang check IMEI</li>
                 </ol>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-tools me-2"></i>Công c? c?n thi?t</h5>
+                    <h5><i class="fas fa-tools me-2"></i>Cï¿½ng c? c?n thi?t</h5>
                     <ul class="mb-0">
                         <li>Tool bypass iCloud (UnlockTool, iRemoval...)</li>
-                        <li>Máy tính Windows/Mac</li>
-                        <li>Cáp USB</li>
-                        <li>K? thu?t và kinh nghi?m</li>
+                        <li>Mï¿½y tï¿½nh Windows/Mac</li>
+                        <li>Cï¿½p USB</li>
+                        <li>K? thu?t vï¿½ kinh nghi?m</li>
                     </ul>
                 </div>
 
                 <div class="danger-box">
                     <h5><i class="fas fa-user-shield me-2"></i>Khuy?n ngh?</h5>
-                    <p class="mb-0">Do quy trình ph?c t?p, khuy?n ngh? s? d?ng <strong>d?ch v? k? thu?t</strong> t?i <a href="https://thuetaikhoan.net" target="_blank" class="text-danger">Thuetaikhoan.net</a> thay vì t? làm. Th? có kinh nghi?m s? x? lý nhanh và d?m b?o k?t qu?.</p>
+                    <p class="mb-0">Do quy trï¿½nh ph?c t?p, khuy?n ngh? s? d?ng <strong>d?ch v? k? thu?t</strong> t?i <a href="https://thuetaikhoan.net" target="_blank" class="text-danger">Thuetaikhoan.net</a> thay vï¿½ t? lï¿½m. Th? cï¿½ kinh nghi?m s? x? lï¿½ nhanh vï¿½ d?m b?o k?t qu?.</p>
                 </div>
             </section>
 
             <section id="dich-vu" class="mt-5">
-                <h2><i class="fas fa-shopping-cart text-primary me-2"></i>5. Thuê Tool / D?ch V? ?n iCloud</h2>
+                <h2><i class="fas fa-shopping-cart text-primary me-2"></i>5. Thuï¿½ Tool / D?ch V? ?n iCloud</h2>
 
                 <div class="row">
                     <div class="col-md-6 mb-4">
                         <div class="price-highlight h-100">
-                            <h4><i class="fas fa-laptop me-2"></i>Bypass (T? làm)</h4>
+                            <h4><i class="fas fa-laptop me-2"></i>Bypass (T? lï¿½m)</h4>
                             <p class="price">8.000d/6H</p>
-                            <p>Bypass không ?n</p>
+                            <p>Bypass khï¿½ng ?n</p>
                             <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light">UnlockTool.us</a>
                         </div>
                     </div>
@@ -325,7 +326,7 @@ $canonical_url = "https://www.unlocktool.us/articles/52-an-icloud-iphone.php";
                         <div class="service-cta h-100">
                             <h4><i class="fas fa-eye-slash me-2"></i>?n iCloud</h4>
                             <p class="h3 fw-bold">T? 100.000d</p>
-                            <p>Bypass + ?n tr?ng thái</p>
+                            <p>Bypass + ?n tr?ng thï¿½i</p>
                             <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light">Thuetaikhoan.net</a>
                         </div>
                     </div>
@@ -333,45 +334,45 @@ $canonical_url = "https://www.unlocktool.us/articles/52-an-icloud-iphone.php";
 
                 <div class="success-box">
                     <h5><i class="fas fa-star me-2"></i>D?ch v? Off iCloud (Khuy?n ngh?)</h5>
-                    <p>N?u có ngân sách, nên ch?n <strong>Off iCloud</strong> (Clean iCloud) d? máy s?ch hoàn toàn. Giá t? 500.000d - 3.000.000d tùy model.</p>
+                    <p>N?u cï¿½ ngï¿½n sï¿½ch, nï¿½n ch?n <strong>Off iCloud</strong> (Clean iCloud) d? mï¿½y s?ch hoï¿½n toï¿½n. Giï¿½ t? 500.000d - 3.000.000d tï¿½y model.</p>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-success">Xem D?ch V? Off iCloud</a>
                 </div>
             </section>
 
             <section id="faq" class="mt-5">
-                <h2><i class="fas fa-question-circle text-primary me-2"></i>6. Câu H?i Thu?ng G?p</h2>
+                <h2><i class="fas fa-question-circle text-primary me-2"></i>6. Cï¿½u H?i Thu?ng G?p</h2>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>?n iCloud có vinh vi?n không?</span>
+                        <span>?n iCloud cï¿½ vinh vi?n khï¿½ng?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Tùy phuong pháp. M?t s? cách ?n có th? b? "l?" khi Apple c?p nh?t database ho?c khi check b?ng công c? khác. Off iCloud là gi?i pháp vinh vi?n hon.</p>
+                        <p>Tï¿½y phuong phï¿½p. M?t s? cï¿½ch ?n cï¿½ th? b? "l?" khi Apple c?p nh?t database ho?c khi check b?ng cï¿½ng c? khï¿½c. Off iCloud lï¿½ gi?i phï¿½p vinh vi?n hon.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>?n iCloud có an toàn không?</span>
+                        <span>?n iCloud cï¿½ an toï¿½n khï¿½ng?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Máy v?n s? d?ng du?c bình thu?ng. Tuy nhiên, n?u ai dó check IMEI b?ng nhi?u ngu?n khác nhau, có th? phát hi?n máy t?ng b? iCloud.</p>
+                        <p>Mï¿½y v?n s? d?ng du?c bï¿½nh thu?ng. Tuy nhiï¿½n, n?u ai dï¿½ check IMEI b?ng nhi?u ngu?n khï¿½c nhau, cï¿½ th? phï¿½t hi?n mï¿½y t?ng b? iCloud.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Nên ?n hay Off iCloud?</span>
+                        <span>Nï¿½n ?n hay Off iCloud?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>N?u có ngân sách, nên Off iCloud (Clean) d? máy s?ch hoàn toàn. ?n iCloud là gi?i pháp t?m th?i khi không d? ti?n Off.</p>
+                        <p>N?u cï¿½ ngï¿½n sï¿½ch, nï¿½n Off iCloud (Clean) d? mï¿½y s?ch hoï¿½n toï¿½n. ?n iCloud lï¿½ gi?i phï¿½p t?m th?i khi khï¿½ng d? ti?n Off.</p>
                     </div>
                 </div>
             </section>
 
             <section class="mt-5">
                 <h2><i class="fas fa-flag-checkered text-primary me-2"></i>K?t Lu?n</h2>
-                <p>?n iCloud là gi?i pháp trung gian gi?a Bypass và Off iCloud. N?u c?n bán l?i iPhone bypass mà không d? ti?n Off iCloud, ?n iCloud là l?a ch?n h?p lý. Liên h? <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a> d? du?c tu v?n gi?i pháp phù h?p nh?t!</p>
+                <p>?n iCloud lï¿½ gi?i phï¿½p trung gian gi?a Bypass vï¿½ Off iCloud. N?u c?n bï¿½n l?i iPhone bypass mï¿½ khï¿½ng d? ti?n Off iCloud, ?n iCloud lï¿½ l?a ch?n h?p lï¿½. Liï¿½n h? <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a> d? du?c tu v?n gi?i phï¿½p phï¿½ h?p nh?t!</p>
                 
                 <div class="text-center mt-4">
                     <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-icloud btn-lg me-2 mb-2">Bypass - 8K/6H</a>
@@ -385,20 +386,20 @@ $canonical_url = "https://www.unlocktool.us/articles/52-an-icloud-iphone.php";
                 <div class="price-highlight mb-4">
                     <h5>?n iCloud</h5>
                     <p class="price">100K+</p>
-                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light w-100">Ð?t D?ch V?</a>
+                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light w-100">ï¿½?t D?ch V?</a>
                 </div>
                 <div class="card mb-4">
                     <div class="card-header bg-success text-white">Off iCloud</div>
                     <div class="card-body">
-                        <p class="small">Clean iCloud hoàn toàn</p>
+                        <p class="small">Clean iCloud hoï¿½n toï¿½n</p>
                         <p class="h5 fw-bold">500K - 3 tri?u</p>
-                        <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-success w-100">Liên H?</a>
+                        <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-success w-100">Liï¿½n H?</a>
                     </div>
                 </div>
                 <div class="card">
                     <div class="card-header">Bypass iCloud</div>
                     <div class="card-body">
-                        <p class="small">Thuê tool t? bypass</p>
+                        <p class="small">Thuï¿½ tool t? bypass</p>
                         <p class="h5 fw-bold">8.000d/6H</p>
                         <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-outline-primary w-100">UnlockTool.us</a>
                     </div>
@@ -415,7 +416,7 @@ $canonical_url = "https://www.unlocktool.us/articles/52-an-icloud-iphone.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bài vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bï¿½i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -429,7 +430,7 @@ $canonical_url = "https://www.unlocktool.us/articles/52-an-icloud-iphone.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài vi?t liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bï¿½i vi?t liï¿½n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
@@ -464,7 +465,7 @@ $canonical_url = "https://www.unlocktool.us/articles/52-an-icloud-iphone.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Ð?i ngu k? thu?t viên chuyên nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khóa di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">ï¿½?i ngu k? thu?t viï¿½n chuyï¿½n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khï¿½a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         

@@ -1,7 +1,7 @@
-<?php
-$page_title = "MDM Remove iPhone 2026 - Xóa Qu?n Lý Thi?t B? Di Ð?ng | Thuê Tool 8K";
-$page_description = "Hu?ng d?n MDM Remove iPhone - Xóa Mobile Device Management. G? c?u hình MDM, xóa Remote Management. Thuê tool MDM Remove 8.000d/6h ho?c d?ch v? t? 100.000d t?i Thuetaikhoan.net";
-$page_keywords = "mdm remove iphone, xóa mdm iphone, remote management, g? mdm, mobile device management, mdm bypass";
+ï»¿<?php
+$page_title = "MDM Remove iPhone 2026 - Xï¿½a Qu?n Lï¿½ Thi?t B? Di ï¿½?ng | Thuï¿½ Tool 8K";
+$page_description = "Hu?ng d?n MDM Remove iPhone - Xï¿½a Mobile Device Management. G? c?u hï¿½nh MDM, xï¿½a Remote Management. Thuï¿½ tool MDM Remove 8.000d/6h ho?c d?ch v? t? 100.000d t?i Thuetaikhoan.net";
+$page_keywords = "mdm remove iphone, xï¿½a mdm iphone, remote management, g? mdm, mobile device management, mdm bypass";
 $canonical_url = "https://www.unlocktool.us/articles/48-mdm-remove-iphone.php";
 ?>
 <!DOCTYPE html>
@@ -21,24 +21,25 @@ $canonical_url = "https://www.unlocktool.us/articles/48-mdm-remove-iphone.php";
     <link rel="canonical" href="<?php echo $canonical_url; ?>">\n    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">">
     <meta property="og:title" content="<?php echo $page_title; ?>">
-    <meta property="og:description" content="<?php echo $page_description; ?>">
+    <meta property="og:description" content="<?php echo $page_description; ?>
+    <meta property="og:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
     
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Article","headline":"<?php echo $page_title; ?>","author":{"@type":"Organization","name":"UnlockTool.us"},"datePublished":"2026-01-25"}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"HowTo","name":"Cách xóa MDM iPhone","step":[
-        {"@type":"HowToStep","name":"Ki?m tra MDM","text":"Vào Settings > General > VPN & Device Management d? ki?m tra"},
-        {"@type":"HowToStep","name":"Thuê tool","text":"Thuê tool MDM Remove t?i UnlockTool.us v?i giá 8.000d/6h"},
-        {"@type":"HowToStep","name":"Ch?y tool","text":"K?t n?i iPhone v?i máy tính và ch?y tool xóa MDM"},
-        {"@type":"HowToStep","name":"Hoàn t?t","text":"MDM dã du?c g?, máy ho?t d?ng bình thu?ng"}
+    {"@context":"https://schema.org","@type":"HowTo","name":"Cï¿½ch xï¿½a MDM iPhone","step":[
+        {"@type":"HowToStep","name":"Ki?m tra MDM","text":"Vï¿½o Settings > General > VPN & Device Management d? ki?m tra"},
+        {"@type":"HowToStep","name":"Thuï¿½ tool","text":"Thuï¿½ tool MDM Remove t?i UnlockTool.us v?i giï¿½ 8.000d/6h"},
+        {"@type":"HowToStep","name":"Ch?y tool","text":"K?t n?i iPhone v?i mï¿½y tï¿½nh vï¿½ ch?y tool xï¿½a MDM"},
+        {"@type":"HowToStep","name":"Hoï¿½n t?t","text":"MDM dï¿½ du?c g?, mï¿½y ho?t d?ng bï¿½nh thu?ng"}
     ]}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"MDM là gì?","acceptedAnswer":{"@type":"Answer","text":"MDM (Mobile Device Management) là h? th?ng qu?n lý thi?t b? di d?ng c?a doanh nghi?p. Khi iPhone b? cài MDM, công ty có th? qu?n lý, giám sát và gi?i h?n tính nang trên máy."}},
-        {"@type":"Question","name":"Xóa MDM iPhone giá bao nhiêu?","acceptedAnswer":{"@type":"Answer","text":"Thuê tool MDM Remove ch? 8.000d/6h t?i UnlockTool.us d? t? làm. Ho?c d?ch v? k? thu?t t? 100.000d t?i Thuetaikhoan.net."}},
-        {"@type":"Question","name":"Xóa MDM có m?t d? li?u không?","acceptedAnswer":{"@type":"Answer","text":"Có, h?u h?t các phuong pháp xóa MDM yêu c?u restore máy. Nên backup d? li?u tru?c khi xóa."}}
+        {"@type":"Question","name":"MDM lï¿½ gï¿½?","acceptedAnswer":{"@type":"Answer","text":"MDM (Mobile Device Management) lï¿½ h? th?ng qu?n lï¿½ thi?t b? di d?ng c?a doanh nghi?p. Khi iPhone b? cï¿½i MDM, cï¿½ng ty cï¿½ th? qu?n lï¿½, giï¿½m sï¿½t vï¿½ gi?i h?n tï¿½nh nang trï¿½n mï¿½y."}},
+        {"@type":"Question","name":"Xï¿½a MDM iPhone giï¿½ bao nhiï¿½u?","acceptedAnswer":{"@type":"Answer","text":"Thuï¿½ tool MDM Remove ch? 8.000d/6h t?i UnlockTool.us d? t? lï¿½m. Ho?c d?ch v? k? thu?t t? 100.000d t?i Thuetaikhoan.net."}},
+        {"@type":"Question","name":"Xï¿½a MDM cï¿½ m?t d? li?u khï¿½ng?","acceptedAnswer":{"@type":"Answer","text":"Cï¿½, h?u h?t cï¿½c phuong phï¿½p xï¿½a MDM yï¿½u c?u restore mï¿½y. Nï¿½n backup d? li?u tru?c khi xï¿½a."}}
     ]}
     </script>
     
@@ -113,7 +114,7 @@ $canonical_url = "https://www.unlocktool.us/articles/48-mdm-remove-iphone.php";
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? khóa di?n tho?i",
+        "name": "D?ch v? m? khï¿½a di?n tho?i",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -131,7 +132,7 @@ $canonical_url = "https://www.unlocktool.us/articles/48-mdm-remove-iphone.php";
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
             <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bï¿½i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -139,10 +140,10 @@ $canonical_url = "https://www.unlocktool.us/articles/48-mdm-remove-iphone.php";
 <section class="hero-section">
     <div class="container">
         <h1><i class="fas fa-shield-alt me-3"></i><?php echo $page_title; ?></h1>
-        <p class="lead">G? b? qu?n lý doanh nghi?p - L?y l?i toàn quy?n di?n tho?i!</p>
+        <p class="lead">G? b? qu?n lï¿½ doanh nghi?p - L?y l?i toï¿½n quy?n di?n tho?i!</p>
         <div class="mt-4">
             <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg me-2">
-                <i class="fas fa-shopping-cart me-2"></i>Thuê Tool - 8K/6H
+                <i class="fas fa-shopping-cart me-2"></i>Thuï¿½ Tool - 8K/6H
             </a>
             <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg">
                 <i class="fas fa-headset me-2"></i>D?ch V? - 100K
@@ -158,37 +159,37 @@ $canonical_url = "https://www.unlocktool.us/articles/48-mdm-remove-iphone.php";
             <div class="toc">
                 <h5><i class="fas fa-list me-2"></i>M?c l?c</h5>
                 <ul>
-                    <li><a href="#mdm-la-gi">1. MDM là gì?</a></li>
+                    <li><a href="#mdm-la-gi">1. MDM lï¿½ gï¿½?</a></li>
                     <li><a href="#dau-hieu">2. D?u hi?u iPhone b? MDM</a></li>
-                    <li><a href="#cac-loai">3. Các lo?i MDM ph? bi?n</a></li>
-                    <li><a href="#phuong-phap">4. Phuong pháp xóa MDM</a></li>
-                    <li><a href="#huong-dan">5. Hu?ng d?n xóa MDM chi ti?t</a></li>
-                    <li><a href="#tool">6. Các tool xóa MDM</a></li>
-                    <li><a href="#thue-tool">7. Thuê tool / D?ch v?</a></li>
+                    <li><a href="#cac-loai">3. Cï¿½c lo?i MDM ph? bi?n</a></li>
+                    <li><a href="#phuong-phap">4. Phuong phï¿½p xï¿½a MDM</a></li>
+                    <li><a href="#huong-dan">5. Hu?ng d?n xï¿½a MDM chi ti?t</a></li>
+                    <li><a href="#tool">6. Cï¿½c tool xï¿½a MDM</a></li>
+                    <li><a href="#thue-tool">7. Thuï¿½ tool / D?ch v?</a></li>
                     <li><a href="#faq">8. FAQ</a></li>
                 </ul>
             </div>
 
             <section id="mdm-la-gi" class="mt-5">
-                <h2><i class="fas fa-info-circle text-danger me-2"></i>1. MDM Là Gì?</h2>
+                <h2><i class="fas fa-info-circle text-danger me-2"></i>1. MDM Lï¿½ Gï¿½?</h2>
                 
-                <p><strong>MDM</strong> (Mobile Device Management - Qu?n lý thi?t b? di d?ng) là h? th?ng cho phép doanh nghi?p, t? ch?c qu?n lý và ki?m soát các thi?t b? di d?ng c?a nhân viên t? xa. Khi iPhone du?c cài MDM, ngu?i qu?n tr? có th?:</p>
+                <p><strong>MDM</strong> (Mobile Device Management - Qu?n lï¿½ thi?t b? di d?ng) lï¿½ h? th?ng cho phï¿½p doanh nghi?p, t? ch?c qu?n lï¿½ vï¿½ ki?m soï¿½t cï¿½c thi?t b? di d?ng c?a nhï¿½n viï¿½n t? xa. Khi iPhone du?c cï¿½i MDM, ngu?i qu?n tr? cï¿½ th?:</p>
 
                 <div class="row">
                     <div class="col-md-6">
                         <ul>
-                            <li>Cài d?t/g? app t? xa</li>
-                            <li>Gi?i h?n tính nang (Camera, App Store...)</li>
-                            <li>Theo dõi v? trí thi?t b?</li>
-                            <li>Xóa d? li?u t? xa</li>
+                            <li>Cï¿½i d?t/g? app t? xa</li>
+                            <li>Gi?i h?n tï¿½nh nang (Camera, App Store...)</li>
+                            <li>Theo dï¿½i v? trï¿½ thi?t b?</li>
+                            <li>Xï¿½a d? li?u t? xa</li>
                         </ul>
                     </div>
                     <div class="col-md-6">
                         <ul>
-                            <li>Cài d?t c?u hình WiFi, VPN</li>
-                            <li>Khóa máy t? xa</li>
-                            <li>Yêu c?u m?t kh?u ph?c t?p</li>
-                            <li>Giám sát ho?t d?ng</li>
+                            <li>Cï¿½i d?t c?u hï¿½nh WiFi, VPN</li>
+                            <li>Khï¿½a mï¿½y t? xa</li>
+                            <li>Yï¿½u c?u m?t kh?u ph?c t?p</li>
+                            <li>Giï¿½m sï¿½t ho?t d?ng</li>
                         </ul>
                     </div>
                 </div>
@@ -196,10 +197,10 @@ $canonical_url = "https://www.unlocktool.us/articles/48-mdm-remove-iphone.php";
                 <div class="warning-box">
                     <h5><i class="fas fa-exclamation-triangle me-2"></i>Ngu?n g?c iPhone b? MDM</h5>
                     <ul class="mb-0">
-                        <li><strong>Máy công ty:</strong> Doanh nghi?p mua cho nhân viên dùng</li>
-                        <li><strong>Máy tru?ng h?c:</strong> Tru?ng c?p cho h?c sinh/giáo viên</li>
-                        <li><strong>Máy thanh lý:</strong> Doanh nghi?p bán máy cu nhung chua g? MDM</li>
-                        <li><strong>Máy t? nu?c ngoài:</strong> Thu?ng t? M?, Nh?t...</li>
+                        <li><strong>Mï¿½y cï¿½ng ty:</strong> Doanh nghi?p mua cho nhï¿½n viï¿½n dï¿½ng</li>
+                        <li><strong>Mï¿½y tru?ng h?c:</strong> Tru?ng c?p cho h?c sinh/giï¿½o viï¿½n</li>
+                        <li><strong>Mï¿½y thanh lï¿½:</strong> Doanh nghi?p bï¿½n mï¿½y cu nhung chua g? MDM</li>
+                        <li><strong>Mï¿½y t? nu?c ngoï¿½i:</strong> Thu?ng t? M?, Nh?t...</li>
                     </ul>
                 </div>
             </section>
@@ -209,147 +210,147 @@ $canonical_url = "https://www.unlocktool.us/articles/48-mdm-remove-iphone.php";
 
                 <div class="mdm-symptom">
                     <h5><i class="fas fa-cog me-2"></i>"Remote Management" khi setup</h5>
-                    <p class="mb-0">Khi restore/setup iPhone, xu?t hi?n màn hình "Remote Management" yêu c?u dang ký v?i t? ch?c.</p>
+                    <p class="mb-0">Khi restore/setup iPhone, xu?t hi?n mï¿½n hï¿½nh "Remote Management" yï¿½u c?u dang kï¿½ v?i t? ch?c.</p>
                 </div>
 
                 <div class="mdm-symptom">
-                    <h5><i class="fas fa-building me-2"></i>Có "Device Management" trong Settings</h5>
-                    <p class="mb-0">Settings ? General ? VPN & Device Management có c?u hình MDM.</p>
+                    <h5><i class="fas fa-building me-2"></i>Cï¿½ "Device Management" trong Settings</h5>
+                    <p class="mb-0">Settings ? General ? VPN & Device Management cï¿½ c?u hï¿½nh MDM.</p>
                 </div>
 
                 <div class="mdm-symptom">
-                    <h5><i class="fas fa-ban me-2"></i>M?t s? tính nang b? khóa</h5>
-                    <p class="mb-0">Không th? cài app, không dùng du?c Camera, không reset du?c máy...</p>
+                    <h5><i class="fas fa-ban me-2"></i>M?t s? tï¿½nh nang b? khï¿½a</h5>
+                    <p class="mb-0">Khï¿½ng th? cï¿½i app, khï¿½ng dï¿½ng du?c Camera, khï¿½ng reset du?c mï¿½y...</p>
                 </div>
 
                 <div class="mdm-symptom">
-                    <h5><i class="fas fa-lock me-2"></i>Yêu c?u m?t kh?u ph?c t?p</h5>
-                    <p class="mb-0">B?t bu?c d?t m?t kh?u dài, có ch? hoa, s?, ký t? d?c bi?t...</p>
+                    <h5><i class="fas fa-lock me-2"></i>Yï¿½u c?u m?t kh?u ph?c t?p</h5>
+                    <p class="mb-0">B?t bu?c d?t m?t kh?u dï¿½i, cï¿½ ch? hoa, s?, kï¿½ t? d?c bi?t...</p>
                 </div>
 
                 <div class="mdm-symptom">
-                    <h5><i class="fas fa-wifi me-2"></i>Có WiFi/VPN l? t? d?ng k?t n?i</h5>
-                    <p class="mb-0">Máy t? k?t n?i WiFi công ty ho?c VPN không th? xóa.</p>
+                    <h5><i class="fas fa-wifi me-2"></i>Cï¿½ WiFi/VPN l? t? d?ng k?t n?i</h5>
+                    <p class="mb-0">Mï¿½y t? k?t n?i WiFi cï¿½ng ty ho?c VPN khï¿½ng th? xï¿½a.</p>
                 </div>
             </section>
 
             <section id="cac-loai" class="mt-5">
-                <h2><i class="fas fa-layer-group text-danger me-2"></i>3. Các Lo?i MDM Ph? Bi?n</h2>
+                <h2><i class="fas fa-layer-group text-danger me-2"></i>3. Cï¿½c Lo?i MDM Ph? Bi?n</h2>
 
                 <table class="table table-custom">
                     <thead>
-                        <tr><th>Lo?i MDM</th><th>Mô t?</th><th>Ð? khó xóa</th></tr>
+                        <tr><th>Lo?i MDM</th><th>Mï¿½ t?</th><th>ï¿½? khï¿½ xï¿½a</th></tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td><strong>MDM Profile</strong></td>
-                            <td>C?u hình MDM cài qua profile, không DEP</td>
+                            <td>C?u hï¿½nh MDM cï¿½i qua profile, khï¿½ng DEP</td>
                             <td><span class="badge bg-success">D?</span></td>
                         </tr>
                         <tr>
                             <td><strong>Remote Management (DEP)</strong></td>
-                            <td>MDM g?n v?i Apple DEP, t? cài khi setup</td>
-                            <td><span class="badge bg-warning text-dark">Trung bình</span></td>
+                            <td>MDM g?n v?i Apple DEP, t? cï¿½i khi setup</td>
+                            <td><span class="badge bg-warning text-dark">Trung bï¿½nh</span></td>
                         </tr>
                         <tr>
                             <td><strong>Supervised Device</strong></td>
-                            <td>Máy du?c giám sát b?i Apple Configurator</td>
-                            <td><span class="badge bg-warning text-dark">Trung bình</span></td>
+                            <td>Mï¿½y du?c giï¿½m sï¿½t b?i Apple Configurator</td>
+                            <td><span class="badge bg-warning text-dark">Trung bï¿½nh</span></td>
                         </tr>
                         <tr>
                             <td><strong>ABM/ASM</strong></td>
                             <td>Apple Business/School Manager</td>
-                            <td><span class="badge bg-danger">Khó</span></td>
+                            <td><span class="badge bg-danger">Khï¿½</span></td>
                         </tr>
                     </tbody>
                 </table>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-info-circle me-2"></i>DEP là gì?</h5>
-                    <p class="mb-0"><strong>DEP</strong> (Device Enrollment Program) là chuong trình c?a Apple cho phép doanh nghi?p dang ký thi?t b? vào h? th?ng MDM ngay t? d?u. Máy DEP s? t? d?ng cài MDM m?i khi restore.</p>
+                    <h5><i class="fas fa-info-circle me-2"></i>DEP lï¿½ gï¿½?</h5>
+                    <p class="mb-0"><strong>DEP</strong> (Device Enrollment Program) lï¿½ chuong trï¿½nh c?a Apple cho phï¿½p doanh nghi?p dang kï¿½ thi?t b? vï¿½o h? th?ng MDM ngay t? d?u. Mï¿½y DEP s? t? d?ng cï¿½i MDM m?i khi restore.</p>
                 </div>
             </section>
 
             <section id="phuong-phap" class="mt-5">
-                <h2><i class="fas fa-tools text-danger me-2"></i>4. Phuong Pháp Xóa MDM iPhone</h2>
+                <h2><i class="fas fa-tools text-danger me-2"></i>4. Phuong Phï¿½p Xï¿½a MDM iPhone</h2>
 
                 <div class="row">
                     <div class="col-md-6 mb-4">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-user-cog text-success me-2"></i>Liên h? IT Admin</h5>
-                            <p>N?u là máy công ty cu, liên h? IT Admin yêu c?u g? MDM kh?i server.</p>
-                            <p><strong>Uu di?m:</strong> Mi?n phí, chính th?ng</p>
-                            <p><strong>Nhu?c di?m:</strong> C?n bi?t công ty g?c</p>
+                            <h5><i class="fas fa-user-cog text-success me-2"></i>Liï¿½n h? IT Admin</h5>
+                            <p>N?u lï¿½ mï¿½y cï¿½ng ty cu, liï¿½n h? IT Admin yï¿½u c?u g? MDM kh?i server.</p>
+                            <p><strong>Uu di?m:</strong> Mi?n phï¿½, chï¿½nh th?ng</p>
+                            <p><strong>Nhu?c di?m:</strong> C?n bi?t cï¿½ng ty g?c</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-4">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-laptop-code text-primary me-2"></i>Dùng Tool MDM Remove</h5>
-                            <p>Dùng tool chuyên d?ng d? bypass/xóa MDM trên máy.</p>
+                            <h5><i class="fas fa-laptop-code text-primary me-2"></i>Dï¿½ng Tool MDM Remove</h5>
+                            <p>Dï¿½ng tool chuyï¿½n d?ng d? bypass/xï¿½a MDM trï¿½n mï¿½y.</p>
                             <p><strong>Uu di?m:</strong> Nhanh, hi?u qu?</p>
-                            <p><strong>Nhu?c di?m:</strong> Có th? quay l?i khi restore</p>
+                            <p><strong>Nhu?c di?m:</strong> Cï¿½ th? quay l?i khi restore</p>
                         </div>
                     </div>
                 </div>
 
-                <h3>4.1. MDM Profile (Không DEP)</h3>
-                <p>Ðây là lo?i d? xóa nh?t. Có th?:</p>
+                <h3>4.1. MDM Profile (Khï¿½ng DEP)</h3>
+                <p>ï¿½ï¿½y lï¿½ lo?i d? xï¿½a nh?t. Cï¿½ th?:</p>
                 <ul>
-                    <li>Xóa tr?c ti?p trong Settings (n?u không yêu c?u m?t kh?u)</li>
-                    <li>Dùng tool xóa profile</li>
-                    <li>Restore máy là h?t</li>
+                    <li>Xï¿½a tr?c ti?p trong Settings (n?u khï¿½ng yï¿½u c?u m?t kh?u)</li>
+                    <li>Dï¿½ng tool xï¿½a profile</li>
+                    <li>Restore mï¿½y lï¿½ h?t</li>
                 </ul>
 
                 <h3>4.2. Remote Management (DEP)</h3>
-                <p>Khó hon vì MDM g?n v?i server Apple. C?n:</p>
+                <p>Khï¿½ hon vï¿½ MDM g?n v?i server Apple. C?n:</p>
                 <ul>
-                    <li>Bypass DEP b?ng tool chuyên d?ng</li>
-                    <li>Ho?c liên h? công ty g?c g? kh?i DEP</li>
+                    <li>Bypass DEP b?ng tool chuyï¿½n d?ng</li>
+                    <li>Ho?c liï¿½n h? cï¿½ng ty g?c g? kh?i DEP</li>
                 </ul>
             </section>
 
             <section id="huong-dan" class="mt-5">
-                <h2><i class="fas fa-book text-danger me-2"></i>5. Hu?ng D?n Xóa MDM Chi Ti?t</h2>
+                <h2><i class="fas fa-book text-danger me-2"></i>5. Hu?ng D?n Xï¿½a MDM Chi Ti?t</h2>
 
-                <h3>5.1. Xóa MDM Profile (không DEP)</h3>
+                <h3>5.1. Xï¿½a MDM Profile (khï¿½ng DEP)</h3>
                 <ol>
-                    <li>Vào <strong>Settings ? General ? VPN & Device Management</strong></li>
-                    <li>Ch?n profile MDM c?n xóa</li>
+                    <li>Vï¿½o <strong>Settings ? General ? VPN & Device Management</strong></li>
+                    <li>Ch?n profile MDM c?n xï¿½a</li>
                     <li>Nh?n <strong>Remove Management</strong></li>
-                    <li>Nh?p m?t kh?u n?u du?c yêu c?u</li>
-                    <li>Xác nh?n xóa</li>
+                    <li>Nh?p m?t kh?u n?u du?c yï¿½u c?u</li>
+                    <li>Xï¿½c nh?n xï¿½a</li>
                 </ol>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>N?u yêu c?u m?t kh?u?</h5>
-                    <p class="mb-0">N?u không bi?t m?t kh?u, c?n dùng tool ho?c d?ch v? k? thu?t d? xóa.</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>N?u yï¿½u c?u m?t kh?u?</h5>
+                    <p class="mb-0">N?u khï¿½ng bi?t m?t kh?u, c?n dï¿½ng tool ho?c d?ch v? k? thu?t d? xï¿½a.</p>
                 </div>
 
-                <h3>5.2. Xóa Remote Management (DEP) b?ng tool</h3>
+                <h3>5.2. Xï¿½a Remote Management (DEP) b?ng tool</h3>
                 <ol>
-                    <li>Thuê tool MDM Remove t?i <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a> (8K/6H)</li>
-                    <li>Cài d?t tool trên máy tính Windows</li>
-                    <li>K?t n?i iPhone v?i máy tính b?ng cáp USB</li>
-                    <li>Ðua iPhone vào ch? d? DFU ho?c Recovery</li>
+                    <li>Thuï¿½ tool MDM Remove t?i <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a> (8K/6H)</li>
+                    <li>Cï¿½i d?t tool trï¿½n mï¿½y tï¿½nh Windows</li>
+                    <li>K?t n?i iPhone v?i mï¿½y tï¿½nh b?ng cï¿½p USB</li>
+                    <li>ï¿½ua iPhone vï¿½o ch? d? DFU ho?c Recovery</li>
                     <li>Ch?y tool, ch?n ch?c nang MDM Bypass/Remove</li>
-                    <li>Ch? tool x? lý (5-15 phút)</li>
-                    <li>Máy kh?i d?ng l?i, MDM dã du?c g?</li>
+                    <li>Ch? tool x? lï¿½ (5-15 phï¿½t)</li>
+                    <li>Mï¿½y kh?i d?ng l?i, MDM dï¿½ du?c g?</li>
                 </ol>
 
-                <h3>5.3. Luu ý quan tr?ng</h3>
+                <h3>5.3. Luu ï¿½ quan tr?ng</h3>
                 <ul>
-                    <li>H?u h?t phuong pháp <strong>c?n restore máy</strong> ? m?t d? li?u</li>
+                    <li>H?u h?t phuong phï¿½p <strong>c?n restore mï¿½y</strong> ? m?t d? li?u</li>
                     <li>M?t s? MDM <strong>quay l?i sau khi restore</strong> (DEP)</li>
-                    <li>Nên ki?m tra k? tru?c khi mua iPhone thanh lý</li>
+                    <li>Nï¿½n ki?m tra k? tru?c khi mua iPhone thanh lï¿½</li>
                 </ul>
             </section>
 
             <section id="tool" class="mt-5">
-                <h2><i class="fas fa-wrench text-danger me-2"></i>6. Các Tool Xóa MDM iPhone</h2>
+                <h2><i class="fas fa-wrench text-danger me-2"></i>6. Cï¿½c Tool Xï¿½a MDM iPhone</h2>
 
                 <table class="table table-custom">
                     <thead>
-                        <tr><th>Tool</th><th>Tính nang</th><th>Thuê (6H)</th></tr>
+                        <tr><th>Tool</th><th>Tï¿½nh nang</th><th>Thuï¿½ (6H)</th></tr>
                     </thead>
                     <tbody>
                         <tr>
@@ -364,7 +365,7 @@ $canonical_url = "https://www.unlocktool.us/articles/48-mdm-remove-iphone.php";
                         </tr>
                         <tr>
                             <td><strong>3uTools</strong></td>
-                            <td>MDM Profile remove (mi?n phí)</td>
+                            <td>MDM Profile remove (mi?n phï¿½)</td>
                             <td>Free</td>
                         </tr>
                         <tr>
@@ -377,16 +378,16 @@ $canonical_url = "https://www.unlocktool.us/articles/48-mdm-remove-iphone.php";
             </section>
 
             <section id="thue-tool" class="mt-5">
-                <h2><i class="fas fa-shopping-cart text-danger me-2"></i>7. Thuê Tool / D?ch V? MDM Remove</h2>
+                <h2><i class="fas fa-shopping-cart text-danger me-2"></i>7. Thuï¿½ Tool / D?ch V? MDM Remove</h2>
 
                 <div class="row">
                     <div class="col-md-6 mb-4">
                         <div class="price-highlight h-100">
-                            <h4><i class="fas fa-laptop me-2"></i>T? Làm</h4>
+                            <h4><i class="fas fa-laptop me-2"></i>T? Lï¿½m</h4>
                             <p class="price">8.000d/6H</p>
-                            <p>Thuê tool, t? thao tác</p>
+                            <p>Thuï¿½ tool, t? thao tï¿½c</p>
                             <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light">
-                                Thuê Tool - UnlockTool.us
+                                Thuï¿½ Tool - UnlockTool.us
                             </a>
                         </div>
                     </div>
@@ -394,9 +395,9 @@ $canonical_url = "https://www.unlocktool.us/articles/48-mdm-remove-iphone.php";
                         <div class="service-cta h-100">
                             <h4><i class="fas fa-headset me-2"></i>D?ch V? K? Thu?t</h4>
                             <p class="h3 fw-bold">T? 100.000d</p>
-                            <p>Th? làm h?, cam k?t thành công</p>
+                            <p>Th? lï¿½m h?, cam k?t thï¿½nh cï¿½ng</p>
                             <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light">
-                                Ð?t D?ch V? - Thuetaikhoan.net
+                                ï¿½?t D?ch V? - Thuetaikhoan.net
                             </a>
                         </div>
                     </div>
@@ -404,52 +405,52 @@ $canonical_url = "https://www.unlocktool.us/articles/48-mdm-remove-iphone.php";
             </section>
 
             <section id="faq" class="mt-5">
-                <h2><i class="fas fa-question-circle text-danger me-2"></i>8. Câu H?i Thu?ng G?p</h2>
+                <h2><i class="fas fa-question-circle text-danger me-2"></i>8. Cï¿½u H?i Thu?ng G?p</h2>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Xóa MDM có vinh vi?n không?</span>
+                        <span>Xï¿½a MDM cï¿½ vinh vi?n khï¿½ng?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>MDM Profile thông thu?ng: Xóa vinh vi?n, không quay l?i.</p>
-                        <p>MDM DEP: Có th? quay l?i khi restore. C?n bypass l?i ho?c g? kh?i DEP server.</p>
+                        <p>MDM Profile thï¿½ng thu?ng: Xï¿½a vinh vi?n, khï¿½ng quay l?i.</p>
+                        <p>MDM DEP: Cï¿½ th? quay l?i khi restore. C?n bypass l?i ho?c g? kh?i DEP server.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Xóa MDM có m?t d? li?u không?</span>
+                        <span>Xï¿½a MDM cï¿½ m?t d? li?u khï¿½ng?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>H?u h?t các phuong pháp xóa MDM yêu c?u restore máy ? m?t d? li?u. Nên backup tru?c khi làm.</p>
+                        <p>H?u h?t cï¿½c phuong phï¿½p xï¿½a MDM yï¿½u c?u restore mï¿½y ? m?t d? li?u. Nï¿½n backup tru?c khi lï¿½m.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>iPhone DEP có nên mua không?</span>
+                        <span>iPhone DEP cï¿½ nï¿½n mua khï¿½ng?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Có th? mua n?u giá r? và b?n ch?p nh?n bypass MDM m?i l?n restore. Ho?c yêu c?u ngu?i bán g? DEP tru?c khi mua.</p>
+                        <p>Cï¿½ th? mua n?u giï¿½ r? vï¿½ b?n ch?p nh?n bypass MDM m?i l?n restore. Ho?c yï¿½u c?u ngu?i bï¿½n g? DEP tru?c khi mua.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Giá xóa MDM bao nhiêu?</span>
+                        <span>Giï¿½ xï¿½a MDM bao nhiï¿½u?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Thuê tool t? làm: 8.000d/6h t?i UnlockTool.us. D?ch v? k? thu?t: t? 100.000d t?i Thuetaikhoan.net.</p>
+                        <p>Thuï¿½ tool t? lï¿½m: 8.000d/6h t?i UnlockTool.us. D?ch v? k? thu?t: t? 100.000d t?i Thuetaikhoan.net.</p>
                     </div>
                 </div>
             </section>
 
             <section class="mt-5">
                 <h2><i class="fas fa-flag-checkered text-danger me-2"></i>K?t Lu?n</h2>
-                <p>MDM Remove iPhone không quá khó n?u có tool phù h?p. Thuê tool ch? 8.000d/6h t?i UnlockTool.us d? t? xóa MDM, ho?c s? d?ng d?ch v? k? thu?t t? 100.000d t?i Thuetaikhoan.net n?u không t? làm du?c.</p>
+                <p>MDM Remove iPhone khï¿½ng quï¿½ khï¿½ n?u cï¿½ tool phï¿½ h?p. Thuï¿½ tool ch? 8.000d/6h t?i UnlockTool.us d? t? xï¿½a MDM, ho?c s? d?ng d?ch v? k? thu?t t? 100.000d t?i Thuetaikhoan.net n?u khï¿½ng t? lï¿½m du?c.</p>
                 
                 <div class="text-center mt-4">
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-mdm btn-lg me-2 mb-2">Thuê Tool 8K/6H</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-mdm btn-lg me-2 mb-2">Thuï¿½ Tool 8K/6H</a>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-danger btn-lg mb-2">D?ch V? K? Thu?t</a>
                 </div>
             </section>
@@ -458,27 +459,27 @@ $canonical_url = "https://www.unlocktool.us/articles/48-mdm-remove-iphone.php";
         <div class="col-lg-4">
             <div class="sticky-top" style="top:20px">
                 <div class="price-highlight mb-4">
-                    <h5>Thuê Tool MDM Remove</h5>
+                    <h5>Thuï¿½ Tool MDM Remove</h5>
                     <p class="price">8.000d/6H</p>
                     <p>T? d?ng 24/7</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100">Thuê Ngay</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100">Thuï¿½ Ngay</a>
                 </div>
                 <div class="card mb-4">
                     <div class="card-header bg-danger text-white">D?ch V? K? Thu?t</div>
                     <div class="card-body">
-                        <p>Không t? làm du?c? Th? làm h?!</p>
+                        <p>Khï¿½ng t? lï¿½m du?c? Th? lï¿½m h?!</p>
                         <p class="h4 fw-bold">T? 100.000d</p>
-                        <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-danger w-100">Ð?t D?ch V?</a>
+                        <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-danger w-100">ï¿½?t D?ch V?</a>
                     </div>
                 </div>
                 <div class="card">
-                    <div class="card-header">D?ch V? Khác</div>
+                    <div class="card-header">D?ch V? Khï¿½c</div>
                     <div class="card-body">
                         <ul class="list-unstyled mb-0">
                             <li><i class="fas fa-check text-success me-2"></i>Bypass iCloud</li>
                             <li><i class="fas fa-check text-success me-2"></i>Off iCloud</li>
                             <li><i class="fas fa-check text-success me-2"></i>Unlock Network</li>
-                            <li><i class="fas fa-check text-success me-2"></i>Xóa Knox Samsung</li>
+                            <li><i class="fas fa-check text-success me-2"></i>Xï¿½a Knox Samsung</li>
                         </ul>
                     </div>
                 </div>
@@ -494,7 +495,7 @@ $canonical_url = "https://www.unlocktool.us/articles/48-mdm-remove-iphone.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bài vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bï¿½i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -508,7 +509,7 @@ $canonical_url = "https://www.unlocktool.us/articles/48-mdm-remove-iphone.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài vi?t liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bï¿½i vi?t liï¿½n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
@@ -543,7 +544,7 @@ $canonical_url = "https://www.unlocktool.us/articles/48-mdm-remove-iphone.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Ð?i ngu k? thu?t viên chuyên nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khóa di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">ï¿½?i ngu k? thu?t viï¿½n chuyï¿½n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khï¿½a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         

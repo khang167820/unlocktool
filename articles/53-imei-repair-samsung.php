@@ -1,6 +1,6 @@
-<?php
-$page_title = "IMEI Repair Samsung 2026 - S?a IMEI Null Invalid | Thuê Tool 8K";
-$page_description = "Hu?ng d?n s?a IMEI Samsung b? null, invalid, 000000. IMEI Repair Samsung b?ng tool chuyên d?ng. Thuê tool 8.000d/6h t?i UnlockTool.us ho?c d?ch v? t? 100.000d";
+ï»¿<?php
+$page_title = "IMEI Repair Samsung 2026 - S?a IMEI Null Invalid | Thuï¿½ Tool 8K";
+$page_description = "Hu?ng d?n s?a IMEI Samsung b? null, invalid, 000000. IMEI Repair Samsung b?ng tool chuyï¿½n d?ng. Thuï¿½ tool 8.000d/6h t?i UnlockTool.us ho?c d?ch v? t? 100.000d";
 $page_keywords = "imei repair samsung, s?a imei samsung, imei null, imei invalid, fix imei samsung, s?a imei 000000";
 $canonical_url = "https://www.unlocktool.us/articles/53-imei-repair-samsung.php";
 ?>
@@ -21,15 +21,16 @@ $canonical_url = "https://www.unlocktool.us/articles/53-imei-repair-samsung.php"
     <link rel="canonical" href="<?php echo $canonical_url; ?>">\n    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">">
     <meta property="og:title" content="<?php echo $page_title; ?>">
-    <meta property="og:description" content="<?php echo $page_description; ?>">
+    <meta property="og:description" content="<?php echo $page_description; ?>
+    <meta property="og:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
     
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Article","headline":"<?php echo $page_title; ?>","author":{"@type":"Organization","name":"UnlockTool.us"},"datePublished":"2026-01-25"}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"IMEI null là gì?","acceptedAnswer":{"@type":"Answer","text":"IMEI null/invalid là tình tr?ng IMEI b? m?t ho?c h?ng, hi?n th? 000000... ho?c Invalid. Máy không g?i du?c, không dùng du?c m?ng di d?ng."}},
-        {"@type":"Question","name":"S?a IMEI Samsung giá bao nhiêu?","acceptedAnswer":{"@type":"Answer","text":"Thuê tool IMEI Repair: 8.000d/6h t?i UnlockTool.us. D?ch v? k? thu?t t? 100.000d t?i Thuetaikhoan.net."}}
+        {"@type":"Question","name":"IMEI null lï¿½ gï¿½?","acceptedAnswer":{"@type":"Answer","text":"IMEI null/invalid lï¿½ tï¿½nh tr?ng IMEI b? m?t ho?c h?ng, hi?n th? 000000... ho?c Invalid. Mï¿½y khï¿½ng g?i du?c, khï¿½ng dï¿½ng du?c m?ng di d?ng."}},
+        {"@type":"Question","name":"S?a IMEI Samsung giï¿½ bao nhiï¿½u?","acceptedAnswer":{"@type":"Answer","text":"Thuï¿½ tool IMEI Repair: 8.000d/6h t?i UnlockTool.us. D?ch v? k? thu?t t? 100.000d t?i Thuetaikhoan.net."}}
     ]}
     </script>
     
@@ -103,7 +104,7 @@ $canonical_url = "https://www.unlocktool.us/articles/53-imei-repair-samsung.php"
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? khóa di?n tho?i",
+        "name": "D?ch v? m? khï¿½a di?n tho?i",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -121,7 +122,7 @@ $canonical_url = "https://www.unlocktool.us/articles/53-imei-repair-samsung.php"
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
             <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bï¿½i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -129,9 +130,9 @@ $canonical_url = "https://www.unlocktool.us/articles/53-imei-repair-samsung.php"
 <section class="hero-section">
     <div class="container">
         <h1><i class="fas fa-barcode me-3"></i><?php echo $page_title; ?></h1>
-        <p class="lead">S?a IMEI Samsung b? m?t, null, invalid - L?y l?i sóng di d?ng!</p>
+        <p class="lead">S?a IMEI Samsung b? m?t, null, invalid - L?y l?i sï¿½ng di d?ng!</p>
         <div class="mt-4">
-            <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg me-2">Thuê Tool - 8K/6H</a>
+            <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg me-2">Thuï¿½ Tool - 8K/6H</a>
             <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg">D?ch V? - 100K</a>
         </div>
     </div>
@@ -144,38 +145,38 @@ $canonical_url = "https://www.unlocktool.us/articles/53-imei-repair-samsung.php"
             <div class="toc">
                 <h5><i class="fas fa-list me-2"></i>M?c l?c</h5>
                 <ul>
-                    <li><a href="#imei">1. IMEI là gì? T?i sao b? null?</a></li>
+                    <li><a href="#imei">1. IMEI lï¿½ gï¿½? T?i sao b? null?</a></li>
                     <li><a href="#dau-hieu">2. D?u hi?u IMEI b? h?ng</a></li>
-                    <li><a href="#nguyen-nhan">3. Nguyên nhân m?t IMEI</a></li>
-                    <li><a href="#cach-sua">4. Cách s?a IMEI Samsung</a></li>
-                    <li><a href="#tool">5. Các tool IMEI Repair</a></li>
-                    <li><a href="#dich-vu">6. Thuê tool / D?ch v?</a></li>
+                    <li><a href="#nguyen-nhan">3. Nguyï¿½n nhï¿½n m?t IMEI</a></li>
+                    <li><a href="#cach-sua">4. Cï¿½ch s?a IMEI Samsung</a></li>
+                    <li><a href="#tool">5. Cï¿½c tool IMEI Repair</a></li>
+                    <li><a href="#dich-vu">6. Thuï¿½ tool / D?ch v?</a></li>
                     <li><a href="#faq">7. FAQ</a></li>
                 </ul>
             </div>
 
             <section id="imei" class="mt-5">
-                <h2><i class="fas fa-info-circle text-primary me-2"></i>1. IMEI Là Gì? T?i Sao B? Null?</h2>
+                <h2><i class="fas fa-info-circle text-primary me-2"></i>1. IMEI Lï¿½ Gï¿½? T?i Sao B? Null?</h2>
                 
-                <p><strong>IMEI</strong> (International Mobile Equipment Identity) là s? nh?n d?ng duy nh?t c?a m?i di?n tho?i di d?ng. IMEI g?m 15 ch? s?, du?c luu trong vùng nh? EFS (Encrypted File System) c?a di?n tho?i.</p>
+                <p><strong>IMEI</strong> (International Mobile Equipment Identity) lï¿½ s? nh?n d?ng duy nh?t c?a m?i di?n tho?i di d?ng. IMEI g?m 15 ch? s?, du?c luu trong vï¿½ng nh? EFS (Encrypted File System) c?a di?n tho?i.</p>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-barcode me-2"></i>IMEI có vai trò quan tr?ng</h5>
+                    <h5><i class="fas fa-barcode me-2"></i>IMEI cï¿½ vai trï¿½ quan tr?ng</h5>
                     <ul class="mb-0">
-                        <li>Ð?nh danh thi?t b? v?i nhà m?ng</li>
-                        <li>Ðang ký s? d?ng m?ng di d?ng (g?i, SMS, 4G/5G)</li>
-                        <li>Theo dõi n?u máy b? m?t c?p</li>
-                        <li>Ki?m tra thông tin b?o hành</li>
+                        <li>ï¿½?nh danh thi?t b? v?i nhï¿½ m?ng</li>
+                        <li>ï¿½ang kï¿½ s? d?ng m?ng di d?ng (g?i, SMS, 4G/5G)</li>
+                        <li>Theo dï¿½i n?u mï¿½y b? m?t c?p</li>
+                        <li>Ki?m tra thï¿½ng tin b?o hï¿½nh</li>
                     </ul>
                 </div>
 
-                <h3>1.1. IMEI null/invalid là gì?</h3>
-                <p><strong>IMEI null</strong> ho?c <strong>invalid</strong> là tình tr?ng IMEI b? m?t ho?c h?ng trong vùng nh? EFS. Khi quay *#06#, máy s? hi?n th?:</p>
+                <h3>1.1. IMEI null/invalid lï¿½ gï¿½?</h3>
+                <p><strong>IMEI null</strong> ho?c <strong>invalid</strong> lï¿½ tï¿½nh tr?ng IMEI b? m?t ho?c h?ng trong vï¿½ng nh? EFS. Khi quay *#06#, mï¿½y s? hi?n th?:</p>
                 <ul>
                     <li>000000000000000</li>
                     <li>IMEI: null</li>
                     <li>IMEI: Invalid</li>
-                    <li>Không hi?n gì c?</li>
+                    <li>Khï¿½ng hi?n gï¿½ c?</li>
                 </ul>
             </section>
 
@@ -185,82 +186,82 @@ $canonical_url = "https://www.unlocktool.us/articles/53-imei-repair-samsung.php"
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-phone-slash text-danger me-2"></i>Không g?i du?c</h5>
-                            <p>Không th? th?c hi?n ho?c nh?n cu?c g?i, báo l?i "Not registered on network".</p>
+                            <h5><i class="fas fa-phone-slash text-danger me-2"></i>Khï¿½ng g?i du?c</h5>
+                            <p>Khï¿½ng th? th?c hi?n ho?c nh?n cu?c g?i, bï¿½o l?i "Not registered on network".</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-signal text-danger me-2"></i>Không có sóng</h5>
-                            <p>Thanh sóng hi?n th? "No Service" ho?c "Emergency calls only".</p>
+                            <h5><i class="fas fa-signal text-danger me-2"></i>Khï¿½ng cï¿½ sï¿½ng</h5>
+                            <p>Thanh sï¿½ng hi?n th? "No Service" ho?c "Emergency calls only".</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-sim-card text-danger me-2"></i>SIM không nh?n</h5>
-                            <p>G?n SIM vào nhung không nh?n, không dang ký du?c m?ng.</p>
+                            <h5><i class="fas fa-sim-card text-danger me-2"></i>SIM khï¿½ng nh?n</h5>
+                            <p>G?n SIM vï¿½o nhung khï¿½ng nh?n, khï¿½ng dang kï¿½ du?c m?ng.</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-wifi text-danger me-2"></i>Không có 4G/5G</h5>
-                            <p>WiFi v?n ho?t d?ng nhung không có d? li?u di d?ng.</p>
+                            <h5><i class="fas fa-wifi text-danger me-2"></i>Khï¿½ng cï¿½ 4G/5G</h5>
+                            <p>WiFi v?n ho?t d?ng nhung khï¿½ng cï¿½ d? li?u di d?ng.</p>
                         </div>
                     </div>
                 </div>
             </section>
 
             <section id="nguyen-nhan" class="mt-5">
-                <h2><i class="fas fa-question-circle text-primary me-2"></i>3. Nguyên Nhân M?t IMEI Samsung</h2>
+                <h2><i class="fas fa-question-circle text-primary me-2"></i>3. Nguyï¿½n Nhï¿½n M?t IMEI Samsung</h2>
 
                 <ul>
-                    <li><strong>Flash ROM sai:</strong> N?p firmware không dúng model ho?c region</li>
-                    <li><strong>Root/Custom ROM:</strong> Quá trình root ho?c cài ROM cook làm h?ng EFS</li>
-                    <li><strong>Factory reset sai cách:</strong> Reset khi dang có l?i h? th?ng</li>
+                    <li><strong>Flash ROM sai:</strong> N?p firmware khï¿½ng dï¿½ng model ho?c region</li>
+                    <li><strong>Root/Custom ROM:</strong> Quï¿½ trï¿½nh root ho?c cï¿½i ROM cook lï¿½m h?ng EFS</li>
+                    <li><strong>Factory reset sai cï¿½ch:</strong> Reset khi dang cï¿½ l?i h? th?ng</li>
                     <li><strong>Ph?n c?ng:</strong> Chip nh? EFS b? h?ng (hi?m)</li>
-                    <li><strong>Xóa Knox:</strong> M?t s? phuong pháp xóa Knox có th? ?nh hu?ng IMEI</li>
+                    <li><strong>Xï¿½a Knox:</strong> M?t s? phuong phï¿½p xï¿½a Knox cï¿½ th? ?nh hu?ng IMEI</li>
                 </ul>
 
                 <div class="warning-box">
                     <h5><i class="fas fa-exclamation-triangle me-2"></i>Quan tr?ng</h5>
-                    <p class="mb-0">Tru?c khi flash ROM ho?c root, luôn <strong>backup EFS</strong> d? có th? khôi ph?c IMEI n?u c?n.</p>
+                    <p class="mb-0">Tru?c khi flash ROM ho?c root, luï¿½n <strong>backup EFS</strong> d? cï¿½ th? khï¿½i ph?c IMEI n?u c?n.</p>
                 </div>
             </section>
 
             <section id="cach-sua" class="mt-5">
-                <h2><i class="fas fa-wrench text-primary me-2"></i>4. Cách S?a IMEI Samsung</h2>
+                <h2><i class="fas fa-wrench text-primary me-2"></i>4. Cï¿½ch S?a IMEI Samsung</h2>
 
-                <h3>4.1. S?a b?ng tool chuyên d?ng</h3>
+                <h3>4.1. S?a b?ng tool chuyï¿½n d?ng</h3>
                 <ol>
-                    <li>Thuê tool (Samsung Tool Pro, UnlockTool...) t?i <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a></li>
-                    <li>K?t n?i Samsung v?i máy tính qua USB</li>
-                    <li>Ðua máy vào Download Mode</li>
+                    <li>Thuï¿½ tool (Samsung Tool Pro, UnlockTool...) t?i <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a></li>
+                    <li>K?t n?i Samsung v?i mï¿½y tï¿½nh qua USB</li>
+                    <li>ï¿½ua mï¿½y vï¿½o Download Mode</li>
                     <li>Ch?n ch?c nang IMEI Repair/Write</li>
-                    <li>Nh?p IMEI g?c (luu ý: ch? ghi l?i IMEI g?c c?a máy)</li>
-                    <li>Ch? tool x? lý</li>
-                    <li>Kh?i d?ng l?i máy, ki?m tra *#06#</li>
+                    <li>Nh?p IMEI g?c (luu ï¿½: ch? ghi l?i IMEI g?c c?a mï¿½y)</li>
+                    <li>Ch? tool x? lï¿½</li>
+                    <li>Kh?i d?ng l?i mï¿½y, ki?m tra *#06#</li>
                 </ol>
 
                 <h3>4.2. Restore t? backup EFS</h3>
-                <p>N?u có backup EFS tru?c dó, có th? restore l?i:</p>
+                <p>N?u cï¿½ backup EFS tru?c dï¿½, cï¿½ th? restore l?i:</p>
                 <ol>
-                    <li>K?t n?i máy v?i máy tính</li>
-                    <li>Dùng tool d? restore file backup EFS</li>
+                    <li>K?t n?i mï¿½y v?i mï¿½y tï¿½nh</li>
+                    <li>Dï¿½ng tool d? restore file backup EFS</li>
                     <li>Kh?i d?ng l?i</li>
                 </ol>
 
                 <div class="danger-box">
-                    <h5><i class="fas fa-ban me-2"></i>C?nh báo pháp lý</h5>
-                    <p class="mb-0">Vi?c <strong>thay d?i IMEI thành s? khác</strong> (không ph?i IMEI g?c) là <strong>b?t h?p pháp</strong> ? nhi?u qu?c gia. Ch? nên s?a d? khôi ph?c l?i IMEI g?c c?a máy.</p>
+                    <h5><i class="fas fa-ban me-2"></i>C?nh bï¿½o phï¿½p lï¿½</h5>
+                    <p class="mb-0">Vi?c <strong>thay d?i IMEI thï¿½nh s? khï¿½c</strong> (khï¿½ng ph?i IMEI g?c) lï¿½ <strong>b?t h?p phï¿½p</strong> ? nhi?u qu?c gia. Ch? nï¿½n s?a d? khï¿½i ph?c l?i IMEI g?c c?a mï¿½y.</p>
                 </div>
             </section>
 
             <section id="tool" class="mt-5">
-                <h2><i class="fas fa-tools text-primary me-2"></i>5. Các Tool IMEI Repair Samsung</h2>
+                <h2><i class="fas fa-tools text-primary me-2"></i>5. Cï¿½c Tool IMEI Repair Samsung</h2>
 
                 <table class="table table-custom">
                     <thead>
-                        <tr><th>Tool</th><th>Tính nang</th><th>Thuê (6H)</th></tr>
+                        <tr><th>Tool</th><th>Tï¿½nh nang</th><th>Thuï¿½ (6H)</th></tr>
                     </thead>
                     <tbody>
                         <tr>
@@ -270,12 +271,12 @@ $canonical_url = "https://www.unlocktool.us/articles/53-imei-repair-samsung.php"
                         </tr>
                         <tr>
                             <td><strong>UnlockTool</strong></td>
-                            <td>IMEI Repair nhi?u hãng</td>
+                            <td>IMEI Repair nhi?u hï¿½ng</td>
                             <td class="table-success fw-bold">8.000d</td>
                         </tr>
                         <tr>
                             <td><strong>Z3X Samsung</strong></td>
-                            <td>Chuyên Samsung IMEI, Flash</td>
+                            <td>Chuyï¿½n Samsung IMEI, Flash</td>
                             <td>Box + Credits</td>
                         </tr>
                         <tr>
@@ -288,14 +289,14 @@ $canonical_url = "https://www.unlocktool.us/articles/53-imei-repair-samsung.php"
             </section>
 
             <section id="dich-vu" class="mt-5">
-                <h2><i class="fas fa-shopping-cart text-primary me-2"></i>6. Thuê Tool / D?ch V?</h2>
+                <h2><i class="fas fa-shopping-cart text-primary me-2"></i>6. Thuï¿½ Tool / D?ch V?</h2>
 
                 <div class="row">
                     <div class="col-md-6 mb-4">
                         <div class="price-highlight h-100">
-                            <h4><i class="fas fa-laptop me-2"></i>T? Làm</h4>
+                            <h4><i class="fas fa-laptop me-2"></i>T? Lï¿½m</h4>
                             <p class="price">8.000d/6H</p>
-                            <p>Thuê tool IMEI Repair</p>
+                            <p>Thuï¿½ tool IMEI Repair</p>
                             <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light">UnlockTool.us</a>
                         </div>
                     </div>
@@ -303,7 +304,7 @@ $canonical_url = "https://www.unlocktool.us/articles/53-imei-repair-samsung.php"
                         <div class="service-cta h-100">
                             <h4><i class="fas fa-headset me-2"></i>D?ch V? K? Thu?t</h4>
                             <p class="h3 fw-bold">T? 100.000d</p>
-                            <p>Th? làm h? - Cam k?t thành công</p>
+                            <p>Th? lï¿½m h? - Cam k?t thï¿½nh cï¿½ng</p>
                             <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light">Thuetaikhoan.net</a>
                         </div>
                     </div>
@@ -311,42 +312,42 @@ $canonical_url = "https://www.unlocktool.us/articles/53-imei-repair-samsung.php"
             </section>
 
             <section id="faq" class="mt-5">
-                <h2><i class="fas fa-question-circle text-primary me-2"></i>7. Câu H?i Thu?ng G?p</h2>
+                <h2><i class="fas fa-question-circle text-primary me-2"></i>7. Cï¿½u H?i Thu?ng G?p</h2>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>S?a IMEI có m?t b?o hành không?</span>
+                        <span>S?a IMEI cï¿½ m?t b?o hï¿½nh khï¿½ng?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>N?u máy dã h?t b?o hành ho?c dã b? root/flash ROM custom thì không còn b?o hành. S?a IMEI không ?nh hu?ng thêm.</p>
+                        <p>N?u mï¿½y dï¿½ h?t b?o hï¿½nh ho?c dï¿½ b? root/flash ROM custom thï¿½ khï¿½ng cï¿½n b?o hï¿½nh. S?a IMEI khï¿½ng ?nh hu?ng thï¿½m.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>S?a IMEI có an toàn không?</span>
+                        <span>S?a IMEI cï¿½ an toï¿½n khï¿½ng?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>S?a IMEI b?ng tool uy tín là an toàn cho máy. Quan tr?ng là ch? s?a d? khôi ph?c IMEI g?c, không thay d?i sang s? khác.</p>
+                        <p>S?a IMEI b?ng tool uy tï¿½n lï¿½ an toï¿½n cho mï¿½y. Quan tr?ng lï¿½ ch? s?a d? khï¿½i ph?c IMEI g?c, khï¿½ng thay d?i sang s? khï¿½c.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Không bi?t IMEI g?c thì sao?</span>
+                        <span>Khï¿½ng bi?t IMEI g?c thï¿½ sao?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>IMEI g?c thu?ng du?c in trên h?p máy ho?c du?i khay SIM. N?u không có, liên h? d?ch v? k? thu?t d? du?c h? tr?.</p>
+                        <p>IMEI g?c thu?ng du?c in trï¿½n h?p mï¿½y ho?c du?i khay SIM. N?u khï¿½ng cï¿½, liï¿½n h? d?ch v? k? thu?t d? du?c h? tr?.</p>
                     </div>
                 </div>
             </section>
 
             <section class="mt-5">
                 <h2><i class="fas fa-flag-checkered text-primary me-2"></i>K?t Lu?n</h2>
-                <p>IMEI Repair Samsung không quá khó v?i tool phù h?p. Thuê tool ch? 8.000d/6h t?i UnlockTool.us ho?c s? d?ng d?ch v? k? thu?t t? 100.000d t?i Thuetaikhoan.net!</p>
+                <p>IMEI Repair Samsung khï¿½ng quï¿½ khï¿½ v?i tool phï¿½ h?p. Thuï¿½ tool ch? 8.000d/6h t?i UnlockTool.us ho?c s? d?ng d?ch v? k? thu?t t? 100.000d t?i Thuetaikhoan.net!</p>
                 
                 <div class="text-center mt-4">
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-samsung btn-lg me-2 mb-2">Thuê Tool 8K/6H</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-samsung btn-lg me-2 mb-2">Thuï¿½ Tool 8K/6H</a>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-primary btn-lg mb-2">D?ch V? K? Thu?t</a>
                 </div>
             </section>
@@ -357,13 +358,13 @@ $canonical_url = "https://www.unlocktool.us/articles/53-imei-repair-samsung.php"
                 <div class="price-highlight mb-4">
                     <h5>IMEI Repair Samsung</h5>
                     <p class="price">8.000d/6H</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100">Thuê Ngay</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100">Thuï¿½ Ngay</a>
                 </div>
                 <div class="card">
                     <div class="card-header bg-primary text-white">D?ch V?</div>
                     <div class="card-body">
                         <p class="h4 fw-bold">T? 100.000d</p>
-                        <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-primary w-100">Ð?t D?ch V?</a>
+                        <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-primary w-100">ï¿½?t D?ch V?</a>
                     </div>
                 </div>
             </div>
@@ -378,7 +379,7 @@ $canonical_url = "https://www.unlocktool.us/articles/53-imei-repair-samsung.php"
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bài vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bï¿½i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -392,7 +393,7 @@ $canonical_url = "https://www.unlocktool.us/articles/53-imei-repair-samsung.php"
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài vi?t liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bï¿½i vi?t liï¿½n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
@@ -427,7 +428,7 @@ $canonical_url = "https://www.unlocktool.us/articles/53-imei-repair-samsung.php"
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Ð?i ngu k? thu?t viên chuyên nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khóa di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">ï¿½?i ngu k? thu?t viï¿½n chuyï¿½n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khï¿½a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         

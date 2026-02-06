@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 $page_title = "Bài viết về UnlockTool - Hướng dẫn, Thủ thuật, Download | UnlockTool.us";
 $page_description = "Tổng hợp các bài viết hướng dẫn sử dụng UnlockTool, tải UnlockTool, xóa FRP Samsung, bypass iCloud, xóa Mi Account và nhiều thủ thuật hữu ích khác.";
 ?>
@@ -14,7 +14,8 @@ $page_description = "Tổng hợp các bài viết hướng dẫn sử dụng Un
     
     <meta property="og:type" content="website">
     <meta property="og:title" content="<?php echo $page_title; ?>">
-    <meta property="og:description" content="<?php echo $page_description; ?>">
+    <meta property="og:description" content="<?php echo $page_description; ?>
+    <meta property="og:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
     
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" media="print" onload="this.media='all'">

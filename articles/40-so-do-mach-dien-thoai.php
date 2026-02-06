@@ -1,6 +1,6 @@
-<?php
-$page_title = "So Ð? M?ch Ði?n Tho?i 2026 - Schematic iPhone Samsung Xiaomi";
-$page_description = "T?i so d? m?ch di?n tho?i iPhone, Samsung, Xiaomi, Oppo, Vivo. Schematic chính hãng, bitmap, boardview d? s?a ch?a chuyên nghi?p. Mua so d? m?ch giá r? t?i Thuetaikhoan.net";
+ï»¿<?php
+$page_title = "So ï¿½? M?ch ï¿½i?n Tho?i 2026 - Schematic iPhone Samsung Xiaomi";
+$page_description = "T?i so d? m?ch di?n tho?i iPhone, Samsung, Xiaomi, Oppo, Vivo. Schematic chï¿½nh hï¿½ng, bitmap, boardview d? s?a ch?a chuyï¿½n nghi?p. Mua so d? m?ch giï¿½ r? t?i Thuetaikhoan.net";
 $page_keywords = "so d? m?ch di?n tho?i, schematic iphone, schematic samsung, bitmap di?n tho?i, boardview, so d? m?ch iphone";
 $canonical_url = "https://www.unlocktool.us/articles/40-so-do-mach-dien-thoai.php";
 ?>
@@ -21,7 +21,8 @@ $canonical_url = "https://www.unlocktool.us/articles/40-so-do-mach-dien-thoai.ph
     <link rel="canonical" href="<?php echo $canonical_url; ?>">\n    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">">
     <meta property="og:title" content="<?php echo $page_title; ?>">
-    <meta property="og:description" content="<?php echo $page_description; ?>">
+    <meta property="og:description" content="<?php echo $page_description; ?>
+    <meta property="og:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
     <meta property="og:type" content="article">
     
     <script type="application/ld+json">
@@ -29,9 +30,9 @@ $canonical_url = "https://www.unlocktool.us/articles/40-so-do-mach-dien-thoai.ph
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"So d? m?ch di?n tho?i là gì?","acceptedAnswer":{"@type":"Answer","text":"So d? m?ch (schematic) là b?n v? k? thu?t th? hi?n các linh ki?n và du?ng m?ch trên bo m?ch ch? di?n tho?i, dùng d? tra c?u khi s?a ch?a."}},
-        {"@type":"Question","name":"Mua so d? m?ch ? dâu?","acceptedAnswer":{"@type":"Answer","text":"Mua so d? m?ch di?n tho?i uy tín t?i Thuetaikhoan.net - d?y d? các hãng iPhone, Samsung, Xiaomi, Oppo..."}},
-        {"@type":"Question","name":"So d? m?ch có nh?ng lo?i nào?","acceptedAnswer":{"@type":"Answer","text":"Có 3 lo?i chính: Schematic (so d? nguyên lý), Bitmap (hình ?nh bo m?ch), Boardview (d?nh v? linh ki?n)."}}
+        {"@type":"Question","name":"So d? m?ch di?n tho?i lï¿½ gï¿½?","acceptedAnswer":{"@type":"Answer","text":"So d? m?ch (schematic) lï¿½ b?n v? k? thu?t th? hi?n cï¿½c linh ki?n vï¿½ du?ng m?ch trï¿½n bo m?ch ch? di?n tho?i, dï¿½ng d? tra c?u khi s?a ch?a."}},
+        {"@type":"Question","name":"Mua so d? m?ch ? dï¿½u?","acceptedAnswer":{"@type":"Answer","text":"Mua so d? m?ch di?n tho?i uy tï¿½n t?i Thuetaikhoan.net - d?y d? cï¿½c hï¿½ng iPhone, Samsung, Xiaomi, Oppo..."}},
+        {"@type":"Question","name":"So d? m?ch cï¿½ nh?ng lo?i nï¿½o?","acceptedAnswer":{"@type":"Answer","text":"Cï¿½ 3 lo?i chï¿½nh: Schematic (so d? nguyï¿½n lï¿½), Bitmap (hï¿½nh ?nh bo m?ch), Boardview (d?nh v? linh ki?n)."}}
     ]}
     </script>
     
@@ -105,7 +106,7 @@ $canonical_url = "https://www.unlocktool.us/articles/40-so-do-mach-dien-thoai.ph
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? khóa di?n tho?i",
+        "name": "D?ch v? m? khï¿½a di?n tho?i",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -123,7 +124,7 @@ $canonical_url = "https://www.unlocktool.us/articles/40-so-do-mach-dien-thoai.ph
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
             <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bï¿½i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -131,7 +132,7 @@ $canonical_url = "https://www.unlocktool.us/articles/40-so-do-mach-dien-thoai.ph
 <section class="hero-section">
     <div class="container">
         <h1><i class="fas fa-microchip me-3"></i><?php echo $page_title; ?></h1>
-        <p class="lead">So d? m?ch, Schematic, Bitmap, Boardview cho s?a ch?a di?n tho?i chuyên nghi?p</p>
+        <p class="lead">So d? m?ch, Schematic, Bitmap, Boardview cho s?a ch?a di?n tho?i chuyï¿½n nghi?p</p>
         <span class="badge bg-light text-dark"><i class="fas fa-calendar me-1"></i>25/01/2026</span>
     </div>
 </section>
@@ -143,74 +144,74 @@ $canonical_url = "https://www.unlocktool.us/articles/40-so-do-mach-dien-thoai.ph
             <div class="toc">
                 <h5><i class="fas fa-list me-2"></i>M?c l?c</h5>
                 <ul>
-                    <li><a href="#gioi-thieu">1. So d? m?ch là gì?</a></li>
-                    <li><a href="#cac-loai">2. Các lo?i so d? m?ch</a></li>
-                    <li><a href="#hang">3. So d? m?ch theo hãng</a></li>
+                    <li><a href="#gioi-thieu">1. So d? m?ch lï¿½ gï¿½?</a></li>
+                    <li><a href="#cac-loai">2. Cï¿½c lo?i so d? m?ch</a></li>
+                    <li><a href="#hang">3. So d? m?ch theo hï¿½ng</a></li>
                     <li><a href="#phan-mem">4. Ph?n m?m d?c so d? m?ch</a></li>
-                    <li><a href="#cach-su-dung">5. Cách s? d?ng so d? m?ch</a></li>
+                    <li><a href="#cach-su-dung">5. Cï¿½ch s? d?ng so d? m?ch</a></li>
                     <li><a href="#mua">6. Mua so d? m?ch</a></li>
                     <li><a href="#faq">7. FAQ</a></li>
                 </ul>
             </div>
 
             <section id="gioi-thieu" class="mt-5">
-                <h2><i class="fas fa-info-circle text-primary me-2"></i>1. So Ð? M?ch Ði?n Tho?i Là Gì?</h2>
+                <h2><i class="fas fa-info-circle text-primary me-2"></i>1. So ï¿½? M?ch ï¿½i?n Tho?i Lï¿½ Gï¿½?</h2>
                 
-                <p><strong>So d? m?ch</strong> (Schematic) là b?n v? k? thu?t th? hi?n chi ti?t các linh ki?n di?n t? và du?ng m?ch trên bo m?ch ch? c?a di?n tho?i. Ðây là tài li?u không th? thi?u cho các k? thu?t viên s?a ch?a di?n tho?i chuyên nghi?p.</p>
+                <p><strong>So d? m?ch</strong> (Schematic) lï¿½ b?n v? k? thu?t th? hi?n chi ti?t cï¿½c linh ki?n di?n t? vï¿½ du?ng m?ch trï¿½n bo m?ch ch? c?a di?n tho?i. ï¿½ï¿½y lï¿½ tï¿½i li?u khï¿½ng th? thi?u cho cï¿½c k? thu?t viï¿½n s?a ch?a di?n tho?i chuyï¿½n nghi?p.</p>
 
                 <div class="info-box">
                     <h5><i class="fas fa-lightbulb me-2"></i>T?i sao c?n so d? m?ch?</h5>
                     <ul class="mb-0">
-                        <li><strong>Tra c?u linh ki?n:</strong> Bi?t v? trí, giá tr? c?a t?ng linh ki?n</li>
-                        <li><strong>Tìm du?ng m?ch:</strong> Xác d?nh du?ng di c?a tín hi?u, ngu?n</li>
-                        <li><strong>Ch?n doán l?i:</strong> Phân tích nguyên nhân h?ng hóc</li>
-                        <li><strong>S?a ch?a chính xác:</strong> Thay th? linh ki?n dúng v? trí</li>
+                        <li><strong>Tra c?u linh ki?n:</strong> Bi?t v? trï¿½, giï¿½ tr? c?a t?ng linh ki?n</li>
+                        <li><strong>Tï¿½m du?ng m?ch:</strong> Xï¿½c d?nh du?ng di c?a tï¿½n hi?u, ngu?n</li>
+                        <li><strong>Ch?n doï¿½n l?i:</strong> Phï¿½n tï¿½ch nguyï¿½n nhï¿½n h?ng hï¿½c</li>
+                        <li><strong>S?a ch?a chï¿½nh xï¿½c:</strong> Thay th? linh ki?n dï¿½ng v? trï¿½</li>
                     </ul>
                 </div>
             </section>
 
             <section id="cac-loai" class="mt-5">
-                <h2><i class="fas fa-layer-group text-primary me-2"></i>2. Các Lo?i So Ð? M?ch</h2>
+                <h2><i class="fas fa-layer-group text-primary me-2"></i>2. Cï¿½c Lo?i So ï¿½? M?ch</h2>
 
                 <div class="row">
                     <div class="col-md-4 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-project-diagram text-primary me-2"></i>Schematic</h5>
-                            <p>So d? nguyên lý, th? hi?n m?ch di?n du?i d?ng ký hi?u và du?ng n?i.</p>
-                            <p class="text-muted small">Dùng d?: Phân tích m?ch, tìm linh ki?n thay th?</p>
+                            <p>So d? nguyï¿½n lï¿½, th? hi?n m?ch di?n du?i d?ng kï¿½ hi?u vï¿½ du?ng n?i.</p>
+                            <p class="text-muted small">Dï¿½ng d?: Phï¿½n tï¿½ch m?ch, tï¿½m linh ki?n thay th?</p>
                         </div>
                     </div>
                     <div class="col-md-4 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-image text-success me-2"></i>Bitmap</h5>
-                            <p>Hình ?nh d? phân gi?i cao c?a bo m?ch th?c t?, ch?p c? 2 m?t.</p>
-                            <p class="text-muted small">Dùng d?: Ð?nh v? linh ki?n b?ng m?t</p>
+                            <p>Hï¿½nh ?nh d? phï¿½n gi?i cao c?a bo m?ch th?c t?, ch?p c? 2 m?t.</p>
+                            <p class="text-muted small">Dï¿½ng d?: ï¿½?nh v? linh ki?n b?ng m?t</p>
                         </div>
                     </div>
                     <div class="col-md-4 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-map-marker-alt text-danger me-2"></i>Boardview</h5>
-                            <p>File tuong tác, click vào linh ki?n d? xem thông tin chi ti?t.</p>
-                            <p class="text-muted small">Dùng d?: Tra c?u nhanh, chính xác</p>
+                            <p>File tuong tï¿½c, click vï¿½o linh ki?n d? xem thï¿½ng tin chi ti?t.</p>
+                            <p class="text-muted small">Dï¿½ng d?: Tra c?u nhanh, chï¿½nh xï¿½c</p>
                         </div>
                     </div>
                 </div>
 
-                <h3>2.1. So sánh các lo?i</h3>
+                <h3>2.1. So sï¿½nh cï¿½c lo?i</h3>
                 <table class="table table-bordered">
                     <thead class="table-primary">
-                        <tr><th>Lo?i</th><th>Ð?nh d?ng</th><th>Uu di?m</th></tr>
+                        <tr><th>Lo?i</th><th>ï¿½?nh d?ng</th><th>Uu di?m</th></tr>
                     </thead>
                     <tbody>
                         <tr><td>Schematic</td><td>PDF, PNG</td><td>Chi ti?t m?ch di?n</td></tr>
                         <tr><td>Bitmap</td><td>PNG, JPG</td><td>Tr?c quan, d? xem</td></tr>
-                        <tr><td>Boardview</td><td>.brd, .fz</td><td>Tuong tác, tra c?u nhanh</td></tr>
+                        <tr><td>Boardview</td><td>.brd, .fz</td><td>Tuong tï¿½c, tra c?u nhanh</td></tr>
                     </tbody>
                 </table>
             </section>
 
             <section id="hang" class="mt-5">
-                <h2><i class="fas fa-mobile-alt text-primary me-2"></i>3. So Ð? M?ch Theo Hãng</h2>
+                <h2><i class="fas fa-mobile-alt text-primary me-2"></i>3. So ï¿½? M?ch Theo Hï¿½ng</h2>
 
                 <div class="row">
                     <div class="col-6 col-md-3 mb-3">
@@ -265,7 +266,7 @@ $canonical_url = "https://www.unlocktool.us/articles/40-so-do-mach-dien-thoai.ph
                     <div class="col-6 col-md-3 mb-3">
                         <div class="brand-card h-100">
                             <i class="fas fa-mobile-alt text-purple"></i>
-                            <h6>Khác</h6>
+                            <h6>Khï¿½c</h6>
                             <p class="small text-muted">Motorola, Nokia...</p>
                         </div>
                     </div>
@@ -273,56 +274,56 @@ $canonical_url = "https://www.unlocktool.us/articles/40-so-do-mach-dien-thoai.ph
             </section>
 
             <section id="phan-mem" class="mt-5">
-                <h2><i class="fas fa-laptop text-primary me-2"></i>4. Ph?n M?m Ð?c So Ð? M?ch</h2>
+                <h2><i class="fas fa-laptop text-primary me-2"></i>4. Ph?n M?m ï¿½?c So ï¿½? M?ch</h2>
 
-                <h3>4.1. Ð?c Schematic (PDF)</h3>
+                <h3>4.1. ï¿½?c Schematic (PDF)</h3>
                 <ul>
-                    <li><strong>Adobe Acrobat Reader:</strong> Mi?n phí, d?c PDF co b?n</li>
-                    <li><strong>Foxit Reader:</strong> Nh?, nhanh, nhi?u tính nang</li>
+                    <li><strong>Adobe Acrobat Reader:</strong> Mi?n phï¿½, d?c PDF co b?n</li>
+                    <li><strong>Foxit Reader:</strong> Nh?, nhanh, nhi?u tï¿½nh nang</li>
                 </ul>
 
-                <h3>4.2. Ð?c Boardview</h3>
+                <h3>4.2. ï¿½?c Boardview</h3>
                 <ul>
                     <li><strong>ZXWSOFT:</strong> Ph?n m?m d?c boardview ph? bi?n nh?t cho di?n tho?i</li>
-                    <li><strong>OpenBoardView:</strong> Mi?n phí, mã ngu?n m?</li>
+                    <li><strong>OpenBoardView:</strong> Mi?n phï¿½, mï¿½ ngu?n m?</li>
                     <li><strong>FlexBV:</strong> H? tr? nhi?u d?nh d?ng boardview</li>
                 </ul>
 
                 <h3>4.3. Xem Bitmap</h3>
                 <ul>
-                    <li><strong>B?t k? trình xem ?nh:</strong> Windows Photos, IrfanView...</li>
-                    <li><strong>Photoshop/GIMP:</strong> Ð? zoom và xem chi ti?t</li>
+                    <li><strong>B?t k? trï¿½nh xem ?nh:</strong> Windows Photos, IrfanView...</li>
+                    <li><strong>Photoshop/GIMP:</strong> ï¿½? zoom vï¿½ xem chi ti?t</li>
                 </ul>
             </section>
 
             <section id="cach-su-dung" class="mt-5">
-                <h2><i class="fas fa-book text-primary me-2"></i>5. Cách S? D?ng So Ð? M?ch</h2>
+                <h2><i class="fas fa-book text-primary me-2"></i>5. Cï¿½ch S? D?ng So ï¿½? M?ch</h2>
 
-                <h3>5.1. Tìm linh ki?n theo tên</h3>
-                <p>Ví d?: Tìm t? di?n C1234 trên board iPhone</p>
+                <h3>5.1. Tï¿½m linh ki?n theo tï¿½n</h3>
+                <p>Vï¿½ d?: Tï¿½m t? di?n C1234 trï¿½n board iPhone</p>
                 <ol>
                     <li>M? schematic ho?c boardview</li>
-                    <li>Dùng Ctrl+F tìm ki?m "C1234"</li>
-                    <li>Xem v? trí, giá tr? và du?ng m?ch liên quan</li>
+                    <li>Dï¿½ng Ctrl+F tï¿½m ki?m "C1234"</li>
+                    <li>Xem v? trï¿½, giï¿½ tr? vï¿½ du?ng m?ch liï¿½n quan</li>
                 </ol>
 
                 <h3>5.2. Tra du?ng ngu?n</h3>
-                <p>Khi máy không lên ngu?n, c?n tra các du?ng PP_VCC, VBAT...</p>
+                <p>Khi mï¿½y khï¿½ng lï¿½n ngu?n, c?n tra cï¿½c du?ng PP_VCC, VBAT...</p>
 
-                <h3>5.3. Tìm test point</h3>
-                <p>Test point dùng d? bypass iCloud, FRP c?n tra c?u t? so d? m?ch.</p>
+                <h3>5.3. Tï¿½m test point</h3>
+                <p>Test point dï¿½ng d? bypass iCloud, FRP c?n tra c?u t? so d? m?ch.</p>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu ý</h5>
-                    <p class="mb-0">S? d?ng so d? m?ch yêu c?u ki?n th?c di?n t? co b?n. N?u không có kinh nghi?m, hãy nh? k? thu?t viên chuyên nghi?p t?i <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a>.</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu ï¿½</h5>
+                    <p class="mb-0">S? d?ng so d? m?ch yï¿½u c?u ki?n th?c di?n t? co b?n. N?u khï¿½ng cï¿½ kinh nghi?m, hï¿½y nh? k? thu?t viï¿½n chuyï¿½n nghi?p t?i <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a>.</p>
                 </div>
             </section>
 
             <section id="mua" class="mt-5">
-                <h2><i class="fas fa-shopping-cart text-primary me-2"></i>6. Mua So Ð? M?ch Ði?n Tho?i</h2>
+                <h2><i class="fas fa-shopping-cart text-primary me-2"></i>6. Mua So ï¿½? M?ch ï¿½i?n Tho?i</h2>
 
                 <div class="price-box mb-4">
-                    <h4>B?ng Giá So Ð? M?ch</h4>
+                    <h4>B?ng Giï¿½ So ï¿½? M?ch</h4>
                     <div class="row mt-4">
                         <div class="col-md-4">
                             <h5>Schematic</h5>
@@ -332,63 +333,63 @@ $canonical_url = "https://www.unlocktool.us/articles/40-so-do-mach-dien-thoai.ph
                         <div class="col-md-4">
                             <h5>Bitmap</h5>
                             <p class="h3 fw-bold">T? 30.000d</p>
-                            <p>Hình ?nh HD</p>
+                            <p>Hï¿½nh ?nh HD</p>
                         </div>
                         <div class="col-md-4">
                             <h5>Boardview</h5>
                             <p class="h3 fw-bold">T? 100.000d</p>
-                            <p>Tuong tác</p>
+                            <p>Tuong tï¿½c</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="service-cta">
-                    <h4><i class="fas fa-microchip me-2"></i>Mua So Ð? M?ch Ði?n Tho?i</h4>
+                    <h4><i class="fas fa-microchip me-2"></i>Mua So ï¿½? M?ch ï¿½i?n Tho?i</h4>
                     <p>iPhone | Samsung | Xiaomi | Oppo | Vivo | iPad</p>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light btn-lg">
-                        <i class="fas fa-shopping-cart me-2"></i>Liên H? Thuetaikhoan.net
+                        <i class="fas fa-shopping-cart me-2"></i>Liï¿½n H? Thuetaikhoan.net
                     </a>
-                    <p class="mt-3 mb-0"><small>Có s?n nhi?u model - Giao ngay sau thanh toán</small></p>
+                    <p class="mt-3 mb-0"><small>Cï¿½ s?n nhi?u model - Giao ngay sau thanh toï¿½n</small></p>
                 </div>
             </section>
 
             <section id="faq" class="mt-5">
-                <h2><i class="fas fa-question-circle text-primary me-2"></i>7. Câu H?i Thu?ng G?p</h2>
+                <h2><i class="fas fa-question-circle text-primary me-2"></i>7. Cï¿½u H?i Thu?ng G?p</h2>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>So d? m?ch có mi?n phí không?</span>
+                        <span>So d? m?ch cï¿½ mi?n phï¿½ khï¿½ng?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>M?t s? so d? m?ch cu có th? tìm du?c mi?n phí trên internet. Tuy nhiên, các model m?i thu?ng c?n mua.</p>
+                        <p>M?t s? so d? m?ch cu cï¿½ th? tï¿½m du?c mi?n phï¿½ trï¿½n internet. Tuy nhiï¿½n, cï¿½c model m?i thu?ng c?n mua.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>C?n ph?n m?m gì d? m? boardview?</span>
+                        <span>C?n ph?n m?m gï¿½ d? m? boardview?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>ZXWSOFT là ph?n m?m ph? bi?n nh?t d? d?c boardview di?n tho?i. Ngoài ra có OpenBoardView (mi?n phí) và FlexBV.</p>
+                        <p>ZXWSOFT lï¿½ ph?n m?m ph? bi?n nh?t d? d?c boardview di?n tho?i. Ngoï¿½i ra cï¿½ OpenBoardView (mi?n phï¿½) vï¿½ FlexBV.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Mua so d? m?ch ? dâu uy tín?</span>
+                        <span>Mua so d? m?ch ? dï¿½u uy tï¿½n?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Mua so d? m?ch uy tín t?i <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a> - có s?n nhi?u model, giao ngay sau thanh toán.</p>
+                        <p>Mua so d? m?ch uy tï¿½n t?i <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a> - cï¿½ s?n nhi?u model, giao ngay sau thanh toï¿½n.</p>
                     </div>
                 </div>
             </section>
 
             <section class="mt-5">
                 <h2><i class="fas fa-flag-checkered text-primary me-2"></i>K?t Lu?n</h2>
-                <p>So d? m?ch là tài li?u không th? thi?u cho k? thu?t viên s?a ch?a di?n tho?i. V?i schematic, bitmap và boardview, b?n có th? tra c?u và s?a ch?a chính xác hon.</p>
+                <p>So d? m?ch lï¿½ tï¿½i li?u khï¿½ng th? thi?u cho k? thu?t viï¿½n s?a ch?a di?n tho?i. V?i schematic, bitmap vï¿½ boardview, b?n cï¿½ th? tra c?u vï¿½ s?a ch?a chï¿½nh xï¿½c hon.</p>
                 
                 <div class="text-center mt-4">
-                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-schematic btn-lg">Mua So Ð? M?ch - Thuetaikhoan.net</a>
+                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-schematic btn-lg">Mua So ï¿½? M?ch - Thuetaikhoan.net</a>
                 </div>
             </section>
         </div>
@@ -396,22 +397,22 @@ $canonical_url = "https://www.unlocktool.us/articles/40-so-do-mach-dien-thoai.ph
         <div class="col-lg-4">
             <div class="sticky-top" style="top:20px">
                 <div class="price-box mb-4">
-                    <h5><i class="fas fa-microchip me-2"></i>So Ð? M?ch</h5>
+                    <h5><i class="fas fa-microchip me-2"></i>So ï¿½? M?ch</h5>
                     <p>iPhone | Samsung | Xiaomi</p>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light w-100">Mua Ngay</a>
                 </div>
                 <div class="card mb-4">
                     <div class="card-header bg-primary text-white">D?ch V? K? Thu?t</div>
                     <div class="card-body">
-                        <p>C?n th? s?a ch?a chuyên nghi?p?</p>
-                        <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-primary w-100">Liên H? Ngay</a>
+                        <p>C?n th? s?a ch?a chuyï¿½n nghi?p?</p>
+                        <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-primary w-100">Liï¿½n H? Ngay</a>
                     </div>
                 </div>
                 <div class="card">
-                    <div class="card-header">Thuê Tool M? Khóa</div>
+                    <div class="card-header">Thuï¿½ Tool M? Khï¿½a</div>
                     <div class="card-body">
                         <p class="h5 fw-bold">8.000d/6H</p>
-                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-outline-primary w-100">Thuê Tool</a>
+                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-outline-primary w-100">Thuï¿½ Tool</a>
                     </div>
                 </div>
             </div>
@@ -426,7 +427,7 @@ $canonical_url = "https://www.unlocktool.us/articles/40-so-do-mach-dien-thoai.ph
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bài vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bï¿½i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -440,7 +441,7 @@ $canonical_url = "https://www.unlocktool.us/articles/40-so-do-mach-dien-thoai.ph
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài vi?t liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bï¿½i vi?t liï¿½n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
@@ -475,7 +476,7 @@ $canonical_url = "https://www.unlocktool.us/articles/40-so-do-mach-dien-thoai.ph
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Ð?i ngu k? thu?t viên chuyên nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khóa di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">ï¿½?i ngu k? thu?t viï¿½n chuyï¿½n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khï¿½a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         

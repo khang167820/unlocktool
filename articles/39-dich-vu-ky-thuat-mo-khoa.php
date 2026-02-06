@@ -1,7 +1,7 @@
-<?php
-$page_title = "D?ch V? K? Thu?t Viên M? Khóa Ði?n Tho?i 2026 - Uy Tín Giá R?";
-$page_description = "D?ch v? k? thu?t viên m? khóa di?n tho?i chuyên nghi?p: Bypass FRP, Off iCloud, xóa Knox, Mi Account. H? tr? t? xa 24/7. Giá r?, uy tín t?i Thuetaikhoan.net";
-$page_keywords = "d?ch v? m? khóa di?n tho?i, th? m? khóa di?n tho?i, d?ch v? bypass frp, d?ch v? off icloud, m? khóa t? xa";
+ï»¿<?php
+$page_title = "D?ch V? K? Thu?t Viï¿½n M? Khï¿½a ï¿½i?n Tho?i 2026 - Uy Tï¿½n Giï¿½ R?";
+$page_description = "D?ch v? k? thu?t viï¿½n m? khï¿½a di?n tho?i chuyï¿½n nghi?p: Bypass FRP, Off iCloud, xï¿½a Knox, Mi Account. H? tr? t? xa 24/7. Giï¿½ r?, uy tï¿½n t?i Thuetaikhoan.net";
+$page_keywords = "d?ch v? m? khï¿½a di?n tho?i, th? m? khï¿½a di?n tho?i, d?ch v? bypass frp, d?ch v? off icloud, m? khï¿½a t? xa";
 $canonical_url = "https://www.unlocktool.us/articles/39-dich-vu-ky-thuat-mo-khoa.php";
 ?>
 <!DOCTYPE html>
@@ -21,17 +21,18 @@ $canonical_url = "https://www.unlocktool.us/articles/39-dich-vu-ky-thuat-mo-khoa
     <link rel="canonical" href="<?php echo $canonical_url; ?>">\n    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">">
     <meta property="og:title" content="<?php echo $page_title; ?>">
-    <meta property="og:description" content="<?php echo $page_description; ?>">
+    <meta property="og:description" content="<?php echo $page_description; ?>
+    <meta property="og:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
     <meta property="og:type" content="article">
     
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"Service","name":"D?ch v? m? khóa di?n tho?i","provider":{"@type":"Organization","name":"Thuetaikhoan.net"},"description":"D?ch v? k? thu?t viên m? khóa di?n tho?i chuyên nghi?p","areaServed":"VN","offers":{"@type":"AggregateOffer","lowPrice":"50000","highPrice":"2000000","priceCurrency":"VND"}}
+    {"@context":"https://schema.org","@type":"Service","name":"D?ch v? m? khï¿½a di?n tho?i","provider":{"@type":"Organization","name":"Thuetaikhoan.net"},"description":"D?ch v? k? thu?t viï¿½n m? khï¿½a di?n tho?i chuyï¿½n nghi?p","areaServed":"VN","offers":{"@type":"AggregateOffer","lowPrice":"50000","highPrice":"2000000","priceCurrency":"VND"}}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"D?ch v? m? khóa t? xa là gì?","acceptedAnswer":{"@type":"Answer","text":"K? thu?t viên s? k?t n?i v?i máy tính c?a b?n qua TeamViewer/AnyDesk và th?c hi?n m? khóa di?n tho?i mà không c?n g?i máy di."}},
-        {"@type":"Question","name":"Giá d?ch v? m? khóa bao nhiêu?","acceptedAnswer":{"@type":"Answer","text":"Giá t? 50.000d (FRP don gi?n) d?n 2.000.000d (Off iCloud iPhone m?i). Liên h? Thuetaikhoan.net d? du?c báo giá chính xác."}},
-        {"@type":"Question","name":"Có b?o hành sau khi m? khóa không?","acceptedAnswer":{"@type":"Answer","text":"Có, chúng tôi cam k?t b?o hành theo t?ng d?ch v?. Không thành công - hoàn ti?n 100%."}}
+        {"@type":"Question","name":"D?ch v? m? khï¿½a t? xa lï¿½ gï¿½?","acceptedAnswer":{"@type":"Answer","text":"K? thu?t viï¿½n s? k?t n?i v?i mï¿½y tï¿½nh c?a b?n qua TeamViewer/AnyDesk vï¿½ th?c hi?n m? khï¿½a di?n tho?i mï¿½ khï¿½ng c?n g?i mï¿½y di."}},
+        {"@type":"Question","name":"Giï¿½ d?ch v? m? khï¿½a bao nhiï¿½u?","acceptedAnswer":{"@type":"Answer","text":"Giï¿½ t? 50.000d (FRP don gi?n) d?n 2.000.000d (Off iCloud iPhone m?i). Liï¿½n h? Thuetaikhoan.net d? du?c bï¿½o giï¿½ chï¿½nh xï¿½c."}},
+        {"@type":"Question","name":"Cï¿½ b?o hï¿½nh sau khi m? khï¿½a khï¿½ng?","acceptedAnswer":{"@type":"Answer","text":"Cï¿½, chï¿½ng tï¿½i cam k?t b?o hï¿½nh theo t?ng d?ch v?. Khï¿½ng thï¿½nh cï¿½ng - hoï¿½n ti?n 100%."}}
     ]}
     </script>
     
@@ -106,7 +107,7 @@ $canonical_url = "https://www.unlocktool.us/articles/39-dich-vu-ky-thuat-mo-khoa
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? khóa di?n tho?i",
+        "name": "D?ch v? m? khï¿½a di?n tho?i",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -124,7 +125,7 @@ $canonical_url = "https://www.unlocktool.us/articles/39-dich-vu-ky-thuat-mo-khoa
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
             <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bï¿½i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -132,10 +133,10 @@ $canonical_url = "https://www.unlocktool.us/articles/39-dich-vu-ky-thuat-mo-khoa
 <section class="hero-section">
     <div class="container">
         <h1><i class="fas fa-user-cog me-3"></i><?php echo $page_title; ?></h1>
-        <p class="lead">Th? k? thu?t chuyên nghi?p - H? tr? t? xa 24/7 - Không thành công không thu phí!</p>
+        <p class="lead">Th? k? thu?t chuyï¿½n nghi?p - H? tr? t? xa 24/7 - Khï¿½ng thï¿½nh cï¿½ng khï¿½ng thu phï¿½!</p>
         <div class="mt-4">
             <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light btn-lg me-2">
-                <i class="fas fa-phone me-2"></i>Liên H? Ngay
+                <i class="fas fa-phone me-2"></i>Liï¿½n H? Ngay
             </a>
             <span class="badge bg-light text-dark"><i class="fas fa-calendar me-1"></i>25/01/2026</span>
         </div>
@@ -150,11 +151,11 @@ $canonical_url = "https://www.unlocktool.us/articles/39-dich-vu-ky-thuat-mo-khoa
                 <h5><i class="fas fa-list me-2"></i>M?c l?c</h5>
                 <ul>
                     <li><a href="#gioi-thieu">1. Gi?i thi?u d?ch v?</a></li>
-                    <li><a href="#dich-vu">2. Danh sách d?ch v?</a></li>
-                    <li><a href="#bang-gia">3. B?ng giá d?ch v?</a></li>
-                    <li><a href="#quy-trinh">4. Quy trình làm vi?c</a></li>
+                    <li><a href="#dich-vu">2. Danh sï¿½ch d?ch v?</a></li>
+                    <li><a href="#bang-gia">3. B?ng giï¿½ d?ch v?</a></li>
+                    <li><a href="#quy-trinh">4. Quy trï¿½nh lï¿½m vi?c</a></li>
                     <li><a href="#cam-ket">5. Cam k?t ch?t lu?ng</a></li>
-                    <li><a href="#lien-he">6. Liên h? d?t d?ch v?</a></li>
+                    <li><a href="#lien-he">6. Liï¿½n h? d?t d?ch v?</a></li>
                     <li><a href="#faq">7. FAQ</a></li>
                 </ul>
             </div>
@@ -162,77 +163,77 @@ $canonical_url = "https://www.unlocktool.us/articles/39-dich-vu-ky-thuat-mo-khoa
             <section id="gioi-thieu" class="mt-5">
                 <h2><i class="fas fa-info-circle text-success me-2"></i>1. Gi?i Thi?u D?ch V?</h2>
                 
-                <p>B?n g?p v?n d? v?i di?n tho?i b? khóa mà không t? x? lý du?c? Ð?i ngu <strong>k? thu?t viên chuyên nghi?p</strong> c?a chúng tôi s?n sàng h? tr? b?n 24/7!</p>
+                <p>B?n g?p v?n d? v?i di?n tho?i b? khï¿½a mï¿½ khï¿½ng t? x? lï¿½ du?c? ï¿½?i ngu <strong>k? thu?t viï¿½n chuyï¿½n nghi?p</strong> c?a chï¿½ng tï¿½i s?n sï¿½ng h? tr? b?n 24/7!</p>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-check-circle me-2"></i>T?i sao ch?n chúng tôi?</h5>
+                    <h5><i class="fas fa-check-circle me-2"></i>T?i sao ch?n chï¿½ng tï¿½i?</h5>
                     <ul class="mb-0">
-                        <li><strong>Kinh nghi?m 5+ nam</strong> trong linh v?c m? khóa di?n tho?i</li>
-                        <li><strong>H? tr? t? xa</strong> qua TeamViewer/AnyDesk - không c?n g?i máy</li>
-                        <li><strong>Cam k?t 100%</strong> - Không thành công, hoàn ti?n</li>
-                        <li><strong>Giá c? minh b?ch</strong> - Báo giá tru?c, không phát sinh</li>
-                        <li><strong>B?o hành</strong> theo t?ng d?ch v?</li>
+                        <li><strong>Kinh nghi?m 5+ nam</strong> trong linh v?c m? khï¿½a di?n tho?i</li>
+                        <li><strong>H? tr? t? xa</strong> qua TeamViewer/AnyDesk - khï¿½ng c?n g?i mï¿½y</li>
+                        <li><strong>Cam k?t 100%</strong> - Khï¿½ng thï¿½nh cï¿½ng, hoï¿½n ti?n</li>
+                        <li><strong>Giï¿½ c? minh b?ch</strong> - Bï¿½o giï¿½ tru?c, khï¿½ng phï¿½t sinh</li>
+                        <li><strong>B?o hï¿½nh</strong> theo t?ng d?ch v?</li>
                     </ul>
                 </div>
 
-                <h3>1.1. H? tr? t? xa là gì?</h3>
-                <p>Thay vì ph?i mang máy d?n c?a hàng ho?c g?i di, k? thu?t viên s?:</p>
+                <h3>1.1. H? tr? t? xa lï¿½ gï¿½?</h3>
+                <p>Thay vï¿½ ph?i mang mï¿½y d?n c?a hï¿½ng ho?c g?i di, k? thu?t viï¿½n s?:</p>
                 <ol>
-                    <li>K?t n?i v?i máy tính c?a b?n qua TeamViewer/AnyDesk</li>
-                    <li>Hu?ng d?n b?n k?t n?i di?n tho?i v?i máy tính</li>
-                    <li>Th?c hi?n các thao tác m? khóa</li>
-                    <li>Hoàn t?t và bàn giao</li>
+                    <li>K?t n?i v?i mï¿½y tï¿½nh c?a b?n qua TeamViewer/AnyDesk</li>
+                    <li>Hu?ng d?n b?n k?t n?i di?n tho?i v?i mï¿½y tï¿½nh</li>
+                    <li>Th?c hi?n cï¿½c thao tï¿½c m? khï¿½a</li>
+                    <li>Hoï¿½n t?t vï¿½ bï¿½n giao</li>
                 </ol>
-                <p class="text-muted"><em>B?n có th? theo dõi toàn b? quá trình trên màn hình!</em></p>
+                <p class="text-muted"><em>B?n cï¿½ th? theo dï¿½i toï¿½n b? quï¿½ trï¿½nh trï¿½n mï¿½n hï¿½nh!</em></p>
             </section>
 
             <section id="dich-vu" class="mt-5">
-                <h2><i class="fas fa-list-check text-success me-2"></i>2. Danh Sách D?ch V?</h2>
+                <h2><i class="fas fa-list-check text-success me-2"></i>2. Danh Sï¿½ch D?ch V?</h2>
 
                 <div class="row">
                     <div class="col-md-6 mb-4">
                         <div class="service-card h-100">
                             <i class="fas fa-unlock text-primary"></i>
                             <h4>Bypass FRP Google</h4>
-                            <p>M? khóa xác minh Google cho t?t c? di?n tho?i Android sau factory reset.</p>
+                            <p>M? khï¿½a xï¿½c minh Google cho t?t c? di?n tho?i Android sau factory reset.</p>
                             <p class="price">T? 50.000d</p>
-                            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-primary">Ð?t d?ch v?</a>
+                            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-primary">ï¿½?t d?ch v?</a>
                         </div>
                     </div>
                     <div class="col-md-6 mb-4">
                         <div class="service-card h-100">
                             <i class="fab fa-apple text-dark"></i>
                             <h4>Bypass/Off iCloud</h4>
-                            <p>Bypass, Off ho?c ?n iCloud cho iPhone/iPad các d?i t? 6 d?n 15.</p>
+                            <p>Bypass, Off ho?c ?n iCloud cho iPhone/iPad cï¿½c d?i t? 6 d?n 15.</p>
                             <p class="price">T? 200.000d</p>
-                            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-primary">Ð?t d?ch v?</a>
+                            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-primary">ï¿½?t d?ch v?</a>
                         </div>
                     </div>
                     <div class="col-md-6 mb-4">
                         <div class="service-card h-100">
                             <i class="fas fa-user-times text-danger"></i>
-                            <h4>Xóa Mi Account</h4>
-                            <p>Xóa tài kho?n Xiaomi/Redmi/POCO không c?n m?t kh?u.</p>
+                            <h4>Xï¿½a Mi Account</h4>
+                            <p>Xï¿½a tï¿½i kho?n Xiaomi/Redmi/POCO khï¿½ng c?n m?t kh?u.</p>
                             <p class="price">T? 100.000d</p>
-                            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-primary">Ð?t d?ch v?</a>
+                            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-primary">ï¿½?t d?ch v?</a>
                         </div>
                     </div>
                     <div class="col-md-6 mb-4">
                         <div class="service-card h-100">
                             <i class="fas fa-building text-warning"></i>
-                            <h4>Xóa Knox/MDM Samsung</h4>
-                            <p>Xóa Knox Enrollment, Knox Guard, MDM t? Samsung doanh nghi?p.</p>
+                            <h4>Xï¿½a Knox/MDM Samsung</h4>
+                            <p>Xï¿½a Knox Enrollment, Knox Guard, MDM t? Samsung doanh nghi?p.</p>
                             <p class="price">T? 100.000d</p>
-                            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-primary">Ð?t d?ch v?</a>
+                            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-primary">ï¿½?t d?ch v?</a>
                         </div>
                     </div>
                     <div class="col-md-6 mb-4">
                         <div class="service-card h-100">
                             <i class="fas fa-key text-info"></i>
-                            <h4>Xóa Pattern/PIN</h4>
-                            <p>M? khóa màn hình quên m?t kh?u, pattern, PIN.</p>
+                            <h4>Xï¿½a Pattern/PIN</h4>
+                            <p>M? khï¿½a mï¿½n hï¿½nh quï¿½n m?t kh?u, pattern, PIN.</p>
                             <p class="price">T? 50.000d</p>
-                            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-primary">Ð?t d?ch v?</a>
+                            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-primary">ï¿½?t d?ch v?</a>
                         </div>
                     </div>
                     <div class="col-md-6 mb-4">
@@ -241,91 +242,91 @@ $canonical_url = "https://www.unlocktool.us/articles/39-dich-vu-ky-thuat-mo-khoa
                             <h4>Check/Fix IMEI</h4>
                             <p>Ki?m tra IMEI, s?a IMEI b? m?t ho?c null.</p>
                             <p class="price">T? 50.000d</p>
-                            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-primary">Ð?t d?ch v?</a>
+                            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-primary">ï¿½?t d?ch v?</a>
                         </div>
                     </div>
                     <div class="col-md-6 mb-4">
                         <div class="service-card h-100">
                             <i class="fas fa-sim-card text-success"></i>
                             <h4>Unlock Network</h4>
-                            <p>M? khóa m?ng nhà m?ng (AT&T, T-Mobile, Sprint...).</p>
+                            <p>M? khï¿½a m?ng nhï¿½ m?ng (AT&T, T-Mobile, Sprint...).</p>
                             <p class="price">T? 150.000d</p>
-                            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-primary">Ð?t d?ch v?</a>
+                            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-primary">ï¿½?t d?ch v?</a>
                         </div>
                     </div>
                     <div class="col-md-6 mb-4">
                         <div class="service-card h-100">
                             <i class="fas fa-search text-purple"></i>
                             <h4>Check IMEI</h4>
-                            <p>Ki?m tra iCloud, Knox, Blacklist, Carrier tru?c khi mua máy.</p>
+                            <p>Ki?m tra iCloud, Knox, Blacklist, Carrier tru?c khi mua mï¿½y.</p>
                             <p class="price">T? 10.000d</p>
-                            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-primary">Ð?t d?ch v?</a>
+                            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-primary">ï¿½?t d?ch v?</a>
                         </div>
                     </div>
                 </div>
             </section>
 
             <section id="bang-gia" class="mt-5">
-                <h2><i class="fas fa-tags text-success me-2"></i>3. B?ng Giá D?ch V?</h2>
+                <h2><i class="fas fa-tags text-success me-2"></i>3. B?ng Giï¿½ D?ch V?</h2>
 
                 <table class="table table-striped">
                     <thead class="table-success">
                         <tr>
                             <th>D?ch v?</th>
-                            <th>Giá t?</th>
+                            <th>Giï¿½ t?</th>
                             <th>Th?i gian</th>
                         </tr>
                     </thead>
                     <tbody>
-                        <tr><td>Bypass FRP Samsung</td><td>50.000d</td><td>15-30 phút</td></tr>
-                        <tr><td>Bypass FRP Xiaomi</td><td>50.000d</td><td>15-30 phút</td></tr>
-                        <tr><td>Bypass FRP Oppo/Vivo</td><td>80.000d</td><td>30-60 phút</td></tr>
-                        <tr><td>Xóa Mi Account</td><td>100.000d</td><td>30-60 phút</td></tr>
-                        <tr><td>Xóa Knox/MDM Samsung</td><td>100.000d</td><td>30-60 phút</td></tr>
-                        <tr><td>Bypass iCloud (WiFi)</td><td>200.000d</td><td>30-60 phút</td></tr>
-                        <tr><td>Bypass iCloud (có SIM)</td><td>400.000d</td><td>1-2 gi?</td></tr>
+                        <tr><td>Bypass FRP Samsung</td><td>50.000d</td><td>15-30 phï¿½t</td></tr>
+                        <tr><td>Bypass FRP Xiaomi</td><td>50.000d</td><td>15-30 phï¿½t</td></tr>
+                        <tr><td>Bypass FRP Oppo/Vivo</td><td>80.000d</td><td>30-60 phï¿½t</td></tr>
+                        <tr><td>Xï¿½a Mi Account</td><td>100.000d</td><td>30-60 phï¿½t</td></tr>
+                        <tr><td>Xï¿½a Knox/MDM Samsung</td><td>100.000d</td><td>30-60 phï¿½t</td></tr>
+                        <tr><td>Bypass iCloud (WiFi)</td><td>200.000d</td><td>30-60 phï¿½t</td></tr>
+                        <tr><td>Bypass iCloud (cï¿½ SIM)</td><td>400.000d</td><td>1-2 gi?</td></tr>
                         <tr><td>?n iCloud</td><td>500.000d</td><td>1-3 gi?</td></tr>
-                        <tr><td>Off iCloud Clean</td><td>800.000d - 2.500.000d</td><td>1-7 ngày</td></tr>
-                        <tr><td>Xóa Pattern/PIN</td><td>50.000d</td><td>15-30 phút</td></tr>
-                        <tr><td>Fix IMEI</td><td>100.000d</td><td>30-60 phút</td></tr>
+                        <tr><td>Off iCloud Clean</td><td>800.000d - 2.500.000d</td><td>1-7 ngï¿½y</td></tr>
+                        <tr><td>Xï¿½a Pattern/PIN</td><td>50.000d</td><td>15-30 phï¿½t</td></tr>
+                        <tr><td>Fix IMEI</td><td>100.000d</td><td>30-60 phï¿½t</td></tr>
                         <tr><td>Unlock Network</td><td>150.000d</td><td>1-24 gi?</td></tr>
                         <tr><td>Check IMEI chi ti?t</td><td>10.000d - 50.000d</td><td>Ngay l?p t?c</td></tr>
                     </tbody>
                 </table>
-                <p class="text-muted"><em>* Giá có th? thay d?i tùy model và tình tr?ng. Liên h? d? du?c báo giá chính xác.</em></p>
+                <p class="text-muted"><em>* Giï¿½ cï¿½ th? thay d?i tï¿½y model vï¿½ tï¿½nh tr?ng. Liï¿½n h? d? du?c bï¿½o giï¿½ chï¿½nh xï¿½c.</em></p>
             </section>
 
             <section id="quy-trinh" class="mt-5">
-                <h2><i class="fas fa-tasks text-success me-2"></i>4. Quy Trình Làm Vi?c</h2>
+                <h2><i class="fas fa-tasks text-success me-2"></i>4. Quy Trï¿½nh Lï¿½m Vi?c</h2>
 
                 <div class="step-card">
                     <div class="step-number">1</div>
-                    <h5 class="mt-3">Liên h? & Báo giá</h5>
-                    <p class="mb-0">Liên h? qua Zalo/Facebook t?i <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a>, mô t? v?n d? và nh?n báo giá mi?n phí.</p>
+                    <h5 class="mt-3">Liï¿½n h? & Bï¿½o giï¿½</h5>
+                    <p class="mb-0">Liï¿½n h? qua Zalo/Facebook t?i <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a>, mï¿½ t? v?n d? vï¿½ nh?n bï¿½o giï¿½ mi?n phï¿½.</p>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">2</div>
-                    <h5 class="mt-3">Xác nh?n & H?n gi?</h5>
-                    <p class="mb-0">Xác nh?n d?ch v? và h?n gi? làm vi?c phù h?p.</p>
+                    <h5 class="mt-3">Xï¿½c nh?n & H?n gi?</h5>
+                    <p class="mb-0">Xï¿½c nh?n d?ch v? vï¿½ h?n gi? lï¿½m vi?c phï¿½ h?p.</p>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">3</div>
                     <h5 class="mt-3">K?t n?i t? xa</h5>
-                    <p class="mb-0">Cài TeamViewer/AnyDesk, chia s? ID d? k? thu?t viên k?t n?i.</p>
+                    <p class="mb-0">Cï¿½i TeamViewer/AnyDesk, chia s? ID d? k? thu?t viï¿½n k?t n?i.</p>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">4</div>
-                    <h5 class="mt-3">Th?c hi?n m? khóa</h5>
-                    <p class="mb-0">K? thu?t viên th?c hi?n, b?n theo dõi toàn b? quá trình.</p>
+                    <h5 class="mt-3">Th?c hi?n m? khï¿½a</h5>
+                    <p class="mb-0">K? thu?t viï¿½n th?c hi?n, b?n theo dï¿½i toï¿½n b? quï¿½ trï¿½nh.</p>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">5</div>
-                    <h5 class="mt-3">Hoàn t?t & Thanh toán</h5>
-                    <p class="mb-0">Ki?m tra k?t qu?, thanh toán qua QR/Momo/Bank sau khi thành công.</p>
+                    <h5 class="mt-3">Hoï¿½n t?t & Thanh toï¿½n</h5>
+                    <p class="mb-0">Ki?m tra k?t qu?, thanh toï¿½n qua QR/Momo/Bank sau khi thï¿½nh cï¿½ng.</p>
                 </div>
             </section>
 
@@ -336,17 +337,17 @@ $canonical_url = "https://www.unlocktool.us/articles/39-dich-vu-ky-thuat-mo-khoa
                     <div class="row text-center">
                         <div class="col-md-4 mb-3">
                             <i class="fas fa-hand-holding-usd fa-3x mb-3"></i>
-                            <h5>Không Thành Công</h5>
-                            <p>Hoàn ti?n 100%</p>
+                            <h5>Khï¿½ng Thï¿½nh Cï¿½ng</h5>
+                            <p>Hoï¿½n ti?n 100%</p>
                         </div>
                         <div class="col-md-4 mb-3">
                             <i class="fas fa-headset fa-3x mb-3"></i>
                             <h5>H? Tr? 24/7</h5>
-                            <p>S?n sàng m?i lúc</p>
+                            <p>S?n sï¿½ng m?i lï¿½c</p>
                         </div>
                         <div class="col-md-4 mb-3">
                             <i class="fas fa-certificate fa-3x mb-3"></i>
-                            <h5>B?o Hành</h5>
+                            <h5>B?o Hï¿½nh</h5>
                             <p>Theo t?ng d?ch v?</p>
                         </div>
                     </div>
@@ -354,68 +355,68 @@ $canonical_url = "https://www.unlocktool.us/articles/39-dich-vu-ky-thuat-mo-khoa
             </section>
 
             <section id="lien-he" class="mt-5">
-                <h2><i class="fas fa-phone text-success me-2"></i>6. Liên H? Ð?t D?ch V?</h2>
+                <h2><i class="fas fa-phone text-success me-2"></i>6. Liï¿½n H? ï¿½?t D?ch V?</h2>
 
                 <div class="cta-section">
-                    <h3><i class="fas fa-headset me-2"></i>Ð?t D?ch V? Ngay Hôm Nay!</h3>
-                    <p class="lead">K? thu?t viên kinh nghi?m - H? tr? t? xa 24/7</p>
+                    <h3><i class="fas fa-headset me-2"></i>ï¿½?t D?ch V? Ngay Hï¿½m Nay!</h3>
+                    <p class="lead">K? thu?t viï¿½n kinh nghi?m - H? tr? t? xa 24/7</p>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light btn-lg">
                         <i class="fas fa-external-link-alt me-2"></i>Thuetaikhoan.net
                     </a>
-                    <p class="mt-4 mb-0">Ho?c t? làm v?i tool thuê giá r?:</p>
+                    <p class="mt-4 mb-0">Ho?c t? lï¿½m v?i tool thuï¿½ giï¿½ r?:</p>
                     <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-outline-light mt-2">
-                        <i class="fas fa-tools me-2"></i>Thuê Tool 8K/6H - UnlockTool.us
+                        <i class="fas fa-tools me-2"></i>Thuï¿½ Tool 8K/6H - UnlockTool.us
                     </a>
                 </div>
             </section>
 
             <section id="faq" class="mt-5">
-                <h2><i class="fas fa-question-circle text-success me-2"></i>7. Câu H?i Thu?ng G?p</h2>
+                <h2><i class="fas fa-question-circle text-success me-2"></i>7. Cï¿½u H?i Thu?ng G?p</h2>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>H? tr? t? xa có an toàn không?</span>
+                        <span>H? tr? t? xa cï¿½ an toï¿½n khï¿½ng?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Có, b?n có th? theo dõi toàn b? quá trình trên màn hình. Khi hoàn t?t, ch? c?n t?t TeamViewer/AnyDesk là k? thu?t viên không còn quy?n truy c?p.</p>
+                        <p>Cï¿½, b?n cï¿½ th? theo dï¿½i toï¿½n b? quï¿½ trï¿½nh trï¿½n mï¿½n hï¿½nh. Khi hoï¿½n t?t, ch? c?n t?t TeamViewer/AnyDesk lï¿½ k? thu?t viï¿½n khï¿½ng cï¿½n quy?n truy c?p.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>N?u không thành công thì sao?</span>
+                        <span>N?u khï¿½ng thï¿½nh cï¿½ng thï¿½ sao?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Chúng tôi cam k?t hoàn ti?n 100% n?u không m? khóa thành công. B?n không m?t gì!</p>
+                        <p>Chï¿½ng tï¿½i cam k?t hoï¿½n ti?n 100% n?u khï¿½ng m? khï¿½a thï¿½nh cï¿½ng. B?n khï¿½ng m?t gï¿½!</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Có c?n g?i máy di không?</span>
+                        <span>Cï¿½ c?n g?i mï¿½y di khï¿½ng?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Không, h?u h?t d?ch v? có th? th?c hi?n t? xa. B?n ch? c?n có máy tính k?t n?i internet và cáp USB.</p>
+                        <p>Khï¿½ng, h?u h?t d?ch v? cï¿½ th? th?c hi?n t? xa. B?n ch? c?n cï¿½ mï¿½y tï¿½nh k?t n?i internet vï¿½ cï¿½p USB.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Thanh toán nhu th? nào?</span>
+                        <span>Thanh toï¿½n nhu th? nï¿½o?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Thanh toán sau khi hoàn t?t thành công, qua QR Code ngân hàng, Momo, ZaloPay ho?c chuy?n kho?n.</p>
+                        <p>Thanh toï¿½n sau khi hoï¿½n t?t thï¿½nh cï¿½ng, qua QR Code ngï¿½n hï¿½ng, Momo, ZaloPay ho?c chuy?n kho?n.</p>
                     </div>
                 </div>
             </section>
 
             <section class="mt-5">
                 <h2><i class="fas fa-flag-checkered text-success me-2"></i>K?t Lu?n</h2>
-                <p>D?ch v? k? thu?t viên m? khóa di?n tho?i giúp b?n gi?i quy?t các v?n d? ph?c t?p mà không c?n t? th?c hi?n. V?i cam k?t không thành công hoàn ti?n, b?n hoàn toàn yên tâm khi s? d?ng d?ch v? t?i <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a>!</p>
+                <p>D?ch v? k? thu?t viï¿½n m? khï¿½a di?n tho?i giï¿½p b?n gi?i quy?t cï¿½c v?n d? ph?c t?p mï¿½ khï¿½ng c?n t? th?c hi?n. V?i cam k?t khï¿½ng thï¿½nh cï¿½ng hoï¿½n ti?n, b?n hoï¿½n toï¿½n yï¿½n tï¿½m khi s? d?ng d?ch v? t?i <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a>!</p>
                 
                 <div class="text-center mt-4">
-                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-service btn-lg me-2 mb-2">Ð?t D?ch V? K? Thu?t</a>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-outline-success btn-lg mb-2">T? Làm - Thuê Tool 8K</a>
+                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-service btn-lg me-2 mb-2">ï¿½?t D?ch V? K? Thu?t</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-outline-success btn-lg mb-2">T? Lï¿½m - Thuï¿½ Tool 8K</a>
                 </div>
             </section>
         </div>
@@ -424,7 +425,7 @@ $canonical_url = "https://www.unlocktool.us/articles/39-dich-vu-ky-thuat-mo-khoa
             <div class="sticky-top" style="top:20px">
                 <div class="card mb-4" style="background:linear-gradient(135deg,#11998e 0%,#38ef7d 100%);color:white">
                     <div class="card-body text-center">
-                        <h5><i class="fas fa-headset me-2"></i>Liên H? Ngay</h5>
+                        <h5><i class="fas fa-headset me-2"></i>Liï¿½n H? Ngay</h5>
                         <p>H? tr? 24/7</p>
                         <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light w-100">Thuetaikhoan.net</a>
                     </div>
@@ -435,17 +436,17 @@ $canonical_url = "https://www.unlocktool.us/articles/39-dich-vu-ky-thuat-mo-khoa
                         <ul class="list-unstyled mb-0">
                             <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Bypass FRP: t? 50K</li>
                             <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Off iCloud: t? 200K</li>
-                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Xóa Mi Account: t? 100K</li>
-                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Xóa Knox: t? 100K</li>
+                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Xï¿½a Mi Account: t? 100K</li>
+                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Xï¿½a Knox: t? 100K</li>
                         </ul>
                     </div>
                 </div>
                 <div class="card">
-                    <div class="card-header">T? Làm?</div>
+                    <div class="card-header">T? Lï¿½m?</div>
                     <div class="card-body">
-                        <p>Thuê tool m? khóa giá r?:</p>
+                        <p>Thuï¿½ tool m? khï¿½a giï¿½ r?:</p>
                         <p class="h4 fw-bold text-success">8.000d/6H</p>
-                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-outline-success w-100">Thuê Tool</a>
+                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-outline-success w-100">Thuï¿½ Tool</a>
                     </div>
                 </div>
             </div>
@@ -460,7 +461,7 @@ $canonical_url = "https://www.unlocktool.us/articles/39-dich-vu-ky-thuat-mo-khoa
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bài vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bï¿½i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -474,7 +475,7 @@ $canonical_url = "https://www.unlocktool.us/articles/39-dich-vu-ky-thuat-mo-khoa
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài vi?t liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bï¿½i vi?t liï¿½n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
@@ -509,7 +510,7 @@ $canonical_url = "https://www.unlocktool.us/articles/39-dich-vu-ky-thuat-mo-khoa
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Ð?i ngu k? thu?t viên chuyên nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khóa di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">ï¿½?i ngu k? thu?t viï¿½n chuyï¿½n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khï¿½a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -517,7 +518,7 @@ $canonical_url = "https://www.unlocktool.us/articles/39-dich-vu-ky-thuat-mo-khoa
 </div>
 <footer class="bg-dark text-white py-4">
     <div class="container text-center">
-        <p>&copy; 2026 UnlockTool.us - Thuetaikhoan.net | D?ch v? m? khóa di?n tho?i uy tín</p>
+        <p>&copy; 2026 UnlockTool.us - Thuetaikhoan.net | D?ch v? m? khï¿½a di?n tho?i uy tï¿½n</p>
     </div>
 </footer>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>

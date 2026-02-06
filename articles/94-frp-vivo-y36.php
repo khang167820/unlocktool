@@ -1,7 +1,7 @@
-<?php
-$page_title = "Bypass FRP Vivo Y36 / Y36 5G 2026 - Hu?ng D?n Xóa Tài Kho?n Google Chi Ti?t | 8K/6H";
-$page_description = "Hu?ng d?n bypass FRP Vivo Y36, Y36 5G chi ti?t nh?t 2026. Xóa tài kho?n Google sau reset b?ng UnlockTool qua Fastboot, BROM Mode. Thuê tool 8.000d/6h t?i UnlockTool.us";
-$page_keywords = "bypass frp vivo y36, xóa frp vivo y36, frp vivo y36 5g, google account vivo y36, vivo y36 google bypass, vivo y36 frp android 14, vivo y36 remove frp 2026";
+ï»¿<?php
+$page_title = "Bypass FRP Vivo Y36 / Y36 5G 2026 - Hu?ng D?n Xï¿½a Tï¿½i Kho?n Google Chi Ti?t | 8K/6H";
+$page_description = "Hu?ng d?n bypass FRP Vivo Y36, Y36 5G chi ti?t nh?t 2026. Xï¿½a tï¿½i kho?n Google sau reset b?ng UnlockTool qua Fastboot, BROM Mode. Thuï¿½ tool 8.000d/6h t?i UnlockTool.us";
+$page_keywords = "bypass frp vivo y36, xï¿½a frp vivo y36, frp vivo y36 5g, google account vivo y36, vivo y36 google bypass, vivo y36 frp android 14, vivo y36 remove frp 2026";
 $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
 ?>
 <!DOCTYPE html>
@@ -23,42 +23,43 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
     
     <meta property="og:type" content="article">
     <meta property="og:title" content="<?php echo $page_title; ?>">
-    <meta property="og:description" content="<?php echo $page_description; ?>">
+    <meta property="og:description" content="<?php echo $page_description; ?>
+    <meta property="og:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
     <meta property="og:url" content="<?php echo $canonical_url; ?>">
     
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Article","headline":"<?php echo $page_title; ?>","description":"<?php echo $page_description; ?>","author":{"@type":"Organization","name":"UnlockTool.us"},"publisher":{"@type":"Organization","name":"UnlockTool.us"},"datePublished":"2026-01-26","dateModified":"2026-01-26"}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"HowTo","name":"Bypass FRP Vivo Y36","description":"Hu?ng d?n chi ti?t xóa tài kho?n Google trên Vivo Y36","totalTime":"PT30M","estimatedCost":{"@type":"MonetaryAmount","currency":"VND","value":"8000"},"step":[
-        {"@type":"HowToStep","position":1,"name":"Cài d?t driver","text":"T?i và cài Qualcomm USB Driver ho?c MediaTek VCOM Driver tùy phiên b?n Vivo Y36","url":"https://file.unlocktool.net/page/all-driver"},
-        {"@type":"HowToStep","position":2,"name":"T?i UnlockTool","text":"T?i ph?n m?m UnlockTool t? file.unlocktool.net và gi?i nén","url":"https://file.unlocktool.net/page/index.php"},
-        {"@type":"HowToStep","position":3,"name":"Thuê tài kho?n","text":"Thuê tài kho?n UnlockTool 8.000d/6 ti?ng t?i UnlockTool.us","url":"https://www.unlocktool.us/"},
-        {"@type":"HowToStep","position":4,"name":"Vào Fastboot Mode","text":"T?t ngu?n Vivo Y36, gi? Vol Down + Power d? vào Fastboot Mode"},
-        {"@type":"HowToStep","position":5,"name":"K?t n?i máy tính","text":"K?t n?i Vivo Y36 v?i máy tính qua cáp USB-C"},
-        {"@type":"HowToStep","position":6,"name":"M? UnlockTool","text":"Ch?y UnlockTool v?i quy?n Administrator và dang nh?p tài kho?n"},
-        {"@type":"HowToStep","position":7,"name":"Ch?n Vivo","text":"Trong UnlockTool, ch?n tab Vivo ho?c Qualcomm/MTK tùy model"},
-        {"@type":"HowToStep","position":8,"name":"Remove FRP","text":"Nh?n Remove FRP và ch? quá trình hoàn t?t trong 5-15 phút"},
-        {"@type":"HowToStep","position":9,"name":"Kh?i d?ng l?i","text":"Máy t? kh?i d?ng l?i và FRP dã du?c xóa thành công"}
+    {"@context":"https://schema.org","@type":"HowTo","name":"Bypass FRP Vivo Y36","description":"Hu?ng d?n chi ti?t xï¿½a tï¿½i kho?n Google trï¿½n Vivo Y36","totalTime":"PT30M","estimatedCost":{"@type":"MonetaryAmount","currency":"VND","value":"8000"},"step":[
+        {"@type":"HowToStep","position":1,"name":"Cï¿½i d?t driver","text":"T?i vï¿½ cï¿½i Qualcomm USB Driver ho?c MediaTek VCOM Driver tï¿½y phiï¿½n b?n Vivo Y36","url":"https://file.unlocktool.net/page/all-driver"},
+        {"@type":"HowToStep","position":2,"name":"T?i UnlockTool","text":"T?i ph?n m?m UnlockTool t? file.unlocktool.net vï¿½ gi?i nï¿½n","url":"https://file.unlocktool.net/page/index.php"},
+        {"@type":"HowToStep","position":3,"name":"Thuï¿½ tï¿½i kho?n","text":"Thuï¿½ tï¿½i kho?n UnlockTool 8.000d/6 ti?ng t?i UnlockTool.us","url":"https://www.unlocktool.us/"},
+        {"@type":"HowToStep","position":4,"name":"Vï¿½o Fastboot Mode","text":"T?t ngu?n Vivo Y36, gi? Vol Down + Power d? vï¿½o Fastboot Mode"},
+        {"@type":"HowToStep","position":5,"name":"K?t n?i mï¿½y tï¿½nh","text":"K?t n?i Vivo Y36 v?i mï¿½y tï¿½nh qua cï¿½p USB-C"},
+        {"@type":"HowToStep","position":6,"name":"M? UnlockTool","text":"Ch?y UnlockTool v?i quy?n Administrator vï¿½ dang nh?p tï¿½i kho?n"},
+        {"@type":"HowToStep","position":7,"name":"Ch?n Vivo","text":"Trong UnlockTool, ch?n tab Vivo ho?c Qualcomm/MTK tï¿½y model"},
+        {"@type":"HowToStep","position":8,"name":"Remove FRP","text":"Nh?n Remove FRP vï¿½ ch? quï¿½ trï¿½nh hoï¿½n t?t trong 5-15 phï¿½t"},
+        {"@type":"HowToStep","position":9,"name":"Kh?i d?ng l?i","text":"Mï¿½y t? kh?i d?ng l?i vï¿½ FRP dï¿½ du?c xï¿½a thï¿½nh cï¿½ng"}
     ],"tool":[
         {"@type":"HowToTool","name":"UnlockTool"},
         {"@type":"HowToTool","name":"Qualcomm USB Driver"},
         {"@type":"HowToTool","name":"MediaTek VCOM Driver"},
-        {"@type":"HowToTool","name":"Cáp USB-C"}
+        {"@type":"HowToTool","name":"Cï¿½p USB-C"}
     ],"supply":[
-        {"@type":"HowToSupply","name":"Máy tính Windows 7/8/10/11"},
-        {"@type":"HowToSupply","name":"Vivo Y36 v?i pin trên 50%"},
+        {"@type":"HowToSupply","name":"Mï¿½y tï¿½nh Windows 7/8/10/11"},
+        {"@type":"HowToSupply","name":"Vivo Y36 v?i pin trï¿½n 50%"},
         {"@type":"HowToSupply","name":"K?t n?i Internet ?n d?nh"}
     ]}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"Vivo Y36 có th? bypass FRP du?c không?","acceptedAnswer":{"@type":"Answer","text":"Có, Vivo Y36 và Y36 5G d?u có th? bypass FRP b?ng UnlockTool qua Fastboot Mode ho?c BROM Mode. Vivo Y36 4G dùng chip Snapdragon 680, Y36 5G dùng chip MediaTek Dimensity 6020 - c? hai d?u du?c h? tr?. Giá thuê tool 8.000d/6 ti?ng t?i UnlockTool.us."}},
-        {"@type":"Question","name":"Bypass FRP Vivo Y36 m?t bao lâu?","acceptedAnswer":{"@type":"Answer","text":"Th?i gian bypass FRP Vivo Y36 thu?ng m?t 5-15 phút cho quá trình xóa FRP. T?ng th?i gian bao g?m chu?n b? (cài driver, setup tool) kho?ng 20-30 phút."}},
-        {"@type":"Question","name":"Giá bypass FRP Vivo Y36 bao nhiêu?","acceptedAnswer":{"@type":"Answer","text":"T? làm: thuê tool 8.000d/6 ti?ng t?i UnlockTool.us. D?ch v? làm h?: t? 50.000d t?i Thuetaikhoan.net v?i cam k?t thành công ho?c hoàn ti?n."}},
-        {"@type":"Question","name":"Bypass FRP Vivo Y36 Android 14 du?c không?","acceptedAnswer":{"@type":"Answer","text":"Có, UnlockTool h? tr? bypass FRP Vivo Y36 trên Android 13 (Funtouch 13) và Android 14 (Funtouch 14). Tool du?c c?p nh?t thu?ng xuyên d? h? tr? các b?n b?o m?t m?i nh?t."}},
-        {"@type":"Question","name":"Bypass FRP Vivo Y36 có m?t d? li?u không?","acceptedAnswer":{"@type":"Answer","text":"Thông thu?ng s? m?t d? li?u vì bypass FRP yêu c?u reset ho?c flash l?i m?t ph?n h? th?ng. N?u có th? truy c?p du?c máy, hãy backup d? li?u quan tr?ng tru?c khi ti?n hành."}},
-        {"@type":"Question","name":"Không t? bypass du?c Vivo Y36 thì làm sao?","acceptedAnswer":{"@type":"Answer","text":"N?u không t? bypass du?c, b?n có th? s? d?ng d?ch v? k? thu?t viên làm h? t?i Thuetaikhoan.net. Giá t? 50.000d, h? tr? t? xa qua TeamViewer/AnyDesk, cam k?t thành công ho?c hoàn ti?n."}}
+        {"@type":"Question","name":"Vivo Y36 cï¿½ th? bypass FRP du?c khï¿½ng?","acceptedAnswer":{"@type":"Answer","text":"Cï¿½, Vivo Y36 vï¿½ Y36 5G d?u cï¿½ th? bypass FRP b?ng UnlockTool qua Fastboot Mode ho?c BROM Mode. Vivo Y36 4G dï¿½ng chip Snapdragon 680, Y36 5G dï¿½ng chip MediaTek Dimensity 6020 - c? hai d?u du?c h? tr?. Giï¿½ thuï¿½ tool 8.000d/6 ti?ng t?i UnlockTool.us."}},
+        {"@type":"Question","name":"Bypass FRP Vivo Y36 m?t bao lï¿½u?","acceptedAnswer":{"@type":"Answer","text":"Th?i gian bypass FRP Vivo Y36 thu?ng m?t 5-15 phï¿½t cho quï¿½ trï¿½nh xï¿½a FRP. T?ng th?i gian bao g?m chu?n b? (cï¿½i driver, setup tool) kho?ng 20-30 phï¿½t."}},
+        {"@type":"Question","name":"Giï¿½ bypass FRP Vivo Y36 bao nhiï¿½u?","acceptedAnswer":{"@type":"Answer","text":"T? lï¿½m: thuï¿½ tool 8.000d/6 ti?ng t?i UnlockTool.us. D?ch v? lï¿½m h?: t? 50.000d t?i Thuetaikhoan.net v?i cam k?t thï¿½nh cï¿½ng ho?c hoï¿½n ti?n."}},
+        {"@type":"Question","name":"Bypass FRP Vivo Y36 Android 14 du?c khï¿½ng?","acceptedAnswer":{"@type":"Answer","text":"Cï¿½, UnlockTool h? tr? bypass FRP Vivo Y36 trï¿½n Android 13 (Funtouch 13) vï¿½ Android 14 (Funtouch 14). Tool du?c c?p nh?t thu?ng xuyï¿½n d? h? tr? cï¿½c b?n b?o m?t m?i nh?t."}},
+        {"@type":"Question","name":"Bypass FRP Vivo Y36 cï¿½ m?t d? li?u khï¿½ng?","acceptedAnswer":{"@type":"Answer","text":"Thï¿½ng thu?ng s? m?t d? li?u vï¿½ bypass FRP yï¿½u c?u reset ho?c flash l?i m?t ph?n h? th?ng. N?u cï¿½ th? truy c?p du?c mï¿½y, hï¿½y backup d? li?u quan tr?ng tru?c khi ti?n hï¿½nh."}},
+        {"@type":"Question","name":"Khï¿½ng t? bypass du?c Vivo Y36 thï¿½ lï¿½m sao?","acceptedAnswer":{"@type":"Answer","text":"N?u khï¿½ng t? bypass du?c, b?n cï¿½ th? s? d?ng d?ch v? k? thu?t viï¿½n lï¿½m h? t?i Thuetaikhoan.net. Giï¿½ t? 50.000d, h? tr? t? xa qua TeamViewer/AnyDesk, cam k?t thï¿½nh cï¿½ng ho?c hoï¿½n ti?n."}}
     ]}
     </script>
     
@@ -143,7 +144,7 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? khóa di?n tho?i",
+        "name": "D?ch v? m? khï¿½a di?n tho?i",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -161,7 +162,7 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
             <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bï¿½i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -172,10 +173,10 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
             <div class="col-lg-8">
                 <span class="badge-support mb-3">BYPASS FRP 100%</span>
                 <h1><i class="fas fa-mobile-alt me-3"></i><?php echo $page_title; ?></h1>
-                <p class="lead mb-4">Hu?ng d?n d?y d? nh?t cách bypass FRP (xóa tài kho?n Google) trên Vivo Y36 và Y36 5G. H? tr? Android 13, Android 14 - C?p nh?t 2026!</p>
+                <p class="lead mb-4">Hu?ng d?n d?y d? nh?t cï¿½ch bypass FRP (xï¿½a tï¿½i kho?n Google) trï¿½n Vivo Y36 vï¿½ Y36 5G. H? tr? Android 13, Android 14 - C?p nh?t 2026!</p>
                 <div class="d-flex flex-wrap gap-3">
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê Tool 8K/6H</a>
-                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>D?ch V? Làm H?</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuï¿½ Tool 8K/6H</a>
+                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>D?ch V? Lï¿½m H?</a>
                 </div>
             </div>
             <div class="col-lg-4 text-center mt-4 mt-lg-0">
@@ -194,19 +195,19 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
             
             <!-- M?c l?c -->
             <div class="toc-box">
-                <h4><i class="fas fa-list me-2"></i>M?c L?c Bài Vi?t</h4>
+                <h4><i class="fas fa-list me-2"></i>M?c L?c Bï¿½i Vi?t</h4>
                 <ul>
-                    <li><a href="#gioi-thieu">1. Gi?i thi?u Vivo Y36 Series và các phiên b?n</a></li>
-                    <li><a href="#frp-la-gi">2. FRP là gì? T?i sao Vivo Y36 b? khóa?</a></li>
-                    <li><a href="#bang-tuong-thich">3. B?ng tuong thích Model - Chip - Tool</a></li>
+                    <li><a href="#gioi-thieu">1. Gi?i thi?u Vivo Y36 Series vï¿½ cï¿½c phiï¿½n b?n</a></li>
+                    <li><a href="#frp-la-gi">2. FRP lï¿½ gï¿½? T?i sao Vivo Y36 b? khï¿½a?</a></li>
+                    <li><a href="#bang-tuong-thich">3. B?ng tuong thï¿½ch Model - Chip - Tool</a></li>
                     <li><a href="#chuan-bi">4. Chu?n b? tru?c khi bypass FRP</a></li>
-                    <li><a href="#phuong-phap-fastboot">5. Phuong pháp 1: Fastboot Mode (Khuy?n ngh?)</a></li>
-                    <li><a href="#phuong-phap-brom">6. Phuong pháp 2: BROM Mode (MediaTek)</a></li>
-                    <li><a href="#phuong-phap-adb">7. Phuong pháp 3: ADB Mode</a></li>
-                    <li><a href="#so-sanh-phuong-phap">8. So sánh các phuong pháp bypass</a></li>
-                    <li><a href="#loi-thuong-gap">9. L?i thu?ng g?p và cách kh?c ph?c</a></li>
-                    <li><a href="#luu-y-sau-bypass">10. Luu ý quan tr?ng sau bypass</a></li>
-                    <li><a href="#faq">11. Câu h?i thu?ng g?p (FAQ)</a></li>
+                    <li><a href="#phuong-phap-fastboot">5. Phuong phï¿½p 1: Fastboot Mode (Khuy?n ngh?)</a></li>
+                    <li><a href="#phuong-phap-brom">6. Phuong phï¿½p 2: BROM Mode (MediaTek)</a></li>
+                    <li><a href="#phuong-phap-adb">7. Phuong phï¿½p 3: ADB Mode</a></li>
+                    <li><a href="#so-sanh-phuong-phap">8. So sï¿½nh cï¿½c phuong phï¿½p bypass</a></li>
+                    <li><a href="#loi-thuong-gap">9. L?i thu?ng g?p vï¿½ cï¿½ch kh?c ph?c</a></li>
+                    <li><a href="#luu-y-sau-bypass">10. Luu ï¿½ quan tr?ng sau bypass</a></li>
+                    <li><a href="#faq">11. Cï¿½u h?i thu?ng g?p (FAQ)</a></li>
                 </ul>
             </div>
 
@@ -214,9 +215,9 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
             <section id="gioi-thieu">
                 <h2><i class="fas fa-info-circle me-2"></i>1. Gi?i Thi?u Vivo Y36 Series</h2>
                 
-                <p><strong>Vivo Y36 Series</strong> là dòng smartphone t?m trung ph? bi?n c?a Vivo, ra m?t vào tháng 5/2023. Ðây là m?t trong nh?ng model bán ch?y nh?t c?a Vivo t?i Vi?t Nam và Ðông Nam Á nh? thi?t k? d?p, pin l?n và giá c? ph?i chang.</p>
+                <p><strong>Vivo Y36 Series</strong> lï¿½ dï¿½ng smartphone t?m trung ph? bi?n c?a Vivo, ra m?t vï¿½o thï¿½ng 5/2023. ï¿½ï¿½y lï¿½ m?t trong nh?ng model bï¿½n ch?y nh?t c?a Vivo t?i Vi?t Nam vï¿½ ï¿½ï¿½ng Nam ï¿½ nh? thi?t k? d?p, pin l?n vï¿½ giï¿½ c? ph?i chang.</p>
 
-                <p>Ði?m d?c bi?t c?a Vivo Y36 Series là có nhi?u phiên b?n v?i chip x? lý khác nhau tùy theo th? tru?ng. Ði?u này ?nh hu?ng d?n cách bypass FRP, vì m?i lo?i chip có phuong pháp bypass riêng.</p>
+                <p>ï¿½i?m d?c bi?t c?a Vivo Y36 Series lï¿½ cï¿½ nhi?u phiï¿½n b?n v?i chip x? lï¿½ khï¿½c nhau tï¿½y theo th? tru?ng. ï¿½i?u nï¿½y ?nh hu?ng d?n cï¿½ch bypass FRP, vï¿½ m?i lo?i chip cï¿½ phuong phï¿½p bypass riï¿½ng.</p>
 
                 <div class="row mt-4">
                     <div class="col-md-6 mb-3">
@@ -237,18 +238,18 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
                     </div>
                 </div>
 
-                <h3>Thông s? k? thu?t Vivo Y36 Series</h3>
+                <h3>Thï¿½ng s? k? thu?t Vivo Y36 Series</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Thông s?</th>
+                            <th>Thï¿½ng s?</th>
                             <th>Vivo Y36 4G</th>
                             <th>Vivo Y36 5G</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <td><strong>Chip x? lý</strong></td>
+                            <td><strong>Chip x? lï¿½</strong></td>
                             <td>Snapdragon 680 (6nm)</td>
                             <td>Dimensity 6020 (6nm)</td>
                         </tr>
@@ -263,14 +264,14 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
                             <td>128GB / 256GB</td>
                         </tr>
                         <tr>
-                            <td><strong>Màn hình</strong></td>
+                            <td><strong>Mï¿½n hï¿½nh</strong></td>
                             <td>6.64" IPS LCD, FHD+, 90Hz</td>
                             <td>6.64" IPS LCD, FHD+, 90Hz</td>
                         </tr>
                         <tr>
                             <td><strong>Camera sau</strong></td>
-                            <td>50MP (chính) + 2MP (macro)</td>
-                            <td>50MP (chính) + 2MP (depth)</td>
+                            <td>50MP (chï¿½nh) + 2MP (macro)</td>
+                            <td>50MP (chï¿½nh) + 2MP (depth)</td>
                         </tr>
                         <tr>
                             <td><strong>Camera tru?c</strong></td>
@@ -283,7 +284,7 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
                             <td>5000mAh, s?c nhanh 44W</td>
                         </tr>
                         <tr>
-                            <td><strong>H? di?u hành</strong></td>
+                            <td><strong>H? di?u hï¿½nh</strong></td>
                             <td>Android 13, Funtouch 13</td>
                             <td>Android 13, Funtouch 13</td>
                         </tr>
@@ -300,95 +301,95 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
                 </table>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-check-circle me-2"></i>Tin vui: Vivo Y36 bypass FRP d? dàng!</h5>
-                    <p class="mb-0">C? Vivo Y36 4G (Snapdragon) và Y36 5G (MediaTek) d?u du?c UnlockTool h? tr? d?y d?. B?n có th? bypass FRP v?i giá ch? <strong>8.000d/6 ti?ng</strong> t?i UnlockTool.us - H? th?ng t? d?ng 24/7!</p>
+                    <h5><i class="fas fa-check-circle me-2"></i>Tin vui: Vivo Y36 bypass FRP d? dï¿½ng!</h5>
+                    <p class="mb-0">C? Vivo Y36 4G (Snapdragon) vï¿½ Y36 5G (MediaTek) d?u du?c UnlockTool h? tr? d?y d?. B?n cï¿½ th? bypass FRP v?i giï¿½ ch? <strong>8.000d/6 ti?ng</strong> t?i UnlockTool.us - H? th?ng t? d?ng 24/7!</p>
                 </div>
 
-                <h3>Ði?m n?i b?t c?a Vivo Y36</h3>
+                <h3>ï¿½i?m n?i b?t c?a Vivo Y36</h3>
                 <div class="row">
                     <div class="col-md-4 mb-3">
                         <div class="feature-card h-100 text-center">
                             <i class="fas fa-battery-full fa-3x text-success mb-3"></i>
                             <h5>Pin 5000mAh</h5>
-                            <p class="small mb-0">S? d?ng c? ngày, s?c nhanh 44W d?y trong 1 ti?ng</p>
+                            <p class="small mb-0">S? d?ng c? ngï¿½y, s?c nhanh 44W d?y trong 1 ti?ng</p>
                         </div>
                     </div>
                     <div class="col-md-4 mb-3">
                         <div class="feature-card h-100 text-center">
                             <i class="fas fa-camera fa-3x text-primary mb-3"></i>
                             <h5>Camera 50MP</h5>
-                            <p class="small mb-0">Ch?p ?nh s?c nét, selfie 16MP d?p t? nhiên</p>
+                            <p class="small mb-0">Ch?p ?nh s?c nï¿½t, selfie 16MP d?p t? nhiï¿½n</p>
                         </div>
                     </div>
                     <div class="col-md-4 mb-3">
                         <div class="feature-card h-100 text-center">
                             <i class="fas fa-tv fa-3x text-warning mb-3"></i>
-                            <h5>Màn hình 90Hz</h5>
-                            <p class="small mb-0">Hi?n th? mu?t mà, Full HD+ s?c nét</p>
+                            <h5>Mï¿½n hï¿½nh 90Hz</h5>
+                            <p class="small mb-0">Hi?n th? mu?t mï¿½, Full HD+ s?c nï¿½t</p>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <!-- FRP là gì -->
+            <!-- FRP lï¿½ gï¿½ -->
             <section id="frp-la-gi">
-                <h2><i class="fas fa-lock me-2"></i>2. FRP Là Gì? T?i Sao Vivo Y36 B? Khóa?</h2>
+                <h2><i class="fas fa-lock me-2"></i>2. FRP Lï¿½ Gï¿½? T?i Sao Vivo Y36 B? Khï¿½a?</h2>
                 
-                <p><strong>FRP (Factory Reset Protection)</strong> là tính nang b?o m?t c?a Google du?c tích h?p trên Android t? phiên b?n 5.1 tr? di. Khi b?n dang ký tài kho?n Google trên Vivo Y36 và b?t d?ng b? hóa, FRP s? du?c kích ho?t t? d?ng.</p>
+                <p><strong>FRP (Factory Reset Protection)</strong> lï¿½ tï¿½nh nang b?o m?t c?a Google du?c tï¿½ch h?p trï¿½n Android t? phiï¿½n b?n 5.1 tr? di. Khi b?n dang kï¿½ tï¿½i kho?n Google trï¿½n Vivo Y36 vï¿½ b?t d?ng b? hï¿½a, FRP s? du?c kï¿½ch ho?t t? d?ng.</p>
 
-                <h3>Cách FRP ho?t d?ng trên Vivo Y36:</h3>
+                <h3>Cï¿½ch FRP ho?t d?ng trï¿½n Vivo Y36:</h3>
                 <ol>
-                    <li>Ngu?i dùng dang nh?p tài kho?n Google trên máy</li>
-                    <li>Thông tin tài kho?n du?c luu trong vùng b?o m?t c?a thi?t b?</li>
-                    <li>Khi máy b? reset v? cài d?t g?c (Factory Reset), FRP du?c kích ho?t</li>
-                    <li>Máy yêu c?u dang nh?p l?i tài kho?n Google dã dang ký tru?c dó</li>
-                    <li>N?u không dang nh?p dúng, không th? s? d?ng máy</li>
+                    <li>Ngu?i dï¿½ng dang nh?p tï¿½i kho?n Google trï¿½n mï¿½y</li>
+                    <li>Thï¿½ng tin tï¿½i kho?n du?c luu trong vï¿½ng b?o m?t c?a thi?t b?</li>
+                    <li>Khi mï¿½y b? reset v? cï¿½i d?t g?c (Factory Reset), FRP du?c kï¿½ch ho?t</li>
+                    <li>Mï¿½y yï¿½u c?u dang nh?p l?i tï¿½i kho?n Google dï¿½ dang kï¿½ tru?c dï¿½</li>
+                    <li>N?u khï¿½ng dang nh?p dï¿½ng, khï¿½ng th? s? d?ng mï¿½y</li>
                 </ol>
 
-                <h3>Khi nào Vivo Y36 b? khóa FRP?</h3>
+                <h3>Khi nï¿½o Vivo Y36 b? khï¿½a FRP?</h3>
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-key text-warning me-2"></i>Quên m?t kh?u Google</h5>
-                            <p class="small mb-0">B?n dã dang ký tài kho?n Google nhung quên m?t kh?u và không th? khôi ph?c du?c qua email/s? di?n tho?i.</p>
+                            <h5><i class="fas fa-key text-warning me-2"></i>Quï¿½n m?t kh?u Google</h5>
+                            <p class="small mb-0">B?n dï¿½ dang kï¿½ tï¿½i kho?n Google nhung quï¿½n m?t kh?u vï¿½ khï¿½ng th? khï¿½i ph?c du?c qua email/s? di?n tho?i.</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-shopping-bag text-primary me-2"></i>Mua máy cu</h5>
-                            <p class="small mb-0">Mua Vivo Y36 cu nhung ngu?i bán quên dang xu?t tài kho?n Google ho?c không nh? m?t kh?u.</p>
+                            <h5><i class="fas fa-shopping-bag text-primary me-2"></i>Mua mï¿½y cu</h5>
+                            <p class="small mb-0">Mua Vivo Y36 cu nhung ngu?i bï¿½n quï¿½n dang xu?t tï¿½i kho?n Google ho?c khï¿½ng nh? m?t kh?u.</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-gift text-success me-2"></i>Nh?n máy t?ng</h5>
-                            <p class="small mb-0">Ðu?c t?ng Vivo Y36 nhung ngu?i t?ng không cung c?p thông tin tài kho?n Google.</p>
+                            <h5><i class="fas fa-gift text-success me-2"></i>Nh?n mï¿½y t?ng</h5>
+                            <p class="small mb-0">ï¿½u?c t?ng Vivo Y36 nhung ngu?i t?ng khï¿½ng cung c?p thï¿½ng tin tï¿½i kho?n Google.</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-redo text-danger me-2"></i>Reset máy nh?m</h5>
-                            <p class="small mb-0">Vô tình reset máy qua Recovery Mode mà quên dang xu?t Google tru?c dó.</p>
+                            <h5><i class="fas fa-redo text-danger me-2"></i>Reset mï¿½y nh?m</h5>
+                            <p class="small mb-0">Vï¿½ tï¿½nh reset mï¿½y qua Recovery Mode mï¿½ quï¿½n dang xu?t Google tru?c dï¿½.</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-info-circle me-2"></i>Màn hình FRP trên Vivo Y36</h5>
-                    <p class="mb-0">Khi Vivo Y36 b? khóa FRP, màn hình s? hi?n th?: <strong>"Xác minh tài kho?n c?a b?n"</strong> (Verify your account) ho?c <strong>"Thi?t b? này dã du?c d?t l?i. Ð? ti?p t?c, hãy dang nh?p b?ng tài kho?n Google dã d?ng b? hóa tru?c dó v?i thi?t b? này."</strong></p>
+                    <h5><i class="fas fa-info-circle me-2"></i>Mï¿½n hï¿½nh FRP trï¿½n Vivo Y36</h5>
+                    <p class="mb-0">Khi Vivo Y36 b? khï¿½a FRP, mï¿½n hï¿½nh s? hi?n th?: <strong>"Xï¿½c minh tï¿½i kho?n c?a b?n"</strong> (Verify your account) ho?c <strong>"Thi?t b? nï¿½y dï¿½ du?c d?t l?i. ï¿½? ti?p t?c, hï¿½y dang nh?p b?ng tï¿½i kho?n Google dï¿½ d?ng b? hï¿½a tru?c dï¿½ v?i thi?t b? nï¿½y."</strong></p>
                 </div>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu ý pháp lý</h5>
-                    <p class="mb-0">Bypass FRP ch? nên th?c hi?n trên thi?t b? c?a chính b?n ho?c thi?t b? b?n có quy?n s? h?u h?p pháp. Vi?c bypass FRP trên máy tr?m c?p là vi ph?m pháp lu?t và có th? b? truy c?u trách nhi?m hình s?.</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu ï¿½ phï¿½p lï¿½</h5>
+                    <p class="mb-0">Bypass FRP ch? nï¿½n th?c hi?n trï¿½n thi?t b? c?a chï¿½nh b?n ho?c thi?t b? b?n cï¿½ quy?n s? h?u h?p phï¿½p. Vi?c bypass FRP trï¿½n mï¿½y tr?m c?p lï¿½ vi ph?m phï¿½p lu?t vï¿½ cï¿½ th? b? truy c?u trï¿½ch nhi?m hï¿½nh s?.</p>
                 </div>
             </section>
 
-            <!-- B?ng tuong thích -->
+            <!-- B?ng tuong thï¿½ch -->
             <section id="bang-tuong-thich">
-                <h2><i class="fas fa-table me-2"></i>3. B?ng Tuong Thích Model - Chip - Tool</h2>
+                <h2><i class="fas fa-table me-2"></i>3. B?ng Tuong Thï¿½ch Model - Chip - Tool</h2>
                 
-                <p>Du?i dây là b?ng tuong thích chi ti?t gi?a các model Vivo Y36, chip x? lý và phuong pháp bypass phù h?p:</p>
+                <p>Du?i dï¿½y lï¿½ b?ng tuong thï¿½ch chi ti?t gi?a cï¿½c model Vivo Y36, chip x? lï¿½ vï¿½ phuong phï¿½p bypass phï¿½ h?p:</p>
 
                 <table class="table table-custom">
                     <thead>
@@ -397,7 +398,7 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
                             <th>Model Number</th>
                             <th>Chip</th>
                             <th>Driver</th>
-                            <th>Phuong pháp</th>
+                            <th>Phuong phï¿½p</th>
                             <th>Tool</th>
                         </tr>
                     </thead>
@@ -444,7 +445,7 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
                             <th>Android Version</th>
                             <th>Funtouch OS</th>
                             <th>Security Patch</th>
-                            <th>Tr?ng thái h? tr?</th>
+                            <th>Tr?ng thï¿½i h? tr?</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -464,14 +465,14 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
                             <td>Android 15</td>
                             <td>Funtouch 15</td>
                             <td>2025 - 2026</td>
-                            <td><span class="badge bg-warning text-dark">Ðang c?p nh?t</span></td>
+                            <td><span class="badge bg-warning text-dark">ï¿½ang c?p nh?t</span></td>
                         </tr>
                     </tbody>
                 </table>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-sync me-2"></i>UnlockTool c?p nh?t thu?ng xuyên</h5>
-                    <p class="mb-0">UnlockTool du?c c?p nh?t liên t?c d? h? tr? các b?n vá b?o m?t m?i nh?t c?a Vivo. N?u g?p l?i v?i firmware m?i, hãy d?m b?o b?n dang s? d?ng phiên b?n UnlockTool m?i nh?t.</p>
+                    <h5><i class="fas fa-sync me-2"></i>UnlockTool c?p nh?t thu?ng xuyï¿½n</h5>
+                    <p class="mb-0">UnlockTool du?c c?p nh?t liï¿½n t?c d? h? tr? cï¿½c b?n vï¿½ b?o m?t m?i nh?t c?a Vivo. N?u g?p l?i v?i firmware m?i, hï¿½y d?m b?o b?n dang s? d?ng phiï¿½n b?n UnlockTool m?i nh?t.</p>
                 </div>
             </section>
 
@@ -479,27 +480,27 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
             <section id="chuan-bi">
                 <h2><i class="fas fa-clipboard-check me-2"></i>4. Chu?n B? Tru?c Khi Bypass FRP</h2>
                 
-                <p>Ð? bypass FRP Vivo Y36 thành công, b?n c?n chu?n b? d?y d? các yêu c?u sau:</p>
+                <p>ï¿½? bypass FRP Vivo Y36 thï¿½nh cï¿½ng, b?n c?n chu?n b? d?y d? cï¿½c yï¿½u c?u sau:</p>
 
-                <h3>4.1. Yêu c?u ph?n c?ng</h3>
+                <h3>4.1. Yï¿½u c?u ph?n c?ng</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Thành ph?n</th>
-                            <th>Yêu c?u</th>
-                            <th>Ghi chú</th>
+                            <th>Thï¿½nh ph?n</th>
+                            <th>Yï¿½u c?u</th>
+                            <th>Ghi chï¿½</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <td><strong>Máy tính</strong></td>
+                            <td><strong>Mï¿½y tï¿½nh</strong></td>
                             <td>Windows 7/8/10/11</td>
                             <td>64-bit khuy?n ngh?, RAM 4GB+</td>
                         </tr>
                         <tr>
-                            <td><strong>Cáp USB</strong></td>
+                            <td><strong>Cï¿½p USB</strong></td>
                             <td>USB-C ch?t lu?ng t?t</td>
-                            <td>Cáp di kèm máy ho?c cáp data</td>
+                            <td>Cï¿½p di kï¿½m mï¿½y ho?c cï¿½p data</td>
                         </tr>
                         <tr>
                             <td><strong>Vivo Y36</strong></td>
@@ -509,12 +510,12 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
                         <tr>
                             <td><strong>Internet</strong></td>
                             <td>?n d?nh</td>
-                            <td>C?n d? xác th?c tool</td>
+                            <td>C?n d? xï¿½c th?c tool</td>
                         </tr>
                     </tbody>
                 </table>
 
-                <h3>4.2. Ph?n m?m c?n cài d?t</h3>
+                <h3>4.2. Ph?n m?m c?n cï¿½i d?t</h3>
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
@@ -527,72 +528,72 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-tools text-success me-2"></i>UnlockTool</h5>
-                            <p class="small">Ph?n m?m bypass FRP chuyên d?ng, h? tr? da d?ng model Vivo.</p>
+                            <p class="small">Ph?n m?m bypass FRP chuyï¿½n d?ng, h? tr? da d?ng model Vivo.</p>
                             <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-success btn-sm">T?i UnlockTool</a>
                         </div>
                     </div>
                 </div>
 
-                <h3>4.3. Thuê tài kho?n UnlockTool</h3>
+                <h3>4.3. Thuï¿½ tï¿½i kho?n UnlockTool</h3>
                 <div class="price-highlight">
-                    <h4><i class="fas fa-tag me-2"></i>Thuê Tool Bypass FRP Vivo Y36</h4>
+                    <h4><i class="fas fa-tag me-2"></i>Thuï¿½ Tool Bypass FRP Vivo Y36</h4>
                     <p class="price">8.000d</p>
                     <p class="h4">/ 6 ti?ng</p>
-                    <p class="mt-3">H? th?ng t? d?ng 24/7 - Nh?n ngay sau thanh toán</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-shopping-cart me-2"></i>Thuê Ngay - UnlockTool.us</a>
+                    <p class="mt-3">H? th?ng t? d?ng 24/7 - Nh?n ngay sau thanh toï¿½n</p>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-shopping-cart me-2"></i>Thuï¿½ Ngay - UnlockTool.us</a>
                 </div>
 
                 <div class="danger-box">
-                    <h5><i class="fas fa-shield-alt me-2"></i>Quan tr?ng - Ph?i làm tru?c khi bypass</h5>
+                    <h5><i class="fas fa-shield-alt me-2"></i>Quan tr?ng - Ph?i lï¿½m tru?c khi bypass</h5>
                     <ul class="mb-0">
                         <li><strong>T?t Windows Defender:</strong> Settings > Windows Security > Virus & threat protection > Real-time protection > OFF</li>
                         <li><strong>T?t t?t c? antivirus:</strong> Kaspersky, Avast, AVG, Norton, Bkav...</li>
-                        <li><strong>Ch?y v?i Administrator:</strong> Chu?t ph?i vào UnlockTool.exe > Run as administrator</li>
-                        <li><strong>Cài driver tru?c:</strong> Cài driver phù h?p v?i chip c?a máy và restart</li>
+                        <li><strong>Ch?y v?i Administrator:</strong> Chu?t ph?i vï¿½o UnlockTool.exe > Run as administrator</li>
+                        <li><strong>Cï¿½i driver tru?c:</strong> Cï¿½i driver phï¿½ h?p v?i chip c?a mï¿½y vï¿½ restart</li>
                     </ul>
                 </div>
             </section>
 
-            <!-- Phuong pháp 1: Fastboot -->
+            <!-- Phuong phï¿½p 1: Fastboot -->
             <section id="phuong-phap-fastboot">
-                <h2><i class="fas fa-terminal me-2"></i>5. Phuong Pháp 1: Fastboot Mode (Khuy?n Ngh?)</h2>
+                <h2><i class="fas fa-terminal me-2"></i>5. Phuong Phï¿½p 1: Fastboot Mode (Khuy?n Ngh?)</h2>
                 
-                <p><strong>Fastboot Mode</strong> là phuong pháp don gi?n và hi?u qu? nh?t d? bypass FRP trên Vivo Y36. Phuong pháp này ho?t d?ng t?t trên c? b?n Snapdragon và MediaTek.</p>
+                <p><strong>Fastboot Mode</strong> lï¿½ phuong phï¿½p don gi?n vï¿½ hi?u qu? nh?t d? bypass FRP trï¿½n Vivo Y36. Phuong phï¿½p nï¿½y ho?t d?ng t?t trï¿½n c? b?n Snapdragon vï¿½ MediaTek.</p>
 
                 <div class="step-card">
                     <div class="step-number">1</div>
-                    <h4>T?t ngu?n và vào Fastboot Mode</h4>
+                    <h4>T?t ngu?n vï¿½ vï¿½o Fastboot Mode</h4>
                     <ol>
-                        <li>T?t ngu?n Vivo Y36 hoàn toàn (gi? nút Power > T?t ngu?n)</li>
-                        <li>Ch? màn hình t?i hoàn toàn (kho?ng 5-10 giây)</li>
+                        <li>T?t ngu?n Vivo Y36 hoï¿½n toï¿½n (gi? nï¿½t Power > T?t ngu?n)</li>
+                        <li>Ch? mï¿½n hï¿½nh t?i hoï¿½n toï¿½n (kho?ng 5-10 giï¿½y)</li>
                         <li>Gi? d?ng th?i <strong>Vol Down + Power</strong></li>
                         <li>Gi? cho d?n khi th?y logo <strong>Fastboot Mode</strong> (con robot Android)</li>
-                        <li>Th? tay - Máy dã vào Fastboot Mode thành công</li>
+                        <li>Th? tay - Mï¿½y dï¿½ vï¿½o Fastboot Mode thï¿½nh cï¿½ng</li>
                     </ol>
                     <div class="info-box">
-                        <p class="mb-0"><strong>M?o:</strong> N?u máy kh?i d?ng vào Recovery thay vì Fastboot, hãy th? gi? Vol Down tru?c, r?i m?i nh?n Power.</p>
+                        <p class="mb-0"><strong>M?o:</strong> N?u mï¿½y kh?i d?ng vï¿½o Recovery thay vï¿½ Fastboot, hï¿½y th? gi? Vol Down tru?c, r?i m?i nh?n Power.</p>
                     </div>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">2</div>
-                    <h4>K?t n?i v?i máy tính</h4>
+                    <h4>K?t n?i v?i mï¿½y tï¿½nh</h4>
                     <ol>
-                        <li>C?m cáp USB-C vào Vivo Y36 (dang ? Fastboot Mode)</li>
-                        <li>C?m d?u còn l?i vào máy tính</li>
-                        <li>Ch? máy tính nh?n thi?t b? (có th? nghe ti?ng ting)</li>
+                        <li>C?m cï¿½p USB-C vï¿½o Vivo Y36 (dang ? Fastboot Mode)</li>
+                        <li>C?m d?u cï¿½n l?i vï¿½o mï¿½y tï¿½nh</li>
+                        <li>Ch? mï¿½y tï¿½nh nh?n thi?t b? (cï¿½ th? nghe ti?ng ting)</li>
                         <li>Ki?m tra Device Manager: <strong>Android Bootloader Interface</strong> ho?c <strong>Qualcomm/MTK Device</strong></li>
                     </ol>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">3</div>
-                    <h4>M? UnlockTool và dang nh?p</h4>
+                    <h4>M? UnlockTool vï¿½ dang nh?p</h4>
                     <ol>
-                        <li>Chu?t ph?i vào <strong>UnlockTool.exe</strong> > <strong>Run as administrator</strong></li>
-                        <li>Nh?p Username và Password dã thuê t? UnlockTool.us</li>
-                        <li>Nh?n <strong>Login</strong> và ch? xác th?c (5-10 giây)</li>
-                        <li>Khi vào du?c giao di?n chính là dang nh?p thành công</li>
+                        <li>Chu?t ph?i vï¿½o <strong>UnlockTool.exe</strong> > <strong>Run as administrator</strong></li>
+                        <li>Nh?p Username vï¿½ Password dï¿½ thuï¿½ t? UnlockTool.us</li>
+                        <li>Nh?n <strong>Login</strong> vï¿½ ch? xï¿½c th?c (5-10 giï¿½y)</li>
+                        <li>Khi vï¿½o du?c giao di?n chï¿½nh lï¿½ dang nh?p thï¿½nh cï¿½ng</li>
                     </ol>
                 </div>
 
@@ -602,56 +603,56 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
                     <ol>
                         <li>Trong UnlockTool, ch?n tab <strong>Vivo</strong> ho?c <strong>Qualcomm</strong> (cho Y36 4G) / <strong>MTK</strong> (cho Y36 5G)</li>
                         <li>Ch?n <strong>Fastboot Mode</strong></li>
-                        <li>UnlockTool s? t? d?ng nh?n thi?t b? và hi?n th? model</li>
+                        <li>UnlockTool s? t? d?ng nh?n thi?t b? vï¿½ hi?n th? model</li>
                         <li>Nh?n <strong>Remove FRP</strong> ho?c <strong>Reset FRP</strong></li>
-                        <li>Ch? quá trình hoàn t?t (5-15 phút)</li>
-                        <li>Máy s? t? kh?i d?ng l?i</li>
-                        <li><strong>FRP dã du?c xóa thành công!</strong></li>
+                        <li>Ch? quï¿½ trï¿½nh hoï¿½n t?t (5-15 phï¿½t)</li>
+                        <li>Mï¿½y s? t? kh?i d?ng l?i</li>
+                        <li><strong>FRP dï¿½ du?c xï¿½a thï¿½nh cï¿½ng!</strong></li>
                     </ol>
                 </div>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-check-circle me-2"></i>K?t qu? sau bypass thành công</h5>
+                    <h5><i class="fas fa-check-circle me-2"></i>K?t qu? sau bypass thï¿½nh cï¿½ng</h5>
                     <ul class="mb-0">
-                        <li>Vivo Y36 kh?i d?ng vào màn hình Welcome nhu máy m?i</li>
-                        <li>Không còn yêu c?u dang nh?p tài kho?n Google cu</li>
-                        <li>B?n có th? dang ký tài kho?n Google m?i và s? d?ng bình thu?ng</li>
+                        <li>Vivo Y36 kh?i d?ng vï¿½o mï¿½n hï¿½nh Welcome nhu mï¿½y m?i</li>
+                        <li>Khï¿½ng cï¿½n yï¿½u c?u dang nh?p tï¿½i kho?n Google cu</li>
+                        <li>B?n cï¿½ th? dang kï¿½ tï¿½i kho?n Google m?i vï¿½ s? d?ng bï¿½nh thu?ng</li>
                     </ul>
                 </div>
             </section>
 
-            <!-- Phuong pháp 2: BROM -->
+            <!-- Phuong phï¿½p 2: BROM -->
             <section id="phuong-phap-brom">
-                <h2><i class="fas fa-microchip me-2"></i>6. Phuong Pháp 2: BROM Mode (MediaTek)</h2>
+                <h2><i class="fas fa-microchip me-2"></i>6. Phuong Phï¿½p 2: BROM Mode (MediaTek)</h2>
                 
-                <p><strong>BROM (Boot ROM) Mode</strong> là ch? d? d?c bi?t c?a chip MediaTek, cho phép truy c?p tr?c ti?p vào bootrom d? th?c hi?n các thao tác c?p th?p nhu flash firmware, bypass FRP, xóa pattern... Phuong pháp này dành riêng cho <strong>Vivo Y36 5G</strong> (chip MediaTek Dimensity 6020).</p>
+                <p><strong>BROM (Boot ROM) Mode</strong> lï¿½ ch? d? d?c bi?t c?a chip MediaTek, cho phï¿½p truy c?p tr?c ti?p vï¿½o bootrom d? th?c hi?n cï¿½c thao tï¿½c c?p th?p nhu flash firmware, bypass FRP, xï¿½a pattern... Phuong phï¿½p nï¿½y dï¿½nh riï¿½ng cho <strong>Vivo Y36 5G</strong> (chip MediaTek Dimensity 6020).</p>
 
                 <div class="step-card">
                     <div class="step-number">1</div>
-                    <h4>Cài d?t MTK VCOM Driver</h4>
+                    <h4>Cï¿½i d?t MTK VCOM Driver</h4>
                     <ol>
                         <li>T?i MTK VCOM Driver t? <a href="https://file.unlocktool.net/page/all-driver" target="_blank">file.unlocktool.net/all-driver</a></li>
-                        <li>Gi?i nén và ch?y file cài d?t v?i quy?n Administrator</li>
-                        <li>Làm theo hu?ng d?n cài d?t, ch?n All cho t?t c? phiên b?n</li>
-                        <li><strong>Quan tr?ng:</strong> Restart máy tính sau khi cài driver</li>
+                        <li>Gi?i nï¿½n vï¿½ ch?y file cï¿½i d?t v?i quy?n Administrator</li>
+                        <li>Lï¿½m theo hu?ng d?n cï¿½i d?t, ch?n All cho t?t c? phiï¿½n b?n</li>
+                        <li><strong>Quan tr?ng:</strong> Restart mï¿½y tï¿½nh sau khi cï¿½i driver</li>
                     </ol>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">2</div>
-                    <h4>Vào BROM Mode</h4>
+                    <h4>Vï¿½o BROM Mode</h4>
                     <ol>
-                        <li>T?t ngu?n Vivo Y36 5G hoàn toàn</li>
+                        <li>T?t ngu?n Vivo Y36 5G hoï¿½n toï¿½n</li>
                         <li>M? UnlockTool > Tab <strong>MTK</strong> ho?c <strong>Vivo</strong></li>
                         <li>Ch?n <strong>BROM Mode</strong></li>
                         <li>Nh?n <strong>Start</strong> ho?c <strong>Read Info</strong> trong UnlockTool</li>
                         <li>Gi? d?ng th?i <strong>Vol Up + Vol Down</strong></li>
-                        <li>V?n gi? 2 nút, c?m cáp USB vào máy tính</li>
-                        <li>Gi? thêm 5-10 giây r?i th? tay</li>
-                        <li>UnlockTool s? t? d?ng nh?n máy ? BROM Mode</li>
+                        <li>V?n gi? 2 nï¿½t, c?m cï¿½p USB vï¿½o mï¿½y tï¿½nh</li>
+                        <li>Gi? thï¿½m 5-10 giï¿½y r?i th? tay</li>
+                        <li>UnlockTool s? t? d?ng nh?n mï¿½y ? BROM Mode</li>
                     </ol>
                     <div class="info-box">
-                        <p class="mb-0"><strong>D?u hi?u thành công:</strong> UnlockTool hi?n th? thông tin chip nhu "MT6853" ho?c "Dimensity" và tr?ng thái "BROM/Preloader Mode detected".</p>
+                        <p class="mb-0"><strong>D?u hi?u thï¿½nh cï¿½ng:</strong> UnlockTool hi?n th? thï¿½ng tin chip nhu "MT6853" ho?c "Dimensity" vï¿½ tr?ng thï¿½i "BROM/Preloader Mode detected".</p>
                     </div>
                 </div>
 
@@ -659,86 +660,86 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
                     <div class="step-number">3</div>
                     <h4>Bypass FRP qua BROM</h4>
                     <ol>
-                        <li>Khi UnlockTool dã nh?n máy ? BROM Mode</li>
+                        <li>Khi UnlockTool dï¿½ nh?n mï¿½y ? BROM Mode</li>
                         <li>Ch?n <strong>Remove FRP</strong> ho?c <strong>Format FRP</strong></li>
                         <li>Nh?n <strong>Start</strong></li>
-                        <li>Ch? quá trình hoàn t?t (5-15 phút)</li>
-                        <li>Máy s? t? kh?i d?ng l?i</li>
-                        <li>FRP dã du?c xóa!</li>
+                        <li>Ch? quï¿½ trï¿½nh hoï¿½n t?t (5-15 phï¿½t)</li>
+                        <li>Mï¿½y s? t? kh?i d?ng l?i</li>
+                        <li>FRP dï¿½ du?c xï¿½a!</li>
                     </ol>
                 </div>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu ý v? BROM Mode</h5>
-                    <p class="mb-0">BROM Mode ch? ho?t d?ng trên chip MediaTek. N?u b?n có Vivo Y36 4G (Snapdragon 680), hãy s? d?ng Fastboot Mode ho?c EDL Mode thay th?.</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu ï¿½ v? BROM Mode</h5>
+                    <p class="mb-0">BROM Mode ch? ho?t d?ng trï¿½n chip MediaTek. N?u b?n cï¿½ Vivo Y36 4G (Snapdragon 680), hï¿½y s? d?ng Fastboot Mode ho?c EDL Mode thay th?.</p>
                 </div>
             </section>
 
-            <!-- Phuong pháp 3: ADB -->
+            <!-- Phuong phï¿½p 3: ADB -->
             <section id="phuong-phap-adb">
-                <h2><i class="fas fa-code me-2"></i>7. Phuong Pháp 3: ADB Mode</h2>
+                <h2><i class="fas fa-code me-2"></i>7. Phuong Phï¿½p 3: ADB Mode</h2>
                 
-                <p><strong>ADB (Android Debug Bridge) Mode</strong> là phuong pháp bypass nhanh nh?t n?u b?n dã b?t USB Debugging tru?c khi b? khóa FRP. Phuong pháp này ít r?i ro và thu?ng không m?t d? li?u.</p>
+                <p><strong>ADB (Android Debug Bridge) Mode</strong> lï¿½ phuong phï¿½p bypass nhanh nh?t n?u b?n dï¿½ b?t USB Debugging tru?c khi b? khï¿½a FRP. Phuong phï¿½p nï¿½y ï¿½t r?i ro vï¿½ thu?ng khï¿½ng m?t d? li?u.</p>
 
-                <h3>Ði?u ki?n s? d?ng ADB Mode:</h3>
+                <h3>ï¿½i?u ki?n s? d?ng ADB Mode:</h3>
                 <ul>
-                    <li>USB Debugging dã du?c b?t tru?c khi reset</li>
-                    <li>Máy tính dã du?c authorize (Allow) v?i thi?t b? tru?c dó</li>
-                    <li>Ho?c b?n có th? b?t USB Debugging t? màn hình FRP</li>
+                    <li>USB Debugging dï¿½ du?c b?t tru?c khi reset</li>
+                    <li>Mï¿½y tï¿½nh dï¿½ du?c authorize (Allow) v?i thi?t b? tru?c dï¿½</li>
+                    <li>Ho?c b?n cï¿½ th? b?t USB Debugging t? mï¿½n hï¿½nh FRP</li>
                 </ul>
 
-                <h3>Cách b?t USB Debugging t? màn hình FRP:</h3>
+                <h3>Cï¿½ch b?t USB Debugging t? mï¿½n hï¿½nh FRP:</h3>
                 <div class="step-card">
-                    <h4>Th? các cách sau d? vào Settings:</h4>
-                    <p><strong>Cách 1: Qua WiFi và trình duy?t</strong></p>
+                    <h4>Th? cï¿½c cï¿½ch sau d? vï¿½o Settings:</h4>
+                    <p><strong>Cï¿½ch 1: Qua WiFi vï¿½ trï¿½nh duy?t</strong></p>
                     <ol>
-                        <li>K?t n?i WiFi t?i màn hình FRP</li>
-                        <li>Tìm cách m? trình duy?t (Chrome/Browser)</li>
+                        <li>K?t n?i WiFi t?i mï¿½n hï¿½nh FRP</li>
+                        <li>Tï¿½m cï¿½ch m? trï¿½nh duy?t (Chrome/Browser)</li>
                         <li>T?i APK <strong>Activity Launcher</strong> ho?c <strong>QuickShortcutMaker</strong></li>
                         <li>M? file APK > Settings xu?t hi?n</li>
-                        <li>Vào <strong>Developer Options</strong> > B?t <strong>USB Debugging</strong></li>
+                        <li>Vï¿½o <strong>Developer Options</strong> > B?t <strong>USB Debugging</strong></li>
                     </ol>
 
-                    <p><strong>Cách 2: Qua Emergency Call</strong></p>
+                    <p><strong>Cï¿½ch 2: Qua Emergency Call</strong></p>
                     <ol>
-                        <li>T?i màn hình FRP, tìm cách m? Emergency Call</li>
-                        <li>Gõ các mã nhu <strong>*#*#4636#*#*</strong> ho?c <strong>*#*#7378423#*#*</strong></li>
-                        <li>N?u Testing Menu m? ra, tìm cách vào Settings</li>
+                        <li>T?i mï¿½n hï¿½nh FRP, tï¿½m cï¿½ch m? Emergency Call</li>
+                        <li>Gï¿½ cï¿½c mï¿½ nhu <strong>*#*#4636#*#*</strong> ho?c <strong>*#*#7378423#*#*</strong></li>
+                        <li>N?u Testing Menu m? ra, tï¿½m cï¿½ch vï¿½o Settings</li>
                     </ol>
                 </div>
 
                 <h3>Bypass qua ADB trong UnlockTool:</h3>
                 <div class="step-card">
-                    <h4>Các bu?c th?c hi?n:</h4>
+                    <h4>Cï¿½c bu?c th?c hi?n:</h4>
                     <ol>
-                        <li>K?t n?i Vivo Y36 v?i máy tính qua USB</li>
-                        <li>Trên di?n tho?i, nh?n <strong>Allow</strong> khi có popup USB Debugging</li>
+                        <li>K?t n?i Vivo Y36 v?i mï¿½y tï¿½nh qua USB</li>
+                        <li>Trï¿½n di?n tho?i, nh?n <strong>Allow</strong> khi cï¿½ popup USB Debugging</li>
                         <li>M? UnlockTool > Tab <strong>Vivo</strong></li>
                         <li>Ch?n <strong>ADB Mode</strong></li>
-                        <li>UnlockTool nh?n máy > Nh?n <strong>Remove FRP</strong></li>
-                        <li>Ch? 1-2 phút > Máy kh?i d?ng l?i</li>
-                        <li>Bypass thành công!</li>
+                        <li>UnlockTool nh?n mï¿½y > Nh?n <strong>Remove FRP</strong></li>
+                        <li>Ch? 1-2 phï¿½t > Mï¿½y kh?i d?ng l?i</li>
+                        <li>Bypass thï¿½nh cï¿½ng!</li>
                     </ol>
                 </div>
 
                 <div class="success-box">
                     <h5><i class="fas fa-check-circle me-2"></i>Uu di?m ADB Mode</h5>
                     <ul class="mb-0">
-                        <li><strong>Nhanh:</strong> Ch? m?t 1-2 phút</li>
-                        <li><strong>An toàn:</strong> Thu?ng không m?t d? li?u</li>
-                        <li><strong>Ðon gi?n:</strong> Không c?n vào ch? d? d?c bi?t</li>
+                        <li><strong>Nhanh:</strong> Ch? m?t 1-2 phï¿½t</li>
+                        <li><strong>An toï¿½n:</strong> Thu?ng khï¿½ng m?t d? li?u</li>
+                        <li><strong>ï¿½on gi?n:</strong> Khï¿½ng c?n vï¿½o ch? d? d?c bi?t</li>
                     </ul>
                 </div>
             </section>
 
-            <!-- So sánh phuong pháp -->
+            <!-- So sï¿½nh phuong phï¿½p -->
             <section id="so-sanh-phuong-phap">
-                <h2><i class="fas fa-balance-scale me-2"></i>8. So Sánh Các Phuong Pháp Bypass</h2>
+                <h2><i class="fas fa-balance-scale me-2"></i>8. So Sï¿½nh Cï¿½c Phuong Phï¿½p Bypass</h2>
                 
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Tiêu chí</th>
+                            <th>Tiï¿½u chï¿½</th>
                             <th>Fastboot Mode</th>
                             <th>BROM Mode</th>
                             <th>ADB Mode</th>
@@ -746,26 +747,26 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
                     </thead>
                     <tbody>
                         <tr>
-                            <td><strong>Ð? khó</strong></td>
+                            <td><strong>ï¿½? khï¿½</strong></td>
                             <td class="text-success">D?</td>
-                            <td class="text-warning">Trung bình</td>
+                            <td class="text-warning">Trung bï¿½nh</td>
                             <td class="text-success">D?</td>
                         </tr>
                         <tr>
                             <td><strong>Th?i gian</strong></td>
-                            <td>5-15 phút</td>
-                            <td>5-15 phút</td>
-                            <td>1-2 phút</td>
+                            <td>5-15 phï¿½t</td>
+                            <td>5-15 phï¿½t</td>
+                            <td>1-2 phï¿½t</td>
                         </tr>
                         <tr>
                             <td><strong>M?t d? li?u</strong></td>
-                            <td class="text-danger">Có</td>
-                            <td class="text-danger">Có</td>
-                            <td class="text-success">Không</td>
+                            <td class="text-danger">Cï¿½</td>
+                            <td class="text-danger">Cï¿½</td>
+                            <td class="text-success">Khï¿½ng</td>
                         </tr>
                         <tr>
-                            <td><strong>Yêu c?u</strong></td>
-                            <td>Vào du?c Fastboot</td>
+                            <td><strong>Yï¿½u c?u</strong></td>
+                            <td>Vï¿½o du?c Fastboot</td>
                             <td>Chip MediaTek</td>
                             <td>USB Debugging ON</td>
                         </tr>
@@ -782,7 +783,7 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
                             <td class="text-success">?</td>
                         </tr>
                         <tr>
-                            <td><strong>T? l? thành công</strong></td>
+                            <td><strong>T? l? thï¿½nh cï¿½ng</strong></td>
                             <td class="text-success fw-bold">90%+</td>
                             <td class="text-success fw-bold">95%+</td>
                             <td class="text-warning">70%</td>
@@ -801,31 +802,31 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
                     <ul class="mb-0">
                         <li><strong>Vivo Y36 4G (Snapdragon):</strong> Th? Fastboot Mode tru?c</li>
                         <li><strong>Vivo Y36 5G (MediaTek):</strong> Th? BROM Mode ho?c Fastboot</li>
-                        <li><strong>N?u dã b?t USB Debugging:</strong> Dùng ADB Mode</li>
+                        <li><strong>N?u dï¿½ b?t USB Debugging:</strong> Dï¿½ng ADB Mode</li>
                     </ul>
                 </div>
             </section>
 
             <!-- L?i thu?ng g?p -->
             <section id="loi-thuong-gap">
-                <h2><i class="fas fa-bug me-2"></i>9. L?i Thu?ng G?p và Cách Kh?c Ph?c</h2>
+                <h2><i class="fas fa-bug me-2"></i>9. L?i Thu?ng G?p vï¿½ Cï¿½ch Kh?c Ph?c</h2>
                 
                 <div class="accordion" id="errorAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#err1">
-                                <i class="fas fa-times-circle text-danger me-2"></i>L?i: Không vào du?c Fastboot Mode
+                                <i class="fas fa-times-circle text-danger me-2"></i>L?i: Khï¿½ng vï¿½o du?c Fastboot Mode
                             </button>
                         </h2>
                         <div id="err1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
-                                <p><strong>Nguyên nhân:</strong> Gi? nút không dúng th?i gian, pin quá y?u, nút b?m b? h?ng.</p>
-                                <p><strong>Cách kh?c ph?c:</strong></p>
+                                <p><strong>Nguyï¿½n nhï¿½n:</strong> Gi? nï¿½t khï¿½ng dï¿½ng th?i gian, pin quï¿½ y?u, nï¿½t b?m b? h?ng.</p>
+                                <p><strong>Cï¿½ch kh?c ph?c:</strong></p>
                                 <ul>
-                                    <li>S?c máy lên ít nh?t 50% pin</li>
-                                    <li>Gi? Vol Down tru?c, sau dó m?i nh?n Power</li>
-                                    <li>Gi? c? 2 nút cho d?n khi th?y logo Fastboot (kho?ng 10-15 giây)</li>
-                                    <li>N?u v?n không du?c, th? vào BROM Mode (cho Y36 5G)</li>
+                                    <li>S?c mï¿½y lï¿½n ï¿½t nh?t 50% pin</li>
+                                    <li>Gi? Vol Down tru?c, sau dï¿½ m?i nh?n Power</li>
+                                    <li>Gi? c? 2 nï¿½t cho d?n khi th?y logo Fastboot (kho?ng 10-15 giï¿½y)</li>
+                                    <li>N?u v?n khï¿½ng du?c, th? vï¿½o BROM Mode (cho Y36 5G)</li>
                                 </ul>
                             </div>
                         </div>
@@ -833,19 +834,19 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err2">
-                                <i class="fas fa-times-circle text-danger me-2"></i>L?i: UnlockTool không nh?n máy
+                                <i class="fas fa-times-circle text-danger me-2"></i>L?i: UnlockTool khï¿½ng nh?n mï¿½y
                             </button>
                         </h2>
                         <div id="err2" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>Nguyên nhân:</strong> Driver chua cài, cáp USB l?i, antivirus ch?n.</p>
-                                <p><strong>Cách kh?c ph?c:</strong></p>
+                                <p><strong>Nguyï¿½n nhï¿½n:</strong> Driver chua cï¿½i, cï¿½p USB l?i, antivirus ch?n.</p>
+                                <p><strong>Cï¿½ch kh?c ph?c:</strong></p>
                                 <ul>
-                                    <li>Cài l?i driver phù h?p (Qualcomm cho Y36 4G, MTK cho Y36 5G)</li>
-                                    <li>Th? cáp USB khác (uu tiên cáp di kèm máy)</li>
-                                    <li>Th? c?ng USB 2.0 thay vì USB 3.0</li>
-                                    <li>T?t hoàn toàn Windows Defender và antivirus</li>
-                                    <li>Restart máy tính và th? l?i</li>
+                                    <li>Cï¿½i l?i driver phï¿½ h?p (Qualcomm cho Y36 4G, MTK cho Y36 5G)</li>
+                                    <li>Th? cï¿½p USB khï¿½c (uu tiï¿½n cï¿½p di kï¿½m mï¿½y)</li>
+                                    <li>Th? c?ng USB 2.0 thay vï¿½ USB 3.0</li>
+                                    <li>T?t hoï¿½n toï¿½n Windows Defender vï¿½ antivirus</li>
+                                    <li>Restart mï¿½y tï¿½nh vï¿½ th? l?i</li>
                                 </ul>
                             </div>
                         </div>
@@ -858,13 +859,13 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
                         </h2>
                         <div id="err3" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>Nguyên nhân:</strong> Firmware quá m?i, Vivo dã vá l? h?ng.</p>
-                                <p><strong>Cách kh?c ph?c:</strong></p>
+                                <p><strong>Nguyï¿½n nhï¿½n:</strong> Firmware quï¿½ m?i, Vivo dï¿½ vï¿½ l? h?ng.</p>
+                                <p><strong>Cï¿½ch kh?c ph?c:</strong></p>
                                 <ul>
-                                    <li>C?p nh?t UnlockTool lên phiên b?n m?i nh?t</li>
-                                    <li>Th? phuong pháp khác (Fastboot -> BROM ho?c ngu?c l?i)</li>
+                                    <li>C?p nh?t UnlockTool lï¿½n phiï¿½n b?n m?i nh?t</li>
+                                    <li>Th? phuong phï¿½p khï¿½c (Fastboot -> BROM ho?c ngu?c l?i)</li>
                                     <li>Ch? UnlockTool c?p nh?t h? tr?</li>
-                                    <li>Liên h? d?ch v?: <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></li>
+                                    <li>Liï¿½n h? d?ch v?: <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -872,15 +873,15 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err4">
-                                <i class="fas fa-times-circle text-danger me-2"></i>L?i: Máy treo logo sau bypass
+                                <i class="fas fa-times-circle text-danger me-2"></i>L?i: Mï¿½y treo logo sau bypass
                             </button>
                         </h2>
                         <div id="err4" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>Nguyên nhân:</strong> Quá trình bypass b? gián do?n, file h? th?ng b? h?ng.</p>
-                                <p><strong>Cách kh?c ph?c:</strong></p>
+                                <p><strong>Nguyï¿½n nhï¿½n:</strong> Quï¿½ trï¿½nh bypass b? giï¿½n do?n, file h? th?ng b? h?ng.</p>
+                                <p><strong>Cï¿½ch kh?c ph?c:</strong></p>
                                 <ul>
-                                    <li>Vào Recovery Mode (Vol Up + Power khi t?t máy)</li>
+                                    <li>Vï¿½o Recovery Mode (Vol Up + Power khi t?t mï¿½y)</li>
                                     <li>Ch?n <strong>Wipe data/factory reset</strong></li>
                                     <li>N?u v?n l?i, flash l?i firmware g?c qua Fastboot/BROM</li>
                                     <li>Sau khi flash xong, bypass l?i t? d?u</li>
@@ -891,18 +892,18 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err5">
-                                <i class="fas fa-times-circle text-danger me-2"></i>L?i: Không vào du?c BROM Mode
+                                <i class="fas fa-times-circle text-danger me-2"></i>L?i: Khï¿½ng vï¿½o du?c BROM Mode
                             </button>
                         </h2>
                         <div id="err5" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>Nguyên nhân:</strong> Không gi? dúng combo phím, driver MTK chua cài.</p>
-                                <p><strong>Cách kh?c ph?c:</strong></p>
+                                <p><strong>Nguyï¿½n nhï¿½n:</strong> Khï¿½ng gi? dï¿½ng combo phï¿½m, driver MTK chua cï¿½i.</p>
+                                <p><strong>Cï¿½ch kh?c ph?c:</strong></p>
                                 <ul>
-                                    <li>Cài l?i MTK VCOM Driver và restart máy tính</li>
-                                    <li>Th? combo: Vol Up + Vol Down tru?c, r?i m?i c?m cáp</li>
-                                    <li>Ho?c ch? gi? Vol Up và c?m cáp</li>
-                                    <li>N?u v?n không du?c, s? d?ng Fastboot Mode thay th?</li>
+                                    <li>Cï¿½i l?i MTK VCOM Driver vï¿½ restart mï¿½y tï¿½nh</li>
+                                    <li>Th? combo: Vol Up + Vol Down tru?c, r?i m?i c?m cï¿½p</li>
+                                    <li>Ho?c ch? gi? Vol Up vï¿½ c?m cï¿½p</li>
+                                    <li>N?u v?n khï¿½ng du?c, s? d?ng Fastboot Mode thay th?</li>
                                 </ul>
                             </div>
                         </div>
@@ -910,142 +911,142 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
                 </div>
             </section>
 
-            <!-- Luu ý sau bypass -->
+            <!-- Luu ï¿½ sau bypass -->
             <section id="luu-y-sau-bypass">
-                <h2><i class="fas fa-exclamation-circle me-2"></i>10. Luu Ý Quan Tr?ng Sau Bypass</h2>
+                <h2><i class="fas fa-exclamation-circle me-2"></i>10. Luu ï¿½ Quan Tr?ng Sau Bypass</h2>
                 
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-user-plus text-primary me-2"></i>Ðang ký tài kho?n m?i</h5>
-                            <p class="small mb-0">Sau bypass, hãy dang ký tài kho?n Google M?I c?a b?n. Nh? ghi l?i email và m?t kh?u d? tránh b? khóa l?i trong tuong lai.</p>
+                            <h5><i class="fas fa-user-plus text-primary me-2"></i>ï¿½ang kï¿½ tï¿½i kho?n m?i</h5>
+                            <p class="small mb-0">Sau bypass, hï¿½y dang kï¿½ tï¿½i kho?n Google M?I c?a b?n. Nh? ghi l?i email vï¿½ m?t kh?u d? trï¿½nh b? khï¿½a l?i trong tuong lai.</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-sync-alt text-success me-2"></i>C?p nh?t ph?n m?m</h5>
-                            <p class="small mb-0">Sau khi setup tài kho?n m?i, b?n có th? c?p nh?t ph?n m?m bình thu?ng. C?p nh?t s? không khôi ph?c l?i FRP cu.</p>
+                            <p class="small mb-0">Sau khi setup tï¿½i kho?n m?i, b?n cï¿½ th? c?p nh?t ph?n m?m bï¿½nh thu?ng. C?p nh?t s? khï¿½ng khï¿½i ph?c l?i FRP cu.</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-shield-alt text-warning me-2"></i>B?o m?t máy</h5>
-                            <p class="small mb-0">Thi?t l?p khóa màn hình (PIN, Pattern, vân tay) d? b?o v? máy. B?t Find My Device c?a Google d? d?nh v? máy khi m?t.</p>
+                            <h5><i class="fas fa-shield-alt text-warning me-2"></i>B?o m?t mï¿½y</h5>
+                            <p class="small mb-0">Thi?t l?p khï¿½a mï¿½n hï¿½nh (PIN, Pattern, vï¿½n tay) d? b?o v? mï¿½y. B?t Find My Device c?a Google d? d?nh v? mï¿½y khi m?t.</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-cloud text-info me-2"></i>Backup thu?ng xuyên</h5>
-                            <p class="small mb-0">Sao luu d? li?u thu?ng xuyên lên Google Drive ho?c máy tính d? tránh m?t mát khi g?p s? c?.</p>
+                            <h5><i class="fas fa-cloud text-info me-2"></i>Backup thu?ng xuyï¿½n</h5>
+                            <p class="small mb-0">Sao luu d? li?u thu?ng xuyï¿½n lï¿½n Google Drive ho?c mï¿½y tï¿½nh d? trï¿½nh m?t mï¿½t khi g?p s? c?.</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Ð?ng quên!</h5>
-                    <p class="mb-0">N?u b?n d?nh bán ho?c t?ng Vivo Y36 sau này, hãy nh? <strong>dang xu?t tài kho?n Google</strong> và <strong>Factory Reset</strong> d? ngu?i nh?n không g?p v?n d? FRP nhu b?n dã g?p!</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>ï¿½?ng quï¿½n!</h5>
+                    <p class="mb-0">N?u b?n d?nh bï¿½n ho?c t?ng Vivo Y36 sau nï¿½y, hï¿½y nh? <strong>dang xu?t tï¿½i kho?n Google</strong> vï¿½ <strong>Factory Reset</strong> d? ngu?i nh?n khï¿½ng g?p v?n d? FRP nhu b?n dï¿½ g?p!</p>
                 </div>
             </section>
 
             <!-- FAQ -->
             <section id="faq">
-                <h2><i class="fas fa-question-circle me-2"></i>11. Câu H?i Thu?ng G?p (FAQ)</h2>
+                <h2><i class="fas fa-question-circle me-2"></i>11. Cï¿½u H?i Thu?ng G?p (FAQ)</h2>
                 
                 <div class="accordion" id="faqAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
-                                Bypass FRP Vivo Y36 có vinh vi?n không?
+                                Bypass FRP Vivo Y36 cï¿½ vinh vi?n khï¿½ng?
                             </button>
                         </h2>
                         <div id="faq1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
-                                <strong>Có</strong>, sau khi bypass FRP thành công, tài kho?n Google cu du?c xóa hoàn toàn. B?n có th? dang ký tài kho?n Google m?i và s? d?ng bình thu?ng. N?u reset máy l?n n?a, s? yêu c?u tài kho?n M?I c?a b?n, không ph?i tài kho?n cu.
+                                <strong>Cï¿½</strong>, sau khi bypass FRP thï¿½nh cï¿½ng, tï¿½i kho?n Google cu du?c xï¿½a hoï¿½n toï¿½n. B?n cï¿½ th? dang kï¿½ tï¿½i kho?n Google m?i vï¿½ s? d?ng bï¿½nh thu?ng. N?u reset mï¿½y l?n n?a, s? yï¿½u c?u tï¿½i kho?n M?I c?a b?n, khï¿½ng ph?i tï¿½i kho?n cu.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
-                                Giá bypass FRP Vivo Y36 bao nhiêu?
+                                Giï¿½ bypass FRP Vivo Y36 bao nhiï¿½u?
                             </button>
                         </h2>
                         <div id="faq2" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <strong>T? làm:</strong> Thuê tool 8.000d/6 ti?ng t?i <a href="https://www.unlocktool.us/">UnlockTool.us</a><br>
-                                <strong>D?ch v? làm h?:</strong> T? 50.000d t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a> - Cam k?t thành công ho?c hoàn ti?n!
+                                <strong>T? lï¿½m:</strong> Thuï¿½ tool 8.000d/6 ti?ng t?i <a href="https://www.unlocktool.us/">UnlockTool.us</a><br>
+                                <strong>D?ch v? lï¿½m h?:</strong> T? 50.000d t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a> - Cam k?t thï¿½nh cï¿½ng ho?c hoï¿½n ti?n!
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3">
-                                Vivo Y36 5G bypass khác gì Y36 4G?
+                                Vivo Y36 5G bypass khï¿½c gï¿½ Y36 4G?
                             </button>
                         </h2>
                         <div id="faq3" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <strong>Vivo Y36 4G</strong> dùng chip Qualcomm Snapdragon 680, bypass qua Fastboot ho?c EDL Mode.<br>
-                                <strong>Vivo Y36 5G</strong> dùng chip MediaTek Dimensity 6020, bypass qua BROM Mode ho?c Fastboot.<br>
-                                C? hai d?u du?c UnlockTool h? tr?, b?n ch? c?n cài dúng driver và ch?n dúng ch? d?.
+                                <strong>Vivo Y36 4G</strong> dï¿½ng chip Qualcomm Snapdragon 680, bypass qua Fastboot ho?c EDL Mode.<br>
+                                <strong>Vivo Y36 5G</strong> dï¿½ng chip MediaTek Dimensity 6020, bypass qua BROM Mode ho?c Fastboot.<br>
+                                C? hai d?u du?c UnlockTool h? tr?, b?n ch? c?n cï¿½i dï¿½ng driver vï¿½ ch?n dï¿½ng ch? d?.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4">
-                                Bypass FRP Vivo Y36 Android 14 du?c không?
+                                Bypass FRP Vivo Y36 Android 14 du?c khï¿½ng?
                             </button>
                         </h2>
                         <div id="faq4" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <strong>Có</strong>, UnlockTool h? tr? bypass FRP Vivo Y36 trên c? Android 13 (Funtouch 13) và Android 14 (Funtouch 14). Tool du?c c?p nh?t thu?ng xuyên d? h? tr? các b?n b?o m?t m?i nh?t.
+                                <strong>Cï¿½</strong>, UnlockTool h? tr? bypass FRP Vivo Y36 trï¿½n c? Android 13 (Funtouch 13) vï¿½ Android 14 (Funtouch 14). Tool du?c c?p nh?t thu?ng xuyï¿½n d? h? tr? cï¿½c b?n b?o m?t m?i nh?t.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq5">
-                                Bypass có m?t d? li?u không?
+                                Bypass cï¿½ m?t d? li?u khï¿½ng?
                             </button>
                         </h2>
                         <div id="faq5" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                Thông thu?ng <strong>s? m?t d? li?u</strong> vì bypass FRP yêu c?u reset ho?c flash l?i m?t ph?n h? th?ng. Tuy nhiên, n?u s? d?ng ADB Mode và USB Debugging dã b?t s?n, có th? không m?t d? li?u. N?u có th?, hãy backup d? li?u tru?c khi bypass.
+                                Thï¿½ng thu?ng <strong>s? m?t d? li?u</strong> vï¿½ bypass FRP yï¿½u c?u reset ho?c flash l?i m?t ph?n h? th?ng. Tuy nhiï¿½n, n?u s? d?ng ADB Mode vï¿½ USB Debugging dï¿½ b?t s?n, cï¿½ th? khï¿½ng m?t d? li?u. N?u cï¿½ th?, hï¿½y backup d? li?u tru?c khi bypass.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq6">
-                                Không t? bypass du?c thì làm sao?
+                                Khï¿½ng t? bypass du?c thï¿½ lï¿½m sao?
                             </button>
                         </h2>
                         <div id="faq6" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                N?u không t? bypass du?c, b?n có th? s? d?ng d?ch v? k? thu?t viên t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>. Th? s? h? tr? t? xa qua TeamViewer ho?c AnyDesk. Giá t? 50.000d, <strong>cam k?t thành công ho?c hoàn ti?n!</strong>
+                                N?u khï¿½ng t? bypass du?c, b?n cï¿½ th? s? d?ng d?ch v? k? thu?t viï¿½n t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>. Th? s? h? tr? t? xa qua TeamViewer ho?c AnyDesk. Giï¿½ t? 50.000d, <strong>cam k?t thï¿½nh cï¿½ng ho?c hoï¿½n ti?n!</strong>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <!-- CTA cu?i bài -->
+            <!-- CTA cu?i bï¿½i -->
             <section class="mt-5">
                 <div class="price-highlight">
-                    <h3><i class="fas fa-unlock me-2"></i>Bypass FRP Vivo Y36 Ngay Hôm Nay!</h3>
+                    <h3><i class="fas fa-unlock me-2"></i>Bypass FRP Vivo Y36 Ngay Hï¿½m Nay!</h3>
                     <p>H? tr? Y36 4G (Snapdragon) & Y36 5G (MediaTek) - Android 13 & 14</p>
                     <p class="price">8.000d</p>
                     <p class="h4">/ 6 ti?ng</p>
                     <div class="d-flex justify-content-center flex-wrap gap-3 mt-4">
-                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê Tool - UnlockTool.us</a>
+                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuï¿½ Tool - UnlockTool.us</a>
                         <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-download me-2"></i>T?i UnlockTool</a>
                     </div>
                 </div>
 
                 <div class="service-cta">
-                    <h4><i class="fas fa-headset me-2"></i>Không T? Làm Ðu?c? D?ch V? Làm H?!</h4>
-                    <p>K? thu?t viên h? tr? t? xa qua TeamViewer/AnyDesk - Cam k?t thành công ho?c hoàn ti?n!</p>
+                    <h4><i class="fas fa-headset me-2"></i>Khï¿½ng T? Lï¿½m ï¿½u?c? D?ch V? Lï¿½m H?!</h4>
+                    <p>K? thu?t viï¿½n h? tr? t? xa qua TeamViewer/AnyDesk - Cam k?t thï¿½nh cï¿½ng ho?c hoï¿½n ti?n!</p>
                     <p class="h3 fw-bold">T? 50.000d</p>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-external-link-alt me-2"></i>Thuetaikhoan.net</a>
                 </div>
@@ -1060,7 +1061,7 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
                     <h5><i class="fas fa-tag me-2"></i>Bypass Vivo Y36</h5>
                     <p class="price" style="font-size:2.5rem">8.000d</p>
                     <p>/ 6 ti?ng</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thuê Tool Ngay</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thuï¿½ Tool Ngay</a>
                 </div>
 
                 <div class="card mb-4">
@@ -1090,7 +1091,7 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
 
                 <div class="card">
                     <div class="card-header bg-dark text-white">
-                        <i class="fas fa-link me-2"></i>Bài vi?t liên quan
+                        <i class="fas fa-link me-2"></i>Bï¿½i vi?t liï¿½n quan
                     </div>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item"><a href="93-frp-oppo-a58.php">Bypass FRP Oppo A58</a></li>
@@ -1111,7 +1112,7 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bài vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bï¿½i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -1125,7 +1126,7 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài vi?t liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bï¿½i vi?t liï¿½n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
@@ -1160,7 +1161,7 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Ð?i ngu k? thu?t viên chuyên nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khóa di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">ï¿½?i ngu k? thu?t viï¿½n chuyï¿½n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? khï¿½a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -1171,7 +1172,7 @@ $canonical_url = "https://www.unlocktool.us/articles/94-frp-vivo-y36.php";
         <div class="row">
             <div class="col-md-6">
                 <h5>UnlockTool.us</h5>
-                <p class="small">Cho thuê tài kho?n tool m? khóa di?n tho?i uy tín nh?t Vi?t Nam. H? tr? Samsung, Xiaomi, Oppo, Vivo, Realme, iPhone và nhi?u hãng khác.</p>
+                <p class="small">Cho thuï¿½ tï¿½i kho?n tool m? khï¿½a di?n tho?i uy tï¿½n nh?t Vi?t Nam. H? tr? Samsung, Xiaomi, Oppo, Vivo, Realme, iPhone vï¿½ nhi?u hï¿½ng khï¿½c.</p>
             </div>
             <div class="col-md-6 text-md-end">
                 <p class="small mb-1">D?ch v? k? thu?t: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
