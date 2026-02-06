@@ -902,13 +902,11 @@ $history_result = $stmt->get_result();
 }
 @keyframes blink-animation {
     0%, 100% { 
-        box-shadow: 0 0 5px #007bff, 0 0 10px #007bff; 
-        transform: scale(1);
+        opacity: 1;
     }
     50% { 
-        box-shadow: 0 0 15px #007bff, 0 0 25px #007bff, 0 0 35px #007bff; 
-        transform: scale(1.05);
-        background: linear-gradient(135deg, #0056b3, #007bff);
+        opacity: 0.7;
+        box-shadow: 0 0 8px rgba(0,123,255,0.5);
     }
 }
 </style>
@@ -1181,7 +1179,7 @@ document.querySelectorAll('.contact-item').forEach(item => {
                     <td><?php echo htmlspecialchars($row['type'] ?? 'Không rõ'); ?></td>
                     <td>
                         <?php if ($row['is_available']): ?>
-                            <button type="button" class="btn btn-primary btn-sm btn-blink" data-toggle="modal" data-target="#rentModal" data-account-id="<?php echo $row['id']; ?>">🔥 Thuê ngay</button>
+                            <button type="button" class="btn btn-primary btn-sm btn-blink" data-toggle="modal" data-target="#rentModal" data-account-id="<?php echo $row['id']; ?>">Thuê ngay</button>
                         <?php else: ?>
                             <button class="btn btn-secondary btn-sm" disabled>Đang thuê</button>
                         <?php endif; ?>
