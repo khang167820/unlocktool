@@ -53,7 +53,7 @@ $canonical_url = "https://www.unlocktool.us/articles/18-unlocktool-frp-bypass.ph
     </script>
     
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" media="print" onload="this.media='all'">
     <style>
         body{font-family:'Segoe UI',sans-serif;line-height:1.9;background:#f8f9fa}
         .header{background:linear-gradient(135deg,#9c27b0,#673ab7);color:#fff;padding:80px 0;text-align:center}

@@ -53,7 +53,7 @@ $canonical_url = "https://www.unlocktool.us/articles/5-bypass-icloud-iphone.php"
     </script>
     
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" media="print" onload="this.media='all'">
     <style>
         body { font-family: 'Segoe UI', sans-serif; line-height: 1.8; background: #f8f9fa; }
         .article-header { background: linear-gradient(135deg, #000000 0%, #434343 100%); color: white; padding: 60px 0; }

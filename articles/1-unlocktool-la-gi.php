@@ -230,7 +230,7 @@ $canonical_url = "https://www.unlocktool.us/articles/1-unlocktool-la-gi.php";
     </script>
     
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" media="print" onload="this.media='all'">
     <style>
         :root {
             --primary: #007bff;
@@ -1472,8 +1472,8 @@ $canonical_url = "https://www.unlocktool.us/articles/1-unlocktool-la-gi.php";
     </div>
 </footer>
 
-<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" defer></script>
 <script>
 // FAQ Toggle
 document.querySelectorAll('.faq-question').forEach(question => {

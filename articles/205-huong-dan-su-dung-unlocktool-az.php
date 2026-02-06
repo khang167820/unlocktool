@@ -1,6 +1,6 @@
-﻿<?php
-$page_title = "Hướng Dẫn Sử Dụng UnlockTool Từ A-Z 2026 ⚡ Cài Đặt Driver & Fix Lỗi";
-$page_description = "⚡ Hướng dẫn cài đặt và sử dụng UnlockTool chi tiết nhất cho người mới bắt đầu. Cách cài Driver, tắt AntiVirus, fix lỗi LibUSB. Hướng dẫn bypass FRP, Mi Cloud từng bước.";
+<?php
+$page_title = "Hu?ng D?n S? D?ng UnlockTool T? A-Z 2026 ? C�i �?t Driver & Fix L?i";
+$page_description = "? Hu?ng d?n c�i d?t v� s? d?ng UnlockTool chi ti?t nh?t cho ngu?i m?i b?t d?u. C�ch c�i Driver, t?t AntiVirus, fix l?i LibUSB. Hu?ng d?n bypass FRP, Mi Cloud t?ng bu?c.";
 $page_keywords = "huong dan su dung unlocktool, cach cai dat unlocktool, unlocktool tutorial, unlocktool driver, fix loi unlocktool, manual unlocktool, unlocktool user guide";
 $canonical_url = "https://www.unlocktool.us/articles/205-huong-dan-su-dung-unlocktool-az.php";
 ?>
@@ -32,7 +32,7 @@ $canonical_url = "https://www.unlocktool.us/articles/205-huong-dan-su-dung-unloc
     <meta property="og:locale" content="vi_VN">
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hướng dẫn sử dụng">
+    <meta property="article:section" content="Hu?ng d?n s? d?ng">
     <meta property="article:tag" content="Tutorial">
     <meta property="article:tag" content="UnlockTool">
     
@@ -47,10 +47,10 @@ $canonical_url = "https://www.unlocktool.us/articles/205-huong-dan-su-dung-unloc
     {"@context":"https://schema.org","@type":"TechArticle","headline":"<?php echo $page_title; ?>","description":"<?php echo $page_description; ?>","author":{"@type":"Organization","name":"UnlockTool.us"},"datePublished":"2026-02-06","dateModified":"2026-02-06","publisher":{"@type":"Organization","name":"UnlockTool.us","logo":{"@type":"ImageObject","url":"https://www.unlocktool.us/images/logo.png"}}}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Cài đặt UnlockTool có khó không?","acceptedAnswer":{"@type":"Answer","text":"Rất dễ. UnlockTool là phần mềm Portable (chạy ngay không cần cài đặt). Bạn chỉ cần tải về, giải nén và chạy file .exe."}},{"@type":"Question","name":"Tại sao mở tool bị báo lỗi virus?","acceptedAnswer":{"@type":"Answer","text":"Do cơ chế hoạt động can thiệp hệ thống của tool nên các trình diệt virus hay nhận nhầm. Bạn cần tắt Windows Defender/Antivirus trước khi tải và mở tool."}},{"@type":"Question","name":"Tôi cần cài những driver gì?","acceptedAnswer":{"@type":"Answer","text":"Các driver cơ bản bao gồm: Samsung USB Driver, Qualcomm QDLoader 9008, LibUSB (cho MTK), và Apple Mobile Device Support (iTunes)."}}]}
+    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"C�i d?t UnlockTool c� kh� kh�ng?","acceptedAnswer":{"@type":"Answer","text":"R?t d?. UnlockTool l� ph?n m?m Portable (ch?y ngay kh�ng c?n c�i d?t). B?n ch? c?n t?i v?, gi?i n�n v� ch?y file .exe."}},{"@type":"Question","name":"T?i sao m? tool b? b�o l?i virus?","acceptedAnswer":{"@type":"Answer","text":"Do co ch? ho?t d?ng can thi?p h? th?ng c?a tool n�n c�c tr�nh di?t virus hay nh?n nh?m. B?n c?n t?t Windows Defender/Antivirus tru?c khi t?i v� m? tool."}},{"@type":"Question","name":"T�i c?n c�i nh?ng driver g�?","acceptedAnswer":{"@type":"Answer","text":"C�c driver co b?n bao g?m: Samsung USB Driver, Qualcomm QDLoader 9008, LibUSB (cho MTK), v� Apple Mobile Device Support (iTunes)."}}]}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Trang chủ","item":"https://www.unlocktool.us/"},{"@type":"ListItem","position":2,"name":"Bài viết","item":"https://www.unlocktool.us/articles/"},{"@type":"ListItem","position":3,"name":"Hướng Dẫn Sử Dụng UnlockTool","item":"<?php echo $canonical_url; ?>"}]}
+    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Trang ch?","item":"https://www.unlocktool.us/"},{"@type":"ListItem","position":2,"name":"B�i vi?t","item":"https://www.unlocktool.us/articles/"},{"@type":"ListItem","position":3,"name":"Hu?ng D?n S? D?ng UnlockTool","item":"<?php echo $canonical_url; ?>"}]}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Organization","name":"UnlockTool.us","url":"https://www.unlocktool.us","logo":"https://www.unlocktool.us/images/logo.png","sameAs":["https://www.facebook.com/unlocktool.us","https://thuetaikhoan.net"]}
@@ -59,7 +59,7 @@ $canonical_url = "https://www.unlocktool.us/articles/205-huong-dan-su-dung-unloc
     {"@context":"https://schema.org","@type":"WebPage","speakable":{"@type":"SpeakableSpecification","cssSelector":["h1",".hero-section p.lead",".toc",".info-box",".tip-box"]}}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"Product","name":"Khóa học UnlockTool","brand":{"@type":"Brand","name":"UnlockTool.us"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","bestRating":"5","worstRating":"1","ratingCount":"320"}}
+    {"@context":"https://schema.org","@type":"Product","name":"Kh�a h?c UnlockTool","brand":{"@type":"Brand","name":"UnlockTool.us"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","bestRating":"5","worstRating":"1","ratingCount":"320"}}
     </script>
     
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -87,19 +87,19 @@ $canonical_url = "https://www.unlocktool.us/articles/205-huong-dan-su-dung-unloc
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
-            <li class="breadcrumb-item active">Hướng Dẫn UnlockTool A-Z</li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item active">Hu?ng D?n UnlockTool A-Z</li>
         </ol>
     </div>
 </nav>
 
 <section class="hero-section text-center">
     <div class="container">
-        <h1 class="display-4 fw-bold mb-3"><i class="fas fa-book-reader me-3"></i>Hướng Dẫn Sử Dụng UnlockTool</h1>
-        <p class="lead mb-4">Từ A-Z: Cài đặt Driver, Fix lỗi, Cách Bypass Samsung/Xiaomi cho người mới</p>
+        <h1 class="display-4 fw-bold mb-3"><i class="fas fa-book-reader me-3"></i>Hu?ng D?n S? D?ng UnlockTool</h1>
+        <p class="lead mb-4">T? A-Z: C�i d?t Driver, Fix l?i, C�ch Bypass Samsung/Xiaomi cho ngu?i m?i</p>
         <div class="mt-4">
-            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-play-circle me-2"></i>THUÊ TOOL ĐỂ THỰC HÀNH</a>
+            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-play-circle me-2"></i>THU� TOOL �? TH?C H�NH</a>
         </div>
     </div>
 </section>
@@ -108,99 +108,99 @@ $canonical_url = "https://www.unlocktool.us/articles/205-huong-dan-su-dung-unloc
     <div class="content-wrapper">
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #dc3545;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#dc3545;"></i> <strong>Tác giả:</strong> UnlockTool.us Team</span>
-            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>Cập nhật:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Đọc:</strong> ~20 phút</span>
-            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lượt xem:</strong> 35,600</span>
+            <span><i class="fas fa-user-edit me-1" style="color:#dc3545;"></i> <strong>T�c gi?:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>�?c:</strong> ~20 ph�t</span>
+            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> 35,600</span>
         </div>
         
         <div class="toc">
-            <h4><i class="fas fa-list me-2"></i>Mục Lục Bài Viết</h4>
+            <h4><i class="fas fa-list me-2"></i>M?c L?c B�i Vi?t</h4>
             <ul>
-                <li><a href="#prep">1. Chuẩn bị trước khi cài đặt</a></li>
-                <li><a href="#driver">2. Hướng dẫn cài đặt Driver đầy đủ</a></li>
-                <li><a href="#install">3. Tải và Login UnlockTool</a></li>
-                <li><a href="#interface">4. Tìm hiểu giao diện và chức năng</a></li>
-                <li><a href="#samsung-guide">5. Thực hành: Bypass FRP Samsung</a></li>
-                <li><a href="#xiaomi-guide">6. Thực hành: Unlock Mi Account Xiaomi</a></li>
-                <li><a href="#troubleshoot">7. Khắc phục các lỗi thường gặp</a></li>
-                <li><a href="#faq">8. Câu hỏi thường gặp</a></li>
+                <li><a href="#prep">1. Chu?n b? tru?c khi c�i d?t</a></li>
+                <li><a href="#driver">2. Hu?ng d?n c�i d?t Driver d?y d?</a></li>
+                <li><a href="#install">3. T?i v� Login UnlockTool</a></li>
+                <li><a href="#interface">4. T�m hi?u giao di?n v� ch?c nang</a></li>
+                <li><a href="#samsung-guide">5. Th?c h�nh: Bypass FRP Samsung</a></li>
+                <li><a href="#xiaomi-guide">6. Th?c h�nh: Unlock Mi Account Xiaomi</a></li>
+                <li><a href="#troubleshoot">7. Kh?c ph?c c�c l?i thu?ng g?p</a></li>
+                <li><a href="#faq">8. C�u h?i thu?ng g?p</a></li>
             </ul>
         </div>
 
-        <h2 id="prep"><i class="fas fa-tasks me-2"></i>1. Chuẩn Bị Trước Khi Cài Đặt</h2>
-        <p>UnlockTool là phần mềm can thiệp sâu vào hệ thống điện thoại, nên các trình diệt virus (Antivirus) thường nhận diện nhầm là phần mềm độc hại. Để sử dụng trơn tru, bạn cần:</p>
+        <h2 id="prep"><i class="fas fa-tasks me-2"></i>1. Chu?n B? Tru?c Khi C�i �?t</h2>
+        <p>UnlockTool l� ph?n m?m can thi?p s�u v�o h? th?ng di?n tho?i, n�n c�c tr�nh di?t virus (Antivirus) thu?ng nh?n di?n nh?m l� ph?n m?m d?c h?i. �? s? d?ng tron tru, b?n c?n:</p>
         
         <div class="step-box">
             <div class="step-num">1</div>
-            <h5>Tắt Windows Defender</h5>
-            <p>Vào <strong>Windows Security</strong> -> <strong>Virus & threat protection</strong> -> <strong>Manage settings</strong> -> Tắt <strong>Real-time protection</strong>.</p>
+            <h5>T?t Windows Defender</h5>
+            <p>V�o <strong>Windows Security</strong> -> <strong>Virus & threat protection</strong> -> <strong>Manage settings</strong> -> T?t <strong>Real-time protection</strong>.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">2</div>
-            <h5>Tắt Antivirus bên thứ 3</h5>
-            <p>Nếu dùng Avast, Kaspersky, BKAV... hãy tạm thời tắt bảo vệ (Disable Protection) cho đến khi khởi động lại máy.</p>
+            <h5>T?t Antivirus b�n th? 3</h5>
+            <p>N?u d�ng Avast, Kaspersky, BKAV... h�y t?m th?i t?t b?o v? (Disable Protection) cho d?n khi kh?i d?ng l?i m�y.</p>
         </div>
 
-        <h2 id="driver"><i class="fas fa-hdd me-2"></i>2. Hướng Dẫn Cài Đặt Driver Đầy Đủ</h2>
-        <p>Driver là "cầu nối" để máy tính nhận diện điện thoại. Thiếu Driver là nguyên nhân số 1 khiến UnlockTool không chạy.</p>
+        <h2 id="driver"><i class="fas fa-hdd me-2"></i>2. Hu?ng D?n C�i �?t Driver �?y �?</h2>
+        <p>Driver l� "c?u n?i" d? m�y t�nh nh?n di?n di?n tho?i. Thi?u Driver l� nguy�n nh�n s? 1 khi?n UnlockTool kh�ng ch?y.</p>
         
         <div class="info-box">
-            <h5>Các Driver bắt buộc (Có sẵn trên UnlockTool.us):</h5>
+            <h5>C�c Driver b?t bu?c (C� s?n tr�n UnlockTool.us):</h5>
             <ul>
-                <li><strong>Samsung USB Driver:</strong> Để nhận máy Samsung (chế độ MTP, Odin).</li>
-                <li><strong>Qualcomm QDLoader 9008 Driver:</strong> Để nhận máy chip Snapdragon chế độ EDL.</li>
-                <li><strong>LibUSB Win32:</strong> Cực quan trọng cho máy chip MediaTek (Oppo, Vivo, Xiaomi MTK).</li>
-                <li><strong>Apple Mobile Device Support:</strong> Cài iTunes để nhận iPhone/iPad.</li>
+                <li><strong>Samsung USB Driver:</strong> �? nh?n m�y Samsung (ch? d? MTP, Odin).</li>
+                <li><strong>Qualcomm QDLoader 9008 Driver:</strong> �? nh?n m�y chip Snapdragon ch? d? EDL.</li>
+                <li><strong>LibUSB Win32:</strong> C?c quan tr?ng cho m�y chip MediaTek (Oppo, Vivo, Xiaomi MTK).</li>
+                <li><strong>Apple Mobile Device Support:</strong> C�i iTunes d? nh?n iPhone/iPad.</li>
             </ul>
         </div>
 
-        <h2 id="install"><i class="fas fa-download me-2"></i>3. Tải Và Login UnlockTool</h2>
-        <p>Sau khi chuẩn bị xong, bạn tiến hành tải tool:</p>
+        <h2 id="install"><i class="fas fa-download me-2"></i>3. T?i V� Login UnlockTool</h2>
+        <p>Sau khi chu?n b? xong, b?n ti?n h�nh t?i tool:</p>
         <ul>
-            <li>Truy cập trang chủ <strong><a href="https://unlocktool.net" rel="nofollow">UnlockTool.net</a></strong> để tải bản mới nhất (thường update thứ 6 hàng tuần).</li>
-            <li>Giải nén file tải về (Pass giải nén thường là: unlocktool.net).</li>
-            <li>Chạy file <code>UnlockTool.exe</code> với quyền Admin (Chuột phải -> Run as Administrator).</li>
-            <li>Nhập <strong>Username</strong> và <strong>Password</strong> bạn đã thuê tại UnlockTool.us rồi bấm Login.</li>
+            <li>Truy c?p trang ch? <strong><a href="https://unlocktool.net" rel="nofollow">UnlockTool.net</a></strong> d? t?i b?n m?i nh?t (thu?ng update th? 6 h�ng tu?n).</li>
+            <li>Gi?i n�n file t?i v? (Pass gi?i n�n thu?ng l�: unlocktool.net).</li>
+            <li>Ch?y file <code>UnlockTool.exe</code> v?i quy?n Admin (Chu?t ph?i -> Run as Administrator).</li>
+            <li>Nh?p <strong>Username</strong> v� <strong>Password</strong> b?n d� thu� t?i UnlockTool.us r?i b?m Login.</li>
         </ul>
 
-        <h2 id="interface"><i class="fas fa-desktop me-2"></i>4. Tìm Hiểu Giao Diện Và Chức Năng</h2>
-        <p>Giao diện UnlockTool chia thành các tab theo hãng điện thoại. Dưới đây là các nút chức năng quan trọng cần nhớ:</p>
+        <h2 id="interface"><i class="fas fa-desktop me-2"></i>4. T�m Hi?u Giao Di?n V� Ch?c Nang</h2>
+        <p>Giao di?n UnlockTool chia th�nh c�c tab theo h�ng di?n tho?i. Du?i d�y l� c�c n�t ch?c nang quan tr?ng c?n nh?:</p>
         <ul>
-            <li><strong>Read Info:</strong> Đọc thông tin máy (Model, Android version, IMEI...). Luôn bấm nút này đầu tiên để kiểm tra kết nối.</li>
-            <li><strong>Erase FRP:</strong> Xóa xác minh tài khoản Google.</li>
-            <li><strong>Factory Reset:</strong> Xóa sạch dữ liệu, đưa máy về trạng thái xuất xưởng (dùng để phá mật khẩu màn hình).</li>
-            <li><strong>Safe Format:</strong> Xóa mật khẩu nhưng giữ lại dữ liệu (chỉ hỗ trợ một số model).</li>
-            <li><strong>Disable Mi Cloud:</strong> Xóa tài khoản Xiaomi (chế độ ẩn).</li>
-            <li><strong>Unlock Bootloader (BL):</strong> Mở khóa Bootloader để cài ROM cook/Root.</li>
+            <li><strong>Read Info:</strong> �?c th�ng tin m�y (Model, Android version, IMEI...). Lu�n b?m n�t n�y d?u ti�n d? ki?m tra k?t n?i.</li>
+            <li><strong>Erase FRP:</strong> X�a x�c minh t�i kho?n Google.</li>
+            <li><strong>Factory Reset:</strong> X�a s?ch d? li?u, dua m�y v? tr?ng th�i xu?t xu?ng (d�ng d? ph� m?t kh?u m�n h�nh).</li>
+            <li><strong>Safe Format:</strong> X�a m?t kh?u nhung gi? l?i d? li?u (ch? h? tr? m?t s? model).</li>
+            <li><strong>Disable Mi Cloud:</strong> X�a t�i kho?n Xiaomi (ch? d? ?n).</li>
+            <li><strong>Unlock Bootloader (BL):</strong> M? kh�a Bootloader d? c�i ROM cook/Root.</li>
         </ul>
 
-        <h2 id="troubleshoot"><i class="fas fa-tools me-2"></i>7. Khắc Phục Lỗi Thường Gặp</h2>
+        <h2 id="troubleshoot"><i class="fas fa-tools me-2"></i>7. Kh?c Ph?c L?i Thu?ng G?p</h2>
         
         <div class="warning-box">
-            <h5>Lỗi "Waiting for Device" (MediaTek)</h5>
-            <p><strong>Nguyên nhân:</strong> Thiếu driver LibUSB hoặc chưa Filter driver.</p>
-            <p><strong>Khắc phục:</strong> Cài LibUSB -> Mở Filter Wizard -> Cắm máy giữ Volume -> Chọn dòng MediaTek Port và bấm Install.</p>
+            <h5>L?i "Waiting for Device" (MediaTek)</h5>
+            <p><strong>Nguy�n nh�n:</strong> Thi?u driver LibUSB ho?c chua Filter driver.</p>
+            <p><strong>Kh?c ph?c:</strong> C�i LibUSB -> M? Filter Wizard -> C?m m�y gi? Volume -> Ch?n d�ng MediaTek Port v� b?m Install.</p>
         </div>
         
         <div class="warning-box">
-            <h5>Lỗi "Login Failed"</h5>
-            <p><strong>Nguyên nhân:</strong> Sai mật khẩu, hết hạn thuê hoặc sai 3 giờ đồng hồ máy tính.</p>
-            <p><strong>Khắc phục:</strong> Kiểm tra lại thông tin đăng nhập, chỉnh giờ máy tính về tự động, tắt VPN.</p>
+            <h5>L?i "Login Failed"</h5>
+            <p><strong>Nguy�n nh�n:</strong> Sai m?t kh?u, h?t h?n thu� ho?c sai 3 gi? d?ng h? m�y t�nh.</p>
+            <p><strong>Kh?c ph?c:</strong> Ki?m tra l?i th�ng tin dang nh?p, ch?nh gi? m�y t�nh v? t? d?ng, t?t VPN.</p>
         </div>
 
-        <h2 id="faq"><i class="fas fa-question-circle me-2"></i>8. Câu Hỏi Thường Gặp</h2>
+        <h2 id="faq"><i class="fas fa-question-circle me-2"></i>8. C�u H?i Thu?ng G?p</h2>
         
         <div class="faq-item" style="background:#f8f9fa;border:2px solid #ffcdd2;border-radius:15px;padding:25px;margin:15px 0;">
-            <h5 style="color:#b02a37"><i class="fas fa-question me-2"></i>Tôi là người mới hoàn toàn thì nên bắt đầu từ đâu?</h5>
-            <p>Hãy bắt đầu với các máy Samsung (FRP). Đây là kèo dễ nhất và phổ biến nhất. Sau khi quen thao tác, bạn có thể chuyển sang Xiaomi và Oppo.</p>
+            <h5 style="color:#b02a37"><i class="fas fa-question me-2"></i>T�i l� ngu?i m?i ho�n to�n th� n�n b?t d?u t? d�u?</h5>
+            <p>H�y b?t d?u v?i c�c m�y Samsung (FRP). ��y l� k�o d? nh?t v� ph? bi?n nh?t. Sau khi quen thao t�c, b?n c� th? chuy?n sang Xiaomi v� Oppo.</p>
         </div>
         
         <div class="price-box">
-            <h3 class="mb-3">🔥 SẴN SÀNG TRỞ THÀNH THỢ GIỎI? 🔥</h3>
-            <p>Thuê UnlockTool ngay để thực hành - Học đi đôi với hành</p>
-            <a href="https://www.unlocktool.us/" class="cta-btn" style="background:#fff;color:#dc3545"><i class="fas fa-shopping-cart me-2"></i>THUÊ TOOL NGAY</a>
+            <h3 class="mb-3">?? S?N S�NG TR? TH�NH TH? GI?I? ??</h3>
+            <p>Thu� UnlockTool ngay d? th?c h�nh - H?c di d�i v?i h�nh</p>
+            <a href="https://www.unlocktool.us/" class="cta-btn" style="background:#fff;color:#dc3545"><i class="fas fa-shopping-cart me-2"></i>THU� TOOL NGAY</a>
         </div>
         
     </div>
@@ -209,7 +209,7 @@ $canonical_url = "https://www.unlocktool.us/articles/205-huong-dan-su-dung-unloc
 <div class="container mb-5">
     <div class="content-wrapper" style="max-width:900px;margin:0 auto;background:#fff;border-radius:20px;box-shadow:0 10px 40px rgba(0,0,0,0.1);padding:40px;">
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn" style="background:#1da1f2;color:#fff"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -220,7 +220,7 @@ $canonical_url = "https://www.unlocktool.us/articles/205-huong-dan-su-dung-unloc
             <div style="width:80px;height:80px;background:linear-gradient(135deg,#dc3545,#b02a37);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Hỗ trợ kỹ thuật 24/7 cho người mới.</p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">H? tr? k? thu?t 24/7 cho ngu?i m?i.</p>
             </div>
         </div>
     </div>

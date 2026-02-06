@@ -1,6 +1,6 @@
-﻿<?php
-$page_title = "Bypass FRP MediaTek (MTK) 🔥 SP Flash Tool - Hướng Dẫn 2026";
-$page_description = "🔥 Hướng dẫn bypass FRP MediaTek bằng SP Flash Tool, BROM Mode. Xiaomi, Oppo, Vivo, Realme chip MTK. Thuê UnlockTool 8K/6h!";
+<?php
+$page_title = "Bypass FRP MediaTek (MTK) ?? SP Flash Tool - Hu?ng D?n 2026";
+$page_description = "?? Hu?ng d?n bypass FRP MediaTek b?ng SP Flash Tool, BROM Mode. Xiaomi, Oppo, Vivo, Realme chip MTK. Thu� UnlockTool 8K/6h!";
 $page_keywords = "frp mediatek, bypass frp mtk, sp flash tool frp, mtk frp, brom mode, scatter file";
 $canonical_url = "https://www.unlocktool.us/articles/63-mediatek-frp.php";
 ?>
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/63-mediatek-frp.php";
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hướng dẫn kỹ thuật">
+    <meta property="article:section" content="Hu?ng d?n k? thu?t">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="Mở khóa điện thoại">
+    <meta property="article:tag" content="M? kh�a di?n tho?i">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -50,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/63-mediatek-frp.php";
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -60,8 +60,8 @@ $canonical_url = "https://www.unlocktool.us/articles/63-mediatek-frp.php";
     {
         "@context": "https://schema.org",
         "@type": "TechArticle",
-        "headline": "Bypass FRP MediaTek (MTK) - SP Flash Tool - Hướng Dẫn 2026",
-        "description": "Hướng dẫn bypass FRP trên điện thoại chip MediaTek bằng SP Flash Tool và BROM Mode",
+        "headline": "Bypass FRP MediaTek (MTK) - SP Flash Tool - Hu?ng D?n 2026",
+        "description": "Hu?ng d?n bypass FRP tr�n di?n tho?i chip MediaTek b?ng SP Flash Tool v� BROM Mode",
         "author": {"@type": "Organization", "name": "UnlockTool.us"},
         "publisher": {"@type": "Organization", "name": "UnlockTool.us"},
         "datePublished": "2024-01-01",
@@ -73,10 +73,10 @@ $canonical_url = "https://www.unlocktool.us/articles/63-mediatek-frp.php";
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "BROM Mode là gì?", "acceptedAnswer": {"@type": "Answer", "text": "BROM (Boot ROM) Mode là chế độ cấp thấp nhất trên chip MediaTek, tương tự EDL Mode của Qualcomm. Cho phép flash firmware và bypass FRP."}},
-            {"@type": "Question", "name": "SP Flash Tool dùng để làm gì?", "acceptedAnswer": {"@type": "Answer", "text": "SP Flash Tool là phần mềm chính thức để flash firmware, format partition FRP, và unbrick thiết bị MediaTek."}},
-            {"@type": "Question", "name": "Scatter file là gì?", "acceptedAnswer": {"@type": "Answer", "text": "Scatter file là file mô tả cấu trúc phân vùng của firmware MediaTek, cần để SP Flash Tool biết cách flash đúng."}},
-            {"@type": "Question", "name": "Auth file là gì?", "acceptedAnswer": {"@type": "Answer", "text": "Auth file là file xác thực cần cho chip MTK mới (Helio G series, Dimensity). Không có auth file sẽ không vào được BROM."}}
+            {"@type": "Question", "name": "BROM Mode l� g�?", "acceptedAnswer": {"@type": "Answer", "text": "BROM (Boot ROM) Mode l� ch? d? c?p th?p nh?t tr�n chip MediaTek, tuong t? EDL Mode c?a Qualcomm. Cho ph�p flash firmware v� bypass FRP."}},
+            {"@type": "Question", "name": "SP Flash Tool d�ng d? l�m g�?", "acceptedAnswer": {"@type": "Answer", "text": "SP Flash Tool l� ph?n m?m ch�nh th?c d? flash firmware, format partition FRP, v� unbrick thi?t b? MediaTek."}},
+            {"@type": "Question", "name": "Scatter file l� g�?", "acceptedAnswer": {"@type": "Answer", "text": "Scatter file l� file m� t? c?u tr�c ph�n v�ng c?a firmware MediaTek, c?n d? SP Flash Tool bi?t c�ch flash d�ng."}},
+            {"@type": "Question", "name": "Auth file l� g�?", "acceptedAnswer": {"@type": "Answer", "text": "Auth file l� file x�c th?c c?n cho chip MTK m?i (Helio G series, Dimensity). Kh�ng c� auth file s? kh�ng v�o du?c BROM."}}
         ]
     }
     </script>
@@ -141,7 +141,7 @@ $canonical_url = "https://www.unlocktool.us/articles/63-mediatek-frp.php";
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "Dịch vụ mở khóa điện thoại",
+        "name": "D?ch v? m? kh�a di?n tho?i",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -158,16 +158,16 @@ $canonical_url = "https://www.unlocktool.us/articles/63-mediatek-frp.php";
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
 </nav>
 <section class="hero-section">
     <div class="container text-center">
-        <h1><i class="fas fa-microchip me-2"></i>Bypass FRP MediaTek (MTK) - Hướng Dẫn 2026</h1>
-        <p class="lead">SP Flash Tool, BROM Mode, Scatter File - Xóa Google Account</p>
+        <h1><i class="fas fa-microchip me-2"></i>Bypass FRP MediaTek (MTK) - Hu?ng D?n 2026</h1>
+        <p class="lead">SP Flash Tool, BROM Mode, Scatter File - X�a Google Account</p>
         <div class="mt-4">
             <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>UnlockTool <span class="flash-sale">8K/6H</span></a>
         </div>
@@ -179,263 +179,263 @@ $canonical_url = "https://www.unlocktool.us/articles/63-mediatek-frp.php";
         
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #0066cc;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>Tác giả:</strong> UnlockTool.us Team</span>
-            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>Cập nhật:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Đọc:</strong> ~5 phút</span>
-            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lượt xem:</strong> <span id="viewCount">1,234</span></span>
+            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>T�c gi?:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>�?c:</strong> ~5 ph�t</span>
+            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> <span id="viewCount">1,234</span></span>
         </div>
         <div class="toc">
-            <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
+            <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
             <ul>
-                <li><a href="#mtk-la-gi">1. Chip MediaTek là gì?</a></li>
-                <li><a href="#thiet-bi">2. Thiết bị MediaTek phổ biến</a></li>
-                <li><a href="#brom-mode">3. BROM Mode và cách vào</a></li>
-                <li><a href="#sp-flash-tool">4. SP Flash Tool - Hướng dẫn</a></li>
-                <li><a href="#phuong-phap">5. Các phương pháp bypass FRP MTK</a></li>
-                <li><a href="#driver">6. Cài đặt MTK Driver</a></li>
-                <li><a href="#loi">7. Khắc phục lỗi thường gặp</a></li>
-                <li><a href="#faq">8. FAQ - Câu hỏi thường gặp</a></li>
+                <li><a href="#mtk-la-gi">1. Chip MediaTek l� g�?</a></li>
+                <li><a href="#thiet-bi">2. Thi?t b? MediaTek ph? bi?n</a></li>
+                <li><a href="#brom-mode">3. BROM Mode v� c�ch v�o</a></li>
+                <li><a href="#sp-flash-tool">4. SP Flash Tool - Hu?ng d?n</a></li>
+                <li><a href="#phuong-phap">5. C�c phuong ph�p bypass FRP MTK</a></li>
+                <li><a href="#driver">6. C�i d?t MTK Driver</a></li>
+                <li><a href="#loi">7. Kh?c ph?c l?i thu?ng g?p</a></li>
+                <li><a href="#faq">8. FAQ - C�u h?i thu?ng g?p</a></li>
             </ul>
         </div>
         
-        <h2 id="mtk-la-gi"><i class="fas fa-info-circle me-2"></i>1. Chip MediaTek là gì?</h2>
+        <h2 id="mtk-la-gi"><i class="fas fa-info-circle me-2"></i>1. Chip MediaTek l� g�?</h2>
         
-        <p><strong>MediaTek (MTK)</strong> là hãng sản xuất chipset di động lớn thứ 2 thế giới (sau Qualcomm), đặc biệt phổ biến ở phân khúc tầm trung và giá rẻ. Theo <a href="https://www.mediatek.com/" target="_blank" rel="noopener noreferrer">MediaTek chính thức</a>, hãng sản xuất các dòng chip:</p>
+        <p><strong>MediaTek (MTK)</strong> l� h�ng s?n xu?t chipset di d?ng l?n th? 2 th? gi?i (sau Qualcomm), d?c bi?t ph? bi?n ? ph�n kh�c t?m trung v� gi� r?. Theo <a href="https://www.mediatek.com/" target="_blank" rel="noopener noreferrer">MediaTek ch�nh th?c</a>, h�ng s?n xu?t c�c d�ng chip:</p>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Dòng chip</th><th>Phân khúc</th><th>Ghi chú</th></tr>
+                <tr><th>D�ng chip</th><th>Ph�n kh�c</th><th>Ghi ch�</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>Dimensity 9000 series</strong></td><td>Flagship</td><td>Cạnh tranh Snapdragon 8 Gen</td></tr>
-                <tr><td><strong>Dimensity 7000 series</strong></td><td>Tầm trung cao</td><td>5G, hiệu năng tốt</td></tr>
-                <tr><td><strong>Helio G series</strong></td><td>Gaming tầm trung</td><td>G99, G96, G90T...</td></tr>
-                <tr><td><strong>Helio P series</strong></td><td>Tầm trung</td><td>P35, P60, P90</td></tr>
-                <tr><td><strong>Helio A series</strong></td><td>Phổ thông</td><td>A22, A25</td></tr>
+                <tr><td><strong>Dimensity 9000 series</strong></td><td>Flagship</td><td>C?nh tranh Snapdragon 8 Gen</td></tr>
+                <tr><td><strong>Dimensity 7000 series</strong></td><td>T?m trung cao</td><td>5G, hi?u nang t?t</td></tr>
+                <tr><td><strong>Helio G series</strong></td><td>Gaming t?m trung</td><td>G99, G96, G90T...</td></tr>
+                <tr><td><strong>Helio P series</strong></td><td>T?m trung</td><td>P35, P60, P90</td></tr>
+                <tr><td><strong>Helio A series</strong></td><td>Ph? th�ng</td><td>A22, A25</td></tr>
             </tbody>
         </table>
         
         <h3>1.1. MTK vs Qualcomm trong bypass FRP</h3>
         <ul>
-            <li><strong>MediaTek:</strong> Dùng BROM Mode + SP Flash Tool</li>
-            <li><strong>Qualcomm:</strong> Dùng EDL Mode (9008) + QFIL</li>
-            <li>Cả hai đều có thể bypass FRP bằng tool như UnlockTool</li>
+            <li><strong>MediaTek:</strong> D�ng BROM Mode + SP Flash Tool</li>
+            <li><strong>Qualcomm:</strong> D�ng EDL Mode (9008) + QFIL</li>
+            <li>C? hai d?u c� th? bypass FRP b?ng tool nhu UnlockTool</li>
         </ul>
         
-        <h2 id="thiet-bi"><i class="fas fa-mobile-alt me-2"></i>2. Thiết bị MediaTek phổ biến</h2>
+        <h2 id="thiet-bi"><i class="fas fa-mobile-alt me-2"></i>2. Thi?t b? MediaTek ph? bi?n</h2>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Hãng</th><th>Model MTK phổ biến</th></tr>
+                <tr><th>H�ng</th><th>Model MTK ph? bi?n</th></tr>
             </thead>
             <tbody>
                 <tr><td><strong>Xiaomi/Redmi</strong></td><td>Redmi 9, 10, 12, Note 11, 12 (MTK variant), POCO C/M series</td></tr>
                 <tr><td><strong>Oppo</strong></td><td>A15, A16, A54s, A74, A78, Reno8 Z</td></tr>
                 <tr><td><strong>Vivo</strong></td><td>Y series (Y12, Y15, Y20, Y21, Y35), V25e</td></tr>
                 <tr><td><strong>Realme</strong></td><td>C series (C11, C15, C21, C35), Narzo series</td></tr>
-                <tr><td><strong>Samsung</strong></td><td>A02, A03, A04, M02, M04 (một số region)</td></tr>
-                <tr><td><strong>Tecno/Infinix</strong></td><td>Hầu hết các model</td></tr>
+                <tr><td><strong>Samsung</strong></td><td>A02, A03, A04, M02, M04 (m?t s? region)</td></tr>
+                <tr><td><strong>Tecno/Infinix</strong></td><td>H?u h?t c�c model</td></tr>
             </tbody>
         </table>
         
         <div class="info-box">
-            <h5><i class="fas fa-lightbulb me-2"></i>Cách kiểm tra chip:</h5>
-            <p class="mb-0">Cài app <strong>CPU-Z</strong> hoặc tìm Google với từ khóa "[tên model] chipset" để biết điện thoại dùng chip MTK hay Qualcomm.</p>
+            <h5><i class="fas fa-lightbulb me-2"></i>C�ch ki?m tra chip:</h5>
+            <p class="mb-0">C�i app <strong>CPU-Z</strong> ho?c t�m Google v?i t? kh�a "[t�n model] chipset" d? bi?t di?n tho?i d�ng chip MTK hay Qualcomm.</p>
         </div>
         
-        <h2 id="brom-mode"><i class="fas fa-bolt me-2"></i>3. BROM Mode và cách vào</h2>
+        <h2 id="brom-mode"><i class="fas fa-bolt me-2"></i>3. BROM Mode v� c�ch v�o</h2>
         
-        <p><strong>BROM Mode</strong> (Boot ROM Mode) hay còn gọi là <strong>Preloader Mode</strong> là chế độ cấp thấp nhất trên chip MediaTek, tương tự EDL Mode của Qualcomm. Ở chế độ này, tool có thể giao tiếp trực tiếp với chip để flash firmware và bypass các bảo mật.</p>
+        <p><strong>BROM Mode</strong> (Boot ROM Mode) hay c�n g?i l� <strong>Preloader Mode</strong> l� ch? d? c?p th?p nh?t tr�n chip MediaTek, tuong t? EDL Mode c?a Qualcomm. ? ch? d? n�y, tool c� th? giao ti?p tr?c ti?p v?i chip d? flash firmware v� bypass c�c b?o m?t.</p>
         
-        <h3>3.1. Cách vào BROM Mode</h3>
+        <h3>3.1. C�ch v�o BROM Mode</h3>
         
         <div class="step-box">
             <div class="step-num">1</div>
-            <h5>Tắt máy hoàn toàn</h5>
-            <p>Nếu máy có pin rời, tháo pin ra vài giây rồi lắp lại.</p>
+            <h5>T?t m�y ho�n to�n</h5>
+            <p>N?u m�y c� pin r?i, th�o pin ra v�i gi�y r?i l?p l?i.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">2</div>
-            <h5>Giữ nút Volume</h5>
-            <p>Giữ <strong>Vol Up</strong> hoặc <strong>Vol Down</strong> (tùy model). Xiaomi thường là Vol Down.</p>
+            <h5>Gi? n�t Volume</h5>
+            <p>Gi? <strong>Vol Up</strong> ho?c <strong>Vol Down</strong> (t�y model). Xiaomi thu?ng l� Vol Down.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">3</div>
-            <h5>Cắm cáp USB</h5>
-            <p>Vẫn giữ nút, cắm cáp USB vào máy tính. Màn hình sẽ vẫn đen.</p>
+            <h5>C?m c�p USB</h5>
+            <p>V?n gi? n�t, c?m c�p USB v�o m�y t�nh. M�n h�nh s? v?n den.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">4</div>
-            <h5>Kiểm tra Device Manager</h5>
-            <p>Device Manager sẽ hiện <strong>"MediaTek Preloader USB VCOM"</strong> hoặc <strong>"MTK Port"</strong>.</p>
+            <h5>Ki?m tra Device Manager</h5>
+            <p>Device Manager s? hi?n <strong>"MediaTek Preloader USB VCOM"</strong> ho?c <strong>"MTK Port"</strong>.</p>
         </div>
         
         <div class="warning-box">
-            <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý:</h5>
-            <p class="mb-0">Một số chip MTK mới (Helio G series, Dimensity) cần <strong>Auth file</strong> để vào BROM Mode. UnlockTool có sẵn auth file cho nhiều chip.</p>
+            <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu �:</h5>
+            <p class="mb-0">M?t s? chip MTK m?i (Helio G series, Dimensity) c?n <strong>Auth file</strong> d? v�o BROM Mode. UnlockTool c� s?n auth file cho nhi?u chip.</p>
         </div>
         
-        <h2 id="sp-flash-tool"><i class="fas fa-download me-2"></i>4. SP Flash Tool - Hướng dẫn</h2>
+        <h2 id="sp-flash-tool"><i class="fas fa-download me-2"></i>4. SP Flash Tool - Hu?ng d?n</h2>
         
-        <p><strong>SP Flash Tool</strong> (Smart Phone Flash Tool) là phần mềm chính thức của MediaTek dùng để flash firmware, format partition, và unbrick thiết bị MTK.</p>
+        <p><strong>SP Flash Tool</strong> (Smart Phone Flash Tool) l� ph?n m?m ch�nh th?c c?a MediaTek d�ng d? flash firmware, format partition, v� unbrick thi?t b? MTK.</p>
         
-        <h3>4.1. Tải SP Flash Tool</h3>
+        <h3>4.1. T?i SP Flash Tool</h3>
         <ul>
-            <li>Phiên bản mới nhất: v5.2228 hoặc v6.2148 (2024)</li>
-            <li>Tải từ các nguồn uy tín như spflashtool.com</li>
+            <li>Phi�n b?n m?i nh?t: v5.2228 ho?c v6.2148 (2024)</li>
+            <li>T?i t? c�c ngu?n uy t�n nhu spflashtool.com</li>
         </ul>
         
-        <h3>4.2. Scatter file là gì?</h3>
-        <p><strong>Scatter file</strong> là file mô tả cấu trúc phân vùng của firmware MediaTek. SP Flash Tool cần scatter file để biết cách flash đúng các partition. Scatter file thường có tên như <code>MT6768_Android_scatter.txt</code>.</p>
+        <h3>4.2. Scatter file l� g�?</h3>
+        <p><strong>Scatter file</strong> l� file m� t? c?u tr�c ph�n v�ng c?a firmware MediaTek. SP Flash Tool c?n scatter file d? bi?t c�ch flash d�ng c�c partition. Scatter file thu?ng c� t�n nhu <code>MT6768_Android_scatter.txt</code>.</p>
         
-        <h3>4.3. Bypass FRP bằng SP Flash Tool</h3>
+        <h3>4.3. Bypass FRP b?ng SP Flash Tool</h3>
         
         <div class="step-box">
             <div class="step-num">1</div>
-            <h5>Mở SP Flash Tool</h5>
-            <p>Chạy <strong>flash_tool.exe</strong> với quyền Administrator.</p>
+            <h5>M? SP Flash Tool</h5>
+            <p>Ch?y <strong>flash_tool.exe</strong> v?i quy?n Administrator.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">2</div>
             <h5>Load Scatter File</h5>
-            <p>Click <strong>Scatter-loading</strong> → chọn scatter file của model.</p>
+            <p>Click <strong>Scatter-loading</strong> ? ch?n scatter file c?a model.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">3</div>
-            <h5>Chọn tab Format</h5>
-            <p>Chuyển sang tab <strong>Format</strong> → chọn <strong>Manual Format Flash</strong>.</p>
+            <h5>Ch?n tab Format</h5>
+            <p>Chuy?n sang tab <strong>Format</strong> ? ch?n <strong>Manual Format Flash</strong>.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">4</div>
-            <h5>Nhập địa chỉ FRP partition</h5>
-            <p>Tìm trong scatter file địa chỉ của partition FRP (begin_addr và partition_size). Nhập vào SP Flash Tool.</p>
+            <h5>Nh?p d?a ch? FRP partition</h5>
+            <p>T�m trong scatter file d?a ch? c?a partition FRP (begin_addr v� partition_size). Nh?p v�o SP Flash Tool.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">5</div>
             <h5>Format FRP</h5>
-            <p>Click <strong>Start</strong> → Kết nối điện thoại ở BROM Mode → Đợi hoàn tất.</p>
+            <p>Click <strong>Start</strong> ? K?t n?i di?n tho?i ? BROM Mode ? �?i ho�n t?t.</p>
         </div>
         
-        <h2 id="phuong-phap"><i class="fas fa-cogs me-2"></i>5. Các phương pháp bypass FRP MTK</h2>
+        <h2 id="phuong-phap"><i class="fas fa-cogs me-2"></i>5. C�c phuong ph�p bypass FRP MTK</h2>
         
         <div class="method-card">
-            <h5><i class="fas fa-tools me-2"></i>Phương pháp 1: UnlockTool (Khuyến nghị)</h5>
-            <p>Cách đơn giản nhất, không cần tìm scatter file:</p>
+            <h5><i class="fas fa-tools me-2"></i>Phuong ph�p 1: UnlockTool (Khuy?n ngh?)</h5>
+            <p>C�ch don gi?n nh?t, kh�ng c?n t�m scatter file:</p>
             <ol>
-                <li>Mở UnlockTool → chọn hãng (Xiaomi, Oppo, Vivo...)</li>
-                <li>Tắt điện thoại, giữ Vol Down → cắm USB</li>
-                <li>UnlockTool sẽ nhận BROM Mode</li>
-                <li>Chọn <strong>FRP Bypass</strong> → Click Start</li>
+                <li>M? UnlockTool ? ch?n h�ng (Xiaomi, Oppo, Vivo...)</li>
+                <li>T?t di?n tho?i, gi? Vol Down ? c?m USB</li>
+                <li>UnlockTool s? nh?n BROM Mode</li>
+                <li>Ch?n <strong>FRP Bypass</strong> ? Click Start</li>
             </ol>
         </div>
         
         <div class="method-card">
-            <h5><i class="fas fa-hdd me-2"></i>Phương pháp 2: SP Flash Tool + Format FRP</h5>
-            <p>Dùng SP Flash Tool để format partition FRP (như hướng dẫn ở mục 4.3).</p>
+            <h5><i class="fas fa-hdd me-2"></i>Phuong ph�p 2: SP Flash Tool + Format FRP</h5>
+            <p>D�ng SP Flash Tool d? format partition FRP (nhu hu?ng d?n ? m?c 4.3).</p>
         </div>
         
         <div class="method-card">
-            <h5><i class="fab fa-python me-2"></i>Phương pháp 3: MTK Client (Python Tool)</h5>
-            <p>Tool miễn phí sử dụng Python:</p>
+            <h5><i class="fab fa-python me-2"></i>Phuong ph�p 3: MTK Client (Python Tool)</h5>
+            <p>Tool mi?n ph� s? d?ng Python:</p>
             <ul>
-                <li>Hỗ trợ nhiều chip MediaTek</li>
-                <li>Có thể cần install Python và dependencies</li>
-                <li>Phức tạp hơn UnlockTool</li>
+                <li>H? tr? nhi?u chip MediaTek</li>
+                <li>C� th? c?n install Python v� dependencies</li>
+                <li>Ph?c t?p hon UnlockTool</li>
             </ul>
         </div>
         
         <div class="price-box">
-            <h3><i class="fas fa-tools me-2"></i>Bypass FRP MediaTek Dễ Dàng</h3>
-            <p>UnlockTool hỗ trợ chip MTK mới nhất, có sẵn auth file</p>
-            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg"><i class="fas fa-bolt me-2"></i>Thuê UnlockTool 8K/6H</a>
+            <h3><i class="fas fa-tools me-2"></i>Bypass FRP MediaTek D? D�ng</h3>
+            <p>UnlockTool h? tr? chip MTK m?i nh?t, c� s?n auth file</p>
+            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg"><i class="fas fa-bolt me-2"></i>Thu� UnlockTool 8K/6H</a>
         </div>
         
-        <h2 id="driver"><i class="fas fa-plug me-2"></i>6. Cài đặt MTK Driver</h2>
+        <h2 id="driver"><i class="fas fa-plug me-2"></i>6. C�i d?t MTK Driver</h2>
         
-        <p>Để máy tính nhận thiết bị MediaTek, cần cài <strong>MTK VCOM Driver</strong>.</p>
+        <p>�? m�y t�nh nh?n thi?t b? MediaTek, c?n c�i <strong>MTK VCOM Driver</strong>.</p>
         
-        <h3>6.1. Cách cài driver</h3>
+        <h3>6.1. C�ch c�i driver</h3>
         <ul>
-            <li><strong>UnlockTool:</strong> Mở UnlockTool → Driver → Install MTK Driver</li>
-            <li><strong>Thủ công:</strong> Tải từ file.unlocktool.net hoặc Internet</li>
-            <li><strong>Tắt Driver Signature:</strong> Có thể cần trên Windows 10/11</li>
+            <li><strong>UnlockTool:</strong> M? UnlockTool ? Driver ? Install MTK Driver</li>
+            <li><strong>Th? c�ng:</strong> T?i t? file.unlocktool.net ho?c Internet</li>
+            <li><strong>T?t Driver Signature:</strong> C� th? c?n tr�n Windows 10/11</li>
         </ul>
         
-        <h3>6.2. Kiểm tra driver</h3>
+        <h3>6.2. Ki?m tra driver</h3>
         <ul>
-            <li>Mở Device Manager</li>
-            <li>Kết nối điện thoại ở BROM Mode</li>
-            <li>Nếu thấy <strong>"MediaTek Preloader USB VCOM (COMx)"</strong> = OK</li>
-            <li>Nếu thấy "Unknown Device" = Cần cài lại driver</li>
+            <li>M? Device Manager</li>
+            <li>K?t n?i di?n tho?i ? BROM Mode</li>
+            <li>N?u th?y <strong>"MediaTek Preloader USB VCOM (COMx)"</strong> = OK</li>
+            <li>N?u th?y "Unknown Device" = C?n c�i l?i driver</li>
         </ul>
         
-        <h2 id="loi"><i class="fas fa-wrench me-2"></i>7. Khắc phục lỗi thường gặp</h2>
+        <h2 id="loi"><i class="fas fa-wrench me-2"></i>7. Kh?c ph?c l?i thu?ng g?p</h2>
         
-        <h3>7.1. Không vào được BROM Mode</h3>
+        <h3>7.1. Kh�ng v�o du?c BROM Mode</h3>
         <div class="tip-box">
-            <h5><i class="fas fa-check-circle me-2"></i>Cách khắc phục:</h5>
+            <h5><i class="fas fa-check-circle me-2"></i>C�ch kh?c ph?c:</h5>
             <ul class="mb-0">
-                <li>Thử cả Vol Up và Vol Down</li>
-                <li>Tháo pin (nếu có) vài giây rồi lắp lại</li>
-                <li>Kiểm tra cáp USB và cổng</li>
-                <li>Cài lại MTK Driver</li>
+                <li>Th? c? Vol Up v� Vol Down</li>
+                <li>Th�o pin (n?u c�) v�i gi�y r?i l?p l?i</li>
+                <li>Ki?m tra c�p USB v� c?ng</li>
+                <li>C�i l?i MTK Driver</li>
             </ul>
         </div>
         
-        <h3>7.2. Lỗi "BROM ERROR"</h3>
+        <h3>7.2. L?i "BROM ERROR"</h3>
         <div class="tip-box">
-            <h5><i class="fas fa-check-circle me-2"></i>Cách khắc phục:</h5>
+            <h5><i class="fas fa-check-circle me-2"></i>C�ch kh?c ph?c:</h5>
             <ul class="mb-0">
-                <li>Chip cần Auth file - dùng UnlockTool có sẵn auth</li>
-                <li>Thử phiên bản SP Flash Tool khác</li>
-                <li>Tắt antivirus tạm thời</li>
+                <li>Chip c?n Auth file - d�ng UnlockTool c� s?n auth</li>
+                <li>Th? phi�n b?n SP Flash Tool kh�c</li>
+                <li>T?t antivirus t?m th?i</li>
             </ul>
         </div>
         
-        <h3>7.3. Lỗi "DA not match to target"</h3>
-        <p>Download Agent (DA) không đúng với chipset. Tìm DA file phù hợp với chip hoặc dùng UnlockTool.</p>
+        <h3>7.3. L?i "DA not match to target"</h3>
+        <p>Download Agent (DA) kh�ng d�ng v?i chipset. T�m DA file ph� h?p v?i chip ho?c d�ng UnlockTool.</p>
         
-        <h2 id="faq"><i class="fas fa-comments me-2"></i>8. FAQ - Câu hỏi thường gặp</h2>
+        <h2 id="faq"><i class="fas fa-comments me-2"></i>8. FAQ - C�u h?i thu?ng g?p</h2>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>BROM Mode là gì?</h5>
-            <p><strong>BROM</strong> (Boot ROM) Mode là chế độ cấp thấp nhất trên chip MediaTek. Tương tự EDL Mode của Qualcomm. Cho phép flash firmware và bypass FRP.</p>
+            <h5><i class="fas fa-question me-2"></i>BROM Mode l� g�?</h5>
+            <p><strong>BROM</strong> (Boot ROM) Mode l� ch? d? c?p th?p nh?t tr�n chip MediaTek. Tuong t? EDL Mode c?a Qualcomm. Cho ph�p flash firmware v� bypass FRP.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>SP Flash Tool dùng để làm gì?</h5>
-            <p><strong>SP Flash Tool</strong> là phần mềm chính thức để flash firmware, format partition FRP, và unbrick thiết bị MediaTek.</p>
+            <h5><i class="fas fa-question me-2"></i>SP Flash Tool d�ng d? l�m g�?</h5>
+            <p><strong>SP Flash Tool</strong> l� ph?n m?m ch�nh th?c d? flash firmware, format partition FRP, v� unbrick thi?t b? MediaTek.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Scatter file là gì?</h5>
-            <p><strong>Scatter file</strong> là file mô tả cấu trúc phân vùng của firmware MediaTek. SP Flash Tool cần scatter file để biết cách flash đúng.</p>
+            <h5><i class="fas fa-question me-2"></i>Scatter file l� g�?</h5>
+            <p><strong>Scatter file</strong> l� file m� t? c?u tr�c ph�n v�ng c?a firmware MediaTek. SP Flash Tool c?n scatter file d? bi?t c�ch flash d�ng.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Auth file là gì?</h5>
-            <p><strong>Auth file</strong> là file xác thực cần cho chip MTK mới (Helio G series, Dimensity). Không có auth file phù hợp sẽ không vào được BROM Mode.</p>
+            <h5><i class="fas fa-question me-2"></i>Auth file l� g�?</h5>
+            <p><strong>Auth file</strong> l� file x�c th?c c?n cho chip MTK m?i (Helio G series, Dimensity). Kh�ng c� auth file ph� h?p s? kh�ng v�o du?c BROM Mode.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Bypass FRP MTK có mất dữ liệu không?</h5>
-            <p><strong>Có thể mất</strong> tùy phương pháp. Format FRP partition thường không mất data, nhưng flash firmware sẽ xóa sạch.</p>
+            <h5><i class="fas fa-question me-2"></i>Bypass FRP MTK c� m?t d? li?u kh�ng?</h5>
+            <p><strong>C� th? m?t</strong> t�y phuong ph�p. Format FRP partition thu?ng kh�ng m?t data, nhung flash firmware s? x�a s?ch.</p>
         </div>
         
-        <h2><i class="fas fa-link me-2"></i>Bài viết liên quan</h2>
+        <h2><i class="fas fa-link me-2"></i>B�i vi?t li�n quan</h2>
         <ul>
-            <li><a href="64-qualcomm-edl-mode.php">Qualcomm EDL Mode - Hướng dẫn</a></li>
-            <li><a href="135-flash-xiaomi-mi-flash.php">Flash Xiaomi bằng Mi Flash</a></li>
+            <li><a href="64-qualcomm-edl-mode.php">Qualcomm EDL Mode - Hu?ng d?n</a></li>
+            <li><a href="135-flash-xiaomi-mi-flash.php">Flash Xiaomi b?ng Mi Flash</a></li>
             <li><a href="143-hydra-tool-la-gi.php">Hydra Tool - FRP MTK</a></li>
             <li><a href="44-tsm-tool-huong-dan.php">TSM Tool - FRP MTK</a></li>
-            <li><a href="1-unlocktool-la-gi.php">UnlockTool là gì?</a></li>
+            <li><a href="1-unlocktool-la-gi.php">UnlockTool l� g�?</a></li>
         </ul>
         
     </div>
@@ -448,7 +448,7 @@ $canonical_url = "https://www.unlocktool.us/articles/63-mediatek-frp.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -462,13 +462,13 @@ $canonical_url = "https://www.unlocktool.us/articles/63-mediatek-frp.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hướng dẫn chi tiết</small>
+                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
                         </div>
                     </div>
                 </div>
@@ -476,15 +476,15 @@ $canonical_url = "https://www.unlocktool.us/articles/63-mediatek-frp.php";
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">Từ iPhone 5s - X</small>
+                            <small class="text-muted">T? iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
-                            <small class="text-muted">Download mới nhất</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
+                            <small class="text-muted">Download m?i nh?t</small>
                         </div>
                     </div>
                 </div>
@@ -497,7 +497,7 @@ $canonical_url = "https://www.unlocktool.us/articles/63-mediatek-frp.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -505,8 +505,8 @@ $canonical_url = "https://www.unlocktool.us/articles/63-mediatek-frp.php";
 </div>
 <footer class="bg-dark text-white py-4 text-center">
     <div class="container">
-        <p class="mb-2">&copy; 2026 UnlockTool.us - Dịch vụ cho thuê UnlockTool uy tín #1 Việt Nam</p>
-        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thuê UnlockTool 8K</a></p>
+        <p class="mb-2">&copy; 2026 UnlockTool.us - D?ch v? cho thu� UnlockTool uy t�n #1 Vi?t Nam</p>
+        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thu� UnlockTool 8K</a></p>
     </div>
 </footer>
 

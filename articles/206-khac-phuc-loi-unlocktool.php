@@ -1,6 +1,6 @@
-﻿<?php
-$page_title = "Tổng Hợp Lỗi UnlockTool & Cách Khắc Phục Triệt Để 2026 ⚡ Login Failed, Driver Error";
-$page_description = "⚡ Hướng dẫn sửa lỗi UnlockTool mới nhất 2026: Login Failed, Waiting for device, LibUSB Driver Error, lỗi không nhận cổng COM/EDL. Tổng hợp mã lỗi và cách fix 100% thành công.";
+<?php
+$page_title = "T?ng H?p L?i UnlockTool & C�ch Kh?c Ph?c Tri?t �? 2026 ? Login Failed, Driver Error";
+$page_description = "? Hu?ng d?n s?a l?i UnlockTool m?i nh?t 2026: Login Failed, Waiting for device, LibUSB Driver Error, l?i kh�ng nh?n c?ng COM/EDL. T?ng h?p m� l?i v� c�ch fix 100% th�nh c�ng.";
 $page_keywords = "fix loi unlocktool, unlocktool login failed, sua loi driver unlocktool, unlocktool waiting for device, libusb win32 error, unlocktool khong nhan dien thoai, fix loi driver qdloader 9008";
 $canonical_url = "https://www.unlocktool.us/articles/206-khac-phuc-loi-unlocktool.php";
 ?>
@@ -32,7 +32,7 @@ $canonical_url = "https://www.unlocktool.us/articles/206-khac-phuc-loi-unlocktoo
     <meta property="og:locale" content="vi_VN">
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hỗ trợ kỹ thuật">
+    <meta property="article:section" content="H? tr? k? thu?t">
     <meta property="article:tag" content="Troubleshooting">
     
     <!-- Twitter -->
@@ -46,10 +46,10 @@ $canonical_url = "https://www.unlocktool.us/articles/206-khac-phuc-loi-unlocktoo
     {"@context":"https://schema.org","@type":"TechArticle","headline":"<?php echo $page_title; ?>","description":"<?php echo $page_description; ?>","author":{"@type":"Organization","name":"UnlockTool.us"},"datePublished":"2026-02-06","dateModified":"2026-02-06","publisher":{"@type":"Organization","name":"UnlockTool.us","logo":{"@type":"ImageObject","url":"https://www.unlocktool.us/images/logo.png"}}}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Lỗi Login Failed do đâu?","acceptedAnswer":{"@type":"Answer","text":"Thường do 3 nguyên nhân: Sai Username/Password, Tài khoản hết hạn, hoặc Sai ngày giờ máy tính."}},{"@type":"Question","name":"Tại sao tool cứ báo Waiting for device?","acceptedAnswer":{"@type":"Answer","text":"Do máy tính chưa nhận Driver của điện thoại. Bạn cần cài đủ Samsung Driver, MTK Driver hoặc Qualcom Driver."}},{"@type":"Question","name":"Lỗi Smartcard not found là gì?","acceptedAnswer":{"@type":"Answer","text":"Đây là lỗi khi bạn dùng bản crack hoặc driver xung đột. UnlockTool bản quyền không cần Smartcard, chỉ cần login là dùng."}}]}
+    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"L?i Login Failed do d�u?","acceptedAnswer":{"@type":"Answer","text":"Thu?ng do 3 nguy�n nh�n: Sai Username/Password, T�i kho?n h?t h?n, ho?c Sai ng�y gi? m�y t�nh."}},{"@type":"Question","name":"T?i sao tool c? b�o Waiting for device?","acceptedAnswer":{"@type":"Answer","text":"Do m�y t�nh chua nh?n Driver c?a di?n tho?i. B?n c?n c�i d? Samsung Driver, MTK Driver ho?c Qualcom Driver."}},{"@type":"Question","name":"L?i Smartcard not found l� g�?","acceptedAnswer":{"@type":"Answer","text":"��y l� l?i khi b?n d�ng b?n crack ho?c driver xung d?t. UnlockTool b?n quy?n kh�ng c?n Smartcard, ch? c?n login l� d�ng."}}]}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Trang chủ","item":"https://www.unlocktool.us/"},{"@type":"ListItem","position":2,"name":"Bài viết","item":"https://www.unlocktool.us/articles/"},{"@type":"ListItem","position":3,"name":"Khắc Phục Lỗi UnlockTool","item":"<?php echo $canonical_url; ?>"}]}
+    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Trang ch?","item":"https://www.unlocktool.us/"},{"@type":"ListItem","position":2,"name":"B�i vi?t","item":"https://www.unlocktool.us/articles/"},{"@type":"ListItem","position":3,"name":"Kh?c Ph?c L?i UnlockTool","item":"<?php echo $canonical_url; ?>"}]}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Organization","name":"UnlockTool.us","url":"https://www.unlocktool.us","logo":"https://www.unlocktool.us/images/logo.png","sameAs":["https://www.facebook.com/unlocktool.us","https://thuetaikhoan.net"]}
@@ -58,7 +58,7 @@ $canonical_url = "https://www.unlocktool.us/articles/206-khac-phuc-loi-unlocktoo
     {"@context":"https://schema.org","@type":"WebPage","speakable":{"@type":"SpeakableSpecification","cssSelector":["h1",".hero-section p.lead",".toc",".info-box",".tip-box"]}}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"Product","name":"Dịch vụ Hỗ trợ UnlockTool","brand":{"@type":"Brand","name":"UnlockTool.us"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","bestRating":"5","worstRating":"1","ratingCount":"280"}}
+    {"@context":"https://schema.org","@type":"Product","name":"D?ch v? H? tr? UnlockTool","brand":{"@type":"Brand","name":"UnlockTool.us"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","bestRating":"5","worstRating":"1","ratingCount":"280"}}
     </script>
     
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -86,19 +86,19 @@ $canonical_url = "https://www.unlocktool.us/articles/206-khac-phuc-loi-unlocktoo
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
-            <li class="breadcrumb-item active">Sửa Lỗi UnlockTool</li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item active">S?a L?i UnlockTool</li>
         </ol>
     </div>
 </nav>
 
 <section class="hero-section text-center">
     <div class="container">
-        <h1 class="display-4 fw-bold mb-3"><i class="fas fa-tools me-3"></i>Fix Lỗi UnlockTool 2026</h1>
-        <p class="lead mb-4">Tổng hợp mọi mã lỗi & Cách khắc phục 100% thành công</p>
+        <h1 class="display-4 fw-bold mb-3"><i class="fas fa-tools me-3"></i>Fix L?i UnlockTool 2026</h1>
+        <p class="lead mb-4">T?ng h?p m?i m� l?i & C�ch kh?c ph?c 100% th�nh c�ng</p>
         <div class="mt-4">
-            <a href="https://thuetaikhoan.net" class="cta-btn"><i class="fas fa-headset me-2"></i>HỖ TRỢ KỸ THUẬT 24/7</a>
+            <a href="https://thuetaikhoan.net" class="cta-btn"><i class="fas fa-headset me-2"></i>H? TR? K? THU?T 24/7</a>
         </div>
     </div>
 </section>
@@ -107,105 +107,105 @@ $canonical_url = "https://www.unlocktool.us/articles/206-khac-phuc-loi-unlocktoo
     <div class="content-wrapper">
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #ffc107;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#ffc107;"></i> <strong>Tác giả:</strong> UnlockTool.us Team</span>
-            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>Cập nhật:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Đọc:</strong> ~18 phút</span>
-            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lượt xem:</strong> 42,150</span>
+            <span><i class="fas fa-user-edit me-1" style="color:#ffc107;"></i> <strong>T�c gi?:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>�?c:</strong> ~18 ph�t</span>
+            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> 42,150</span>
         </div>
         
         <div class="toc">
-            <h4><i class="fas fa-list me-2"></i>Mục Lục Bài Viết</h4>
+            <h4><i class="fas fa-list me-2"></i>M?c L?c B�i Vi?t</h4>
             <ul>
-                <li><a href="#login-errors">1. Các lỗi liên quan đến Đăng nhập (Login)</a></li>
-                <li><a href="#connection-errors">2. Các lỗi kết nối (Waiting for device)</a></li>
-                <li><a href="#driver-errors">3. Các lỗi Driver phổ biến</a></li>
-                <li><a href="#server-errors">4. Lỗi Server & Mạng</a></li>
-                <li><a href="#faq">5. Câu hỏi thường gặp</a></li>
+                <li><a href="#login-errors">1. C�c l?i li�n quan d?n �ang nh?p (Login)</a></li>
+                <li><a href="#connection-errors">2. C�c l?i k?t n?i (Waiting for device)</a></li>
+                <li><a href="#driver-errors">3. C�c l?i Driver ph? bi?n</a></li>
+                <li><a href="#server-errors">4. L?i Server & M?ng</a></li>
+                <li><a href="#faq">5. C�u h?i thu?ng g?p</a></li>
             </ul>
         </div>
 
-        <h2 id="login-errors"><i class="fas fa-sign-in-alt me-2"></i>1. Các Lỗi Liên Quan Đến Đăng Nhập</h2>
+        <h2 id="login-errors"><i class="fas fa-sign-in-alt me-2"></i>1. C�c L?i Li�n Quan �?n �ang Nh?p</h2>
         
         <div class="error-card">
             <h5><span class="error-code">Login Failed! Username or password incorrect</span></h5>
-            <p><strong>Nguyên nhân:</strong> Nhập sai tên đăng nhập hoặc mật khẩu.</p>
-            <p><strong>Khắc phục:</strong></p>
+            <p><strong>Nguy�n nh�n:</strong> Nh?p sai t�n dang nh?p ho?c m?t kh?u.</p>
+            <p><strong>Kh?c ph?c:</strong></p>
             <ul>
-                <li>Copy/Paste chính xác thông tin được gửi (tránh thừa khoảng trắng).</li>
-                <li>Chú ý chữ hoa chữ thường.</li>
-                <li>Nếu thuê tool, hãy liên hệ admin để reset mật khẩu nếu nghi ngờ bị đổi.</li>
+                <li>Copy/Paste ch�nh x�c th�ng tin du?c g?i (tr�nh th?a kho?ng tr?ng).</li>
+                <li>Ch� � ch? hoa ch? thu?ng.</li>
+                <li>N?u thu� tool, h�y li�n h? admin d? reset m?t kh?u n?u nghi ng? b? d?i.</li>
             </ul>
         </div>
 
         <div class="error-card">
             <h5><span class="error-code">Login Failed! Hardware ID mismatch</span></h5>
-            <p><strong>Nguyên nhân:</strong> Tài khoản đang đăng nhập ở một máy tính khác. UnlockTool quy định phải cách 3-6 tiếng mới được đổi máy.</p>
-            <p><strong>Khắc phục:</strong> Nếu bạn mua tài khoản riêng, hãy chờ hết thời gian khóa. Nếu bạn thuê tài khoản, đây là lỗi do nhà cung cấp cấp trùng, hãy yêu cầu đổi tài khoản khác.</p>
+            <p><strong>Nguy�n nh�n:</strong> T�i kho?n dang dang nh?p ? m?t m�y t�nh kh�c. UnlockTool quy d?nh ph?i c�ch 3-6 ti?ng m?i du?c d?i m�y.</p>
+            <p><strong>Kh?c ph?c:</strong> N?u b?n mua t�i kho?n ri�ng, h�y ch? h?t th?i gian kh�a. N?u b?n thu� t�i kho?n, d�y l� l?i do nh� cung c?p c?p tr�ng, h�y y�u c?u d?i t�i kho?n kh�c.</p>
         </div>
 
         <div class="error-card">
             <h5><span class="error-code">Login Failed! Time Setting Error</span></h5>
-            <p><strong>Nguyên nhân:</strong> Ngày giờ trên máy tính của bạn không đúng với giờ quốc tế.</p>
-            <p><strong>Khắc phục:</strong> Click vào đồng hồ -> Adjust date/time -> Bật "Set time automatically" và "Set time zone automatically".</p>
+            <p><strong>Nguy�n nh�n:</strong> Ng�y gi? tr�n m�y t�nh c?a b?n kh�ng d�ng v?i gi? qu?c t?.</p>
+            <p><strong>Kh?c ph?c:</strong> Click v�o d?ng h? -> Adjust date/time -> B?t "Set time automatically" v� "Set time zone automatically".</p>
         </div>
 
-        <h2 id="connection-errors"><i class="fas fa-plug me-2"></i>2. Các Lỗi Kết Nối (Waiting for Device)</h2>
-        <p>Đây là lỗi phổ biến nhất, khi bạn bấm nút trên tool nhưng tool cứ hiện <strong>Waiting for device...</strong> mãi mà không chạy.</p>
+        <h2 id="connection-errors"><i class="fas fa-plug me-2"></i>2. C�c L?i K?t N?i (Waiting for Device)</h2>
+        <p>��y l� l?i ph? bi?n nh?t, khi b?n b?m n�t tr�n tool nhung tool c? hi?n <strong>Waiting for device...</strong> m�i m� kh�ng ch?y.</p>
         
         <div class="step-box">
             <div class="step-num">1</div>
-            <h5>Kiểm tra cáp kết nối</h5>
-            <p>Đảm bảo cáp USB của bạn là cáp truyền dữ liệu (Data Cable), không phải cáp sạc lô.</p>
+            <h5>Ki?m tra c�p k?t n?i</h5>
+            <p>�?m b?o c�p USB c?a b?n l� c�p truy?n d? li?u (Data Cable), kh�ng ph?i c�p s?c l�.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">2</div>
-            <h5>Kiểm tra Device Manager</h5>
-            <p>Chuột phải This PC -> Manage -> Device Manager. Xem mục <strong>Ports (COM & LPT)</strong> hoặc <strong>Other devices</strong>.</p>
+            <h5>Ki?m tra Device Manager</h5>
+            <p>Chu?t ph?i This PC -> Manage -> Device Manager. Xem m?c <strong>Ports (COM & LPT)</strong> ho?c <strong>Other devices</strong>.</p>
             <ul>
-                <li>Nếu có dấu chấm than vàng ⚠️ -> Thiếu Driver.</li>
-                <li>Nếu không hiện gì -> Hỏng cáp hoặc chân sạc điện thoại.</li>
+                <li>N?u c� d?u ch?m than v�ng ?? -> Thi?u Driver.</li>
+                <li>N?u kh�ng hi?n g� -> H?ng c�p ho?c ch�n s?c di?n tho?i.</li>
             </ul>
         </div>
 
-        <h2 id="driver-errors"><i class="fas fa-hdd me-2"></i>3. Các Lỗi Driver Phổ Biến & Cách Fix</h2>
+        <h2 id="driver-errors"><i class="fas fa-hdd me-2"></i>3. C�c L?i Driver Ph? Bi?n & C�ch Fix</h2>
 
         <div class="info-box">
-            <h4>3.1. Lỗi thiếu Driver MTK (MediaTek)</h4>
-            <p>Tool báo <strong>BROM ERROR</strong> hoặc đứng ở <strong>Sending DA...</strong></p>
-            <p><strong>Cách fix: Cài LibUSB Win32</strong></p>
+            <h4>3.1. L?i thi?u Driver MTK (MediaTek)</h4>
+            <p>Tool b�o <strong>BROM ERROR</strong> ho?c d?ng ? <strong>Sending DA...</strong></p>
+            <p><strong>C�ch fix: C�i LibUSB Win32</strong></p>
             <ol>
-                <li>Tải và cài đặt LibUSB.</li>
-                <li>Mở LibUSB Filter Wizard -> Install a device filter.</li>
-                <li>Tắt nguồn điện thoại, giữ 2 phím Volume và cắm cáp.</li>
-                <li>Nhanh tay chọn dòng <strong>MediaTek USB Port</strong> hiện ra và bấm Install.</li>
+                <li>T?i v� c�i d?t LibUSB.</li>
+                <li>M? LibUSB Filter Wizard -> Install a device filter.</li>
+                <li>T?t ngu?n di?n tho?i, gi? 2 ph�m Volume v� c?m c�p.</li>
+                <li>Nhanh tay ch?n d�ng <strong>MediaTek USB Port</strong> hi?n ra v� b?m Install.</li>
             </ol>
         </div>
 
         <div class="info-box">
-            <h4>3.2. Lỗi QHSUSB_BULK (Qualcomm)</h4>
-            <p>Device Manager hiện <strong>QHSUSB_BULK</strong> có dấu chấm than vàng.</p>
-            <p><strong>Cách fix:</strong> Tải driver <strong>Qualcomm QDLoader 9008</strong> về và cài đặt. Sau khi cài xong, nó sẽ hiện thành <strong>Qualcomm HS-USB QDLoader 9008 (COMxx)</strong> là chuẩn.</p>
+            <h4>3.2. L?i QHSUSB_BULK (Qualcomm)</h4>
+            <p>Device Manager hi?n <strong>QHSUSB_BULK</strong> c� d?u ch?m than v�ng.</p>
+            <p><strong>C�ch fix:</strong> T?i driver <strong>Qualcomm QDLoader 9008</strong> v? v� c�i d?t. Sau khi c�i xong, n� s? hi?n th�nh <strong>Qualcomm HS-USB QDLoader 9008 (COMxx)</strong> l� chu?n.</p>
         </div>
 
         <div class="info-box">
-            <h4>3.3. Lỗi Driver Signing (Windows 10/11)</h4>
-            <p>Một số driver không cài được do Windows chặn chữ ký số.</p>
-            <p><strong>Cách fix:</strong> Vào Recovery của Windows -> Startup Settings -> Chọn dòng <strong>Disable driver signature enforcement</strong> (F7) -> Khởi động lại và cài Driver.</p>
+            <h4>3.3. L?i Driver Signing (Windows 10/11)</h4>
+            <p>M?t s? driver kh�ng c�i du?c do Windows ch?n ch? k� s?.</p>
+            <p><strong>C�ch fix:</strong> V�o Recovery c?a Windows -> Startup Settings -> Ch?n d�ng <strong>Disable driver signature enforcement</strong> (F7) -> Kh?i d?ng l?i v� c�i Driver.</p>
         </div>
 
-        <h2 id="server-errors"><i class="fas fa-server me-2"></i>4. Lỗi Server & Mạng</h2>
+        <h2 id="server-errors"><i class="fas fa-server me-2"></i>4. L?i Server & M?ng</h2>
         
         <div class="error-card">
             <h5><span class="error-code">Server Offline / Maintenance</span></h5>
-            <p><strong>Nguyên nhân:</strong> Server UnlockTool đang bảo trì hoặc update phiên bản mới.</p>
-            <p><strong>Khắc phục:</strong> Chờ đợi. Thông thường bảo trì chỉ mất 15-30 phút. Theo dõi Fanpage UnlockTool để biết lịch bảo trì.</p>
+            <p><strong>Nguy�n nh�n:</strong> Server UnlockTool dang b?o tr� ho?c update phi�n b?n m?i.</p>
+            <p><strong>Kh?c ph?c:</strong> Ch? d?i. Th�ng thu?ng b?o tr� ch? m?t 15-30 ph�t. Theo d�i Fanpage UnlockTool d? bi?t l?ch b?o tr�.</p>
         </div>
         
         <div class="price-box">
-            <h3 class="mb-3">🔥 ĐỪNG ĐỂ LỖI CẢN TRỞ CÔNG VIỆC 🔥</h3>
-            <p>Thuê UnlockTool tại UnlockTool.us - Hỗ trợ cài Drivers miễn phí qua UltraViewer</p>
-            <a href="https://www.unlocktool.us/" class="cta-btn" style="background:#fff;color:#cc9000"><i class="fas fa-shopping-cart me-2"></i>THUÊ NGAY</a>
+            <h3 class="mb-3">?? �?NG �? L?I C?N TR? C�NG VI?C ??</h3>
+            <p>Thu� UnlockTool t?i UnlockTool.us - H? tr? c�i Drivers mi?n ph� qua UltraViewer</p>
+            <a href="https://www.unlocktool.us/" class="cta-btn" style="background:#fff;color:#cc9000"><i class="fas fa-shopping-cart me-2"></i>THU� NGAY</a>
         </div>
         
     </div>
@@ -214,7 +214,7 @@ $canonical_url = "https://www.unlocktool.us/articles/206-khac-phuc-loi-unlocktoo
 <div class="container mb-5">
     <div class="content-wrapper" style="max-width:900px;margin:0 auto;background:#fff;border-radius:20px;box-shadow:0 10px 40px rgba(0,0,0,0.1);padding:40px;">
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
             </div>
@@ -224,7 +224,7 @@ $canonical_url = "https://www.unlocktool.us/articles/206-khac-phuc-loi-unlocktoo
             <div style="width:80px;height:80px;background:linear-gradient(135deg,#ffc107,#ff9800);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Chuyên gia xử lý lỗi phần mềm.</p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Chuy�n gia x? l� l?i ph?n m?m.</p>
             </div>
         </div>
     </div>

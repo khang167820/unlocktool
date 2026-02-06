@@ -1,6 +1,6 @@
-﻿<?php
-$page_title = "Xóa Mi Account Xiaomi Vĩnh Viễn ⚡ Bypass Mi Cloud | UnlockTool 2026";
-$page_description = "⚡ Hướng dẫn xóa Mi Account Xiaomi vĩnh viễn, bypass Mi Cloud cho HyperOS & MIUI 14. Fix lỗi Relock khi kết nối Wifi. Hỗ trợ Redmi Note 13, Xiaomi 14...";
+<?php
+$page_title = "X�a Mi Account Xiaomi Vinh Vi?n ? Bypass Mi Cloud | UnlockTool 2026";
+$page_description = "? Hu?ng d?n x�a Mi Account Xiaomi vinh vi?n, bypass Mi Cloud cho HyperOS & MIUI 14. Fix l?i Relock khi k?t n?i Wifi. H? tr? Redmi Note 13, Xiaomi 14...";
 $page_keywords = "xoa mi account, bypass mi cloud, an mi cloud, unlocktool xiaomi, remove mi account permanent, disable mi cloud, fix relock xiaomi";
 $canonical_url = "https://www.unlocktool.us/articles/202-xoa-mi-account-xiaomi.php";
 ?>
@@ -32,7 +32,7 @@ $canonical_url = "https://www.unlocktool.us/articles/202-xoa-mi-account-xiaomi.p
     <meta property="og:locale" content="vi_VN">
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hướng dẫn Xiaomi">
+    <meta property="article:section" content="Hu?ng d?n Xiaomi">
     <meta property="article:tag" content="Mi Account">
     <meta property="article:tag" content="Xiaomi">
     
@@ -47,10 +47,10 @@ $canonical_url = "https://www.unlocktool.us/articles/202-xoa-mi-account-xiaomi.p
     {"@context":"https://schema.org","@type":"TechArticle","headline":"<?php echo $page_title; ?>","description":"<?php echo $page_description; ?>","author":{"@type":"Organization","name":"UnlockTool.us"},"datePublished":"2026-02-06","dateModified":"2026-02-06","publisher":{"@type":"Organization","name":"UnlockTool.us","logo":{"@type":"ImageObject","url":"https://www.unlocktool.us/images/logo.png"}}}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Xóa Mi Account có bị khóa lại (Relock) không?","acceptedAnswer":{"@type":"Answer","text":"Nếu dùng chức năng Disable Mi Cloud của UnlockTool, máy sẽ dùng bình thường nhưng không được Factory Reset hoặc Update OTA. Nếu muốn vĩnh viễn (Server) phải dùng dịch vụ Code."}},{"@type":"Question","name":"HyperOS có xóa được Mi Account không?","acceptedAnswer":{"@type":"Answer","text":"Có. UnlockTool hỗ trợ tốt Xiaomi HyperOS thông qua chế độ Sideload (Recovery 5.0) hoặc EDL Mode."}},{"@type":"Question","name":"Có cần bung máy (Testpoint) không?","acceptedAnswer":{"@type":"Answer","text":"Tùy model. Các máy hỗ trợ Sideload Mode thì không cần bung máy. Các máy bảo mật cao hoặc chip MediaTek đời mới có thể cần chọc Testpoint để vào EDL/BROM Mode."}}]}
+    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"X�a Mi Account c� b? kh�a l?i (Relock) kh�ng?","acceptedAnswer":{"@type":"Answer","text":"N?u d�ng ch?c nang Disable Mi Cloud c?a UnlockTool, m�y s? d�ng b�nh thu?ng nhung kh�ng du?c Factory Reset ho?c Update OTA. N?u mu?n vinh vi?n (Server) ph?i d�ng d?ch v? Code."}},{"@type":"Question","name":"HyperOS c� x�a du?c Mi Account kh�ng?","acceptedAnswer":{"@type":"Answer","text":"C�. UnlockTool h? tr? t?t Xiaomi HyperOS th�ng qua ch? d? Sideload (Recovery 5.0) ho?c EDL Mode."}},{"@type":"Question","name":"C� c?n bung m�y (Testpoint) kh�ng?","acceptedAnswer":{"@type":"Answer","text":"T�y model. C�c m�y h? tr? Sideload Mode th� kh�ng c?n bung m�y. C�c m�y b?o m?t cao ho?c chip MediaTek d?i m?i c� th? c?n ch?c Testpoint d? v�o EDL/BROM Mode."}}]}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Trang chủ","item":"https://www.unlocktool.us/"},{"@type":"ListItem","position":2,"name":"Bài viết","item":"https://www.unlocktool.us/articles/"},{"@type":"ListItem","position":3,"name":"Xóa Mi Account Xiaomi","item":"<?php echo $canonical_url; ?>"}]}
+    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Trang ch?","item":"https://www.unlocktool.us/"},{"@type":"ListItem","position":2,"name":"B�i vi?t","item":"https://www.unlocktool.us/articles/"},{"@type":"ListItem","position":3,"name":"X�a Mi Account Xiaomi","item":"<?php echo $canonical_url; ?>"}]}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Organization","name":"UnlockTool.us","url":"https://www.unlocktool.us","logo":"https://www.unlocktool.us/images/logo.png","sameAs":["https://www.facebook.com/unlocktool.us","https://thuetaikhoan.net"]}
@@ -59,7 +59,7 @@ $canonical_url = "https://www.unlocktool.us/articles/202-xoa-mi-account-xiaomi.p
     {"@context":"https://schema.org","@type":"WebPage","speakable":{"@type":"SpeakableSpecification","cssSelector":["h1",".hero-section p.lead",".toc",".info-box",".tip-box"]}}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"Product","name":"Dịch vụ Xóa Mi Account","brand":{"@type":"Brand","name":"UnlockTool.us"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","bestRating":"5","worstRating":"1","ratingCount":"560"}}
+    {"@context":"https://schema.org","@type":"Product","name":"D?ch v? X�a Mi Account","brand":{"@type":"Brand","name":"UnlockTool.us"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","bestRating":"5","worstRating":"1","ratingCount":"560"}}
     </script>
     
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -90,19 +90,19 @@ $canonical_url = "https://www.unlocktool.us/articles/202-xoa-mi-account-xiaomi.p
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
-            <li class="breadcrumb-item active">Xóa Mi Account Xiaomi</li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item active">X�a Mi Account Xiaomi</li>
         </ol>
     </div>
 </nav>
 
 <section class="hero-section text-center">
     <div class="container">
-        <h1 class="display-4 fw-bold mb-3"><i class="fab fa-xiaomi me-3"></i>Xóa Mi Account Xiaomi 2026</h1>
-        <p class="lead mb-4">Bypass Mi Cloud Vĩnh Viễn | HyperOS & MIUI 14 | Fix Relock Wifi</p>
+        <h1 class="display-4 fw-bold mb-3"><i class="fab fa-xiaomi me-3"></i>X�a Mi Account Xiaomi 2026</h1>
+        <p class="lead mb-4">Bypass Mi Cloud Vinh Vi?n | HyperOS & MIUI 14 | Fix Relock Wifi</p>
         <div class="mt-4">
-            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>THUÊ UNLOCKTOOL 8K</a>
+            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>THU� UNLOCKTOOL 8K</a>
         </div>
     </div>
 </section>
@@ -111,133 +111,133 @@ $canonical_url = "https://www.unlocktool.us/articles/202-xoa-mi-account-xiaomi.p
     <div class="content-wrapper">
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #ff6700;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#ff6700;"></i> <strong>Tác giả:</strong> UnlockTool.us Team</span>
-            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>Cập nhật:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Đọc:</strong> ~10 phút</span>
-            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lượt xem:</strong> 15,320</span>
+            <span><i class="fas fa-user-edit me-1" style="color:#ff6700;"></i> <strong>T�c gi?:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>�?c:</strong> ~10 ph�t</span>
+            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> 15,320</span>
         </div>
         
         <div class="toc">
-            <h4><i class="fas fa-list me-2"></i>Mục Lục Bài Viết</h4>
+            <h4><i class="fas fa-list me-2"></i>M?c L?c B�i Vi?t</h4>
             <ul>
-                <li><a href="#mi-account-la-gi">1. Mi Account Lock là gì?</a></li>
-                <li><a href="#giai-phap-unlocktool">2. Giải pháp UnlockTool cho Xiaomi</a></li>
-                <li><a href="#sideload-method">3. Bypass qua Sideload Mode (Không tháo máy)</a></li>
+                <li><a href="#mi-account-la-gi">1. Mi Account Lock l� g�?</a></li>
+                <li><a href="#giai-phap-unlocktool">2. Gi?i ph�p UnlockTool cho Xiaomi</a></li>
+                <li><a href="#sideload-method">3. Bypass qua Sideload Mode (Kh�ng th�o m�y)</a></li>
                 <li><a href="#edl-method">4. Bypass qua EDL Mode (Testpoint)</a></li>
-                <li><a href="#fix-relock">5. Hướng dẫn Fix Relock / Disable OTA</a></li>
-                <li><a href="#ho-tro">6. Model Xiaomi hỗ trợ</a></li>
-                <li><a href="#faq">7. Câu hỏi thường gặp</a></li>
+                <li><a href="#fix-relock">5. Hu?ng d?n Fix Relock / Disable OTA</a></li>
+                <li><a href="#ho-tro">6. Model Xiaomi h? tr?</a></li>
+                <li><a href="#faq">7. C�u h?i thu?ng g?p</a></li>
             </ul>
         </div>
 
-        <h2 id="mi-account-la-gi"><i class="fas fa-lock me-2"></i>1. Mi Account Lock Là Gì?</h2>
-        <p><strong>Mi Account Lock</strong> (hay Mi Cloud Lock) là tính năng bảo mật tương tự như iCloud trên iPhone. Khi bạn reset máy hoặc chạy lại phần mềm mà quên thoát tài khoản Xiaomi, máy sẽ bị khóa ở màn hình kích hoạt với thông báo "This device is locked".</p>
-        <p>Đây là cơn ác mộng của người dùng Xiaomi xách tay hoặc mua máy cũ, vì nếu không có mật khẩu chính chủ, chiếc điện thoại sẽ trở thành "cục gạch".</p>
+        <h2 id="mi-account-la-gi"><i class="fas fa-lock me-2"></i>1. Mi Account Lock L� G�?</h2>
+        <p><strong>Mi Account Lock</strong> (hay Mi Cloud Lock) l� t�nh nang b?o m?t tuong t? nhu iCloud tr�n iPhone. Khi b?n reset m�y ho?c ch?y l?i ph?n m?m m� qu�n tho�t t�i kho?n Xiaomi, m�y s? b? kh�a ? m�n h�nh k�ch ho?t v?i th�ng b�o "This device is locked".</p>
+        <p>��y l� con �c m?ng c?a ngu?i d�ng Xiaomi x�ch tay ho?c mua m�y cu, v� n?u kh�ng c� m?t kh?u ch�nh ch?, chi?c di?n tho?i s? tr? th�nh "c?c g?ch".</p>
         
-        <h2 id="giai-phap-unlocktool"><i class="fas fa-key me-2"></i>2. Tại Sao Chọn UnlockTool Để Xóa Mi Account?</h2>
-        <p>Hiện nay có nhiều cách để mở khóa Mi Account, từ dịch vụ Sever Chính Hãng (giá rất cao, từ 500k-1tr) đến các tool miễn phí (không ổn định). <strong>UnlockTool</strong> cân bằng giữa chi phí và hiệu quả:</p>
+        <h2 id="giai-phap-unlocktool"><i class="fas fa-key me-2"></i>2. T?i Sao Ch?n UnlockTool �? X�a Mi Account?</h2>
+        <p>Hi?n nay c� nhi?u c�ch d? m? kh�a Mi Account, t? d?ch v? Sever Ch�nh H�ng (gi� r?t cao, t? 500k-1tr) d?n c�c tool mi?n ph� (kh�ng ?n d?nh). <strong>UnlockTool</strong> c�n b?ng gi?a chi ph� v� hi?u qu?:</p>
         
         <div class="row">
             <div class="col-md-6">
                 <div class="feature-card">
-                    <h5><i class="fas fa-money-bill-wave me-2"></i>Chi phí cực rẻ</h5>
-                    <p>Chỉ tốn 8K thuê tool, rẻ hơn 100 lần so với chạy Server Clean.</p>
+                    <h5><i class="fas fa-money-bill-wave me-2"></i>Chi ph� c?c r?</h5>
+                    <p>Ch? t?n 8K thu� tool, r? hon 100 l?n so v?i ch?y Server Clean.</p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="feature-card">
                     <h5><i class="fas fa-wifi me-2"></i>Fix Relock Wifi</h5>
-                    <p>UnlockTool có tính năng Disable Mi Cloud đặc biệt, giúp máy dùng Wifi bình thường mà không bị khóa lại.</p>
+                    <p>UnlockTool c� t�nh nang Disable Mi Cloud d?c bi?t, gi�p m�y d�ng Wifi b�nh thu?ng m� kh�ng b? kh�a l?i.</p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="feature-card">
-                    <h5><i class="fas fa-microchip me-2"></i>Hỗ trợ HyperOS</h5>
-                    <p>Tool cập nhật liên tục để hỗ trợ các bản HyperOS mới nhất trên Xiaomi 14, Redmi Note 13 Series.</p>
+                    <h5><i class="fas fa-microchip me-2"></i>H? tr? HyperOS</h5>
+                    <p>Tool c?p nh?t li�n t?c d? h? tr? c�c b?n HyperOS m?i nh?t tr�n Xiaomi 14, Redmi Note 13 Series.</p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="feature-card">
-                    <h5><i class="fas fa-tools me-2"></i>Hai chế độ linh hoạt</h5>
-                    <p>Hỗ trợ cả Sideload Mode (không cần tháo máy) và EDL Mode (cho máy brick, bảo mật cao).</p>
+                    <h5><i class="fas fa-tools me-2"></i>Hai ch? d? linh ho?t</h5>
+                    <p>H? tr? c? Sideload Mode (kh�ng c?n th�o m�y) v� EDL Mode (cho m�y brick, b?o m?t cao).</p>
                 </div>
             </div>
         </div>
 
-        <h2 id="sideload-method"><i class="fas fa-usb me-2"></i>3. Phương Pháp 1: Recovery Sideload (Không Tháo Máy)</h2>
-        <p>Đây là phương pháp ưu tiên vì không làm mất zin máy (không cần tháo nắp lưng chọc testpoint). Áp dụng cho hầu hết các máy Xiaomi chạy MIUI 13, 14 và HyperOS.</p>
+        <h2 id="sideload-method"><i class="fas fa-usb me-2"></i>3. Phuong Ph�p 1: Recovery Sideload (Kh�ng Th�o M�y)</h2>
+        <p>��y l� phuong ph�p uu ti�n v� kh�ng l�m m?t zin m�y (kh�ng c?n th�o n?p lung ch?c testpoint). �p d?ng cho h?u h?t c�c m�y Xiaomi ch?y MIUI 13, 14 v� HyperOS.</p>
 
         <div class="step-box">
             <div class="step-num">1</div>
-            <h5>Chuẩn bị</h5>
+            <h5>Chu?n b?</h5>
             <ul>
-                <li>Thuê UnlockTool tại <a href="https://www.unlocktool.us/">UnlockTool.us</a>.</li>
-                <li>Tải và mở UnlockTool trên máy tính.</li>
+                <li>Thu� UnlockTool t?i <a href="https://www.unlocktool.us/">UnlockTool.us</a>.</li>
+                <li>T?i v� m? UnlockTool tr�n m�y t�nh.</li>
             </ul>
         </div>
         
         <div class="step-box">
             <div class="step-num">2</div>
-            <h5>Vào chế độ Recovery</h5>
+            <h5>V�o ch? d? Recovery</h5>
             <ul>
-                <li>Tắt nguồn điện thoại.</li>
-                <li>Giữ <strong>Tăng Âm Lượng + Nguồn</strong> đến khi hiện logo Xiaomi/Redmi.</li>
-                <li>Trong menu Recovery, dùng phím giảm âm lượng chọn dòng <strong>Connect with MiAssistant</strong> và bấm Nguồn để chọn.</li>
+                <li>T?t ngu?n di?n tho?i.</li>
+                <li>Gi? <strong>Tang �m Lu?ng + Ngu?n</strong> d?n khi hi?n logo Xiaomi/Redmi.</li>
+                <li>Trong menu Recovery, d�ng ph�m gi?m �m lu?ng ch?n d�ng <strong>Connect with MiAssistant</strong> v� b?m Ngu?n d? ch?n.</li>
             </ul>
         </div>
         
         <div class="step-box">
             <div class="step-num">3</div>
-            <h5>Thực hiện trên UnlockTool</h5>
+            <h5>Th?c hi?n tr�n UnlockTool</h5>
             <ul>
-                <li>Trên UnlockTool, chọn tab <strong>XIAOMI</strong> -> chọn tab phụ <strong>SECURITY</strong>.</li>
-                <li>Tìm chức năng <strong>[RECOVERY] Disable Mi Cloud</strong>.</li>
-                <li>Cắm cáp kết nối điện thoại với máy tính.</li>
-                <li>Bấm nút trên tool và chờ khoảng 30s. Tool sẽ tự động bypass và chặn cập nhật OTA.</li>
+                <li>Tr�n UnlockTool, ch?n tab <strong>XIAOMI</strong> -> ch?n tab ph? <strong>SECURITY</strong>.</li>
+                <li>T�m ch?c nang <strong>[RECOVERY] Disable Mi Cloud</strong>.</li>
+                <li>C?m c�p k?t n?i di?n tho?i v?i m�y t�nh.</li>
+                <li>B?m n�t tr�n tool v� ch? kho?ng 30s. Tool s? t? d?ng bypass v� ch?n c?p nh?t OTA.</li>
             </ul>
         </div>
 
-        <h2 id="edl-method"><i class="fas fa-wrench me-2"></i>4. Phương Pháp 2: EDL Mode 9008 (Testpoint)</h2>
-        <p>Nếu phương pháp Sideload không thành công (thường do bảo mật quá mới hoặc máy bị brick), bạn cần dùng chế độ EDL (Emergency Download Mode). Cách này yêu cầu tháo nắp lưng để chọc điểm testpoint.</p>
+        <h2 id="edl-method"><i class="fas fa-wrench me-2"></i>4. Phuong Ph�p 2: EDL Mode 9008 (Testpoint)</h2>
+        <p>N?u phuong ph�p Sideload kh�ng th�nh c�ng (thu?ng do b?o m?t qu� m?i ho?c m�y b? brick), b?n c?n d�ng ch? d? EDL (Emergency Download Mode). C�ch n�y y�u c?u th�o n?p lung d? ch?c di?m testpoint.</p>
         
         <div class="tip-box">
-            <h5><i class="fas fa-info-circle me-2"></i>Lưu ý</h5>
-            <p>Bạn cần tìm ảnh Testpoint cho model máy của mình (Ví dụ: Google "Testpoint Redmi Note 11"). UnlockTool cũng tích hợp sẵn thư viện ảnh Testpoint trong tab T-POINT.</p>
+            <h5><i class="fas fa-info-circle me-2"></i>Luu �</h5>
+            <p>B?n c?n t�m ?nh Testpoint cho model m�y c?a m�nh (V� d?: Google "Testpoint Redmi Note 11"). UnlockTool cung t�ch h?p s?n thu vi?n ?nh Testpoint trong tab T-POINT.</p>
         </div>
 
         <div class="step-box">
             <div class="step-num">1</div>
-            <h5>Vào chế độ EDL</h5>
+            <h5>V�o ch? d? EDL</h5>
             <ul>
-                <li>Tháo nắp lưng, ngắt kết nối pin.</li>
-                <li>Dùng nhíp kim loại chập 2 điểm Testpoint.</li>
-                <li>Đồng thời cắm cáp USB vào máy tính.</li>
-                <li>Máy tính sẽ nhận driver <strong>Qualcomm HS-USB QDLoader 9008</strong>.</li>
+                <li>Th�o n?p lung, ng?t k?t n?i pin.</li>
+                <li>D�ng nh�p kim lo?i ch?p 2 di?m Testpoint.</li>
+                <li>�?ng th?i c?m c�p USB v�o m�y t�nh.</li>
+                <li>M�y t�nh s? nh?n driver <strong>Qualcomm HS-USB QDLoader 9008</strong>.</li>
             </ul>
         </div>
         
         <div class="step-box">
             <div class="step-num">2</div>
-            <h5>Thực hiện Reset Mi Account</h5>
+            <h5>Th?c hi?n Reset Mi Account</h5>
             <ul>
-                <li>Trên UnlockTool, tìm đúng tên model máy của bạn.</li>
-                <li>Chọn chức năng <strong>[EDL] Reset Mi Cloud</strong>.</li>
-                <li>Chờ tool chạy xong và báo OK.</li>
+                <li>Tr�n UnlockTool, t�m d�ng t�n model m�y c?a b?n.</li>
+                <li>Ch?n ch?c nang <strong>[EDL] Reset Mi Cloud</strong>.</li>
+                <li>Ch? tool ch?y xong v� b�o OK.</li>
             </ul>
         </div>
 
-        <h2 id="fix-relock"><i class="fas fa-shield-alt me-2"></i>5. Hướng Dẫn Fix Relock / Disable OTA</h2>
-        <p>Sau khi bypass xong, một số máy kết nối Wifi sẽ bị khóa lại. Để khắc phục triệt để:</p>
+        <h2 id="fix-relock"><i class="fas fa-shield-alt me-2"></i>5. Hu?ng D?n Fix Relock / Disable OTA</h2>
+        <p>Sau khi bypass xong, m?t s? m�y k?t n?i Wifi s? b? kh�a l?i. �? kh?c ph?c tri?t d?:</p>
         <ul>
-            <li><strong>Chặn cập nhật OTA:</strong> UnlockTool thường tự động làm việc này ở chế độ Sideload.</li>
-            <li><strong>Disable Find Device:</strong> Sau khi vào được màn hình chính, bật USB Debugging và dùng chức năng Tắt Find Device trên UnlockTool (nếu hỗ trợ).</li>
-            <li><strong>Sử dụng VPN/Firewall:</strong> Cài đặt ứng dụng chặn kết nối đến server Xiaomi (ít khuyến nghị).</li>
+            <li><strong>Ch?n c?p nh?t OTA:</strong> UnlockTool thu?ng t? d?ng l�m vi?c n�y ? ch? d? Sideload.</li>
+            <li><strong>Disable Find Device:</strong> Sau khi v�o du?c m�n h�nh ch�nh, b?t USB Debugging v� d�ng ch?c nang T?t Find Device tr�n UnlockTool (n?u h? tr?).</li>
+            <li><strong>S? d?ng VPN/Firewall:</strong> C�i d?t ?ng d?ng ch?n k?t n?i d?n server Xiaomi (�t khuy?n ngh?).</li>
         </ul>
         <div class="warning-box">
-            <p><strong>QUAN TRỌNG:</strong> Với phương pháp Bypass (Ẩn), TUYỆT ĐỐI KHÔNG Factory Reset hoặc Update phần mềm. Nếu lỡ tay, máy sẽ bị khóa lại và phải làm lại từ đầu.</p>
+            <p><strong>QUAN TR?NG:</strong> V?i phuong ph�p Bypass (?n), TUY?T �?I KH�NG Factory Reset ho?c Update ph?n m?m. N?u l? tay, m�y s? b? kh�a l?i v� ph?i l�m l?i t? d?u.</p>
         </div>
 
-        <h2 id="ho-tro"><i class="fas fa-mobile me-2"></i>6. Các Model Hỗ Trợ</h2>
+        <h2 id="ho-tro"><i class="fas fa-mobile me-2"></i>6. C�c Model H? Tr?</h2>
         <div class="row">
             <div class="col-md-4">
                 <h5>Xiaomi Series</h5>
@@ -267,22 +267,22 @@ $canonical_url = "https://www.unlocktool.us/articles/202-xoa-mi-account-xiaomi.p
             </div>
         </div>
 
-        <h2 id="faq"><i class="fas fa-question-circle me-2"></i>7. Câu Hỏi Thường Gặp (FAQ)</h2>
+        <h2 id="faq"><i class="fas fa-question-circle me-2"></i>7. C�u H?i Thu?ng G?p (FAQ)</h2>
         
         <div class="faq-item" style="background:#f8f9fa;border:2px solid #ffe0b2;border-radius:15px;padding:25px;margin:15px 0;">
-            <h5 style="color:#e65100"><i class="fas fa-question me-2"></i>Sau khi bypass có đăng nhập iCloud Xiaomi mới được không?</h5>
-            <p>Không. Phương pháp bypass là vô hiệu hóa dịch vụ Mi Cloud nên bạn không thể đăng nhập tài khoản Xiaomi khác. Tuy nhiên các tài khoản Google, Facebook, Zalo... dùng bình thường.</p>
+            <h5 style="color:#e65100"><i class="fas fa-question me-2"></i>Sau khi bypass c� dang nh?p iCloud Xiaomi m?i du?c kh�ng?</h5>
+            <p>Kh�ng. Phuong ph�p bypass l� v� hi?u h�a d?ch v? Mi Cloud n�n b?n kh�ng th? dang nh?p t�i kho?n Xiaomi kh�c. Tuy nhi�n c�c t�i kho?n Google, Facebook, Zalo... d�ng b�nh thu?ng.</p>
         </div>
         
         <div class="faq-item" style="background:#f8f9fa;border:2px solid #ffe0b2;border-radius:15px;padding:25px;margin:15px 0;">
-            <h5 style="color:#e65100"><i class="fas fa-question me-2"></i>Phương pháp này có vĩnh viễn không?</h5>
-            <p>Nó là "vĩnh viễn" miễn là bạn không reset máy. Nếu reset máy bị khóa lại, bạn chỉ cần cắm tool chạy lại 1 phút là xong (vì bạn đã biết cách làm).</p>
+            <h5 style="color:#e65100"><i class="fas fa-question me-2"></i>Phuong ph�p n�y c� vinh vi?n kh�ng?</h5>
+            <p>N� l� "vinh vi?n" mi?n l� b?n kh�ng reset m�y. N?u reset m�y b? kh�a l?i, b?n ch? c?n c?m tool ch?y l?i 1 ph�t l� xong (v� b?n d� bi?t c�ch l�m).</p>
         </div>
         
         <div class="price-box">
-            <h3 class="mb-3">🔥 KHÔI PHỤC XIAOMI CỦA BẠN CHỈ VỚI 8K 🔥</h3>
-            <p>Xóa Mi Account Nhanh Chóng - Tiết Kiệm - Hiệu Quả</p>
-            <a href="https://www.unlocktool.us/" class="cta-btn" style="background:#fff;color:#e65100"><i class="fas fa-shopping-cart me-2"></i>THUÊ TOOL NGAY</a>
+            <h3 class="mb-3">?? KH�I PH?C XIAOMI C?A B?N CH? V?I 8K ??</h3>
+            <p>X�a Mi Account Nhanh Ch�ng - Ti?t Ki?m - Hi?u Qu?</p>
+            <a href="https://www.unlocktool.us/" class="cta-btn" style="background:#fff;color:#e65100"><i class="fas fa-shopping-cart me-2"></i>THU� TOOL NGAY</a>
         </div>
         
     </div>
@@ -291,7 +291,7 @@ $canonical_url = "https://www.unlocktool.us/articles/202-xoa-mi-account-xiaomi.p
 <div class="container mb-5">
     <div class="content-wrapper" style="max-width:900px;margin:0 auto;background:#fff;border-radius:20px;box-shadow:0 10px 40px rgba(0,0,0,0.1);padding:40px;">
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn" style="background:#1da1f2;color:#fff"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -302,7 +302,7 @@ $canonical_url = "https://www.unlocktool.us/articles/202-xoa-mi-account-xiaomi.p
             <div style="width:80px;height:80px;background:linear-gradient(135deg,#ff6700,#ffa726);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Chuyên gia bẻ khóa Xiaomi hàng đầu.</p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Chuy�n gia b? kh�a Xiaomi h�ng d?u.</p>
             </div>
         </div>
     </div>
