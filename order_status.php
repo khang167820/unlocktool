@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 // order_status.php - Hiển thị trạng thái đơn hàng
 require 'config.php';
 require 'helpers.php';
@@ -262,7 +262,7 @@ require 'includes/header.php';
         localStorage.removeItem('refresh_count_<?php echo intval($order['id']); ?>');
         </script>
         
-        <?php if (!$is_expired && ($order['password_changed'] ?? 0) == 0 && ($order['is_available'] ?? 0) == 0): ?>
+        <?php if (!$is_expired && ($order['password_changed'] ?? 0) == 0): ?>
             <!-- Còn hạn, chưa đổi pass và đang thuê: hiển thị đầy đủ -->
             <p class="info-label">
                 Tài khoản: <?php echo htmlspecialchars($order['username']); ?>
@@ -294,7 +294,7 @@ require 'includes/header.php';
                 <p class="text-danger">Tài khoản đã hết hạn. Vui lòng tạo đơn mới để tiếp tục sử dụng.</p>
             <?php elseif (($order['password_changed'] ?? 0) == 1): ?>
                 <p class="text-danger">Mật khẩu đã được thay đổi. Vui lòng LH admin để tiếp tục sử dụng.</p>
-            <?php elseif (($order['is_available'] ?? 0) == 1): ?>
+            <?php elseif (false): // is_available check removed ?>
                 <p class="text-danger">Tài khoản đang ở trạng thái chờ thuê. Vui lòng liên hệ admin để được hỗ trợ.</p>
             <?php endif; ?>
         <?php endif; ?>
