@@ -1179,7 +1179,7 @@ document.querySelectorAll('.contact-item').forEach(item => {
                     <td><?php echo htmlspecialchars($row['type'] ?? 'Không rõ'); ?></td>
                     <td>
                         <?php if ($row['is_available']): ?>
-                            <button type="button" class="btn btn-primary btn-sm btn-blink" data-toggle="modal" data-target="#rentModal" data-account-id="<?php echo $row['id']; ?>">Thuê ngay</button>
+                            <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#rentModal" data-account-id="<?php echo $row['id']; ?>">Thuê ngay</button>
                         <?php else: ?>
                             <button class="btn btn-secondary btn-sm" disabled>Đang thuê</button>
                         <?php endif; ?>
