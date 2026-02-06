@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.unlocktool.us/sitemap.xml
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /test/
+Disallow: /ww2/
+Disallow: /config.php
+Disallow: /rate_limit.php
+Disallow: /rate_limit_data/
+Disallow: /rate_limit_logs/
+Disallow: /webhook.php
+Disallow: /create_order.php

@@ -1,0 +1,457 @@
+[01-Oct-2025 08:04:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/login.php(4): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:06:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/orders.php(7): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:06:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/accounts.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:06:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/accounts.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:07:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:07:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:08:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/accounts.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:08:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/accounts.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:09:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/accounts.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:09:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:09:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:12:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/accounts.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:12:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/accounts.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:12:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/accounts.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:12:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/accounts.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:12:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/accounts.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:12:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:12:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:12:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:12:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:12:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:12:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:12:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:12:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:12:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:13:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:13:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:13:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:13:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:13:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:13:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:13:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:13:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:13:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:13:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/edit_account.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:13:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/edit_account.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:13:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/edit_account.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[01-Oct-2025 08:13:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/edit_account.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[06-Oct-2025 08:04:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[06-Oct-2025 08:04:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[06-Oct-2025 08:05:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[06-Oct-2025 08:05:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[06-Oct-2025 08:05:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[06-Oct-2025 08:05:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[06-Oct-2025 08:05:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[06-Oct-2025 08:05:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[06-Oct-2025 08:06:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[06-Oct-2025 08:07:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[06-Oct-2025 08:07:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[06-Oct-2025 08:07:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[06-Oct-2025 08:07:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[06-Oct-2025 08:07:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[18-Oct-2025 06:32:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/edit_account.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[18-Oct-2025 06:32:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/edit_account.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[18-Oct-2025 06:32:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[18-Oct-2025 06:32:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[07-Dec-2025 06:09:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'renewal_date' in 'SET' in /home/ihfagzlraz/unlocktool.us/admin/edit_account.php:25
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/admin/edit_account.php(25): mysqli->query()
+#1 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/admin/edit_account.php on line 25
+[07-Dec-2025 06:11:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'renewal_date' in 'SET' in /home/ihfagzlraz/unlocktool.us/admin/edit_account.php:25
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/admin/edit_account.php(25): mysqli->query()
+#1 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/admin/edit_account.php on line 25
+[07-Dec-2025 06:11:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'renewal_date' in 'SET' in /home/ihfagzlraz/unlocktool.us/admin/edit_account.php:25
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/admin/edit_account.php(25): mysqli->query()
+#1 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/admin/edit_account.php on line 25
+[07-Dec-2025 06:14:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'renewal_date' in 'SET' in /home/ihfagzlraz/unlocktool.us/admin/edit_account.php:39
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/admin/edit_account.php(39): mysqli->query()
+#1 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/admin/edit_account.php on line 39
+[07-Dec-2025 06:14:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'renewal_date' in 'SET' in /home/ihfagzlraz/unlocktool.us/admin/edit_account.php:39
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/admin/edit_account.php(39): mysqli->query()
+#1 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/admin/edit_account.php on line 39
+[07-Dec-2025 06:15:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'renewal_date' in 'SET' in /home/ihfagzlraz/unlocktool.us/admin/edit_account.php:39
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/admin/edit_account.php(39): mysqli->query()
+#1 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/admin/edit_account.php on line 39
+[08-Dec-2025 11:27:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/accounts.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[08-Dec-2025 11:28:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[08-Dec-2025 11:31:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/edit_account.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[08-Dec-2025 11:33:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[08-Dec-2025 11:33:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/edit_account.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[08-Dec-2025 11:39:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/accounts.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[08-Dec-2025 11:40:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/accounts.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[08-Dec-2025 11:45:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/edit_account.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[08-Dec-2025 11:45:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/dashboard.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[08-Dec-2025 11:51:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/index.php(2): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[08-Dec-2025 11:51:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/accounts.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[08-Dec-2025 11:53:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/accounts.php(3): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
+[10-Dec-2025 21:45:05 UTC] PHP Parse error:  syntax error, unexpected token "\" in /home/ihfagzlraz/unlocktool.us/admin/accounts.php on line 175
+[10-Dec-2025 21:45:06 UTC] PHP Parse error:  syntax error, unexpected token "\" in /home/ihfagzlraz/unlocktool.us/admin/accounts.php on line 175
+[10-Dec-2025 21:45:09 UTC] PHP Parse error:  syntax error, unexpected token "\" in /home/ihfagzlraz/unlocktool.us/admin/accounts.php on line 175
+[10-Dec-2025 21:45:33 UTC] PHP Parse error:  syntax error, unexpected token "\" in /home/ihfagzlraz/unlocktool.us/admin/accounts.php on line 175
+[10-Dec-2025 21:46:08 UTC] PHP Parse error:  syntax error, unexpected token "\" in /home/ihfagzlraz/unlocktool.us/admin/accounts.php on line 175
+[10-Dec-2025 21:46:09 UTC] PHP Parse error:  syntax error, unexpected token "\" in /home/ihfagzlraz/unlocktool.us/admin/accounts.php on line 175
+[10-Dec-2025 21:49:13 UTC] PHP Parse error:  syntax error, unexpected token "\" in /home/ihfagzlraz/unlocktool.us/admin/accounts.php on line 175
+[10-Dec-2025 21:49:14 UTC] PHP Parse error:  syntax error, unexpected token "\" in /home/ihfagzlraz/unlocktool.us/admin/accounts.php on line 175
+[10-Dec-2025 21:52:42 UTC] PHP Parse error:  syntax error, unexpected token "\" in /home/ihfagzlraz/unlocktool.us/admin/accounts.php on line 173
+[10-Dec-2025 21:52:45 UTC] PHP Parse error:  syntax error, unexpected token "\" in /home/ihfagzlraz/unlocktool.us/admin/accounts.php on line 173
+[10-Dec-2025 21:53:04 UTC] PHP Parse error:  syntax error, unexpected token "\" in /home/ihfagzlraz/unlocktool.us/admin/accounts.php on line 173
+[10-Dec-2025 21:55:50 UTC] PHP Parse error:  syntax error, unexpected token "\" in /home/ihfagzlraz/unlocktool.us/admin/accounts.php on line 175
+[10-Dec-2025 21:56:43 UTC] PHP Parse error:  syntax error, unexpected token "\" in /home/ihfagzlraz/unlocktool.us/admin/accounts.php on line 175
+[03-Jan-2026 17:26:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ihfagzlraz/unlocktool.us/config.php:20
+Stack trace:
+#0 /home/ihfagzlraz/unlocktool.us/config.php(20): mysqli->__construct()
+#1 /home/ihfagzlraz/unlocktool.us/admin/edit_account.php(4): require('/home/ihfagzlra...')
+#2 {main}
+  thrown in /home/ihfagzlraz/unlocktool.us/config.php on line 20
