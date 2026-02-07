@@ -1,6 +1,0 @@
-# thông báo khi đăng nhập
-AuthName "Password Protected Area"
-AuthType Basic
-# đường dẫn đến file .htpasswd
-AuthUserFile .htpasswd 
-require valid-user
