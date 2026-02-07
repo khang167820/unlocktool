@@ -3,7 +3,12 @@
 // Cấu hình session chung cho tất cả trang admin
 // Include file này TRƯỚC session_start()
 
-ini_set('session.cookie_secure', '1');       // Chỉ gửi cookie qua HTTPS
-ini_set('session.cookie_httponly', '1');      // Không cho JS truy cập cookie
-ini_set('session.cookie_samesite', 'Lax');   // Cho phép redirect cùng site
-ini_set('session.use_strict_mode', '1');     // Bảo mật session ID
+// Tự động detect HTTPS (hỗ trợ reverse proxy)
+$isSecure = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') 
+    || (!empty($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https')
+    || (!empty($_SERVER['SERVER_PORT']) && $_SERVER['SERVER_PORT'] == 443);
+
+ini_set('session.cookie_secure', $isSecure ? '1' : '0');
+ini_set('session.cookie_httponly', '1');
+ini_set('session.cookie_samesite', 'Lax');
+ini_set('session.use_strict_mode', '1');

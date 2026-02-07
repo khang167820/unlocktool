@@ -1,8 +1,6 @@
 <?php
 // admin/index.php - Trang chủ quản trị
-ini_set('session.cookie_secure', '1');
-ini_set('session.cookie_httponly', '1');
-ini_set('session.cookie_samesite', 'Lax');
+require 'includes/session_config.php';
 session_start();
 require '../config.php';
 require '../helpers.php';

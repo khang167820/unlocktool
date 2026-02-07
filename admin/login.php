@@ -1,12 +1,6 @@
 <?php
 // admin/login.php - Trang đăng nhập quản trị
-
-// Cấu hình session cookie trước khi start
-ini_set('session.cookie_secure', '1');       // HTTPS only
-ini_set('session.cookie_httponly', '1');      // Không cho JS truy cập
-ini_set('session.cookie_samesite', 'Lax');   // Cho phép redirect cùng site
-ini_set('session.use_strict_mode', '1');     // Bảo mật session ID
-
+require 'includes/session_config.php';
 session_start();
 require '../config.php';
 
