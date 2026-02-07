@@ -1,41 +1,32 @@
 User-agent: *
 Allow: /
 
-# Sitemap
-Sitemap: https://www.unlocktool.us/sitemap.xml
-
-# Disallow admin and private areas
-Disallow: /admin/
-Disallow: /test/
-Disallow: /ww2/
-Disallow: /config.php
-Disallow: /rate_limit.php
-Disallow: /rate_limit_data/
-Disallow: /rate_limit_logs/
-Disallow: /webhook.php
-Disallow: /create_order.php
-
-# Disallow redirected duplicate articles
+# Block redirect pages
 Disallow: /articles/109-icloud-iphone-7-bypass.php
 Disallow: /articles/111-sua-imei-samsung-2026.php
 Disallow: /articles/113-jailbreak-iphone-2026.php
 Disallow: /articles/116-icloud-iphone-8-bypass.php
-Disallow: /articles/119-frp-samsung-a54.php
 Disallow: /articles/120-dich-vu-sua-chua-dien-thoai.php
 Disallow: /articles/121-qualcomm-edl-mode.php
 Disallow: /articles/122-mediatek-brom-mode.php
 Disallow: /articles/126-bang-gia-dich-vu-2026.php
-Disallow: /articles/131-tai-unlocktool.php
-Disallow: /articles/132-knox-samsung-remove.php
 Disallow: /articles/134-flash-samsung-odin.php
 Disallow: /articles/160-dich-vu-mo-khoa-tu-xa.php
-Disallow: /articles/162-tai-unlocktool-ve-may-tinh.php
 Disallow: /articles/202-xoa-mi-account-xiaomi.php
 Disallow: /articles/205-huong-dan-su-dung-unlocktool-az.php
 Disallow: /articles/38-nap-credits-unlocktool.php
 Disallow: /articles/40-so-do-mach-dien-thoai.php
+Disallow: /articles/44-gia-unlocktool-2026.php
+Disallow: /articles/45-download-unlocktool.php
+Disallow: /articles/46-cach-su-dung-unlocktool.php
 Disallow: /articles/47-unlock-network-iphone.php
+Disallow: /articles/48-unlocktool-crack.php
+Disallow: /articles/49-sua-chua-phan-mem-dien-thoai.php
 Disallow: /articles/4-xoa-mi-account-xiaomi.php
 Disallow: /articles/54-flash-firmware-samsung.php
 Disallow: /articles/64-qualcomm-edl-mode.php
-Disallow: /articles/9-thue-tai-khoan-unlocktool.php
+
+# Block admin
+Disallow: /admin/
+
+Sitemap: https://www.unlocktool.us/sitemap.xml
