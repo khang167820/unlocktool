@@ -1,6 +1,6 @@
-﻿<?php
+<?php
 $page_title = "T?ng H?p L?i UnlockTool & C�ch Kh?c Ph?c Tri?t �? 2026 ? Login Failed, Driver Error";
-$page_description = "? Hu?ng d?n s?a l?i UnlockTool m?i nh?t 2026: Login Failed, Waiting for device, LibUSB Driver Error, l?i kh�ng nh?n c?ng COM/EDL. T?ng h?p m� l?i v� c�ch fix 100% th�nh c�ng.";
+$page_description = "? Hu?ng d?n s?a l?i UnlockTool m?i nh?t 2026: Login Failed, Waiting for device, LibUSB Driver Error, l?i không nhơn cùng COM/EDL. T?ng h?p mã l?i và c�ch fix 100% thành công.";
 $page_keywords = "fix loi unlocktool, unlocktool login failed, sua loi driver unlocktool, unlocktool waiting for device, libusb win32 error, unlocktool khong nhan dien thoai, fix loi driver qdloader 9008";
 $canonical_url = "https://www.unlocktool.us/articles/206-khac-phuc-loi-unlocktool.php";
 ?>
@@ -46,10 +46,10 @@ $canonical_url = "https://www.unlocktool.us/articles/206-khac-phuc-loi-unlocktoo
     {"@context":"https://schema.org","@type":"TechArticle","headline":"<?php echo $page_title; ?>","description":"<?php echo $page_description; ?>","author":{"@type":"Organization","name":"UnlockTool.us"},"datePublished":"2026-02-06","dateModified":"2026-02-06","publisher":{"@type":"Organization","name":"UnlockTool.us","logo":{"@type":"ImageObject","url":"https://www.unlocktool.us/images/logo.png"}}}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"L?i Login Failed do d�u?","acceptedAnswer":{"@type":"Answer","text":"Thu?ng do 3 nguy�n nh�n: Sai Username/Password, T�i kho?n h?t h?n, ho?c Sai ng�y gi? m�y t�nh."}},{"@type":"Question","name":"T?i sao tool c? b�o Waiting for device?","acceptedAnswer":{"@type":"Answer","text":"Do m�y t�nh chua nh?n Driver c?a di?n tho?i. B?n c?n c�i d? Samsung Driver, MTK Driver ho?c Qualcom Driver."}},{"@type":"Question","name":"L?i Smartcard not found l� g�?","acceptedAnswer":{"@type":"Answer","text":"��y l� l?i khi b?n d�ng b?n crack ho?c driver xung d?t. UnlockTool b?n quy?n kh�ng c?n Smartcard, ch? c?n login l� d�ng."}}]}
+    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"L?i Login Failed do d�u?","acceptedAnswer":{"@type":"Answer","text":"Thu?ng do 3 ngũyẩn nh�n: Sai Username/Password, Tại kho?n h?t hơn, hoặc Sai ng�y gi? máy t�nh."}},{"@type":"Question","name":"T?i sao tool c? bảo Waiting for device?","acceptedAnswer":{"@type":"Answer","text":"Do máy t�nh chua nhơn Driver c?a di?n tho?i. B?n c?n c�i d? Samsung Driver, MTK Driver hoặc Qualcom Driver."}},{"@type":"Question","name":"L?i Smartcard not found là gì?","acceptedAnswer":{"@type":"Answer","text":"Đy là l?i khi b?n đồng b?n crack hoặc driver xung d?t. UnlockTool bản quyền không c?n Smartcard, ch? c?n login là d�ng."}}]}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Trang ch?","item":"https://www.unlocktool.us/"},{"@type":"ListItem","position":2,"name":"B�i vi?t","item":"https://www.unlocktool.us/articles/"},{"@type":"ListItem","position":3,"name":"Kh?c Ph?c L?i UnlockTool","item":"<?php echo $canonical_url; ?>"}]}
+    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Trang chủ","item":"https://www.unlocktool.us/"},{"@type":"ListItem","position":2,"name":"Bởi vi?t","item":"https://www.unlocktool.us/articles/"},{"@type":"ListItem","position":3,"name":"Kh?c Ph?c L?i UnlockTool","item":"<?php echo $canonical_url; ?>"}]}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Organization","name":"UnlockTool.us","url":"https://www.unlocktool.us","logo":"https://www.unlocktool.us/images/logo.png","sameAs":["https://www.facebook.com/unlocktool.us","https://thuetaikhoan.net"]}
@@ -86,8 +86,8 @@ $canonical_url = "https://www.unlocktool.us/articles/206-khac-phuc-loi-unlocktoo
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bởi vi?t</a></li>
             <li class="breadcrumb-item active">S?a L?i UnlockTool</li>
         </ol>
     </div>
@@ -96,7 +96,7 @@ $canonical_url = "https://www.unlocktool.us/articles/206-khac-phuc-loi-unlocktoo
 <section class="hero-section text-center">
     <div class="container">
         <h1 class="display-4 fw-bold mb-3"><i class="fas fa-tools me-3"></i>Fix L?i UnlockTool 2026</h1>
-        <p class="lead mb-4">T?ng h?p m?i m� l?i & C�ch kh?c ph?c 100% th�nh c�ng</p>
+        <p class="lead mb-4">T?ng h?p m?i mã l?i & C�ch kh?c ph?c 100% thành công</p>
         <div class="mt-4">
             <a href="https://thuetaikhoan.net" class="cta-btn"><i class="fas fa-headset me-2"></i>H? TR? K? THU?T 24/7</a>
         </div>
@@ -114,57 +114,57 @@ $canonical_url = "https://www.unlocktool.us/articles/206-khac-phuc-loi-unlocktoo
         </div>
         
         <div class="toc">
-            <h4><i class="fas fa-list me-2"></i>M?c L?c B�i Vi?t</h4>
+            <h4><i class="fas fa-list me-2"></i>M?c L?c Bởi Vi?t</h4>
             <ul>
-                <li><a href="#login-errors">1. C�c l?i li�n quan d?n �ang nh?p (Login)</a></li>
+                <li><a href="#login-errors">1. C�c l?i liên quan d?n �ang nh?p (Login)</a></li>
                 <li><a href="#connection-errors">2. C�c l?i k?t n?i (Waiting for device)</a></li>
                 <li><a href="#driver-errors">3. C�c l?i Driver ph? bi?n</a></li>
                 <li><a href="#server-errors">4. L?i Server & M?ng</a></li>
-                <li><a href="#faq">5. C�u h?i thu?ng g?p</a></li>
+                <li><a href="#faq">5. Câu h?i thu?ng g?p</a></li>
             </ul>
         </div>
 
-        <h2 id="login-errors"><i class="fas fa-sign-in-alt me-2"></i>1. C�c L?i Li�n Quan �?n �ang Nh?p</h2>
+        <h2 id="login-errors"><i class="fas fa-sign-in-alt me-2"></i>1. C�c L?i Liên Quan �?n �ang Nh?p</h2>
         
         <div class="error-card">
             <h5><span class="error-code">Login Failed! Username or password incorrect</span></h5>
-            <p><strong>Nguy�n nh�n:</strong> Nh?p sai t�n dang nh?p ho?c m?t kh?u.</p>
+            <p><strong>Nguyẩn nh�n:</strong> Nh?p sai tận dang nh?p hoặc m?t kh?u.</p>
             <p><strong>Kh?c ph?c:</strong></p>
             <ul>
-                <li>Copy/Paste ch�nh x�c th�ng tin du?c g?i (tr�nh th?a kho?ng tr?ng).</li>
-                <li>Ch� � ch? hoa ch? thu?ng.</li>
-                <li>N?u thu� tool, h�y li�n h? admin d? reset m?t kh?u n?u nghi ng? b? d?i.</li>
+                <li>Copy/Paste ch�nh x�c thàng tin du?c g?i (tr�nh th?a kho?ng tr?ng).</li>
+                <li>Chệ � ch? hoa ch? thu?ng.</li>
+                <li>N?u thuê tool, h�y liên h? admin d? reset m?t kh?u n?u nghi ng? b? đời.</li>
             </ul>
         </div>
 
         <div class="error-card">
             <h5><span class="error-code">Login Failed! Hardware ID mismatch</span></h5>
-            <p><strong>Nguy�n nh�n:</strong> T�i kho?n dang dang nh?p ? m?t m�y t�nh kh�c. UnlockTool quy d?nh ph?i c�ch 3-6 ti?ng m?i du?c d?i m�y.</p>
-            <p><strong>Kh?c ph?c:</strong> N?u b?n mua t�i kho?n ri�ng, h�y ch? h?t th?i gian kh�a. N?u b?n thu� t�i kho?n, d�y l� l?i do nh� cung c?p c?p tr�ng, h�y y�u c?u d?i t�i kho?n kh�c.</p>
+            <p><strong>Nguyẩn nh�n:</strong> Tại kho?n dang dang nh?p ? m?t máy t�nh kh�c. UnlockTool quy d?nh ph?i c�ch 3-6 ti?ng m?i du?c đời máy.</p>
+            <p><strong>Kh?c ph?c:</strong> N?u b?n mua tại kho?n ri�ng, h�y ch? h?t th?i gian kh�a. N?u b?n thuê tại kho?n, đầy là l?i do nhệ cung c?p c?p tr�ng, h�y yưu c?u đời tại kho?n kh�c.</p>
         </div>
 
         <div class="error-card">
             <h5><span class="error-code">Login Failed! Time Setting Error</span></h5>
-            <p><strong>Nguy�n nh�n:</strong> Ng�y gi? tr�n m�y t�nh c?a b?n kh�ng d�ng v?i gi? qu?c t?.</p>
-            <p><strong>Kh?c ph?c:</strong> Click v�o d?ng h? -> Adjust date/time -> B?t "Set time automatically" v� "Set time zone automatically".</p>
+            <p><strong>Nguyẩn nh�n:</strong> Ng�y gi? trên máy t�nh c?a b?n không đồng v?i gi? qu?c t?.</p>
+            <p><strong>Kh?c ph?c:</strong> Click v�o dòng h? -> Adjust date/time -> B?t "Set time automatically" và "Set time zone automatically".</p>
         </div>
 
         <h2 id="connection-errors"><i class="fas fa-plug me-2"></i>2. C�c L?i K?t N?i (Waiting for Device)</h2>
-        <p>��y l� l?i ph? bi?n nh?t, khi b?n b?m n�t tr�n tool nhung tool c? hi?n <strong>Waiting for device...</strong> m�i m� kh�ng ch?y.</p>
+        <p>Đy là l?i ph? bi?n nh?t, khi b?n b?m n�t trên tool nhung tool c? hi?n <strong>Waiting for device...</strong> mỗi mã không ch?y.</p>
         
         <div class="step-box">
             <div class="step-num">1</div>
-            <h5>Ki?m tra c�p k?t n?i</h5>
-            <p>�?m b?o c�p USB c?a b?n l� c�p truy?n d? li?u (Data Cable), kh�ng ph?i c�p s?c l�.</p>
+            <h5>Ki?m tra cập k?t n?i</h5>
+            <p>�?m b?o cập USB c?a b?n là cập truy?n d? li?u (Data Cable), không ph?i cập s?c l�.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">2</div>
             <h5>Ki?m tra Device Manager</h5>
-            <p>Chu?t ph?i This PC -> Manage -> Device Manager. Xem m?c <strong>Ports (COM & LPT)</strong> ho?c <strong>Other devices</strong>.</p>
+            <p>Chu?t ph?i This PC -> Manage -> Device Manager. Xem m?c <strong>Ports (COM & LPT)</strong> hoặc <strong>Other devices</strong>.</p>
             <ul>
-                <li>N?u c� d?u ch?m than v�ng ?? -> Thi?u Driver.</li>
-                <li>N?u kh�ng hi?n g� -> H?ng c�p ho?c ch�n s?c di?n tho?i.</li>
+                <li>N?u có d?u ch?m than v�ng ?? -> Thi?u Driver.</li>
+                <li>N?u không hi?n gì -> Hơng cập hoặc chọn s?c di?n tho?i.</li>
             </ul>
         </div>
 
@@ -172,40 +172,40 @@ $canonical_url = "https://www.unlocktool.us/articles/206-khac-phuc-loi-unlocktoo
 
         <div class="info-box">
             <h4>3.1. L?i thi?u Driver MTK (MediaTek)</h4>
-            <p>Tool b�o <strong>BROM ERROR</strong> ho?c d?ng ? <strong>Sending DA...</strong></p>
+            <p>Tool bảo <strong>BROM ERROR</strong> hoặc dòng ? <strong>Sending DA...</strong></p>
             <p><strong>C�ch fix: C�i LibUSB Win32</strong></p>
             <ol>
-                <li>T?i v� c�i d?t LibUSB.</li>
+                <li>T?i và c�i d?t LibUSB.</li>
                 <li>M? LibUSB Filter Wizard -> Install a device filter.</li>
-                <li>T?t ngu?n di?n tho?i, gi? 2 ph�m Volume v� c?m c�p.</li>
-                <li>Nhanh tay ch?n d�ng <strong>MediaTek USB Port</strong> hi?n ra v� b?m Install.</li>
+                <li>T?t ngũ?n di?n tho?i, gi? 2 ph�m Volume và c?m c�p.</li>
+                <li>Nhanh tay chơn đồng <strong>MediaTek USB Port</strong> hi?n ra và b?m Install.</li>
             </ol>
         </div>
 
         <div class="info-box">
             <h4>3.2. L?i QHSUSB_BULK (Qualcomm)</h4>
-            <p>Device Manager hi?n <strong>QHSUSB_BULK</strong> c� d?u ch?m than v�ng.</p>
-            <p><strong>C�ch fix:</strong> T?i driver <strong>Qualcomm QDLoader 9008</strong> v? v� c�i d?t. Sau khi c�i xong, n� s? hi?n th�nh <strong>Qualcomm HS-USB QDLoader 9008 (COMxx)</strong> l� chu?n.</p>
+            <p>Device Manager hi?n <strong>QHSUSB_BULK</strong> có d?u ch?m than v�ng.</p>
+            <p><strong>C�ch fix:</strong> T?i driver <strong>Qualcomm QDLoader 9008</strong> v? và c�i d?t. Sau khi c�i xong, n� s? hi?n th�nh <strong>Qualcomm HS-USB QDLoader 9008 (COMxx)</strong> là chu?n.</p>
         </div>
 
         <div class="info-box">
             <h4>3.3. L?i Driver Signing (Windows 10/11)</h4>
-            <p>M?t s? driver kh�ng c�i du?c do Windows ch?n ch? k� s?.</p>
-            <p><strong>C�ch fix:</strong> V�o Recovery c?a Windows -> Startup Settings -> Ch?n d�ng <strong>Disable driver signature enforcement</strong> (F7) -> Kh?i d?ng l?i v� c�i Driver.</p>
+            <p>M?t s? driver không c�i du?c do Windows chơn ch? k� s?.</p>
+            <p><strong>C�ch fix:</strong> V�o Recovery c?a Windows -> Startup Settings -> Chơn đồng <strong>Disable driver signature enforcement</strong> (F7) -> Kh?i dòng l?i và c�i Driver.</p>
         </div>
 
         <h2 id="server-errors"><i class="fas fa-server me-2"></i>4. L?i Server & M?ng</h2>
         
         <div class="error-card">
             <h5><span class="error-code">Server Offline / Maintenance</span></h5>
-            <p><strong>Nguy�n nh�n:</strong> Server UnlockTool dang b?o tr� ho?c update phi�n b?n m?i.</p>
-            <p><strong>Kh?c ph?c:</strong> Ch? d?i. Th�ng thu?ng b?o tr� ch? m?t 15-30 ph�t. Theo d�i Fanpage UnlockTool d? bi?t l?ch b?o tr�.</p>
+            <p><strong>Nguyẩn nh�n:</strong> Server UnlockTool dang b?o trẻ hoặc update phiện b?n m?i.</p>
+            <p><strong>Kh?c ph?c:</strong> Ch? đời. Thàng thu?ng b?o trẻ ch? m?t 15-30 phút. Theo đội Fanpage UnlockTool d? bi?t l?ch b?o tr�.</p>
         </div>
         
         <div class="price-box">
             <h3 class="mb-3">?? �?NG �? L?I C?N TR? C�NG VI?C ??</h3>
-            <p>Thu� UnlockTool t?i UnlockTool.us - H? tr? c�i Drivers mi?n ph� qua UltraViewer</p>
-            <a href="https://www.unlocktool.us/" class="cta-btn" style="background:#fff;color:#cc9000"><i class="fas fa-shopping-cart me-2"></i>THU� NGAY</a>
+            <p>Thuê UnlockTool t?i UnlockTool.us - H? tr? c�i Drivers mi?n phệ qua UltraViewer</p>
+            <a href="https://www.unlocktool.us/" class="cta-btn" style="background:#fff;color:#cc9000"><i class="fas fa-shopping-cart me-2"></i>THUÊ NGAY</a>
         </div>
         
     </div>
@@ -214,7 +214,7 @@ $canonical_url = "https://www.unlocktool.us/articles/206-khac-phuc-loi-unlocktoo
 <div class="container mb-5">
     <div class="content-wrapper" style="max-width:900px;margin:0 auto;background:#fff;border-radius:20px;box-shadow:0 10px 40px rgba(0,0,0,0.1);padding:40px;">
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? bởi vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
             </div>
@@ -224,7 +224,7 @@ $canonical_url = "https://www.unlocktool.us/articles/206-khac-phuc-loi-unlocktoo
             <div style="width:80px;height:80px;background:linear-gradient(135deg,#ffc107,#ff9800);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Chuy�n gia x? l� l?i ph?n m?m.</p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Chuyên gia x? là l?i phơn m?m.</p>
             </div>
         </div>
     </div>
