@@ -1,5 +1,6 @@
 <?php
 // admin/dashboard.php - Thống kê doanh thu
+require 'includes/session_config.php';
 session_start();
 require '../config.php';
 require '../helpers.php';

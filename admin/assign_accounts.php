@@ -1,5 +1,6 @@
 <?php
 // assign_accounts.php - Gán tài khoản cho các đơn đã thanh toán nhưng chưa có account
+require 'includes/session_config.php';
 require '../config.php';
 require '../helpers.php';
 

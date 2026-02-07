@@ -1,5 +1,6 @@
 <?php
 // admin/edit_account.php - Sửa tài khoản
+require 'includes/session_config.php';
 session_start();
 require '../config.php';
 require '../helpers.php';

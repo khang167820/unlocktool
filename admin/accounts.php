@@ -1,5 +1,6 @@
 <?php
 // admin/accounts.php - Quản lý tài khoản
+require 'includes/session_config.php';
 session_start();
 require '../config.php';
 require '../helpers.php';

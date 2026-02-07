@@ -1,5 +1,6 @@
 <?php
 // admin/prices.php - Quản lý gói thuê
+require 'includes/session_config.php';
 session_start();
 require '../config.php';
 require '../helpers.php';

@@ -1,5 +1,6 @@
 <?php
 // admin/orders.php - Quản lý đơn hàng
+require 'includes/session_config.php';
 session_start();
 require '../config.php';
 require '../helpers.php';
