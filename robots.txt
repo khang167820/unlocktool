@@ -16,13 +16,6 @@ Disallow: /webhook.php
 Disallow: /create_order.php
 
 # Disallow redirected duplicate articles
-Disallow: /articles/4-xoa-mi-account-xiaomi.php
-Disallow: /articles/9-thue-tai-khoan-unlocktool.php
-Disallow: /articles/38-nap-credits-unlocktool.php
-Disallow: /articles/40-so-do-mach-dien-thoai.php
-Disallow: /articles/47-unlock-network-iphone.php
-Disallow: /articles/54-flash-firmware-samsung.php
-Disallow: /articles/64-qualcomm-edl-mode.php
 Disallow: /articles/109-icloud-iphone-7-bypass.php
 Disallow: /articles/111-sua-imei-samsung-2026.php
 Disallow: /articles/113-jailbreak-iphone-2026.php
@@ -39,3 +32,10 @@ Disallow: /articles/160-dich-vu-mo-khoa-tu-xa.php
 Disallow: /articles/162-tai-unlocktool-ve-may-tinh.php
 Disallow: /articles/202-xoa-mi-account-xiaomi.php
 Disallow: /articles/205-huong-dan-su-dung-unlocktool-az.php
+Disallow: /articles/38-nap-credits-unlocktool.php
+Disallow: /articles/40-so-do-mach-dien-thoai.php
+Disallow: /articles/47-unlock-network-iphone.php
+Disallow: /articles/4-xoa-mi-account-xiaomi.php
+Disallow: /articles/54-flash-firmware-samsung.php
+Disallow: /articles/64-qualcomm-edl-mode.php
+Disallow: /articles/9-thue-tai-khoan-unlocktool.php
