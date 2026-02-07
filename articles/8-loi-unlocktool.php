@@ -2,6 +2,7 @@
 $page_title = "L?i UnlockTool thu?ng g?p và cách kh?c ph?c 2026";
 $page_description = "T?ng h?p các l?i UnlockTool thu?ng g?p và cách kh?c ph?c: l?i dang nh?p, không nh?n di?n tho?i, FRP failed, driver l?i. Hu?ng d?n fix chi ti?t.";
 $page_keywords = "l?i unlocktool, fix unlocktool, unlocktool không nh?n máy, l?i frp failed, l?i driver unlocktool";
+$canonical_url = "https://www.unlocktool.us/articles/8-loi-unlocktool.php";
 ?>
 <!DOCTYPE html>
 <html lang="vi">
