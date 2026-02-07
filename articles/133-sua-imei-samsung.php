@@ -1,6 +1,6 @@
-<?php
-$page_title = "S?a IMEI Samsung 2026 ?? Hu?ng D?n Chi Ti?t Repair IMEI Null";
-$page_description = "?? Hu?ng d?n CHI TI?T s?a IMEI Samsung b? null, unknown baseband. IMEI Repair cho Qualcomm/Exynos. C?n Patch Certificate. Thu� UnlockTool 8K ho?c d?t d?ch v?!";
+﻿<?php
+$page_title = "Sửa IMEI Samsung 2026 🔥 Hướng Dẫn Chi Tiết Repair IMEI Null";
+$page_description = "🔥 Hướng dẫn CHI TIẾT sửa IMEI Samsung bị null, unknown baseband. IMEI Repair cho Qualcomm/Exynos. Cần Patch Certificate. Thuê UnlockTool 8K hoặc đặt dịch vụ!";
 $page_keywords = "sua imei samsung, repair imei samsung, imei null, unknown baseband, imei samsung qualcomm, imei samsung exynos, patch certificate samsung";
 $canonical_url = "https://www.unlocktool.us/articles/133-sua-imei-samsung.php";
 ?>
@@ -18,7 +18,8 @@ $canonical_url = "https://www.unlocktool.us/articles/133-sua-imei-samsung.php";
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">\n    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
@@ -31,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/133-sua-imei-samsung.php";
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hu?ng d?n k? thu?t">
+    <meta property="article:section" content="Hướng dẫn kỹ thuật">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="M? kh�a di?n tho?i">
+    <meta property="article:tag" content="Mở khóa điện thoại">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -49,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/133-sua-imei-samsung.php";
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -59,8 +60,8 @@ $canonical_url = "https://www.unlocktool.us/articles/133-sua-imei-samsung.php";
     {
         "@context": "https://schema.org",
         "@type": "TechArticle",
-        "headline": "S?a IMEI Samsung 2026 - Hu?ng D?n Chi Ti?t Repair IMEI Null",
-        "description": "Hu?ng d?n chi ti?t s?a IMEI Samsung b? null, unknown baseband cho chip Qualcomm v� Exynos",
+        "headline": "Sửa IMEI Samsung 2026 - Hướng Dẫn Chi Tiết Repair IMEI Null",
+        "description": "Hướng dẫn chi tiết sửa IMEI Samsung bị null, unknown baseband cho chip Qualcomm và Exynos",
         "author": {"@type": "Organization", "name": "UnlockTool.us"},
         "publisher": {"@type": "Organization", "name": "UnlockTool.us"},
         "datePublished": "2024-02-01",
@@ -72,10 +73,10 @@ $canonical_url = "https://www.unlocktool.us/articles/133-sua-imei-samsung.php";
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "S?a IMEI Samsung c� h?p ph�p kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "S?a IMEI d? ph?c h?i IMEI g?c b? m?t/l?i l� h?p ph�p. Thay d?i IMEI sang s? kh�c ho?c d? gian l?n l� b?t h?p ph�p ? nhi?u qu?c gia."}},
-            {"@type": "Question", "name": "IMEI Null l� g�?", "acceptedAnswer": {"@type": "Answer", "text": "IMEI Null l� t�nh tr?ng s? IMEI Samsung b? m?t ho?c hi?n th? null/0000000000. Nguy�n nh�n thu?ng do flash ROM sai, root x�a nh?m EFS, ho?c l?i ph?n m?m."}},
-            {"@type": "Question", "name": "Unknown Baseband Samsung l� l?i g�?", "acceptedAnswer": {"@type": "Answer", "text": "Unknown Baseband l� l?i firmware modem b? h?ng, khi?n m�y kh�ng nh?n s�ng, kh�ng g?i/nh?n tin du?c. Thu?ng di k�m v?i IMEI null."}},
-            {"@type": "Question", "name": "Tool n�o s?a IMEI Samsung t?t nh?t?", "acceptedAnswer": {"@type": "Answer", "text": "ChimeraTool, Z3X, v� UnlockTool l� c�c tool ph? bi?n. Samsung Qualcomm v� Exynos c?n Patch Certificate sau khi repair IMEI."}}
+            {"@type": "Question", "name": "Sửa IMEI Samsung có hợp pháp không?", "acceptedAnswer": {"@type": "Answer", "text": "Sửa IMEI để phục hồi IMEI gốc bị mất/lỗi là hợp pháp. Thay đổi IMEI sang số khác hoặc để gian lận là bất hợp pháp ở nhiều quốc gia."}},
+            {"@type": "Question", "name": "IMEI Null là gì?", "acceptedAnswer": {"@type": "Answer", "text": "IMEI Null là tình trạng số IMEI Samsung bị mất hoặc hiển thị null/0000000000. Nguyên nhân thường do flash ROM sai, root xóa nhầm EFS, hoặc lỗi phần mềm."}},
+            {"@type": "Question", "name": "Unknown Baseband Samsung là lỗi gì?", "acceptedAnswer": {"@type": "Answer", "text": "Unknown Baseband là lỗi firmware modem bị hỏng, khiến máy không nhận sóng, không gọi/nhắn tin được. Thường đi kèm với IMEI null."}},
+            {"@type": "Question", "name": "Tool nào sửa IMEI Samsung tốt nhất?", "acceptedAnswer": {"@type": "Answer", "text": "ChimeraTool, Z3X, và UnlockTool là các tool phổ biến. Samsung Qualcomm và Exynos cần Patch Certificate sau khi repair IMEI."}}
         ]
     }
     </script>
@@ -83,14 +84,14 @@ $canonical_url = "https://www.unlocktool.us/articles/133-sua-imei-samsung.php";
     {
         "@context": "https://schema.org",
         "@type": "HowTo",
-        "name": "C�ch s?a IMEI Samsung b? null",
+        "name": "Cách sửa IMEI Samsung bị null",
         "step": [
-            {"@type": "HowToStep", "position": 1, "name": "Chu?n b?", "text": "Thu� UnlockTool ho?c ChimeraTool, c�i driver Samsung USB"},
-            {"@type": "HowToStep", "position": 2, "name": "V�o Download Mode", "text": "T?t m�y, nh?n Vol Up + Vol Down + c?m c�p USB"},
-            {"@type": "HowToStep", "position": 3, "name": "K?t n?i v� ch?n model", "text": "M? tool, k?t n?i di?n tho?i, ch?n d�ng model"},
-            {"@type": "HowToStep", "position": 4, "name": "Repair IMEI", "text": "Ch?n IMEI Repair, nh?p IMEI g?c t? h?p m�y ho?c du?i pin"},
-            {"@type": "HowToStep", "position": 5, "name": "Patch Certificate", "text": "Th?c hi?n Patch Certificate sau khi repair IMEI"},
-            {"@type": "HowToStep", "position": 6, "name": "Kh?i d?ng l?i", "text": "Reboot m�y, ki?m tra IMEI b?ng *#06#"}
+            {"@type": "HowToStep", "position": 1, "name": "Chuẩn bị", "text": "Thuê UnlockTool hoặc ChimeraTool, cài driver Samsung USB"},
+            {"@type": "HowToStep", "position": 2, "name": "Vào Download Mode", "text": "Tắt máy, nhấn Vol Up + Vol Down + cắm cáp USB"},
+            {"@type": "HowToStep", "position": 3, "name": "Kết nối và chọn model", "text": "Mở tool, kết nối điện thoại, chọn đúng model"},
+            {"@type": "HowToStep", "position": 4, "name": "Repair IMEI", "text": "Chọn IMEI Repair, nhập IMEI gốc từ hộp máy hoặc dưới pin"},
+            {"@type": "HowToStep", "position": 5, "name": "Patch Certificate", "text": "Thực hiện Patch Certificate sau khi repair IMEI"},
+            {"@type": "HowToStep", "position": 6, "name": "Khởi động lại", "text": "Reboot máy, kiểm tra IMEI bằng *#06#"}
         ]
     }
     </script>
@@ -157,7 +158,7 @@ $canonical_url = "https://www.unlocktool.us/articles/133-sua-imei-samsung.php";
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? kh�a di?n tho?i",
+        "name": "Dịch vụ mở khóa điện thoại",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -174,18 +175,18 @@ $canonical_url = "https://www.unlocktool.us/articles/133-sua-imei-samsung.php";
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
 </nav>
 <section class="hero-section">
     <div class="container text-center">
-        <h1><i class="fas fa-barcode me-2"></i>S?a IMEI Samsung 2026 - Hu?ng D?n Chi Ti?t</h1>
+        <h1><i class="fas fa-barcode me-2"></i>Sửa IMEI Samsung 2026 - Hướng Dẫn Chi Tiết</h1>
         <p class="lead">Repair IMEI Null, Unknown Baseband cho Samsung Qualcomm & Exynos</p>
         <div class="mt-4">
-            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>Thu� UnlockTool <span class="flash-sale">CH? 8K</span></a>
+            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>Thuê UnlockTool <span class="flash-sale">CHỈ 8K</span></a>
         </div>
     </div>
 </section>
@@ -195,110 +196,110 @@ $canonical_url = "https://www.unlocktool.us/articles/133-sua-imei-samsung.php";
         
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #0066cc;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>T�c gi?:</strong> UnlockTool.us Team</span>
-            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>�?c:</strong> ~5 ph�t</span>
-            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> <span id="viewCount">1,234</span></span>
+            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>Tác giả:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>Cập nhật:</strong> 06/02/2026</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Đọc:</strong> ~5 phút</span>
+            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lượt xem:</strong> <span id="viewCount">1,234</span></span>
         </div>
         <div class="toc">
-            <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
+            <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
             <ul>
-                <li><a href="#imei-null">1. IMEI Null / Unknown Baseband l� g�?</a></li>
-                <li><a href="#nguyen-nhan">2. Nguy�n nh�n IMEI b? m?t</a></li>
-                <li><a href="#hop-phap">3. S?a IMEI c� h?p ph�p kh�ng?</a></li>
-                <li><a href="#tools">4. C�c tool s?a IMEI Samsung</a></li>
-                <li><a href="#huong-dan">5. Hu?ng d?n s?a IMEI Samsung t?ng bu?c</a></li>
-                <li><a href="#patch-cert">6. Patch Certificate l� g�?</a></li>
-                <li><a href="#qualcomm-exynos">7. Kh�c bi?t Qualcomm vs Exynos</a></li>
-                <li><a href="#model-ho-tro">8. Danh s�ch model h? tr?</a></li>
-                <li><a href="#faq">9. FAQ - C�u h?i thu?ng g?p</a></li>
+                <li><a href="#imei-null">1. IMEI Null / Unknown Baseband là gì?</a></li>
+                <li><a href="#nguyen-nhan">2. Nguyên nhân IMEI bị mất</a></li>
+                <li><a href="#hop-phap">3. Sửa IMEI có hợp pháp không?</a></li>
+                <li><a href="#tools">4. Các tool sửa IMEI Samsung</a></li>
+                <li><a href="#huong-dan">5. Hướng dẫn sửa IMEI Samsung từng bước</a></li>
+                <li><a href="#patch-cert">6. Patch Certificate là gì?</a></li>
+                <li><a href="#qualcomm-exynos">7. Khác biệt Qualcomm vs Exynos</a></li>
+                <li><a href="#model-ho-tro">8. Danh sách model hỗ trợ</a></li>
+                <li><a href="#faq">9. FAQ - Câu hỏi thường gặp</a></li>
             </ul>
         </div>
         
-        <h2 id="imei-null"><i class="fas fa-exclamation-circle me-2"></i>1. IMEI Null / Unknown Baseband l� g�?</h2>
+        <h2 id="imei-null"><i class="fas fa-exclamation-circle me-2"></i>1. IMEI Null / Unknown Baseband là gì?</h2>
         
         <h3>1.1. IMEI Null</h3>
-        <p><strong>IMEI Null</strong> (hay IMEI m?t, IMEI 0000000000) l� t�nh tr?ng s? IMEI c?a Samsung b? m?t ho?c kh�ng hi?n th?. IMEI (International Mobile Equipment Identity) l� s? nh?n d?ng duy nh?t g?m 15 ch? s? c?a m?i thi?t b? di d?ng.</p>
+        <p><strong>IMEI Null</strong> (hay IMEI mất, IMEI 0000000000) là tình trạng số IMEI của Samsung bị mất hoặc không hiển thị. IMEI (International Mobile Equipment Identity) là số nhận dạng duy nhất gồm 15 chữ số của mỗi thiết bị di động.</p>
         
-        <h4>Tri?u ch?ng IMEI Null:</h4>
+        <h4>Triệu chứng IMEI Null:</h4>
         <ul>
-            <li>B?m <strong>*#06#</strong> kh�ng hi?n th? IMEI ho?c hi?n "null", "N/A"</li>
-            <li>IMEI hi?n th? l� <strong>000000000000000</strong></li>
-            <li>Settings ? About Phone ? IMEI = null ho?c tr?ng</li>
-            <li>Kh�ng nh?n SIM, kh�ng c� s�ng di d?ng</li>
+            <li>Bấm <strong>*#06#</strong> không hiển thị IMEI hoặc hiện "null", "N/A"</li>
+            <li>IMEI hiển thị là <strong>000000000000000</strong></li>
+            <li>Settings → About Phone → IMEI = null hoặc trống</li>
+            <li>Không nhận SIM, không có sóng di động</li>
         </ul>
         
         <h3>1.2. Unknown Baseband</h3>
-        <p><strong>Unknown Baseband</strong> l� l?i firmware modem (baseband) b? h?ng ho?c m?t. Baseband l� ph?n m?m di?u khi?n k?t n?i m?ng di d?ng.</p>
+        <p><strong>Unknown Baseband</strong> là lỗi firmware modem (baseband) bị hỏng hoặc mất. Baseband là phần mềm điều khiển kết nối mạng di động.</p>
         
-        <h4>Tri?u ch?ng Unknown Baseband:</h4>
+        <h4>Triệu chứng Unknown Baseband:</h4>
         <ul>
-            <li>Settings ? About Phone ? Baseband version = <strong>"Unknown"</strong></li>
-            <li>Kh�ng c� s�ng di d?ng, bi?u tu?ng s�ng c� d?u X</li>
-            <li>Kh�ng g?i di?n, nh?n tin, s? d?ng 4G/5G du?c</li>
-            <li>WiFi v?n ho?t d?ng b�nh thu?ng</li>
+            <li>Settings → About Phone → Baseband version = <strong>"Unknown"</strong></li>
+            <li>Không có sóng di động, biểu tượng sóng có dấu X</li>
+            <li>Không gọi điện, nhắn tin, sử dụng 4G/5G được</li>
+            <li>WiFi vẫn hoạt động bình thường</li>
         </ul>
         
         <div class="warning-box">
             <h5><i class="fas fa-exclamation-triangle me-2"></i>IMEI Null + Unknown Baseband</h5>
-            <p class="mb-0">Hai l?i n�y thu?ng di k�m v?i nhau. Khi partition <strong>EFS (Encrypted File System)</strong> b? h?ng, c? IMEI v� Baseband d?u m?t. C?n repair IMEI + Patch Certificate d? kh?c ph?c.</p>
+            <p class="mb-0">Hai lỗi này thường đi kèm với nhau. Khi partition <strong>EFS (Encrypted File System)</strong> bị hỏng, cả IMEI và Baseband đều mất. Cần repair IMEI + Patch Certificate để khắc phục.</p>
         </div>
         
-        <h2 id="nguyen-nhan"><i class="fas fa-search me-2"></i>2. Nguy�n nh�n IMEI b? m?t</h2>
+        <h2 id="nguyen-nhan"><i class="fas fa-search me-2"></i>2. Nguyên nhân IMEI bị mất</h2>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Nguy�n nh�n</th><th>M?c d? ph? bi?n</th><th>Kh? nang kh?c ph?c</th></tr>
+                <tr><th>Nguyên nhân</th><th>Mức độ phổ biến</th><th>Khả năng khắc phục</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>Flash ROM sai c�ch</strong></td><td>R?t ph? bi?n</td><td><i class="fas fa-check check-icon"></i> D?</td></tr>
-                <tr><td><strong>C�i Custom ROM</strong></td><td>Ph? bi?n</td><td><i class="fas fa-check check-icon"></i> D?</td></tr>
-                <tr><td><strong>Root x�a nh?m EFS</strong></td><td>Trung b�nh</td><td><i class="fas fa-check check-icon"></i> Trung b�nh</td></tr>
-                <tr><td><strong>Factory reset khi root</strong></td><td>Trung b�nh</td><td><i class="fas fa-check check-icon"></i> Trung b�nh</td></tr>
-                <tr><td><strong>Unlock bootloader</strong></td><td>�t</td><td><i class="fas fa-check check-icon"></i> D?</td></tr>
-                <tr><td><strong>L?i IC baseband (ph?n c?ng)</strong></td><td>Hi?m</td><td><i class="fas fa-times times-icon"></i> Kh�/Kh�ng th?</td></tr>
+                <tr><td><strong>Flash ROM sai cách</strong></td><td>Rất phổ biến</td><td><i class="fas fa-check check-icon"></i> Dễ</td></tr>
+                <tr><td><strong>Cài Custom ROM</strong></td><td>Phổ biến</td><td><i class="fas fa-check check-icon"></i> Dễ</td></tr>
+                <tr><td><strong>Root xóa nhầm EFS</strong></td><td>Trung bình</td><td><i class="fas fa-check check-icon"></i> Trung bình</td></tr>
+                <tr><td><strong>Factory reset khi root</strong></td><td>Trung bình</td><td><i class="fas fa-check check-icon"></i> Trung bình</td></tr>
+                <tr><td><strong>Unlock bootloader</strong></td><td>Ít</td><td><i class="fas fa-check check-icon"></i> Dễ</td></tr>
+                <tr><td><strong>Lỗi IC baseband (phần cứng)</strong></td><td>Hiếm</td><td><i class="fas fa-times times-icon"></i> Khó/Không thể</td></tr>
             </tbody>
         </table>
         
-        <h3>2.1. Partition EFS l� g�?</h3>
-        <p><strong>EFS (Encrypted File System)</strong> l� partition d?c bi?t tr�n Samsung ch?a:</p>
+        <h3>2.1. Partition EFS là gì?</h3>
+        <p><strong>EFS (Encrypted File System)</strong> là partition đặc biệt trên Samsung chứa:</p>
         <ul>
-            <li>S? IMEI c?a thi?t b?</li>
-            <li>Th�ng tin modem/baseband</li>
-            <li>Calibration data m?ng di d?ng</li>
+            <li>Số IMEI của thiết bị</li>
+            <li>Thông tin modem/baseband</li>
+            <li>Calibration data mạng di động</li>
             <li>Unique device identifiers</li>
         </ul>
-        <p>Khi EFS b? h?ng ho?c x�a, IMEI s? m?t v� m�y kh�ng c�n k?t n?i m?ng di d?ng.</p>
+        <p>Khi EFS bị hỏng hoặc xóa, IMEI sẽ mất và máy không còn kết nối mạng di động.</p>
         
-        <h2 id="hop-phap"><i class="fas fa-gavel me-2"></i>3. S?a IMEI c� h?p ph�p kh�ng?</h2>
+        <h2 id="hop-phap"><i class="fas fa-gavel me-2"></i>3. Sửa IMEI có hợp pháp không?</h2>
         
         <div class="tip-box">
-            <h5><i class="fas fa-check-circle me-2"></i>H?P PH�P - Ph?c h?i IMEI g?c</h5>
-            <p class="mb-0">S?a (repair) IMEI d? <strong>ph?c h?i l?i s? IMEI g?c</strong> c?a thi?t b? b? m?t/h?ng do l?i ph?n m?m l� <strong>h?p ph�p</strong>. ��y l� vi?c kh�i ph?c th�ng tin ban d?u c?a thi?t b?, tuong t? nhu s?a ch?a ph?n m?m th�ng thu?ng.</p>
+            <h5><i class="fas fa-check-circle me-2"></i>HỢP PHÁP - Phục hồi IMEI gốc</h5>
+            <p class="mb-0">Sửa (repair) IMEI để <strong>phục hồi lại số IMEI gốc</strong> của thiết bị bị mất/hỏng do lỗi phần mềm là <strong>hợp pháp</strong>. Đây là việc khôi phục thông tin ban đầu của thiết bị, tương tự như sửa chữa phần mềm thông thường.</p>
         </div>
         
         <div class="danger-box">
-            <h5><i class="fas fa-times-circle me-2"></i>B?T H?P PH�P - Thay d?i IMEI</h5>
-            <p class="mb-0"><strong>Thay d?i IMEI</strong> sang s? kh�c (kh�ng ph?i s? g?c) ho?c thay d?i d? gian l?n, che gi?u thi?t b? an c?p, bypass blacklist l� <strong>b?t h?p ph�p</strong> ? h?u h?t c�c qu?c gia, bao g?m M?, UK, EU v� nhi?u nu?c kh�c.</p>
+            <h5><i class="fas fa-times-circle me-2"></i>BẤT HỢP PHÁP - Thay đổi IMEI</h5>
+            <p class="mb-0"><strong>Thay đổi IMEI</strong> sang số khác (không phải số gốc) hoặc thay đổi để gian lận, che giấu thiết bị ăn cắp, bypass blacklist là <strong>bất hợp pháp</strong> ở hầu hết các quốc gia, bao gồm Mỹ, UK, EU và nhiều nước khác.</p>
         </div>
         
-        <h3>3.1. Quy d?nh ph�p lu?t</h3>
+        <h3>3.1. Quy định pháp luật</h3>
         <ul>
-            <li><strong>Vi?t Nam:</strong> Chua c� quy d?nh c? th?, nhung thay d?i IMEI d? gian l?n c� th? vi ph?m lu?t h�nh s?</li>
-            <li><strong>M? (FCC):</strong> C?m tampering with IMEI, nhung restore IMEI g?c du?c ch?p nh?n</li>
-            <li><strong>UK:</strong> B?t h?p ph�p khi thay d?i IMEI m� kh�ng c� s? cho ph�p c?a nh� s?n xu?t</li>
+            <li><strong>Việt Nam:</strong> Chưa có quy định cụ thể, nhưng thay đổi IMEI để gian lận có thể vi phạm luật hình sự</li>
+            <li><strong>Mỹ (FCC):</strong> Cấm tampering with IMEI, nhưng restore IMEI gốc được chấp nhận</li>
+            <li><strong>UK:</strong> Bất hợp pháp khi thay đổi IMEI mà không có sự cho phép của nhà sản xuất</li>
         </ul>
         
         <div class="info-box">
-            <h5><i class="fas fa-info-circle me-2"></i>Luu � quan tr?ng:</h5>
-            <p class="mb-0">B�i vi?t n�y ch? hu?ng d?n <strong>ph?c h?i IMEI g?c</strong> cho thi?t b? c?a ch�nh b?n. Ch�ng t�i kh�ng h? tr? thay d?i IMEI sang s? kh�c.</p>
+            <h5><i class="fas fa-info-circle me-2"></i>Lưu ý quan trọng:</h5>
+            <p class="mb-0">Bài viết này chỉ hướng dẫn <strong>phục hồi IMEI gốc</strong> cho thiết bị của chính bạn. Chúng tôi không hỗ trợ thay đổi IMEI sang số khác.</p>
         </div>
         
-        <h2 id="tools"><i class="fas fa-tools me-2"></i>4. C�c tool s?a IMEI Samsung</h2>
+        <h2 id="tools"><i class="fas fa-tools me-2"></i>4. Các tool sửa IMEI Samsung</h2>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Tool</th><th>Qualcomm</th><th>Exynos</th><th>Patch Cert</th><th>Gi�</th></tr>
+                <tr><th>Tool</th><th>Qualcomm</th><th>Exynos</th><th>Patch Cert</th><th>Giá</th></tr>
             </thead>
             <tbody>
                 <tr>
@@ -306,7 +307,7 @@ $canonical_url = "https://www.unlocktool.us/articles/133-sua-imei-samsung.php";
                     <td><i class="fas fa-check check-icon"></i></td>
                     <td><i class="fas fa-check check-icon"></i></td>
                     <td><i class="fas fa-check check-icon"></i></td>
-                    <td>~$50/nam</td>
+                    <td>~$50/năm</td>
                 </tr>
                 <tr>
                     <td><strong>Z3X Samsung Tool</strong></td>
@@ -319,8 +320,8 @@ $canonical_url = "https://www.unlocktool.us/articles/133-sua-imei-samsung.php";
                     <td><strong>UnlockTool</strong></td>
                     <td><i class="fas fa-check check-icon"></i></td>
                     <td><i class="fas fa-check check-icon"></i></td>
-                    <td>?? M?t s?</td>
-                    <td>8.000d/6h</td>
+                    <td>⚠️ Một số</td>
+                    <td>8.000đ/6h</td>
                 </tr>
                 <tr>
                     <td><strong>Octoplus/Octopus</strong></td>
@@ -332,150 +333,150 @@ $canonical_url = "https://www.unlocktool.us/articles/133-sua-imei-samsung.php";
             </tbody>
         </table>
         
-        <h2 id="huong-dan"><i class="fas fa-book me-2"></i>5. Hu?ng d?n s?a IMEI Samsung t?ng bu?c</h2>
+        <h2 id="huong-dan"><i class="fas fa-book me-2"></i>5. Hướng dẫn sửa IMEI Samsung từng bước</h2>
         
-        <h3>5.1. Chu?n b?</h3>
+        <h3>5.1. Chuẩn bị</h3>
         <ul>
             <li>PC Windows 7/10/11</li>
-            <li>Samsung USB Driver (t?i t? Samsung ho?c tool t? c�i)</li>
-            <li>Tool repair IMEI (ChimeraTool, Z3X, ho?c UnlockTool)</li>
-            <li>C�p USB ch�nh h�ng ho?c ch?t lu?ng t?t</li>
-            <li><strong>IMEI g?c</strong> c?a m�y (t? h?p, du?i pin, ho?c h�a don)</li>
+            <li>Samsung USB Driver (tải từ Samsung hoặc tool tự cài)</li>
+            <li>Tool repair IMEI (ChimeraTool, Z3X, hoặc UnlockTool)</li>
+            <li>Cáp USB chính hãng hoặc chất lượng tốt</li>
+            <li><strong>IMEI gốc</strong> của máy (từ hộp, dưới pin, hoặc hóa đơn)</li>
         </ul>
         
-        <h3>5.2. C�c bu?c th?c hi?n</h3>
+        <h3>5.2. Các bước thực hiện</h3>
         
         <div class="step-box">
             <div class="step-num">1</div>
-            <h5>T�m IMEI g?c</h5>
-            <p>Ki?m tra IMEI g?c tr�n: h?p m�y, du?i pin (n?u th�o du?c), h�a don mua h�ng, ho?c li�n h? Samsung v?i th�ng tin thi?t b?.</p>
+            <h5>Tìm IMEI gốc</h5>
+            <p>Kiểm tra IMEI gốc trên: hộp máy, dưới pin (nếu tháo được), hóa đơn mua hàng, hoặc liên hệ Samsung với thông tin thiết bị.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">2</div>
-            <h5>V�o Download Mode</h5>
-            <p>T?t m�y ho�n to�n. Nh?n gi? <strong>Vol Up + Vol Down</strong> d?ng th?i, r?i c?m c�p USB. Khi c� th�ng b�o Warning, nh?n Vol Up d? v�o Download Mode.</p>
+            <h5>Vào Download Mode</h5>
+            <p>Tắt máy hoàn toàn. Nhấn giữ <strong>Vol Up + Vol Down</strong> đồng thời, rồi cắm cáp USB. Khi có thông báo Warning, nhấn Vol Up để vào Download Mode.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">3</div>
-            <h5>K?t n?i v� ch?n model</h5>
-            <p>M? tool (ChimeraTool/Z3X/UnlockTool). Tool s? t? nh?n di?n model. N?u kh�ng, ch?n th? c�ng t? danh s�ch.</p>
+            <h5>Kết nối và chọn model</h5>
+            <p>Mở tool (ChimeraTool/Z3X/UnlockTool). Tool sẽ tự nhận diện model. Nếu không, chọn thủ công từ danh sách.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">4</div>
             <h5>Repair IMEI</h5>
-            <p>V�o tab <strong>Repair</strong> ho?c <strong>IMEI Repair</strong>. Nh?p IMEI g?c 15 s?. Ch?n <strong>Repair IMEI</strong> v� d?i ho�n t?t.</p>
+            <p>Vào tab <strong>Repair</strong> hoặc <strong>IMEI Repair</strong>. Nhập IMEI gốc 15 số. Chọn <strong>Repair IMEI</strong> và đợi hoàn tất.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">5</div>
-            <h5>Patch Certificate (Quan tr?ng!)</h5>
-            <p>Sau repair IMEI, <strong>ph?i th?c hi?n Patch Certificate</strong> d? m�y nh?n s�ng. Ch?n <strong>Patch Cert</strong> ho?c <strong>Repair Certificate</strong> trong tool.</p>
+            <h5>Patch Certificate (Quan trọng!)</h5>
+            <p>Sau repair IMEI, <strong>phải thực hiện Patch Certificate</strong> để máy nhận sóng. Chọn <strong>Patch Cert</strong> hoặc <strong>Repair Certificate</strong> trong tool.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">6</div>
-            <h5>Kh?i d?ng l?i v� ki?m tra</h5>
-            <p>Reboot m�y. B?m <strong>*#06#</strong> d? ki?m tra IMEI. Ki?m tra Settings ? About Phone ? Baseband version. L?p SIM v� ki?m tra s�ng.</p>
+            <h5>Khởi động lại và kiểm tra</h5>
+            <p>Reboot máy. Bấm <strong>*#06#</strong> để kiểm tra IMEI. Kiểm tra Settings → About Phone → Baseband version. Lắp SIM và kiểm tra sóng.</p>
         </div>
         
-        <h2 id="patch-cert"><i class="fas fa-certificate me-2"></i>6. Patch Certificate l� g�?</h2>
+        <h2 id="patch-cert"><i class="fas fa-certificate me-2"></i>6. Patch Certificate là gì?</h2>
         
-        <p><strong>Patch Certificate</strong> (hay Repair Certificate) l� bu?c quan tr?ng khi s?a IMEI Samsung. Samsung s? d?ng h? th?ng ch?ng ch? (certificate) d? x�c th?c IMEI v?i modem.</p>
+        <p><strong>Patch Certificate</strong> (hay Repair Certificate) là bước quan trọng khi sửa IMEI Samsung. Samsung sử dụng hệ thống chứng chỉ (certificate) để xác thực IMEI với modem.</p>
         
-        <h3>6.1. T?i sao c?n Patch Certificate?</h3>
+        <h3>6.1. Tại sao cần Patch Certificate?</h3>
         <ul>
-            <li>IMEI v� Certificate ph?i kh?p nhau</li>
-            <li>N?u ch? repair IMEI m� kh�ng patch cert, m�y v?n kh�ng nh?n s�ng</li>
-            <li>Certificate ch?a th�ng tin m� h�a li�n k?t IMEI v?i modem</li>
-            <li>C�c model m?i (security patch 2024-2025) y�u c?u Patch Cert m?i nh?t</li>
+            <li>IMEI và Certificate phải khớp nhau</li>
+            <li>Nếu chỉ repair IMEI mà không patch cert, máy vẫn không nhận sóng</li>
+            <li>Certificate chứa thông tin mã hóa liên kết IMEI với modem</li>
+            <li>Các model mới (security patch 2024-2025) yêu cầu Patch Cert mới nhất</li>
         </ul>
         
         <div class="warning-box">
-            <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu � v? Patch Certificate:</h5>
-            <p class="mb-0">Kh�ng ph?i tool n�o cung c� Patch Certificate cho t?t c? model. ChimeraTool thu?ng xuy�n update Patch Cert m?i nh?t. Ki?m tra danh s�ch model h? tr? tru?c khi ti?n h�nh.</p>
+            <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý về Patch Certificate:</h5>
+            <p class="mb-0">Không phải tool nào cũng có Patch Certificate cho tất cả model. ChimeraTool thường xuyên update Patch Cert mới nhất. Kiểm tra danh sách model hỗ trợ trước khi tiến hành.</p>
         </div>
         
-        <h2 id="qualcomm-exynos"><i class="fas fa-microchip me-2"></i>7. Kh�c bi?t Qualcomm vs Exynos</h2>
+        <h2 id="qualcomm-exynos"><i class="fas fa-microchip me-2"></i>7. Khác biệt Qualcomm vs Exynos</h2>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Ti�u ch�</th><th>Samsung Qualcomm</th><th>Samsung Exynos</th></tr>
+                <tr><th>Tiêu chí</th><th>Samsung Qualcomm</th><th>Samsung Exynos</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>Ph�n ph?i</strong></td><td>M?, Trung Qu?c, H�n (m?i)</td><td>Ch�u �u, Vi?t Nam, H�n (cu)</td></tr>
-                <tr><td><strong>C�ch v�o ch? d?</strong></td><td>Download Mode / EDL</td><td>Download Mode</td></tr>
-                <tr><td><strong>�? kh� repair</strong></td><td>Trung b�nh</td><td>Trung b�nh - Kh�</td></tr>
-                <tr><td><strong>Patch Cert</strong></td><td>C?n thi?t</td><td>C?n thi?t</td></tr>
-                <tr><td><strong>Tool h? tr?</strong></td><td>Nhi?u tool</td><td>ChimeraTool, Z3X t?t nh?t</td></tr>
+                <tr><td><strong>Phân phối</strong></td><td>Mỹ, Trung Quốc, Hàn (mới)</td><td>Châu Âu, Việt Nam, Hàn (cũ)</td></tr>
+                <tr><td><strong>Cách vào chế độ</strong></td><td>Download Mode / EDL</td><td>Download Mode</td></tr>
+                <tr><td><strong>Độ khó repair</strong></td><td>Trung bình</td><td>Trung bình - Khó</td></tr>
+                <tr><td><strong>Patch Cert</strong></td><td>Cần thiết</td><td>Cần thiết</td></tr>
+                <tr><td><strong>Tool hỗ trợ</strong></td><td>Nhiều tool</td><td>ChimeraTool, Z3X tốt nhất</td></tr>
             </tbody>
         </table>
         
-        <h3>7.1. C�ch nh?n bi?t Qualcomm hay Exynos</h3>
+        <h3>7.1. Cách nhận biết Qualcomm hay Exynos</h3>
         <ul>
-            <li>Ki?m tra model number (SM-G998U = Qualcomm, SM-G998B = Exynos)</li>
-            <li>D�ng app CPU-Z ho?c AIDA64</li>
-            <li>M�y Vi?t Nam thu?ng l� Exynos (ngo?i tr? model N ho?c mua x�ch tay)</li>
+            <li>Kiểm tra model number (SM-G998U = Qualcomm, SM-G998B = Exynos)</li>
+            <li>Dùng app CPU-Z hoặc AIDA64</li>
+            <li>Máy Việt Nam thường là Exynos (ngoại trừ model N hoặc mua xách tay)</li>
         </ul>
         
-        <h2 id="model-ho-tro"><i class="fas fa-mobile-alt me-2"></i>8. Danh s�ch model h? tr?</h2>
+        <h2 id="model-ho-tro"><i class="fas fa-mobile-alt me-2"></i>8. Danh sách model hỗ trợ</h2>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>D�ng m�y</th><th>Qualcomm</th><th>Exynos</th><th>Ghi ch�</th></tr>
+                <tr><th>Dòng máy</th><th>Qualcomm</th><th>Exynos</th><th>Ghi chú</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>Galaxy A series</strong> (A12, A13, A23, A32, A52, A54...)</td><td><i class="fas fa-check check-icon"></i></td><td><i class="fas fa-check check-icon"></i></td><td>H? tr? t?t</td></tr>
-                <tr><td><strong>Galaxy S20/S21/S22/S23</strong></td><td><i class="fas fa-check check-icon"></i></td><td><i class="fas fa-check check-icon"></i></td><td>C?n update tool m?i</td></tr>
-                <tr><td><strong>Galaxy S24 series</strong></td><td>??</td><td>??</td><td>T�y b?n v� b?o m?t</td></tr>
-                <tr><td><strong>Galaxy M series</strong></td><td><i class="fas fa-check check-icon"></i></td><td><i class="fas fa-check check-icon"></i></td><td>H? tr? t?t</td></tr>
-                <tr><td><strong>Galaxy Note series</strong></td><td><i class="fas fa-check check-icon"></i></td><td><i class="fas fa-check check-icon"></i></td><td>H? tr? t?t</td></tr>
-                <tr><td><strong>Galaxy Z Fold/Flip</strong></td><td>??</td><td>-</td><td>M?t s? model</td></tr>
+                <tr><td><strong>Galaxy A series</strong> (A12, A13, A23, A32, A52, A54...)</td><td><i class="fas fa-check check-icon"></i></td><td><i class="fas fa-check check-icon"></i></td><td>Hỗ trợ tốt</td></tr>
+                <tr><td><strong>Galaxy S20/S21/S22/S23</strong></td><td><i class="fas fa-check check-icon"></i></td><td><i class="fas fa-check check-icon"></i></td><td>Cần update tool mới</td></tr>
+                <tr><td><strong>Galaxy S24 series</strong></td><td>⚠️</td><td>⚠️</td><td>Tùy bản vá bảo mật</td></tr>
+                <tr><td><strong>Galaxy M series</strong></td><td><i class="fas fa-check check-icon"></i></td><td><i class="fas fa-check check-icon"></i></td><td>Hỗ trợ tốt</td></tr>
+                <tr><td><strong>Galaxy Note series</strong></td><td><i class="fas fa-check check-icon"></i></td><td><i class="fas fa-check check-icon"></i></td><td>Hỗ trợ tốt</td></tr>
+                <tr><td><strong>Galaxy Z Fold/Flip</strong></td><td>⚠️</td><td>-</td><td>Một số model</td></tr>
             </tbody>
         </table>
         
         <div class="price-box">
-            <h3><i class="fas fa-bolt me-2"></i>S?a IMEI Samsung D? D�ng</h3>
-            <p class="display-4 fw-bold">8.000d / 6 ti?ng</p>
-            <p>Thu� UnlockTool - T? s?a t?i nh� � H? tr? Qualcomm & Exynos</p>
-            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg"><i class="fas fa-bolt me-2"></i>Thu� Ngay</a>
+            <h3><i class="fas fa-bolt me-2"></i>Sửa IMEI Samsung Dễ Dàng</h3>
+            <p class="display-4 fw-bold">8.000đ / 6 tiếng</p>
+            <p>Thuê UnlockTool - Tự sửa tại nhà • Hỗ trợ Qualcomm & Exynos</p>
+            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg"><i class="fas fa-bolt me-2"></i>Thuê Ngay</a>
         </div>
         
-        <h2 id="faq"><i class="fas fa-comments me-2"></i>9. FAQ - C�u h?i thu?ng g?p</h2>
+        <h2 id="faq"><i class="fas fa-comments me-2"></i>9. FAQ - Câu hỏi thường gặp</h2>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>S?a IMEI Samsung c� h?p ph�p kh�ng?</h5>
-            <p><strong>Ph?c h?i IMEI g?c</strong> b? m?t/l?i l� h?p ph�p. <strong>Thay d?i IMEI</strong> sang s? kh�c ho?c d? gian l?n l� b?t h?p ph�p ? nhi?u qu?c gia.</p>
-        </div>
-        
-        <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Kh�ng t�m du?c IMEI g?c th� sao?</h5>
-            <p>Ki?m tra: h?p m�y, du?i pin (n?u th�o du?c), h�a don mua h�ng. Li�n h? Samsung v?i th�ng tin thi?t b?. Ho?c li�n h? <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a> d? du?c h? tr?.</p>
+            <h5><i class="fas fa-question me-2"></i>Sửa IMEI Samsung có hợp pháp không?</h5>
+            <p><strong>Phục hồi IMEI gốc</strong> bị mất/lỗi là hợp pháp. <strong>Thay đổi IMEI</strong> sang số khác hoặc để gian lận là bất hợp pháp ở nhiều quốc gia.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Repair IMEI xong v?n kh�ng c� s�ng?</h5>
-            <p>C?n th?c hi?n th�m bu?c <strong>Patch Certificate</strong>. N?u v?n kh�ng du?c, c� th? l?i ph?n c?ng (IC baseband) ho?c tool chua h? tr? model/security patch c?a b?n.</p>
+            <h5><i class="fas fa-question me-2"></i>Không tìm được IMEI gốc thì sao?</h5>
+            <p>Kiểm tra: hộp máy, dưới pin (nếu tháo được), hóa đơn mua hàng. Liên hệ Samsung với thông tin thiết bị. Hoặc liên hệ <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a> để được hỗ trợ.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Tool n�o s?a IMEI Samsung t?t nh?t?</h5>
-            <p><strong>ChimeraTool</strong> v� <strong>Z3X</strong> du?c d�nh gi� cao nh?t cho Samsung, h? tr? c? Qualcomm v� Exynos v?i Patch Certificate. <strong>UnlockTool</strong> l� l?a ch?n ti?t ki?m (8K/6h) cho c�c model ph? bi?n.</p>
+            <h5><i class="fas fa-question me-2"></i>Repair IMEI xong vẫn không có sóng?</h5>
+            <p>Cần thực hiện thêm bước <strong>Patch Certificate</strong>. Nếu vẫn không được, có thể lỗi phần cứng (IC baseband) hoặc tool chưa hỗ trợ model/security patch của bạn.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Galaxy S24 c� s?a du?c IMEI kh�ng?</h5>
-            <p>T�y thu?c v�o b?n v� b?o m?t. C�c b?n v� m?i nh?t c� th? chua du?c h? tr?. Ki?m tra changelog c?a tool tru?c khi ti?n h�nh.</p>
+            <h5><i class="fas fa-question me-2"></i>Tool nào sửa IMEI Samsung tốt nhất?</h5>
+            <p><strong>ChimeraTool</strong> và <strong>Z3X</strong> được đánh giá cao nhất cho Samsung, hỗ trợ cả Qualcomm và Exynos với Patch Certificate. <strong>UnlockTool</strong> là lựa chọn tiết kiệm (8K/6h) cho các model phổ biến.</p>
         </div>
         
-        <h2><i class="fas fa-link me-2"></i>B�i vi?t li�n quan</h2>
+        <div class="faq-item">
+            <h5><i class="fas fa-question me-2"></i>Galaxy S24 có sửa được IMEI không?</h5>
+            <p>Tùy thuộc vào bản vá bảo mật. Các bản vá mới nhất có thể chưa được hỗ trợ. Kiểm tra changelog của tool trước khi tiến hành.</p>
+        </div>
+        
+        <h2><i class="fas fa-link me-2"></i>Bài viết liên quan</h2>
         <ul>
-            <li><a href="132-knox-samsung-remove.php">Samsung Knox l� g�? C� x�a du?c kh�ng?</a></li>
-            <li><a href="152-check-imei-free.php">Ki?m tra IMEI mi?n ph� online</a></li>
-            <li><a href="143-hydra-tool-la-gi.php">Hydra Tool l� g�? Hu?ng d?n chi ti?t</a></li>
-            <li><a href="14-thue-unlocktool-gia-re.php">Thu� UnlockTool Gi� R? - Ch? 8K</a></li>
+            <li><a href="132-knox-samsung-remove.php">Samsung Knox là gì? Có xóa được không?</a></li>
+            <li><a href="152-check-imei-free.php">Kiểm tra IMEI miễn phí online</a></li>
+            <li><a href="143-hydra-tool-la-gi.php">Hydra Tool là gì? Hướng dẫn chi tiết</a></li>
+            <li><a href="14-thue-unlocktool-gia-re.php">Thuê UnlockTool Giá Rẻ - Chỉ 8K</a></li>
         </ul>
         
     </div>
@@ -488,7 +489,7 @@ $canonical_url = "https://www.unlocktool.us/articles/133-sua-imei-samsung.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -502,13 +503,13 @@ $canonical_url = "https://www.unlocktool.us/articles/133-sua-imei-samsung.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -516,15 +517,15 @@ $canonical_url = "https://www.unlocktool.us/articles/133-sua-imei-samsung.php";
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -537,7 +538,7 @@ $canonical_url = "https://www.unlocktool.us/articles/133-sua-imei-samsung.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -545,8 +546,8 @@ $canonical_url = "https://www.unlocktool.us/articles/133-sua-imei-samsung.php";
 </div>
 <footer class="bg-dark text-white py-4 text-center">
     <div class="container">
-        <p class="mb-2">&copy; 2026 UnlockTool.us - D?ch v? cho thu� UnlockTool uy t�n #1 Vi?t Nam</p>
-        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thu� UnlockTool 8K</a></p>
+        <p class="mb-2">&copy; 2026 UnlockTool.us - Dịch vụ cho thuê UnlockTool uy tín #1 Việt Nam</p>
+        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thuê UnlockTool 8K</a></p>
     </div>
 </footer>
 

@@ -1,6 +1,6 @@
 ﻿<?php
-$page_title = "UMT Dongle L� G�? Hu?ng D?n S? D?ng Ultimate Multi Tool Chi Ti?t 2026";
-$page_description = "T�m hi?u UMT Dongle l� g�, t�nh nang UMT Pro, QcFire. Hu?ng d?n s? d?ng UMT bypass FRP Samsung, Xiaomi, Oppo. So s�nh UMT vs UnlockTool. Thu� tool 8K/6h";
+$page_title = "UMT Dongle Là Gì? Hướng Dẫn Sử Dụng Ultimate Multi Tool Chi Tiết 2026";
+$page_description = "Tìm hiểu UMT Dongle là gì, tính năng UMT Pro, QcFire. Hướng dẫn sử dụng UMT bypass FRP Samsung, Xiaomi, Oppo. So sánh UMT vs UnlockTool. Thuê tool 8K/6h";
 $page_keywords = "umt dongle, umt pro, ultimate multi tool, qcfire, umt samsung, umt xiaomi, umt la gi, umt frp bypass";
 $canonical_url = "https://www.unlocktool.us/articles/141-umt-dongle-la-gi.php";
 ?>
@@ -18,11 +18,11 @@ $canonical_url = "https://www.unlocktool.us/articles/141-umt-dongle-la-gi.php";
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">\n    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">">
     <meta property="og:title" content="<?php echo $page_title; ?>">
-    <meta property="og:description" content="<?php echo $page_description; ?>
-    <meta property="og:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
+    <meta property="og:description" content="<?php echo $page_description; ?>">
     <meta property="og:type" content="article">
     <meta property="og:url" content="<?php echo $canonical_url; ?>">
     
@@ -77,26 +77,26 @@ $canonical_url = "https://www.unlocktool.us/articles/141-umt-dongle-la-gi.php";
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "UMT Dongle l� g�?",
+                "name": "UMT Dongle là gì?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "UMT Dongle (Ultimate Multi Tool) l� c�ng c? ph?n c?ng chuy�n d?ng cho vi?c m? kh�a, bypass FRP, flash firmware di?n tho?i Android. �u?c ph�t tri?n b?i d?i ngu Vi?t Nam, UMT h? tr? Samsung, Xiaomi, Oppo, Vivo v� nhi?u h�ng kh�c."
+                    "text": "UMT Dongle (Ultimate Multi Tool) là công cụ phần cứng chuyên dụng cho việc mở khóa, bypass FRP, flash firmware điện thoại Android. Được phát triển bởi đội ngũ Việt Nam, UMT hỗ trợ Samsung, Xiaomi, Oppo, Vivo và nhiều hãng khác."
                 }
             },
             {
                 "@type": "Question",
-                "name": "UMT Dongle c� h? tr? iPhone kh�ng?",
+                "name": "UMT Dongle có hỗ trợ iPhone không?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Kh�ng. UMT Dongle ch? h? tr? Android. N?u c?n bypass iCloud iPhone, h�y s? d?ng UnlockTool."
+                    "text": "Không. UMT Dongle chỉ hỗ trợ Android. Nếu cần bypass iCloud iPhone, hãy sử dụng UnlockTool."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Gi� UMT Dongle bao nhi�u?",
+                "name": "Giá UMT Dongle bao nhiêu?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "UMT Dongle c� gi� kho?ng 1.1-1.4 tri?u VND ($45-55 USD), UMT Pro kho?ng 1.5-1.8 tri?u VND ($60-70 USD). Kh�ng c?n gia h?n h�ng nam."
+                    "text": "UMT Dongle có giá khoảng 1.1-1.4 triệu VND ($45-55 USD), UMT Pro khoảng 1.5-1.8 triệu VND ($60-70 USD). Không cần gia hạn hàng năm."
                 }
             }
         ]
@@ -132,7 +132,7 @@ $canonical_url = "https://www.unlocktool.us/articles/141-umt-dongle-la-gi.php";
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? kh�a di?n tho?i",
+        "name": "Dịch vụ mở khóa điện thoại",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -149,8 +149,8 @@ $canonical_url = "https://www.unlocktool.us/articles/141-umt-dongle-la-gi.php";
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -160,9 +160,9 @@ $canonical_url = "https://www.unlocktool.us/articles/141-umt-dongle-la-gi.php";
         <div class="row align-items-center">
             <div class="col-lg-8">
                 <h1><i class="fas fa-tools me-3"></i><?php echo $page_title; ?></h1>
-                <p class="lead mt-3">Hu?ng d?n to�n di?n v? UMT Dongle - Ultimate Multi Tool du?c ph�t tri?n b?i d?i ngu Vi?t Nam. C�ng c? m?nh m? cho Samsung, Xiaomi, Oppo, Vivo v� nhi?u h�ng Android kh�c.</p>
+                <p class="lead mt-3">Hướng dẫn toàn diện về UMT Dongle - Ultimate Multi Tool được phát triển bởi đội ngũ Việt Nam. Công cụ mạnh mẽ cho Samsung, Xiaomi, Oppo, Vivo và nhiều hãng Android khác.</p>
                 <div class="mt-4">
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg me-2 mb-2"><i class="fas fa-tools me-2"></i>Thu� UnlockTool 8K/6H</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg me-2 mb-2"><i class="fas fa-tools me-2"></i>Thuê UnlockTool 8K/6H</a>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg mb-2"><i class="fas fa-headset me-2"></i>Mua UMT Dongle</a>
                 </div>
             </div>
@@ -177,166 +177,166 @@ $canonical_url = "https://www.unlocktool.us/articles/141-umt-dongle-la-gi.php";
     <div class="row">
         <div class="col-lg-8">
             
-            <!-- M?c l?c -->
+            <!-- Mục lục -->
             <div class="toc">
-                <h5><i class="fas fa-list me-2"></i>M?c L?c B�i Vi?t</h5>
+                <h5><i class="fas fa-list me-2"></i>Mục Lục Bài Viết</h5>
                 <ul>
-                    <li><a href="#umt-la-gi">1. UMT Dongle l� g�? L?ch s? ph�t tri?n</a></li>
-                    <li><a href="#cac-phien-ban">2. C�c phi�n b?n v� module UMT</a></li>
-                    <li><a href="#tinh-nang">3. T�nh nang chi ti?t c?a UMT Dongle</a></li>
-                    <li><a href="#thiet-bi-ho-tro">4. Danh s�ch thi?t b? h? tr?</a></li>
-                    <li><a href="#huong-dan-cai-dat">5. Hu?ng d?n c�i d?t UMT Dongle</a></li>
-                    <li><a href="#huong-dan-su-dung">6. Hu?ng d?n s? d?ng UMT (FRP, Flash)</a></li>
-                    <li><a href="#gia-ca">7. Gi� c? v� c�ch mua UMT Dongle</a></li>
-                    <li><a href="#uu-nhuoc-diem">8. Uu nhu?c di?m c?a UMT Dongle</a></li>
-                    <li><a href="#so-sanh">9. So s�nh UMT v?i c�c tool kh�c</a></li>
-                    <li><a href="#faq">10. FAQ - C�u h?i thu?ng g?p</a></li>
+                    <li><a href="#umt-la-gi">1. UMT Dongle là gì? Lịch sử phát triển</a></li>
+                    <li><a href="#cac-phien-ban">2. Các phiên bản và module UMT</a></li>
+                    <li><a href="#tinh-nang">3. Tính năng chi tiết của UMT Dongle</a></li>
+                    <li><a href="#thiet-bi-ho-tro">4. Danh sách thiết bị hỗ trợ</a></li>
+                    <li><a href="#huong-dan-cai-dat">5. Hướng dẫn cài đặt UMT Dongle</a></li>
+                    <li><a href="#huong-dan-su-dung">6. Hướng dẫn sử dụng UMT (FRP, Flash)</a></li>
+                    <li><a href="#gia-ca">7. Giá cả và cách mua UMT Dongle</a></li>
+                    <li><a href="#uu-nhuoc-diem">8. Ưu nhược điểm của UMT Dongle</a></li>
+                    <li><a href="#so-sanh">9. So sánh UMT với các tool khác</a></li>
+                    <li><a href="#faq">10. FAQ - Câu hỏi thường gặp</a></li>
                 </ul>
             </div>
 
-            <!-- Ph?n 1 -->
-            <h2 id="umt-la-gi"><i class="fas fa-question-circle me-2"></i>1. UMT Dongle L� G�? L?ch S? Ph�t Tri?n</h2>
+            <!-- Phần 1 -->
+            <h2 id="umt-la-gi"><i class="fas fa-question-circle me-2"></i>1. UMT Dongle Là Gì? Lịch Sử Phát Triển</h2>
             
-            <p><strong>UMT Dongle</strong> (vi?t t?t c?a <strong>Ultimate Multi Tool</strong>) l� m?t c�ng c? ph?n c?ng (dongle USB) k?t h?p ph?n m?m chuy�n d?ng, du?c thi?t k? d? m? kh�a, s?a ch?a v� flash firmware cho di?n tho?i Android. UMT du?c ph�t tri?n b?i m?t d?i ngu k? thu?t vi�n <strong>ngu?i Vi?t Nam</strong>, v� d� tr? th�nh m?t trong nh?ng tool ph? bi?n nh?t trong c?ng d?ng th? di?n tho?i to�n c?u.</p>
+            <p><strong>UMT Dongle</strong> (viết tắt của <strong>Ultimate Multi Tool</strong>) là một công cụ phần cứng (dongle USB) kết hợp phần mềm chuyên dụng, được thiết kế để mở khóa, sửa chữa và flash firmware cho điện thoại Android. UMT được phát triển bởi một đội ngũ kỹ thuật viên <strong>người Việt Nam</strong>, và đã trở thành một trong những tool phổ biến nhất trong cộng đồng thợ điện thoại toàn cầu.</p>
 
-            <p>UMT ra d?i v�o kho?ng nam 2014-2015 v?i m?c ti�u ban d?u l� h? tr? m? kh�a c�c di?n tho?i Samsung v� c�c thi?t b? s? d?ng chip Qualcomm. Theo th?i gian, UMT d� ph�t tri?n th�nh m?t h? sinh th�i c�ng c? da nang v?i nhi?u module v� phi�n b?n kh�c nhau, h? tr? h?u h?t c�c thuong hi?u di?n tho?i Android ph? bi?n.</p>
+            <p>UMT ra đời vào khoảng năm 2014-2015 với mục tiêu ban đầu là hỗ trợ mở khóa các điện thoại Samsung và các thiết bị sử dụng chip Qualcomm. Theo thời gian, UMT đã phát triển thành một hệ sinh thái công cụ đa năng với nhiều module và phiên bản khác nhau, hỗ trợ hầu hết các thương hiệu điện thoại Android phổ biến.</p>
 
-            <h3>L?ch s? ph�t tri?n UMT</h3>
+            <h3>Lịch sử phát triển UMT</h3>
             <ul>
-                <li><strong>2014-2015:</strong> Ra m?t UMT Dongle phi�n b?n d?u ti�n</li>
-                <li><strong>2016:</strong> Th�m h? tr? Samsung, Qualcomm m? r?ng</li>
-                <li><strong>2017:</strong> Ra m?t UMT Pro v?i nhi?u t�nh nang n�ng cao</li>
-                <li><strong>2018:</strong> T�ch h?p QcFire module cho Qualcomm</li>
-                <li><strong>2019-2020:</strong> Th�m h? tr? Xiaomi, Oppo, Vivo</li>
-                <li><strong>2021-2023:</strong> C?p nh?t li�n t?c cho model m?i, chip m?i</li>
-                <li><strong>2024-2026:</strong> UMT v8.x v?i giao di?n m?i, h? tr? Android 14/15</li>
+                <li><strong>2014-2015:</strong> Ra mắt UMT Dongle phiên bản đầu tiên</li>
+                <li><strong>2016:</strong> Thêm hỗ trợ Samsung, Qualcomm mở rộng</li>
+                <li><strong>2017:</strong> Ra mắt UMT Pro với nhiều tính năng nâng cao</li>
+                <li><strong>2018:</strong> Tích hợp QcFire module cho Qualcomm</li>
+                <li><strong>2019-2020:</strong> Thêm hỗ trợ Xiaomi, Oppo, Vivo</li>
+                <li><strong>2021-2023:</strong> Cập nhật liên tục cho model mới, chip mới</li>
+                <li><strong>2024-2026:</strong> UMT v8.x với giao diện mới, hỗ trợ Android 14/15</li>
             </ul>
 
             <div class="info-box">
-                <h5><i class="fas fa-info-circle me-2"></i>UMT Dongle ho?t d?ng nhu th? n�o?</h5>
-                <p>UMT Dongle l� m?t thi?t b? USB nh? g?n, khi c?m v�o m�y t�nh s? x�c th?c b?n quy?n v� cho ph�p s? d?ng ph?n m?m UMT. Ph?n m?m UMT giao ti?p v?i di?n tho?i th�ng qua c�c ch? d? d?c bi?t nhu:</p>
+                <h5><i class="fas fa-info-circle me-2"></i>UMT Dongle hoạt động như thế nào?</h5>
+                <p>UMT Dongle là một thiết bị USB nhỏ gọn, khi cắm vào máy tính sẽ xác thực bản quyền và cho phép sử dụng phần mềm UMT. Phần mềm UMT giao tiếp với điện thoại thông qua các chế độ đặc biệt như:</p>
                 <ul class="mb-0">
                     <li><strong>Download Mode:</strong> Cho Samsung</li>
                     <li><strong>EDL Mode (9008):</strong> Cho Qualcomm</li>
                     <li><strong>BROM Mode:</strong> Cho MediaTek</li>
-                    <li><strong>ADB/Fastboot:</strong> Khi d� b?t USB Debugging</li>
+                    <li><strong>ADB/Fastboot:</strong> Khi đã bật USB Debugging</li>
                 </ul>
             </div>
 
-            <!-- Ph?n 2 -->
-            <h2 id="cac-phien-ban"><i class="fas fa-layer-group me-2"></i>2. C�c Phi�n B?n V� Module UMT</h2>
+            <!-- Phần 2 -->
+            <h2 id="cac-phien-ban"><i class="fas fa-layer-group me-2"></i>2. Các Phiên Bản Và Module UMT</h2>
 
-            <p>UMT c� nhi?u phi�n b?n v� module b? sung, m?i lo?i t?p trung v�o m?t nh�m thi?t b? ho?c ch?c nang c? th?:</p>
+            <p>UMT có nhiều phiên bản và module bổ sung, mỗi loại tập trung vào một nhóm thiết bị hoặc chức năng cụ thể:</p>
 
             <div class="module-card">
                 <h4><i class="fas fa-usb text-danger me-2"></i>UMT Dongle (Original)</h4>
-                <p><strong>M� t?:</strong> Phi�n b?n co b?n, dongle USB g?c</p>
+                <p><strong>Mô tả:</strong> Phiên bản cơ bản, dongle USB gốc</p>
                 <ul>
-                    <li><strong>T�nh nang:</strong> Samsung FRP, flash, unlock co b?n</li>
-                    <li><strong>Gi�:</strong> ~$45-55 USD (1.1-1.4 tri?u VND)</li>
-                    <li><strong>Ph� h?p:</strong> Ngu?i m?i b?t d?u, l�m Samsung l� ch�nh</li>
+                    <li><strong>Tính năng:</strong> Samsung FRP, flash, unlock cơ bản</li>
+                    <li><strong>Giá:</strong> ~$45-55 USD (1.1-1.4 triệu VND)</li>
+                    <li><strong>Phù hợp:</strong> Người mới bắt đầu, làm Samsung là chính</li>
                 </ul>
             </div>
 
             <div class="module-card">
                 <h4><i class="fas fa-star text-warning me-2"></i>UMT Pro</h4>
-                <p><strong>M� t?:</strong> Phi�n b?n n�ng cao v?i d?y d? t�nh nang</p>
+                <p><strong>Mô tả:</strong> Phiên bản nâng cao với đầy đủ tính năng</p>
                 <ul>
-                    <li><strong>T�nh nang:</strong> T?t c? t�nh nang UMT + th�m nhi?u h�ng</li>
-                    <li><strong>Gi�:</strong> ~$60-70 USD (1.5-1.8 tri?u VND)</li>
-                    <li><strong>Khuy?n ngh?:</strong> Cho th? chuy�n nghi?p</li>
+                    <li><strong>Tính năng:</strong> Tất cả tính năng UMT + thêm nhiều hãng</li>
+                    <li><strong>Giá:</strong> ~$60-70 USD (1.5-1.8 triệu VND)</li>
+                    <li><strong>Khuyến nghị:</strong> Cho thợ chuyên nghiệp</li>
                 </ul>
             </div>
 
             <div class="module-card">
                 <h4><i class="fas fa-fire text-primary me-2"></i>QcFire Module</h4>
-                <p><strong>M� t?:</strong> Module chuy�n bi?t cho chip Qualcomm</p>
+                <p><strong>Mô tả:</strong> Module chuyên biệt cho chip Qualcomm</p>
                 <ul>
-                    <li><strong>T�nh nang:</strong> EDL flash, FRP bypass Qualcomm, read/write QCN</li>
-                    <li><strong>Y�u c?u:</strong> C?n c� UMT Dongle + mua th�m QcFire</li>
-                    <li><strong>Gi�:</strong> ~$25-30 USD th�m</li>
+                    <li><strong>Tính năng:</strong> EDL flash, FRP bypass Qualcomm, read/write QCN</li>
+                    <li><strong>Yêu cầu:</strong> Cần có UMT Dongle + mua thêm QcFire</li>
+                    <li><strong>Giá:</strong> ~$25-30 USD thêm</li>
                 </ul>
             </div>
 
             <div class="module-card">
                 <h4><i class="fas fa-mobile-alt me-2"></i>UMT GSM Module</h4>
-                <p><strong>M� t?:</strong> Module m? r?ng cho c�c h�ng kh�c</p>
+                <p><strong>Mô tả:</strong> Module mở rộng cho các hãng khác</p>
                 <ul>
-                    <li><strong>H? tr?:</strong> Huawei, LG, HTC, Motorola, v� h�ng kh�c</li>
-                    <li><strong>Luu �:</strong> M?t s? module c?n mua activation ri�ng</li>
+                    <li><strong>Hỗ trợ:</strong> Huawei, LG, HTC, Motorola, và hãng khác</li>
+                    <li><strong>Lưu ý:</strong> Một số module cần mua activation riêng</li>
                 </ul>
             </div>
 
             <div class="module-card">
                 <h4><i class="fas fa-microchip me-2"></i>Ultimate MTK Tool</h4>
-                <p><strong>M� t?:</strong> Ph?n m?m ri�ng cho MediaTek</p>
+                <p><strong>Mô tả:</strong> Phần mềm riêng cho MediaTek</p>
                 <ul>
-                    <li><strong>T�nh nang:</strong> Flash, FRP, format cho di?n tho?i chip MTK</li>
-                    <li><strong>Tuong th�ch:</strong> Ho?t d?ng v?i UMT Dongle</li>
+                    <li><strong>Tính năng:</strong> Flash, FRP, format cho điện thoại chip MTK</li>
+                    <li><strong>Tương thích:</strong> Hoạt động với UMT Dongle</li>
                 </ul>
             </div>
 
-            <!-- Ph?n 3 -->
-            <h2 id="tinh-nang"><i class="fas fa-star me-2"></i>3. T�nh Nang Chi Ti?t C?a UMT Dongle</h2>
+            <!-- Phần 3 -->
+            <h2 id="tinh-nang"><i class="fas fa-star me-2"></i>3. Tính Năng Chi Tiết Của UMT Dongle</h2>
 
-            <h3>3.1. T�nh nang cho Samsung (Th? m?nh)</h3>
+            <h3>3.1. Tính năng cho Samsung (Thế mạnh)</h3>
             <div class="feature-card">
                 <ul class="mb-0">
-                    <li><strong>FRP Bypass:</strong> X�a Google Account - h? tr? nhi?u method</li>
+                    <li><strong>FRP Bypass:</strong> Xóa Google Account - hỗ trợ nhiều method</li>
                     <li><strong>Flash Firmware:</strong> Flash qua Download Mode</li>
-                    <li><strong>IMEI Repair:</strong> S?a IMEI b? m?t/h?ng (Qualcomm Samsung)</li>
-                    <li><strong>Network Unlock:</strong> M? m?ng Samsung lock</li>
-                    <li><strong>Pattern/PIN Remove:</strong> X�a m?t kh?u m�n h�nh</li>
-                    <li><strong>Knox Remove:</strong> X�a Knox warranty bit (m?t s? model)</li>
-                    <li><strong>EFS Backup/Restore:</strong> Sao luu/ph?c h?i EFS</li>
+                    <li><strong>IMEI Repair:</strong> Sửa IMEI bị mất/hỏng (Qualcomm Samsung)</li>
+                    <li><strong>Network Unlock:</strong> Mở mạng Samsung lock</li>
+                    <li><strong>Pattern/PIN Remove:</strong> Xóa mật khẩu màn hình</li>
+                    <li><strong>Knox Remove:</strong> Xóa Knox warranty bit (một số model)</li>
+                    <li><strong>EFS Backup/Restore:</strong> Sao lưu/phục hồi EFS</li>
                 </ul>
             </div>
 
-            <h3>3.2. T�nh nang cho Xiaomi/Redmi/POCO</h3>
+            <h3>3.2. Tính năng cho Xiaomi/Redmi/POCO</h3>
             <div class="feature-card">
                 <ul class="mb-0">
-                    <li><strong>Mi Account Bypass:</strong> Bypass t�i kho?n Mi (m?t s? model)</li>
-                    <li><strong>FRP Bypass:</strong> X�a Google Account</li>
+                    <li><strong>Mi Account Bypass:</strong> Bypass tài khoản Mi (một số model)</li>
+                    <li><strong>FRP Bypass:</strong> Xóa Google Account</li>
                     <li><strong>EDL Flash:</strong> Flash firmware qua EDL Mode (Qualcomm)</li>
                     <li><strong>Fastboot Flash:</strong> Flash qua Fastboot</li>
-                    <li><strong>IMEI Repair:</strong> S?a IMEI Xiaomi chip Qualcomm</li>
-                    <li><strong>Luu �:</strong> HyperOS m?i c� th? c?n tool kh�c</li>
+                    <li><strong>IMEI Repair:</strong> Sửa IMEI Xiaomi chip Qualcomm</li>
+                    <li><strong>Lưu ý:</strong> HyperOS mới có thể cần tool khác</li>
                 </ul>
             </div>
 
-            <h3>3.3. T�nh nang cho Oppo/Vivo/Realme</h3>
+            <h3>3.3. Tính năng cho Oppo/Vivo/Realme</h3>
             <div class="feature-card">
                 <ul class="mb-0">
-                    <li><strong>FRP Bypass:</strong> X�a Google qua EDL/BROM Mode</li>
-                    <li><strong>Pattern Remove:</strong> X�a kh�a m�n h�nh</li>
-                    <li><strong>Flash Firmware:</strong> Flash qua ch? d? ph� h?p</li>
-                    <li><strong>Demo Remove:</strong> X�a ch? d? demo trung b�y</li>
-                    <li><strong>ColorOS/Funtouch Account:</strong> M?t s? model h? tr?</li>
+                    <li><strong>FRP Bypass:</strong> Xóa Google qua EDL/BROM Mode</li>
+                    <li><strong>Pattern Remove:</strong> Xóa khóa màn hình</li>
+                    <li><strong>Flash Firmware:</strong> Flash qua chế độ phù hợp</li>
+                    <li><strong>Demo Remove:</strong> Xóa chế độ demo trưng bày</li>
+                    <li><strong>ColorOS/Funtouch Account:</strong> Một số model hỗ trợ</li>
                 </ul>
             </div>
 
-            <h3>3.4. T�nh nang QcFire (Qualcomm)</h3>
+            <h3>3.4. Tính năng QcFire (Qualcomm)</h3>
             <div class="feature-card">
                 <ul class="mb-0">
                     <li><strong>EDL Flash:</strong> Flash firmware qua Emergency Download Mode</li>
-                    <li><strong>FRP Reset:</strong> X�a FRP partition</li>
-                    <li><strong>Write QCN:</strong> Ghi file QCN d? s?a IMEI, baseband</li>
-                    <li><strong>Read/Write NV:</strong> �?c/ghi NV items</li>
-                    <li><strong>Unlock Bootloader:</strong> M? bootloader m?t s? model</li>
+                    <li><strong>FRP Reset:</strong> Xóa FRP partition</li>
+                    <li><strong>Write QCN:</strong> Ghi file QCN để sửa IMEI, baseband</li>
+                    <li><strong>Read/Write NV:</strong> Đọc/ghi NV items</li>
+                    <li><strong>Unlock Bootloader:</strong> Mở bootloader một số model</li>
                     <li><strong>Firehose:</strong> Load firehose programmer cho EDL</li>
                 </ul>
             </div>
 
-            <!-- Ph?n 4 -->
-            <h2 id="thiet-bi-ho-tro"><i class="fas fa-mobile-alt me-2"></i>4. Danh S�ch Thi?t B? H? Tr?</h2>
+            <!-- Phần 4 -->
+            <h2 id="thiet-bi-ho-tro"><i class="fas fa-mobile-alt me-2"></i>4. Danh Sách Thiết Bị Hỗ Trợ</h2>
 
             <table class="table table-custom">
                 <thead>
                     <tr>
-                        <th>Thuong hi?u</th>
-                        <th>M?c d? h? tr?</th>
-                        <th>T�nh nang ch�nh</th>
-                        <th>Module c?n</th>
+                        <th>Thương hiệu</th>
+                        <th>Mức độ hỗ trợ</th>
+                        <th>Tính năng chính</th>
+                        <th>Module cần</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -367,7 +367,7 @@ $canonical_url = "https://www.unlocktool.us/articles/141-umt-dongle-la-gi.php";
                     <tr>
                         <td><strong>Huawei/Honor</strong></td>
                         <td><span class="text-warning"><i class="fas fa-star"></i><i class="fas fa-star"></i></span></td>
-                        <td>FRP model cu</td>
+                        <td>FRP model cũ</td>
                         <td>GSM Module</td>
                     </tr>
                     <tr>
@@ -384,14 +384,14 @@ $canonical_url = "https://www.unlocktool.us/articles/141-umt-dongle-la-gi.php";
                     </tr>
                     <tr>
                         <td><strong>iPhone</strong></td>
-                        <td><span class="text-danger">Kh�ng h? tr?</span></td>
+                        <td><span class="text-danger">Không hỗ trợ</span></td>
                         <td>-</td>
-                        <td>D�ng UnlockTool</td>
+                        <td>Dùng UnlockTool</td>
                     </tr>
                 </tbody>
             </table>
 
-            <h3>Samsung model h? tr? t?t</h3>
+            <h3>Samsung model hỗ trợ tốt</h3>
             <div class="mb-3">
                 <span class="brand-badge">Galaxy S24</span>
                 <span class="brand-badge">Galaxy S23</span>
@@ -406,87 +406,87 @@ $canonical_url = "https://www.unlocktool.us/articles/141-umt-dongle-la-gi.php";
                 <span class="brand-badge">Galaxy Z Flip</span>
             </div>
 
-            <!-- Ph?n 5 -->
-            <h2 id="huong-dan-cai-dat"><i class="fas fa-download me-2"></i>5. Hu?ng D?n C�i �?t UMT Dongle</h2>
+            <!-- Phần 5 -->
+            <h2 id="huong-dan-cai-dat"><i class="fas fa-download me-2"></i>5. Hướng Dẫn Cài Đặt UMT Dongle</h2>
 
-            <h3>Y�u c?u h? th?ng</h3>
+            <h3>Yêu cầu hệ thống</h3>
             <ul>
-                <li><strong>H? di?u h�nh:</strong> Windows 7/8/10/11 (khuy?n ngh? Win 10/11 64-bit)</li>
-                <li><strong>RAM:</strong> T?i thi?u 4GB (khuy?n ngh? 8GB)</li>
-                <li><strong>? c?ng:</strong> Tr?ng �t nh?t 5GB</li>
-                <li><strong>USB:</strong> C?ng USB 2.0/3.0</li>
-                <li><strong>Internet:</strong> C?n d? download update</li>
-                <li><strong>.NET Framework:</strong> 4.5 tr? l�n</li>
+                <li><strong>Hệ điều hành:</strong> Windows 7/8/10/11 (khuyến nghị Win 10/11 64-bit)</li>
+                <li><strong>RAM:</strong> Tối thiểu 4GB (khuyến nghị 8GB)</li>
+                <li><strong>Ổ cứng:</strong> Trống ít nhất 5GB</li>
+                <li><strong>USB:</strong> Cổng USB 2.0/3.0</li>
+                <li><strong>Internet:</strong> Cần để download update</li>
+                <li><strong>.NET Framework:</strong> 4.5 trở lên</li>
             </ul>
 
-            <h3>C�c bu?c c�i d?t</h3>
+            <h3>Các bước cài đặt</h3>
 
             <div class="step-box">
-                <h5><strong>Bu?c 1:</strong> T?i ph?n m?m UMT</h5>
-                <p class="mb-0">T?i UMT Support Suite t? website ch�nh th?c ho?c di?n d�n GSMHosting. Luu � t?i d�ng phi�n b?n m?i nh?t.</p>
+                <h5><strong>Bước 1:</strong> Tải phần mềm UMT</h5>
+                <p class="mb-0">Tải UMT Support Suite từ website chính thức hoặc diễn đàn GSMHosting. Lưu ý tải đúng phiên bản mới nhất.</p>
             </div>
 
             <div class="step-box">
-                <h5><strong>Bu?c 2:</strong> T?t Antivirus</h5>
-                <p class="mb-0">T?t Windows Defender v� c�c ph?n m?m antivirus. UMT c� th? b? nh?n nh?m l� ph?n m?m d?c h?i.</p>
+                <h5><strong>Bước 2:</strong> Tắt Antivirus</h5>
+                <p class="mb-0">Tắt Windows Defender và các phần mềm antivirus. UMT có thể bị nhận nhầm là phần mềm độc hại.</p>
             </div>
 
             <div class="step-box">
-                <h5><strong>Bu?c 3:</strong> C?m UMT Dongle</h5>
+                <h5><strong>Bước 3:</strong> Cắm UMT Dongle</h5>
                 <ul class="mb-0">
-                    <li>C?m UMT Dongle v�o c?ng USB</li>
-                    <li>�?i Windows nh?n dongle v� c�i driver t? d?ng</li>
-                    <li>Ki?m tra Device Manager d? d?m b?o dongle du?c nh?n</li>
+                    <li>Cắm UMT Dongle vào cổng USB</li>
+                    <li>Đợi Windows nhận dongle và cài driver tự động</li>
+                    <li>Kiểm tra Device Manager để đảm bảo dongle được nhận</li>
                 </ul>
             </div>
 
             <div class="step-box">
-                <h5><strong>Bu?c 4:</strong> C�i d?t ph?n m?m</h5>
+                <h5><strong>Bước 4:</strong> Cài đặt phần mềm</h5>
                 <ul class="mb-0">
-                    <li>Gi?i n�n file d� t?i v�o thu m?c (kh�ng c� d?u ti?ng Vi?t)</li>
-                    <li>Ch?y file Setup.exe v?i quy?n Administrator</li>
-                    <li>L�m theo hu?ng d?n c�i d?t</li>
-                    <li>Kh?i d?ng l?i m�y t�nh sau khi c�i xong</li>
+                    <li>Giải nén file đã tải vào thư mục (không có dấu tiếng Việt)</li>
+                    <li>Chạy file Setup.exe với quyền Administrator</li>
+                    <li>Làm theo hướng dẫn cài đặt</li>
+                    <li>Khởi động lại máy tính sau khi cài xong</li>
                 </ul>
             </div>
 
             <div class="step-box">
-                <h5><strong>Bu?c 5:</strong> C�i driver di?n tho?i</h5>
-                <p class="mb-0">C�i d?t driver c?n thi?t: Samsung USB Driver, Qualcomm 9008 Driver, MediaTek Driver. UMT c� th? t? c�i m?t s? driver th�ng qua menu Driver.</p>
+                <h5><strong>Bước 5:</strong> Cài driver điện thoại</h5>
+                <p class="mb-0">Cài đặt driver cần thiết: Samsung USB Driver, Qualcomm 9008 Driver, MediaTek Driver. UMT có thể tự cài một số driver thông qua menu Driver.</p>
             </div>
 
-            <!-- Ph?n 6 -->
-            <h2 id="huong-dan-su-dung"><i class="fas fa-play-circle me-2"></i>6. Hu?ng D?n S? D?ng UMT</h2>
+            <!-- Phần 6 -->
+            <h2 id="huong-dan-su-dung"><i class="fas fa-play-circle me-2"></i>6. Hướng Dẫn Sử Dụng UMT</h2>
 
             <h3>6.1. Bypass FRP Samsung</h3>
             <div class="step-box">
                 <ol>
-                    <li>M? UMT ? Ch?n tab <strong>Samsung</strong></li>
-                    <li>Ch?n phuong ph�p: ADB, MTP, ho?c Download Mode</li>
-                    <li>K?t n?i Samsung v?i m�y t�nh:
+                    <li>Mở UMT → Chọn tab <strong>Samsung</strong></li>
+                    <li>Chọn phương pháp: ADB, MTP, hoặc Download Mode</li>
+                    <li>Kết nối Samsung với máy tính:
                         <ul>
-                            <li><strong>ADB Mode:</strong> C?n b?t USB Debugging (kh� khi FRP)</li>
-                            <li><strong>Download Mode:</strong> T?t m�y ? gi? Vol Down + Vol Up ? c?m c�p</li>
+                            <li><strong>ADB Mode:</strong> Cần bật USB Debugging (khó khi FRP)</li>
+                            <li><strong>Download Mode:</strong> Tắt máy → giữ Vol Down + Vol Up → cắm cáp</li>
                         </ul>
                     </li>
-                    <li>Click <strong>Remove FRP</strong> ho?c <strong>Reset FRP</strong></li>
-                    <li>�?i qu� tr�nh ho�n t?t v� kh?i d?ng l?i m�y</li>
+                    <li>Click <strong>Remove FRP</strong> hoặc <strong>Reset FRP</strong></li>
+                    <li>Đợi quá trình hoàn tất và khởi động lại máy</li>
                 </ol>
             </div>
 
-            <h3>6.2. Bypass FRP v?i QcFire (Qualcomm)</h3>
+            <h3>6.2. Bypass FRP với QcFire (Qualcomm)</h3>
             <div class="step-box">
                 <ol>
-                    <li>M? UMT ? Ch?n <strong>QcFire</strong></li>
-                    <li>Ch?n h�ng v� model di?n tho?i</li>
-                    <li>�ua di?n tho?i v�o <strong>EDL Mode (9008)</strong>:
+                    <li>Mở UMT → Chọn <strong>QcFire</strong></li>
+                    <li>Chọn hãng và model điện thoại</li>
+                    <li>Đưa điện thoại vào <strong>EDL Mode (9008)</strong>:
                         <ul>
-                            <li>T?t m�y ho�n to�n</li>
-                            <li>Gi? Vol Up/Down (t�y model) v� c?m c�p</li>
-                            <li>Ho?c d�ng test point n?u c�</li>
+                            <li>Tắt máy hoàn toàn</li>
+                            <li>Giữ Vol Up/Down (tùy model) và cắm cáp</li>
+                            <li>Hoặc dùng test point nếu có</li>
                         </ul>
                     </li>
-                    <li>Ch?n firehose programmer ph� h?p</li>
+                    <li>Chọn firehose programmer phù hợp</li>
                     <li>Click <strong>FRP Reset</strong></li>
                 </ol>
             </div>
@@ -494,107 +494,107 @@ $canonical_url = "https://www.unlocktool.us/articles/141-umt-dongle-la-gi.php";
             <h3>6.3. Flash Firmware Samsung</h3>
             <div class="step-box">
                 <ol>
-                    <li>T?i firmware Samsung t? Sammobile, SamFw...</li>
-                    <li>Gi?i n�n firmware</li>
-                    <li>M? UMT ? Samsung ? Flash</li>
-                    <li>Load c�c file: BL, AP, CP, CSC</li>
-                    <li>�ua Samsung v�o Download Mode</li>
-                    <li>Click <strong>Flash</strong> v� d?i ho�n t?t</li>
+                    <li>Tải firmware Samsung từ Sammobile, SamFw...</li>
+                    <li>Giải nén firmware</li>
+                    <li>Mở UMT → Samsung → Flash</li>
+                    <li>Load các file: BL, AP, CP, CSC</li>
+                    <li>Đưa Samsung vào Download Mode</li>
+                    <li>Click <strong>Flash</strong> và đợi hoàn tất</li>
                 </ol>
             </div>
 
-            <!-- Ph?n 7 -->
-            <h2 id="gia-ca"><i class="fas fa-dollar-sign me-2"></i>7. Gi� C? V� C�ch Mua UMT Dongle</h2>
+            <!-- Phần 7 -->
+            <h2 id="gia-ca"><i class="fas fa-dollar-sign me-2"></i>7. Giá Cả Và Cách Mua UMT Dongle</h2>
 
             <table class="table table-custom">
                 <thead>
                     <tr>
-                        <th>S?n ph?m</th>
-                        <th>Gi� USD</th>
-                        <th>Gi� VND (u?c t�nh)</th>
-                        <th>Ghi ch�</th>
+                        <th>Sản phẩm</th>
+                        <th>Giá USD</th>
+                        <th>Giá VND (ước tính)</th>
+                        <th>Ghi chú</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
                         <td><strong>UMT Dongle</strong></td>
                         <td>$45 - $55</td>
-                        <td>1.100.000 - 1.400.000d</td>
-                        <td>Phi�n b?n co b?n</td>
+                        <td>1.100.000 - 1.400.000đ</td>
+                        <td>Phiên bản cơ bản</td>
                     </tr>
                     <tr>
                         <td><strong>UMT Pro</strong></td>
                         <td>$60 - $70</td>
-                        <td>1.500.000 - 1.800.000d</td>
-                        <td>�?y d? t�nh nang</td>
+                        <td>1.500.000 - 1.800.000đ</td>
+                        <td>Đầy đủ tính năng</td>
                     </tr>
                     <tr>
                         <td><strong>QcFire Module</strong></td>
                         <td>$25 - $30</td>
-                        <td>600.000 - 750.000d</td>
-                        <td>Th�m cho Qualcomm</td>
+                        <td>600.000 - 750.000đ</td>
+                        <td>Thêm cho Qualcomm</td>
                     </tr>
                     <tr>
                         <td><strong>UMT Pro + QcFire</strong></td>
                         <td>$80 - $95</td>
-                        <td>2.000.000 - 2.400.000d</td>
-                        <td>Combo d?y d?</td>
+                        <td>2.000.000 - 2.400.000đ</td>
+                        <td>Combo đầy đủ</td>
                     </tr>
                 </tbody>
             </table>
 
             <div class="success-box">
-                <h5><i class="fas fa-check-circle me-2"></i>Uu di?m v? gi� c?a UMT</h5>
-                <p class="mb-0"><strong>Kh�ng c?n gia h?n h�ng nam!</strong> Kh�c v?i nhi?u tool kh�c (MRT, Miracle...), UMT kh�ng y�u c?u ph� renewal. Mua m?t l?n, s? d?ng vinh vi?n (ch? c?n dongle c�n ho?t d?ng).</p>
+                <h5><i class="fas fa-check-circle me-2"></i>Ưu điểm về giá của UMT</h5>
+                <p class="mb-0"><strong>Không cần gia hạn hàng năm!</strong> Khác với nhiều tool khác (MRT, Miracle...), UMT không yêu cầu phí renewal. Mua một lần, sử dụng vĩnh viễn (chỉ cần dongle còn hoạt động).</p>
             </div>
 
-            <h3>C�ch mua UMT Dongle</h3>
+            <h3>Cách mua UMT Dongle</h3>
             <ul>
-                <li><strong>Website ch�nh th?c:</strong> ultimatemultitool.com</li>
-                <li><strong>�?i l� Vi?t Nam:</strong> C�c shop b�n box/tool di?n tho?i</li>
-                <li><strong>Thuetaikhoan.net:</strong> Li�n h? d? du?c tu v?n v� mua v?i gi� t?t</li>
-                <li><strong>Shopee/Lazada:</strong> C?n th?n h�ng gi?, mua t? shop uy t�n</li>
+                <li><strong>Website chính thức:</strong> ultimatemultitool.com</li>
+                <li><strong>Đại lý Việt Nam:</strong> Các shop bán box/tool điện thoại</li>
+                <li><strong>Thuetaikhoan.net:</strong> Liên hệ để được tư vấn và mua với giá tốt</li>
+                <li><strong>Shopee/Lazada:</strong> Cẩn thận hàng giả, mua từ shop uy tín</li>
             </ul>
 
-            <!-- Ph?n 8 -->
-            <h2 id="uu-nhuoc-diem"><i class="fas fa-balance-scale me-2"></i>8. Uu Nhu?c �i?m C?a UMT Dongle</h2>
+            <!-- Phần 8 -->
+            <h2 id="uu-nhuoc-diem"><i class="fas fa-balance-scale me-2"></i>8. Ưu Nhược Điểm Của UMT Dongle</h2>
 
             <div class="row">
                 <div class="col-md-6">
                     <div class="success-box">
-                        <h5><i class="fas fa-check-circle me-2"></i>Uu di?m</h5>
+                        <h5><i class="fas fa-check-circle me-2"></i>Ưu điểm</h5>
                         <ul class="mb-0">
-                            <li>Kh�ng c?n gia h?n h�ng nam</li>
-                            <li>Samsung support xu?t s?c</li>
-                            <li>Gi� v?a ph?i, c?nh tranh</li>
-                            <li>C?ng d?ng VN l?n, d? h? tr?</li>
-                            <li>C?p nh?t thu?ng xuy�n</li>
-                            <li>Giao di?n d? s? d?ng</li>
-                            <li>QcFire module r?t m?nh</li>
+                            <li>Không cần gia hạn hàng năm</li>
+                            <li>Samsung support xuất sắc</li>
+                            <li>Giá vừa phải, cạnh tranh</li>
+                            <li>Cộng đồng VN lớn, dễ hỗ trợ</li>
+                            <li>Cập nhật thường xuyên</li>
+                            <li>Giao diện dễ sử dụng</li>
+                            <li>QcFire module rất mạnh</li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="danger-box">
-                        <h5><i class="fas fa-times-circle me-2"></i>Nhu?c di?m</h5>
+                        <h5><i class="fas fa-times-circle me-2"></i>Nhược điểm</h5>
                         <ul class="mb-0">
-                            <li>Kh�ng h? tr? iPhone</li>
-                            <li>C?n mua module th�m cho d?y d?</li>
-                            <li>Dongle c� th? h?ng v?t l�</li>
-                            <li>Huawei m?i h? tr? h?n ch?</li>
-                            <li>M?t s? model c?n auth (tr? ph�)</li>
+                            <li>Không hỗ trợ iPhone</li>
+                            <li>Cần mua module thêm cho đầy đủ</li>
+                            <li>Dongle có thể hỏng vật lý</li>
+                            <li>Huawei mới hỗ trợ hạn chế</li>
+                            <li>Một số model cần auth (trả phí)</li>
                         </ul>
                     </div>
                 </div>
             </div>
 
-            <!-- Ph?n 9 -->
-            <h2 id="so-sanh"><i class="fas fa-exchange-alt me-2"></i>9. So S�nh UMT V?i C�c Tool Kh�c</h2>
+            <!-- Phần 9 -->
+            <h2 id="so-sanh"><i class="fas fa-exchange-alt me-2"></i>9. So Sánh UMT Với Các Tool Khác</h2>
 
             <table class="table table-custom">
                 <thead>
                     <tr>
-                        <th>Ti�u ch�</th>
+                        <th>Tiêu chí</th>
                         <th>UMT Dongle</th>
                         <th>UnlockTool</th>
                         <th>MRT Key</th>
@@ -602,22 +602,22 @@ $canonical_url = "https://www.unlocktool.us/articles/141-umt-dongle-la-gi.php";
                 </thead>
                 <tbody>
                     <tr>
-                        <td><strong>Lo?i</strong></td>
-                        <td>Dongle (ph?n c?ng)</td>
-                        <td>Ph?n m?m (thu�/mua)</td>
+                        <td><strong>Loại</strong></td>
+                        <td>Dongle (phần cứng)</td>
+                        <td>Phần mềm (thuê/mua)</td>
                         <td>Dongle/License</td>
                     </tr>
                     <tr>
-                        <td><strong>Gi�</strong></td>
-                        <td>$50-95 (1 l?n)</td>
-                        <td>8.000d/6h ho?c license</td>
+                        <td><strong>Giá</strong></td>
+                        <td>$50-95 (1 lần)</td>
+                        <td>8.000đ/6h hoặc license</td>
                         <td>$50-65 + renewal</td>
                     </tr>
                     <tr>
-                        <td><strong>Gia h?n</strong></td>
-                        <td class="text-success">Kh�ng c?n</td>
-                        <td>Thu� theo gi?</td>
-                        <td class="text-danger">H�ng nam</td>
+                        <td><strong>Gia hạn</strong></td>
+                        <td class="text-success">Không cần</td>
+                        <td>Thuê theo giờ</td>
+                        <td class="text-danger">Hàng năm</td>
                     </tr>
                     <tr>
                         <td><strong>iPhone</strong></td>
@@ -627,77 +627,77 @@ $canonical_url = "https://www.unlocktool.us/articles/141-umt-dongle-la-gi.php";
                     </tr>
                     <tr>
                         <td><strong>Samsung</strong></td>
-                        <td class="text-success"><i class="fas fa-check"></i> R?t t?t</td>
-                        <td class="text-success"><i class="fas fa-check"></i> R?t t?t</td>
-                        <td><i class="fas fa-minus"></i> H?n ch?</td>
+                        <td class="text-success"><i class="fas fa-check"></i> Rất tốt</td>
+                        <td class="text-success"><i class="fas fa-check"></i> Rất tốt</td>
+                        <td><i class="fas fa-minus"></i> Hạn chế</td>
                     </tr>
                     <tr>
                         <td><strong>Xiaomi</strong></td>
-                        <td><i class="fas fa-check"></i> T?t (c?n QcFire)</td>
-                        <td class="text-success"><i class="fas fa-check"></i> R?t t?t</td>
-                        <td><i class="fas fa-check"></i> Trung b�nh</td>
+                        <td><i class="fas fa-check"></i> Tốt (cần QcFire)</td>
+                        <td class="text-success"><i class="fas fa-check"></i> Rất tốt</td>
+                        <td><i class="fas fa-check"></i> Trung bình</td>
                     </tr>
                     <tr>
                         <td><strong>Meizu</strong></td>
-                        <td><i class="fas fa-minus"></i> H?n ch?</td>
-                        <td><i class="fas fa-check"></i> T?t</td>
-                        <td class="text-success"><i class="fas fa-check"></i> R?t t?t</td>
+                        <td><i class="fas fa-minus"></i> Hạn chế</td>
+                        <td><i class="fas fa-check"></i> Tốt</td>
+                        <td class="text-success"><i class="fas fa-check"></i> Rất tốt</td>
                     </tr>
                     <tr>
-                        <td><strong>Xu?t x?</strong></td>
-                        <td>Vi?t Nam</td>
-                        <td>Qu?c t?</td>
-                        <td>Trung Qu?c</td>
+                        <td><strong>Xuất xứ</strong></td>
+                        <td>Việt Nam</td>
+                        <td>Quốc tế</td>
+                        <td>Trung Quốc</td>
                     </tr>
                 </tbody>
             </table>
 
             <div class="compare-box">
-                <h4><i class="fas fa-crown me-2"></i>C?n Tool �a Nang Hon?</h4>
-                <p class="lead">UnlockTool h? tr? c? iPhone + Samsung + Android - Gi� ch? 8.000d/6h</p>
-                <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-tools me-2"></i>Thu� UnlockTool</a>
+                <h4><i class="fas fa-crown me-2"></i>Cần Tool Đa Năng Hơn?</h4>
+                <p class="lead">UnlockTool hỗ trợ cả iPhone + Samsung + Android - Giá chỉ 8.000đ/6h</p>
+                <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-tools me-2"></i>Thuê UnlockTool</a>
             </div>
 
-            <!-- Ph?n 10 -->
-            <h2 id="faq"><i class="fas fa-question-circle me-2"></i>10. FAQ - C�u H?i Thu?ng G?p</h2>
+            <!-- Phần 10 -->
+            <h2 id="faq"><i class="fas fa-question-circle me-2"></i>10. FAQ - Câu Hỏi Thường Gặp</h2>
 
             <div class="faq-item">
-                <h4>UMT Dongle c� h? tr? iPhone kh�ng?</h4>
-                <p>Kh�ng. UMT Dongle ch? h? tr? Android. N?u c?n bypass iCloud iPhone, h�y s? d?ng <a href="https://www.unlocktool.us/">UnlockTool</a>.</p>
+                <h4>UMT Dongle có hỗ trợ iPhone không?</h4>
+                <p>Không. UMT Dongle chỉ hỗ trợ Android. Nếu cần bypass iCloud iPhone, hãy sử dụng <a href="https://www.unlocktool.us/">UnlockTool</a>.</p>
             </div>
 
             <div class="faq-item">
-                <h4>UMT c� c?n gia h?n h�ng nam kh�ng?</h4>
-                <p>Kh�ng! ��y l� uu di?m l?n c?a UMT. Mua m?t l?n, s? d?ng vinh vi?n. Kh�ng c� ph� renewal.</p>
+                <h4>UMT có cần gia hạn hàng năm không?</h4>
+                <p>Không! Đây là ưu điểm lớn của UMT. Mua một lần, sử dụng vĩnh viễn. Không có phí renewal.</p>
             </div>
 
             <div class="faq-item">
                 <h4>UMT Dongle hay UMT Pro?</h4>
-                <p>N?u ch? l�m Samsung, UMT Dongle co b?n l� d?. N?u c?n l�m nhi?u h�ng (Oppo, Vivo, Xiaomi...), n�n mua UMT Pro + QcFire.</p>
+                <p>Nếu chỉ làm Samsung, UMT Dongle cơ bản là đủ. Nếu cần làm nhiều hãng (Oppo, Vivo, Xiaomi...), nên mua UMT Pro + QcFire.</p>
             </div>
 
             <div class="faq-item">
-                <h4>Dongle UMT h?ng th� sao?</h4>
-                <p>N?u dongle h?ng v?t l�, b?n c?n mua dongle m?i. Kh�ng c� c�ch kh�i ph?c. N�n b?o qu?n c?n th?n.</p>
+                <h4>Dongle UMT hỏng thì sao?</h4>
+                <p>Nếu dongle hỏng vật lý, bạn cần mua dongle mới. Không có cách khôi phục. Nên bảo quản cẩn thận.</p>
             </div>
 
             <div class="faq-item">
-                <h4>Mua UMT ? d�u uy t�n?</h4>
-                <p>Li�n h? <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a> d? du?c tu v?n mua UMT Dongle ch�nh h�ng v?i gi� t?t.</p>
+                <h4>Mua UMT ở đâu uy tín?</h4>
+                <p>Liên hệ <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a> để được tư vấn mua UMT Dongle chính hãng với giá tốt.</p>
             </div>
 
             <div class="faq-item">
-                <h4>UMT hay UnlockTool cho ngu?i m?i?</h4>
-                <p>N?u m?i b?t d?u v� chua ch?c c?n tool l�u d�i, n�n <strong>thu� UnlockTool</strong> (8.000d/6h) d? th? tru?c. N?u d� x�c d?nh l�m Samsung nhi?u v� l�u d�i, c� th? d?u tu mua UMT.</p>
+                <h4>UMT hay UnlockTool cho người mới?</h4>
+                <p>Nếu mới bắt đầu và chưa chắc cần tool lâu dài, nên <strong>thuê UnlockTool</strong> (8.000đ/6h) để thử trước. Nếu đã xác định làm Samsung nhiều và lâu dài, có thể đầu tư mua UMT.</p>
             </div>
 
-            <!-- CTA cu?i b�i -->
+            <!-- CTA cuối bài -->
             <div class="price-box">
-                <h3><i class="fas fa-tools me-2"></i>C?n Tool Ngay B�y Gi??</h3>
-                <p class="price">8.000d</p>
-                <p class="lead">/ 6 ti?ng - UnlockTool h? tr? iPhone + Samsung + Android</p>
+                <h3><i class="fas fa-tools me-2"></i>Cần Tool Ngay Bây Giờ?</h3>
+                <p class="price">8.000đ</p>
+                <p class="lead">/ 6 tiếng - UnlockTool hỗ trợ iPhone + Samsung + Android</p>
                 <div class="mt-4">
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg me-2 mb-2"><i class="fas fa-tools me-2"></i>Thu� UnlockTool</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg me-2 mb-2"><i class="fas fa-tools me-2"></i>Thuê UnlockTool</a>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg mb-2"><i class="fas fa-usb me-2"></i>Mua UMT Dongle</a>
                 </div>
             </div>
@@ -708,23 +708,23 @@ $canonical_url = "https://www.unlocktool.us/articles/141-umt-dongle-la-gi.php";
         <div class="col-lg-4">
             <div class="sticky-top" style="top:20px">
                 <div class="price-box mb-4">
-                    <h5><i class="fas fa-crown me-2"></i>Gi?i Ph�p Linh Ho?t</h5>
+                    <h5><i class="fas fa-crown me-2"></i>Giải Pháp Linh Hoạt</h5>
                     <p class="h2 fw-bold">UnlockTool</p>
-                    <p>8.000d / 6 ti?ng</p>
+                    <p>8.000đ / 6 tiếng</p>
                     <p class="small">iPhone + Samsung + Xiaomi + Oppo</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mb-2">Thu� UnlockTool</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mb-2">Thuê UnlockTool</a>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light w-100">Mua UMT Dongle</a>
                 </div>
 
                 <div class="card mb-4">
                     <div class="card-header" style="background:linear-gradient(135deg,#ff5722 0%,#e64a19 100%);color:#fff">
-                        <i class="fas fa-star me-2"></i>UMT Th? M?nh
+                        <i class="fas fa-star me-2"></i>UMT Thế Mạnh
                     </div>
                     <div class="card-body">
                         <ul class="list-unstyled mb-0">
-                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Samsung (xu?t s?c)</li>
-                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Kh�ng c?n gia h?n</li>
-                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>C?ng d?ng VN l?n</li>
+                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Samsung (xuất sắc)</li>
+                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Không cần gia hạn</li>
+                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Cộng đồng VN lớn</li>
                             <li><i class="fas fa-check text-success me-2"></i>QcFire cho Qualcomm</li>
                         </ul>
                     </div>
@@ -732,10 +732,10 @@ $canonical_url = "https://www.unlocktool.us/articles/141-umt-dongle-la-gi.php";
 
                 <div class="card">
                     <div class="card-header bg-primary text-white">
-                        <i class="fas fa-headset me-2"></i>C?n H? Tr??
+                        <i class="fas fa-headset me-2"></i>Cần Hỗ Trợ?
                     </div>
                     <div class="card-body">
-                        <p>Tu v?n mua UMT ho?c thu� UnlockTool:</p>
+                        <p>Tư vấn mua UMT hoặc thuê UnlockTool:</p>
                         <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-primary w-100">Thuetaikhoan.net</a>
                     </div>
                 </div>
@@ -751,7 +751,7 @@ $canonical_url = "https://www.unlocktool.us/articles/141-umt-dongle-la-gi.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -765,13 +765,13 @@ $canonical_url = "https://www.unlocktool.us/articles/141-umt-dongle-la-gi.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -779,15 +779,15 @@ $canonical_url = "https://www.unlocktool.us/articles/141-umt-dongle-la-gi.php";
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -800,7 +800,7 @@ $canonical_url = "https://www.unlocktool.us/articles/141-umt-dongle-la-gi.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -808,7 +808,7 @@ $canonical_url = "https://www.unlocktool.us/articles/141-umt-dongle-la-gi.php";
 </div>
 <footer class="bg-dark text-white py-4">
     <div class="container text-center">
-        <p class="mb-2">B�i vi?t du?c c?p nh?t: Th�ng 1/2026</p>
+        <p class="mb-2">Bài viết được cập nhật: Tháng 1/2026</p>
         <p>&copy; 2026 <a href="https://www.unlocktool.us/" class="text-white">UnlockTool.us</a> - <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
     </div>
 </footer>

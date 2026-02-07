@@ -1,7 +1,7 @@
-<?php
-$page_title = "N?p Credits UnlockTool 2026 - Hu?ng D?n Mua Credits Chi Ti?t | Gi� R?";
-$page_description = "Hu?ng d?n n?p credits UnlockTool chi ti?t nh?t 2026. Mua credits d? s? d?ng c�c t�nh nang cao c?p nhu IMEI repair, unlock m?ng, server bypass. Gi� r? t?i Thuetaikhoan.net";
-$page_keywords = "n?p credits unlocktool, mua credits unlocktool, unlocktool credits, credits unlocktool gi� r?, unlocktool server credits";
+﻿<?php
+$page_title = "Nạp Credits UnlockTool 2026 - Hướng Dẫn Mua Credits Chi Tiết | Giá Rẻ";
+$page_description = "Hướng dẫn nạp credits UnlockTool chi tiết nhất 2026. Mua credits để sử dụng các tính năng cao cấp như IMEI repair, unlock mạng, server bypass. Giá rẻ tại Thuetaikhoan.net";
+$page_keywords = "nạp credits unlocktool, mua credits unlocktool, unlocktool credits, credits unlocktool giá rẻ, unlocktool server credits";
 $canonical_url = "https://www.unlocktool.us/articles/99-nap-credits-unlocktool.php";
 ?>
 <!DOCTYPE html>
@@ -18,7 +18,8 @@ $canonical_url = "https://www.unlocktool.us/articles/99-nap-credits-unlocktool.p
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">\n    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
@@ -31,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/99-nap-credits-unlocktool.p
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hu?ng d?n k? thu?t">
+    <meta property="article:section" content="Hướng dẫn kỹ thuật">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="M? kh�a di?n tho?i">
+    <meta property="article:tag" content="Mở khóa điện thoại">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -49,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/99-nap-credits-unlocktool.p
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -60,9 +61,9 @@ $canonical_url = "https://www.unlocktool.us/articles/99-nap-credits-unlocktool.p
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"Credits UnlockTool d�ng d? l�m g�?","acceptedAnswer":{"@type":"Answer","text":"Credits UnlockTool d�ng cho c�c t�nh nang cao c?p nhu IMEI repair Samsung/iPhone, unlock m?ng qua server, bypass iCloud qua server, check IMEI chi ti?t. M?i thao t�c ti�u t?n m?t s? credits nh?t d?nh."}},
-        {"@type":"Question","name":"Mua credits UnlockTool ? d�u gi� r??","acceptedAnswer":{"@type":"Answer","text":"Mua credits UnlockTool gi� r? nh?t t?i Thuetaikhoan.net. Gi� ch? t? 5.000d/credit, h? tr? thanh to�n qua nhi?u h�nh th?c."}},
-        {"@type":"Question","name":"1 credit b?ng bao nhi�u ti?n?","acceptedAnswer":{"@type":"Answer","text":"Gi� credits thay d?i t�y nh� cung c?p v� s? lu?ng mua. T?i Thuetaikhoan.net, gi� t? 5.000d/credit cho s? lu?ng nh?, v� c� chi?t kh?u khi mua s? lu?ng l?n."}}
+        {"@type":"Question","name":"Credits UnlockTool dùng để làm gì?","acceptedAnswer":{"@type":"Answer","text":"Credits UnlockTool dùng cho các tính năng cao cấp như IMEI repair Samsung/iPhone, unlock mạng qua server, bypass iCloud qua server, check IMEI chi tiết. Mỗi thao tác tiêu tốn một số credits nhất định."}},
+        {"@type":"Question","name":"Mua credits UnlockTool ở đâu giá rẻ?","acceptedAnswer":{"@type":"Answer","text":"Mua credits UnlockTool giá rẻ nhất tại Thuetaikhoan.net. Giá chỉ từ 5.000đ/credit, hỗ trợ thanh toán qua nhiều hình thức."}},
+        {"@type":"Question","name":"1 credit bằng bao nhiêu tiền?","acceptedAnswer":{"@type":"Answer","text":"Giá credits thay đổi tùy nhà cung cấp và số lượng mua. Tại Thuetaikhoan.net, giá từ 5.000đ/credit cho số lượng nhỏ, và có chiết khấu khi mua số lượng lớn."}}
     ]}
     </script>
     
@@ -138,7 +139,7 @@ $canonical_url = "https://www.unlocktool.us/articles/99-nap-credits-unlocktool.p
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? kh�a di?n tho?i",
+        "name": "Dịch vụ mở khóa điện thoại",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -155,8 +156,8 @@ $canonical_url = "https://www.unlocktool.us/articles/99-nap-credits-unlocktool.p
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -166,10 +167,10 @@ $canonical_url = "https://www.unlocktool.us/articles/99-nap-credits-unlocktool.p
         <div class="row align-items-center">
             <div class="col-lg-8">
                 <h1><i class="fas fa-coins me-3"></i><?php echo $page_title; ?></h1>
-                <p class="lead mb-4">Hu?ng d?n n?p credits UnlockTool d? s? d?ng c�c t�nh nang cao c?p nhu IMEI repair, unlock m?ng, server bypass. Mua credits gi� r? t?i Thuetaikhoan.net!</p>
+                <p class="lead mb-4">Hướng dẫn nạp credits UnlockTool để sử dụng các tính năng cao cấp như IMEI repair, unlock mạng, server bypass. Mua credits giá rẻ tại Thuetaikhoan.net!</p>
                 <div class="d-flex flex-wrap gap-3">
-                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-coins me-2"></i>Mua Credits Gi� R?</a>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thu� Tool 8K/6H</a>
+                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-coins me-2"></i>Mua Credits Giá Rẻ</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê Tool 8K/6H</a>
                 </div>
             </div>
             <div class="col-lg-4 text-center mt-4 mt-lg-0">
@@ -185,113 +186,113 @@ $canonical_url = "https://www.unlocktool.us/articles/99-nap-credits-unlocktool.p
         <div class="col-lg-8">
             
             <div class="toc-box">
-                <h4><i class="fas fa-list me-2"></i>M?c L?c B�i Vi?t</h4>
+                <h4><i class="fas fa-list me-2"></i>Mục Lục Bài Viết</h4>
                 <ul class="list-unstyled">
-                    <li><a href="#credits-la-gi">1. Credits UnlockTool l� g�?</a></li>
-                    <li><a href="#tinh-nang-credits">2. C�c t�nh nang c?n Credits</a></li>
-                    <li><a href="#bang-gia">3. B?ng gi� Credits 2026</a></li>
-                    <li><a href="#cach-mua">4. C�ch mua Credits</a></li>
-                    <li><a href="#cach-su-dung">5. C�ch s? d?ng Credits</a></li>
-                    <li><a href="#so-sanh">6. So s�nh: Thu� Tool vs Mua Credits</a></li>
-                    <li><a href="#luu-y">7. Luu � khi s? d?ng Credits</a></li>
-                    <li><a href="#faq">8. C�u h?i thu?ng g?p (FAQ)</a></li>
+                    <li><a href="#credits-la-gi">1. Credits UnlockTool là gì?</a></li>
+                    <li><a href="#tinh-nang-credits">2. Các tính năng cần Credits</a></li>
+                    <li><a href="#bang-gia">3. Bảng giá Credits 2026</a></li>
+                    <li><a href="#cach-mua">4. Cách mua Credits</a></li>
+                    <li><a href="#cach-su-dung">5. Cách sử dụng Credits</a></li>
+                    <li><a href="#so-sanh">6. So sánh: Thuê Tool vs Mua Credits</a></li>
+                    <li><a href="#luu-y">7. Lưu ý khi sử dụng Credits</a></li>
+                    <li><a href="#faq">8. Câu hỏi thường gặp (FAQ)</a></li>
                 </ul>
             </div>
 
             <section id="credits-la-gi">
-                <h2><i class="fas fa-info-circle me-2"></i>1. Credits UnlockTool L� G�?</h2>
+                <h2><i class="fas fa-info-circle me-2"></i>1. Credits UnlockTool Là Gì?</h2>
                 
-                <p><strong>Credits UnlockTool</strong> l� don v? ti?n t? ?o trong ph?n m?m UnlockTool, du?c s? d?ng d? thanh to�n cho c�c d?ch v? cao c?p c?n k?t n?i server. Kh�c v?i license/thu� tool cho ph�p s? d?ng c�c t�nh nang offline, credits d�ng cho c�c t�c v? c?n x? l� tr�n server c?a UnlockTool.</p>
+                <p><strong>Credits UnlockTool</strong> là đơn vị tiền tệ ảo trong phần mềm UnlockTool, được sử dụng để thanh toán cho các dịch vụ cao cấp cần kết nối server. Khác với license/thuê tool cho phép sử dụng các tính năng offline, credits dùng cho các tác vụ cần xử lý trên server của UnlockTool.</p>
 
-                <h3>Ph�n bi?t License v� Credits:</h3>
+                <h3>Phân biệt License và Credits:</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>�?c di?m</th>
-                            <th>License (Thu� Tool)</th>
+                            <th>Đặc điểm</th>
+                            <th>License (Thuê Tool)</th>
                             <th>Credits</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <td><strong>T�nh nang</strong></td>
+                            <td><strong>Tính năng</strong></td>
                             <td>Bypass FRP, iCloud, Knox (offline)</td>
                             <td>IMEI repair, server unlock (online)</td>
                         </tr>
                         <tr>
-                            <td><strong>Th?i h?n</strong></td>
-                            <td>Theo gi?/ng�y</td>
-                            <td>Kh�ng h?t h?n (d�ng d?n khi h?t)</td>
+                            <td><strong>Thời hạn</strong></td>
+                            <td>Theo giờ/ngày</td>
+                            <td>Không hết hạn (dùng đến khi hết)</td>
                         </tr>
                         <tr>
-                            <td><strong>C�ch t�nh</strong></td>
-                            <td>Theo th?i gian</td>
-                            <td>Theo t�c v? (m?i t�c v? t?n X credits)</td>
+                            <td><strong>Cách tính</strong></td>
+                            <td>Theo thời gian</td>
+                            <td>Theo tác vụ (mỗi tác vụ tốn X credits)</td>
                         </tr>
                         <tr>
-                            <td><strong>Gi�</strong></td>
-                            <td>8.000d/6 ti?ng</td>
-                            <td>T? 5.000d/credit</td>
+                            <td><strong>Giá</strong></td>
+                            <td>8.000đ/6 tiếng</td>
+                            <td>Từ 5.000đ/credit</td>
                         </tr>
                     </tbody>
                 </table>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-info-circle me-2"></i>Khi n�o c?n Credits?</h5>
+                    <h5><i class="fas fa-info-circle me-2"></i>Khi nào cần Credits?</h5>
                     <ul class="mb-0">
-                        <li><strong>IMEI Repair:</strong> S?a IMEI b? null/invalid tr�n Samsung, iPhone</li>
-                        <li><strong>Network Unlock:</strong> Unlock m?ng qua server</li>
-                        <li><strong>Server iCloud:</strong> Bypass iCloud b?ng server (m?t s? tru?ng h?p d?c bi?t)</li>
-                        <li><strong>Check IMEI chi ti?t:</strong> Tra c?u th�ng tin IMEI t? server</li>
+                        <li><strong>IMEI Repair:</strong> Sửa IMEI bị null/invalid trên Samsung, iPhone</li>
+                        <li><strong>Network Unlock:</strong> Unlock mạng qua server</li>
+                        <li><strong>Server iCloud:</strong> Bypass iCloud bằng server (một số trường hợp đặc biệt)</li>
+                        <li><strong>Check IMEI chi tiết:</strong> Tra cứu thông tin IMEI từ server</li>
                     </ul>
                 </div>
             </section>
 
             <section id="tinh-nang-credits">
-                <h2><i class="fas fa-cogs me-2"></i>2. C�c T�nh Nang C?n Credits</h2>
+                <h2><i class="fas fa-cogs me-2"></i>2. Các Tính Năng Cần Credits</h2>
                 
-                <h3>2.1. IMEI Repair (S?a IMEI)</h3>
+                <h3>2.1. IMEI Repair (Sửa IMEI)</h3>
                 <div class="feature-card">
-                    <h5><i class="fas fa-wrench text-warning me-2"></i>IMEI Repair l� g�?</h5>
-                    <p>IMEI Repair l� qu� tr�nh s?a ch?a ho?c ghi l?i IMEI khi m�y b?:</p>
+                    <h5><i class="fas fa-wrench text-warning me-2"></i>IMEI Repair là gì?</h5>
+                    <p>IMEI Repair là quá trình sửa chữa hoặc ghi lại IMEI khi máy bị:</p>
                     <ul>
-                        <li>IMEI null/invalid (kh�ng c� IMEI)</li>
-                        <li>IMEI b? m?t sau flash ROM</li>
-                        <li>IMEI hi?n th? 00000000</li>
-                        <li>M�y kh�ng nh?n SIM do IMEI l?i</li>
+                        <li>IMEI null/invalid (không có IMEI)</li>
+                        <li>IMEI bị mất sau flash ROM</li>
+                        <li>IMEI hiển thị 00000000</li>
+                        <li>Máy không nhận SIM do IMEI lỗi</li>
                     </ul>
-                    <p><strong>S? credits c?n:</strong> 1-5 credits t�y model</p>
+                    <p><strong>Số credits cần:</strong> 1-5 credits tùy model</p>
                 </div>
 
-                <h3>2.2. Network Unlock (M? kh�a m?ng)</h3>
+                <h3>2.2. Network Unlock (Mở khóa mạng)</h3>
                 <div class="feature-card">
                     <h5><i class="fas fa-sim-card text-success me-2"></i>Network Unlock qua Server</h5>
-                    <p>Unlock m�y lock m?ng (AT&T, T-Mobile, Verizon...) th�ng qua server:</p>
+                    <p>Unlock máy lock mạng (AT&T, T-Mobile, Verizon...) thông qua server:</p>
                     <ul>
-                        <li>iPhone lock m?ng ? Qu?c t?</li>
-                        <li>Samsung lock m?ng ? Qu?c t?</li>
-                        <li>Kh�ng c?n jailbreak/root</li>
-                        <li>Unlock vinh vi?n qua IMEI</li>
+                        <li>iPhone lock mạng → Quốc tế</li>
+                        <li>Samsung lock mạng → Quốc tế</li>
+                        <li>Không cần jailbreak/root</li>
+                        <li>Unlock vĩnh viễn qua IMEI</li>
                     </ul>
-                    <p><strong>S? credits c?n:</strong> 5-20 credits t�y model v� nh� m?ng</p>
+                    <p><strong>Số credits cần:</strong> 5-20 credits tùy model và nhà mạng</p>
                 </div>
 
                 <h3>2.3. Server iCloud Bypass</h3>
                 <div class="feature-card">
                     <h5><i class="fab fa-apple text-primary me-2"></i>Bypass iCloud qua Server</h5>
-                    <p>M?t s? tru?ng h?p d?c bi?t c?n bypass iCloud qua server:</p>
+                    <p>Một số trường hợp đặc biệt cần bypass iCloud qua server:</p>
                     <ul>
-                        <li>iPhone b? MDM + iCloud</li>
-                        <li>C?n signal (s�ng) sau bypass</li>
-                        <li>Model m?i kh�ng h? tr? checkm8</li>
+                        <li>iPhone bị MDM + iCloud</li>
+                        <li>Cần signal (sóng) sau bypass</li>
+                        <li>Model mới không hỗ trợ checkm8</li>
                     </ul>
-                    <p><strong>S? credits c?n:</strong> 10-50 credits t�y model v� phuong ph�p</p>
+                    <p><strong>Số credits cần:</strong> 10-50 credits tùy model và phương pháp</p>
                 </div>
 
-                <h3>2.4. Check IMEI Chi Ti?t</h3>
+                <h3>2.4. Check IMEI Chi Tiết</h3>
                 <div class="feature-card">
-                    <h5><i class="fas fa-search text-info me-2"></i>Check IMEI t? Server</h5>
-                    <p>Tra c?u th�ng tin chi ti?t c?a IMEI:</p>
+                    <h5><i class="fas fa-search text-info me-2"></i>Check IMEI từ Server</h5>
+                    <p>Tra cứu thông tin chi tiết của IMEI:</p>
                     <ul>
                         <li>iCloud status (On/Off/Clean)</li>
                         <li>Carrier lock status</li>
@@ -299,114 +300,114 @@ $canonical_url = "https://www.unlocktool.us/articles/99-nap-credits-unlocktool.p
                         <li>MDM status</li>
                         <li>Activation date</li>
                     </ul>
-                    <p><strong>S? credits c?n:</strong> 1-3 credits t�y lo?i check</p>
+                    <p><strong>Số credits cần:</strong> 1-3 credits tùy loại check</p>
                 </div>
 
-                <h3>B?ng t?ng h?p s? credits c?n:</h3>
+                <h3>Bảng tổng hợp số credits cần:</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>T�nh nang</th>
-                            <th>Credits c?n</th>
-                            <th>Ghi ch�</th>
+                            <th>Tính năng</th>
+                            <th>Credits cần</th>
+                            <th>Ghi chú</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td>IMEI Repair Samsung</td>
                             <td>1-3 credits</td>
-                            <td>T�y model</td>
+                            <td>Tùy model</td>
                         </tr>
                         <tr>
                             <td>IMEI Repair iPhone</td>
                             <td>3-5 credits</td>
-                            <td>C?n jailbreak</td>
+                            <td>Cần jailbreak</td>
                         </tr>
                         <tr>
                             <td>Network Unlock iPhone</td>
                             <td>10-20 credits</td>
-                            <td>T�y nh� m?ng</td>
+                            <td>Tùy nhà mạng</td>
                         </tr>
                         <tr>
                             <td>Network Unlock Samsung</td>
                             <td>5-15 credits</td>
-                            <td>T�y model</td>
+                            <td>Tùy model</td>
                         </tr>
                         <tr>
                             <td>Server iCloud Bypass</td>
                             <td>10-50 credits</td>
-                            <td>T�y model</td>
+                            <td>Tùy model</td>
                         </tr>
                         <tr>
                             <td>Check IMEI Basic</td>
                             <td>1 credit</td>
-                            <td>Th�ng tin co b?n</td>
+                            <td>Thông tin cơ bản</td>
                         </tr>
                         <tr>
                             <td>Check IMEI Full</td>
                             <td>2-3 credits</td>
-                            <td>�?y d? th�ng tin</td>
+                            <td>Đầy đủ thông tin</td>
                         </tr>
                     </tbody>
                 </table>
             </section>
 
             <section id="bang-gia">
-                <h2><i class="fas fa-tag me-2"></i>3. B?ng Gi� Credits 2026</h2>
+                <h2><i class="fas fa-tag me-2"></i>3. Bảng Giá Credits 2026</h2>
                 
                 <div class="row">
                     <div class="col-md-4 mb-4">
                         <div class="credit-card">
-                            <h5>G�i Nh?</h5>
+                            <h5>Gói Nhỏ</h5>
                             <p class="credit-amount">5 Credits</p>
-                            <p class="price">8.000d</p>
-                            <p class="small text-muted">5.000d/credit</p>
+                            <p class="price">8.000đ</p>
+                            <p class="small text-muted">5.000đ/credit</p>
                             <a href="https://thuetaikhoan.net" class="btn btn-outline-warning w-100 mt-3">Mua ngay</a>
                         </div>
                     </div>
                     <div class="col-md-4 mb-4">
                         <div class="credit-card" style="border-color:#e74c3c;transform:scale(1.05)">
-                            <span class="badge bg-danger mb-2">Ph? bi?n</span>
-                            <h5>G�i V?a</h5>
+                            <span class="badge bg-danger mb-2">Phổ biến</span>
+                            <h5>Gói Vừa</h5>
                             <p class="credit-amount">20 Credits</p>
-                            <p class="price">80.000d</p>
-                            <p class="small text-muted">4.000d/credit</p>
+                            <p class="price">80.000đ</p>
+                            <p class="small text-muted">4.000đ/credit</p>
                             <a href="https://thuetaikhoan.net" class="btn btn-warning w-100 mt-3">Mua ngay</a>
                         </div>
                     </div>
                     <div class="col-md-4 mb-4">
                         <div class="credit-card">
-                            <h5>G�i L?n</h5>
+                            <h5>Gói Lớn</h5>
                             <p class="credit-amount">50 Credits</p>
-                            <p class="price">175.000d</p>
-                            <p class="small text-muted">3.500d/credit</p>
+                            <p class="price">175.000đ</p>
+                            <p class="small text-muted">3.500đ/credit</p>
                             <a href="https://thuetaikhoan.net" class="btn btn-outline-warning w-100 mt-3">Mua ngay</a>
                         </div>
                     </div>
                 </div>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-percent me-2"></i>Mua nhi?u - Gi� t?t hon!</h5>
-                    <p class="mb-0">Mua c�ng nhi?u credits, gi� c�ng r?. Li�n h? <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a> d? du?c b�o gi� t?t nh?t cho s? lu?ng l?n!</p>
+                    <h5><i class="fas fa-percent me-2"></i>Mua nhiều - Giá tốt hơn!</h5>
+                    <p class="mb-0">Mua càng nhiều credits, giá càng rẻ. Liên hệ <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a> để được báo giá tốt nhất cho số lượng lớn!</p>
                 </div>
             </section>
 
             <section id="cach-mua">
-                <h2><i class="fas fa-shopping-cart me-2"></i>4. C�ch Mua Credits</h2>
+                <h2><i class="fas fa-shopping-cart me-2"></i>4. Cách Mua Credits</h2>
                 
                 <div class="step-card">
-                    <h4><i class="fas fa-store me-2"></i>Mua Credits t?i Thuetaikhoan.net</h4>
+                    <h4><i class="fas fa-store me-2"></i>Mua Credits tại Thuetaikhoan.net</h4>
                     <ol>
-                        <li>Truy c?p <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a></li>
-                        <li>T�m m?c <strong>"UnlockTool Credits"</strong> ho?c <strong>"N?p Credits"</strong></li>
-                        <li>Ch?n s? lu?ng credits c?n mua</li>
-                        <li>Thanh to�n qua: Momo, ZaloPay, Banking, Th? c�o</li>
-                        <li>Cung c?p Username UnlockTool c?a b?n</li>
-                        <li>Credits s? du?c n?p v�o t�i kho?n trong 5-30 ph�t</li>
+                        <li>Truy cập <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a></li>
+                        <li>Tìm mục <strong>"UnlockTool Credits"</strong> hoặc <strong>"Nạp Credits"</strong></li>
+                        <li>Chọn số lượng credits cần mua</li>
+                        <li>Thanh toán qua: Momo, ZaloPay, Banking, Thẻ cào</li>
+                        <li>Cung cấp Username UnlockTool của bạn</li>
+                        <li>Credits sẽ được nạp vào tài khoản trong 5-30 phút</li>
                     </ol>
                 </div>
 
-                <h3>H�nh th?c thanh to�n:</h3>
+                <h3>Hình thức thanh toán:</h3>
                 <div class="row">
                     <div class="col-md-3 col-6 mb-3">
                         <div class="feature-card text-center">
@@ -429,221 +430,221 @@ $canonical_url = "https://www.unlocktool.us/articles/99-nap-credits-unlocktool.p
                     <div class="col-md-3 col-6 mb-3">
                         <div class="feature-card text-center">
                             <i class="fas fa-credit-card fa-2x text-warning mb-2"></i>
-                            <p class="mb-0">Th? c�o</p>
+                            <p class="mb-0">Thẻ cào</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-info-circle me-2"></i>Luu � khi mua Credits</h5>
+                    <h5><i class="fas fa-info-circle me-2"></i>Lưu ý khi mua Credits</h5>
                     <ul class="mb-0">
-                        <li>Credits du?c n?p v�o t�i kho?n, kh�ng ph?i tool</li>
-                        <li>C?n c� t�i kho?n UnlockTool tru?c khi mua</li>
-                        <li>Credits kh�ng h?t h?n, d�ng d?n khi h?t</li>
-                        <li>Credits kh�ng ho�n l?i sau khi n?p</li>
+                        <li>Credits được nạp vào tài khoản, không phải tool</li>
+                        <li>Cần có tài khoản UnlockTool trước khi mua</li>
+                        <li>Credits không hết hạn, dùng đến khi hết</li>
+                        <li>Credits không hoàn lại sau khi nạp</li>
                     </ul>
                 </div>
             </section>
 
             <section id="cach-su-dung">
-                <h2><i class="fas fa-play-circle me-2"></i>5. C�ch S? D?ng Credits</h2>
+                <h2><i class="fas fa-play-circle me-2"></i>5. Cách Sử Dụng Credits</h2>
                 
                 <div class="step-card">
-                    <h4>Bu?c 1: �ang nh?p UnlockTool</h4>
+                    <h4>Bước 1: Đăng nhập UnlockTool</h4>
                     <ol>
-                        <li>M? UnlockTool</li>
-                        <li>�ang nh?p v?i t�i kho?n d� c� credits</li>
-                        <li>S? credits hi?n t?i s? hi?n th? tr�n giao di?n</li>
+                        <li>Mở UnlockTool</li>
+                        <li>Đăng nhập với tài khoản đã có credits</li>
+                        <li>Số credits hiện tại sẽ hiển thị trên giao diện</li>
                     </ol>
                 </div>
 
                 <div class="step-card">
-                    <h4>Bu?c 2: Ch?n t�nh nang c?n Credits</h4>
+                    <h4>Bước 2: Chọn tính năng cần Credits</h4>
                     <ol>
-                        <li>C�c t�nh nang c?n credits thu?ng c� bi?u tu?ng <i class="fas fa-coins text-warning"></i> ho?c ghi r� "X Credits"</li>
-                        <li>V� d?: Samsung > IMEI Repair > Hi?n th? "2 Credits"</li>
-                        <li>Ch?n t�nh nang v� chu?n b? thi?t b?</li>
+                        <li>Các tính năng cần credits thường có biểu tượng <i class="fas fa-coins text-warning"></i> hoặc ghi rõ "X Credits"</li>
+                        <li>Ví dụ: Samsung > IMEI Repair > Hiển thị "2 Credits"</li>
+                        <li>Chọn tính năng và chuẩn bị thiết bị</li>
                     </ol>
                 </div>
 
                 <div class="step-card">
-                    <h4>Bu?c 3: Th?c hi?n v� tr? Credits</h4>
+                    <h4>Bước 3: Thực hiện và trừ Credits</h4>
                     <ol>
-                        <li>K?t n?i di?n tho?i v?i m�y t�nh</li>
-                        <li>Nh?n n�t th?c hi?n (Start/Execute)</li>
-                        <li>X�c nh?n s? d?ng credits n?u c� popup</li>
-                        <li>Credits s? b? tr? khi t�c v? ho�n th�nh th�nh c�ng</li>
-                        <li>N?u th?t b?i, credits thu?ng du?c ho�n l?i (t�y t�nh nang)</li>
+                        <li>Kết nối điện thoại với máy tính</li>
+                        <li>Nhấn nút thực hiện (Start/Execute)</li>
+                        <li>Xác nhận sử dụng credits nếu có popup</li>
+                        <li>Credits sẽ bị trừ khi tác vụ hoàn thành thành công</li>
+                        <li>Nếu thất bại, credits thường được hoàn lại (tùy tính năng)</li>
                     </ol>
                 </div>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Quan tr?ng!</h5>
-                    <p class="mb-0">Credits ch? b? tr? khi t�c v? TH�NH C�NG. N?u th?t b?i do l?i server ho?c kh�ng h? tr?, credits thu?ng du?c ho�n l?i. Tuy nhi�n, n?u th?t b?i do l?i ngu?i d�ng (nh?p sai th�ng tin, thi?t b? kh�ng tuong th�ch), credits c� th? kh�ng du?c ho�n.</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Quan trọng!</h5>
+                    <p class="mb-0">Credits chỉ bị trừ khi tác vụ THÀNH CÔNG. Nếu thất bại do lỗi server hoặc không hỗ trợ, credits thường được hoàn lại. Tuy nhiên, nếu thất bại do lỗi người dùng (nhập sai thông tin, thiết bị không tương thích), credits có thể không được hoàn.</p>
                 </div>
             </section>
 
             <section id="so-sanh">
-                <h2><i class="fas fa-balance-scale me-2"></i>6. So S�nh: Thu� Tool vs Mua Credits</h2>
+                <h2><i class="fas fa-balance-scale me-2"></i>6. So Sánh: Thuê Tool vs Mua Credits</h2>
                 
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Ti�u ch�</th>
-                            <th>Thu� Tool (License)</th>
+                            <th>Tiêu chí</th>
+                            <th>Thuê Tool (License)</th>
                             <th>Mua Credits</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <td><strong>Gi�</strong></td>
-                            <td>8.000d/6 ti?ng</td>
-                            <td>T? 5.000d/credit</td>
+                            <td><strong>Giá</strong></td>
+                            <td>8.000đ/6 tiếng</td>
+                            <td>Từ 5.000đ/credit</td>
                         </tr>
                         <tr>
-                            <td><strong>T�nh nang</strong></td>
+                            <td><strong>Tính năng</strong></td>
                             <td>Bypass FRP, iCloud, Knox (offline)</td>
                             <td>IMEI repair, server unlock (online)</td>
                         </tr>
                         <tr>
-                            <td><strong>S? l?n s? d?ng</strong></td>
-                            <td>Kh�ng gi?i h?n trong th?i gian thu�</td>
-                            <td>M?i t�c v? t?n X credits</td>
+                            <td><strong>Số lần sử dụng</strong></td>
+                            <td>Không giới hạn trong thời gian thuê</td>
+                            <td>Mỗi tác vụ tốn X credits</td>
                         </tr>
                         <tr>
-                            <td><strong>Th?i h?n</strong></td>
-                            <td>H?t h?n sau th?i gian thu�</td>
-                            <td>Kh�ng h?t h?n</td>
+                            <td><strong>Thời hạn</strong></td>
+                            <td>Hết hạn sau thời gian thuê</td>
+                            <td>Không hết hạn</td>
                         </tr>
                         <tr>
-                            <td><strong>Ph� h?p</strong></td>
-                            <td>Bypass nhi?u m�y trong 1 bu?i</td>
-                            <td>S? d?ng t�nh nang server d?c bi?t</td>
+                            <td><strong>Phù hợp</strong></td>
+                            <td>Bypass nhiều máy trong 1 buổi</td>
+                            <td>Sử dụng tính năng server đặc biệt</td>
                         </tr>
                     </tbody>
                 </table>
 
-                <h3>Khi n�o n�n thu� tool?</h3>
+                <h3>Khi nào nên thuê tool?</h3>
                 <ul>
-                    <li>C?n bypass FRP, iCloud, Knox (t�nh nang offline)</li>
-                    <li>C� nhi?u m�y c?n x? l� trong 1 bu?i</li>
-                    <li>Kh�ng c?n t�nh nang server</li>
+                    <li>Cần bypass FRP, iCloud, Knox (tính năng offline)</li>
+                    <li>Có nhiều máy cần xử lý trong 1 buổi</li>
+                    <li>Không cần tính năng server</li>
                 </ul>
 
-                <h3>Khi n�o n�n mua credits?</h3>
+                <h3>Khi nào nên mua credits?</h3>
                 <ul>
-                    <li>C?n s?a IMEI</li>
-                    <li>C?n unlock m?ng qua server</li>
-                    <li>C?n check IMEI chi ti?t</li>
-                    <li>S? d?ng kh�ng thu?ng xuy�n (credits kh�ng h?t h?n)</li>
+                    <li>Cần sửa IMEI</li>
+                    <li>Cần unlock mạng qua server</li>
+                    <li>Cần check IMEI chi tiết</li>
+                    <li>Sử dụng không thường xuyên (credits không hết hạn)</li>
                 </ul>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-lightbulb me-2"></i>L?i khuy�n</h5>
-                    <p class="mb-0">N?u b?n l� th? s?a di?n tho?i, n�n c� c? hai: thu� tool khi c?n bypass h�ng lo?t, v� mua s?n m?t �t credits cho c�c tru?ng h?p c?n t�nh nang server.</p>
+                    <h5><i class="fas fa-lightbulb me-2"></i>Lời khuyên</h5>
+                    <p class="mb-0">Nếu bạn là thợ sửa điện thoại, nên có cả hai: thuê tool khi cần bypass hàng loạt, và mua sẵn một ít credits cho các trường hợp cần tính năng server.</p>
                 </div>
             </section>
 
             <section id="luu-y">
-                <h2><i class="fas fa-clipboard-list me-2"></i>7. Luu � Khi S? D?ng Credits</h2>
+                <h2><i class="fas fa-clipboard-list me-2"></i>7. Lưu Ý Khi Sử Dụng Credits</h2>
                 
                 <div class="danger-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Nh?ng di?u c?n bi?t tru?c khi mua Credits:</h5>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Những điều cần biết trước khi mua Credits:</h5>
                     <ol class="mb-0">
-                        <li><strong>Credits kh�ng ho�n l?i:</strong> Sau khi n?p, kh�ng th? d?i l?i ti?n</li>
-                        <li><strong>Kh�ng chuy?n nhu?ng:</strong> Credits kh�ng th? chuy?n sang t�i kho?n kh�c</li>
-                        <li><strong>Ki?m tra h? tr? tru?c:</strong> �?m b?o model c?a b?n du?c h? tr? tru?c khi mua</li>
-                        <li><strong>Gi� credits c� th? thay d?i:</strong> Gi� c� th? di?u ch?nh theo th?i gian</li>
-                        <li><strong>T�nh nang c� th? thay d?i:</strong> UnlockTool c� th? th�m/b? t�nh nang</li>
+                        <li><strong>Credits không hoàn lại:</strong> Sau khi nạp, không thể đổi lại tiền</li>
+                        <li><strong>Không chuyển nhượng:</strong> Credits không thể chuyển sang tài khoản khác</li>
+                        <li><strong>Kiểm tra hỗ trợ trước:</strong> Đảm bảo model của bạn được hỗ trợ trước khi mua</li>
+                        <li><strong>Giá credits có thể thay đổi:</strong> Giá có thể điều chỉnh theo thời gian</li>
+                        <li><strong>Tính năng có thể thay đổi:</strong> UnlockTool có thể thêm/bỏ tính năng</li>
                     </ol>
                 </div>
 
-                <h3>Tips ti?t ki?m Credits:</h3>
+                <h3>Tips tiết kiệm Credits:</h3>
                 <ul>
-                    <li>Ki?m tra k? th�ng tin tru?c khi th?c hi?n (IMEI, model...)</li>
-                    <li>�?c hu?ng d?n c?a t?ng t�nh nang</li>
-                    <li>H?i support n?u kh�ng ch?c ch?n</li>
-                    <li>Mua credits theo g�i d? du?c gi� t?t hon</li>
+                    <li>Kiểm tra kỹ thông tin trước khi thực hiện (IMEI, model...)</li>
+                    <li>Đọc hướng dẫn của từng tính năng</li>
+                    <li>Hỏi support nếu không chắc chắn</li>
+                    <li>Mua credits theo gói để được giá tốt hơn</li>
                 </ul>
             </section>
 
             <section id="faq">
-                <h2><i class="fas fa-question-circle me-2"></i>8. C�u H?i Thu?ng G?p (FAQ)</h2>
+                <h2><i class="fas fa-question-circle me-2"></i>8. Câu Hỏi Thường Gặp (FAQ)</h2>
                 
                 <div class="accordion" id="faqAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
-                                Credits c� h?t h?n kh�ng?
+                                Credits có hết hạn không?
                             </button>
                         </h2>
                         <div id="faq1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
-                                <strong>Kh�ng</strong>, credits UnlockTool kh�ng c� th?i h?n s? d?ng. B?n c� th? mua v� d�ng d?n cho d?n khi h?t.
+                                <strong>Không</strong>, credits UnlockTool không có thời hạn sử dụng. Bạn có thể mua và dùng dần cho đến khi hết.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
-                                T�c v? th?t b?i c� m?t credits kh�ng?
+                                Tác vụ thất bại có mất credits không?
                             </button>
                         </h2>
                         <div id="faq2" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                Ph? thu?c v�o t�nh nang v� nguy�n nh�n th?t b?i. N?u th?t b?i do l?i server ho?c model kh�ng h? tr?, credits thu?ng du?c ho�n l?i. N?u th?t b?i do l?i ngu?i d�ng, c� th? b? tr? credits.
+                                Phụ thuộc vào tính năng và nguyên nhân thất bại. Nếu thất bại do lỗi server hoặc model không hỗ trợ, credits thường được hoàn lại. Nếu thất bại do lỗi người dùng, có thể bị trừ credits.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3">
-                                C� th? d�ng credits c?a ngu?i kh�c kh�ng?
+                                Có thể dùng credits của người khác không?
                             </button>
                         </h2>
                         <div id="faq3" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <strong>Kh�ng</strong>, credits g?n v?i t�i kho?n UnlockTool v� kh�ng th? chuy?n nhu?ng. M?i ngu?i c?n c� t�i kho?n ri�ng v� mua credits cho t�i kho?n d�.
+                                <strong>Không</strong>, credits gắn với tài khoản UnlockTool và không thể chuyển nhượng. Mỗi người cần có tài khoản riêng và mua credits cho tài khoản đó.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4">
-                                Thu� tool c� du?c credits kh�ng?
+                                Thuê tool có được credits không?
                             </button>
                         </h2>
                         <div id="faq4" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <strong>Kh�ng</strong>, thu� tool (license) v� credits l� hai h? th?ng ri�ng bi?t. Thu� tool cho ph�p s? d?ng t�nh nang offline, credits cho t�nh nang server. B?n c?n mua ri�ng n?u c?n c? hai.
+                                <strong>Không</strong>, thuê tool (license) và credits là hai hệ thống riêng biệt. Thuê tool cho phép sử dụng tính năng offline, credits cho tính năng server. Bạn cần mua riêng nếu cần cả hai.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq5">
-                                Mua credits ? d�u uy t�n?
+                                Mua credits ở đâu uy tín?
                             </button>
                         </h2>
                         <div id="faq5" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                Mua credits UnlockTool uy t�n, gi� r? t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>. H? tr? thanh to�n da d?ng, n?p nhanh, c� h? tr? k? thu?t n?u g?p v?n d?.
+                                Mua credits UnlockTool uy tín, giá rẻ tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>. Hỗ trợ thanh toán đa dạng, nạp nhanh, có hỗ trợ kỹ thuật nếu gặp vấn đề.
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <!-- CTA cu?i b�i -->
+            <!-- CTA cuối bài -->
             <section class="mt-5">
                 <div class="price-highlight">
                     <h3><i class="fas fa-coins me-2"></i>Mua Credits UnlockTool Ngay!</h3>
                     <p>IMEI Repair, Network Unlock, Server Bypass...</p>
-                    <p class="price">T? 5.000d</p>
+                    <p class="price">Từ 5.000đ</p>
                     <p class="h4">/ 1 credit</p>
                     <div class="d-flex justify-content-center flex-wrap gap-3 mt-4">
                         <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-coins me-2"></i>Mua Credits - Thuetaikhoan.net</a>
-                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thu� Tool 8K/6H</a>
+                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê Tool 8K/6H</a>
                     </div>
                 </div>
             </section>
@@ -655,44 +656,44 @@ $canonical_url = "https://www.unlocktool.us/articles/99-nap-credits-unlocktool.p
             <div class="sticky-top" style="top:20px">
                 <div class="price-highlight mb-4">
                     <h5><i class="fas fa-coins me-2"></i>Credits UnlockTool</h5>
-                    <p class="price" style="font-size:2.5rem">5.000d</p>
-                    <p>T? / 1 credit</p>
+                    <p class="price" style="font-size:2.5rem">5.000đ</p>
+                    <p>Từ / 1 credit</p>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light w-100 mt-3">Mua Credits</a>
                 </div>
 
                 <div class="card mb-4">
                     <div class="card-header bg-warning text-dark">
-                        <i class="fas fa-list-check me-2"></i>T�nh nang Credits
+                        <i class="fas fa-list-check me-2"></i>Tính năng Credits
                     </div>
                     <div class="card-body">
                         <ul class="list-unstyled mb-0">
-                            <li>? IMEI Repair</li>
-                            <li>? Network Unlock</li>
-                            <li>? Server iCloud</li>
-                            <li>? Check IMEI</li>
+                            <li>✓ IMEI Repair</li>
+                            <li>✓ Network Unlock</li>
+                            <li>✓ Server iCloud</li>
+                            <li>✓ Check IMEI</li>
                         </ul>
                     </div>
                 </div>
 
                 <div class="card mb-4">
                     <div class="card-header bg-success text-white">
-                        <i class="fas fa-clock me-2"></i>Thu� Tool
+                        <i class="fas fa-clock me-2"></i>Thuê Tool
                     </div>
                     <div class="card-body text-center">
-                        <p class="h3 text-success mb-2">8.000d</p>
-                        <p class="small">/ 6 ti?ng</p>
-                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-success w-100">Thu� Ngay</a>
+                        <p class="h3 text-success mb-2">8.000đ</p>
+                        <p class="small">/ 6 tiếng</p>
+                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-success w-100">Thuê Ngay</a>
                     </div>
                 </div>
 
                 <div class="card">
                     <div class="card-header bg-dark text-white">
-                        <i class="fas fa-link me-2"></i>B�i vi?t li�n quan
+                        <i class="fas fa-link me-2"></i>Bài viết liên quan
                     </div>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item"><a href="97-kiem-tra-imei-iphone.php">Check IMEI iPhone</a></li>
-                        <li class="list-group-item"><a href="98-xoa-knox-samsung.php">X�a Knox Samsung</a></li>
-                        <li class="list-group-item"><a href="81-unlocktool-huong-dan-su-dung.php">Hu?ng d?n UnlockTool</a></li>
+                        <li class="list-group-item"><a href="98-xoa-knox-samsung.php">Xóa Knox Samsung</a></li>
+                        <li class="list-group-item"><a href="81-unlocktool-huong-dan-su-dung.php">Hướng dẫn UnlockTool</a></li>
                     </ul>
                 </div>
             </div>
@@ -707,7 +708,7 @@ $canonical_url = "https://www.unlocktool.us/articles/99-nap-credits-unlocktool.p
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -721,13 +722,13 @@ $canonical_url = "https://www.unlocktool.us/articles/99-nap-credits-unlocktool.p
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -735,15 +736,15 @@ $canonical_url = "https://www.unlocktool.us/articles/99-nap-credits-unlocktool.p
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -756,7 +757,7 @@ $canonical_url = "https://www.unlocktool.us/articles/99-nap-credits-unlocktool.p
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -767,10 +768,10 @@ $canonical_url = "https://www.unlocktool.us/articles/99-nap-credits-unlocktool.p
         <div class="row">
             <div class="col-md-6">
                 <h5>UnlockTool.us</h5>
-                <p class="small">Cho thu� t�i kho?n tool m? kh�a di?n tho?i uy t�n nh?t Vi?t Nam.</p>
+                <p class="small">Cho thuê tài khoản tool mở khóa điện thoại uy tín nhất Việt Nam.</p>
             </div>
             <div class="col-md-6 text-md-end">
-                <p class="small mb-1">D?ch v?: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+                <p class="small mb-1">Dịch vụ: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
                 <p class="small">&copy; 2026 UnlockTool.us - All rights reserved.</p>
             </div>
         </div>

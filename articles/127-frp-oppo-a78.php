@@ -1,6 +1,6 @@
-<?php
-$page_title = "Bypass FRP Oppo A78 ?? ColorOS Android 14-15 | 2026";
-$page_description = "?? Bypass FRP Oppo A78 5G m?i nh?t 2026. ColorOS Android 14-15. BROM Mode, Clone Phone method. Thu� UnlockTool 8K/6h. D?ch v? 50K.";
+﻿<?php
+$page_title = "Bypass FRP Oppo A78 🔓 ColorOS Android 14-15 | 2026";
+$page_description = "🔓 Bypass FRP Oppo A78 5G mới nhất 2026. ColorOS Android 14-15. BROM Mode, Clone Phone method. Thuê UnlockTool 8K/6h. Dịch vụ 50K.";
 $page_keywords = "frp oppo a78, bypass oppo a78, xoa google oppo a78, coloros frp, oppo a78 5g bypass";
 $canonical_url = "https://www.unlocktool.us/articles/127-frp-oppo-a78.php";
 ?>
@@ -18,7 +18,8 @@ $canonical_url = "https://www.unlocktool.us/articles/127-frp-oppo-a78.php";
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">\n    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
@@ -31,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/127-frp-oppo-a78.php";
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hu?ng d?n k? thu?t">
+    <meta property="article:section" content="Hướng dẫn kỹ thuật">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="M? kh�a di?n tho?i">
+    <meta property="article:tag" content="Mở khóa điện thoại">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -49,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/127-frp-oppo-a78.php";
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -60,7 +61,7 @@ $canonical_url = "https://www.unlocktool.us/articles/127-frp-oppo-a78.php";
         "@context": "https://schema.org",
         "@type": "TechArticle",
         "headline": "Bypass FRP Oppo A78 - ColorOS Android 14-15",
-        "description": "Hu?ng d?n bypass FRP Oppo A78 5G v?i nhi?u phuong ph�p",
+        "description": "Hướng dẫn bypass FRP Oppo A78 5G với nhiều phương pháp",
         "author": {"@type": "Organization", "name": "UnlockTool.us"},
         "publisher": {"@type": "Organization", "name": "UnlockTool.us"},
         "datePublished": "2024-01-01",
@@ -72,10 +73,10 @@ $canonical_url = "https://www.unlocktool.us/articles/127-frp-oppo-a78.php";
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "Oppo A78 chip g�? Bypass qua mode n�o?", "acceptedAnswer": {"@type": "Answer", "text": "Oppo A78 5G d�ng chip MediaTek Dimensity 700. Bypass qua BROM Mode v?i UnlockTool ho?c phuong ph�p Clone Phone."}},
-            {"@type": "Question", "name": "ColorOS Android 14 c� bypass du?c kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "�u?c. UnlockTool h? tr? ColorOS Android 14-15. V�o BROM Mode v� d�ng t�nh nang FRP Bypass."}},
-            {"@type": "Question", "name": "C� bypass Oppo kh�ng c?n PC kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "C�. D�ng Clone Phone method v?i di?n tho?i Android th? 2. Tuy nhi�n kh�ng ?n d?nh v?i b?n v� m?i."}},
-            {"@type": "Question", "name": "C�c model Oppo A kh�c c� bypass du?c kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "C�. UnlockTool h? tr? A77, A76, A57, A17, A16, A15, Reno series v� nhi?u model kh�c."}}
+            {"@type": "Question", "name": "Oppo A78 chip gì? Bypass qua mode nào?", "acceptedAnswer": {"@type": "Answer", "text": "Oppo A78 5G dùng chip MediaTek Dimensity 700. Bypass qua BROM Mode với UnlockTool hoặc phương pháp Clone Phone."}},
+            {"@type": "Question", "name": "ColorOS Android 14 có bypass được không?", "acceptedAnswer": {"@type": "Answer", "text": "Được. UnlockTool hỗ trợ ColorOS Android 14-15. Vào BROM Mode và dùng tính năng FRP Bypass."}},
+            {"@type": "Question", "name": "Có bypass Oppo không cần PC không?", "acceptedAnswer": {"@type": "Answer", "text": "Có. Dùng Clone Phone method với điện thoại Android thứ 2. Tuy nhiên không ổn định với bản vá mới."}},
+            {"@type": "Question", "name": "Các model Oppo A khác có bypass được không?", "acceptedAnswer": {"@type": "Answer", "text": "Có. UnlockTool hỗ trợ A77, A76, A57, A17, A16, A15, Reno series và nhiều model khác."}}
         ]
     }
     </script>
@@ -136,7 +137,7 @@ $canonical_url = "https://www.unlocktool.us/articles/127-frp-oppo-a78.php";
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? kh�a di?n tho?i",
+        "name": "Dịch vụ mở khóa điện thoại",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -153,8 +154,8 @@ $canonical_url = "https://www.unlocktool.us/articles/127-frp-oppo-a78.php";
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -164,7 +165,7 @@ $canonical_url = "https://www.unlocktool.us/articles/127-frp-oppo-a78.php";
         <h1><i class="fas fa-unlock me-2"></i>Bypass FRP Oppo A78 2026</h1>
         <p class="lead">ColorOS | Android 14-15 | BROM Mode | Clone Phone Method</p>
         <div class="mt-4">
-            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>Thu� UnlockTool 8K/6H</a>
+            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>Thuê UnlockTool 8K/6H</a>
         </div>
     </div>
 </section>
@@ -174,24 +175,24 @@ $canonical_url = "https://www.unlocktool.us/articles/127-frp-oppo-a78.php";
         
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #0066cc;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>T�c gi?:</strong> UnlockTool.us Team</span>
-            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>�?c:</strong> ~5 ph�t</span>
-            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> <span id="viewCount">1,234</span></span>
+            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>Tác giả:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>Cập nhật:</strong> 06/02/2026</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Đọc:</strong> ~5 phút</span>
+            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lượt xem:</strong> <span id="viewCount">1,234</span></span>
         </div>
         <div class="toc">
-            <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
+            <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
             <ul>
-                <li><a href="#thong-tin">1. Th�ng tin Oppo A78</a></li>
-                <li><a href="#methods">2. C�c phuong ph�p bypass</a></li>
-                <li><a href="#brom-tool">3. BROM Mode + UnlockTool (Khuy?n ngh?)</a></li>
-                <li><a href="#thu-cong">4. Phuong ph�p kh�ng c?n PC</a></li>
-                <li><a href="#other-models">5. C�c model Oppo kh�c</a></li>
+                <li><a href="#thong-tin">1. Thông tin Oppo A78</a></li>
+                <li><a href="#methods">2. Các phương pháp bypass</a></li>
+                <li><a href="#brom-tool">3. BROM Mode + UnlockTool (Khuyến nghị)</a></li>
+                <li><a href="#thu-cong">4. Phương pháp không cần PC</a></li>
+                <li><a href="#other-models">5. Các model Oppo khác</a></li>
                 <li><a href="#faq">6. FAQ</a></li>
             </ul>
         </div>
         
-        <h2 id="thong-tin"><i class="fas fa-info-circle me-2"></i>1. Th�ng Tin Oppo A78</h2>
+        <h2 id="thong-tin"><i class="fas fa-info-circle me-2"></i>1. Thông Tin Oppo A78</h2>
         
         <div class="device-card">
             <h5><i class="fas fa-mobile-alt me-2"></i>Oppo A78 5G</h5>
@@ -205,165 +206,165 @@ $canonical_url = "https://www.unlocktool.us/articles/127-frp-oppo-a78.php";
                 </div>
                 <div class="col-md-6">
                     <ul class="list-unstyled mb-0">
-                        <li><strong>Android:</strong> 13 ? 14 (ColorOS 14)</li>
+                        <li><strong>Android:</strong> 13 → 14 (ColorOS 14)</li>
                         <li><strong>Mode:</strong> BROM (MediaTek)</li>
-                        <li><strong>FRP:</strong> ? H? tr? bypass</li>
+                        <li><strong>FRP:</strong> ✅ Hỗ trợ bypass</li>
                     </ul>
                 </div>
             </div>
         </div>
         
-        <p>Oppo A78 5G s? d?ng chip <strong>MediaTek Dimensity 700</strong>, h? tr? bypass FRP qua <strong>BROM Mode</strong> v?i UnlockTool ho?c c�c phuong ph�p th? c�ng kh�c.</p>
+        <p>Oppo A78 5G sử dụng chip <strong>MediaTek Dimensity 700</strong>, hỗ trợ bypass FRP qua <strong>BROM Mode</strong> với UnlockTool hoặc các phương pháp thủ công khác.</p>
         
-        <h2 id="methods"><i class="fas fa-layer-group me-2"></i>2. C�c Phuong Ph�p Bypass</h2>
+        <h2 id="methods"><i class="fas fa-layer-group me-2"></i>2. Các Phương Pháp Bypass</h2>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Phuong ph�p</th><th>Y�u c?u</th><th>ColorOS</th><th>�? tin c?y</th></tr>
+                <tr><th>Phương pháp</th><th>Yêu cầu</th><th>ColorOS</th><th>Độ tin cậy</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>BROM + UnlockTool</strong></td><td>PC + Tool</td><td>All</td><td class="text-success">?????</td></tr>
-                <tr><td><strong>Clone Phone Method</strong></td><td>�i?n tho?i th? 2</td><td>13-14</td><td class="text-warning">????</td></tr>
-                <tr><td><strong>Emergency Call + Browser</strong></td><td>Kh�ng c?n PC</td><td>13</td><td class="text-warning">???</td></tr>
-                <tr><td><strong>Home Screen Layout</strong></td><td>Kh�ng c?n PC</td><td>14</td><td class="text-warning">???</td></tr>
+                <tr><td><strong>BROM + UnlockTool</strong></td><td>PC + Tool</td><td>All</td><td class="text-success">⭐⭐⭐⭐⭐</td></tr>
+                <tr><td><strong>Clone Phone Method</strong></td><td>Điện thoại thứ 2</td><td>13-14</td><td class="text-warning">⭐⭐⭐⭐</td></tr>
+                <tr><td><strong>Emergency Call + Browser</strong></td><td>Không cần PC</td><td>13</td><td class="text-warning">⭐⭐⭐</td></tr>
+                <tr><td><strong>Home Screen Layout</strong></td><td>Không cần PC</td><td>14</td><td class="text-warning">⭐⭐⭐</td></tr>
             </tbody>
         </table>
         
-        <h2 id="brom-tool"><i class="fas fa-star me-2"></i>3. BROM Mode + UnlockTool (Khuy?n ngh?)</h2>
+        <h2 id="brom-tool"><i class="fas fa-star me-2"></i>3. BROM Mode + UnlockTool (Khuyến nghị)</h2>
         
         <div class="tip-box">
-            <h5><i class="fas fa-check me-2"></i>Phuong ph�p ?n d?nh nh?t!</h5>
-            <p class="mb-0">Ho?t d?ng v?i m?i phi�n b?n ColorOS v� security patch. Kh�ng ph? thu?c v�o l? h?ng ph?n m?m.</p>
+            <h5><i class="fas fa-check me-2"></i>Phương pháp ổn định nhất!</h5>
+            <p class="mb-0">Hoạt động với mọi phiên bản ColorOS và security patch. Không phụ thuộc vào lỗ hổng phần mềm.</p>
         </div>
         
-        <h3>3.1. Chu?n b?</h3>
+        <h3>3.1. Chuẩn bị</h3>
         <ul>
             <li>PC Windows 7/8/10/11</li>
-            <li>MediaTek USB Driver (<a href="https://file.unlocktool.net/page/all-driver">T?i t?i d�y</a>)</li>
-            <li>UnlockTool (<a href="https://file.unlocktool.net">T?i t?i d�y</a>)</li>
-            <li>C�p USB Type-C t?t</li>
-            <li>Pin di?n tho?i tr�n 50%</li>
+            <li>MediaTek USB Driver (<a href="https://file.unlocktool.net/page/all-driver">Tải tại đây</a>)</li>
+            <li>UnlockTool (<a href="https://file.unlocktool.net">Tải tại đây</a>)</li>
+            <li>Cáp USB Type-C tốt</li>
+            <li>Pin điện thoại trên 50%</li>
         </ul>
         
-        <h3>3.2. V�o BROM Mode Oppo A78</h3>
+        <h3>3.2. Vào BROM Mode Oppo A78</h3>
         <ol>
-            <li>T?t ho�n to�n di?n tho?i</li>
-            <li>Nh?n gi? <strong>Vol Up</strong> ho?c <strong>Vol Down</strong></li>
-            <li>Trong khi gi?, c?m USB v�o PC</li>
-            <li>Device Manager hi?n "<strong>MediaTek Preloader USB</strong>"</li>
-            <li>N?u kh�ng v�o du?c ? Th? Vol Down thay Vol Up</li>
+            <li>Tắt hoàn toàn điện thoại</li>
+            <li>Nhấn giữ <strong>Vol Up</strong> hoặc <strong>Vol Down</strong></li>
+            <li>Trong khi giữ, cắm USB vào PC</li>
+            <li>Device Manager hiện "<strong>MediaTek Preloader USB</strong>"</li>
+            <li>Nếu không vào được → Thử Vol Down thay Vol Up</li>
         </ol>
         
-        <h3>3.3. Bypass v?i UnlockTool</h3>
+        <h3>3.3. Bypass với UnlockTool</h3>
         <ol>
-            <li>Thu� t�i kho?n UnlockTool t?i <a href="https://www.unlocktool.us/">UnlockTool.us</a> (8K/6h)</li>
-            <li>M? UnlockTool ? �ang nh?p</li>
+            <li>Thuê tài khoản UnlockTool tại <a href="https://www.unlocktool.us/">UnlockTool.us</a> (8K/6h)</li>
+            <li>Mở UnlockTool → Đăng nhập</li>
             <li>Tab <strong>Oppo/Realme</strong></li>
-            <li>Ch?n model Oppo A78</li>
+            <li>Chọn model Oppo A78</li>
             <li>Click <strong>FRP Bypass</strong></li>
-            <li>�?i 2-5 ph�t ? Ho�n t?t!</li>
+            <li>Đợi 2-5 phút → Hoàn tất!</li>
         </ol>
         
-        <h2 id="thu-cong"><i class="fas fa-hand-paper me-2"></i>4. Phuong Ph�p Kh�ng C?n PC</h2>
+        <h2 id="thu-cong"><i class="fas fa-hand-paper me-2"></i>4. Phương Pháp Không Cần PC</h2>
         
         <div class="warning-box">
-            <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu �:</h5>
-            <p class="mb-0">C�c phuong ph�p th? c�ng <strong>kh�ng ?n d?nh</strong> v?i ColorOS m?i. C� th? kh�ng ho?t d?ng tr�n b?n v� b?o m?t m?i nh?t.</p>
+            <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý:</h5>
+            <p class="mb-0">Các phương pháp thủ công <strong>không ổn định</strong> với ColorOS mới. Có thể không hoạt động trên bản vá bảo mật mới nhất.</p>
         </div>
         
         <div class="method-card">
             <h5><i class="fas fa-clone me-2"></i>4.1. Clone Phone Method</h5>
-            <p><strong>Y�u c?u:</strong> �i?n tho?i Android th? 2</p>
+            <p><strong>Yêu cầu:</strong> Điện thoại Android thứ 2</p>
             <ol>
-                <li>Tr�n di?n tho?i th? 2: C�i app <strong>Clone Phone</strong> c?a Oppo</li>
-                <li>Tr�n Oppo A78: T?i m�n h�nh setup, t�m option "Clone data"</li>
-                <li>Thi?t l?p A78 l�m "New phone"</li>
-                <li>�i?n tho?i th? 2 l�m "Old phone"</li>
-                <li>K?t n?i v� l�m theo hu?ng d?n</li>
-                <li>FRP c� th? bypass trong qu� tr�nh n�y</li>
+                <li>Trên điện thoại thứ 2: Cài app <strong>Clone Phone</strong> của Oppo</li>
+                <li>Trên Oppo A78: Tại màn hình setup, tìm option "Clone data"</li>
+                <li>Thiết lập A78 làm "New phone"</li>
+                <li>Điện thoại thứ 2 làm "Old phone"</li>
+                <li>Kết nối và làm theo hướng dẫn</li>
+                <li>FRP có thể bypass trong quá trình này</li>
             </ol>
         </div>
         
         <div class="method-card">
             <h5><i class="fas fa-phone me-2"></i>4.2. Emergency Call + Browser</h5>
-            <p><strong>Y�u c?u:</strong> Kh�ng c?n g� th�m</p>
+            <p><strong>Yêu cầu:</strong> Không cần gì thêm</p>
             <ol>
-                <li>T?i m�n h�nh FRP, tap <strong>Emergency Call</strong></li>
-                <li>Nh?p *#*#4636#*#* ho?c *#*#0#*#*</li>
-                <li>N?u v�o du?c Testing Menu ? Navigate t?i Settings</li>
-                <li>Ho?c t�m c�ch m? Browser ? Truy c?p hardreset.info/bypass</li>
-                <li>L�m theo hu?ng d?n d? disable Google Play Services</li>
+                <li>Tại màn hình FRP, tap <strong>Emergency Call</strong></li>
+                <li>Nhập *#*#4636#*#* hoặc *#*#0#*#*</li>
+                <li>Nếu vào được Testing Menu → Navigate tới Settings</li>
+                <li>Hoặc tìm cách mở Browser → Truy cập hardreset.info/bypass</li>
+                <li>Làm theo hướng dẫn để disable Google Play Services</li>
             </ol>
         </div>
         
         <div class="method-card">
             <h5><i class="fas fa-th-large me-2"></i>4.3. Home Screen Layout Method</h5>
-            <p><strong>Y�u c?u:</strong> Kh�ng c?n g� th�m (ColorOS 14)</p>
+            <p><strong>Yêu cầu:</strong> Không cần gì thêm (ColorOS 14)</p>
             <ol>
-                <li>T�m c�ch truy c?p Home Screen t? m�n h�nh setup</li>
-                <li>V�o Settings ? Home screen and lock screen</li>
-                <li>Home screen layout ? Ti?p t?c navigate</li>
-                <li>Cu?i c�ng v�o Settings d? disable FRP</li>
+                <li>Tìm cách truy cập Home Screen từ màn hình setup</li>
+                <li>Vào Settings → Home screen and lock screen</li>
+                <li>Home screen layout → Tiếp tục navigate</li>
+                <li>Cuối cùng vào Settings để disable FRP</li>
             </ol>
         </div>
         
-        <h2 id="other-models"><i class="fas fa-mobile-alt me-2"></i>5. C�c Model Oppo A Kh�c</h2>
+        <h2 id="other-models"><i class="fas fa-mobile-alt me-2"></i>5. Các Model Oppo A Khác</h2>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Model</th><th>Chip</th><th>Mode</th><th>H? tr?</th></tr>
+                <tr><th>Model</th><th>Chip</th><th>Mode</th><th>Hỗ trợ</th></tr>
             </thead>
             <tbody>
-                <tr><td>Oppo A77, A77s, A76</td><td>MediaTek</td><td>BROM</td><td>?</td></tr>
-                <tr><td>Oppo A57, A57e, A57s</td><td>MediaTek</td><td>BROM</td><td>?</td></tr>
-                <tr><td>Oppo A17, A17k</td><td>MediaTek</td><td>BROM</td><td>?</td></tr>
-                <tr><td>Oppo A16, A16k, A16s</td><td>MediaTek</td><td>BROM</td><td>?</td></tr>
-                <tr><td>Oppo A15, A15s</td><td>MediaTek</td><td>BROM</td><td>?</td></tr>
-                <tr><td>Oppo A12, A12e</td><td>MediaTek</td><td>BROM</td><td>?</td></tr>
-                <tr><td>Oppo Reno Series</td><td>MTK/Qualcomm</td><td>BROM/EDL</td><td>?</td></tr>
+                <tr><td>Oppo A77, A77s, A76</td><td>MediaTek</td><td>BROM</td><td>✅</td></tr>
+                <tr><td>Oppo A57, A57e, A57s</td><td>MediaTek</td><td>BROM</td><td>✅</td></tr>
+                <tr><td>Oppo A17, A17k</td><td>MediaTek</td><td>BROM</td><td>✅</td></tr>
+                <tr><td>Oppo A16, A16k, A16s</td><td>MediaTek</td><td>BROM</td><td>✅</td></tr>
+                <tr><td>Oppo A15, A15s</td><td>MediaTek</td><td>BROM</td><td>✅</td></tr>
+                <tr><td>Oppo A12, A12e</td><td>MediaTek</td><td>BROM</td><td>✅</td></tr>
+                <tr><td>Oppo Reno Series</td><td>MTK/Qualcomm</td><td>BROM/EDL</td><td>✅</td></tr>
             </tbody>
         </table>
         
         <div class="info-box">
-            <h5><i class="fas fa-info me-2"></i>Oppo d�ng chip g�?</h5>
-            <p class="mb-0">H?u h?t Oppo A series d�ng <strong>MediaTek</strong> ? BROM Mode. M?t s? Reno d�ng <strong>Qualcomm</strong> ? EDL Mode. Ki?m tra chip d? ch?n d�ng phuong ph�p.</p>
+            <h5><i class="fas fa-info me-2"></i>Oppo dùng chip gì?</h5>
+            <p class="mb-0">Hầu hết Oppo A series dùng <strong>MediaTek</strong> → BROM Mode. Một số Reno dùng <strong>Qualcomm</strong> → EDL Mode. Kiểm tra chip để chọn đúng phương pháp.</p>
         </div>
         
         <h2 id="faq"><i class="fas fa-comments me-2"></i>6. FAQ</h2>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>ColorOS Android 14 c� bypass du?c kh�ng?</h5>
-            <p><strong>�u?c.</strong> UnlockTool c?p nh?t h? tr? ColorOS 14. V�o BROM Mode v� d�ng FRP Bypass.</p>
+            <h5><i class="fas fa-question me-2"></i>ColorOS Android 14 có bypass được không?</h5>
+            <p><strong>Được.</strong> UnlockTool cập nhật hỗ trợ ColorOS 14. Vào BROM Mode và dùng FRP Bypass.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Kh�ng v�o du?c BROM Mode?</h5>
-            <p>Th? c? <strong>Vol Up</strong> v� <strong>Vol Down</strong>. �?m b?o t?t m�y ho�n to�n. D�ng c�p USB t?t. N?u v?n kh�ng du?c, c� th? c?n test point - li�n h? <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>.</p>
+            <h5><i class="fas fa-question me-2"></i>Không vào được BROM Mode?</h5>
+            <p>Thử cả <strong>Vol Up</strong> và <strong>Vol Down</strong>. Đảm bảo tắt máy hoàn toàn. Dùng cáp USB tốt. Nếu vẫn không được, có thể cần test point - liên hệ <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Bypass c� m?t d? li?u kh�ng?</h5>
-            <p><strong>C�.</strong> Bypass FRP s? factory reset, x�a d? li?u. Nhung n?u m�y dang FRP lock th� thu?ng d� m?t d? li?u r?i.</p>
+            <h5><i class="fas fa-question me-2"></i>Bypass có mất dữ liệu không?</h5>
+            <p><strong>Có.</strong> Bypass FRP sẽ factory reset, xóa dữ liệu. Nhưng nếu máy đang FRP lock thì thường đã mất dữ liệu rồi.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Realme c� bypass gi?ng Oppo kh�ng?</h5>
-            <p><strong>C�.</strong> Realme l� sub-brand c?a Oppo, c�ng d�ng ColorOS/Realme UI. Phuong ph�p bypass tuong t?.</p>
+            <h5><i class="fas fa-question me-2"></i>Realme có bypass giống Oppo không?</h5>
+            <p><strong>Có.</strong> Realme là sub-brand của Oppo, cùng dùng ColorOS/Realme UI. Phương pháp bypass tương tự.</p>
         </div>
         
         <div class="price-box">
             <h3><i class="fas fa-unlock me-2"></i>Bypass FRP Oppo A78</h3>
-            <p>BROM Mode + UnlockTool - ?n d?nh nh?t</p>
-            <p class="display-5 fw-bold">8.000d / 6H</p>
-            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg me-2"><i class="fas fa-bolt me-2"></i>Thu� Tool</a>
-            <a href="https://thuetaikhoan.net" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>D?ch V? 50K</a>
+            <p>BROM Mode + UnlockTool - Ổn định nhất</p>
+            <p class="display-5 fw-bold">8.000đ / 6H</p>
+            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg me-2"><i class="fas fa-bolt me-2"></i>Thuê Tool</a>
+            <a href="https://thuetaikhoan.net" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>Dịch Vụ 50K</a>
         </div>
         
-        <h2><i class="fas fa-link me-2"></i>B�i vi?t li�n quan</h2>
+        <h2><i class="fas fa-link me-2"></i>Bài viết liên quan</h2>
         <ul>
             <li><a href="128-frp-realme-11.php">FRP Realme 11</a></li>
             <li><a href="63-mediatek-frp.php">MediaTek FRP Bypass</a></li>
-            <li><a href="71-driver-dien-thoai.php">Driver di?n tho?i</a></li>
+            <li><a href="71-driver-dien-thoai.php">Driver điện thoại</a></li>
             <li><a href="123-frp-poco-x5.php">FRP POCO X5</a></li>
         </ul>
         
@@ -377,7 +378,7 @@ $canonical_url = "https://www.unlocktool.us/articles/127-frp-oppo-a78.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -391,13 +392,13 @@ $canonical_url = "https://www.unlocktool.us/articles/127-frp-oppo-a78.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -405,15 +406,15 @@ $canonical_url = "https://www.unlocktool.us/articles/127-frp-oppo-a78.php";
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -426,7 +427,7 @@ $canonical_url = "https://www.unlocktool.us/articles/127-frp-oppo-a78.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -434,8 +435,8 @@ $canonical_url = "https://www.unlocktool.us/articles/127-frp-oppo-a78.php";
 </div>
 <footer class="bg-dark text-white py-4 text-center">
     <div class="container">
-        <p class="mb-2">&copy; 2026 UnlockTool.us - D?ch v? cho thu� UnlockTool uy t�n #1 Vi?t Nam</p>
-        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thu� UnlockTool 8K</a> | <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+        <p class="mb-2">&copy; 2026 UnlockTool.us - Dịch vụ cho thuê UnlockTool uy tín #1 Việt Nam</p>
+        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thuê UnlockTool 8K</a> | <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
     </div>
 </footer>
 

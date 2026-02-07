@@ -1,6 +1,6 @@
-<?php
-$page_title = "So �? M?ch �i?n Tho?i 2026 - T?i Free Schematic Samsung, iPhone, Xiaomi";
-$page_description = "T?i so d? m?ch di?n tho?i mi?n ph� 2026. Schematic Samsung, iPhone, Xiaomi, Oppo, Vivo. Ph?c v? s?a ch?a ph?n c?ng - Tham kh?o t?i UnlockTool.us";
+﻿<?php
+$page_title = "Sơ Đồ Mạch Điện Thoại 2026 - Tải Free Schematic Samsung, iPhone, Xiaomi";
+$page_description = "Tải sơ đồ mạch điện thoại miễn phí 2026. Schematic Samsung, iPhone, Xiaomi, Oppo, Vivo. Phục vụ sửa chữa phần cứng - Tham khảo tại UnlockTool.us";
 $page_keywords = "so do mach dien thoai, schematic samsung, schematic iphone, so do mach xiaomi, tai schematic mien phi, ban ve mach dien thoai";
 $canonical_url = "https://www.unlocktool.us/articles/115-so-do-mach-dien-thoai.php";
 ?>
@@ -18,7 +18,8 @@ $canonical_url = "https://www.unlocktool.us/articles/115-so-do-mach-dien-thoai.p
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">\n    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
@@ -31,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/115-so-do-mach-dien-thoai.p
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hu?ng d?n k? thu?t">
+    <meta property="article:section" content="Hướng dẫn kỹ thuật">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="M? kh�a di?n tho?i">
+    <meta property="article:tag" content="Mở khóa điện thoại">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -49,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/115-so-do-mach-dien-thoai.p
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -60,8 +61,8 @@ $canonical_url = "https://www.unlocktool.us/articles/115-so-do-mach-dien-thoai.p
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"So d? m?ch di?n tho?i l� g�?","acceptedAnswer":{"@type":"Answer","text":"So d? m?ch (Schematic) l� b?n v? k? thu?t th? hi?n c�c linh ki?n di?n t? v� k?t n?i gi?a ch�ng tr�n bo m?ch di?n tho?i. D�ng d? s?a ch?a ph?n c?ng."}},
-        {"@type":"Question","name":"T?i so d? m?ch ? d�u?","acceptedAnswer":{"@type":"Answer","text":"C� th? t?i t? c�c ngu?n nhu GSM Hosting, MobileRdx, ho?c mua t? c�c nh� cung c?p uy t�n. UnlockTool.us cung c?p h? tr? v� tu v?n."}}
+        {"@type":"Question","name":"Sơ đồ mạch điện thoại là gì?","acceptedAnswer":{"@type":"Answer","text":"Sơ đồ mạch (Schematic) là bản vẽ kỹ thuật thể hiện các linh kiện điện tử và kết nối giữa chúng trên bo mạch điện thoại. Dùng để sửa chữa phần cứng."}},
+        {"@type":"Question","name":"Tải sơ đồ mạch ở đâu?","acceptedAnswer":{"@type":"Answer","text":"Có thể tải từ các nguồn như GSM Hosting, MobileRdx, hoặc mua từ các nhà cung cấp uy tín. UnlockTool.us cung cấp hỗ trợ và tư vấn."}}
     ]}
     </script>
     
@@ -132,7 +133,7 @@ $canonical_url = "https://www.unlocktool.us/articles/115-so-do-mach-dien-thoai.p
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? kh�a di?n tho?i",
+        "name": "Dịch vụ mở khóa điện thoại",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -149,8 +150,8 @@ $canonical_url = "https://www.unlocktool.us/articles/115-so-do-mach-dien-thoai.p
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -160,10 +161,10 @@ $canonical_url = "https://www.unlocktool.us/articles/115-so-do-mach-dien-thoai.p
         <div class="row align-items-center">
             <div class="col-lg-8">
                 <h1><i class="fas fa-microchip me-3"></i><?php echo $page_title; ?></h1>
-                <p class="lead mb-4">T?ng h?p ngu?n t?i so d? m?ch di?n tho?i mi?n ph�. Schematic Samsung, iPhone, Xiaomi, Oppo, Vivo ph?c v? s?a ch?a ph?n c?ng!</p>
+                <p class="lead mb-4">Tổng hợp nguồn tải sơ đồ mạch điện thoại miễn phí. Schematic Samsung, iPhone, Xiaomi, Oppo, Vivo phục vụ sửa chữa phần cứng!</p>
                 <div class="d-flex flex-wrap gap-3">
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-primary btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thu� UnlockTool 8K/6H</a>
-                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>H? Tr? K? Thu?t</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-primary btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê UnlockTool 8K/6H</a>
+                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>Hỗ Trợ Kỹ Thuật</a>
                 </div>
             </div>
             <div class="col-lg-4 text-center mt-4 mt-lg-0">
@@ -179,216 +180,216 @@ $canonical_url = "https://www.unlocktool.us/articles/115-so-do-mach-dien-thoai.p
         <div class="col-lg-8">
             
             <div class="toc-box">
-                <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
+                <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
                 <ul class="list-unstyled">
-                    <li><a href="#so-do-mach-la-gi">1. So d? m?ch l� g�?</a></li>
-                    <li><a href="#tai-sao-can">2. T?i sao c?n so d? m?ch?</a></li>
-                    <li><a href="#cach-doc">3. C�ch d?c so d? m?ch</a></li>
-                    <li><a href="#nguon-tai">4. Ngu?n t?i so d? m?ch</a></li>
-                    <li><a href="#phan-mem">5. Ph?n m?m d?c schematic</a></li>
-                    <li><a href="#hang-pho-bien">6. Schematic theo h�ng</a></li>
+                    <li><a href="#so-do-mach-la-gi">1. Sơ đồ mạch là gì?</a></li>
+                    <li><a href="#tai-sao-can">2. Tại sao cần sơ đồ mạch?</a></li>
+                    <li><a href="#cach-doc">3. Cách đọc sơ đồ mạch</a></li>
+                    <li><a href="#nguon-tai">4. Nguồn tải sơ đồ mạch</a></li>
+                    <li><a href="#phan-mem">5. Phần mềm đọc schematic</a></li>
+                    <li><a href="#hang-pho-bien">6. Schematic theo hãng</a></li>
                     <li><a href="#faq">7. FAQ</a></li>
                 </ul>
             </div>
 
             <section id="so-do-mach-la-gi">
-                <h2><i class="fas fa-info-circle me-2"></i>1. So �? M?ch L� G�?</h2>
+                <h2><i class="fas fa-info-circle me-2"></i>1. Sơ Đồ Mạch Là Gì?</h2>
                 
-                <p><strong>So d? m?ch (Schematic Diagram)</strong> l� b?n v? k? thu?t th? hi?n c�c linh ki?n di?n t? v� k?t n?i gi?a ch�ng tr�n bo m?ch. ��y l� t�i li?u kh�ng th? thi?u cho k? thu?t vi�n s?a ch?a ph?n c?ng di?n tho?i.</p>
+                <p><strong>Sơ đồ mạch (Schematic Diagram)</strong> là bản vẽ kỹ thuật thể hiện các linh kiện điện tử và kết nối giữa chúng trên bo mạch. Đây là tài liệu không thể thiếu cho kỹ thuật viên sửa chữa phần cứng điện thoại.</p>
 
-                <h3>C�c lo?i so d? m?ch:</h3>
+                <h3>Các loại sơ đồ mạch:</h3>
                 <ul>
-                    <li><strong>Schematic:</strong> So d? nguy�n l�, th? hi?n k?t n?i logic gi?a c�c linh ki?n</li>
-                    <li><strong>Boardview:</strong> So d? v? tr� linh ki?n tr�n bo m?ch th?c t?</li>
-                    <li><strong>Block Diagram:</strong> So d? kh?i, th? hi?n c�c module ch?c nang</li>
+                    <li><strong>Schematic:</strong> Sơ đồ nguyên lý, thể hiện kết nối logic giữa các linh kiện</li>
+                    <li><strong>Boardview:</strong> Sơ đồ vị trí linh kiện trên bo mạch thực tế</li>
+                    <li><strong>Block Diagram:</strong> Sơ đồ khối, thể hiện các module chức năng</li>
                 </ul>
 
                 <div class="info-box">
                     <h5><i class="fas fa-info-circle me-2"></i>Schematic vs Boardview</h5>
-                    <p class="mb-0"><strong>Schematic</strong> cho bi?t linh ki?n n�o k?t n?i v?i nhau (logic). <strong>Boardview</strong> cho bi?t linh ki?n n?m ? d�u tr�n bo m?ch (v?t l�). C?n c? hai d? s?a ch?a hi?u qu?.</p>
+                    <p class="mb-0"><strong>Schematic</strong> cho biết linh kiện nào kết nối với nhau (logic). <strong>Boardview</strong> cho biết linh kiện nằm ở đâu trên bo mạch (vật lý). Cần cả hai để sửa chữa hiệu quả.</p>
                 </div>
             </section>
 
             <section id="tai-sao-can">
-                <h2><i class="fas fa-question-circle me-2"></i>2. T?i Sao C?n So �? M?ch?</h2>
+                <h2><i class="fas fa-question-circle me-2"></i>2. Tại Sao Cần Sơ Đồ Mạch?</h2>
                 
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-search text-primary me-2"></i>X�c d?nh l?i</h5>
-                            <p class="small mb-0">T�m du?ng di c?a t�n hi?u, x�c d?nh linh ki?n g�y l?i</p>
+                            <h5><i class="fas fa-search text-primary me-2"></i>Xác định lỗi</h5>
+                            <p class="small mb-0">Tìm đường đi của tín hiệu, xác định linh kiện gây lỗi</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-microchip text-success me-2"></i>T�m linh ki?n thay th?</h5>
-                            <p class="small mb-0">Bi?t gi� tr?, th�ng s? linh ki?n c?n thay</p>
+                            <h5><i class="fas fa-microchip text-success me-2"></i>Tìm linh kiện thay thế</h5>
+                            <p class="small mb-0">Biết giá trị, thông số linh kiện cần thay</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-link text-warning me-2"></i>Ki?m tra du?ng m?ch</h5>
-                            <p class="small mb-0">Ki?m tra th�ng m?ch, ng?n m?ch tr�n bo</p>
+                            <h5><i class="fas fa-link text-warning me-2"></i>Kiểm tra đường mạch</h5>
+                            <p class="small mb-0">Kiểm tra thông mạch, ngắn mạch trên bo</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-bolt text-danger me-2"></i>�o di?n �p</h5>
-                            <p class="small mb-0">Bi?t di?n �p chu?n t?i c�c di?m do</p>
+                            <h5><i class="fas fa-bolt text-danger me-2"></i>Đo điện áp</h5>
+                            <p class="small mb-0">Biết điện áp chuẩn tại các điểm đo</p>
                         </div>
                     </div>
                 </div>
             </section>
 
             <section id="cach-doc">
-                <h2><i class="fas fa-book-reader me-2"></i>3. C�ch �?c So �? M?ch</h2>
+                <h2><i class="fas fa-book-reader me-2"></i>3. Cách Đọc Sơ Đồ Mạch</h2>
                 
-                <h3>C�c k� hi?u co b?n:</h3>
+                <h3>Các ký hiệu cơ bản:</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>K� hi?u</th>
-                            <th>T�n</th>
-                            <th>Ch?c nang</th>
+                            <th>Ký hiệu</th>
+                            <th>Tên</th>
+                            <th>Chức năng</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td>R</td>
-                            <td>Resistor (�i?n tr?)</td>
-                            <td>H?n ch? d�ng di?n</td>
+                            <td>Resistor (Điện trở)</td>
+                            <td>Hạn chế dòng điện</td>
                         </tr>
                         <tr>
                             <td>C</td>
-                            <td>Capacitor (T? di?n)</td>
-                            <td>Luu tr?, l?c di?n</td>
+                            <td>Capacitor (Tụ điện)</td>
+                            <td>Lưu trữ, lọc điện</td>
                         </tr>
                         <tr>
                             <td>L</td>
-                            <td>Inductor (Cu?n c?m)</td>
-                            <td>L?c nhi?u, ?n �p</td>
+                            <td>Inductor (Cuộn cảm)</td>
+                            <td>Lọc nhiễu, ổn áp</td>
                         </tr>
                         <tr>
                             <td>U</td>
-                            <td>IC (Vi m?ch)</td>
-                            <td>X? l� t�n hi?u</td>
+                            <td>IC (Vi mạch)</td>
+                            <td>Xử lý tín hiệu</td>
                         </tr>
                         <tr>
                             <td>D</td>
                             <td>Diode</td>
-                            <td>Ch?nh luu, b?o v?</td>
+                            <td>Chỉnh lưu, bảo vệ</td>
                         </tr>
                         <tr>
                             <td>Q</td>
                             <td>Transistor/MOSFET</td>
-                            <td>Khu?ch d?i, chuy?n m?ch</td>
+                            <td>Khuếch đại, chuyển mạch</td>
                         </tr>
                     </tbody>
                 </table>
 
-                <h3>�u?ng di?n �p ph? bi?n:</h3>
+                <h3>Đường điện áp phổ biến:</h3>
                 <ul>
-                    <li><strong>VBAT:</strong> �i?n �p pin (3.7-4.2V)</li>
-                    <li><strong>VCC:</strong> Ngu?n c?p chung</li>
+                    <li><strong>VBAT:</strong> Điện áp pin (3.7-4.2V)</li>
+                    <li><strong>VCC:</strong> Nguồn cấp chung</li>
                     <li><strong>GND:</strong> Mass (0V)</li>
-                    <li><strong>VDDIO:</strong> Ngu?n I/O (1.8V)</li>
-                    <li><strong>VCORE:</strong> Ngu?n CPU core (0.8-1.2V)</li>
+                    <li><strong>VDDIO:</strong> Nguồn I/O (1.8V)</li>
+                    <li><strong>VCORE:</strong> Nguồn CPU core (0.8-1.2V)</li>
                 </ul>
             </section>
 
             <section id="nguon-tai">
-                <h2><i class="fas fa-download me-2"></i>4. Ngu?n T?i So �? M?ch</h2>
+                <h2><i class="fas fa-download me-2"></i>4. Nguồn Tải Sơ Đồ Mạch</h2>
                 
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Ngu?n</th>
-                            <th>�?c di?m</th>
-                            <th>Ph�</th>
+                            <th>Nguồn</th>
+                            <th>Đặc điểm</th>
+                            <th>Phí</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td><strong>GSM Hosting</strong></td>
-                            <td>Di?n d�n l?n, nhi?u schematic</td>
-                            <td>Mi?n ph� (dang k�)</td>
+                            <td>Diễn đàn lớn, nhiều schematic</td>
+                            <td>Miễn phí (đăng ký)</td>
                         </tr>
                         <tr>
                             <td><strong>MobileRdx</strong></td>
-                            <td>Website chuy�n schematic</td>
-                            <td>Mi?n ph�/VIP</td>
+                            <td>Website chuyên schematic</td>
+                            <td>Miễn phí/VIP</td>
                         </tr>
                         <tr>
                             <td><strong>Telegram Groups</strong></td>
-                            <td>Nh�m chia s? schematic</td>
-                            <td>Mi?n ph�</td>
+                            <td>Nhóm chia sẻ schematic</td>
+                            <td>Miễn phí</td>
                         </tr>
                         <tr>
                             <td><strong>ZXW Tool</strong></td>
-                            <td>Ph?n m?m chuy�n nghi?p</td>
-                            <td>Tr? ph� (license)</td>
+                            <td>Phần mềm chuyên nghiệp</td>
+                            <td>Trả phí (license)</td>
                         </tr>
                         <tr>
                             <td><strong>Phoneboard</strong></td>
                             <td>Boardview online</td>
-                            <td>Tr? ph�</td>
+                            <td>Trả phí</td>
                         </tr>
                     </tbody>
                 </table>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu � b?n quy?n</h5>
-                    <p class="mb-0">So d? m?ch l� t�i s?n tr� tu? c?a nh� s?n xu?t. S? d?ng cho m?c d�ch s?a ch?a c� nh�n thu?ng du?c ch?p nh?n, nhung ph�n ph?i thuong m?i c� th? vi ph?m b?n quy?n.</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý bản quyền</h5>
+                    <p class="mb-0">Sơ đồ mạch là tài sản trí tuệ của nhà sản xuất. Sử dụng cho mục đích sửa chữa cá nhân thường được chấp nhận, nhưng phân phối thương mại có thể vi phạm bản quyền.</p>
                 </div>
             </section>
 
             <section id="phan-mem">
-                <h2><i class="fas fa-laptop me-2"></i>5. Ph?n M?m �?c Schematic</h2>
+                <h2><i class="fas fa-laptop me-2"></i>5. Phần Mềm Đọc Schematic</h2>
                 
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Ph?n m?m</th>
-                            <th>�?nh d?ng h? tr?</th>
-                            <th>�?c di?m</th>
+                            <th>Phần mềm</th>
+                            <th>Định dạng hỗ trợ</th>
+                            <th>Đặc điểm</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td><strong>ZXW Tool</strong></td>
-                            <td>�?nh d?ng ri�ng</td>
-                            <td>Chuy�n nghi?p, nhi?u model</td>
+                            <td>Định dạng riêng</td>
+                            <td>Chuyên nghiệp, nhiều model</td>
                         </tr>
                         <tr>
                             <td><strong>WUXINJI Dongle</strong></td>
-                            <td>�?nh d?ng ri�ng</td>
+                            <td>Định dạng riêng</td>
                             <td>Schematic + Boardview</td>
                         </tr>
                         <tr>
                             <td><strong>OpenBoardView</strong></td>
                             <td>.brd, .bv</td>
-                            <td>Mi?n ph�, open source</td>
+                            <td>Miễn phí, open source</td>
                         </tr>
                         <tr>
                             <td><strong>Adobe PDF Reader</strong></td>
                             <td>.pdf</td>
-                            <td>�?c schematic PDF</td>
+                            <td>Đọc schematic PDF</td>
                         </tr>
                     </tbody>
                 </table>
             </section>
 
             <section id="hang-pho-bien">
-                <h2><i class="fas fa-mobile-alt me-2"></i>6. Schematic Theo H�ng</h2>
+                <h2><i class="fas fa-mobile-alt me-2"></i>6. Schematic Theo Hãng</h2>
                 
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fab fa-apple me-2"></i>iPhone</h5>
                             <ul class="small mb-0">
-                                <li>ZXW Tool (ph? bi?n nh?t)</li>
+                                <li>ZXW Tool (phổ biến nhất)</li>
                                 <li>WUXINJI Dongle</li>
-                                <li>PDF t? GSM Hosting</li>
+                                <li>PDF từ GSM Hosting</li>
                             </ul>
                         </div>
                     </div>
@@ -396,9 +397,9 @@ $canonical_url = "https://www.unlocktool.us/articles/115-so-do-mach-dien-thoai.p
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-mobile me-2"></i>Samsung</h5>
                             <ul class="small mb-0">
-                                <li>Kh� ph? bi?n, nhi?u ngu?n</li>
+                                <li>Khá phổ biến, nhiều nguồn</li>
                                 <li>PDF, boardview file</li>
-                                <li>ZXW Tool h? tr?</li>
+                                <li>ZXW Tool hỗ trợ</li>
                             </ul>
                         </div>
                     </div>
@@ -406,7 +407,7 @@ $canonical_url = "https://www.unlocktool.us/articles/115-so-do-mach-dien-thoai.p
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-mobile-alt me-2"></i>Xiaomi</h5>
                             <ul class="small mb-0">
-                                <li>C� nhi?u schematic free</li>
+                                <li>Có nhiều schematic free</li>
                                 <li>Telegram groups</li>
                                 <li>MobileRdx</li>
                             </ul>
@@ -416,9 +417,9 @@ $canonical_url = "https://www.unlocktool.us/articles/115-so-do-mach-dien-thoai.p
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-mobile me-2"></i>Oppo/Vivo</h5>
                             <ul class="small mb-0">
-                                <li>�t ngu?n hon</li>
-                                <li>M?t s? model c� free</li>
-                                <li>C?n t�m k?</li>
+                                <li>Ít nguồn hơn</li>
+                                <li>Một số model có free</li>
+                                <li>Cần tìm kỹ</li>
                             </ul>
                         </div>
                     </div>
@@ -432,24 +433,24 @@ $canonical_url = "https://www.unlocktool.us/articles/115-so-do-mach-dien-thoai.p
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
-                                So d? m?ch c� c?n thi?t cho s?a ph?n m?m kh�ng?
+                                Sơ đồ mạch có cần thiết cho sửa phần mềm không?
                             </button>
                         </h2>
                         <div id="faq1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
-                                <strong>Kh�ng.</strong> S?a ph?n m?m (flash, bypass, unlock) kh�ng c?n so d? m?ch. Schematic ch? c?n cho s?a ch?a ph?n c?ng (thay linh ki?n, h�n x�...).
+                                <strong>Không.</strong> Sửa phần mềm (flash, bypass, unlock) không cần sơ đồ mạch. Schematic chỉ cần cho sửa chữa phần cứng (thay linh kiện, hàn xì...).
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
-                                T?i sao so d? m?ch model m?i kh� t�m?
+                                Tại sao sơ đồ mạch model mới khó tìm?
                             </button>
                         </h2>
                         <div id="faq2" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                Nh� s?n xu?t b?o m?t so d? m?ch. Model m?i thu?ng c?n th?i gian d? "r� r?" ho?c du?c reverse engineer. Model cu hon d? t�m hon.
+                                Nhà sản xuất bảo mật sơ đồ mạch. Model mới thường cần thời gian để "rò rỉ" hoặc được reverse engineer. Model cũ hơn dễ tìm hơn.
                             </div>
                         </div>
                     </div>
@@ -457,8 +458,8 @@ $canonical_url = "https://www.unlocktool.us/articles/115-so-do-mach-dien-thoai.p
             </section>
 
             <div class="price-highlight">
-                <h4><i class="fas fa-headset me-2"></i>C?n h? tr? s?a ch?a?</h4>
-                <p>Li�n h? d?i ngu k? thu?t vi�n t?i</p>
+                <h4><i class="fas fa-headset me-2"></i>Cần hỗ trợ sửa chữa?</h4>
+                <p>Liên hệ đội ngũ kỹ thuật viên tại</p>
                 <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-phone me-2"></i>Thuetaikhoan.net</a>
             </div>
 
@@ -468,20 +469,20 @@ $canonical_url = "https://www.unlocktool.us/articles/115-so-do-mach-dien-thoai.p
         <div class="col-lg-4">
             <div class="sticky-top" style="top:20px">
                 <div class="price-highlight mb-4">
-                    <h5><i class="fas fa-unlock me-2"></i>Thu� UnlockTool</h5>
-                    <p class="price" style="font-size:2.5rem">8.000d</p>
-                    <p>/ 6 ti?ng</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thu� Ngay</a>
+                    <h5><i class="fas fa-unlock me-2"></i>Thuê UnlockTool</h5>
+                    <p class="price" style="font-size:2.5rem">8.000đ</p>
+                    <p>/ 6 tiếng</p>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thuê Ngay</a>
                 </div>
 
                 <div class="card">
                     <div class="card-header bg-dark text-white">
-                        <i class="fas fa-link me-2"></i>B�i vi?t li�n quan
+                        <i class="fas fa-link me-2"></i>Bài viết liên quan
                     </div>
                     <ul class="list-group list-group-flush">
-                        <li class="list-group-item"><a href="111-sua-imei-samsung-2026.php">S?a IMEI Samsung</a></li>
+                        <li class="list-group-item"><a href="111-sua-imei-samsung-2026.php">Sửa IMEI Samsung</a></li>
                         <li class="list-group-item"><a href="112-flash-firmware-samsung-odin.php">Flash Samsung Odin</a></li>
-                        <li class="list-group-item"><a href="81-unlocktool-huong-dan-su-dung.php">Hu?ng d?n UnlockTool</a></li>
+                        <li class="list-group-item"><a href="81-unlocktool-huong-dan-su-dung.php">Hướng dẫn UnlockTool</a></li>
                     </ul>
                 </div>
             </div>
@@ -496,7 +497,7 @@ $canonical_url = "https://www.unlocktool.us/articles/115-so-do-mach-dien-thoai.p
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -510,13 +511,13 @@ $canonical_url = "https://www.unlocktool.us/articles/115-so-do-mach-dien-thoai.p
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -524,15 +525,15 @@ $canonical_url = "https://www.unlocktool.us/articles/115-so-do-mach-dien-thoai.p
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -545,7 +546,7 @@ $canonical_url = "https://www.unlocktool.us/articles/115-so-do-mach-dien-thoai.p
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -556,10 +557,10 @@ $canonical_url = "https://www.unlocktool.us/articles/115-so-do-mach-dien-thoai.p
         <div class="row">
             <div class="col-md-6">
                 <h5>UnlockTool.us</h5>
-                <p class="small">Cho thu� t�i kho?n tool m? kh�a di?n tho?i uy t�n nh?t Vi?t Nam.</p>
+                <p class="small">Cho thuê tài khoản tool mở khóa điện thoại uy tín nhất Việt Nam.</p>
             </div>
             <div class="col-md-6 text-md-end">
-                <p class="small mb-1">D?ch v?: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+                <p class="small mb-1">Dịch vụ: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
                 <p class="small">&copy; 2026 UnlockTool.us - All rights reserved.</p>
             </div>
         </div>

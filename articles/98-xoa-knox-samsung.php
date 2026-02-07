@@ -1,7 +1,7 @@
-<?php
-$page_title = "X�a Knox Samsung 2026 - Hu?ng D?n Remove Knox Chi Ti?t | Thu� Tool 8K/6H";
-$page_description = "Hu?ng d?n x�a Knox Samsung chi ti?t nh?t 2026. Remove Knox Warranty Void, Knox MDM, Knox Guard. S? d?ng UnlockTool bypass Knox an to�n. Thu� tool 8.000d/6h t?i UnlockTool.us";
-$page_keywords = "x�a knox samsung, remove knox samsung, knox warranty void, bypass knox samsung, knox samsung, knox mdm remove";
+﻿<?php
+$page_title = "Xóa Knox Samsung 2026 - Hướng Dẫn Remove Knox Chi Tiết | Thuê Tool 8K/6H";
+$page_description = "Hướng dẫn xóa Knox Samsung chi tiết nhất 2026. Remove Knox Warranty Void, Knox MDM, Knox Guard. Sử dụng UnlockTool bypass Knox an toàn. Thuê tool 8.000đ/6h tại UnlockTool.us";
+$page_keywords = "xóa knox samsung, remove knox samsung, knox warranty void, bypass knox samsung, knox samsung, knox mdm remove";
 $canonical_url = "https://www.unlocktool.us/articles/98-xoa-knox-samsung.php";
 ?>
 <!DOCTYPE html>
@@ -18,7 +18,8 @@ $canonical_url = "https://www.unlocktool.us/articles/98-xoa-knox-samsung.php";
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">\n    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
@@ -31,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/98-xoa-knox-samsung.php";
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hu?ng d?n k? thu?t">
+    <meta property="article:section" content="Hướng dẫn kỹ thuật">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="M? kh�a di?n tho?i">
+    <meta property="article:tag" content="Mở khóa điện thoại">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -49,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/98-xoa-knox-samsung.php";
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -59,18 +60,18 @@ $canonical_url = "https://www.unlocktool.us/articles/98-xoa-knox-samsung.php";
     {"@context":"https://schema.org","@type":"Article","headline":"<?php echo $page_title; ?>","author":{"@type":"Organization","name":"UnlockTool.us"},"datePublished":"2026-01-25","dateModified":"2026-01-25"}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"HowTo","name":"X�a Knox Samsung","description":"C�c bu?c x�a Knox tr�n di?n tho?i Samsung","step":[
-        {"@type":"HowToStep","name":"C�i driver Samsung","text":"T?i v� c�i Samsung USB Driver"},
-        {"@type":"HowToStep","name":"V�o Download Mode","text":"T?t m�y, gi? Vol Down + Bixby/Home + c?m c�p"},
-        {"@type":"HowToStep","name":"M? UnlockTool","text":"�ang nh?p v� ch?n Samsung > Knox Remove"},
-        {"@type":"HowToStep","name":"X�a Knox","text":"Nh?n Start v� ch? ho�n t?t"}
+    {"@context":"https://schema.org","@type":"HowTo","name":"Xóa Knox Samsung","description":"Các bước xóa Knox trên điện thoại Samsung","step":[
+        {"@type":"HowToStep","name":"Cài driver Samsung","text":"Tải và cài Samsung USB Driver"},
+        {"@type":"HowToStep","name":"Vào Download Mode","text":"Tắt máy, giữ Vol Down + Bixby/Home + cắm cáp"},
+        {"@type":"HowToStep","name":"Mở UnlockTool","text":"Đăng nhập và chọn Samsung > Knox Remove"},
+        {"@type":"HowToStep","name":"Xóa Knox","text":"Nhấn Start và chờ hoàn tất"}
     ]}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"Knox Samsung l� g�?","acceptedAnswer":{"@type":"Answer","text":"Knox l� n?n t?ng b?o m?t c?a Samsung, bao g?m Knox Warranty Void (d�nh d?u m�y d� unlock bootloader), Knox MDM (qu?n l� thi?t b? doanh nghi?p), v� Knox Guard (kh�a m�y t? xa). Knox du?c t�ch h?p s�u trong firmware Samsung."}},
-        {"@type":"Question","name":"X�a Knox Samsung m?t bao l�u?","acceptedAnswer":{"@type":"Answer","text":"X�a Knox thu?ng m?t 5-15 ph�t t�y model v� lo?i Knox c?n x�a. Knox Warranty Void x�a nhanh hon Knox MDM."}},
-        {"@type":"Question","name":"Gi� x�a Knox Samsung bao nhi�u?","acceptedAnswer":{"@type":"Answer","text":"Thu� tool x�a Knox: 8.000d/6 ti?ng t?i UnlockTool.us. D?ch v? l�m h?: t? 100.000d t?i Thuetaikhoan.net."}}
+        {"@type":"Question","name":"Knox Samsung là gì?","acceptedAnswer":{"@type":"Answer","text":"Knox là nền tảng bảo mật của Samsung, bao gồm Knox Warranty Void (đánh dấu máy đã unlock bootloader), Knox MDM (quản lý thiết bị doanh nghiệp), và Knox Guard (khóa máy từ xa). Knox được tích hợp sâu trong firmware Samsung."}},
+        {"@type":"Question","name":"Xóa Knox Samsung mất bao lâu?","acceptedAnswer":{"@type":"Answer","text":"Xóa Knox thường mất 5-15 phút tùy model và loại Knox cần xóa. Knox Warranty Void xóa nhanh hơn Knox MDM."}},
+        {"@type":"Question","name":"Giá xóa Knox Samsung bao nhiêu?","acceptedAnswer":{"@type":"Answer","text":"Thuê tool xóa Knox: 8.000đ/6 tiếng tại UnlockTool.us. Dịch vụ làm hộ: từ 100.000đ tại Thuetaikhoan.net."}}
     ]}
     </script>
     
@@ -145,7 +146,7 @@ $canonical_url = "https://www.unlocktool.us/articles/98-xoa-knox-samsung.php";
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? kh�a di?n tho?i",
+        "name": "Dịch vụ mở khóa điện thoại",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -162,8 +163,8 @@ $canonical_url = "https://www.unlocktool.us/articles/98-xoa-knox-samsung.php";
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -173,10 +174,10 @@ $canonical_url = "https://www.unlocktool.us/articles/98-xoa-knox-samsung.php";
         <div class="row align-items-center">
             <div class="col-lg-8">
                 <h1><i class="fas fa-shield-alt me-3"></i><?php echo $page_title; ?></h1>
-                <p class="lead mb-4">Hu?ng d?n x�a Knox Samsung d?y d? nh?t 2026. Knox Warranty Void, Knox MDM, Knox Guard - T?t c? d?u c� th? x�a du?c v?i UnlockTool!</p>
+                <p class="lead mb-4">Hướng dẫn xóa Knox Samsung đầy đủ nhất 2026. Knox Warranty Void, Knox MDM, Knox Guard - Tất cả đều có thể xóa được với UnlockTool!</p>
                 <div class="d-flex flex-wrap gap-3">
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thu� Tool 8K/6H</a>
-                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>D?ch V? L�m H?</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê Tool 8K/6H</a>
+                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>Dịch Vụ Làm Hộ</a>
                 </div>
             </div>
             <div class="col-lg-4 text-center mt-4 mt-lg-0">
@@ -192,317 +193,317 @@ $canonical_url = "https://www.unlocktool.us/articles/98-xoa-knox-samsung.php";
         <div class="col-lg-8">
             
             <div class="toc-box">
-                <h4><i class="fas fa-list me-2"></i>M?c L?c B�i Vi?t</h4>
+                <h4><i class="fas fa-list me-2"></i>Mục Lục Bài Viết</h4>
                 <ul class="list-unstyled">
-                    <li><a href="#knox-la-gi">1. Knox Samsung l� g�?</a></li>
-                    <li><a href="#cac-loai-knox">2. C�c lo?i Knox v� c�ch nh?n bi?t</a></li>
-                    <li><a href="#chuan-bi">3. Chu?n b? tru?c khi x�a Knox</a></li>
-                    <li><a href="#xoa-knox-warranty">4. X�a Knox Warranty Void (0x1)</a></li>
-                    <li><a href="#xoa-knox-mdm">5. X�a Knox MDM</a></li>
-                    <li><a href="#xoa-knox-guard">6. X�a Knox Guard</a></li>
-                    <li><a href="#loi-thuong-gap">7. L?i thu?ng g?p v� c�ch kh?c ph?c</a></li>
-                    <li><a href="#faq">8. C�u h?i thu?ng g?p (FAQ)</a></li>
+                    <li><a href="#knox-la-gi">1. Knox Samsung là gì?</a></li>
+                    <li><a href="#cac-loai-knox">2. Các loại Knox và cách nhận biết</a></li>
+                    <li><a href="#chuan-bi">3. Chuẩn bị trước khi xóa Knox</a></li>
+                    <li><a href="#xoa-knox-warranty">4. Xóa Knox Warranty Void (0x1)</a></li>
+                    <li><a href="#xoa-knox-mdm">5. Xóa Knox MDM</a></li>
+                    <li><a href="#xoa-knox-guard">6. Xóa Knox Guard</a></li>
+                    <li><a href="#loi-thuong-gap">7. Lỗi thường gặp và cách khắc phục</a></li>
+                    <li><a href="#faq">8. Câu hỏi thường gặp (FAQ)</a></li>
                 </ul>
             </div>
 
             <section id="knox-la-gi">
-                <h2><i class="fas fa-info-circle me-2"></i>1. Knox Samsung L� G�?</h2>
+                <h2><i class="fas fa-info-circle me-2"></i>1. Knox Samsung Là Gì?</h2>
                 
-                <p><strong>Samsung Knox</strong> l� n?n t?ng b?o m?t to�n di?n du?c Samsung ph�t tri?n, t�ch h?p s�u v�o ph?n c?ng v� ph?n m?m c?a c�c thi?t b? Samsung. Knox b?o v? d? li?u ngu?i d�ng v� doanh nghi?p t? khi b?t m�y d?n khi t?t m�y.</p>
+                <p><strong>Samsung Knox</strong> là nền tảng bảo mật toàn diện được Samsung phát triển, tích hợp sâu vào phần cứng và phần mềm của các thiết bị Samsung. Knox bảo vệ dữ liệu người dùng và doanh nghiệp từ khi bật máy đến khi tắt máy.</p>
 
-                <h3>L?ch s? ph�t tri?n Knox</h3>
+                <h3>Lịch sử phát triển Knox</h3>
                 <ul>
-                    <li><strong>2013:</strong> Knox ra m?t l?n d?u tr�n Galaxy S4</li>
-                    <li><strong>2014:</strong> Knox du?c B? Qu?c ph�ng M? ch?ng nh?n</li>
-                    <li><strong>2017:</strong> Knox 2.7 v?i nhi?u t�nh nang doanh nghi?p</li>
-                    <li><strong>2019:</strong> Knox 3.x v?i b?o m?t chip ARM TrustZone</li>
-                    <li><strong>2023-2026:</strong> Knox ti?p t?c du?c n�ng c?p tr�n Galaxy S23/S24/S25</li>
+                    <li><strong>2013:</strong> Knox ra mắt lần đầu trên Galaxy S4</li>
+                    <li><strong>2014:</strong> Knox được Bộ Quốc phòng Mỹ chứng nhận</li>
+                    <li><strong>2017:</strong> Knox 2.7 với nhiều tính năng doanh nghiệp</li>
+                    <li><strong>2019:</strong> Knox 3.x với bảo mật chip ARM TrustZone</li>
+                    <li><strong>2023-2026:</strong> Knox tiếp tục được nâng cấp trên Galaxy S23/S24/S25</li>
                 </ul>
 
-                <h3>C�c th�nh ph?n c?a Knox:</h3>
+                <h3>Các thành phần của Knox:</h3>
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-microchip text-primary me-2"></i>Knox Hardware</h5>
-                            <p class="small mb-0">B?o m?t ? c?p d? chip, bao g?m TrustZone, Knox Warranty Fuse (e-fuse). Khi bootloader b? unlock, e-fuse s? b? d?t ch�y vinh vi?n.</p>
+                            <p class="small mb-0">Bảo mật ở cấp độ chip, bao gồm TrustZone, Knox Warranty Fuse (e-fuse). Khi bootloader bị unlock, e-fuse sẽ bị đốt cháy vĩnh viễn.</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-code text-success me-2"></i>Knox Software</h5>
-                            <p class="small mb-0">C�c ?ng d?ng v� d?ch v? b?o m?t: Secure Folder, Knox MDM, Knox Guard, Knox Manage...</p>
+                            <p class="small mb-0">Các ứng dụng và dịch vụ bảo mật: Secure Folder, Knox MDM, Knox Guard, Knox Manage...</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>T?i sao ngu?i d�ng c?n x�a Knox?</h5>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Tại sao người dùng cần xóa Knox?</h5>
                     <ul class="mb-0">
                         <li><strong>Knox Warranty Void 0x1:</strong> Sau khi unlock bootloader, flash ROM custom</li>
-                        <li><strong>Knox MDM:</strong> M�y c�ng ty cu, b? qu?n l� t? xa</li>
-                        <li><strong>Knox Guard:</strong> M�y b? kh�a do mua tr? g�p, chua thanh to�n h?t</li>
-                        <li><strong>B�n m�y:</strong> X�a Knox d? m�y "s?ch" tru?c khi b�n</li>
+                        <li><strong>Knox MDM:</strong> Máy công ty cũ, bị quản lý từ xa</li>
+                        <li><strong>Knox Guard:</strong> Máy bị khóa do mua trả góp, chưa thanh toán hết</li>
+                        <li><strong>Bán máy:</strong> Xóa Knox để máy "sạch" trước khi bán</li>
                     </ul>
                 </div>
             </section>
 
             <section id="cac-loai-knox">
-                <h2><i class="fas fa-layer-group me-2"></i>2. C�c Lo?i Knox v� C�ch Nh?n Bi?t</h2>
+                <h2><i class="fas fa-layer-group me-2"></i>2. Các Loại Knox và Cách Nhận Biết</h2>
                 
                 <div class="knox-type">
                     <h4><i class="fas fa-exclamation-circle text-danger me-2"></i>Knox Warranty Void (0x1)</h4>
-                    <p><strong>��y l� g�?</strong> Khi b?n unlock bootloader Samsung, m?t e-fuse trong chip s? b? "d?t ch�y" vinh vi?n, d�nh d?u m�y d� b? can thi?p. Tr?ng th�i chuy?n t? 0x0 (nguy�n b?n) sang 0x1 (d� unlock).</p>
+                    <p><strong>Đây là gì?</strong> Khi bạn unlock bootloader Samsung, một e-fuse trong chip sẽ bị "đốt cháy" vĩnh viễn, đánh dấu máy đã bị can thiệp. Trạng thái chuyển từ 0x0 (nguyên bản) sang 0x1 (đã unlock).</p>
                     
-                    <p><strong>C�ch ki?m tra:</strong></p>
+                    <p><strong>Cách kiểm tra:</strong></p>
                     <ol>
-                        <li>T?t m�y Samsung</li>
-                        <li>V�o Download Mode: Vol Down + Bixby + c?m c�p USB</li>
-                        <li>Nh�n d�ng <strong>"Warranty Void"</strong> ho?c <strong>"KNOX WARRANTY VOID: 0x1"</strong></li>
+                        <li>Tắt máy Samsung</li>
+                        <li>Vào Download Mode: Vol Down + Bixby + cắm cáp USB</li>
+                        <li>Nhìn dòng <strong>"Warranty Void"</strong> hoặc <strong>"KNOX WARRANTY VOID: 0x1"</strong></li>
                     </ol>
                     
-                    <p><strong>H?u qu?:</strong></p>
+                    <p><strong>Hậu quả:</strong></p>
                     <ul>
-                        <li>M?t b?o h�nh Samsung</li>
-                        <li>Samsung Pay kh�ng ho?t d?ng</li>
-                        <li>M?t s? app ng�n h�ng kh�ng ch?y</li>
-                        <li>Secure Folder c� th? b? ?nh hu?ng</li>
+                        <li>Mất bảo hành Samsung</li>
+                        <li>Samsung Pay không hoạt động</li>
+                        <li>Một số app ngân hàng không chạy</li>
+                        <li>Secure Folder có thể bị ảnh hưởng</li>
                     </ul>
                     
                     <div class="info-box">
-                        <p class="mb-0"><strong>C� th? x�a kh�ng?</strong> V? l� thuy?t, e-fuse kh�ng th? reset. Tuy nhi�n, c� th? patch firmware d? ?n tr?ng th�i Knox 0x1, gi�p m�y ho?t d?ng nhu b�nh thu?ng.</p>
+                        <p class="mb-0"><strong>Có thể xóa không?</strong> Về lý thuyết, e-fuse không thể reset. Tuy nhiên, có thể patch firmware để ẩn trạng thái Knox 0x1, giúp máy hoạt động như bình thường.</p>
                     </div>
                 </div>
 
                 <div class="knox-type">
                     <h4><i class="fas fa-building text-warning me-2"></i>Knox MDM (Mobile Device Management)</h4>
-                    <p><strong>��y l� g�?</strong> Knox MDM cho ph�p doanh nghi?p qu?n l� thi?t b? Samsung c?a nh�n vi�n t? xa: c�i d?t app b?t bu?c, ch?n t�nh nang, theo d�i v? tr�, x�a d? li?u t? xa...</p>
+                    <p><strong>Đây là gì?</strong> Knox MDM cho phép doanh nghiệp quản lý thiết bị Samsung của nhân viên từ xa: cài đặt app bắt buộc, chặn tính năng, theo dõi vị trí, xóa dữ liệu từ xa...</p>
                     
-                    <p><strong>C�ch nh?n bi?t:</strong></p>
+                    <p><strong>Cách nhận biết:</strong></p>
                     <ul>
-                        <li>Khi setup m�y c� bu?c "Device is managed by [Company]"</li>
-                        <li>Settings > Biometrics and Security > Device Admin Apps > C� app MDM</li>
-                        <li>Kh�ng th? reset m�y v� b? block b?i MDM</li>
-                        <li>M?t s? t�nh nang b? v� hi?u h�a (camera, install APK...)</li>
+                        <li>Khi setup máy có bước "Device is managed by [Company]"</li>
+                        <li>Settings > Biometrics and Security > Device Admin Apps > Có app MDM</li>
+                        <li>Không thể reset máy vì bị block bởi MDM</li>
+                        <li>Một số tính năng bị vô hiệu hóa (camera, install APK...)</li>
                     </ul>
                     
                     <div class="success-box">
-                        <p class="mb-0"><strong>C� th? x�a kh�ng?</strong> C�! Knox MDM c� th? x�a ho�n to�n b?ng UnlockTool qua Download Mode. Sau khi x�a, m�y ho?t d?ng nhu b�nh thu?ng.</p>
+                        <p class="mb-0"><strong>Có thể xóa không?</strong> CÓ! Knox MDM có thể xóa hoàn toàn bằng UnlockTool qua Download Mode. Sau khi xóa, máy hoạt động như bình thường.</p>
                     </div>
                 </div>
 
                 <div class="knox-type">
                     <h4><i class="fas fa-lock text-danger me-2"></i>Knox Guard (KG Lock)</h4>
-                    <p><strong>��y l� g�?</strong> Knox Guard l� d?ch v? kh�a thi?t b? t? xa, thu?ng du?c s? d?ng b?i nh� m?ng ho?c c?a h�ng khi b�n m�y tr? g�p. N?u kh�ch kh�ng thanh to�n, m�y s? b? kh�a t? xa.</p>
+                    <p><strong>Đây là gì?</strong> Knox Guard là dịch vụ khóa thiết bị từ xa, thường được sử dụng bởi nhà mạng hoặc cửa hàng khi bán máy trả góp. Nếu khách không thanh toán, máy sẽ bị khóa từ xa.</p>
                     
-                    <p><strong>C�ch nh?n bi?t:</strong></p>
+                    <p><strong>Cách nhận biết:</strong></p>
                     <ul>
-                        <li>M�n h�nh hi?n th? "This device is locked by Knox Guard"</li>
-                        <li>M�y restart li�n t?c v? m�n h�nh kh�a</li>
-                        <li>Kh�ng th? s? d?ng m�y d� d� factory reset</li>
+                        <li>Màn hình hiển thị "This device is locked by Knox Guard"</li>
+                        <li>Máy restart liên tục về màn hình khóa</li>
+                        <li>Không thể sử dụng máy dù đã factory reset</li>
                     </ul>
                     
                     <div class="success-box">
-                        <p class="mb-0"><strong>C� th? x�a kh�ng?</strong> C�! Knox Guard c� th? bypass b?ng UnlockTool. Tuy nhi�n, m?t s? model m?i c� th? kh� khan hon.</p>
+                        <p class="mb-0"><strong>Có thể xóa không?</strong> CÓ! Knox Guard có thể bypass bằng UnlockTool. Tuy nhiên, một số model mới có thể khó khăn hơn.</p>
                     </div>
                 </div>
 
-                <h3>B?ng so s�nh c�c lo?i Knox:</h3>
+                <h3>Bảng so sánh các loại Knox:</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Lo?i Knox</th>
-                            <th>Nguy�n nh�n</th>
-                            <th>M?c d? kh� x�a</th>
-                            <th>UnlockTool h? tr?</th>
+                            <th>Loại Knox</th>
+                            <th>Nguyên nhân</th>
+                            <th>Mức độ khó xóa</th>
+                            <th>UnlockTool hỗ trợ</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td>Knox Warranty Void</td>
                             <td>Unlock bootloader, flash ROM</td>
-                            <td class="text-warning">Trung b�nh</td>
-                            <td class="text-success">? C�</td>
+                            <td class="text-warning">Trung bình</td>
+                            <td class="text-success">✓ Có</td>
                         </tr>
                         <tr>
                             <td>Knox MDM</td>
-                            <td>M�y c�ng ty</td>
-                            <td class="text-success">D?</td>
-                            <td class="text-success">? C�</td>
+                            <td>Máy công ty</td>
+                            <td class="text-success">Dễ</td>
+                            <td class="text-success">✓ Có</td>
                         </tr>
                         <tr>
                             <td>Knox Guard</td>
-                            <td>M�y tr? g�p b? kh�a</td>
-                            <td class="text-danger">Kh�</td>
-                            <td class="text-success">? C�</td>
+                            <td>Máy trả góp bị khóa</td>
+                            <td class="text-danger">Khó</td>
+                            <td class="text-success">✓ Có</td>
                         </tr>
                     </tbody>
                 </table>
             </section>
 
             <section id="chuan-bi">
-                <h2><i class="fas fa-clipboard-check me-2"></i>3. Chu?n B? Tru?c Khi X�a Knox</h2>
+                <h2><i class="fas fa-clipboard-check me-2"></i>3. Chuẩn Bị Trước Khi Xóa Knox</h2>
                 
-                <h3>3.1. Y�u c?u ph?n c?ng</h3>
+                <h3>3.1. Yêu cầu phần cứng</h3>
                 <ul>
-                    <li><strong>M�y t�nh Windows:</strong> Windows 7/8/10/11 (64-bit khuy?n ngh?)</li>
-                    <li><strong>C�p USB:</strong> C�p ch�nh h�ng Samsung ho?c c�p d? li?u ch?t lu?ng t?t</li>
-                    <li><strong>Samsung:</strong> Pin c�n �t nh?t 50%</li>
+                    <li><strong>Máy tính Windows:</strong> Windows 7/8/10/11 (64-bit khuyến nghị)</li>
+                    <li><strong>Cáp USB:</strong> Cáp chính hãng Samsung hoặc cáp dữ liệu chất lượng tốt</li>
+                    <li><strong>Samsung:</strong> Pin còn ít nhất 50%</li>
                 </ul>
 
-                <h3>3.2. Ph?n m?m c?n c�i d?t</h3>
+                <h3>3.2. Phần mềm cần cài đặt</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Ph?n m?m</th>
-                            <th>M� t?</th>
-                            <th>Link t?i</th>
+                            <th>Phần mềm</th>
+                            <th>Mô tả</th>
+                            <th>Link tải</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td><strong>Samsung USB Driver</strong></td>
-                            <td>Driver d? m�y t�nh nh?n Samsung</td>
-                            <td><a href="https://file.unlocktool.net/page/all-driver" target="_blank">T?i Driver</a></td>
+                            <td>Driver để máy tính nhận Samsung</td>
+                            <td><a href="https://file.unlocktool.net/page/all-driver" target="_blank">Tải Driver</a></td>
                         </tr>
                         <tr>
                             <td><strong>UnlockTool</strong></td>
-                            <td>Ph?n m?m x�a Knox</td>
-                            <td><a href="https://file.unlocktool.net/page/index.php" target="_blank">T?i UnlockTool</a></td>
+                            <td>Phần mềm xóa Knox</td>
+                            <td><a href="https://file.unlocktool.net/page/index.php" target="_blank">Tải UnlockTool</a></td>
                         </tr>
                     </tbody>
                 </table>
 
-                <h3>3.3. Thu� t�i kho?n UnlockTool</h3>
+                <h3>3.3. Thuê tài khoản UnlockTool</h3>
                 <div class="price-highlight">
-                    <h4><i class="fas fa-tag me-2"></i>Thu� Tool X�a Knox</h4>
-                    <p class="price">8.000d</p>
-                    <p class="h4">/ 6 ti?ng</p>
-                    <p class="mt-3">H? th?ng t? d?ng 24/7 - Nh?n ngay sau thanh to�n</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-shopping-cart me-2"></i>Thu� Ngay - UnlockTool.us</a>
+                    <h4><i class="fas fa-tag me-2"></i>Thuê Tool Xóa Knox</h4>
+                    <p class="price">8.000đ</p>
+                    <p class="h4">/ 6 tiếng</p>
+                    <p class="mt-3">Hệ thống tự động 24/7 - Nhận ngay sau thanh toán</p>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-shopping-cart me-2"></i>Thuê Ngay - UnlockTool.us</a>
                 </div>
 
                 <div class="danger-box">
-                    <h5><i class="fas fa-shield-alt me-2"></i>B?t bu?c l�m tru?c khi x�a Knox</h5>
+                    <h5><i class="fas fa-shield-alt me-2"></i>Bắt buộc làm trước khi xóa Knox</h5>
                     <ul class="mb-0">
-                        <li><strong>T?t Windows Defender:</strong> Settings > Windows Security > Real-time protection > OFF</li>
-                        <li><strong>T?t antivirus:</strong> Kaspersky, Avast, Norton...</li>
-                        <li><strong>Run as Administrator:</strong> Chu?t ph?i UnlockTool > Run as administrator</li>
-                        <li><strong>Backup d? li?u:</strong> X�a Knox c� th? reset m�y</li>
+                        <li><strong>Tắt Windows Defender:</strong> Settings > Windows Security > Real-time protection > OFF</li>
+                        <li><strong>Tắt antivirus:</strong> Kaspersky, Avast, Norton...</li>
+                        <li><strong>Run as Administrator:</strong> Chuột phải UnlockTool > Run as administrator</li>
+                        <li><strong>Backup dữ liệu:</strong> Xóa Knox có thể reset máy</li>
                     </ul>
                 </div>
             </section>
 
             <section id="xoa-knox-warranty">
-                <h2><i class="fas fa-eraser me-2"></i>4. X�a Knox Warranty Void (0x1)</h2>
+                <h2><i class="fas fa-eraser me-2"></i>4. Xóa Knox Warranty Void (0x1)</h2>
                 
-                <p>X�a Knox Warranty Void gi�p m�y ho?t d?ng nhu chua unlock bootloader. Tuy nhi�n, e-fuse v?n b? d?t - ch? l� patch firmware d? ?n tr?ng th�i.</p>
+                <p>Xóa Knox Warranty Void giúp máy hoạt động như chưa unlock bootloader. Tuy nhiên, e-fuse vẫn bị đốt - chỉ là patch firmware để ẩn trạng thái.</p>
 
                 <div class="step-card">
                     <div class="step-number">1</div>
-                    <h4>C�i driver Samsung</h4>
+                    <h4>Cài driver Samsung</h4>
                     <ol>
-                        <li>T?i Samsung USB Driver t? <a href="https://file.unlocktool.net/page/all-driver" target="_blank">file.unlocktool.net</a></li>
-                        <li>Ch?y file c�i d?t v?i quy?n Administrator</li>
-                        <li>Restart m�y t�nh sau khi c�i</li>
+                        <li>Tải Samsung USB Driver từ <a href="https://file.unlocktool.net/page/all-driver" target="_blank">file.unlocktool.net</a></li>
+                        <li>Chạy file cài đặt với quyền Administrator</li>
+                        <li>Restart máy tính sau khi cài</li>
                     </ol>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">2</div>
-                    <h4>V�o Download Mode</h4>
-                    <p><strong>Samsung c� n�t Bixby (S8 tr? l�n):</strong></p>
+                    <h4>Vào Download Mode</h4>
+                    <p><strong>Samsung có nút Bixby (S8 trở lên):</strong></p>
                     <ol>
-                        <li>T?t ngu?n Samsung ho�n to�n</li>
-                        <li>Gi? d?ng th?i <strong>Vol Down + Bixby</strong></li>
-                        <li>C?m c�p USB v�o m�y t�nh (v?n gi? n�t)</li>
-                        <li>Khi m�n h�nh xanh hi?n l�n, nh?n <strong>Vol Up</strong> d? v�o Download Mode</li>
+                        <li>Tắt nguồn Samsung hoàn toàn</li>
+                        <li>Giữ đồng thời <strong>Vol Down + Bixby</strong></li>
+                        <li>Cắm cáp USB vào máy tính (vẫn giữ nút)</li>
+                        <li>Khi màn hình xanh hiện lên, nhấn <strong>Vol Up</strong> để vào Download Mode</li>
                     </ol>
                     
-                    <p><strong>Samsung kh�ng c� n�t Bixby:</strong></p>
+                    <p><strong>Samsung không có nút Bixby:</strong></p>
                     <ol>
-                        <li>T?t ngu?n</li>
-                        <li>Gi? <strong>Vol Down + Home</strong> + c?m c�p USB</li>
-                        <li>Nh?n Vol Up khi th?y m�n h�nh warning</li>
+                        <li>Tắt nguồn</li>
+                        <li>Giữ <strong>Vol Down + Home</strong> + cắm cáp USB</li>
+                        <li>Nhấn Vol Up khi thấy màn hình warning</li>
                     </ol>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">3</div>
-                    <h4>X�a Knox trong UnlockTool</h4>
+                    <h4>Xóa Knox trong UnlockTool</h4>
                     <ol>
-                        <li>M? UnlockTool v� dang nh?p</li>
-                        <li>Ch?n tab <strong>Samsung</strong></li>
-                        <li>UnlockTool s? t? nh?n m�y ? Download Mode</li>
-                        <li>Ch?n <strong>Knox Remove</strong> ho?c <strong>Reset Knox</strong></li>
-                        <li>Nh?n <strong>Start</strong></li>
-                        <li>Ch? qu� tr�nh ho�n t?t (5-15 ph�t)</li>
+                        <li>Mở UnlockTool và đăng nhập</li>
+                        <li>Chọn tab <strong>Samsung</strong></li>
+                        <li>UnlockTool sẽ tự nhận máy ở Download Mode</li>
+                        <li>Chọn <strong>Knox Remove</strong> hoặc <strong>Reset Knox</strong></li>
+                        <li>Nhấn <strong>Start</strong></li>
+                        <li>Chờ quá trình hoàn tất (5-15 phút)</li>
                     </ol>
                 </div>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-check-circle me-2"></i>Sau khi x�a Knox Warranty th�nh c�ng:</h5>
+                    <h5><i class="fas fa-check-circle me-2"></i>Sau khi xóa Knox Warranty thành công:</h5>
                     <ul class="mb-0">
-                        <li>Samsung Pay ho?t d?ng l?i b�nh thu?ng</li>
-                        <li>Secure Folder ho?t d?ng</li>
-                        <li>C�c app ng�n h�ng ch?y du?c</li>
-                        <li>Nhung n?u check trong Download Mode v?n c� th? th?y 0x1</li>
+                        <li>Samsung Pay hoạt động lại bình thường</li>
+                        <li>Secure Folder hoạt động</li>
+                        <li>Các app ngân hàng chạy được</li>
+                        <li>Nhưng nếu check trong Download Mode vẫn có thể thấy 0x1</li>
                     </ul>
                 </div>
             </section>
 
             <section id="xoa-knox-mdm">
-                <h2><i class="fas fa-building me-2"></i>5. X�a Knox MDM</h2>
+                <h2><i class="fas fa-building me-2"></i>5. Xóa Knox MDM</h2>
                 
-                <p>Knox MDM (Mobile Device Management) l� qu?n l� thi?t b? doanh nghi?p. M�y b? MDM s? b? h?n ch? nhi?u t�nh nang v� thu?ng th?y ? m�y c�ng ty cu.</p>
+                <p>Knox MDM (Mobile Device Management) là quản lý thiết bị doanh nghiệp. Máy bị MDM sẽ bị hạn chế nhiều tính năng và thường thấy ở máy công ty cũ.</p>
 
                 <div class="step-card">
                     <div class="step-number">1</div>
-                    <h4>Nh?n bi?t m�y b? Knox MDM</h4>
+                    <h4>Nhận biết máy bị Knox MDM</h4>
                     <ul>
                         <li>Khi setup: "This device is managed by [Company Name]"</li>
-                        <li>Settings > Biometrics > Device admin apps > C� MDM app</li>
-                        <li>Kh�ng c�i du?c APK t? b�n ngo�i</li>
-                        <li>M?t s? t�nh nang b? disable</li>
+                        <li>Settings > Biometrics > Device admin apps > Có MDM app</li>
+                        <li>Không cài được APK từ bên ngoài</li>
+                        <li>Một số tính năng bị disable</li>
                     </ul>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">2</div>
-                    <h4>X�a Knox MDM</h4>
+                    <h4>Xóa Knox MDM</h4>
                     <ol>
-                        <li>V�o Download Mode nhu hu?ng d?n ? tr�n</li>
-                        <li>M? UnlockTool > Samsung</li>
-                        <li>Ch?n <strong>MDM Remove</strong> ho?c <strong>Remove MDM</strong></li>
-                        <li>Nh?n <strong>Start</strong></li>
-                        <li>Qu� tr�nh s? x�a MDM profile v� reset m�y</li>
-                        <li>Sau khi reset, m�y kh�ng c�n b? qu?n l�</li>
+                        <li>Vào Download Mode như hướng dẫn ở trên</li>
+                        <li>Mở UnlockTool > Samsung</li>
+                        <li>Chọn <strong>MDM Remove</strong> hoặc <strong>Remove MDM</strong></li>
+                        <li>Nhấn <strong>Start</strong></li>
+                        <li>Quá trình sẽ xóa MDM profile và reset máy</li>
+                        <li>Sau khi reset, máy không còn bị quản lý</li>
                     </ol>
                 </div>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-info-circle me-2"></i>Luu � v? Knox MDM</h5>
-                    <p class="mb-0">X�a Knox MDM s? reset m�y v? factory. T?t c? d? li?u s? b? x�a. H�y backup tru?c n?u c?n!</p>
+                    <h5><i class="fas fa-info-circle me-2"></i>Lưu ý về Knox MDM</h5>
+                    <p class="mb-0">Xóa Knox MDM sẽ reset máy về factory. Tất cả dữ liệu sẽ bị xóa. Hãy backup trước nếu cần!</p>
                 </div>
             </section>
 
             <section id="xoa-knox-guard">
-                <h2><i class="fas fa-lock me-2"></i>6. X�a Knox Guard</h2>
+                <h2><i class="fas fa-lock me-2"></i>6. Xóa Knox Guard</h2>
                 
-                <p>Knox Guard l� t�nh nang kh�a m�y t? xa, thu?ng d�ng cho m�y b�n tr? g�p. Khi kh�ch kh�ng tr? ti?n d�ng h?n, nh� b�n h�ng c� th? kh�a m�y t? xa.</p>
+                <p>Knox Guard là tính năng khóa máy từ xa, thường dùng cho máy bán trả góp. Khi khách không trả tiền đúng hạn, nhà bán hàng có thể khóa máy từ xa.</p>
 
                 <div class="danger-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>C?nh b�o!</h5>
-                    <p class="mb-0">Knox Guard thu?ng xu?t hi?n tr�n m�y chua thanh to�n h?t. N?u b?n mua m�y cu b? Knox Guard, c� th? d� l� m�y c� v?n d? ph�p l�. H�y c?n th?n!</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Cảnh báo!</h5>
+                    <p class="mb-0">Knox Guard thường xuất hiện trên máy chưa thanh toán hết. Nếu bạn mua máy cũ bị Knox Guard, có thể đó là máy có vấn đề pháp lý. Hãy cẩn thận!</p>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">1</div>
-                    <h4>Nh?n bi?t Knox Guard</h4>
+                    <h4>Nhận biết Knox Guard</h4>
                     <ul>
-                        <li>M�n h�nh: "This device is locked by Knox Guard"</li>
-                        <li>C� d?ng h? d?m ngu?c tru?c khi kh�a ho�n to�n</li>
-                        <li>M�y restart li�n t?c v? m�n h�nh kh�a</li>
-                        <li>Factory reset kh�ng gi?i quy?t du?c</li>
+                        <li>Màn hình: "This device is locked by Knox Guard"</li>
+                        <li>Có đồng hồ đếm ngược trước khi khóa hoàn toàn</li>
+                        <li>Máy restart liên tục về màn hình khóa</li>
+                        <li>Factory reset không giải quyết được</li>
                     </ul>
                 </div>
 
@@ -510,37 +511,37 @@ $canonical_url = "https://www.unlocktool.us/articles/98-xoa-knox-samsung.php";
                     <div class="step-number">2</div>
                     <h4>Bypass Knox Guard</h4>
                     <ol>
-                        <li>V�o Download Mode</li>
-                        <li>M? UnlockTool > Samsung</li>
-                        <li>Ch?n <strong>Knox Guard Remove</strong> ho?c <strong>KG Bypass</strong></li>
-                        <li>M?t s? model c?n flash firmware d?c bi?t</li>
-                        <li>L�m theo hu?ng d?n c?a UnlockTool</li>
+                        <li>Vào Download Mode</li>
+                        <li>Mở UnlockTool > Samsung</li>
+                        <li>Chọn <strong>Knox Guard Remove</strong> hoặc <strong>KG Bypass</strong></li>
+                        <li>Một số model cần flash firmware đặc biệt</li>
+                        <li>Làm theo hướng dẫn của UnlockTool</li>
                     </ol>
                     
                     <div class="warning-box">
-                        <p class="mb-0"><strong>Luu �:</strong> Knox Guard tr�n m?t s? model m?i (S23, S24) c� th? r?t kh� bypass. N?u kh�ng t? l�m du?c, h�y li�n h? d?ch v? k? thu?t t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>.</p>
+                        <p class="mb-0"><strong>Lưu ý:</strong> Knox Guard trên một số model mới (S23, S24) có thể rất khó bypass. Nếu không tự làm được, hãy liên hệ dịch vụ kỹ thuật tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>.</p>
                     </div>
                 </div>
             </section>
 
             <section id="loi-thuong-gap">
-                <h2><i class="fas fa-bug me-2"></i>7. L?i Thu?ng G?p v� C�ch Kh?c Ph?c</h2>
+                <h2><i class="fas fa-bug me-2"></i>7. Lỗi Thường Gặp và Cách Khắc Phục</h2>
                 
                 <div class="accordion" id="errorAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#err1">
-                                <i class="fas fa-times-circle text-danger me-2"></i>UnlockTool kh�ng nh?n m�y ? Download Mode
+                                <i class="fas fa-times-circle text-danger me-2"></i>UnlockTool không nhận máy ở Download Mode
                             </button>
                         </h2>
                         <div id="err1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
-                                <p><strong>C�ch kh?c ph?c:</strong></p>
+                                <p><strong>Cách khắc phục:</strong></p>
                                 <ul>
-                                    <li>C�i l?i Samsung USB Driver</li>
-                                    <li>Th? c?ng USB kh�c (USB 2.0 t?t hon)</li>
-                                    <li>Th? c�p USB kh�c</li>
-                                    <li>Ki?m tra Device Manager xem c� thi?t b? Samsung kh�ng</li>
+                                    <li>Cài lại Samsung USB Driver</li>
+                                    <li>Thử cổng USB khác (USB 2.0 tốt hơn)</li>
+                                    <li>Thử cáp USB khác</li>
+                                    <li>Kiểm tra Device Manager xem có thiết bị Samsung không</li>
                                 </ul>
                             </div>
                         </div>
@@ -553,12 +554,12 @@ $canonical_url = "https://www.unlocktool.us/articles/98-xoa-knox-samsung.php";
                         </h2>
                         <div id="err2" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>C�ch kh?c ph?c:</strong></p>
+                                <p><strong>Cách khắc phục:</strong></p>
                                 <ul>
-                                    <li>Update UnlockTool l�n phi�n b?n m?i nh?t</li>
-                                    <li>T?t ho�n to�n antivirus</li>
-                                    <li>Th? method kh�c trong UnlockTool</li>
-                                    <li>Li�n h? h? tr?: <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></li>
+                                    <li>Update UnlockTool lên phiên bản mới nhất</li>
+                                    <li>Tắt hoàn toàn antivirus</li>
+                                    <li>Thử method khác trong UnlockTool</li>
+                                    <li>Liên hệ hỗ trợ: <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -566,16 +567,16 @@ $canonical_url = "https://www.unlocktool.us/articles/98-xoa-knox-samsung.php";
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err3">
-                                <i class="fas fa-times-circle text-danger me-2"></i>M�y treo logo sau khi x�a Knox
+                                <i class="fas fa-times-circle text-danger me-2"></i>Máy treo logo sau khi xóa Knox
                             </button>
                         </h2>
                         <div id="err3" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>C�ch kh?c ph?c:</strong></p>
+                                <p><strong>Cách khắc phục:</strong></p>
                                 <ul>
-                                    <li>V�o Recovery Mode: Vol Up + Power + Bixby</li>
-                                    <li>Ch?n Wipe data/factory reset</li>
-                                    <li>N?u v?n l?i, flash firmware stock qua Odin</li>
+                                    <li>Vào Recovery Mode: Vol Up + Power + Bixby</li>
+                                    <li>Chọn Wipe data/factory reset</li>
+                                    <li>Nếu vẫn lỗi, flash firmware stock qua Odin</li>
                                 </ul>
                             </div>
                         </div>
@@ -584,72 +585,72 @@ $canonical_url = "https://www.unlocktool.us/articles/98-xoa-knox-samsung.php";
             </section>
 
             <section id="faq">
-                <h2><i class="fas fa-question-circle me-2"></i>8. C�u H?i Thu?ng G?p (FAQ)</h2>
+                <h2><i class="fas fa-question-circle me-2"></i>8. Câu Hỏi Thường Gặp (FAQ)</h2>
                 
                 <div class="accordion" id="faqAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
-                                X�a Knox c� m?t d? li?u kh�ng?
+                                Xóa Knox có mất dữ liệu không?
                             </button>
                         </h2>
                         <div id="faq1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
-                                T�y lo?i Knox v� phuong ph�p. X�a Knox MDM thu?ng s? reset m�y. X�a Knox Warranty Void thu?ng kh�ng m?t d? li?u. �? an to�n, h�y backup tru?c khi l�m.
+                                Tùy loại Knox và phương pháp. Xóa Knox MDM thường sẽ reset máy. Xóa Knox Warranty Void thường không mất dữ liệu. Để an toàn, hãy backup trước khi làm.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
-                                X�a Knox c� vinh vi?n kh�ng?
+                                Xóa Knox có vĩnh viễn không?
                             </button>
                         </h2>
                         <div id="faq2" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <strong>Knox MDM, Knox Guard:</strong> X�a vinh vi?n, kh�ng quay l?i.<br>
-                                <strong>Knox Warranty Void:</strong> E-fuse v?n b? d?t (vinh vi?n), nhung patch s? ?n tr?ng th�i. N?u flash ROM kh�c c� th? quay l?i.
+                                <strong>Knox MDM, Knox Guard:</strong> Xóa vĩnh viễn, không quay lại.<br>
+                                <strong>Knox Warranty Void:</strong> E-fuse vẫn bị đốt (vĩnh viễn), nhưng patch sẽ ẩn trạng thái. Nếu flash ROM khác có thể quay lại.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3">
-                                Gi� x�a Knox bao nhi�u?
+                                Giá xóa Knox bao nhiêu?
                             </button>
                         </h2>
                         <div id="faq3" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <strong>T? l�m:</strong> Thu� tool 8.000d/6 ti?ng t?i <a href="https://www.unlocktool.us/">UnlockTool.us</a><br>
-                                <strong>D?ch v? l�m h?:</strong> T? 100.000d t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>
+                                <strong>Tự làm:</strong> Thuê tool 8.000đ/6 tiếng tại <a href="https://www.unlocktool.us/">UnlockTool.us</a><br>
+                                <strong>Dịch vụ làm hộ:</strong> Từ 100.000đ tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4">
-                                Samsung Pay c� ho?t d?ng sau khi x�a Knox kh�ng?
+                                Samsung Pay có hoạt động sau khi xóa Knox không?
                             </button>
                         </h2>
                         <div id="faq4" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                N?u x�a Knox Warranty Void d�ng c�ch (patch firmware), Samsung Pay s? ho?t d?ng l?i b�nh thu?ng. Tuy nhi�n, m?t s? tru?ng h?p c� th? c?n th�m bu?c x? l�.
+                                Nếu xóa Knox Warranty Void đúng cách (patch firmware), Samsung Pay sẽ hoạt động lại bình thường. Tuy nhiên, một số trường hợp có thể cần thêm bước xử lý.
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <!-- CTA cu?i b�i -->
+            <!-- CTA cuối bài -->
             <section class="mt-5">
                 <div class="price-highlight">
-                    <h3><i class="fas fa-shield-alt me-2"></i>X�a Knox Samsung Ngay!</h3>
-                    <p>Knox Warranty, Knox MDM, Knox Guard - �?u x�a du?c!</p>
-                    <p class="price">8.000d</p>
-                    <p class="h4">/ 6 ti?ng</p>
+                    <h3><i class="fas fa-shield-alt me-2"></i>Xóa Knox Samsung Ngay!</h3>
+                    <p>Knox Warranty, Knox MDM, Knox Guard - Đều xóa được!</p>
+                    <p class="price">8.000đ</p>
+                    <p class="h4">/ 6 tiếng</p>
                     <div class="d-flex justify-content-center flex-wrap gap-3 mt-4">
-                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thu� Tool - UnlockTool.us</a>
-                        <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>D?ch V? L�m H?</a>
+                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê Tool - UnlockTool.us</a>
+                        <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>Dịch Vụ Làm Hộ</a>
                     </div>
                 </div>
             </section>
@@ -660,29 +661,29 @@ $canonical_url = "https://www.unlocktool.us/articles/98-xoa-knox-samsung.php";
         <div class="col-lg-4">
             <div class="sticky-top" style="top:20px">
                 <div class="price-highlight mb-4">
-                    <h5><i class="fas fa-shield-alt me-2"></i>X�a Knox Samsung</h5>
-                    <p class="price" style="font-size:2.5rem">8.000d</p>
-                    <p>/ 6 ti?ng</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thu� Tool Ngay</a>
+                    <h5><i class="fas fa-shield-alt me-2"></i>Xóa Knox Samsung</h5>
+                    <p class="price" style="font-size:2.5rem">8.000đ</p>
+                    <p>/ 6 tiếng</p>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thuê Tool Ngay</a>
                 </div>
 
                 <div class="card mb-4">
                     <div class="card-header bg-primary text-white">
-                        <i class="fas fa-list-check me-2"></i>Knox h? tr? x�a
+                        <i class="fas fa-list-check me-2"></i>Knox hỗ trợ xóa
                     </div>
                     <div class="card-body">
                         <ul class="list-unstyled mb-0">
-                            <li>? Knox Warranty Void (0x1)</li>
-                            <li>? Knox MDM</li>
-                            <li>? Knox Guard</li>
-                            <li>? Knox E-FUSE</li>
+                            <li>✓ Knox Warranty Void (0x1)</li>
+                            <li>✓ Knox MDM</li>
+                            <li>✓ Knox Guard</li>
+                            <li>✓ Knox E-FUSE</li>
                         </ul>
                     </div>
                 </div>
 
                 <div class="card mb-4">
                     <div class="card-header bg-success text-white">
-                        <i class="fas fa-download me-2"></i>T?i xu?ng
+                        <i class="fas fa-download me-2"></i>Tải xuống
                     </div>
                     <div class="card-body">
                         <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-success w-100 mb-2">UnlockTool</a>
@@ -692,12 +693,12 @@ $canonical_url = "https://www.unlocktool.us/articles/98-xoa-knox-samsung.php";
 
                 <div class="card">
                     <div class="card-header bg-dark text-white">
-                        <i class="fas fa-link me-2"></i>B�i vi?t li�n quan
+                        <i class="fas fa-link me-2"></i>Bài viết liên quan
                     </div>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item"><a href="82-bypass-frp-samsung-a54.php">FRP Samsung A54</a></li>
                         <li class="list-group-item"><a href="84-bypass-frp-samsung-s24.php">FRP Samsung S24</a></li>
-                        <li class="list-group-item"><a href="81-unlocktool-huong-dan-su-dung.php">Hu?ng d?n UnlockTool</a></li>
+                        <li class="list-group-item"><a href="81-unlocktool-huong-dan-su-dung.php">Hướng dẫn UnlockTool</a></li>
                     </ul>
                 </div>
             </div>
@@ -712,7 +713,7 @@ $canonical_url = "https://www.unlocktool.us/articles/98-xoa-knox-samsung.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -726,13 +727,13 @@ $canonical_url = "https://www.unlocktool.us/articles/98-xoa-knox-samsung.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -740,15 +741,15 @@ $canonical_url = "https://www.unlocktool.us/articles/98-xoa-knox-samsung.php";
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -761,7 +762,7 @@ $canonical_url = "https://www.unlocktool.us/articles/98-xoa-knox-samsung.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -772,10 +773,10 @@ $canonical_url = "https://www.unlocktool.us/articles/98-xoa-knox-samsung.php";
         <div class="row">
             <div class="col-md-6">
                 <h5>UnlockTool.us</h5>
-                <p class="small">Cho thu� t�i kho?n tool m? kh�a di?n tho?i uy t�n nh?t Vi?t Nam.</p>
+                <p class="small">Cho thuê tài khoản tool mở khóa điện thoại uy tín nhất Việt Nam.</p>
             </div>
             <div class="col-md-6 text-md-end">
-                <p class="small mb-1">D?ch v?: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+                <p class="small mb-1">Dịch vụ: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
                 <p class="small">&copy; 2026 UnlockTool.us - All rights reserved.</p>
             </div>
         </div>

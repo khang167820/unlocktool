@@ -1,6 +1,6 @@
-<?php
-$page_title = "L?i iPhone Trust This Computer ?? Kh�ng Hi?n - C�ch Kh?c Ph?c 2026";
-$page_description = "?? S?a l?i iPhone kh�ng hi?n Trust This Computer. Reset Location & Privacy, ki?m tra c�p USB. Hu?ng d?n chi ti?t iOS 18. Thu� UnlockTool 8K/6h!";
+﻿<?php
+$page_title = "Lỗi iPhone Trust This Computer 🔥 Không Hiện - Cách Khắc Phục 2026";
+$page_description = "🔥 Sửa lỗi iPhone không hiện Trust This Computer. Reset Location & Privacy, kiểm tra cáp USB. Hướng dẫn chi tiết iOS 18. Thuê UnlockTool 8K/6h!";
 $page_keywords = "trust this computer, iphone khong hien trust, khong ket noi itunes, loi trust computer, reset location privacy";
 $canonical_url = "https://www.unlocktool.us/articles/153-loi-iphone-trust-computer.php";
 ?>
@@ -18,7 +18,8 @@ $canonical_url = "https://www.unlocktool.us/articles/153-loi-iphone-trust-comput
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">\n    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
@@ -31,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/153-loi-iphone-trust-comput
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hu?ng d?n k? thu?t">
+    <meta property="article:section" content="Hướng dẫn kỹ thuật">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="M? kh�a di?n tho?i">
+    <meta property="article:tag" content="Mở khóa điện thoại">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -49,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/153-loi-iphone-trust-comput
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -59,8 +60,8 @@ $canonical_url = "https://www.unlocktool.us/articles/153-loi-iphone-trust-comput
     {
         "@context": "https://schema.org",
         "@type": "TechArticle",
-        "headline": "L?i iPhone Trust This Computer - Kh�ng Hi?n - C�ch Kh?c Ph?c 2026",
-        "description": "Hu?ng d?n s?a l?i iPhone kh�ng hi?n b?ng Trust This Computer khi k?t n?i m�y t�nh",
+        "headline": "Lỗi iPhone Trust This Computer - Không Hiện - Cách Khắc Phục 2026",
+        "description": "Hướng dẫn sửa lỗi iPhone không hiện bảng Trust This Computer khi kết nối máy tính",
         "author": {"@type": "Organization", "name": "UnlockTool.us"},
         "publisher": {"@type": "Organization", "name": "UnlockTool.us"},
         "datePublished": "2024-01-01",
@@ -72,10 +73,10 @@ $canonical_url = "https://www.unlocktool.us/articles/153-loi-iphone-trust-comput
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "T?i sao iPhone kh�ng hi?n Trust This Computer?", "acceptedAnswer": {"@type": "Answer", "text": "Nguy�n nh�n c� th? do d� nh?n Don't Trust tru?c d�, c�p USB kh�ng h? tr? data, driver iTunes thi?u, ho?c c?ng USB l?i."}},
-            {"@type": "Question", "name": "L�m sao d? b?ng Trust hi?n l?i?", "acceptedAnswer": {"@type": "Answer", "text": "V�o Settings ? General ? Transfer or Reset iPhone ? Reset ? Reset Location & Privacy. Sau d� k?t n?i l?i."}},
-            {"@type": "Question", "name": "iPhone disabled c� nh?n Trust du?c kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "Kh�ng. iPhone disabled c?n restore qua Recovery Mode ho?c d�ng tool bypass tru?c khi c� th? nh?n Trust."}},
-            {"@type": "Question", "name": "C�p USB n�o h? tr? Trust Computer?", "acceptedAnswer": {"@type": "Answer", "text": "C�p ch�nh h�ng Apple ho?c c�p MFi certified. C�p r? thu?ng ch? s?c, kh�ng h? tr? data transfer."}}
+            {"@type": "Question", "name": "Tại sao iPhone không hiện Trust This Computer?", "acceptedAnswer": {"@type": "Answer", "text": "Nguyên nhân có thể do đã nhấn Don't Trust trước đó, cáp USB không hỗ trợ data, driver iTunes thiếu, hoặc cổng USB lỗi."}},
+            {"@type": "Question", "name": "Làm sao để bảng Trust hiện lại?", "acceptedAnswer": {"@type": "Answer", "text": "Vào Settings → General → Transfer or Reset iPhone → Reset → Reset Location & Privacy. Sau đó kết nối lại."}},
+            {"@type": "Question", "name": "iPhone disabled có nhấn Trust được không?", "acceptedAnswer": {"@type": "Answer", "text": "Không. iPhone disabled cần restore qua Recovery Mode hoặc dùng tool bypass trước khi có thể nhấn Trust."}},
+            {"@type": "Question", "name": "Cáp USB nào hỗ trợ Trust Computer?", "acceptedAnswer": {"@type": "Answer", "text": "Cáp chính hãng Apple hoặc cáp MFi certified. Cáp rẻ thường chỉ sạc, không hỗ trợ data transfer."}}
         ]
     }
     </script>
@@ -140,7 +141,7 @@ $canonical_url = "https://www.unlocktool.us/articles/153-loi-iphone-trust-comput
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? kh�a di?n tho?i",
+        "name": "Dịch vụ mở khóa điện thoại",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -157,16 +158,16 @@ $canonical_url = "https://www.unlocktool.us/articles/153-loi-iphone-trust-comput
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
 </nav>
 <section class="hero-section">
     <div class="container text-center">
-        <h1><i class="fas fa-exclamation-triangle me-2"></i>L?i iPhone Trust This Computer - 2026</h1>
-        <p class="lead">Kh�ng hi?n b?ng "Tin c?y m�y t�nh n�y?" - Nguy�n nh�n v� c�ch kh?c ph?c</p>
+        <h1><i class="fas fa-exclamation-triangle me-2"></i>Lỗi iPhone Trust This Computer - 2026</h1>
+        <p class="lead">Không hiện bảng "Tin cậy máy tính này?" - Nguyên nhân và cách khắc phục</p>
         <div class="mt-4">
             <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>UnlockTool <span class="flash-sale">8K/6H</span></a>
         </div>
@@ -178,77 +179,77 @@ $canonical_url = "https://www.unlocktool.us/articles/153-loi-iphone-trust-comput
         
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #0066cc;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>T�c gi?:</strong> UnlockTool.us Team</span>
-            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>�?c:</strong> ~5 ph�t</span>
-            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> <span id="viewCount">1,234</span></span>
+            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>Tác giả:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>Cập nhật:</strong> 06/02/2026</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Đọc:</strong> ~5 phút</span>
+            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lượt xem:</strong> <span id="viewCount">1,234</span></span>
         </div>
         <div class="toc">
-            <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
+            <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
             <ul>
-                <li><a href="#loi-la-gi">1. L?i Trust Computer l� g�?</a></li>
-                <li><a href="#nguyen-nhan">2. Nguy�n nh�n kh�ng hi?n Trust</a></li>
-                <li><a href="#cach-1">3. C�ch 1: Reset Location & Privacy</a></li>
-                <li><a href="#cach-2">4. C�ch 2: Ki?m tra c�p USB</a></li>
-                <li><a href="#cach-3">5. C�ch 3: C�i l?i iTunes/Driver</a></li>
-                <li><a href="#cach-khac">6. C�c c�ch kh?c ph?c kh�c</a></li>
+                <li><a href="#loi-la-gi">1. Lỗi Trust Computer là gì?</a></li>
+                <li><a href="#nguyen-nhan">2. Nguyên nhân không hiện Trust</a></li>
+                <li><a href="#cach-1">3. Cách 1: Reset Location & Privacy</a></li>
+                <li><a href="#cach-2">4. Cách 2: Kiểm tra cáp USB</a></li>
+                <li><a href="#cach-3">5. Cách 3: Cài lại iTunes/Driver</a></li>
+                <li><a href="#cach-khac">6. Các cách khắc phục khác</a></li>
                 <li><a href="#disabled">7. iPhone Disabled/Locked</a></li>
-                <li><a href="#faq">8. FAQ - C�u h?i thu?ng g?p</a></li>
+                <li><a href="#faq">8. FAQ - Câu hỏi thường gặp</a></li>
             </ul>
         </div>
         
-        <h2 id="loi-la-gi"><i class="fas fa-info-circle me-2"></i>1. L?i Trust Computer l� g�?</h2>
+        <h2 id="loi-la-gi"><i class="fas fa-info-circle me-2"></i>1. Lỗi Trust Computer là gì?</h2>
         
-        <p>Khi k?t n?i iPhone v?i m�y t�nh l?n d?u (ho?c sau khi reset trust settings), iPhone s? hi?n b?ng <strong>"Trust This Computer?"</strong> (Tin c?y m�y t�nh n�y?). N?u nh?n <strong>Trust</strong>, m�y t�nh c� th? truy c?p ?nh, nh?c, v� d? li?u tr�n iPhone.</p>
+        <p>Khi kết nối iPhone với máy tính lần đầu (hoặc sau khi reset trust settings), iPhone sẽ hiện bảng <strong>"Trust This Computer?"</strong> (Tin cậy máy tính này?). Nếu nhấn <strong>Trust</strong>, máy tính có thể truy cập ảnh, nhạc, và dữ liệu trên iPhone.</p>
         
-        <h3>1.1. Tri?u ch?ng l?i</h3>
+        <h3>1.1. Triệu chứng lỗi</h3>
         <ul>
-            <li>C?m c�p USB nhung iPhone <strong>kh�ng hi?n b?ng Trust</strong></li>
-            <li>iTunes/Finder <strong>kh�ng nh?n iPhone</strong></li>
-            <li>iPhone ch? <strong>s?c m� kh�ng truy?n d? li?u</strong></li>
-            <li>UnlockTool, 3uTools kh�ng th?y thi?t b?</li>
-            <li>Backup/Restore kh�ng th?c hi?n du?c</li>
+            <li>Cắm cáp USB nhưng iPhone <strong>không hiện bảng Trust</strong></li>
+            <li>iTunes/Finder <strong>không nhận iPhone</strong></li>
+            <li>iPhone chỉ <strong>sạc mà không truyền dữ liệu</strong></li>
+            <li>UnlockTool, 3uTools không thấy thiết bị</li>
+            <li>Backup/Restore không thực hiện được</li>
         </ul>
         
-        <h3>1.2. T?i sao c?n Trust Computer?</h3>
-        <p>��y l� t�nh nang b?o m?t c?a Apple. iPhone ch? cho ph�p truy?n d? li?u v?i m�y t�nh d� du?c tin c?y. �i?u n�y ngan ch?n vi?c d�nh c?p d? li?u khi iPhone b? m?t ho?c c?m v�o m�y t�nh l?.</p>
+        <h3>1.2. Tại sao cần Trust Computer?</h3>
+        <p>Đây là tính năng bảo mật của Apple. iPhone chỉ cho phép truyền dữ liệu với máy tính đã được tin cậy. Điều này ngăn chặn việc đánh cắp dữ liệu khi iPhone bị mất hoặc cắm vào máy tính lạ.</p>
         
-        <h2 id="nguyen-nhan"><i class="fas fa-search me-2"></i>2. Nguy�n nh�n kh�ng hi?n Trust</h2>
+        <h2 id="nguyen-nhan"><i class="fas fa-search me-2"></i>2. Nguyên nhân không hiện Trust</h2>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Nguy�n nh�n</th><th>M� t?</th><th>Gi?i ph�p</th></tr>
+                <tr><th>Nguyên nhân</th><th>Mô tả</th><th>Giải pháp</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>�� nh?n Don't Trust</strong></td><td>Tru?c d� d� t? ch?i Trust</td><td>Reset Location & Privacy</td></tr>
-                <tr><td><strong>C�p USB k�m</strong></td><td>C�p r? ch? s?c, kh�ng data</td><td>D�ng c�p Apple/MFi</td></tr>
-                <tr><td><strong>C?ng USB l?i</strong></td><td>C?ng USB m�y t�nh h?ng</td><td>Th? c?ng kh�c</td></tr>
-                <tr><td><strong>Driver thi?u</strong></td><td>Chua c�i iTunes/driver</td><td>C�i iTunes m?i nh?t</td></tr>
-                <tr><td><strong>iPhone kh�a m�n h�nh</strong></td><td>Kh�ng m? kh�a d? nh?n Trust</td><td>M? kh�a iPhone tru?c</td></tr>
-                <tr><td><strong>iOS bug</strong></td><td>L?i ph?n m?m iOS</td><td>Restart ho?c update iOS</td></tr>
+                <tr><td><strong>Đã nhấn Don't Trust</strong></td><td>Trước đó đã từ chối Trust</td><td>Reset Location & Privacy</td></tr>
+                <tr><td><strong>Cáp USB kém</strong></td><td>Cáp rẻ chỉ sạc, không data</td><td>Dùng cáp Apple/MFi</td></tr>
+                <tr><td><strong>Cổng USB lỗi</strong></td><td>Cổng USB máy tính hỏng</td><td>Thử cổng khác</td></tr>
+                <tr><td><strong>Driver thiếu</strong></td><td>Chưa cài iTunes/driver</td><td>Cài iTunes mới nhất</td></tr>
+                <tr><td><strong>iPhone khóa màn hình</strong></td><td>Không mở khóa để nhấn Trust</td><td>Mở khóa iPhone trước</td></tr>
+                <tr><td><strong>iOS bug</strong></td><td>Lỗi phần mềm iOS</td><td>Restart hoặc update iOS</td></tr>
             </tbody>
         </table>
         
-        <h2 id="cach-1"><i class="fas fa-sync me-2"></i>3. C�ch 1: Reset Location & Privacy (Hi?u qu? nh?t)</h2>
+        <h2 id="cach-1"><i class="fas fa-sync me-2"></i>3. Cách 1: Reset Location & Privacy (Hiệu quả nhất)</h2>
         
-        <p>��y l� c�ch <strong>hi?u qu? nh?t</strong> d? s?a l?i kh�ng hi?n Trust Computer. Reset n�y s? x�a t?t c? c�c quy?t d?nh Trust tru?c d�, bu?c iPhone h?i l?i khi k?t n?i.</p>
+        <p>Đây là cách <strong>hiệu quả nhất</strong> để sửa lỗi không hiện Trust Computer. Reset này sẽ xóa tất cả các quyết định Trust trước đó, buộc iPhone hỏi lại khi kết nối.</p>
         
         <div class="step-box">
             <div class="step-num">1</div>
-            <h5>M? Settings</h5>
-            <p>V�o <strong>Settings</strong> (C�i d?t) tr�n iPhone.</p>
+            <h5>Mở Settings</h5>
+            <p>Vào <strong>Settings</strong> (Cài đặt) trên iPhone.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">2</div>
-            <h5>V�o General</h5>
-            <p>Tap <strong>General</strong> (C�i d?t chung).</p>
+            <h5>Vào General</h5>
+            <p>Tap <strong>General</strong> (Cài đặt chung).</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">3</div>
             <h5>Transfer or Reset iPhone</h5>
-            <p>Cu?n xu?ng du?i, tap <strong>Transfer or Reset iPhone</strong>.</p>
+            <p>Cuộn xuống dưới, tap <strong>Transfer or Reset iPhone</strong>.</p>
         </div>
         
         <div class="step-box">
@@ -260,158 +261,158 @@ $canonical_url = "https://www.unlocktool.us/articles/153-loi-iphone-trust-comput
         <div class="step-box">
             <div class="step-num">5</div>
             <h5>Reset Location & Privacy</h5>
-            <p>Ch?n <strong>Reset Location & Privacy</strong>. Nh?p passcode n?u du?c y�u c?u.</p>
+            <p>Chọn <strong>Reset Location & Privacy</strong>. Nhập passcode nếu được yêu cầu.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">6</div>
-            <h5>K?t n?i l?i</h5>
-            <p>R�t c�p USB, d?i v�i gi�y, c?m l?i. B?ng <strong>Trust This Computer?</strong> s? hi?n l�n.</p>
+            <h5>Kết nối lại</h5>
+            <p>Rút cáp USB, đợi vài giây, cắm lại. Bảng <strong>Trust This Computer?</strong> sẽ hiện lên.</p>
         </div>
         
         <div class="tip-box">
-            <h5><i class="fas fa-lightbulb me-2"></i>Luu �:</h5>
-            <p class="mb-0">Reset Location & Privacy s? reset quy?n truy c?p v? tr� v� quy?n ri�ng tu c?a t?t c? ?ng d?ng. C�c app s? y�u c?u quy?n l?i khi m?.</p>
+            <h5><i class="fas fa-lightbulb me-2"></i>Lưu ý:</h5>
+            <p class="mb-0">Reset Location & Privacy sẽ reset quyền truy cập vị trí và quyền riêng tư của tất cả ứng dụng. Các app sẽ yêu cầu quyền lại khi mở.</p>
         </div>
         
-        <h2 id="cach-2"><i class="fas fa-usb me-2"></i>4. C�ch 2: Ki?m tra c�p USB</h2>
+        <h2 id="cach-2"><i class="fas fa-usb me-2"></i>4. Cách 2: Kiểm tra cáp USB</h2>
         
-        <h3>4.1. Lo?i c�p c?n d�ng</h3>
+        <h3>4.1. Loại cáp cần dùng</h3>
         <table class="comparison-table">
             <thead>
-                <tr><th>Lo?i c�p</th><th>Data Transfer</th><th>Khuy?n ngh?</th></tr>
+                <tr><th>Loại cáp</th><th>Data Transfer</th><th>Khuyến nghị</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>C�p Apple ch�nh h�ng</strong></td><td>? C�</td><td>? T?t nh?t</td></tr>
-                <tr><td><strong>C�p MFi certified</strong></td><td>? C�</td><td>? T?t</td></tr>
-                <tr><td><strong>C�p r?/no-name</strong></td><td>? Thu?ng kh�ng</td><td>? Tr�nh</td></tr>
+                <tr><td><strong>Cáp Apple chính hãng</strong></td><td>✅ Có</td><td>⭐ Tốt nhất</td></tr>
+                <tr><td><strong>Cáp MFi certified</strong></td><td>✅ Có</td><td>✅ Tốt</td></tr>
+                <tr><td><strong>Cáp rẻ/no-name</strong></td><td>❌ Thường không</td><td>❌ Tránh</td></tr>
             </tbody>
         </table>
         
-        <h3>4.2. M?o ki?m tra</h3>
+        <h3>4.2. Mẹo kiểm tra</h3>
         <ul>
-            <li><strong>Th? c�p kh�c:</strong> Mu?n c�p Apple ch�nh h�ng d? test</li>
-            <li><strong>Th? c?ng kh�c:</strong> Th? c�c c?ng USB kh�c tr�n m�y t�nh</li>
-            <li><strong>Tr�nh hub USB:</strong> C?m tr?c ti?p v�o m�y t�nh, kh�ng qua hub</li>
-            <li><strong>Th? USB 2.0:</strong> M?t s? m�y ho?t d?ng t?t hon v?i USB 2.0</li>
+            <li><strong>Thử cáp khác:</strong> Mượn cáp Apple chính hãng để test</li>
+            <li><strong>Thử cổng khác:</strong> Thử các cổng USB khác trên máy tính</li>
+            <li><strong>Tránh hub USB:</strong> Cắm trực tiếp vào máy tính, không qua hub</li>
+            <li><strong>Thử USB 2.0:</strong> Một số máy hoạt động tốt hơn với USB 2.0</li>
         </ul>
         
-        <h2 id="cach-3"><i class="fas fa-download me-2"></i>5. C�ch 3: C�i l?i iTunes/Driver</h2>
+        <h2 id="cach-3"><i class="fas fa-download me-2"></i>5. Cách 3: Cài lại iTunes/Driver</h2>
         
         <h3>5.1. Windows</h3>
         <div class="solution-card">
-            <h5><i class="fab fa-windows me-2"></i>C�i iTunes t? Microsoft Store (Khuy?n ngh?)</h5>
+            <h5><i class="fab fa-windows me-2"></i>Cài iTunes từ Microsoft Store (Khuyến nghị)</h5>
             <ol>
-                <li>G? iTunes cu (n?u c�)</li>
-                <li>M? Microsoft Store</li>
-                <li>T�m "iTunes" v� c�i d?t</li>
-                <li>Restart m�y t�nh</li>
+                <li>Gỡ iTunes cũ (nếu có)</li>
+                <li>Mở Microsoft Store</li>
+                <li>Tìm "iTunes" và cài đặt</li>
+                <li>Restart máy tính</li>
             </ol>
         </div>
         
         <div class="solution-card">
-            <h5><i class="fas fa-cog me-2"></i>Ki?m tra Apple Mobile Device Service</h5>
+            <h5><i class="fas fa-cog me-2"></i>Kiểm tra Apple Mobile Device Service</h5>
             <ol>
-                <li>Nh?n <kbd>Win</kbd> + <kbd>R</kbd>, g� <code>services.msc</code></li>
-                <li>T�m "Apple Mobile Device Service"</li>
-                <li>Click ph?i ? <strong>Restart</strong></li>
+                <li>Nhấn <kbd>Win</kbd> + <kbd>R</kbd>, gõ <code>services.msc</code></li>
+                <li>Tìm "Apple Mobile Device Service"</li>
+                <li>Click phải → <strong>Restart</strong></li>
             </ol>
         </div>
         
         <h3>5.2. macOS</h3>
-        <p>Tr�n macOS Catalina tr? l�n, Finder thay th? iTunes. �?m b?o:</p>
+        <p>Trên macOS Catalina trở lên, Finder thay thế iTunes. Đảm bảo:</p>
         <ul>
-            <li>macOS du?c update m?i nh?t</li>
-            <li>M? Finder khi k?t n?i iPhone</li>
+            <li>macOS được update mới nhất</li>
+            <li>Mở Finder khi kết nối iPhone</li>
         </ul>
         
-        <h2 id="cach-khac"><i class="fas fa-wrench me-2"></i>6. C�c c�ch kh?c ph?c kh�c</h2>
+        <h2 id="cach-khac"><i class="fas fa-wrench me-2"></i>6. Các cách khắc phục khác</h2>
         
         <div class="solution-card">
-            <h5><i class="fas fa-redo me-2"></i>Restart c? hai thi?t b?</h5>
-            <p>Kh?i d?ng l?i c? iPhone v� m�y t�nh. Sau d� k?t n?i l?i.</p>
+            <h5><i class="fas fa-redo me-2"></i>Restart cả hai thiết bị</h5>
+            <p>Khởi động lại cả iPhone và máy tính. Sau đó kết nối lại.</p>
         </div>
         
         <div class="solution-card">
             <h5><i class="fas fa-sync-alt me-2"></i>Update iOS</h5>
-            <p>V�o Settings ? General ? Software Update. C�i iOS m?i nh?t d? fix bug.</p>
+            <p>Vào Settings → General → Software Update. Cài iOS mới nhất để fix bug.</p>
         </div>
         
         <div class="solution-card">
-            <h5><i class="fas fa-wifi me-2"></i>M?o Personal Hotspot</h5>
-            <p>M?t s? user b�o c�o r?ng b?t <strong>Personal Hotspot</strong> khi dang k?t n?i USB c� th? trigger b?ng Trust hi?n l�n.</p>
+            <h5><i class="fas fa-wifi me-2"></i>Mẹo Personal Hotspot</h5>
+            <p>Một số user báo cáo rằng bật <strong>Personal Hotspot</strong> khi đang kết nối USB có thể trigger bảng Trust hiện lên.</p>
         </div>
         
         <div class="solution-card">
-            <h5><i class="fas fa-shield-alt me-2"></i>Ki?m tra USB Accessories</h5>
-            <p>V�o Settings ? Face ID & Passcode (ho?c Touch ID & Passcode) ? Cu?n xu?ng ? B?t <strong>USB Accessories</strong>.</p>
+            <h5><i class="fas fa-shield-alt me-2"></i>Kiểm tra USB Accessories</h5>
+            <p>Vào Settings → Face ID & Passcode (hoặc Touch ID & Passcode) → Cuộn xuống → Bật <strong>USB Accessories</strong>.</p>
         </div>
         
         <div class="solution-card">
             <h5><i class="fas fa-network-wired me-2"></i>Reset Network Settings</h5>
-            <p>N?u c�c c�ch tr�n kh�ng du?c, th? Settings ? General ? Transfer or Reset iPhone ? Reset ? <strong>Reset Network Settings</strong>. Luu �: s? m?t c�i d?t Wi-Fi.</p>
+            <p>Nếu các cách trên không được, thử Settings → General → Transfer or Reset iPhone → Reset → <strong>Reset Network Settings</strong>. Lưu ý: sẽ mất cài đặt Wi-Fi.</p>
         </div>
         
         <h2 id="disabled"><i class="fas fa-lock me-2"></i>7. iPhone Disabled/Locked</h2>
         
         <div class="warning-box">
-            <h5><i class="fas fa-exclamation-triangle me-2"></i>Tru?ng h?p d?c bi?t:</h5>
-            <p>N?u iPhone dang ? tr?ng th�i:</p>
+            <h5><i class="fas fa-exclamation-triangle me-2"></i>Trường hợp đặc biệt:</h5>
+            <p>Nếu iPhone đang ở trạng thái:</p>
             <ul>
-                <li><strong>iPhone is Disabled:</strong> Nh?p sai passcode qu� nhi?u l?n</li>
-                <li><strong>iPhone Unavailable:</strong> iOS 15.2+ khi nh?p sai passcode</li>
-                <li><strong>Qu�n passcode:</strong> Kh�ng th? m? kh�a d? nh?n Trust</li>
+                <li><strong>iPhone is Disabled:</strong> Nhập sai passcode quá nhiều lần</li>
+                <li><strong>iPhone Unavailable:</strong> iOS 15.2+ khi nhập sai passcode</li>
+                <li><strong>Quên passcode:</strong> Không thể mở khóa để nhấn Trust</li>
             </ul>
-            <p class="mb-0">Trong c�c tru?ng h?p n�y, b?n <strong>kh�ng th? nh?n Trust</strong> v� c?n restore qua Recovery Mode ho?c s? d?ng tool bypass.</p>
+            <p class="mb-0">Trong các trường hợp này, bạn <strong>không thể nhấn Trust</strong> và cần restore qua Recovery Mode hoặc sử dụng tool bypass.</p>
         </div>
         
-        <h3>7.1. Gi?i ph�p cho iPhone Disabled</h3>
+        <h3>7.1. Giải pháp cho iPhone Disabled</h3>
         <ul>
-            <li><strong>Recovery Mode + iTunes:</strong> Restore iPhone qua Recovery Mode (s? m?t d? li?u)</li>
-            <li><strong>iCloud Find My:</strong> Erase iPhone t? iCloud.com (n?u d� b?t Find My)</li>
-            <li><strong>UnlockTool:</strong> S? d?ng tool bypass d? unlock m� kh�ng c?n Trust</li>
+            <li><strong>Recovery Mode + iTunes:</strong> Restore iPhone qua Recovery Mode (sẽ mất dữ liệu)</li>
+            <li><strong>iCloud Find My:</strong> Erase iPhone từ iCloud.com (nếu đã bật Find My)</li>
+            <li><strong>UnlockTool:</strong> Sử dụng tool bypass để unlock mà không cần Trust</li>
         </ul>
         
         <div class="price-box">
-            <h3><i class="fas fa-tools me-2"></i>iPhone Disabled ho?c Kh�ng Hi?n Trust?</h3>
-            <p>UnlockTool bypass passcode v� restore m� kh�ng c?n Trust Computer!</p>
-            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg"><i class="fas fa-bolt me-2"></i>Thu� UnlockTool 8K/6H</a>
+            <h3><i class="fas fa-tools me-2"></i>iPhone Disabled hoặc Không Hiện Trust?</h3>
+            <p>UnlockTool bypass passcode và restore mà không cần Trust Computer!</p>
+            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg"><i class="fas fa-bolt me-2"></i>Thuê UnlockTool 8K/6H</a>
         </div>
         
-        <h2 id="faq"><i class="fas fa-comments me-2"></i>8. FAQ - C�u h?i thu?ng g?p</h2>
+        <h2 id="faq"><i class="fas fa-comments me-2"></i>8. FAQ - Câu hỏi thường gặp</h2>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>T?i sao iPhone kh�ng hi?n Trust This Computer?</h5>
-            <p>Nguy�n nh�n ph? bi?n: d� nh?n Don't Trust tru?c d�, c�p USB kh�ng h? tr? data, driver iTunes thi?u, ho?c c?ng USB l?i. Reset Location & Privacy thu?ng gi?i quy?t du?c.</p>
-        </div>
-        
-        <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>L�m sao d? b?ng Trust hi?n l?i?</h5>
-            <p>V�o <strong>Settings ? General ? Transfer or Reset iPhone ? Reset ? Reset Location & Privacy</strong>. Sau d� r�t c�p, d?i v�i gi�y v� k?t n?i l?i.</p>
+            <h5><i class="fas fa-question me-2"></i>Tại sao iPhone không hiện Trust This Computer?</h5>
+            <p>Nguyên nhân phổ biến: đã nhấn Don't Trust trước đó, cáp USB không hỗ trợ data, driver iTunes thiếu, hoặc cổng USB lỗi. Reset Location & Privacy thường giải quyết được.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>iPhone disabled c� nh?n Trust du?c kh�ng?</h5>
-            <p><strong>Kh�ng.</strong> iPhone disabled c?n du?c restore qua Recovery Mode ho?c s? d?ng tool bypass nhu UnlockTool tru?c khi c� th? nh?n Trust.</p>
+            <h5><i class="fas fa-question me-2"></i>Làm sao để bảng Trust hiện lại?</h5>
+            <p>Vào <strong>Settings → General → Transfer or Reset iPhone → Reset → Reset Location & Privacy</strong>. Sau đó rút cáp, đợi vài giây và kết nối lại.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>C�p USB n�o h? tr? Trust Computer?</h5>
-            <p>C�p <strong>ch�nh h�ng Apple</strong> ho?c c�p <strong>MFi certified</strong>. C�p r?/no-name thu?ng ch? s?c m� kh�ng h? tr? data transfer.</p>
+            <h5><i class="fas fa-question me-2"></i>iPhone disabled có nhấn Trust được không?</h5>
+            <p><strong>Không.</strong> iPhone disabled cần được restore qua Recovery Mode hoặc sử dụng tool bypass như UnlockTool trước khi có thể nhấn Trust.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Reset Location & Privacy c� m?t d? li?u kh�ng?</h5>
-            <p><strong>Kh�ng m?t d? li?u.</strong> Ch? reset c�c quy?n truy c?p v? tr� v� quy?n ri�ng tu c?a ?ng d?ng. C�c app s? y�u c?u quy?n l?i khi m?.</p>
+            <h5><i class="fas fa-question me-2"></i>Cáp USB nào hỗ trợ Trust Computer?</h5>
+            <p>Cáp <strong>chính hãng Apple</strong> hoặc cáp <strong>MFi certified</strong>. Cáp rẻ/no-name thường chỉ sạc mà không hỗ trợ data transfer.</p>
         </div>
         
-        <h2><i class="fas fa-link me-2"></i>B�i vi?t li�n quan</h2>
+        <div class="faq-item">
+            <h5><i class="fas fa-question me-2"></i>Reset Location & Privacy có mất dữ liệu không?</h5>
+            <p><strong>Không mất dữ liệu.</strong> Chỉ reset các quyền truy cập vị trí và quyền riêng tư của ứng dụng. Các app sẽ yêu cầu quyền lại khi mở.</p>
+        </div>
+        
+        <h2><i class="fas fa-link me-2"></i>Bài viết liên quan</h2>
         <ul>
-            <li><a href="155-loi-dfurecovery-mode.php">DFU Mode v� Recovery Mode - Hu?ng d?n</a></li>
-            <li><a href="147-unlock-iphone-lock.php">Unlock iPhone Lock - Hu?ng d?n</a></li>
-            <li><a href="137-iremoval-pro-la-gi.php">iRemoval Pro - Hu?ng d?n s? d?ng</a></li>
-            <li><a href="152-check-imei-free.php">Check IMEI iPhone mi?n ph�</a></li>
-            <li><a href="1-unlocktool-la-gi.php">UnlockTool l� g�?</a></li>
+            <li><a href="155-loi-dfurecovery-mode.php">DFU Mode và Recovery Mode - Hướng dẫn</a></li>
+            <li><a href="147-unlock-iphone-lock.php">Unlock iPhone Lock - Hướng dẫn</a></li>
+            <li><a href="137-iremoval-pro-la-gi.php">iRemoval Pro - Hướng dẫn sử dụng</a></li>
+            <li><a href="152-check-imei-free.php">Check IMEI iPhone miễn phí</a></li>
+            <li><a href="1-unlocktool-la-gi.php">UnlockTool là gì?</a></li>
         </ul>
         
     </div>
@@ -424,7 +425,7 @@ $canonical_url = "https://www.unlocktool.us/articles/153-loi-iphone-trust-comput
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -438,13 +439,13 @@ $canonical_url = "https://www.unlocktool.us/articles/153-loi-iphone-trust-comput
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -452,15 +453,15 @@ $canonical_url = "https://www.unlocktool.us/articles/153-loi-iphone-trust-comput
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -473,7 +474,7 @@ $canonical_url = "https://www.unlocktool.us/articles/153-loi-iphone-trust-comput
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -481,8 +482,8 @@ $canonical_url = "https://www.unlocktool.us/articles/153-loi-iphone-trust-comput
 </div>
 <footer class="bg-dark text-white py-4 text-center">
     <div class="container">
-        <p class="mb-2">&copy; 2026 UnlockTool.us - D?ch v? cho thu� UnlockTool uy t�n #1 Vi?t Nam</p>
-        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thu� UnlockTool 8K</a></p>
+        <p class="mb-2">&copy; 2026 UnlockTool.us - Dịch vụ cho thuê UnlockTool uy tín #1 Việt Nam</p>
+        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thuê UnlockTool 8K</a></p>
     </div>
 </footer>
 

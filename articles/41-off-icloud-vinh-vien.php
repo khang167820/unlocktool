@@ -1,7 +1,7 @@
 ﻿<?php
-$page_title = "Off iCloud Vinh Vi?n 2026 - X�a iCloud Clean iPhone iPad";
-$page_description = "D?ch v? Off iCloud vinh vi?n cho iPhone iPad. X�a iCloud kh?i server Apple, m�y s?ch nhu m?i. Off iCloud Clean gi� r? uy t�n t?i Thuetaikhoan.net";
-$page_keywords = "off icloud, off icloud vinh vi?n, x�a icloud clean, off icloud iphone, off icloud gi� r?";
+$page_title = "Off iCloud Vĩnh Viễn 2026 - Xóa iCloud Clean iPhone iPad";
+$page_description = "Dịch vụ Off iCloud vĩnh viễn cho iPhone iPad. Xóa iCloud khỏi server Apple, máy sạch như mới. Off iCloud Clean giá rẻ uy tín tại Thuetaikhoan.net";
+$page_keywords = "off icloud, off icloud vĩnh viễn, xóa icloud clean, off icloud iphone, off icloud giá rẻ";
 $canonical_url = "https://www.unlocktool.us/articles/41-off-icloud-vinh-vien.php";
 ?>
 <!DOCTYPE html>
@@ -18,20 +18,20 @@ $canonical_url = "https://www.unlocktool.us/articles/41-off-icloud-vinh-vien.php
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">\n    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">">
     <meta property="og:title" content="<?php echo $page_title; ?>">
-    <meta property="og:description" content="<?php echo $page_description; ?>
-    <meta property="og:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
+    <meta property="og:description" content="<?php echo $page_description; ?>">
     
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"Service","name":"Off iCloud Vinh Vi?n","provider":{"@type":"Organization","name":"Thuetaikhoan.net"},"description":"D?ch v? x�a iCloud Clean cho iPhone iPad","offers":{"@type":"AggregateOffer","lowPrice":"800000","highPrice":"3000000","priceCurrency":"VND"}}
+    {"@context":"https://schema.org","@type":"Service","name":"Off iCloud Vĩnh Viễn","provider":{"@type":"Organization","name":"Thuetaikhoan.net"},"description":"Dịch vụ xóa iCloud Clean cho iPhone iPad","offers":{"@type":"AggregateOffer","lowPrice":"800000","highPrice":"3000000","priceCurrency":"VND"}}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"Off iCloud l� g�?","acceptedAnswer":{"@type":"Answer","text":"Off iCloud l� x�a ho�n to�n t�i kho?n iCloud kh?i server Apple, m�y tr? th�nh Clean - s?ch nhu m�y m?i."}},
-        {"@type":"Question","name":"Off iCloud c� vinh vi?n kh�ng?","acceptedAnswer":{"@type":"Answer","text":"C�, sau khi Off iCloud th�nh c�ng, m�y s? s?ch vinh vi?n, c� th? update iOS, reset tho?i m�i."}},
-        {"@type":"Question","name":"Gi� Off iCloud bao nhi�u?","acceptedAnswer":{"@type":"Answer","text":"Gi� Off iCloud t? 800.000d d?n 3.000.000d t�y d?i m�y v� t�nh tr?ng. Li�n h? Thuetaikhoan.net d? du?c b�o gi� ch�nh x�c."}}
+        {"@type":"Question","name":"Off iCloud là gì?","acceptedAnswer":{"@type":"Answer","text":"Off iCloud là xóa hoàn toàn tài khoản iCloud khỏi server Apple, máy trở thành Clean - sạch như máy mới."}},
+        {"@type":"Question","name":"Off iCloud có vĩnh viễn không?","acceptedAnswer":{"@type":"Answer","text":"Có, sau khi Off iCloud thành công, máy sẽ sạch vĩnh viễn, có thể update iOS, reset thoải mái."}},
+        {"@type":"Question","name":"Giá Off iCloud bao nhiêu?","acceptedAnswer":{"@type":"Answer","text":"Giá Off iCloud từ 800.000đ đến 3.000.000đ tùy đời máy và tình trạng. Liên hệ Thuetaikhoan.net để được báo giá chính xác."}}
     ]}
     </script>
     
@@ -106,7 +106,7 @@ $canonical_url = "https://www.unlocktool.us/articles/41-off-icloud-vinh-vien.php
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? kh�a di?n tho?i",
+        "name": "Dịch vụ mở khóa điện thoại",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -123,8 +123,8 @@ $canonical_url = "https://www.unlocktool.us/articles/41-off-icloud-vinh-vien.php
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -132,10 +132,10 @@ $canonical_url = "https://www.unlocktool.us/articles/41-off-icloud-vinh-vien.php
 <section class="hero-section">
     <div class="container">
         <h1><i class="fab fa-apple me-3"></i><?php echo $page_title; ?></h1>
-        <p class="lead">X�a iCloud kh?i server Apple - M�y s?ch nhu m?i - Vinh vi?n!</p>
+        <p class="lead">Xóa iCloud khỏi server Apple - Máy sạch như mới - Vĩnh viễn!</p>
         <div class="mt-4">
             <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-apple btn-lg">
-                <i class="fas fa-shopping-cart me-2"></i>�?t D?ch V? Off iCloud
+                <i class="fas fa-shopping-cart me-2"></i>Đặt Dịch Vụ Off iCloud
             </a>
         </div>
     </div>
@@ -146,96 +146,96 @@ $canonical_url = "https://www.unlocktool.us/articles/41-off-icloud-vinh-vien.php
         <div class="col-lg-8">
             
             <div class="toc">
-                <h5><i class="fas fa-list me-2"></i>M?c l?c</h5>
+                <h5><i class="fas fa-list me-2"></i>Mục lục</h5>
                 <ul>
-                    <li><a href="#off-icloud">1. Off iCloud l� g�?</a></li>
-                    <li><a href="#so-sanh">2. So s�nh Bypass vs Off vs ?n iCloud</a></li>
-                    <li><a href="#loi-ich">3. L?i �ch c?a Off iCloud</a></li>
-                    <li><a href="#bang-gia">4. B?ng gi� Off iCloud</a></li>
-                    <li><a href="#quy-trinh">5. Quy tr�nh Off iCloud</a></li>
-                    <li><a href="#dat-dich-vu">6. �?t d?ch v? Off iCloud</a></li>
+                    <li><a href="#off-icloud">1. Off iCloud là gì?</a></li>
+                    <li><a href="#so-sanh">2. So sánh Bypass vs Off vs Ẩn iCloud</a></li>
+                    <li><a href="#loi-ich">3. Lợi ích của Off iCloud</a></li>
+                    <li><a href="#bang-gia">4. Bảng giá Off iCloud</a></li>
+                    <li><a href="#quy-trinh">5. Quy trình Off iCloud</a></li>
+                    <li><a href="#dat-dich-vu">6. Đặt dịch vụ Off iCloud</a></li>
                     <li><a href="#faq">7. FAQ</a></li>
                 </ul>
             </div>
 
             <section id="off-icloud" class="mt-5">
-                <h2><i class="fab fa-apple text-dark me-2"></i>1. Off iCloud L� G�?</h2>
+                <h2><i class="fab fa-apple text-dark me-2"></i>1. Off iCloud Là Gì?</h2>
                 
-                <p><strong>Off iCloud</strong> (hay c�n g?i l� <strong>Clean iCloud</strong>) l� phuong ph�p x�a ho�n to�n t�i kho?n iCloud kh?i server Apple. Sau khi Off th�nh c�ng, thi?t b? s? tr? th�nh "Clean" - kh�ng c�n li�n k?t v?i b?t k? t�i kho?n iCloud n�o.</p>
+                <p><strong>Off iCloud</strong> (hay còn gọi là <strong>Clean iCloud</strong>) là phương pháp xóa hoàn toàn tài khoản iCloud khỏi server Apple. Sau khi Off thành công, thiết bị sẽ trở thành "Clean" - không còn liên kết với bất kỳ tài khoản iCloud nào.</p>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-check-circle me-2"></i>Sau khi Off iCloud, m�y s?:</h5>
+                    <h5><i class="fas fa-check-circle me-2"></i>Sau khi Off iCloud, máy sẽ:</h5>
                     <ul class="mb-0">
-                        <li>S?ch nhu m�y m?i - kh�ng c�n iCloud cu</li>
-                        <li>�ang nh?p du?c iCloud m?i c?a b?n</li>
-                        <li>S? d?ng d?y d? 100% t�nh nang</li>
-                        <li>Update iOS, reset tho?i m�i - kh�ng b? kh�a l?i</li>
-                        <li>Gi� tr? b�n l?i cao hon nhi?u</li>
+                        <li>Sạch như máy mới - không còn iCloud cũ</li>
+                        <li>Đăng nhập được iCloud mới của bạn</li>
+                        <li>Sử dụng đầy đủ 100% tính năng</li>
+                        <li>Update iOS, reset thoải mái - không bị khóa lại</li>
+                        <li>Giá trị bán lại cao hơn nhiều</li>
                     </ul>
                 </div>
 
-                <h3>1.1. Off iCloud ho?t d?ng nhu th? n�o?</h3>
-                <p>Off iCloud kh�ng ph?i l� bypass hay hack. ��y l� qu� tr�nh g? b? th�ng tin iCloud t? server Apple th�ng qua c�c phuong ph�p:</p>
+                <h3>1.1. Off iCloud hoạt động như thế nào?</h3>
+                <p>Off iCloud không phải là bypass hay hack. Đây là quá trình gỡ bỏ thông tin iCloud từ server Apple thông qua các phương pháp:</p>
                 <ul>
-                    <li><strong>Li�n h? ch? cu:</strong> Nh? ch? cu x�a thi?t b? t? iCloud.com</li>
-                    <li><strong>Proof of purchase:</strong> Cung c?p h�a don mua h�ng cho Apple Support</li>
-                    <li><strong>D?ch v? chuy�n nghi?p:</strong> S? d?ng d?ch v? Off iCloud t? b�n th? ba</li>
+                    <li><strong>Liên hệ chủ cũ:</strong> Nhờ chủ cũ xóa thiết bị từ iCloud.com</li>
+                    <li><strong>Proof of purchase:</strong> Cung cấp hóa đơn mua hàng cho Apple Support</li>
+                    <li><strong>Dịch vụ chuyên nghiệp:</strong> Sử dụng dịch vụ Off iCloud từ bên thứ ba</li>
                 </ul>
             </section>
 
             <section id="so-sanh" class="mt-5">
-                <h2><i class="fas fa-balance-scale text-dark me-2"></i>2. So S�nh Bypass vs Off vs ?n iCloud</h2>
+                <h2><i class="fas fa-balance-scale text-dark me-2"></i>2. So Sánh Bypass vs Off vs Ẩn iCloud</h2>
 
                 <div class="row">
                     <div class="col-md-4 mb-3">
                         <div class="comparison-card h-100">
                             <h5><i class="fas fa-forward text-primary me-2"></i>Bypass iCloud</h5>
-                            <p><strong>Gi�:</strong> T? 200.000d</p>
-                            <p><strong>Uu di?m:</strong></p>
+                            <p><strong>Giá:</strong> Từ 200.000đ</p>
+                            <p><strong>Ưu điểm:</strong></p>
                             <ul class="small">
-                                <li>Gi� r? nh?t</li>
-                                <li>Th?c hi?n nhanh</li>
+                                <li>Giá rẻ nhất</li>
+                                <li>Thực hiện nhanh</li>
                             </ul>
-                            <p><strong>Nhu?c di?m:</strong></p>
+                            <p><strong>Nhược điểm:</strong></p>
                             <ul class="small">
-                                <li>M?t khi reset/update</li>
-                                <li>Kh�ng d�ng du?c SIM</li>
-                                <li>H?n ch? t�nh nang</li>
+                                <li>Mất khi reset/update</li>
+                                <li>Không dùng được SIM</li>
+                                <li>Hạn chế tính năng</li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-md-4 mb-3">
                         <div class="comparison-card h-100">
-                            <h5><i class="fas fa-eye-slash text-info me-2"></i>?n iCloud</h5>
-                            <p><strong>Gi�:</strong> T? 500.000d</p>
-                            <p><strong>Uu di?m:</strong></p>
+                            <h5><i class="fas fa-eye-slash text-info me-2"></i>Ẩn iCloud</h5>
+                            <p><strong>Giá:</strong> Từ 500.000đ</p>
+                            <p><strong>Ưu điểm:</strong></p>
                             <ul class="small">
-                                <li>�? t�nh nang</li>
-                                <li>�ang nh?p iCloud m?i</li>
+                                <li>Đủ tính năng</li>
+                                <li>Đăng nhập iCloud mới</li>
                             </ul>
-                            <p><strong>Nhu?c di?m:</strong></p>
+                            <p><strong>Nhược điểm:</strong></p>
                             <ul class="small">
-                                <li>Kh�ng vinh vi?n 100%</li>
-                                <li>C� th? m?t khi update</li>
+                                <li>Không vĩnh viễn 100%</li>
+                                <li>Có thể mất khi update</li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-md-4 mb-3">
                         <div class="comparison-card recommended h-100">
-                            <span class="badge bg-success mb-2">Khuy?n ngh?</span>
+                            <span class="badge bg-success mb-2">Khuyến nghị</span>
                             <h5><i class="fas fa-trash-alt text-success me-2"></i>Off iCloud</h5>
-                            <p><strong>Gi�:</strong> T? 800.000d</p>
-                            <p><strong>Uu di?m:</strong></p>
+                            <p><strong>Giá:</strong> Từ 800.000đ</p>
+                            <p><strong>Ưu điểm:</strong></p>
                             <ul class="small">
-                                <li><strong>Vinh vi?n - Clean</strong></li>
-                                <li>�?y d? 100% t�nh nang</li>
-                                <li>Update/reset tho?i m�i</li>
-                                <li>Gi� tr? b�n l?i cao</li>
+                                <li><strong>Vĩnh viễn - Clean</strong></li>
+                                <li>Đầy đủ 100% tính năng</li>
+                                <li>Update/reset thoải mái</li>
+                                <li>Giá trị bán lại cao</li>
                             </ul>
-                            <p><strong>Nhu?c di?m:</strong></p>
+                            <p><strong>Nhược điểm:</strong></p>
                             <ul class="small">
-                                <li>Gi� cao hon</li>
-                                <li>Th?i gian l�u hon</li>
+                                <li>Giá cao hơn</li>
+                                <li>Thời gian lâu hơn</li>
                             </ul>
                         </div>
                     </div>
@@ -243,38 +243,38 @@ $canonical_url = "https://www.unlocktool.us/articles/41-off-icloud-vinh-vien.php
             </section>
 
             <section id="loi-ich" class="mt-5">
-                <h2><i class="fas fa-star text-dark me-2"></i>3. L?i �ch C?a Off iCloud</h2>
+                <h2><i class="fas fa-star text-dark me-2"></i>3. Lợi Ích Của Off iCloud</h2>
 
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-infinity text-success me-2"></i>Vinh vi?n</h5>
-                            <p>Sau khi Off, m�y s?ch vinh vi?n. Update iOS 17, 18 hay b?t k? b?n n�o cung kh�ng b? kh�a l?i.</p>
+                            <h5><i class="fas fa-infinity text-success me-2"></i>Vĩnh viễn</h5>
+                            <p>Sau khi Off, máy sạch vĩnh viễn. Update iOS 17, 18 hay bất kỳ bản nào cũng không bị khóa lại.</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-check-double text-primary me-2"></i>�?y d? t�nh nang</h5>
-                            <p>D�ng du?c 100% t�nh nang: iMessage, FaceTime, App Store, Find My, iCloud Drive...</p>
+                            <h5><i class="fas fa-check-double text-primary me-2"></i>Đầy đủ tính năng</h5>
+                            <p>Dùng được 100% tính năng: iMessage, FaceTime, App Store, Find My, iCloud Drive...</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-sim-card text-info me-2"></i>D�ng du?c SIM</h5>
-                            <p>G?i di?n, nh?n tin, 4G/5G b�nh thu?ng nhu m�y m?i.</p>
+                            <h5><i class="fas fa-sim-card text-info me-2"></i>Dùng được SIM</h5>
+                            <p>Gọi điện, nhắn tin, 4G/5G bình thường như máy mới.</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-coins text-warning me-2"></i>Gi� tr? cao</h5>
-                            <p>iPhone Clean b�n du?c gi� cao hon nhi?u so v?i m�y iCloud lock.</p>
+                            <h5><i class="fas fa-coins text-warning me-2"></i>Giá trị cao</h5>
+                            <p>iPhone Clean bán được giá cao hơn nhiều so với máy iCloud lock.</p>
                         </div>
                     </div>
                 </div>
             </section>
 
             <section id="bang-gia" class="mt-5">
-                <h2><i class="fas fa-tags text-dark me-2"></i>4. B?ng Gi� Off iCloud</h2>
+                <h2><i class="fas fa-tags text-dark me-2"></i>4. Bảng Giá Off iCloud</h2>
 
                 <table class="table price-table">
                     <thead>
@@ -282,148 +282,148 @@ $canonical_url = "https://www.unlocktool.us/articles/41-off-icloud-vinh-vien.php
                             <th>Model iPhone</th>
                             <th>Off Clean</th>
                             <th>Off Lost Mode</th>
-                            <th>Th?i gian</th>
+                            <th>Thời gian</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td>iPhone 6/6s/SE1</td>
-                            <td>800.000d</td>
-                            <td>1.200.000d</td>
-                            <td>1-3 ng�y</td>
+                            <td>800.000đ</td>
+                            <td>1.200.000đ</td>
+                            <td>1-3 ngày</td>
                         </tr>
                         <tr>
                             <td>iPhone 7/8/SE2</td>
-                            <td>1.000.000d</td>
-                            <td>1.500.000d</td>
-                            <td>1-3 ng�y</td>
+                            <td>1.000.000đ</td>
+                            <td>1.500.000đ</td>
+                            <td>1-3 ngày</td>
                         </tr>
                         <tr>
                             <td>iPhone X/XR/XS</td>
-                            <td>1.500.000d</td>
-                            <td>2.000.000d</td>
-                            <td>1-5 ng�y</td>
+                            <td>1.500.000đ</td>
+                            <td>2.000.000đ</td>
+                            <td>1-5 ngày</td>
                         </tr>
                         <tr>
                             <td>iPhone 11 series</td>
-                            <td>2.000.000d</td>
-                            <td>2.500.000d</td>
-                            <td>3-7 ng�y</td>
+                            <td>2.000.000đ</td>
+                            <td>2.500.000đ</td>
+                            <td>3-7 ngày</td>
                         </tr>
                         <tr>
                             <td>iPhone 12 series</td>
-                            <td>2.500.000d</td>
-                            <td>Li�n h?</td>
-                            <td>3-7 ng�y</td>
+                            <td>2.500.000đ</td>
+                            <td>Liên hệ</td>
+                            <td>3-7 ngày</td>
                         </tr>
                         <tr>
                             <td>iPhone 13/14/15</td>
-                            <td>Li�n h?</td>
-                            <td>Li�n h?</td>
-                            <td>Li�n h?</td>
+                            <td>Liên hệ</td>
+                            <td>Liên hệ</td>
+                            <td>Liên hệ</td>
                         </tr>
                     </tbody>
                 </table>
-                <p class="text-muted"><em>* Gi� c� th? thay d?i. Li�n h? <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a> d? du?c b�o gi� ch�nh x�c.</em></p>
+                <p class="text-muted"><em>* Giá có thể thay đổi. Liên hệ <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a> để được báo giá chính xác.</em></p>
             </section>
 
             <section id="quy-trinh" class="mt-5">
-                <h2><i class="fas fa-tasks text-dark me-2"></i>5. Quy Tr�nh Off iCloud</h2>
+                <h2><i class="fas fa-tasks text-dark me-2"></i>5. Quy Trình Off iCloud</h2>
 
                 <ol>
-                    <li class="mb-3"><strong>Li�n h? & b�o gi�:</strong> Cung c?p IMEI, model iPhone d? du?c b�o gi� ch�nh x�c.</li>
-                    <li class="mb-3"><strong>Thanh to�n:</strong> Thanh to�n tru?c 50% ho?c 100% t�y tru?ng h?p.</li>
-                    <li class="mb-3"><strong>X? l�:</strong> Ch�ng t�i th?c hi?n Off iCloud (1-7 ng�y t�y model).</li>
-                    <li class="mb-3"><strong>Ki?m tra:</strong> B?n ki?m tra m�y d� Clean chua.</li>
-                    <li class="mb-3"><strong>Ho�n t?t:</strong> Thanh to�n ph?n c�n l?i (n?u c�) v� nh?n b?o h�nh.</li>
+                    <li class="mb-3"><strong>Liên hệ & báo giá:</strong> Cung cấp IMEI, model iPhone để được báo giá chính xác.</li>
+                    <li class="mb-3"><strong>Thanh toán:</strong> Thanh toán trước 50% hoặc 100% tùy trường hợp.</li>
+                    <li class="mb-3"><strong>Xử lý:</strong> Chúng tôi thực hiện Off iCloud (1-7 ngày tùy model).</li>
+                    <li class="mb-3"><strong>Kiểm tra:</strong> Bạn kiểm tra máy đã Clean chưa.</li>
+                    <li class="mb-3"><strong>Hoàn tất:</strong> Thanh toán phần còn lại (nếu có) và nhận bảo hành.</li>
                 </ol>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu �</h5>
-                    <p class="mb-0">Kh�ng ph?i t?t c? iPhone d?u Off du?c. M?t s? tru?ng h?p nhu m�y b�o m?t c?nh s�t, IMEI den... c� th? kh�ng x? l� du?c ho?c gi� cao hon.</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý</h5>
+                    <p class="mb-0">Không phải tất cả iPhone đều Off được. Một số trường hợp như máy báo mất cảnh sát, IMEI đen... có thể không xử lý được hoặc giá cao hơn.</p>
                 </div>
             </section>
 
             <section id="dat-dich-vu" class="mt-5">
-                <h2><i class="fas fa-shopping-cart text-dark me-2"></i>6. �?t D?ch V? Off iCloud</h2>
+                <h2><i class="fas fa-shopping-cart text-dark me-2"></i>6. Đặt Dịch Vụ Off iCloud</h2>
 
                 <div class="service-cta">
-                    <h3><i class="fab fa-apple me-2"></i>Off iCloud Vinh Vi?n</h3>
-                    <p class="lead">M�y s?ch nhu m?i - �?y d? t�nh nang</p>
-                    <p class="h2 fw-bold">T? 800.000d</p>
+                    <h3><i class="fab fa-apple me-2"></i>Off iCloud Vĩnh Viễn</h3>
+                    <p class="lead">Máy sạch như mới - Đầy đủ tính năng</p>
+                    <p class="h2 fw-bold">Từ 800.000đ</p>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light btn-lg">
-                        <i class="fas fa-external-link-alt me-2"></i>�?t D?ch V? T?i Thuetaikhoan.net
+                        <i class="fas fa-external-link-alt me-2"></i>Đặt Dịch Vụ Tại Thuetaikhoan.net
                     </a>
-                    <p class="mt-4 mb-0"><small>Kh�ng th�nh c�ng - Ho�n ti?n 100% | B?o h�nh vinh vi?n</small></p>
+                    <p class="mt-4 mb-0"><small>Không thành công - Hoàn tiền 100% | Bảo hành vĩnh viễn</small></p>
                 </div>
 
-                <h3 class="mt-4">6.1. Ho?c ch?n phuong ph�p kh�c</h3>
+                <h3 class="mt-4">6.1. Hoặc chọn phương pháp khác</h3>
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <div class="feature-card">
                             <h5>Bypass iCloud</h5>
-                            <p>Gi� r? hon, nhanh hon nhung kh�ng vinh vi?n.</p>
-                            <p class="text-success fw-bold">T? 200.000d</p>
-                            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-primary btn-sm">�?t d?ch v?</a>
+                            <p>Giá rẻ hơn, nhanh hơn nhưng không vĩnh viễn.</p>
+                            <p class="text-success fw-bold">Từ 200.000đ</p>
+                            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-primary btn-sm">Đặt dịch vụ</a>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card">
-                            <h5>T? Bypass b?ng Tool</h5>
-                            <p>Thu� tool bypass iCloud t? l�m.</p>
-                            <p class="text-success fw-bold">8.000d/6H</p>
-                            <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-outline-primary btn-sm">Thu� tool</a>
+                            <h5>Tự Bypass bằng Tool</h5>
+                            <p>Thuê tool bypass iCloud tự làm.</p>
+                            <p class="text-success fw-bold">8.000đ/6H</p>
+                            <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-outline-primary btn-sm">Thuê tool</a>
                         </div>
                     </div>
                 </div>
             </section>
 
             <section id="faq" class="mt-5">
-                <h2><i class="fas fa-question-circle text-dark me-2"></i>7. C�u H?i Thu?ng G?p</h2>
+                <h2><i class="fas fa-question-circle text-dark me-2"></i>7. Câu Hỏi Thường Gặp</h2>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Off iCloud m?t bao l�u?</span>
+                        <span>Off iCloud mất bao lâu?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Th�ng thu?ng t? 1-7 ng�y t�y model v� t�nh tr?ng. iPhone cu thu?ng nhanh hon iPhone m?i.</p>
+                        <p>Thông thường từ 1-7 ngày tùy model và tình trạng. iPhone cũ thường nhanh hơn iPhone mới.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Sau khi Off c� update iOS du?c kh�ng?</span>
+                        <span>Sau khi Off có update iOS được không?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>C�, sau khi Off iCloud th�nh c�ng, m�y s?ch vinh vi?n, b?n c� th? update iOS, reset tho?i m�i m� kh�ng b? kh�a l?i.</p>
+                        <p>Có, sau khi Off iCloud thành công, máy sạch vĩnh viễn, bạn có thể update iOS, reset thoải mái mà không bị khóa lại.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Lost Mode c� Off du?c kh�ng?</span>
+                        <span>Lost Mode có Off được không?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>C� th?, nhung gi� cao hon v� th?i gian l�u hon. Li�n h? d? du?c tu v?n chi ti?t.</p>
+                        <p>Có thể, nhưng giá cao hơn và thời gian lâu hơn. Liên hệ để được tư vấn chi tiết.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Kh�ng th�nh c�ng c� ho�n ti?n kh�ng?</span>
+                        <span>Không thành công có hoàn tiền không?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>C�, ch�ng t�i cam k?t ho�n ti?n 100% n?u kh�ng Off du?c iCloud.</p>
+                        <p>Có, chúng tôi cam kết hoàn tiền 100% nếu không Off được iCloud.</p>
                     </div>
                 </div>
             </section>
 
             <section class="mt-5">
-                <h2><i class="fas fa-flag-checkered text-dark me-2"></i>K?t Lu?n</h2>
-                <p><strong>Off iCloud</strong> l� gi?i ph�p t?t nh?t n?u b?n mu?n s? d?ng iPhone l�u d�i v?i d?y d? t�nh nang. M?c d� gi� cao hon bypass, nhung d�y l� d?u tu x?ng d�ng cho m?t chi?c iPhone s?ch vinh vi?n.</p>
+                <h2><i class="fas fa-flag-checkered text-dark me-2"></i>Kết Luận</h2>
+                <p><strong>Off iCloud</strong> là giải pháp tốt nhất nếu bạn muốn sử dụng iPhone lâu dài với đầy đủ tính năng. Mặc dù giá cao hơn bypass, nhưng đây là đầu tư xứng đáng cho một chiếc iPhone sạch vĩnh viễn.</p>
                 
                 <div class="text-center mt-4">
-                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-apple btn-lg">�?t Off iCloud - Thuetaikhoan.net</a>
+                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-apple btn-lg">Đặt Off iCloud - Thuetaikhoan.net</a>
                 </div>
             </section>
         </div>
@@ -434,18 +434,18 @@ $canonical_url = "https://www.unlocktool.us/articles/41-off-icloud-vinh-vien.php
                     <div class="card-body text-center">
                         <i class="fab fa-apple fa-3x mb-3"></i>
                         <h5>Off iCloud</h5>
-                        <p class="h4 fw-bold">T? 800K</p>
-                        <p>Vinh vi?n - Clean</p>
-                        <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light w-100">�?t D?ch V?</a>
+                        <p class="h4 fw-bold">Từ 800K</p>
+                        <p>Vĩnh viễn - Clean</p>
+                        <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light w-100">Đặt Dịch Vụ</a>
                     </div>
                 </div>
                 <div class="card mb-4">
-                    <div class="card-header">D?ch V? Kh�c</div>
+                    <div class="card-header">Dịch Vụ Khác</div>
                     <div class="card-body">
                         <ul class="list-unstyled mb-0">
-                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Bypass iCloud: t? 200K</li>
-                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>?n iCloud: t? 500K</li>
-                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>T? l�m: Thu� tool 8K/6H</li>
+                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Bypass iCloud: từ 200K</li>
+                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Ẩn iCloud: từ 500K</li>
+                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Tự làm: Thuê tool 8K/6H</li>
                         </ul>
                     </div>
                 </div>
@@ -461,7 +461,7 @@ $canonical_url = "https://www.unlocktool.us/articles/41-off-icloud-vinh-vien.php
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -475,13 +475,13 @@ $canonical_url = "https://www.unlocktool.us/articles/41-off-icloud-vinh-vien.php
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -489,15 +489,15 @@ $canonical_url = "https://www.unlocktool.us/articles/41-off-icloud-vinh-vien.php
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -510,7 +510,7 @@ $canonical_url = "https://www.unlocktool.us/articles/41-off-icloud-vinh-vien.php
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -518,7 +518,7 @@ $canonical_url = "https://www.unlocktool.us/articles/41-off-icloud-vinh-vien.php
 </div>
 <footer class="bg-dark text-white py-4">
     <div class="container text-center">
-        <p>&copy; 2026 UnlockTool.us - Thuetaikhoan.net | D?ch v? Off iCloud uy t�n</p>
+        <p>&copy; 2026 UnlockTool.us - Thuetaikhoan.net | Dịch vụ Off iCloud uy tín</p>
     </div>
 </footer>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>

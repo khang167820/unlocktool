@@ -1,6 +1,6 @@
 ﻿<?php
-$page_title = "EDL Mode Qualcomm 9008 - Hu?ng D?n V�o Emergency Download Mode 2026 | UnlockTool.us";
-$page_description = "Hu?ng d?n chi ti?t v�o EDL Mode (Qualcomm 9008) tr�n Xiaomi, Samsung, Oppo, Vivo. 5 c�ch v�o EDL Mode d? unbrick, flash firmware. Thu� tool 8K/6H t?i UnlockTool.us";
+$page_title = "EDL Mode Qualcomm 9008 - Hướng Dẫn Vào Emergency Download Mode 2026 | UnlockTool.us";
+$page_description = "Hướng dẫn chi tiết vào EDL Mode (Qualcomm 9008) trên Xiaomi, Samsung, Oppo, Vivo. 5 cách vào EDL Mode để unbrick, flash firmware. Thuê tool 8K/6H tại UnlockTool.us";
 $page_keywords = "edl mode, qualcomm 9008, emergency download mode, vao edl mode, unbrick qualcomm, edl xiaomi, edl samsung, edl oppo";
 $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
 ?>
@@ -18,13 +18,13 @@ $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">\n    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">">
     
     <meta property="og:type" content="article">
     <meta property="og:title" content="<?php echo $page_title; ?>">
-    <meta property="og:description" content="<?php echo $page_description; ?>
-    <meta property="og:image" content="https://www.unlocktool.us/images/unlocktool-guide.jpg">">
+    <meta property="og:description" content="<?php echo $page_description; ?>">
     <meta property="og:url" content="<?php echo $canonical_url; ?>">
     
     <script type="application/ld+json">
@@ -44,15 +44,15 @@ $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
     {
         "@context": "https://schema.org",
         "@type": "HowTo",
-        "name": "C�ch v�o EDL Mode Qualcomm 9008",
-        "description": "5 phuong ph�p v�o EDL Mode tr�n thi?t b? Qualcomm",
+        "name": "Cách vào EDL Mode Qualcomm 9008",
+        "description": "5 phương pháp vào EDL Mode trên thiết bị Qualcomm",
         "totalTime": "PT15M",
         "step": [
-            {"@type": "HowToStep", "position": 1, "name": "ADB Command", "text": "D�ng l?nh adb reboot edl khi m�y dang b?t v� c� USB Debugging"},
-            {"@type": "HowToStep", "position": 2, "name": "Fastboot Command", "text": "D�ng l?nh fastboot reboot edl khi m�y dang ? Fastboot Mode"},
-            {"@type": "HowToStep", "position": 3, "name": "Key Combination", "text": "T?t m�y, gi? Vol Up + Vol Down + Power r?i c?m USB"},
-            {"@type": "HowToStep", "position": 4, "name": "Test Point", "text": "N?i test point v?i GND tr�n main board"},
-            {"@type": "HowToStep", "position": 5, "name": "EDL Cable", "text": "D�ng c�p EDL d?c bi?t c� n�t b?m d? v�o EDL"}
+            {"@type": "HowToStep", "position": 1, "name": "ADB Command", "text": "Dùng lệnh adb reboot edl khi máy đang bật và có USB Debugging"},
+            {"@type": "HowToStep", "position": 2, "name": "Fastboot Command", "text": "Dùng lệnh fastboot reboot edl khi máy đang ở Fastboot Mode"},
+            {"@type": "HowToStep", "position": 3, "name": "Key Combination", "text": "Tắt máy, giữ Vol Up + Vol Down + Power rồi cắm USB"},
+            {"@type": "HowToStep", "position": 4, "name": "Test Point", "text": "Nối test point với GND trên main board"},
+            {"@type": "HowToStep", "position": 5, "name": "EDL Cable", "text": "Dùng cáp EDL đặc biệt có nút bấm để vào EDL"}
         ]
     }
     </script>
@@ -64,34 +64,34 @@ $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "EDL Mode l� g�?",
+                "name": "EDL Mode là gì?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "EDL (Emergency Download Mode) l� ch? d? kh?n c?p tr�n chip Qualcomm, cho ph�p flash firmware ? m?c th?p nh?t. Device Manager s? hi?n 'Qualcomm HS-USB QDLoader 9008'."
+                    "text": "EDL (Emergency Download Mode) là chế độ khẩn cấp trên chip Qualcomm, cho phép flash firmware ở mức thấp nhất. Device Manager sẽ hiện 'Qualcomm HS-USB QDLoader 9008'."
                 }
             },
             {
                 "@type": "Question",
-                "name": "EDL Mode c� x�a d? li?u kh�ng?",
+                "name": "EDL Mode có xóa dữ liệu không?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "V�o EDL Mode kh�ng x�a d? li?u. Nhung c�c thao t�c flash firmware sau d� thu?ng s? x�a d? li?u t�y thu?c v�o lo?i flash th?c hi?n."
+                    "text": "Vào EDL Mode không xóa dữ liệu. Nhưng các thao tác flash firmware sau đó thường sẽ xóa dữ liệu tùy thuộc vào loại flash thực hiện."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Xiaomi c� v�o du?c EDL kh�ng?",
+                "name": "Xiaomi có vào được EDL không?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Xiaomi Qualcomm c� th? v�o EDL, nhung c?n Authorized Mi Account d? flash qua EDL. UnlockTool c� t�nh nang bypass y�u c?u n�y."
+                    "text": "Xiaomi Qualcomm có thể vào EDL, nhưng cần Authorized Mi Account để flash qua EDL. UnlockTool có tính năng bypass yêu cầu này."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Huawei c� EDL Mode kh�ng?",
+                "name": "Huawei có EDL Mode không?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Kh�ng, Huawei d�ng chip HiSilicon Kirin kh�ng c� EDL Mode. Huawei s? d?ng ch? d? flash ri�ng."
+                    "text": "Không, Huawei dùng chip HiSilicon Kirin không có EDL Mode. Huawei sử dụng chế độ flash riêng."
                 }
             }
         ]
@@ -153,7 +153,7 @@ $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? kh�a di?n tho?i",
+        "name": "Dịch vụ mở khóa điện thoại",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -170,8 +170,8 @@ $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -181,10 +181,10 @@ $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
         <div class="row align-items-center">
             <div class="col-lg-8">
                 <h1><i class="fas fa-bolt me-3"></i><?php echo $page_title; ?></h1>
-                <p class="lead mb-4">Hu?ng d?n d?y d? 5 c�ch v�o EDL Mode (Emergency Download Mode) tr�n thi?t b? Qualcomm. Unbrick, flash firmware, bypass FRP cho Xiaomi, Samsung, Oppo, Vivo.</p>
+                <p class="lead mb-4">Hướng dẫn đầy đủ 5 cách vào EDL Mode (Emergency Download Mode) trên thiết bị Qualcomm. Unbrick, flash firmware, bypass FRP cho Xiaomi, Samsung, Oppo, Vivo.</p>
                 <div class="d-flex flex-wrap gap-3">
-                    <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg"><i class="fas fa-tools me-2"></i>Thu� UnlockTool 8K/6H</a>
-                    <a href="https://thuetaikhoan.net" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>D?ch V? H? Tr?</a>
+                    <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg"><i class="fas fa-tools me-2"></i>Thuê UnlockTool 8K/6H</a>
+                    <a href="https://thuetaikhoan.net" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>Dịch Vụ Hỗ Trợ</a>
                 </div>
             </div>
             <div class="col-lg-4 text-center mt-4 mt-lg-0">
@@ -198,89 +198,89 @@ $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
     <div class="row">
         <div class="col-lg-8">
             
-            <!-- M?c l?c -->
+            <!-- Mục lục -->
             <div class="toc-box">
-                <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
+                <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
                 <ul>
-                    <li><a href="#edl-la-gi">1. EDL Mode l� g�?</a></li>
-                    <li><a href="#thiet-bi-ho-tro">2. Thi?t b? h? tr? EDL Mode</a></li>
-                    <li><a href="#cach-vao-edl">3. 5 C�ch v�o EDL Mode</a></li>
-                    <li><a href="#xac-nhan-edl">4. C�ch x�c nh?n d� v�o EDL</a></li>
-                    <li><a href="#phan-mem">5. Ph?n m?m flash qua EDL</a></li>
-                    <li><a href="#loi-thuong-gap">6. L?i thu?ng g?p v� c�ch kh?c ph?c</a></li>
-                    <li><a href="#faq">7. C�u h?i thu?ng g?p (FAQ)</a></li>
+                    <li><a href="#edl-la-gi">1. EDL Mode là gì?</a></li>
+                    <li><a href="#thiet-bi-ho-tro">2. Thiết bị hỗ trợ EDL Mode</a></li>
+                    <li><a href="#cach-vao-edl">3. 5 Cách vào EDL Mode</a></li>
+                    <li><a href="#xac-nhan-edl">4. Cách xác nhận đã vào EDL</a></li>
+                    <li><a href="#phan-mem">5. Phần mềm flash qua EDL</a></li>
+                    <li><a href="#loi-thuong-gap">6. Lỗi thường gặp và cách khắc phục</a></li>
+                    <li><a href="#faq">7. Câu hỏi thường gặp (FAQ)</a></li>
                 </ul>
             </div>
 
-            <!-- EDL l� g� -->
+            <!-- EDL là gì -->
             <section id="edl-la-gi">
-                <h2><i class="fas fa-question-circle me-2"></i>1. EDL Mode L� G�?</h2>
+                <h2><i class="fas fa-question-circle me-2"></i>1. EDL Mode Là Gì?</h2>
                 
-                <p><strong>EDL Mode (Emergency Download Mode)</strong> hay c�n g?i l� <strong>Qualcomm HS-USB QDLoader 9008</strong> l� ch? d? kh?n c?p du?c t�ch h?p trong chip Qualcomm Snapdragon. ��y l� ch? d? c?p th?p nh?t n?m trong Primary Bootloader (PBL) c?a chip.</p>
+                <p><strong>EDL Mode (Emergency Download Mode)</strong> hay còn gọi là <strong>Qualcomm HS-USB QDLoader 9008</strong> là chế độ khẩn cấp được tích hợp trong chip Qualcomm Snapdragon. Đây là chế độ cấp thấp nhất nằm trong Primary Bootloader (PBL) của chip.</p>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-info-circle me-2"></i>�?c di?m EDL Mode</h5>
+                    <h5><i class="fas fa-info-circle me-2"></i>Đặc điểm EDL Mode</h5>
                     <ul class="mb-0">
-                        <li>Ho?t d?ng ? m?c th?p hon c? Recovery v� Fastboot</li>
-                        <li>V?n ho?t d?ng khi m�y b? <strong>hard-brick ho�n to�n</strong></li>
-                        <li>Cho ph�p flash firmware kh�ng c?n unlock bootloader</li>
-                        <li>M�n h�nh den ho�n to�n khi ? EDL Mode</li>
+                        <li>Hoạt động ở mức thấp hơn cả Recovery và Fastboot</li>
+                        <li>Vẫn hoạt động khi máy bị <strong>hard-brick hoàn toàn</strong></li>
+                        <li>Cho phép flash firmware không cần unlock bootloader</li>
+                        <li>Màn hình đen hoàn toàn khi ở EDL Mode</li>
                     </ul>
                 </div>
 
-                <h3>C�ng d?ng c?a EDL Mode</h3>
+                <h3>Công dụng của EDL Mode</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>C�ng d?ng</th>
-                            <th>M� t?</th>
+                            <th>Công dụng</th>
+                            <th>Mô tả</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <td><strong>Unbrick m�y</strong></td>
-                            <td>C?u m�y brick ho�n to�n, kh�ng v�o du?c b?t k? mode n�o</td>
+                            <td><strong>Unbrick máy</strong></td>
+                            <td>Cứu máy brick hoàn toàn, không vào được bất kỳ mode nào</td>
                         </tr>
                         <tr>
                             <td><strong>Flash firmware</strong></td>
-                            <td>Flash ROM g?c, custom ROM khi m�y treo logo</td>
+                            <td>Flash ROM gốc, custom ROM khi máy treo logo</td>
                         </tr>
                         <tr>
                             <td><strong>Bypass FRP</strong></td>
-                            <td>X�a t�i kho?n Google kh�ng c?n m?t kh?u</td>
+                            <td>Xóa tài khoản Google không cần mật khẩu</td>
                         </tr>
                         <tr>
-                            <td><strong>X�a m?t kh?u</strong></td>
-                            <td>Remove PIN, Pattern, Password m�n h�nh</td>
+                            <td><strong>Xóa mật khẩu</strong></td>
+                            <td>Remove PIN, Pattern, Password màn hình</td>
                         </tr>
                         <tr>
                             <td><strong>Repair IMEI</strong></td>
-                            <td>S?a IMEI b? null ho?c m?t</td>
+                            <td>Sửa IMEI bị null hoặc mất</td>
                         </tr>
                     </tbody>
                 </table>
             </section>
 
-            <!-- Thi?t b? h? tr? -->
+            <!-- Thiết bị hỗ trợ -->
             <section id="thiet-bi-ho-tro">
-                <h2><i class="fas fa-mobile-alt me-2"></i>2. Thi?t B? H? Tr? EDL Mode</h2>
+                <h2><i class="fas fa-mobile-alt me-2"></i>2. Thiết Bị Hỗ Trợ EDL Mode</h2>
                 
-                <p>EDL Mode c� tr�n <strong>t?t c? thi?t b? d�ng chip Qualcomm Snapdragon</strong>. Du?i d�y l� danh s�ch c�c h�ng v� m?c d? h? tr?:</p>
+                <p>EDL Mode có trên <strong>tất cả thiết bị dùng chip Qualcomm Snapdragon</strong>. Dưới đây là danh sách các hãng và mức độ hỗ trợ:</p>
 
                 <div class="row">
                     <div class="col-md-4 col-6">
                         <div class="brand-card">
                             <i class="fab fa-android text-warning"></i>
                             <h6>Xiaomi</h6>
-                            <span class="badge bg-success">H? tr?</span>
-                            <p class="small mb-0 mt-2">C?n Auth Account</p>
+                            <span class="badge bg-success">Hỗ trợ</span>
+                            <p class="small mb-0 mt-2">Cần Auth Account</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-6">
                         <div class="brand-card">
                             <i class="fas fa-mobile-alt text-primary"></i>
                             <h6>Samsung (Qualcomm)</h6>
-                            <span class="badge bg-success">H? tr?</span>
+                            <span class="badge bg-success">Hỗ trợ</span>
                             <p class="small mb-0 mt-2">Version Snapdragon</p>
                         </div>
                     </div>
@@ -288,58 +288,58 @@ $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
                         <div class="brand-card">
                             <i class="fas fa-mobile-alt text-success"></i>
                             <h6>Oppo/Realme</h6>
-                            <span class="badge bg-success">H? tr?</span>
-                            <p class="small mb-0 mt-2">C?n Firehose</p>
+                            <span class="badge bg-success">Hỗ trợ</span>
+                            <p class="small mb-0 mt-2">Cần Firehose</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-6">
                         <div class="brand-card">
                             <i class="fas fa-mobile-alt text-info"></i>
                             <h6>Vivo</h6>
-                            <span class="badge bg-success">H? tr?</span>
-                            <p class="small mb-0 mt-2">C?n Firehose</p>
+                            <span class="badge bg-success">Hỗ trợ</span>
+                            <p class="small mb-0 mt-2">Cần Firehose</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-6">
                         <div class="brand-card">
                             <i class="fas fa-mobile-alt text-danger"></i>
                             <h6>OnePlus</h6>
-                            <span class="badge bg-success">H? tr? t?t</span>
-                            <p class="small mb-0 mt-2">D? v�o EDL</p>
+                            <span class="badge bg-success">Hỗ trợ tốt</span>
+                            <p class="small mb-0 mt-2">Dễ vào EDL</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-6">
                         <div class="brand-card">
                             <i class="fas fa-mobile-alt text-secondary"></i>
                             <h6>Huawei</h6>
-                            <span class="badge bg-danger">Kh�ng h? tr?</span>
-                            <p class="small mb-0 mt-2">D�ng chip Kirin</p>
+                            <span class="badge bg-danger">Không hỗ trợ</span>
+                            <p class="small mb-0 mt-2">Dùng chip Kirin</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="warning-box mt-4">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu � Xiaomi</h5>
-                    <p class="mb-0">Xiaomi y�u c?u <strong>Authorized Mi Account</strong> d? flash qua EDL. UnlockTool c� t�nh nang bypass y�u c?u n�y, cho ph�p flash m� kh�ng c?n account.</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu Ý Xiaomi</h5>
+                    <p class="mb-0">Xiaomi yêu cầu <strong>Authorized Mi Account</strong> để flash qua EDL. UnlockTool có tính năng bypass yêu cầu này, cho phép flash mà không cần account.</p>
                 </div>
             </section>
 
-            <!-- 5 C�ch v�o EDL -->
+            <!-- 5 Cách vào EDL -->
             <section id="cach-vao-edl">
-                <h2><i class="fas fa-sign-in-alt me-2"></i>3. 5 C�ch V�o EDL Mode</h2>
+                <h2><i class="fas fa-sign-in-alt me-2"></i>3. 5 Cách Vào EDL Mode</h2>
 
                 <div class="method-card">
                     <div class="d-flex align-items-center mb-3">
                         <div class="method-number me-3">1</div>
                         <div>
                             <h5 class="mb-0">ADB Command</h5>
-                            <small class="text-muted">Khi m�y dang b?t, c� USB Debugging</small>
+                            <small class="text-muted">Khi máy đang bật, có USB Debugging</small>
                         </div>
                     </div>
-                    <p><strong>Y�u c?u:</strong> M�y b?t, d� b?t USB Debugging, k?t n?i m�y t�nh</p>
-                    <p><strong>L?nh:</strong></p>
+                    <p><strong>Yêu cầu:</strong> Máy bật, đã bật USB Debugging, kết nối máy tính</p>
+                    <p><strong>Lệnh:</strong></p>
                     <code>adb reboot edl</code>
-                    <p class="mt-2 mb-0"><strong>K?t qu?:</strong> M�y kh?i d?ng l?i v�o EDL Mode, m�n h�nh den</p>
+                    <p class="mt-2 mb-0"><strong>Kết quả:</strong> Máy khởi động lại vào EDL Mode, màn hình đen</p>
                 </div>
 
                 <div class="method-card">
@@ -347,30 +347,30 @@ $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
                         <div class="method-number me-3">2</div>
                         <div>
                             <h5 class="mb-0">Fastboot Command</h5>
-                            <small class="text-muted">Khi m�y dang ? Fastboot Mode</small>
+                            <small class="text-muted">Khi máy đang ở Fastboot Mode</small>
                         </div>
                     </div>
-                    <p><strong>Y�u c?u:</strong> M�y dang ? Fastboot Mode</p>
-                    <p><strong>L?nh:</strong></p>
-                    <code>fastboot reboot edl</code> ho?c <code>fastboot oem edl</code>
-                    <p class="mt-2 mb-0"><strong>Ghi ch�:</strong> L?nh kh�c nhau t�y h�ng v� model</p>
+                    <p><strong>Yêu cầu:</strong> Máy đang ở Fastboot Mode</p>
+                    <p><strong>Lệnh:</strong></p>
+                    <code>fastboot reboot edl</code> hoặc <code>fastboot oem edl</code>
+                    <p class="mt-2 mb-0"><strong>Ghi chú:</strong> Lệnh khác nhau tùy hãng và model</p>
                 </div>
 
                 <div class="method-card">
                     <div class="d-flex align-items-center mb-3">
                         <div class="method-number me-3">3</div>
                         <div>
-                            <h5 class="mb-0">T? H?p Ph�m (Xiaomi)</h5>
-                            <small class="text-muted">Kh�ng c?n ADB/Fastboot</small>
+                            <h5 class="mb-0">Tổ Hợp Phím (Xiaomi)</h5>
+                            <small class="text-muted">Không cần ADB/Fastboot</small>
                         </div>
                     </div>
-                    <p><strong>C�c bu?c:</strong></p>
+                    <p><strong>Các bước:</strong></p>
                     <ol class="mb-0">
-                        <li>T?t m�y ho�n to�n</li>
-                        <li>Gi? d?ng th?i <strong>Vol Up + Vol Down + Power</strong></li>
-                        <li>Trong khi gi?, c?m c�p USB v�o m�y t�nh</li>
-                        <li>Gi? kho?ng 10-15 gi�y</li>
-                        <li>M�n h�nh den nhung m�y t�nh nh?n "Qualcomm 9008"</li>
+                        <li>Tắt máy hoàn toàn</li>
+                        <li>Giữ đồng thời <strong>Vol Up + Vol Down + Power</strong></li>
+                        <li>Trong khi giữ, cắm cáp USB vào máy tính</li>
+                        <li>Giữ khoảng 10-15 giây</li>
+                        <li>Màn hình đen nhưng máy tính nhận "Qualcomm 9008"</li>
                     </ol>
                 </div>
 
@@ -378,19 +378,19 @@ $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
                     <div class="d-flex align-items-center mb-3">
                         <div class="method-number me-3">4</div>
                         <div>
-                            <h5 class="mb-0">Test Point (C?n th�o m�y)</h5>
-                            <small class="text-muted">Khi m�y brick ho�n to�n</small>
+                            <h5 class="mb-0">Test Point (Cần tháo máy)</h5>
+                            <small class="text-muted">Khi máy brick hoàn toàn</small>
                         </div>
                     </div>
-                    <p><strong>C�c bu?c:</strong></p>
+                    <p><strong>Các bước:</strong></p>
                     <ol class="mb-0">
-                        <li>Th�o m�y d? l? main board</li>
-                        <li>X�c d?nh v? tr� test point (tra schematic)</li>
-                        <li>N?i test point v?i GND b?ng nh�p/d�y d?ng</li>
-                        <li>C?m c�p USB trong khi gi? n?i</li>
-                        <li>M�y v�o EDL Mode</li>
+                        <li>Tháo máy để lộ main board</li>
+                        <li>Xác định vị trí test point (tra schematic)</li>
+                        <li>Nối test point với GND bằng nhíp/dây đồng</li>
+                        <li>Cắm cáp USB trong khi giữ nối</li>
+                        <li>Máy vào EDL Mode</li>
                     </ol>
-                    <a href="156-test-point-samsung.php" class="btn btn-outline-danger btn-sm mt-2">Xem hu?ng d?n Test Point</a>
+                    <a href="156-test-point-samsung.php" class="btn btn-outline-danger btn-sm mt-2">Xem hướng dẫn Test Point</a>
                 </div>
 
                 <div class="method-card">
@@ -398,103 +398,103 @@ $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
                         <div class="method-number me-3">5</div>
                         <div>
                             <h5 class="mb-0">EDL Deep Flash Cable</h5>
-                            <small class="text-muted">C�p chuy�n d?ng</small>
+                            <small class="text-muted">Cáp chuyên dụng</small>
                         </div>
                     </div>
-                    <p><strong>M� t?:</strong> C�p EDL d?c bi?t c� n�t b?m d? short D+ v� GND, dua m�y v�o EDL Mode m� kh�ng c?n th�o m�y.</p>
-                    <p class="mb-0"><strong>Uu di?m:</strong> Ti?n l?i, kh�ng c?n th�o m�y. <strong>Nhu?c:</strong> Kh�ng ph?i model n�o cung ho?t d?ng.</p>
+                    <p><strong>Mô tả:</strong> Cáp EDL đặc biệt có nút bấm để short D+ và GND, đưa máy vào EDL Mode mà không cần tháo máy.</p>
+                    <p class="mb-0"><strong>Ưu điểm:</strong> Tiện lợi, không cần tháo máy. <strong>Nhược:</strong> Không phải model nào cũng hoạt động.</p>
                 </div>
             </section>
 
-            <!-- X�c nh?n EDL -->
+            <!-- Xác nhận EDL -->
             <section id="xac-nhan-edl">
-                <h2><i class="fas fa-check-circle me-2"></i>4. C�ch X�c Nh?n �� V�o EDL</h2>
+                <h2><i class="fas fa-check-circle me-2"></i>4. Cách Xác Nhận Đã Vào EDL</h2>
                 
                 <div class="success-box">
-                    <h5><i class="fas fa-check me-2"></i>D?u hi?u v�o EDL th�nh c�ng</h5>
+                    <h5><i class="fas fa-check me-2"></i>Dấu hiệu vào EDL thành công</h5>
                     <ul class="mb-0">
-                        <li><strong>M�n h�nh di?n tho?i:</strong> �en ho�n to�n, kh�ng hi?n th? g�</li>
-                        <li><strong>Device Manager:</strong> Hi?n <strong>"Qualcomm HS-USB QDLoader 9008"</strong></li>
-                        <li><strong>UnlockTool:</strong> Hi?n "Device connected in EDL Mode"</li>
+                        <li><strong>Màn hình điện thoại:</strong> Đen hoàn toàn, không hiển thị gì</li>
+                        <li><strong>Device Manager:</strong> Hiện <strong>"Qualcomm HS-USB QDLoader 9008"</strong></li>
+                        <li><strong>UnlockTool:</strong> Hiện "Device connected in EDL Mode"</li>
                     </ul>
                 </div>
 
-                <h3>C�ch ki?m tra trong Device Manager</h3>
+                <h3>Cách kiểm tra trong Device Manager</h3>
                 <ol>
-                    <li>Nh?n <strong>Win + X</strong> > Ch?n <strong>Device Manager</strong></li>
-                    <li>T�m m?c <strong>Ports (COM & LPT)</strong> ho?c <strong>Other devices</strong></li>
-                    <li>N?u th?y <strong>"Qualcomm HS-USB QDLoader 9008 (COMx)"</strong> ? Th�nh c�ng</li>
-                    <li>N?u th?y <strong>"Unknown Device"</strong> ? C?n c�i driver</li>
+                    <li>Nhấn <strong>Win + X</strong> > Chọn <strong>Device Manager</strong></li>
+                    <li>Tìm mục <strong>Ports (COM & LPT)</strong> hoặc <strong>Other devices</strong></li>
+                    <li>Nếu thấy <strong>"Qualcomm HS-USB QDLoader 9008 (COMx)"</strong> → Thành công</li>
+                    <li>Nếu thấy <strong>"Unknown Device"</strong> → Cần cài driver</li>
                 </ol>
             </section>
 
-            <!-- Ph?n m?m -->
+            <!-- Phần mềm -->
             <section id="phan-mem">
-                <h2><i class="fas fa-download me-2"></i>5. Ph?n M?m Flash Qua EDL</h2>
+                <h2><i class="fas fa-download me-2"></i>5. Phần Mềm Flash Qua EDL</h2>
                 
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Ph?n m?m</th>
-                            <th>H�ng h? tr?</th>
-                            <th>Ghi ch�</th>
+                            <th>Phần mềm</th>
+                            <th>Hãng hỗ trợ</th>
+                            <th>Ghi chú</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td><strong>UnlockTool</strong></td>
                             <td>Xiaomi, Samsung, Oppo, Vivo, OnePlus...</td>
-                            <td><span class="badge bg-success">Khuy?n ngh?</span> - D? d�ng, all-in-one</td>
+                            <td><span class="badge bg-success">Khuyến nghị</span> - Dễ dùng, all-in-one</td>
                         </tr>
                         <tr>
                             <td><strong>QFIL/QPST</strong></td>
-                            <td>T?t c? Qualcomm</td>
-                            <td>Tool ch�nh th?c Qualcomm, c?n firehose</td>
+                            <td>Tất cả Qualcomm</td>
+                            <td>Tool chính thức Qualcomm, cần firehose</td>
                         </tr>
                         <tr>
                             <td><strong>MiFlash</strong></td>
                             <td>Xiaomi</td>
-                            <td>Tool ch�nh th?c Xiaomi, c?n Auth</td>
+                            <td>Tool chính thức Xiaomi, cần Auth</td>
                         </tr>
                         <tr>
                             <td><strong>MSM Download Tool</strong></td>
                             <td>Oppo/Realme</td>
-                            <td>Tool ch�nh th?c Oppo</td>
+                            <td>Tool chính thức Oppo</td>
                         </tr>
                         <tr>
                             <td><strong>Hydra Tool</strong></td>
-                            <td>�a h�ng</td>
-                            <td>Tool chuy�n nghi?p</td>
+                            <td>Đa hãng</td>
+                            <td>Tool chuyên nghiệp</td>
                         </tr>
                     </tbody>
                 </table>
 
                 <div class="price-box mt-4">
-                    <h4>Flash EDL D? D�ng V?i UnlockTool</h4>
-                    <p class="display-4 fw-bold">8.000d/6h</p>
-                    <p>H? tr? Xiaomi, Samsung, Oppo, Vivo v� nhi?u h�ng kh�c</p>
-                    <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg">Thu� UnlockTool Ngay</a>
+                    <h4>Flash EDL Dễ Dàng Với UnlockTool</h4>
+                    <p class="display-4 fw-bold">8.000đ/6h</p>
+                    <p>Hỗ trợ Xiaomi, Samsung, Oppo, Vivo và nhiều hãng khác</p>
+                    <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg">Thuê UnlockTool Ngay</a>
                 </div>
             </section>
 
-            <!-- L?i thu?ng g?p -->
+            <!-- Lỗi thường gặp -->
             <section id="loi-thuong-gap">
-                <h2><i class="fas fa-bug me-2"></i>6. L?i Thu?ng G?p V� C�ch Kh?c Ph?c</h2>
+                <h2><i class="fas fa-bug me-2"></i>6. Lỗi Thường Gặp Và Cách Khắc Phục</h2>
                 
                 <div class="accordion" id="errorAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#err1">
-                                Kh�ng v�o du?c EDL b?ng t? h?p ph�m
+                                Không vào được EDL bằng tổ hợp phím
                             </button>
                         </h2>
                         <div id="err1" class="accordion-collapse collapse show" data-bs-parent="#errorAccordion">
                             <div class="accordion-body">
                                 <ul>
-                                    <li>Th? c�c t? h?p kh�c: Vol Down only, Vol Up + Power...</li>
-                                    <li>�?m b?o m�y d� t?t ho�n to�n (th�o pin n?u c� th?)</li>
-                                    <li>Th? c�p USB kh�c, c?ng USB 2.0</li>
-                                    <li>Cu?i c�ng: D�ng Test Point</li>
+                                    <li>Thử các tổ hợp khác: Vol Down only, Vol Up + Power...</li>
+                                    <li>Đảm bảo máy đã tắt hoàn toàn (tháo pin nếu có thể)</li>
+                                    <li>Thử cáp USB khác, cổng USB 2.0</li>
+                                    <li>Cuối cùng: Dùng Test Point</li>
                                 </ul>
                             </div>
                         </div>
@@ -502,17 +502,17 @@ $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err2">
-                                Device Manager hi?n Unknown Device
+                                Device Manager hiện Unknown Device
                             </button>
                         </h2>
                         <div id="err2" class="accordion-collapse collapse" data-bs-parent="#errorAccordion">
                             <div class="accordion-body">
-                                <p>C?n c�i Qualcomm USB Driver:</p>
+                                <p>Cần cài Qualcomm USB Driver:</p>
                                 <ol>
-                                    <li>T?i driver t? <a href="https://file.unlocktool.net/page/all-driver" target="_blank">file.unlocktool.net</a></li>
-                                    <li>Click chu?t ph?i Unknown Device > Update Driver</li>
-                                    <li>Ch?n Browse > Tr? d?n thu m?c driver</li>
-                                    <li>Ho?c d�ng t�nh nang Install Driver trong UnlockTool</li>
+                                    <li>Tải driver từ <a href="https://file.unlocktool.net/page/all-driver" target="_blank">file.unlocktool.net</a></li>
+                                    <li>Click chuột phải Unknown Device > Update Driver</li>
+                                    <li>Chọn Browse > Trỏ đến thư mục driver</li>
+                                    <li>Hoặc dùng tính năng Install Driver trong UnlockTool</li>
                                 </ol>
                             </div>
                         </div>
@@ -520,15 +520,15 @@ $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err3">
-                                Xiaomi y�u c?u Authorized Account
+                                Xiaomi yêu cầu Authorized Account
                             </button>
                         </h2>
                         <div id="err3" class="accordion-collapse collapse" data-bs-parent="#errorAccordion">
                             <div class="accordion-body">
-                                <p>Xiaomi b?o v? EDL b?ng Auth Account. Gi?i ph�p:</p>
+                                <p>Xiaomi bảo vệ EDL bằng Auth Account. Giải pháp:</p>
                                 <ul>
-                                    <li>D�ng <strong>UnlockTool</strong> - c� t�nh nang bypass Auth</li>
-                                    <li>Ho?c dang k� t�i kho?n Authorized (ph?c t?p)</li>
+                                    <li>Dùng <strong>UnlockTool</strong> - có tính năng bypass Auth</li>
+                                    <li>Hoặc đăng ký tài khoản Authorized (phức tạp)</li>
                                 </ul>
                             </div>
                         </div>
@@ -538,54 +538,54 @@ $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
 
             <!-- FAQ -->
             <section id="faq">
-                <h2><i class="fas fa-question-circle me-2"></i>7. C�u H?i Thu?ng G?p (FAQ)</h2>
+                <h2><i class="fas fa-question-circle me-2"></i>7. Câu Hỏi Thường Gặp (FAQ)</h2>
                 
                 <div class="accordion" id="faqAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
-                                EDL Mode c� x�a d? li?u kh�ng?
+                                EDL Mode có xóa dữ liệu không?
                             </button>
                         </h2>
                         <div id="faq1" class="accordion-collapse collapse show" data-bs-parent="#faqAccordion">
                             <div class="accordion-body">
-                                V�o EDL Mode kh�ng x�a d? li?u. Tuy nhi�n, c�c thao t�c flash firmware sau d� thu?ng s? x�a d? li?u (t�y lo?i flash: full wipe hay ch? flash partition c? th?).
+                                Vào EDL Mode không xóa dữ liệu. Tuy nhiên, các thao tác flash firmware sau đó thường sẽ xóa dữ liệu (tùy loại flash: full wipe hay chỉ flash partition cụ thể).
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
-                                EDL Mode c� an to�n kh�ng?
+                                EDL Mode có an toàn không?
                             </button>
                         </h2>
                         <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                             <div class="accordion-body">
-                                EDL Mode l� ch? d? c?p th?p, n?u flash sai firmware c� th? g�y brick. Tuy nhi�n, v� l� ch? d? th?p nh?t n�n lu�n c� th? flash l?i d? c?u m�y. �?m b?o d�ng d�ng firmware cho model.
+                                EDL Mode là chế độ cấp thấp, nếu flash sai firmware có thể gây brick. Tuy nhiên, vì là chế độ thấp nhất nên luôn có thể flash lại để cứu máy. Đảm bảo dùng đúng firmware cho model.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3">
-                                Tho�t EDL Mode nhu th? n�o?
+                                Thoát EDL Mode như thế nào?
                             </button>
                         </h2>
                         <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                             <div class="accordion-body">
-                                Gi? n�t Power 15-20 gi�y d? force restart. Ho?c r�t c�p USB v� c?m l?i sau v�i gi�y. M�y s? kh?i d?ng b�nh thu?ng (n?u kh�ng b? brick).
+                                Giữ nút Power 15-20 giây để force restart. Hoặc rút cáp USB và cắm lại sau vài giây. Máy sẽ khởi động bình thường (nếu không bị brick).
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4">
-                                C?n h? tr? flash EDL th� li�n h? d�u?
+                                Cần hỗ trợ flash EDL thì liên hệ đâu?
                             </button>
                         </h2>
                         <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                             <div class="accordion-body">
-                                Li�n h? <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a> d? du?c h? tr? t? xa qua TeamViewer. K? thu?t vi�n s? gi�p flash firmware, unbrick v?i gi� h?p l�.
+                                Liên hệ <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a> để được hỗ trợ từ xa qua TeamViewer. Kỹ thuật viên sẽ giúp flash firmware, unbrick với giá hợp lý.
                             </div>
                         </div>
                     </div>
@@ -594,11 +594,11 @@ $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
 
             <!-- CTA -->
             <div class="cta-box">
-                <h3><i class="fas fa-tools me-2"></i>C?n H? Tr? Flash EDL?</h3>
-                <p>Thu� UnlockTool d? t? flash ho?c li�n h? d?ch v? h? tr? t? xa!</p>
+                <h3><i class="fas fa-tools me-2"></i>Cần Hỗ Trợ Flash EDL?</h3>
+                <p>Thuê UnlockTool để tự flash hoặc liên hệ dịch vụ hỗ trợ từ xa!</p>
                 <div class="mt-4">
-                    <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg me-2"><i class="fas fa-tools me-2"></i>Thu� UnlockTool 8K/6H</a>
-                    <a href="https://thuetaikhoan.net" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>D?ch V? H? Tr?</a>
+                    <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg me-2"><i class="fas fa-tools me-2"></i>Thuê UnlockTool 8K/6H</a>
+                    <a href="https://thuetaikhoan.net" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>Dịch Vụ Hỗ Trợ</a>
                 </div>
             </div>
 
@@ -607,18 +607,18 @@ $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
         <!-- Sidebar -->
         <div class="col-lg-4">
             <div class="price-box sticky-top" style="top:20px">
-                <h5><i class="fas fa-tools me-2"></i>Thu� UnlockTool</h5>
-                <p class="display-4 fw-bold">8.000d</p>
-                <p>/ 6 ti?ng</p>
+                <h5><i class="fas fa-tools me-2"></i>Thuê UnlockTool</h5>
+                <p class="display-4 fw-bold">8.000đ</p>
+                <p>/ 6 tiếng</p>
                 <hr class="bg-light">
                 <ul class="text-start small">
                     <li>Flash EDL Qualcomm</li>
                     <li>Bypass Xiaomi Auth</li>
                     <li>Unbrick, FRP bypass</li>
-                    <li>H? tr? k? thu?t 24/7</li>
+                    <li>Hỗ trợ kỹ thuật 24/7</li>
                 </ul>
-                <a href="https://www.unlocktool.us/" class="btn btn-light w-100 mb-2">Thu� Ngay</a>
-                <a href="https://thuetaikhoan.net" class="btn btn-outline-light w-100">D?ch V? L�m H?</a>
+                <a href="https://www.unlocktool.us/" class="btn btn-light w-100 mb-2">Thuê Ngay</a>
+                <a href="https://thuetaikhoan.net" class="btn btn-outline-light w-100">Dịch Vụ Làm Hộ</a>
             </div>
         </div>
     </div>
@@ -631,7 +631,7 @@ $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -645,13 +645,13 @@ $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -659,15 +659,15 @@ $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -680,7 +680,7 @@ $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -688,7 +688,7 @@ $canonical_url = "https://www.unlocktool.us/articles/157-edl-mode-qualcomm.php";
 </div>
 <footer class="bg-dark text-white py-4">
     <div class="container text-center">
-        <p class="mb-0">&copy; 2026 <a href="https://www.unlocktool.us/" class="text-white">UnlockTool.us</a> - D?ch v?: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+        <p class="mb-0">&copy; 2026 <a href="https://www.unlocktool.us/" class="text-white">UnlockTool.us</a> - Dịch vụ: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
     </div>
 </footer>
 

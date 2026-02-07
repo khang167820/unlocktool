@@ -1,6 +1,6 @@
-<?php
-$page_title = "Bypass Mi Account Xiaomi 2026 - Hu?ng D?n T?t C? Model | UnlockTool";
-$page_description = "Hu?ng d?n bypass Mi Account Xiaomi m?i nh?t 2026. X�a kh�a t�i kho?n Mi tr�n Redmi, POCO, Xiaomi. C�c phuong ph�p hi?u qu? nh?t - Thu� tool 8.000d/6h t?i UnlockTool.us";
+﻿<?php
+$page_title = "Bypass Mi Account Xiaomi 2026 - Hướng Dẫn Tất Cả Model | UnlockTool";
+$page_description = "Hướng dẫn bypass Mi Account Xiaomi mới nhất 2026. Xóa khóa tài khoản Mi trên Redmi, POCO, Xiaomi. Các phương pháp hiệu quả nhất - Thuê tool 8.000đ/6h tại UnlockTool.us";
 $page_keywords = "bypass mi account, xoa mi account, mi account bypass 2026, xiaomi account lock, redmi mi account, poco mi account";
 $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypass.php";
 ?>
@@ -18,7 +18,8 @@ $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypas
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">\n    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
@@ -31,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypas
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hu?ng d?n k? thu?t">
+    <meta property="article:section" content="Hướng dẫn kỹ thuật">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="M? kh�a di?n tho?i">
+    <meta property="article:tag" content="Mở khóa điện thoại">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -49,24 +50,24 @@ $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypas
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"HowTo","name":"Bypass Mi Account Xiaomi","description":"Hu?ng d?n chi ti?t bypass Mi Account tr�n di?n tho?i Xiaomi, Redmi, POCO","step":[
-        {"@type":"HowToStep","name":"Chu?n b?","text":"T?i UnlockTool, driver Xiaomi, c�p USB ch?t lu?ng"},
-        {"@type":"HowToStep","name":"V�o EDL/Fastboot","text":"T?t m�y, k?t n?i c�p khi nh?n gi? n�t tuong ?ng"},
-        {"@type":"HowToStep","name":"Ch?n model","text":"Trong UnlockTool, ch?n tab Xiaomi, ch?n d�ng model"},
-        {"@type":"HowToStep","name":"Bypass","text":"Click Mi Account Bypass v� ch? ho�n t?t"}
+    {"@context":"https://schema.org","@type":"HowTo","name":"Bypass Mi Account Xiaomi","description":"Hướng dẫn chi tiết bypass Mi Account trên điện thoại Xiaomi, Redmi, POCO","step":[
+        {"@type":"HowToStep","name":"Chuẩn bị","text":"Tải UnlockTool, driver Xiaomi, cáp USB chất lượng"},
+        {"@type":"HowToStep","name":"Vào EDL/Fastboot","text":"Tắt máy, kết nối cáp khi nhấn giữ nút tương ứng"},
+        {"@type":"HowToStep","name":"Chọn model","text":"Trong UnlockTool, chọn tab Xiaomi, chọn đúng model"},
+        {"@type":"HowToStep","name":"Bypass","text":"Click Mi Account Bypass và chờ hoàn tất"}
     ]}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"Mi Account l� g�?","acceptedAnswer":{"@type":"Answer","text":"Mi Account (Xiaomi Account) l� t�i kho?n b?o m?t c?a Xiaomi, tuong t? nhu Google Account tr�n Android hay iCloud tr�n iPhone. Khi b?t Find My Device, m�y s? b? kh�a n?u kh�ng dang nh?p d�ng t�i kho?n."}},
-        {"@type":"Question","name":"Bypass Mi Account c� m?t d? li?u kh�ng?","acceptedAnswer":{"@type":"Answer","text":"C�, qu� tr�nh bypass thu?ng di k�m factory reset n�n d? li?u s? m?t. H�y backup tru?c n?u c� th?."}}
+        {"@type":"Question","name":"Mi Account là gì?","acceptedAnswer":{"@type":"Answer","text":"Mi Account (Xiaomi Account) là tài khoản bảo mật của Xiaomi, tương tự như Google Account trên Android hay iCloud trên iPhone. Khi bật Find My Device, máy sẽ bị khóa nếu không đăng nhập đúng tài khoản."}},
+        {"@type":"Question","name":"Bypass Mi Account có mất dữ liệu không?","acceptedAnswer":{"@type":"Answer","text":"Có, quá trình bypass thường đi kèm factory reset nên dữ liệu sẽ mất. Hãy backup trước nếu có thể."}}
     ]}
     </script>
     
@@ -140,7 +141,7 @@ $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypas
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? kh�a di?n tho?i",
+        "name": "Dịch vụ mở khóa điện thoại",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -157,8 +158,8 @@ $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypas
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -168,10 +169,10 @@ $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypas
         <div class="row align-items-center">
             <div class="col-lg-8">
                 <h1><i class="fas fa-unlock-alt me-3"></i><?php echo $page_title; ?></h1>
-                <p class="lead mb-4">Hu?ng d?n chi ti?t bypass Mi Account (Xiaomi Account Lock) tr�n t?t c? c�c d�ng Xiaomi, Redmi, POCO. C?p nh?t m?i nh?t 2026!</p>
+                <p class="lead mb-4">Hướng dẫn chi tiết bypass Mi Account (Xiaomi Account Lock) trên tất cả các dòng Xiaomi, Redmi, POCO. Cập nhật mới nhất 2026!</p>
                 <div class="d-flex flex-wrap gap-3">
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thu� UnlockTool 8K/6H</a>
-                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>H? Tr? K? Thu?t</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê UnlockTool 8K/6H</a>
+                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>Hỗ Trợ Kỹ Thuật</a>
                 </div>
             </div>
             <div class="col-lg-4 text-center mt-4 mt-lg-0">
@@ -187,94 +188,94 @@ $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypas
         <div class="col-lg-8">
             
             <div class="toc-box">
-                <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
+                <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
                 <ul class="list-unstyled">
-                    <li><a href="#mi-account-la-gi">1. Mi Account l� g�?</a></li>
-                    <li><a href="#nguyen-nhan">2. Nguy�n nh�n b? kh�a Mi Account</a></li>
-                    <li><a href="#model-ho-tro">3. Model Xiaomi h? tr?</a></li>
-                    <li><a href="#chuan-bi">4. Chu?n b?</a></li>
-                    <li><a href="#phuong-phap-edl">5. Phuong ph�p EDL (Khuy�n d�ng)</a></li>
-                    <li><a href="#phuong-phap-fastboot">6. Phuong ph�p Fastboot</a></li>
-                    <li><a href="#loi-thuong-gap">7. L?i thu?ng g?p</a></li>
+                    <li><a href="#mi-account-la-gi">1. Mi Account là gì?</a></li>
+                    <li><a href="#nguyen-nhan">2. Nguyên nhân bị khóa Mi Account</a></li>
+                    <li><a href="#model-ho-tro">3. Model Xiaomi hỗ trợ</a></li>
+                    <li><a href="#chuan-bi">4. Chuẩn bị</a></li>
+                    <li><a href="#phuong-phap-edl">5. Phương pháp EDL (Khuyên dùng)</a></li>
+                    <li><a href="#phuong-phap-fastboot">6. Phương pháp Fastboot</a></li>
+                    <li><a href="#loi-thuong-gap">7. Lỗi thường gặp</a></li>
                     <li><a href="#faq">8. FAQ</a></li>
                 </ul>
             </div>
 
             <section id="mi-account-la-gi">
-                <h2><i class="fas fa-info-circle me-2"></i>1. Mi Account L� G�?</h2>
+                <h2><i class="fas fa-info-circle me-2"></i>1. Mi Account Là Gì?</h2>
                 
-                <p><strong>Mi Account</strong> (Xiaomi Account, t�i kho?n Xiaomi) l� h? th?ng t�i kho?n b?o m?t c?a Xiaomi, tuong t? nhu Google Account tr�n Android hay Apple ID/iCloud tr�n iPhone.</p>
+                <p><strong>Mi Account</strong> (Xiaomi Account, tài khoản Xiaomi) là hệ thống tài khoản bảo mật của Xiaomi, tương tự như Google Account trên Android hay Apple ID/iCloud trên iPhone.</p>
 
-                <h3>Ch?c nang c?a Mi Account:</h3>
+                <h3>Chức năng của Mi Account:</h3>
                 <ul>
-                    <li><strong>Find My Device:</strong> T�m di?n tho?i khi b? m?t</li>
-                    <li><strong>Remote Lock:</strong> Kh�a m�y t? xa</li>
-                    <li><strong>Remote Wipe:</strong> X�a d? li?u t? xa</li>
-                    <li><strong>Mi Cloud:</strong> Sao luu d? li?u l�n cloud</li>
-                    <li><strong>�?ng b?:</strong> �?ng b? danh b?, tin nh?n, ?nh...</li>
+                    <li><strong>Find My Device:</strong> Tìm điện thoại khi bị mất</li>
+                    <li><strong>Remote Lock:</strong> Khóa máy từ xa</li>
+                    <li><strong>Remote Wipe:</strong> Xóa dữ liệu từ xa</li>
+                    <li><strong>Mi Cloud:</strong> Sao lưu dữ liệu lên cloud</li>
+                    <li><strong>Đồng bộ:</strong> Đồng bộ danh bạ, tin nhắn, ảnh...</li>
                 </ul>
 
-                <h3>Mi Account Lock ho?t d?ng nhu th? n�o?</h3>
-                <p>Khi b?n dang nh?p Mi Account v� b?t t�nh nang Find My Device, m�y s? du?c li�n k?t v?i t�i kho?n d�. N?u ai d� reset m�y v? c�i d?t g?c, m�y s? y�u c?u dang nh?p l?i t�i kho?n Mi d� li�n k?t tru?c d�. ��y l� <strong>Mi Account Lock</strong> (hay c�n g?i l� Activation Lock c?a Xiaomi).</p>
+                <h3>Mi Account Lock hoạt động như thế nào?</h3>
+                <p>Khi bạn đăng nhập Mi Account và bật tính năng Find My Device, máy sẽ được liên kết với tài khoản đó. Nếu ai đó reset máy về cài đặt gốc, máy sẽ yêu cầu đăng nhập lại tài khoản Mi đã liên kết trước đó. Đây là <strong>Mi Account Lock</strong> (hay còn gọi là Activation Lock của Xiaomi).</p>
 
                 <div class="info-box">
                     <h5><i class="fas fa-info-circle me-2"></i>Mi Account vs Google Account</h5>
-                    <p class="mb-0">Xiaomi c� <strong>2 l?p b?o m?t</strong>: Mi Account v� Google Account (FRP). Bypass Mi Account kh�ng t? d?ng bypass FRP v� ngu?c l?i. C?n x? l� c? hai n?u m�y b? kh�a c? hai.</p>
+                    <p class="mb-0">Xiaomi có <strong>2 lớp bảo mật</strong>: Mi Account và Google Account (FRP). Bypass Mi Account không tự động bypass FRP và ngược lại. Cần xử lý cả hai nếu máy bị khóa cả hai.</p>
                 </div>
             </section>
 
             <section id="nguyen-nhan">
-                <h2><i class="fas fa-question-circle me-2"></i>2. Nguy�n Nh�n B? Kh�a Mi Account</h2>
+                <h2><i class="fas fa-question-circle me-2"></i>2. Nguyên Nhân Bị Khóa Mi Account</h2>
                 
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-user-slash text-danger me-2"></i>Qu�n t�i kho?n</h5>
-                            <p class="small mb-0">Kh�ng nh? email ho?c m?t kh?u Mi Account d� dang k�</p>
+                            <h5><i class="fas fa-user-slash text-danger me-2"></i>Quên tài khoản</h5>
+                            <p class="small mb-0">Không nhớ email hoặc mật khẩu Mi Account đã đăng ký</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-shopping-cart text-warning me-2"></i>Mua m�y cu</h5>
-                            <p class="small mb-0">Ngu?i b�n qu�n tho�t t�i kho?n tru?c khi b�n</p>
+                            <h5><i class="fas fa-shopping-cart text-warning me-2"></i>Mua máy cũ</h5>
+                            <p class="small mb-0">Người bán quên thoát tài khoản trước khi bán</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-redo text-info me-2"></i>Sau reset</h5>
-                            <p class="small mb-0">Reset m�y v? c�i d?t g?c nhung kh�ng nh? t�i kho?n</p>
+                            <p class="small mb-0">Reset máy về cài đặt gốc nhưng không nhớ tài khoản</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-wrench text-success me-2"></i>S?a ch?a</h5>
-                            <p class="small mb-0">Kh�ch mang m�y d?n ti?m m� kh�ng c� t�i kho?n</p>
+                            <h5><i class="fas fa-wrench text-success me-2"></i>Sửa chữa</h5>
+                            <p class="small mb-0">Khách mang máy đến tiệm mà không có tài khoản</p>
                         </div>
                     </div>
                 </div>
             </section>
 
             <section id="model-ho-tro">
-                <h2><i class="fas fa-mobile-alt me-2"></i>3. Model Xiaomi H? Tr?</h2>
+                <h2><i class="fas fa-mobile-alt me-2"></i>3. Model Xiaomi Hỗ Trợ</h2>
                 
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>D�ng m�y</th>
-                            <th>Model ti�u bi?u</th>
-                            <th>Phuong ph�p</th>
+                            <th>Dòng máy</th>
+                            <th>Model tiêu biểu</th>
+                            <th>Phương pháp</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <td><strong>Xiaomi (cu)</strong></td>
+                            <td><strong>Xiaomi (cũ)</strong></td>
                             <td>Mi 5, 6, 8, 9, 10, 11</td>
                             <td class="text-success">EDL/Fastboot</td>
                         </tr>
                         <tr>
-                            <td><strong>Xiaomi (m?i)</strong></td>
+                            <td><strong>Xiaomi (mới)</strong></td>
                             <td>Xiaomi 12, 13, 14</td>
-                            <td class="text-warning">EDL (kh� hon)</td>
+                            <td class="text-warning">EDL (khó hơn)</td>
                         </tr>
                         <tr>
                             <td><strong>Redmi</strong></td>
@@ -295,40 +296,40 @@ $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypas
                 </table>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu � v? model m?i</h5>
-                    <p class="mb-0">C�c model Xiaomi m?i (t? 2023) c� b?o m?t ch?t hon v� c� th? c?n phuong ph�p d?c bi?t. Li�n h? <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a> d? du?c tu v?n c? th?.</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý về model mới</h5>
+                    <p class="mb-0">Các model Xiaomi mới (từ 2023) có bảo mật chặt hơn và có thể cần phương pháp đặc biệt. Liên hệ <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a> để được tư vấn cụ thể.</p>
                 </div>
             </section>
 
             <section id="chuan-bi">
-                <h2><i class="fas fa-tools me-2"></i>4. Chu?n B?</h2>
+                <h2><i class="fas fa-tools me-2"></i>4. Chuẩn Bị</h2>
                 
-                <h3>Ph?n c?ng:</h3>
+                <h3>Phần cứng:</h3>
                 <ul>
-                    <li><strong>M�y t�nh:</strong> Windows 10/11 (64-bit)</li>
-                    <li><strong>C�p USB:</strong> C�p ch�nh h�ng ho?c ch?t lu?ng t?t</li>
-                    <li><strong>�i?n tho?i:</strong> Pin t?i thi?u 50%</li>
-                    <li><strong>EDL Cable (optional):</strong> C�p EDL n?u c?n v�o EDL qua c�p</li>
+                    <li><strong>Máy tính:</strong> Windows 10/11 (64-bit)</li>
+                    <li><strong>Cáp USB:</strong> Cáp chính hãng hoặc chất lượng tốt</li>
+                    <li><strong>Điện thoại:</strong> Pin tối thiểu 50%</li>
+                    <li><strong>EDL Cable (optional):</strong> Cáp EDL nếu cần vào EDL qua cáp</li>
                 </ul>
 
-                <h3>Ph?n m?m:</h3>
+                <h3>Phần mềm:</h3>
                 <ul>
-                    <li><strong>Driver Qualcomm:</strong> <a href="https://file.unlocktool.net/page/all-driver" target="_blank">T?i t?i d�y</a></li>
-                    <li><strong>UnlockTool:</strong> <a href="https://file.unlocktool.net/page/index.php" target="_blank">T?i t?i d�y</a></li>
-                    <li><strong>T�i kho?n:</strong> Thu� t?i <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a></li>
+                    <li><strong>Driver Qualcomm:</strong> <a href="https://file.unlocktool.net/page/all-driver" target="_blank">Tải tại đây</a></li>
+                    <li><strong>UnlockTool:</strong> <a href="https://file.unlocktool.net/page/index.php" target="_blank">Tải tại đây</a></li>
+                    <li><strong>Tài khoản:</strong> Thuê tại <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a></li>
                 </ul>
 
-                <h3>C�ch v�o EDL Mode Xiaomi:</h3>
-                <p>EDL (Emergency Download Mode) l� ch? d? d?c bi?t cho ph�p truy c?p s�u v�o h? th?ng. C� nhi?u c�ch v�o EDL:</p>
+                <h3>Cách vào EDL Mode Xiaomi:</h3>
+                <p>EDL (Emergency Download Mode) là chế độ đặc biệt cho phép truy cập sâu vào hệ thống. Có nhiều cách vào EDL:</p>
                 
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-terminal me-2"></i>Qua Fastboot</h5>
                             <ol class="small mb-0">
-                                <li>V�o Fastboot mode (Vol Down + Power)</li>
-                                <li>K?t n?i m�y t�nh</li>
-                                <li>M? CMD, g�: <code>fastboot oem edl</code></li>
+                                <li>Vào Fastboot mode (Vol Down + Power)</li>
+                                <li>Kết nối máy tính</li>
+                                <li>Mở CMD, gõ: <code>fastboot oem edl</code></li>
                             </ol>
                         </div>
                     </div>
@@ -336,9 +337,9 @@ $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypas
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-microchip me-2"></i>Qua Test Point</h5>
                             <ol class="small mb-0">
-                                <li>Th�o m�y, t�m test point</li>
-                                <li>Ch?p test point v?i mass</li>
-                                <li>K?t n?i c�p USB</li>
+                                <li>Tháo máy, tìm test point</li>
+                                <li>Chập test point với mass</li>
+                                <li>Kết nối cáp USB</li>
                             </ol>
                         </div>
                     </div>
@@ -346,89 +347,89 @@ $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypas
             </section>
 
             <section id="phuong-phap-edl">
-                <h2><i class="fas fa-star me-2"></i>5. Phuong Ph�p EDL (Khuy�n D�ng)</h2>
+                <h2><i class="fas fa-star me-2"></i>5. Phương Pháp EDL (Khuyên Dùng)</h2>
                 
                 <div class="success-box">
-                    <h5><i class="fas fa-check-circle me-2"></i>Phuong ph�p hi?u qu? nh?t</h5>
-                    <p class="mb-0">EDL mode cho ph�p bypass Mi Account tr�n h?u h?t c�c model Xiaomi, k? c? khi bootloader chua unlock.</p>
+                    <h5><i class="fas fa-check-circle me-2"></i>Phương pháp hiệu quả nhất</h5>
+                    <p class="mb-0">EDL mode cho phép bypass Mi Account trên hầu hết các model Xiaomi, kể cả khi bootloader chưa unlock.</p>
                 </div>
 
-                <h3>C�c bu?c th?c hi?n:</h3>
+                <h3>Các bước thực hiện:</h3>
 
                 <div class="step-box">
                     <span class="step-number">1</span>
-                    <h5>Thu� t�i kho?n UnlockTool</h5>
-                    <p class="mb-0">Truy c?p <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a> ? Thu� g�i 8.000d/6 ti?ng</p>
+                    <h5>Thuê tài khoản UnlockTool</h5>
+                    <p class="mb-0">Truy cập <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a> → Thuê gói 8.000đ/6 tiếng</p>
                 </div>
 
                 <div class="step-box">
                     <span class="step-number">2</span>
-                    <h5>C�i driver Qualcomm</h5>
-                    <p class="mb-0">T?i v� c�i <a href="https://file.unlocktool.net/page/all-driver" target="_blank">Qualcomm Driver</a>. Kh?i d?ng l?i m�y t�nh.</p>
+                    <h5>Cài driver Qualcomm</h5>
+                    <p class="mb-0">Tải và cài <a href="https://file.unlocktool.net/page/all-driver" target="_blank">Qualcomm Driver</a>. Khởi động lại máy tính.</p>
                 </div>
 
                 <div class="step-box">
                     <span class="step-number">3</span>
-                    <h5>�ua Xiaomi v�o EDL Mode</h5>
-                    <p class="mb-0">S? d?ng m?t trong c�c c�ch d� hu?ng d?n ? m?c 4</p>
+                    <h5>Đưa Xiaomi vào EDL Mode</h5>
+                    <p class="mb-0">Sử dụng một trong các cách đã hướng dẫn ở mục 4</p>
                 </div>
 
                 <div class="step-box">
                     <span class="step-number">4</span>
-                    <h5>M? UnlockTool</h5>
-                    <p class="mb-0">Ch?y UnlockTool.exe ? �ang nh?p ? Tab Xiaomi</p>
+                    <h5>Mở UnlockTool</h5>
+                    <p class="mb-0">Chạy UnlockTool.exe → Đăng nhập → Tab Xiaomi</p>
                 </div>
 
                 <div class="step-box">
                     <span class="step-number">5</span>
-                    <h5>Ch?n model v� Bypass</h5>
-                    <p class="mb-0">Ch?n d�ng model m�y ? Click "Mi Account Bypass" ? Ch? ho�n t?t</p>
+                    <h5>Chọn model và Bypass</h5>
+                    <p class="mb-0">Chọn đúng model máy → Click "Mi Account Bypass" → Chờ hoàn tất</p>
                 </div>
 
                 <div class="step-box">
                     <span class="step-number">6</span>
-                    <h5>Kh?i d?ng l?i</h5>
-                    <p class="mb-0">M�y s? t? kh?i d?ng. Thi?t l?p nhu m�y m?i, kh�ng y�u c?u Mi Account</p>
+                    <h5>Khởi động lại</h5>
+                    <p class="mb-0">Máy sẽ tự khởi động. Thiết lập như máy mới, không yêu cầu Mi Account</p>
                 </div>
             </section>
 
             <section id="phuong-phap-fastboot">
-                <h2><i class="fas fa-terminal me-2"></i>6. Phuong Ph�p Fastboot</h2>
+                <h2><i class="fas fa-terminal me-2"></i>6. Phương Pháp Fastboot</h2>
                 
-                <p>N?u bootloader d� unlock, c� th? bypass Mi Account qua Fastboot mode.</p>
+                <p>Nếu bootloader đã unlock, có thể bypass Mi Account qua Fastboot mode.</p>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Y�u c?u</h5>
-                    <p class="mb-0">Phuong ph�p n�y y�u c?u bootloader d� du?c unlock. N?u chua unlock, c?n s? d?ng EDL mode.</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Yêu cầu</h5>
+                    <p class="mb-0">Phương pháp này yêu cầu bootloader đã được unlock. Nếu chưa unlock, cần sử dụng EDL mode.</p>
                 </div>
 
-                <h3>C�c bu?c:</h3>
+                <h3>Các bước:</h3>
                 <ol>
-                    <li>T?t m�y ? Nh?n gi? Vol Down + Power v�o Fastboot</li>
-                    <li>K?t n?i m�y t�nh</li>
-                    <li>M? UnlockTool ? Tab Xiaomi ? Ch?n model</li>
+                    <li>Tắt máy → Nhấn giữ Vol Down + Power vào Fastboot</li>
+                    <li>Kết nối máy tính</li>
+                    <li>Mở UnlockTool → Tab Xiaomi → Chọn model</li>
                     <li>Click "Mi Account Bypass (Fastboot)"</li>
-                    <li>Ch? ho�n t?t</li>
+                    <li>Chờ hoàn tất</li>
                 </ol>
             </section>
 
             <section id="loi-thuong-gap">
-                <h2><i class="fas fa-bug me-2"></i>7. L?i Thu?ng G?p</h2>
+                <h2><i class="fas fa-bug me-2"></i>7. Lỗi Thường Gặp</h2>
                 
                 <div class="accordion" id="errorAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#err1">
-                                Kh�ng v�o du?c EDL Mode
+                                Không vào được EDL Mode
                             </button>
                         </h2>
                         <div id="err1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
                                 <ul>
-                                    <li>Th? c�p USB kh�c</li>
-                                    <li>�?i c?ng USB (uu ti�n USB 2.0)</li>
-                                    <li>S? d?ng test point</li>
-                                    <li>Ki?m tra driver Qualcomm</li>
+                                    <li>Thử cáp USB khác</li>
+                                    <li>Đổi cổng USB (ưu tiên USB 2.0)</li>
+                                    <li>Sử dụng test point</li>
+                                    <li>Kiểm tra driver Qualcomm</li>
                                 </ul>
                             </div>
                         </div>
@@ -442,10 +443,10 @@ $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypas
                         <div id="err2" class="accordion-collapse collapse">
                             <div class="accordion-body">
                                 <ul>
-                                    <li>C�i l?i driver Qualcomm</li>
-                                    <li>Th? c?ng USB kh�c</li>
-                                    <li>T?t antivirus</li>
-                                    <li>Ch?y UnlockTool v?i quy?n Admin</li>
+                                    <li>Cài lại driver Qualcomm</li>
+                                    <li>Thử cổng USB khác</li>
+                                    <li>Tắt antivirus</li>
+                                    <li>Chạy UnlockTool với quyền Admin</li>
                                 </ul>
                             </div>
                         </div>
@@ -453,16 +454,16 @@ $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypas
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err3">
-                                Mi Account v?n c�n sau bypass
+                                Mi Account vẫn còn sau bypass
                             </button>
                         </h2>
                         <div id="err3" class="accordion-collapse collapse">
                             <div class="accordion-body">
                                 <ul>
-                                    <li>Th? bypass l?i</li>
-                                    <li>�?m b?o ch?n d�ng model</li>
-                                    <li>Th? flash firmware g?c tru?c, r?i bypass l?i</li>
-                                    <li>Li�n h? h? tr? <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></li>
+                                    <li>Thử bypass lại</li>
+                                    <li>Đảm bảo chọn đúng model</li>
+                                    <li>Thử flash firmware gốc trước, rồi bypass lại</li>
+                                    <li>Liên hệ hỗ trợ <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -477,36 +478,36 @@ $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypas
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
-                                Bypass Mi Account c� m?t d? li?u kh�ng?
+                                Bypass Mi Account có mất dữ liệu không?
                             </button>
                         </h2>
                         <div id="faq1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
-                                <strong>C�.</strong> Qu� tr�nh bypass thu?ng di k�m factory reset. Tuy nhi�n, n?u m�y dang b? kh�a th� cung kh�ng truy c?p du?c d? li?u.
+                                <strong>Có.</strong> Quá trình bypass thường đi kèm factory reset. Tuy nhiên, nếu máy đang bị khóa thì cũng không truy cập được dữ liệu.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
-                                Sau bypass c� dang nh?p Mi Account m?i du?c kh�ng?
+                                Sau bypass có đăng nhập Mi Account mới được không?
                             </button>
                         </h2>
                         <div id="faq2" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <strong>C�.</strong> Sau bypass, m�y ho?t d?ng b�nh thu?ng. B?n c� th? dang nh?p Mi Account m?i ho?c kh�ng d�ng.
+                                <strong>Có.</strong> Sau bypass, máy hoạt động bình thường. Bạn có thể đăng nhập Mi Account mới hoặc không dùng.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3">
-                                Bypass c� vinh vi?n kh�ng?
+                                Bypass có vĩnh viễn không?
                             </button>
                         </h2>
                         <div id="faq3" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <strong>C�.</strong> Sau bypass, Mi Account lock du?c x�a vinh vi?n. Ch? khi b?n dang nh?p Mi Account m?i v� b?t Find My Device th� m?i b? kh�a l?i.
+                                <strong>Có.</strong> Sau bypass, Mi Account lock được xóa vĩnh viễn. Chỉ khi bạn đăng nhập Mi Account mới và bật Find My Device thì mới bị khóa lại.
                             </div>
                         </div>
                     </div>
@@ -514,11 +515,11 @@ $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypas
             </section>
 
             <div class="price-highlight">
-                <h4><i class="fas fa-shopping-cart me-2"></i>Thu� UnlockTool Ngay!</h4>
-                <p>Bypass Mi Account Xiaomi - Gi� ch?</p>
-                <p class="price">8.000d</p>
-                <p class="h4">/ 6 ti?ng</p>
-                <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-shopping-cart me-2"></i>Thu� Ngay - UnlockTool.us</a>
+                <h4><i class="fas fa-shopping-cart me-2"></i>Thuê UnlockTool Ngay!</h4>
+                <p>Bypass Mi Account Xiaomi - Giá chỉ</p>
+                <p class="price">8.000đ</p>
+                <p class="h4">/ 6 tiếng</p>
+                <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-shopping-cart me-2"></i>Thuê Ngay - UnlockTool.us</a>
             </div>
 
         </div>
@@ -527,15 +528,15 @@ $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypas
         <div class="col-lg-4">
             <div class="sticky-top" style="top:20px">
                 <div class="price-highlight mb-4">
-                    <h5><i class="fas fa-unlock me-2"></i>Thu� UnlockTool</h5>
-                    <p class="price" style="font-size:2.5rem">8.000d</p>
-                    <p>/ 6 ti?ng</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thu� Ngay</a>
+                    <h5><i class="fas fa-unlock me-2"></i>Thuê UnlockTool</h5>
+                    <p class="price" style="font-size:2.5rem">8.000đ</p>
+                    <p>/ 6 tiếng</p>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thuê Ngay</a>
                 </div>
 
                 <div class="card mb-4">
                     <div class="card-header text-white" style="background:#ff6900">
-                        <i class="fas fa-download me-2"></i>T?i v?
+                        <i class="fas fa-download me-2"></i>Tải về
                     </div>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item"><a href="https://file.unlocktool.net/page/index.php" target="_blank">UnlockTool</a></li>
@@ -545,12 +546,12 @@ $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypas
 
                 <div class="card">
                     <div class="card-header bg-dark text-white">
-                        <i class="fas fa-link me-2"></i>B�i vi?t li�n quan
+                        <i class="fas fa-link me-2"></i>Bài viết liên quan
                     </div>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item"><a href="83-frp-xiaomi.php">FRP Xiaomi</a></li>
                         <li class="list-group-item"><a href="94-frp-redmi-note-12.php">FRP Redmi Note 12</a></li>
-                        <li class="list-group-item"><a href="81-unlocktool-huong-dan-su-dung.php">Hu?ng d?n UnlockTool</a></li>
+                        <li class="list-group-item"><a href="81-unlocktool-huong-dan-su-dung.php">Hướng dẫn UnlockTool</a></li>
                     </ul>
                 </div>
             </div>
@@ -565,7 +566,7 @@ $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypas
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -579,13 +580,13 @@ $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypas
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -593,15 +594,15 @@ $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypas
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -614,7 +615,7 @@ $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypas
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -625,10 +626,10 @@ $canonical_url = "https://www.unlocktool.us/articles/110-mi-account-xiaomi-bypas
         <div class="row">
             <div class="col-md-6">
                 <h5>UnlockTool.us</h5>
-                <p class="small">Cho thu� t�i kho?n tool m? kh�a di?n tho?i uy t�n nh?t Vi?t Nam.</p>
+                <p class="small">Cho thuê tài khoản tool mở khóa điện thoại uy tín nhất Việt Nam.</p>
             </div>
             <div class="col-md-6 text-md-end">
-                <p class="small mb-1">D?ch v?: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+                <p class="small mb-1">Dịch vụ: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
                 <p class="small">&copy; 2026 UnlockTool.us - All rights reserved.</p>
             </div>
         </div>

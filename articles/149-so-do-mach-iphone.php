@@ -1,6 +1,6 @@
-<?php
-$page_title = "So �? M?ch iPhone ?? Download Schematic ZXW WUXINJI - Hu?ng D?n 2026";
-$page_description = "?? T?i so d? m?ch iPhone 6-16 Pro Max. Schematic, boardview ZXW/WUXINJI cho k? thu?t vi�n s?a ch?a. H? tr? Thuetaikhoan.net";
+﻿<?php
+$page_title = "Sơ Đồ Mạch iPhone 📱 Download Schematic ZXW WUXINJI - Hướng Dẫn 2026";
+$page_description = "📱 Tải sơ đồ mạch iPhone 6-16 Pro Max. Schematic, boardview ZXW/WUXINJI cho kỹ thuật viên sửa chữa. Hỗ trợ Thuetaikhoan.net";
 $page_keywords = "so do mach iphone, schematic iphone, boardview iphone, zxw iphone, wuxinji iphone, sua chua iphone";
 $canonical_url = "https://www.unlocktool.us/articles/149-so-do-mach-iphone.php";
 ?>
@@ -18,7 +18,8 @@ $canonical_url = "https://www.unlocktool.us/articles/149-so-do-mach-iphone.php";
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">\n    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
@@ -31,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/149-so-do-mach-iphone.php";
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hu?ng d?n k? thu?t">
+    <meta property="article:section" content="Hướng dẫn kỹ thuật">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="M? kh�a di?n tho?i">
+    <meta property="article:tag" content="Mở khóa điện thoại">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -49,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/149-so-do-mach-iphone.php";
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -59,8 +60,8 @@ $canonical_url = "https://www.unlocktool.us/articles/149-so-do-mach-iphone.php";
     {
         "@context": "https://schema.org",
         "@type": "TechArticle",
-        "headline": "So �? M?ch iPhone - ZXW WUXINJI - Hu?ng D?n 2026",
-        "description": "Hu?ng d?n t?i v� s? d?ng so d? m?ch iPhone cho k? thu?t vi�n s?a ch?a",
+        "headline": "Sơ Đồ Mạch iPhone - ZXW WUXINJI - Hướng Dẫn 2026",
+        "description": "Hướng dẫn tải và sử dụng sơ đồ mạch iPhone cho kỹ thuật viên sửa chữa",
         "author": {"@type": "Organization", "name": "UnlockTool.us"},
         "publisher": {"@type": "Organization", "name": "UnlockTool.us"},
         "datePublished": "2024-01-01",
@@ -72,10 +73,10 @@ $canonical_url = "https://www.unlocktool.us/articles/149-so-do-mach-iphone.php";
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "So d? m?ch iPhone l� g�?", "acceptedAnswer": {"@type": "Answer", "text": "So d? m?ch (Schematic) l� b?n v? k? thu?t chi ti?t c�c m?ch di?n tr�n bo m?ch ch? iPhone, gi�p k? thu?t vi�n x�c d?nh linh ki?n v� du?ng m?ch."}},
-            {"@type": "Question", "name": "ZXW Tool l� g�?", "acceptedAnswer": {"@type": "Answer", "text": "ZXW Tool l� ph?n m?m chuy�n nghi?p t? Trung Qu?c cung c?p boardview interactive cho iPhone v� c�c thi?t b? kh�c."}},
-            {"@type": "Question", "name": "T?i schematic iPhone ? d�u?", "acceptedAnswer": {"@type": "Answer", "text": "C� th? t?i t? ZXW Tool, WUXINJI (tr? ph�), ho?c c�c di?n d�n nhu GSM Forum, 4PDA, China Phonefix."}},
-            {"@type": "Question", "name": "iPhone 16 c� schematic chua?", "acceptedAnswer": {"@type": "Answer", "text": "iPhone m?i nh?t thu?ng m?t 3-6 th�ng sau khi ra m?t d? c� schematic. ZXW v� WUXINJI c?p nh?t nhanh nh?t."}}
+            {"@type": "Question", "name": "Sơ đồ mạch iPhone là gì?", "acceptedAnswer": {"@type": "Answer", "text": "Sơ đồ mạch (Schematic) là bản vẽ kỹ thuật chi tiết các mạch điện trên bo mạch chủ iPhone, giúp kỹ thuật viên xác định linh kiện và đường mạch."}},
+            {"@type": "Question", "name": "ZXW Tool là gì?", "acceptedAnswer": {"@type": "Answer", "text": "ZXW Tool là phần mềm chuyên nghiệp từ Trung Quốc cung cấp boardview interactive cho iPhone và các thiết bị khác."}},
+            {"@type": "Question", "name": "Tải schematic iPhone ở đâu?", "acceptedAnswer": {"@type": "Answer", "text": "Có thể tải từ ZXW Tool, WUXINJI (trả phí), hoặc các diễn đàn như GSM Forum, 4PDA, China Phonefix."}},
+            {"@type": "Question", "name": "iPhone 16 có schematic chưa?", "acceptedAnswer": {"@type": "Answer", "text": "iPhone mới nhất thường mất 3-6 tháng sau khi ra mắt để có schematic. ZXW và WUXINJI cập nhật nhanh nhất."}}
         ]
     }
     </script>
@@ -137,7 +138,7 @@ $canonical_url = "https://www.unlocktool.us/articles/149-so-do-mach-iphone.php";
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "D?ch v? m? kh�a di?n tho?i",
+        "name": "Dịch vụ mở khóa điện thoại",
         "brand": {"@type": "Brand", "name": "UnlockTool.us"},
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -154,18 +155,18 @@ $canonical_url = "https://www.unlocktool.us/articles/149-so-do-mach-iphone.php";
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
 </nav>
 <section class="hero-section">
     <div class="container text-center">
-        <h1><i class="fab fa-apple me-2"></i>So �? M?ch iPhone - Hu?ng D?n 2026</h1>
-        <p class="lead">Schematic, Boardview ZXW/WUXINJI cho k? thu?t vi�n s?a ch?a ph?n c?ng</p>
+        <h1><i class="fab fa-apple me-2"></i>Sơ Đồ Mạch iPhone - Hướng Dẫn 2026</h1>
+        <p class="lead">Schematic, Boardview ZXW/WUXINJI cho kỹ thuật viên sửa chữa phần cứng</p>
         <div class="mt-4">
-            <a href="https://thuetaikhoan.net" class="cta-btn"><i class="fas fa-headset me-2"></i>H? Tr? K? Thu?t</a>
+            <a href="https://thuetaikhoan.net" class="cta-btn"><i class="fas fa-headset me-2"></i>Hỗ Trợ Kỹ Thuật</a>
         </div>
     </div>
 </section>
@@ -175,243 +176,243 @@ $canonical_url = "https://www.unlocktool.us/articles/149-so-do-mach-iphone.php";
         
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #0066cc;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>T�c gi?:</strong> UnlockTool.us Team</span>
-            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>�?c:</strong> ~5 ph�t</span>
-            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> <span id="viewCount">1,234</span></span>
+            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>Tác giả:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>Cập nhật:</strong> 06/02/2026</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Đọc:</strong> ~5 phút</span>
+            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lượt xem:</strong> <span id="viewCount">1,234</span></span>
         </div>
         <div class="toc">
-            <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
+            <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
             <ul>
-                <li><a href="#schematic-la-gi">1. So d? m?ch iPhone l� g�?</a></li>
-                <li><a href="#loai-file">2. C�c lo?i file schematic</a></li>
-                <li><a href="#danh-sach">3. Schematic theo d?i iPhone</a></li>
-                <li><a href="#phan-mem">4. Ph?n m?m xem schematic</a></li>
-                <li><a href="#nguon-tai">5. Ngu?n t?i schematic</a></li>
-                <li><a href="#huong-dan">6. Hu?ng d?n s? d?ng</a></li>
-                <li><a href="#loi-thuong-gap">7. Tra c?u l?i ph? bi?n</a></li>
-                <li><a href="#faq">8. FAQ - C�u h?i thu?ng g?p</a></li>
+                <li><a href="#schematic-la-gi">1. Sơ đồ mạch iPhone là gì?</a></li>
+                <li><a href="#loai-file">2. Các loại file schematic</a></li>
+                <li><a href="#danh-sach">3. Schematic theo đời iPhone</a></li>
+                <li><a href="#phan-mem">4. Phần mềm xem schematic</a></li>
+                <li><a href="#nguon-tai">5. Nguồn tải schematic</a></li>
+                <li><a href="#huong-dan">6. Hướng dẫn sử dụng</a></li>
+                <li><a href="#loi-thuong-gap">7. Tra cứu lỗi phổ biến</a></li>
+                <li><a href="#faq">8. FAQ - Câu hỏi thường gặp</a></li>
             </ul>
         </div>
         
-        <h2 id="schematic-la-gi"><i class="fas fa-info-circle me-2"></i>1. So d? m?ch iPhone l� g�?</h2>
+        <h2 id="schematic-la-gi"><i class="fas fa-info-circle me-2"></i>1. Sơ đồ mạch iPhone là gì?</h2>
         
-        <p><strong>So d? m?ch iPhone</strong> (Schematic) l� b?n v? k? thu?t chi ti?t c�c linh ki?n v� du?ng m?ch tr�n bo m?ch ch? iPhone. ��y l� t�i li?u quan tr?ng nh?t cho k? thu?t vi�n s?a ch?a ph?n c?ng iPhone chuy�n nghi?p.</p>
+        <p><strong>Sơ đồ mạch iPhone</strong> (Schematic) là bản vẽ kỹ thuật chi tiết các linh kiện và đường mạch trên bo mạch chủ iPhone. Đây là tài liệu quan trọng nhất cho kỹ thuật viên sửa chữa phần cứng iPhone chuyên nghiệp.</p>
         
-        <h3>1.1. T?i sao c?n so d? m?ch iPhone?</h3>
+        <h3>1.1. Tại sao cần sơ đồ mạch iPhone?</h3>
         <ul>
-            <li><strong>X�c d?nh linh ki?n:</strong> Bi?t t�n, gi� tr?, v? tr� c?a t?ng linh ki?n tr�n bo m?ch</li>
-            <li><strong>Tra c?u du?ng m?ch:</strong> Theo d�i du?ng di c?a t�n hi?u v� ngu?n di?n</li>
-            <li><strong>Ph�n t�ch l?i:</strong> X�c d?nh nguy�n nh�n l?i ph?n c?ng nhu m?t ngu?n, kh�ng s?c, m?t s�ng</li>
-            <li><strong>Thay th? linh ki?n:</strong> Bi?t gi� tr? linh ki?n d? thay th? ch�nh x�c</li>
-            <li><strong>S?a ch?a jumper:</strong> Khi du?ng m?ch b? d?t, c?n bi?t 2 di?m d? n?i d�y</li>
+            <li><strong>Xác định linh kiện:</strong> Biết tên, giá trị, vị trí của từng linh kiện trên bo mạch</li>
+            <li><strong>Tra cứu đường mạch:</strong> Theo dõi đường đi của tín hiệu và nguồn điện</li>
+            <li><strong>Phân tích lỗi:</strong> Xác định nguyên nhân lỗi phần cứng như mất nguồn, không sạc, mất sóng</li>
+            <li><strong>Thay thế linh kiện:</strong> Biết giá trị linh kiện để thay thế chính xác</li>
+            <li><strong>Sửa chữa jumper:</strong> Khi đường mạch bị đứt, cần biết 2 điểm để nối dây</li>
         </ul>
         
         <div class="info-box">
-            <h5><i class="fab fa-apple me-2"></i>�?c di?m iPhone:</h5>
-            <p class="mb-0">Apple kh�ng c�ng b? schematic ch�nh th?c. T?t c? schematic iPhone d?u t? ngu?n th? 3 nhu ZXW, WUXINJI ho?c c�c di?n d�n k? thu?t.</p>
+            <h5><i class="fab fa-apple me-2"></i>Đặc điểm iPhone:</h5>
+            <p class="mb-0">Apple không công bố schematic chính thức. Tất cả schematic iPhone đều từ nguồn thứ 3 như ZXW, WUXINJI hoặc các diễn đàn kỹ thuật.</p>
         </div>
         
-        <h2 id="loai-file"><i class="fas fa-file-alt me-2"></i>2. C�c lo?i file schematic</h2>
+        <h2 id="loai-file"><i class="fas fa-file-alt me-2"></i>2. Các loại file schematic</h2>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Lo?i</th><th>�?nh d?ng</th><th>M� t?</th><th>Ph?n m?m xem</th></tr>
+                <tr><th>Loại</th><th>Định dạng</th><th>Mô tả</th><th>Phần mềm xem</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>Schematic (PDF)</strong></td><td>.pdf</td><td>So d? nguy�n l� m?ch d?ng b?n v?</td><td>Adobe Reader, Foxit</td></tr>
-                <tr><td><strong>Boardview</strong></td><td>.fz, .brd, .bv</td><td>V? tr� linh ki?n d?ng 2D interactive</td><td>ZXW, WUXINJI, Phoneboard</td></tr>
-                <tr><td><strong>Bitmap</strong></td><td>.bmp, .png</td><td>?nh ch?p board th?c t?</td><td>Image viewer</td></tr>
-                <tr><td><strong>X-Ray</strong></td><td>.jpg, .png</td><td>?nh X-ray bo m?ch d? xem BGA</td><td>Image viewer</td></tr>
+                <tr><td><strong>Schematic (PDF)</strong></td><td>.pdf</td><td>Sơ đồ nguyên lý mạch dạng bản vẽ</td><td>Adobe Reader, Foxit</td></tr>
+                <tr><td><strong>Boardview</strong></td><td>.fz, .brd, .bv</td><td>Vị trí linh kiện dạng 2D interactive</td><td>ZXW, WUXINJI, Phoneboard</td></tr>
+                <tr><td><strong>Bitmap</strong></td><td>.bmp, .png</td><td>Ảnh chụp board thực tế</td><td>Image viewer</td></tr>
+                <tr><td><strong>X-Ray</strong></td><td>.jpg, .png</td><td>Ảnh X-ray bo mạch để xem BGA</td><td>Image viewer</td></tr>
             </tbody>
         </table>
         
         <div class="tip-box">
             <h5><i class="fas fa-lightbulb me-2"></i>Boardview interactive:</h5>
-            <p class="mb-0">Boardview trong ZXW/WUXINJI cho ph�p click v�o linh ki?n d? xem th�ng tin chi ti?t, theo d�i du?ng m?ch, highlight net. ��y l� c�ch hi?u qu? nh?t d? tra c?u.</p>
+            <p class="mb-0">Boardview trong ZXW/WUXINJI cho phép click vào linh kiện để xem thông tin chi tiết, theo dõi đường mạch, highlight net. Đây là cách hiệu quả nhất để tra cứu.</p>
         </div>
         
-        <h2 id="danh-sach"><i class="fas fa-mobile-alt me-2"></i>3. Schematic theo d?i iPhone</h2>
+        <h2 id="danh-sach"><i class="fas fa-mobile-alt me-2"></i>3. Schematic theo đời iPhone</h2>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Model</th><th>Board Code</th><th>Chip</th><th>T�nh tr?ng</th></tr>
+                <tr><th>Model</th><th>Board Code</th><th>Chip</th><th>Tình trạng</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>iPhone 5s</strong></td><td>N51/N53</td><td>A7</td><td class="text-success">? �?y d?</td></tr>
-                <tr><td><strong>iPhone 6/6 Plus</strong></td><td>N61/N56</td><td>A8</td><td class="text-success">? �?y d?</td></tr>
-                <tr><td><strong>iPhone 6s/6s Plus</strong></td><td>N71/N66</td><td>A9</td><td class="text-success">? �?y d?</td></tr>
-                <tr><td><strong>iPhone 7/7 Plus</strong></td><td>D10/D11</td><td>A10</td><td class="text-success">? �?y d?</td></tr>
-                <tr><td><strong>iPhone 8/8 Plus</strong></td><td>D20/D21</td><td>A11</td><td class="text-success">? �?y d?</td></tr>
-                <tr><td><strong>iPhone X</strong></td><td>D22</td><td>A11</td><td class="text-success">? �?y d?</td></tr>
-                <tr><td><strong>iPhone XR</strong></td><td>N84</td><td>A12</td><td class="text-success">? �?y d?</td></tr>
-                <tr><td><strong>iPhone XS/XS Max</strong></td><td>D33/D34</td><td>A12</td><td class="text-success">? �?y d?</td></tr>
-                <tr><td><strong>iPhone 11 series</strong></td><td>N104/D42/D43</td><td>A13</td><td class="text-success">? C�</td></tr>
-                <tr><td><strong>iPhone 12 series</strong></td><td>D52/D53/D54</td><td>A14</td><td class="text-success">? C�</td></tr>
-                <tr><td><strong>iPhone 13 series</strong></td><td>D63/D64/D17</td><td>A15</td><td class="text-success">? C� (ZXW)</td></tr>
-                <tr><td><strong>iPhone 14 series</strong></td><td>D73/D74/D27/D28</td><td>A15/A16</td><td class="text-warning">? M?t ph?n</td></tr>
-                <tr><td><strong>iPhone 15 series</strong></td><td>D83/D84/D37/D38</td><td>A16/A17</td><td class="text-warning">? �ang c?p nh?t</td></tr>
-                <tr><td><strong>iPhone 16 series</strong></td><td>TBD</td><td>A18</td><td class="text-danger">? Chua c�</td></tr>
+                <tr><td><strong>iPhone 5s</strong></td><td>N51/N53</td><td>A7</td><td class="text-success">✅ Đầy đủ</td></tr>
+                <tr><td><strong>iPhone 6/6 Plus</strong></td><td>N61/N56</td><td>A8</td><td class="text-success">✅ Đầy đủ</td></tr>
+                <tr><td><strong>iPhone 6s/6s Plus</strong></td><td>N71/N66</td><td>A9</td><td class="text-success">✅ Đầy đủ</td></tr>
+                <tr><td><strong>iPhone 7/7 Plus</strong></td><td>D10/D11</td><td>A10</td><td class="text-success">✅ Đầy đủ</td></tr>
+                <tr><td><strong>iPhone 8/8 Plus</strong></td><td>D20/D21</td><td>A11</td><td class="text-success">✅ Đầy đủ</td></tr>
+                <tr><td><strong>iPhone X</strong></td><td>D22</td><td>A11</td><td class="text-success">✅ Đầy đủ</td></tr>
+                <tr><td><strong>iPhone XR</strong></td><td>N84</td><td>A12</td><td class="text-success">✅ Đầy đủ</td></tr>
+                <tr><td><strong>iPhone XS/XS Max</strong></td><td>D33/D34</td><td>A12</td><td class="text-success">✅ Đầy đủ</td></tr>
+                <tr><td><strong>iPhone 11 series</strong></td><td>N104/D42/D43</td><td>A13</td><td class="text-success">✅ Có</td></tr>
+                <tr><td><strong>iPhone 12 series</strong></td><td>D52/D53/D54</td><td>A14</td><td class="text-success">✅ Có</td></tr>
+                <tr><td><strong>iPhone 13 series</strong></td><td>D63/D64/D17</td><td>A15</td><td class="text-success">✅ Có (ZXW)</td></tr>
+                <tr><td><strong>iPhone 14 series</strong></td><td>D73/D74/D27/D28</td><td>A15/A16</td><td class="text-warning">⚡ Một phần</td></tr>
+                <tr><td><strong>iPhone 15 series</strong></td><td>D83/D84/D37/D38</td><td>A16/A17</td><td class="text-warning">⚡ Đang cập nhật</td></tr>
+                <tr><td><strong>iPhone 16 series</strong></td><td>TBD</td><td>A18</td><td class="text-danger">❌ Chưa có</td></tr>
             </tbody>
         </table>
         
-        <h2 id="phan-mem"><i class="fas fa-laptop-code me-2"></i>4. Ph?n m?m xem schematic</h2>
+        <h2 id="phan-mem"><i class="fas fa-laptop-code me-2"></i>4. Phần mềm xem schematic</h2>
         
         <div class="tool-card">
-            <h5><i class="fas fa-star me-2 text-warning"></i>ZXW Tool (Khuy�n d�ng)</h5>
-            <p>Ph?n m?m chuy�n nghi?p nh?t cho iPhone:</p>
+            <h5><i class="fas fa-star me-2 text-warning"></i>ZXW Tool (Khuyên dùng)</h5>
+            <p>Phần mềm chuyên nghiệp nhất cho iPhone:</p>
             <ul>
-                <li>Boardview interactive, click d? xem th�ng tin linh ki?n</li>
-                <li>Highlight net d? theo d�i du?ng m?ch</li>
-                <li>T�ch h?p schematic PDF</li>
-                <li>C?p nh?t iPhone m?i nhanh nh?t</li>
-                <li>C� c? iPad, MacBook</li>
-                <li>Gi�: ~-150/nam t�y version</li>
+                <li>Boardview interactive, click để xem thông tin linh kiện</li>
+                <li>Highlight net để theo dõi đường mạch</li>
+                <li>Tích hợp schematic PDF</li>
+                <li>Cập nhật iPhone mới nhanh nhất</li>
+                <li>Có cả iPad, MacBook</li>
+                <li>Giá: ~-150/năm tùy version</li>
             </ul>
         </div>
         
         <div class="tool-card">
             <h5><i class="fas fa-star me-2 text-warning"></i>WUXINJI Online</h5>
-            <p>�?i th? c?a ZXW, gi� r? hon:</p>
+            <p>Đối thủ của ZXW, giá rẻ hơn:</p>
             <ul>
-                <li>H? tr? iPhone, iPad, Android</li>
-                <li>C� version online (kh�ng c?n c�i d?t)</li>
-                <li>Database l?n, c?p nh?t t?t</li>
-                <li>Giao di?n ti?ng Trung nhung d? d�ng</li>
-                <li>Gi�: ~-60/nam</li>
+                <li>Hỗ trợ iPhone, iPad, Android</li>
+                <li>Có version online (không cần cài đặt)</li>
+                <li>Database lớn, cập nhật tốt</li>
+                <li>Giao diện tiếng Trung nhưng dễ dùng</li>
+                <li>Giá: ~-60/năm</li>
             </ul>
         </div>
         
         <div class="tool-card">
             <h5><i class="fas fa-code me-2 text-success"></i>Phoneboard / OpenBoardView (Free)</h5>
-            <p>Ph?n m?m mi?n ph� d? xem boardview:</p>
+            <p>Phần mềm miễn phí để xem boardview:</p>
             <ul>
-                <li>H? tr? nhi?u d?nh d?ng: .fz, .brd, .bv</li>
-                <li>C?n t? t�m file boardview</li>
-                <li>Kh�ng c� database nhu ZXW</li>
-                <li>Ph� h?p khi d� c� file boardview s?n</li>
+                <li>Hỗ trợ nhiều định dạng: .fz, .brd, .bv</li>
+                <li>Cần tự tìm file boardview</li>
+                <li>Không có database như ZXW</li>
+                <li>Phù hợp khi đã có file boardview sẵn</li>
             </ul>
         </div>
         
         <div class="tool-card">
             <h5><i class="fab fa-apple me-2"></i>JC Intelligent Drawing</h5>
-            <p>Tool m?i, mi?n ph� trial:</p>
+            <p>Tool mới, miễn phí trial:</p>
             <ul>
-                <li>H? tr? iPhone, iPad</li>
-                <li>C� free trial d? th?</li>
-                <li>Giao di?n hi?n d?i</li>
+                <li>Hỗ trợ iPhone, iPad</li>
+                <li>Có free trial để thử</li>
+                <li>Giao diện hiện đại</li>
             </ul>
         </div>
         
-        <h2 id="nguon-tai"><i class="fas fa-download me-2"></i>5. Ngu?n t?i schematic</h2>
+        <h2 id="nguon-tai"><i class="fas fa-download me-2"></i>5. Nguồn tải schematic</h2>
         
-        <h3>5.1. Ngu?n mi?n ph�</h3>
+        <h3>5.1. Nguồn miễn phí</h3>
         <ul>
-            <li><strong>China Phonefix (diyfixtool.com):</strong> C� m?t s? schematic mi?n ph�, hu?ng d?n t?i t? c�c ngu?n kh�c</li>
-            <li><strong>GSM Forum:</strong> Di?n d�n k? thu?t l?n nh?t, c?n VIP membership</li>
-            <li><strong>4PDA (Nga):</strong> Di?n d�n Nga, r?t nhi?u t�i li?u mi?n ph�</li>
-            <li><strong>Telegram:</strong> C�c nh�m chia s? schematic iPhone</li>
-            <li><strong>Badcaps Forum:</strong> Di?n d�n s?a ch?a, c� schematic m?t s? model</li>
+            <li><strong>China Phonefix (diyfixtool.com):</strong> Có một số schematic miễn phí, hướng dẫn tải từ các nguồn khác</li>
+            <li><strong>GSM Forum:</strong> Diễn đàn kỹ thuật lớn nhất, cần VIP membership</li>
+            <li><strong>4PDA (Nga):</strong> Diễn đàn Nga, rất nhiều tài liệu miễn phí</li>
+            <li><strong>Telegram:</strong> Các nhóm chia sẻ schematic iPhone</li>
+            <li><strong>Badcaps Forum:</strong> Diễn đàn sửa chữa, có schematic một số model</li>
         </ul>
         
-        <h3>5.2. Ngu?n tr? ph� (Khuy?n ngh?)</h3>
+        <h3>5.2. Nguồn trả phí (Khuyến nghị)</h3>
         <ul>
-            <li><strong>ZXW Tool:</strong> Database d?y d? v� c?p nh?t nh?t cho iPhone</li>
-            <li><strong>WUXINJI:</strong> Gi� r? hon ZXW, database t?t</li>
-            <li><strong>Zhizhen Tool:</strong> Tool m?i 2025, dang ph�t tri?n</li>
+            <li><strong>ZXW Tool:</strong> Database đầy đủ và cập nhật nhất cho iPhone</li>
+            <li><strong>WUXINJI:</strong> Giá rẻ hơn ZXW, database tốt</li>
+            <li><strong>Zhizhen Tool:</strong> Tool mới 2025, đang phát triển</li>
         </ul>
         
-        <h2 id="huong-dan"><i class="fas fa-tools me-2"></i>6. Hu?ng d?n s? d?ng schematic</h2>
+        <h2 id="huong-dan"><i class="fas fa-tools me-2"></i>6. Hướng dẫn sử dụng schematic</h2>
         
-        <h3>6.1. �?c k� hi?u linh ki?n iPhone</h3>
+        <h3>6.1. Đọc ký hiệu linh kiện iPhone</h3>
         <table class="comparison-table">
             <thead>
-                <tr><th>K� hi?u</th><th>Lo?i linh ki?n</th><th>V� d? iPhone</th></tr>
+                <tr><th>Ký hiệu</th><th>Loại linh kiện</th><th>Ví dụ iPhone</th></tr>
             </thead>
             <tbody>
                 <tr><td><strong>U</strong></td><td>IC (Chip)</td><td>U1 = PMIC, U2 = CPU</td></tr>
-                <tr><td><strong>R</strong></td><td>�i?n tr?</td><td>R1234 = 10K ohm</td></tr>
-                <tr><td><strong>C</strong></td><td>T? di?n</td><td>C5678 = 100nF</td></tr>
-                <tr><td><strong>L</strong></td><td>Cu?n c?m</td><td>L9012 = 1uH</td></tr>
+                <tr><td><strong>R</strong></td><td>Điện trở</td><td>R1234 = 10K ohm</td></tr>
+                <tr><td><strong>C</strong></td><td>Tụ điện</td><td>C5678 = 100nF</td></tr>
+                <tr><td><strong>L</strong></td><td>Cuộn cảm</td><td>L9012 = 1uH</td></tr>
                 <tr><td><strong>FL</strong></td><td>Filter</td><td>FL1234 = EMI filter</td></tr>
                 <tr><td><strong>Q</strong></td><td>Transistor</td><td>Q1 = MOSFET</td></tr>
                 <tr><td><strong>D</strong></td><td>Diode</td><td>D1 = Schottky diode</td></tr>
             </tbody>
         </table>
         
-        <h3>6.2. C�c IC quan tr?ng tr�n iPhone</h3>
+        <h3>6.2. Các IC quan trọng trên iPhone</h3>
         <table class="comparison-table">
             <thead>
-                <tr><th>IC</th><th>Ch?c nang</th><th>K� hi?u thu?ng g?p</th></tr>
+                <tr><th>IC</th><th>Chức năng</th><th>Ký hiệu thường gặp</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>PMIC</strong></td><td>Qu?n l� ngu?n ch�nh</td><td>338S00456 (Apple)</td></tr>
-                <tr><td><strong>Tristar/Hydra</strong></td><td>IC s?c USB</td><td>CBTL1612A1, 1614A1</td></tr>
-                <tr><td><strong>Tigris</strong></td><td>IC s?c pin</td><td>SN2600B, SN2611A0</td></tr>
-                <tr><td><strong>Audio IC</strong></td><td>�m thanh</td><td>338S00295, CS42L83</td></tr>
-                <tr><td><strong>Baseband</strong></td><td>Modem s�ng</td><td>Intel PMB9955</td></tr>
+                <tr><td><strong>PMIC</strong></td><td>Quản lý nguồn chính</td><td>338S00456 (Apple)</td></tr>
+                <tr><td><strong>Tristar/Hydra</strong></td><td>IC sạc USB</td><td>CBTL1612A1, 1614A1</td></tr>
+                <tr><td><strong>Tigris</strong></td><td>IC sạc pin</td><td>SN2600B, SN2611A0</td></tr>
+                <tr><td><strong>Audio IC</strong></td><td>Âm thanh</td><td>338S00295, CS42L83</td></tr>
+                <tr><td><strong>Baseband</strong></td><td>Modem sóng</td><td>Intel PMB9955</td></tr>
                 <tr><td><strong>NFC IC</strong></td><td>NFC/eSIM</td><td>PN80T, ST54H</td></tr>
             </tbody>
         </table>
         
-        <h2 id="loi-thuong-gap"><i class="fas fa-bug me-2"></i>7. Tra c?u l?i ph? bi?n</h2>
+        <h2 id="loi-thuong-gap"><i class="fas fa-bug me-2"></i>7. Tra cứu lỗi phổ biến</h2>
         
         <div class="tip-box">
-            <h5><i class="fas fa-battery-full me-2"></i>L?i kh�ng s?c iPhone:</h5>
-            <p class="mb-0">Tra c?u: <strong>Tristar/Hydra IC</strong> (CBTL1614) ? <strong>Tigris IC</strong> (SN2611) ? FPC connector ? Battery connector. Ki?m tra c�c t? l?c tr�n du?ng VBUS.</p>
-        </div>
-        
-        <div class="tip-box">
-            <h5><i class="fas fa-power-off me-2"></i>L?i kh�ng ngu?n:</h5>
-            <p class="mb-0">Tra c?u: <strong>PMIC</strong> ? du?ng ngu?n VDD_MAIN ? PP_VCC_MAIN. Ki?m tra c�c cu?n c?m v� t? l?c tr�n du?ng ngu?n ch�nh. iPhone d�ng chip ngu?n c?a Apple (338S series).</p>
+            <h5><i class="fas fa-battery-full me-2"></i>Lỗi không sạc iPhone:</h5>
+            <p class="mb-0">Tra cứu: <strong>Tristar/Hydra IC</strong> (CBTL1614) → <strong>Tigris IC</strong> (SN2611) → FPC connector → Battery connector. Kiểm tra các tụ lọc trên đường VBUS.</p>
         </div>
         
         <div class="tip-box">
-            <h5><i class="fas fa-signal me-2"></i>L?i m?t s�ng:</h5>
-            <p class="mb-0">Tra c?u: <strong>Baseband IC</strong> ? <strong>RF IC</strong> ? <strong>PA</strong> ? Antenna switch. Ki?m tra du?ng t�n hi?u t? modem d?n antenna connector. iPhone d�ng modem Intel ho?c Qualcomm.</p>
+            <h5><i class="fas fa-power-off me-2"></i>Lỗi không nguồn:</h5>
+            <p class="mb-0">Tra cứu: <strong>PMIC</strong> → đường nguồn VDD_MAIN → PP_VCC_MAIN. Kiểm tra các cuộn cảm và tụ lọc trên đường nguồn chính. iPhone dùng chip nguồn của Apple (338S series).</p>
         </div>
         
         <div class="tip-box">
-            <h5><i class="fas fa-microphone me-2"></i>L?i Face ID:</h5>
-            <p class="mb-0">Tra c?u: <strong>Face ID connector</strong> ? <strong>Dot Projector</strong> ? <strong>ROMEO IC</strong>. Face ID kh�ng th? s?a ho�n to�n n?u ROMEO IC b? l?i v� c?n pairing v?i CPU.</p>
+            <h5><i class="fas fa-signal me-2"></i>Lỗi mất sóng:</h5>
+            <p class="mb-0">Tra cứu: <strong>Baseband IC</strong> → <strong>RF IC</strong> → <strong>PA</strong> → Antenna switch. Kiểm tra đường tín hiệu từ modem đến antenna connector. iPhone dùng modem Intel hoặc Qualcomm.</p>
         </div>
         
-        <h2 id="faq"><i class="fas fa-comments me-2"></i>8. FAQ - C�u h?i thu?ng g?p</h2>
-        
-        <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Schematic iPhone 16 c� chua?</h5>
-            <p>iPhone m?i nh?t thu?ng m?t 3-6 th�ng sau khi ra m?t d? c� schematic. ZXW v� WUXINJI c?p nh?t nhanh nh?t. Hi?n t?i iPhone 15 d� c�, iPhone 16 dang c?p nh?t.</p>
+        <div class="tip-box">
+            <h5><i class="fas fa-microphone me-2"></i>Lỗi Face ID:</h5>
+            <p class="mb-0">Tra cứu: <strong>Face ID connector</strong> → <strong>Dot Projector</strong> → <strong>ROMEO IC</strong>. Face ID không thể sửa hoàn toàn nếu ROMEO IC bị lỗi vì cần pairing với CPU.</p>
         </div>
         
-        <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>ZXW hay WUXINJI t?t hon cho iPhone?</h5>
-            <p><strong>ZXW</strong> c� database iPhone d?y d? v� c?p nh?t nhanh hon, nhung gi� cao hon. <strong>WUXINJI</strong> gi� r? hon, database cung t?t. N?u chuy�n iPhone n�n d�ng ZXW.</p>
-        </div>
+        <h2 id="faq"><i class="fas fa-comments me-2"></i>8. FAQ - Câu hỏi thường gặp</h2>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>H?c s?a ch?a iPhone ? d�u?</h5>
-            <p>C� th? h?c qua video YouTube (iPad Rehab, Phone Repair Guru), c�c kh�a online, ho?c c�c trung t�m d�o t?o. C?n k?t h?p l� thuy?t di?n t? v� th?c h�nh h�n BGA.</p>
+            <h5><i class="fas fa-question me-2"></i>Schematic iPhone 16 có chưa?</h5>
+            <p>iPhone mới nhất thường mất 3-6 tháng sau khi ra mắt để có schematic. ZXW và WUXINJI cập nhật nhanh nhất. Hiện tại iPhone 15 đã có, iPhone 16 đang cập nhật.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>C� c?n thi?t b? g� d? s?a iPhone?</h5>
-            <p>C?n: k�nh hi?n vi (microscope), m�y h�n hot air, m�y h�n m? nh?n, d?ng h? do, ngu?n DC, v� c�c d?ng c? th�o l?p iPhone.</p>
+            <h5><i class="fas fa-question me-2"></i>ZXW hay WUXINJI tốt hơn cho iPhone?</h5>
+            <p><strong>ZXW</strong> có database iPhone đầy đủ và cập nhật nhanh hơn, nhưng giá cao hơn. <strong>WUXINJI</strong> giá rẻ hơn, database cũng tốt. Nếu chuyên iPhone nên dùng ZXW.</p>
+        </div>
+        
+        <div class="faq-item">
+            <h5><i class="fas fa-question me-2"></i>Học sửa chữa iPhone ở đâu?</h5>
+            <p>Có thể học qua video YouTube (iPad Rehab, Phone Repair Guru), các khóa online, hoặc các trung tâm đào tạo. Cần kết hợp lý thuyết điện tử và thực hành hàn BGA.</p>
+        </div>
+        
+        <div class="faq-item">
+            <h5><i class="fas fa-question me-2"></i>Có cần thiết bị gì để sửa iPhone?</h5>
+            <p>Cần: kính hiển vi (microscope), máy hàn hot air, máy hàn mỏ nhọn, đồng hồ đo, nguồn DC, và các dụng cụ tháo lắp iPhone.</p>
         </div>
         
         <div class="price-box">
-            <h3><i class="fas fa-tools me-2"></i>C?n H? Tr? S?a Ch?a iPhone?</h3>
-            <p>Kh�ng t? s?a du?c? Li�n h? k? thu?t vi�n chuy�n nghi?p</p>
-            <a href="https://thuetaikhoan.net" class="btn btn-light btn-lg me-2"><i class="fas fa-headset me-2"></i>D?ch V? S?a Ch?a</a>
-            <a href="https://www.unlocktool.us/" class="btn btn-outline-light btn-lg"><i class="fas fa-bolt me-2"></i>Thu� UnlockTool</a>
+            <h3><i class="fas fa-tools me-2"></i>Cần Hỗ Trợ Sửa Chữa iPhone?</h3>
+            <p>Không tự sửa được? Liên hệ kỹ thuật viên chuyên nghiệp</p>
+            <a href="https://thuetaikhoan.net" class="btn btn-light btn-lg me-2"><i class="fas fa-headset me-2"></i>Dịch Vụ Sửa Chữa</a>
+            <a href="https://www.unlocktool.us/" class="btn btn-outline-light btn-lg"><i class="fas fa-bolt me-2"></i>Thuê UnlockTool</a>
         </div>
         
-        <h2><i class="fas fa-link me-2"></i>B�i vi?t li�n quan</h2>
+        <h2><i class="fas fa-link me-2"></i>Bài viết liên quan</h2>
         <ul>
-            <li><a href="148-so-do-mach-samsung.php">So d? m?ch Samsung</a></li>
-            <li><a href="155-loi-dfurecovery-mode.php">L?i DFU/Recovery Mode iPhone</a></li>
-            <li><a href="153-loi-iphone-trust-computer.php">L?i Trust This Computer iPhone</a></li>
+            <li><a href="148-so-do-mach-samsung.php">Sơ đồ mạch Samsung</a></li>
+            <li><a href="155-loi-dfurecovery-mode.php">Lỗi DFU/Recovery Mode iPhone</a></li>
+            <li><a href="153-loi-iphone-trust-computer.php">Lỗi Trust This Computer iPhone</a></li>
             <li><a href="137-iremoval-pro-la-gi.php">iRemoval Pro - Bypass iCloud</a></li>
-            <li><a href="1-unlocktool-la-gi.php">UnlockTool l� g�?</a></li>
+            <li><a href="1-unlocktool-la-gi.php">UnlockTool là gì?</a></li>
         </ul>
         
     </div>
@@ -424,7 +425,7 @@ $canonical_url = "https://www.unlocktool.us/articles/149-so-do-mach-iphone.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -438,13 +439,13 @@ $canonical_url = "https://www.unlocktool.us/articles/149-so-do-mach-iphone.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -452,15 +453,15 @@ $canonical_url = "https://www.unlocktool.us/articles/149-so-do-mach-iphone.php";
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -473,7 +474,7 @@ $canonical_url = "https://www.unlocktool.us/articles/149-so-do-mach-iphone.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -481,8 +482,8 @@ $canonical_url = "https://www.unlocktool.us/articles/149-so-do-mach-iphone.php";
 </div>
 <footer class="bg-dark text-white py-4 text-center">
     <div class="container">
-        <p class="mb-2">&copy; 2026 UnlockTool.us - D?ch v? cho thu� UnlockTool uy t�n #1 Vi?t Nam</p>
-        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thu� UnlockTool 8K</a> | <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+        <p class="mb-2">&copy; 2026 UnlockTool.us - Dịch vụ cho thuê UnlockTool uy tín #1 Việt Nam</p>
+        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thuê UnlockTool 8K</a> | <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
     </div>
 </footer>
 
