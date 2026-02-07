@@ -36,7 +36,7 @@ Options -Indexes
 </FilesMatch>
 
 # Thiết lập charset mặc định (articles dùng Windows-1252)
-AddDefaultCharset Windows-1252
+AddDefaultCharset UTF-8
 
 # ========== SPEED OPTIMIZATION ==========
 
