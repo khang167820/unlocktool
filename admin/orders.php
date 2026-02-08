@@ -89,7 +89,15 @@ if (isset($_GET['assign_all'])) {
     $message = $assigned > 0 ? "✅ Đã gán {$assigned} đơn!" : "Không có đơn nào cần gán hoặc hết tài khoản trống";
 }
 
-$orders = $conn->query("SELECT o.*, a.username AS account_name FROM orders o LEFT JOIN accounts a ON o.account_id = a.id ORDER BY o.id DESC");
+// Phân trang đơn hàng
+$per_page = 50;
+$page = isset($_GET['page']) ? max(1, intval($_GET['page'])) : 1;
+$offset = ($page - 1) * $per_page;
+
+$total_orders = $conn->query("SELECT COUNT(*) FROM orders")->fetch_row()[0];
+$total_pages = ceil($total_orders / $per_page);
+
+$orders = $conn->query("SELECT o.*, a.username AS account_name FROM orders o LEFT JOIN accounts a ON o.account_id = a.id ORDER BY o.id DESC LIMIT $per_page OFFSET $offset");
 
 // Đếm đơn thiếu tài khoản
 $missing_count = $conn->query("SELECT COUNT(*) as cnt FROM orders WHERE status='paid' AND account_id IS NULL")->fetch_assoc()['cnt'];
@@ -120,7 +128,7 @@ $missing_count = $conn->query("SELECT COUNT(*) as cnt FROM orders WHERE status='
 
 <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap" style="gap:8px;">
     <span class="text-muted" style="font-size:12px;">
-        Tổng: <?php echo $orders->num_rows; ?> đơn
+        Tổng: <?php echo number_format($total_orders); ?> đơn (Trang <?php echo $page; ?>/<?php echo $total_pages; ?>)
         <?php if ($missing_count > 0): ?>
             | <span class="text-danger font-weight-bold">⚠️ <?php echo $missing_count; ?> đơn thiếu tài khoản</span>
         <?php endif; ?>
@@ -140,7 +148,6 @@ $missing_count = $conn->query("SELECT COUNT(*) as cnt FROM orders WHERE status='
         </thead>
         <tbody>
         <?php 
-        $orders->data_seek(0); // Reset pointer
         while ($row = $orders->fetch_assoc()): 
             $is_missing = ($row['status'] === 'paid' && empty($row['account_id']));
         ?>
@@ -173,5 +180,31 @@ $missing_count = $conn->query("SELECT COUNT(*) as cnt FROM orders WHERE status='
         </tbody>
     </table>
 </div>
+
+<!-- Phân trang -->
+<?php if ($total_pages > 1): ?>
+<nav class="mt-3">
+    <ul class="pagination pagination-sm justify-content-center flex-wrap">
+        <?php if ($page > 1): ?>
+            <li class="page-item"><a class="page-link" href="?page=1">« Đầu</a></li>
+            <li class="page-item"><a class="page-link" href="?page=<?php echo $page - 1; ?>">‹ Trước</a></li>
+        <?php endif; ?>
+        <?php
+        $start_page = max(1, $page - 3);
+        $end_page = min($total_pages, $page + 3);
+        for ($i = $start_page; $i <= $end_page; $i++):
+        ?>
+            <li class="page-item <?php echo $i == $page ? 'active' : ''; ?>">
+                <a class="page-link" href="?page=<?php echo $i; ?>"><?php echo $i; ?></a>
+            </li>
+        <?php endfor; ?>
+        <?php if ($page < $total_pages): ?>
+            <li class="page-item"><a class="page-link" href="?page=<?php echo $page + 1; ?>">Sau ›</a></li>
+            <li class="page-item"><a class="page-link" href="?page=<?php echo $total_pages; ?>">Cuối »</a></li>
+        <?php endif; ?>
+    </ul>
+</nav>
+<?php endif; ?>
+
 </body>
 </html>

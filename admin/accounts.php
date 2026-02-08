@@ -121,7 +121,7 @@ if (isset($_GET['mark_ready'])) {
     exit; 
 }
 
-// SẮP XẾP THEO ƯU TIÊN:
+// SẮP XẾP THEO ƯU TIÊN (đã tối ưu - dùng LEFT JOIN thay subquery)
 // 1. Đang thuê + hết hạn (không có ghi chú)
 // 2. Đang thuê + còn hạn (không có ghi chú)
 // 3. Đang thuê + hết hạn + có ghi chú
@@ -130,31 +130,27 @@ if (isset($_GET['mark_ready'])) {
 // 6. Chờ thuê bình thường
 $accounts = $conn->query("
     SELECT a.*, 
-           (SELECT MAX(expires_at) FROM orders WHERE account_id = a.id AND status = 'paid') AS expires_at 
+           oe.max_expires AS expires_at 
     FROM accounts a 
+    LEFT JOIN (
+        SELECT account_id, MAX(expires_at) AS max_expires 
+        FROM orders 
+        WHERE status = 'paid' 
+        GROUP BY account_id
+    ) oe ON oe.account_id = a.id
     ORDER BY 
         -- Phân nhóm ưu tiên
         CASE 
-            -- 1. Đang thuê + hết hạn (không có ghi chú)
-            WHEN a.is_available = 0 AND (a.note IS NULL OR a.note = '') AND (SELECT MAX(expires_at) FROM orders WHERE account_id = a.id AND status = 'paid') <= NOW() THEN 0
-            -- 2. Đang thuê + còn hạn (không có ghi chú)
-            WHEN a.is_available = 0 AND (a.note IS NULL OR a.note = '') AND (SELECT MAX(expires_at) FROM orders WHERE account_id = a.id AND status = 'paid') > NOW() THEN 1
-            -- 3. Đang thuê + hết hạn + có ghi chú
-            WHEN a.is_available = 0 AND a.note IS NOT NULL AND a.note != '' AND (SELECT MAX(expires_at) FROM orders WHERE account_id = a.id AND status = 'paid') <= NOW() THEN 2
-            -- 4. Đang thuê + còn hạn + có ghi chú
-            WHEN a.is_available = 0 AND a.note IS NOT NULL AND a.note != '' AND (SELECT MAX(expires_at) FROM orders WHERE account_id = a.id AND status = 'paid') > NOW() THEN 3
-            -- 5. Đang thuê + có ghi chú (không có order)
+            WHEN a.is_available = 0 AND (a.note IS NULL OR a.note = '') AND oe.max_expires <= NOW() THEN 0
+            WHEN a.is_available = 0 AND (a.note IS NULL OR a.note = '') AND oe.max_expires > NOW() THEN 1
+            WHEN a.is_available = 0 AND a.note IS NOT NULL AND a.note != '' AND oe.max_expires <= NOW() THEN 2
+            WHEN a.is_available = 0 AND a.note IS NOT NULL AND a.note != '' AND oe.max_expires > NOW() THEN 3
             WHEN a.is_available = 0 AND a.note IS NOT NULL AND a.note != '' THEN 4
-            -- 6. Đang thuê bình thường (không có order)
             WHEN a.is_available = 0 THEN 5
-            -- 7. Chờ thuê + có ghi chú
             WHEN a.is_available = 1 AND a.note IS NOT NULL AND a.note != '' THEN 6
-            -- 8. Chờ thuê bình thường
             ELSE 7
         END ASC,
-        -- Trong cùng nhóm: sắp xếp theo thời gian hết hạn (sớm nhất lên trước)
-        (SELECT MAX(expires_at) FROM orders WHERE account_id = a.id AND status = 'paid') ASC,
-        -- Cuối cùng theo ID
+        oe.max_expires ASC,
         a.id ASC
 ");
 ?>
