@@ -10,6 +10,41 @@ if (!isset($_SESSION['admin_logged_in']) || $_SESSION['admin_logged_in'] !== tru
     exit;
 }
 
+// === AJAX HANDLERS (return JSON, no redirect) ===
+if (isset($_GET['ajax']) && $_GET['ajax'] === '1') {
+    header('Content-Type: application/json');
+    
+    // AJAX Toggle Status
+    if (isset($_GET['toggle_id'])) {
+        $id = intval($_GET['toggle_id']);
+        $acc = $conn->query("SELECT note, is_available FROM accounts WHERE id = $id")->fetch_assoc();
+        if ($acc && $acc['is_available'] == 0 && !empty($acc['note'])) {
+            echo json_encode(['ok' => false, 'msg' => 'Không thể chuyển TK có ghi chú sang Chờ thuê']);
+            exit;
+        }
+        if ($acc && $acc['is_available'] == 0) {
+            $conn->query("UPDATE accounts SET is_available = 1, password_changed = 0 WHERE id = $id");
+            echo json_encode(['ok' => true, 'new_status' => 1, 'label' => 'Chờ thuê']);
+        } else {
+            $conn->query("UPDATE accounts SET is_available = 0 WHERE id = $id");
+            echo json_encode(['ok' => true, 'new_status' => 0, 'label' => 'Đang thuê']);
+        }
+        exit;
+    }
+    
+    // AJAX Toggle Pass
+    if (isset($_GET['toggle_pass'])) {
+        $id = intval($_GET['toggle_pass']);
+        $conn->query("UPDATE accounts SET password_changed = 1 - password_changed WHERE id = $id");
+        $result = $conn->query("SELECT password_changed FROM accounts WHERE id = $id")->fetch_assoc();
+        echo json_encode(['ok' => true, 'password_changed' => (int)$result['password_changed']]);
+        exit;
+    }
+    
+    echo json_encode(['ok' => false, 'msg' => 'Unknown action']);
+    exit;
+}
+
 // Xử lý thêm tài khoản
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && ($_POST['action'] ?? '') === 'add') {
     $username = $conn->real_escape_string($_POST['username']);
@@ -285,8 +320,8 @@ $accounts = $conn->query("
                         </td>
                         <td><small><?php echo htmlspecialchars($row['note'] ?? ''); ?></small></td>
                         <td>
-                            <a href="?toggle_id=<?php echo $row['id']; ?>" class="btn btn-info btn-sm">Chuyển TT</a>
-                            <a href="?toggle_pass=<?php echo $row['id']; ?>" class="btn btn-sm <?php echo $row['password_changed'] ? 'btn-success' : 'btn-danger'; ?>">Đổi pass</a>
+                            <button onclick="toggleStatus(<?php echo $row['id']; ?>, this)" class="btn btn-info btn-sm">Chuyển TT</button>
+                            <button onclick="togglePass(<?php echo $row['id']; ?>, this)" class="btn btn-sm <?php echo $row['password_changed'] ? 'btn-success' : 'btn-danger'; ?>">Đổi pass</button>
                             <br><small class="text-muted">Ngày kích hoạt: <?php echo $row['renewal_date'] ? date('d/m/Y', strtotime($row['renewal_date'])) : '-'; ?></small>
                         </td>
                     </tr>
@@ -320,6 +355,50 @@ function updateWaitingTime() {
 }
 setInterval(updateWaitingTime, 1000);
 updateWaitingTime();
+
+// AJAX Toggle Status - cập nhật ngay không cần reload
+function toggleStatus(id, btn) {
+    btn.disabled = true;
+    btn.textContent = '...';
+    fetch('?ajax=1&toggle_id=' + id)
+        .then(r => r.json())
+        .then(data => {
+            if (data.ok) {
+                // Tìm badge trạng thái trong cùng hàng
+                const row = btn.closest('tr');
+                const badge = row.querySelector('.badge');
+                if (data.new_status === 1) {
+                    badge.className = 'badge badge-success';
+                    badge.textContent = 'Chờ thuê';
+                    row.className = '';
+                } else {
+                    badge.className = 'badge badge-danger';
+                    badge.textContent = 'Đang thuê';
+                }
+                btn.textContent = 'Chuyển TT';
+                btn.disabled = false;
+            } else {
+                alert(data.msg);
+                btn.textContent = 'Chuyển TT';
+                btn.disabled = false;
+            }
+        })
+        .catch(() => { btn.textContent = 'Chuyển TT'; btn.disabled = false; });
+}
+
+// AJAX Toggle Pass - cập nhật ngay
+function togglePass(id, btn) {
+    btn.disabled = true;
+    fetch('?ajax=1&toggle_pass=' + id)
+        .then(r => r.json())
+        .then(data => {
+            if (data.ok) {
+                btn.className = data.password_changed ? 'btn btn-success btn-sm' : 'btn btn-danger btn-sm';
+            }
+            btn.disabled = false;
+        })
+        .catch(() => { btn.disabled = false; });
+}
 </script>
 </body>
 </html>
