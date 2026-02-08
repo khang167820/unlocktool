@@ -636,7 +636,7 @@ $history_result = $stmt->get_result();
         }
         table { box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
         thead th { background-color: #1976D2; color: #ffffff; }
-        .badge-success { background-color: #28a745; color: #003d00; font-weight: 700; }
+        .badge-success { background-color: #28a745; color: #003d00; font-weight: 700; padding: 6px 12px; font-size: 0.875rem; display: inline-block; line-height: 1.5; border-radius: 4px; }
         .badge-danger { background-color: var(--danger); }
         
         /* Floating Contact Button */
