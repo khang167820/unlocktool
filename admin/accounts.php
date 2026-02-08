@@ -10,41 +10,6 @@ if (!isset($_SESSION['admin_logged_in']) || $_SESSION['admin_logged_in'] !== tru
     exit;
 }
 
-// === AJAX HANDLERS (return JSON, no redirect) ===
-if (isset($_GET['ajax']) && $_GET['ajax'] === '1') {
-    header('Content-Type: application/json');
-    
-    // AJAX Toggle Status
-    if (isset($_GET['toggle_id'])) {
-        $id = intval($_GET['toggle_id']);
-        $acc = $conn->query("SELECT note, is_available FROM accounts WHERE id = $id")->fetch_assoc();
-        if ($acc && $acc['is_available'] == 0 && !empty($acc['note'])) {
-            echo json_encode(['ok' => false, 'msg' => 'Không thể chuyển TK có ghi chú sang Chờ thuê']);
-            exit;
-        }
-        if ($acc && $acc['is_available'] == 0) {
-            $conn->query("UPDATE accounts SET is_available = 1, password_changed = 0 WHERE id = $id");
-            echo json_encode(['ok' => true, 'new_status' => 1, 'label' => 'Chờ thuê']);
-        } else {
-            $conn->query("UPDATE accounts SET is_available = 0 WHERE id = $id");
-            echo json_encode(['ok' => true, 'new_status' => 0, 'label' => 'Đang thuê']);
-        }
-        exit;
-    }
-    
-    // AJAX Toggle Pass
-    if (isset($_GET['toggle_pass'])) {
-        $id = intval($_GET['toggle_pass']);
-        $conn->query("UPDATE accounts SET password_changed = 1 - password_changed WHERE id = $id");
-        $result = $conn->query("SELECT password_changed FROM accounts WHERE id = $id")->fetch_assoc();
-        echo json_encode(['ok' => true, 'password_changed' => (int)$result['password_changed']]);
-        exit;
-    }
-    
-    echo json_encode(['ok' => false, 'msg' => 'Unknown action']);
-    exit;
-}
-
 // Xử lý thêm tài khoản
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && ($_POST['action'] ?? '') === 'add') {
     $username = $conn->real_escape_string($_POST['username']);
@@ -121,7 +86,7 @@ if (isset($_GET['mark_ready'])) {
     exit; 
 }
 
-// SẮP XẾP THEO ƯU TIÊN (đã tối ưu - dùng LEFT JOIN thay subquery)
+// SẮP XẾP THEO ƯU TIÊN:
 // 1. Đang thuê + hết hạn (không có ghi chú)
 // 2. Đang thuê + còn hạn (không có ghi chú)
 // 3. Đang thuê + hết hạn + có ghi chú
@@ -130,27 +95,31 @@ if (isset($_GET['mark_ready'])) {
 // 6. Chờ thuê bình thường
 $accounts = $conn->query("
     SELECT a.*, 
-           oe.max_expires AS expires_at 
+           (SELECT MAX(expires_at) FROM orders WHERE account_id = a.id AND status = 'paid') AS expires_at 
     FROM accounts a 
-    LEFT JOIN (
-        SELECT account_id, MAX(expires_at) AS max_expires 
-        FROM orders 
-        WHERE status = 'paid' 
-        GROUP BY account_id
-    ) oe ON oe.account_id = a.id
     ORDER BY 
         -- Phân nhóm ưu tiên
         CASE 
-            WHEN a.is_available = 0 AND (a.note IS NULL OR a.note = '') AND oe.max_expires <= NOW() THEN 0
-            WHEN a.is_available = 0 AND (a.note IS NULL OR a.note = '') AND oe.max_expires > NOW() THEN 1
-            WHEN a.is_available = 0 AND a.note IS NOT NULL AND a.note != '' AND oe.max_expires <= NOW() THEN 2
-            WHEN a.is_available = 0 AND a.note IS NOT NULL AND a.note != '' AND oe.max_expires > NOW() THEN 3
+            -- 1. Đang thuê + hết hạn (không có ghi chú)
+            WHEN a.is_available = 0 AND (a.note IS NULL OR a.note = '') AND (SELECT MAX(expires_at) FROM orders WHERE account_id = a.id AND status = 'paid') <= NOW() THEN 0
+            -- 2. Đang thuê + còn hạn (không có ghi chú)
+            WHEN a.is_available = 0 AND (a.note IS NULL OR a.note = '') AND (SELECT MAX(expires_at) FROM orders WHERE account_id = a.id AND status = 'paid') > NOW() THEN 1
+            -- 3. Đang thuê + hết hạn + có ghi chú
+            WHEN a.is_available = 0 AND a.note IS NOT NULL AND a.note != '' AND (SELECT MAX(expires_at) FROM orders WHERE account_id = a.id AND status = 'paid') <= NOW() THEN 2
+            -- 4. Đang thuê + còn hạn + có ghi chú
+            WHEN a.is_available = 0 AND a.note IS NOT NULL AND a.note != '' AND (SELECT MAX(expires_at) FROM orders WHERE account_id = a.id AND status = 'paid') > NOW() THEN 3
+            -- 5. Đang thuê + có ghi chú (không có order)
             WHEN a.is_available = 0 AND a.note IS NOT NULL AND a.note != '' THEN 4
+            -- 6. Đang thuê bình thường (không có order)
             WHEN a.is_available = 0 THEN 5
+            -- 7. Chờ thuê + có ghi chú
             WHEN a.is_available = 1 AND a.note IS NOT NULL AND a.note != '' THEN 6
+            -- 8. Chờ thuê bình thường
             ELSE 7
         END ASC,
-        oe.max_expires ASC,
+        -- Trong cùng nhóm: sắp xếp theo thời gian hết hạn (sớm nhất lên trước)
+        (SELECT MAX(expires_at) FROM orders WHERE account_id = a.id AND status = 'paid') ASC,
+        -- Cuối cùng theo ID
         a.id ASC
 ");
 ?>
@@ -351,8 +320,6 @@ function updateWaitingTime() {
 }
 setInterval(updateWaitingTime, 1000);
 updateWaitingTime();
-
-
 </script>
 </body>
 </html>

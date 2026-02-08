@@ -10,17 +10,13 @@ if (!isset($_SESSION['admin_logged_in']) || $_SESSION['admin_logged_in'] !== tru
     exit;
 }
 
-// Gộp tất cả thống kê thành 1 query duy nhất (thay vì 5 query riêng lẻ)
-$stats_row = $conn->query("
-    SELECT 
-        (SELECT COUNT(*) FROM accounts) AS accounts,
-        (SELECT COUNT(*) FROM prices) AS prices,
-        COUNT(*) AS total,
-        SUM(CASE WHEN status = 'paid' THEN 1 ELSE 0 END) AS paid,
-        SUM(CASE WHEN status = 'pending' THEN 1 ELSE 0 END) AS pending
-    FROM orders
-")->fetch_assoc();
-$stats = $stats_row;
+$stats = [
+    'accounts' => $conn->query("SELECT COUNT(*) FROM accounts")->fetch_row()[0],
+    'prices' => $conn->query("SELECT COUNT(*) FROM prices")->fetch_row()[0],
+    'total' => $conn->query("SELECT COUNT(*) FROM orders")->fetch_row()[0],
+    'paid' => $conn->query("SELECT COUNT(*) FROM orders WHERE status = 'paid'")->fetch_row()[0],
+    'pending' => $conn->query("SELECT COUNT(*) FROM orders WHERE status = 'pending'")->fetch_row()[0],
+];
 
 // Phân trang lịch sử thuê
 $per_page = 50;
