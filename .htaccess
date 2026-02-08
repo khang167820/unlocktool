@@ -77,6 +77,15 @@ AddDefaultCharset UTF-8
     </FilesMatch>
 </IfModule>
 
+# Tắt cache cho trang admin (tránh hiện data cũ sau khi thao tác)
+<IfModule mod_headers.c>
+    <If "%{REQUEST_URI} =~ m#^/admin/#">
+        Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
+        Header set Pragma "no-cache"
+        Header set Expires "Thu, 01 Jan 1970 00:00:00 GMT"
+    </If>
+</IfModule>
+
 # ========== END SPEED OPTIMIZATION ==========
 
 # Bảo vệ chống hotlinking (tùy chọn)

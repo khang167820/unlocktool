@@ -10,6 +10,11 @@ if (!isset($_SESSION['admin_logged_in']) || $_SESSION['admin_logged_in'] !== tru
     exit;
 }
 
+// Chống cache LiteSpeed/Hostinger
+header('Cache-Control: no-store, no-cache, must-revalidate, max-age=0');
+header('Pragma: no-cache');
+header('Expires: Thu, 01 Jan 1970 00:00:00 GMT');
+
 // Xử lý thêm tài khoản
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && ($_POST['action'] ?? '') === 'add') {
     $username = $conn->real_escape_string($_POST['username']);
@@ -26,7 +31,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && ($_POST['action'] ?? '') === 'add')
     // Nếu có ghi chú thì đặt is_available = 0 (không cho vào hàng chờ thuê)
     $is_available = empty($note) ? 1 : 0;
     $conn->query("INSERT INTO accounts (username, password, type, is_available, note, renewal_date, password_changed) VALUES ('$username', '$password', '$type', $is_available, '$note', $renewal_value, 0)");
-    header("Location: accounts.php?success=1");
+    header("Location: accounts.php?success=1&t=" . time());
     exit;
 }
 
@@ -43,7 +48,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && ($_POST['action'] ?? '') === 'bulk_
 if (isset($_GET['lock_noted'])) {
     $result = $conn->query("UPDATE accounts SET is_available = 0 WHERE note IS NOT NULL AND note != '' AND is_available = 1");
     $affected = $conn->affected_rows;
-    header("Location: accounts.php?locked=$affected");
+    header("Location: accounts.php?locked=$affected&t=" . time());
     exit;
 }
 
@@ -51,7 +56,7 @@ if (isset($_GET['lock_noted'])) {
 if (isset($_GET['reset_pass_all'])) {
     $result = $conn->query("UPDATE accounts SET password_changed = 0 WHERE is_available = 1");
     $affected = $conn->affected_rows;
-    header("Location: accounts.php?reset_pass=$affected");
+    header("Location: accounts.php?reset_pass=$affected&t=" . time());
     exit;
 }
 
@@ -61,7 +66,7 @@ if (isset($_GET['toggle_id'])) {
     $acc = $conn->query("SELECT note, is_available FROM accounts WHERE id = $id")->fetch_assoc();
     // Nếu đang thuê và có ghi chú => không cho chuyển sang chờ thuê
     if ($acc && $acc['is_available'] == 0 && !empty($acc['note'])) {
-        header("Location: accounts.php?blocked=note");
+        header("Location: accounts.php?blocked=note&t=" . time());
         exit;
     }
     // Khi chuyển sang Chờ thuê (is_available từ 0 -> 1), reset password_changed = 0
@@ -70,19 +75,19 @@ if (isset($_GET['toggle_id'])) {
     } else {
         $conn->query("UPDATE accounts SET is_available = 0 WHERE id = $id");
     }
-    header("Location: accounts.php"); 
+    header("Location: accounts.php?t=" . time()); 
     exit; 
 }
-if (isset($_GET['toggle_pass'])) { $conn->query("UPDATE accounts SET password_changed = 1 - password_changed WHERE id = " . intval($_GET['toggle_pass'])); header("Location: accounts.php"); exit; }
+if (isset($_GET['toggle_pass'])) { $conn->query("UPDATE accounts SET password_changed = 1 - password_changed WHERE id = " . intval($_GET['toggle_pass'])); header("Location: accounts.php?t=" . time()); exit; }
 if (isset($_GET['mark_ready'])) { 
     $id = intval($_GET['mark_ready']);
     $acc = $conn->query("SELECT note, is_available FROM accounts WHERE id = $id")->fetch_assoc();
     if ($acc && $acc['is_available'] == 0 && !empty($acc['note'])) {
-        header("Location: accounts.php?blocked=note");
+        header("Location: accounts.php?blocked=note&t=" . time());
         exit;
     }
     $conn->query("UPDATE accounts SET is_available = 1, password_changed = 0 WHERE id = $id"); 
-    header("Location: accounts.php"); 
+    header("Location: accounts.php?t=" . time()); 
     exit; 
 }
 
