@@ -136,7 +136,7 @@ $missing_count = $conn->query("SELECT COUNT(*) as cnt FROM orders WHERE status='
 <div class="table-responsive">
     <table class="table table-bordered table-hover bg-white">
         <thead class="thead-light">
-            <tr><th width="50">ID</th><th>Mã theo dõi</th><th>Gói</th><th>Số tiền</th><th width="70">Trạng thái</th><th>IP</th><th>Tài khoản</th><th width="100">Thao tác</th></tr>
+            <tr><th width="50">ID</th><th>Mã theo dõi</th><th>Gói</th><th>Số tiền</th><th width="70">Trạng thái</th><th>IP</th><th>Tài khoản</th><th>Thời gian</th><th width="100">Thao tác</th></tr>
         </thead>
         <tbody>
         <?php 
@@ -162,6 +162,7 @@ $missing_count = $conn->query("SELECT COUNT(*) as cnt FROM orders WHERE status='
                         <small><?php echo htmlspecialchars($row['account_name'] ?? '-'); ?></small>
                     <?php endif; ?>
                 </td>
+                <td><small><?php echo $row['created_at'] ? date('d/m H:i', strtotime($row['created_at'])) : '-'; ?></small></td>
                 <td>
                     <?php if ($is_missing): ?>
                         <a href="?assign_id=<?php echo $row['id']; ?>" class="btn btn-success btn-sm">Gán ACC</a>
