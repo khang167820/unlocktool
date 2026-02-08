@@ -146,10 +146,20 @@ $history_result = $stmt->get_result();
     </script>
     
     <link rel="icon" type="image/x-icon" href="/favicon.ico?v=1">
+    
+    <!-- Preconnect CDN origins -->
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+    <link rel="preconnect" href="https://code.jquery.com" crossorigin>
+    
+    <!-- CSS (critical) -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Font Awesome: preload + font-display swap -->
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"></noscript>
+    
+    <!-- JS moved to bottom of body to eliminate render-blocking -->
     <style>
         :root {
             --primary: #007bff;
@@ -1300,6 +1310,10 @@ document.querySelectorAll('.contact-item').forEach(item => {
     </div>
 </div>
 </main>
+
+<!-- JS loaded at bottom to avoid render-blocking -->
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
 
 <script>
 // Countdown timer (đếm ngược thời gian thuê còn lại)
