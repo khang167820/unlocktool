@@ -170,11 +170,17 @@ $history_result = $stmt->get_result();
             --danger: #dc3545;
         }
         body {
-            background: url('https://unlocktool.us/3b75cb84-2ea8-4a5f-bbee-3f3d32cc64693782334b80e7292aba0fde71e1fd9267.jpg') no-repeat center top fixed;
+            background: url('https://unlocktool.us/3b75cb84-2ea8-4a5f-bbee-3f3d32cc64693782334b80e7292aba0fde71e1fd9267.webp') no-repeat center top fixed;
             background-size: cover;
             min-height: 100vh;
             background-color: #f0f0f0;
             padding-top: 80px;
+        }
+        /* JPG fallback for browsers without WebP */
+        @supports not (background-image: url('data:image/webp;base64,UklGRh4AAABXRUJQVlA4TBEAAAAvAAAAAAfQ//73v/+BiTjU7QIA')) {
+            body {
+                background-image: url('https://unlocktool.us/3b75cb84-2ea8-4a5f-bbee-3f3d32cc64693782334b80e7292aba0fde71e1fd9267.jpg');
+            }
         }
         
         /* Header Styles */
@@ -655,19 +661,14 @@ $history_result = $stmt->get_result();
             color: white;
             font-size: 28px;
             animation: pulse-glow 2s ease-in-out infinite;
+            will-change: transform;
         }
         @keyframes pulse-glow {
             0%, 100% {
-                box-shadow: 0 8px 30px rgba(0, 168, 255, 0.5),
-                            0 0 20px rgba(0, 168, 255, 0.3),
-                            0 0 40px rgba(0, 168, 255, 0.2),
-                            inset 0 2px 10px rgba(255, 255, 255, 0.3);
+                transform: scale(1);
             }
             50% {
-                box-shadow: 0 8px 40px rgba(0, 168, 255, 0.7),
-                            0 0 30px rgba(0, 168, 255, 0.5),
-                            0 0 60px rgba(0, 168, 255, 0.3),
-                            inset 0 2px 10px rgba(255, 255, 255, 0.4);
+                transform: scale(1.08);
             }
         }
         .floating-contact-btn:hover {
