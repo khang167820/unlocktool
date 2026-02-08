@@ -635,9 +635,9 @@ $history_result = $stmt->get_result();
             box-shadow: 0 8px 24px rgba(0,0,0,0.1);
         }
         table { box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
-        thead th { background-color: #1976D2; color: #ffffff; }
-        .badge-success { background-color: #28a745; color: #003d00; font-weight: 700; padding: 6px 12px; font-size: 0.875rem; display: inline-block; line-height: 1.5; border-radius: 4px; }
-        .badge-danger { background-color: var(--danger); }
+        thead th { background-color: #4285f4; color: #ffffff; }
+        .badge-success { background-color: #28a745; color: #ffffff; font-weight: 700; padding: 6px 16px; font-size: 0.875rem; display: inline-block; line-height: 1.5; border-radius: 20px; }
+        .badge-danger { background-color: var(--danger); padding: 6px 16px; font-size: 0.875rem; border-radius: 20px; }
         
         /* Floating Contact Button */
         .floating-contact-btn {
@@ -847,8 +847,8 @@ $history_result = $stmt->get_result();
         /* UI Components */
         .pill-link { display: inline-flex; align-items: center; justify-content: center; padding: 10px 18px; border-radius: 999px; text-decoration: none; font-weight: 700; border: 1px solid; min-width: 160px; box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12); transition: all 0.2s; }
         .pill-link:hover { text-decoration: none; transform: translateY(-1px); box-shadow: 0 10px 22px rgba(0, 0, 0, 0.18); }
-        .btn-primary { background-color: #1976D2; border-color: #1565C0; color: #ffffff; }
-        .btn-primary:hover { background-color: #1565C0; border-color: #0D47A1; color: #ffffff; }
+        .btn-primary { background-color: #4285f4; border-color: #3b78e7; color: #ffffff; border-radius: 20px; padding: 6px 16px; }
+        .btn-primary:hover { background-color: #3b78e7; border-color: #3367d6; color: #ffffff; }
         
         /* Griffin-Unlocker - Purple */
         .pill-link.griffin { background: linear-gradient(145deg, #e8d5ff, #d4b3ff); color: #5a1a8a; border-color: #b894e6; box-shadow: 0 6px 16px rgba(138, 43, 226, 0.2); }
@@ -918,18 +918,16 @@ $history_result = $stmt->get_result();
         }
     /* Blinking animation for rent button */
 .btn-blink {
-    animation: blink-animation 1.5s ease-in-out infinite;
+    animation: pulse-btn 2s ease-in-out infinite;
     font-weight: bold;
-    will-change: opacity, transform;
+    will-change: transform;
 }
-@keyframes blink-animation {
+@keyframes pulse-btn {
     0%, 100% { 
-        opacity: 1;
         transform: scale(1);
     }
     50% { 
-        opacity: 0.7;
-        transform: scale(1.02);
+        transform: scale(1.1);
     }
 }
 </style>
@@ -1203,7 +1201,7 @@ document.querySelectorAll('.contact-item').forEach(item => {
                     <td><?php echo htmlspecialchars($row['type'] ?? 'Không rõ'); ?></td>
                     <td>
                         <?php if ($row['is_available']): ?>
-                            <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#rentModal" data-account-id="<?php echo $row['id']; ?>">Thuê ngay</button>
+                            <button type="button" class="btn btn-primary btn-sm btn-blink" data-toggle="modal" data-target="#rentModal" data-account-id="<?php echo $row['id']; ?>">Thuê ngay</button>
                         <?php else: ?>
                             <button class="btn btn-secondary btn-sm" disabled>Đang thuê</button>
                         <?php endif; ?>
