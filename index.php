@@ -3,8 +3,8 @@ require __DIR__ . '/rate_limit.php';
 require 'config.php';
 require 'helpers.php';
 
-// Cache ngắn 30s để trang chủ cập nhật trạng thái TK nhanh
-header('Cache-Control: public, max-age=30, s-maxage=30');
+// Cache ngắn 5s để trang chủ cập nhật trạng thái TK nhanh
+header('Cache-Control: public, max-age=5, s-maxage=5');
 header('Pragma: no-cache');
 
 // Tự động cập nhật trạng thái: Nếu hết hạn thuê thì chuyển về Chờ thuê
