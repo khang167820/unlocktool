@@ -1004,7 +1004,7 @@ $history_result = $stmt->get_result();
                 </div>
             </div>
             
-            <button class="mobile-menu-toggle" id="mobileMenuToggle">
+            <button class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="Mở menu di động">
                 <i class="fas fa-bars"></i>
             </button>
         </div>
@@ -1084,7 +1084,7 @@ document.querySelectorAll('.contact-item').forEach(item => {
     <div class="floating-contact-label">
         <i class="fas fa-headset"></i> Liên hệ hỗ trợ
     </div>
-    <button class="floating-contact-btn" id="floatingContactBtn">
+    <button class="floating-contact-btn" id="floatingContactBtn" aria-label="Liên hệ hỗ trợ">
         <i class="fas fa-headset"></i>
     </button>
     <div class="floating-contact-dropdown" id="floatingContactDropdown">
@@ -1140,6 +1140,7 @@ document.querySelectorAll('.contact-item').forEach(item => {
     </div>
 </div>
 
+<main role="main">
 <div class="overlay">
     <!-- Header Section -->
     <div class="text-center mb-3">
@@ -1165,13 +1166,13 @@ document.querySelectorAll('.contact-item').forEach(item => {
         <table class="table table-bordered text-center">
             <thead>
                 <tr>
-                    <th>ID</th>
-                    <th>Loại</th>
-                    <th>Thuê</th>
-                    <th>Trạng thái</th>
-                    <th>Tài khoản</th>
-                    <th>Mật khẩu</th>
-                    <th>Thời gian còn lại</th>
+                    <th scope="col">ID</th>
+                    <th scope="col">Loại</th>
+                    <th scope="col">Thuê</th>
+                    <th scope="col">Trạng thái</th>
+                    <th scope="col">Tài khoản</th>
+                    <th scope="col">Mật khẩu</th>
+                    <th scope="col">Thời gian còn lại</th>
                 </tr>
             </thead>
             <tbody>
@@ -1296,6 +1297,7 @@ document.querySelectorAll('.contact-item').forEach(item => {
         </div>
     </div>
 </div>
+</main>
 
 <script>
 // Countdown timer (đếm ngược thời gian thuê còn lại)
