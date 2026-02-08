@@ -72,9 +72,10 @@ AddDefaultCharset UTF-8
     <FilesMatch "\.(ico|jpg|jpeg|png|gif|webp|css|js)$">
         Header set Cache-Control "max-age=31536000, public"
     </FilesMatch>
-    <FilesMatch "\.(html|php)$">
+    <FilesMatch "\.(html)$">
         Header set Cache-Control "max-age=3600, public"
     </FilesMatch>
+    <!-- PHP files: cache controlled by PHP headers, not htaccess -->
 </IfModule>
 
 # Tắt cache cho trang admin (tránh hiện data cũ sau khi thao tác)

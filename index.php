@@ -3,9 +3,10 @@ require __DIR__ . '/rate_limit.php';
 require 'config.php';
 require 'helpers.php';
 
-// Cache ngắn 5s để trang chủ cập nhật trạng thái TK nhanh
-header('Cache-Control: public, max-age=5, s-maxage=5');
+// Tắt cache hoàn toàn để trang chủ luôn cập nhật trạng thái TK mới nhất
+header('Cache-Control: no-store, no-cache, must-revalidate, max-age=0');
 header('Pragma: no-cache');
+header('Expires: Thu, 01 Jan 1970 00:00:00 GMT');
 
 // Tự động cập nhật trạng thái: Nếu hết hạn thuê thì chuyển về Chờ thuê
 // ĐÃ TẮT - Admin phải chuyển tài khoản thủ công để tránh lỗi password_changed
