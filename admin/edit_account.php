@@ -10,6 +10,11 @@ if (!isset($_SESSION['admin_logged_in']) || $_SESSION['admin_logged_in'] !== tru
     exit;
 }
 
+// Chống cache LiteSpeed/Hostinger
+header('Cache-Control: no-store, no-cache, must-revalidate, max-age=0');
+header('Pragma: no-cache');
+header('Expires: Thu, 01 Jan 1970 00:00:00 GMT');
+
 $account = null;
 if (isset($_GET['id'])) $account = $conn->query("SELECT * FROM accounts WHERE id = " . intval($_GET['id']))->fetch_assoc();
 elseif ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['id']) && !isset($_POST['action'])) $account = $conn->query("SELECT * FROM accounts WHERE id = " . intval($_POST['id']))->fetch_assoc();
@@ -20,15 +25,23 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action'], $_POST['upd
     $note_content = $conn->real_escape_string($_POST['note'] ?? '');
     $note_date = $conn->real_escape_string($_POST['note_date'] ?? '');
     $conn->query("UPDATE accounts SET password='".$conn->real_escape_string($_POST['password'])."', type='".$conn->real_escape_string($_POST['type'])."', note='".$note_content."', renewal_date=".($note_date ? "'$note_date'" : "NULL")." WHERE id=$id");
-    if ($_POST['action'] === 'ready') $conn->query("UPDATE accounts SET is_available=1, password_changed=0 WHERE id=$id");
+    if ($_POST['action'] === 'ready') {
+        // Kiểm tra ghi chú: không cho chuyển chờ thuê nếu có ghi chú
+        $check = $conn->query("SELECT note FROM accounts WHERE id=$id")->fetch_assoc();
+        if ($check && !empty($check['note'])) {
+            header("Location: edit_account.php?id=$id&blocked=note&t=" . time()); exit;
+        }
+        $conn->query("UPDATE accounts SET is_available=1, password_changed=0 WHERE id=$id");
+    }
     elseif ($_POST['action'] === 'pass_changed') $conn->query("UPDATE accounts SET password_changed=1 WHERE id=$id");
-    header("Location: accounts.php"); exit;
+    header("Location: accounts.php?t=" . time()); exit;
 }
 
-if (isset($_GET['delete'])) { $conn->query("DELETE FROM accounts WHERE id = " . intval($_GET['delete'])); header("Location: accounts.php"); exit; }
-if (isset($_GET['reset_time'])) { $conn->query("UPDATE orders SET expires_at = NOW() WHERE account_id = " . intval($_GET['reset_time']) . " AND status = 'paid'"); header("Location: accounts.php"); exit; }
+if (isset($_GET['delete'])) { $conn->query("DELETE FROM accounts WHERE id = " . intval($_GET['delete'])); header("Location: accounts.php?t=" . time()); exit; }
+if (isset($_GET['reset_time'])) { $conn->query("UPDATE orders SET expires_at = NOW() WHERE account_id = " . intval($_GET['reset_time']) . " AND status = 'paid'"); header("Location: accounts.php?t=" . time()); exit; }
 
 if (!$account) die("Không tìm thấy tài khoản.");
+$blocked_msg = isset($_GET['blocked']) ? 'Không thể chuyển "Chờ thuê" vì tài khoản có ghi chú!' : '';
 ?>
 <!DOCTYPE html>
 <html lang="vi">
@@ -48,6 +61,9 @@ if (!$account) die("Không tìm thấy tài khoản.");
 </head>
 <body>
 <h2>✏️ Sửa tài khoản #<?php echo $account['id']; ?></h2>
+<?php if ($blocked_msg): ?>
+    <div class="alert alert-danger" style="max-width:600px;"><?php echo $blocked_msg; ?></div>
+<?php endif; ?>
 <?php include 'includes/nav.php'; ?>
 
 <form method="post" class="edit-form">
