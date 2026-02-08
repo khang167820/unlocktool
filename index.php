@@ -161,6 +161,9 @@ $history_result = $stmt->get_result();
     
     <!-- JS moved to bottom of body to eliminate render-blocking -->
     <style>
+        /* Font-display swap for web fonts */
+        @font-face { font-family: 'Font Awesome 6 Free'; font-display: swap; }
+        @font-face { font-family: 'Font Awesome 6 Brands'; font-display: swap; }
         :root {
             --primary: #007bff;
             --success: #28a745;
@@ -837,7 +840,7 @@ $history_result = $stmt->get_result();
         .package-option { padding: 12px; border: 1px solid #ccc; border-radius: 6px; margin-bottom: 12px; cursor: pointer; transition: background-color 0.2s; font-size: 1.1rem; font-weight: 600; color: #333; display: flex; align-items: center; justify-content: space-between; }
         .package-option:hover { background-color: #f8f9fa; }
         .package-option.selected { background-color: #e9ecef; border-color: var(--primary); color: var(--primary); }
-        .hot-label { font-size: 1rem; color: #ff4500; margin-left: 10px; animation: blink 1.5s infinite; }
+        .hot-label { font-size: 1rem; color: #ff4500; margin-left: 10px; animation: blink 1.5s infinite; will-change: opacity; }
         @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
         
         /* UI Components */
@@ -916,14 +919,16 @@ $history_result = $stmt->get_result();
 .btn-blink {
     animation: blink-animation 1.5s ease-in-out infinite;
     font-weight: bold;
+    will-change: opacity, transform;
 }
 @keyframes blink-animation {
     0%, 100% { 
         opacity: 1;
+        transform: scale(1);
     }
     50% { 
         opacity: 0.7;
-        box-shadow: 0 0 8px rgba(0,123,255,0.5);
+        transform: scale(1.02);
     }
 }
 </style>
@@ -1312,7 +1317,7 @@ document.querySelectorAll('.contact-item').forEach(item => {
 </main>
 
 <!-- JS loaded at bottom to avoid render-blocking -->
-<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
 
 <script>
