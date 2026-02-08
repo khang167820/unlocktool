@@ -616,8 +616,8 @@ $history_result = $stmt->get_result();
             box-shadow: 0 8px 24px rgba(0,0,0,0.1);
         }
         table { box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
-        thead th { background-color: var(--primary); color: white; }
-        .badge-success { background-color: var(--success); }
+        thead th { background-color: #0056b3; color: #ffffff; }
+        .badge-success { background-color: #1e7e34; color: #ffffff; }
         .badge-danger { background-color: var(--danger); }
         
         /* Floating Contact Button */
@@ -833,6 +833,8 @@ $history_result = $stmt->get_result();
         /* UI Components */
         .pill-link { display: inline-flex; align-items: center; justify-content: center; padding: 10px 18px; border-radius: 999px; text-decoration: none; font-weight: 700; border: 1px solid; min-width: 160px; box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12); transition: all 0.2s; }
         .pill-link:hover { text-decoration: none; transform: translateY(-1px); box-shadow: 0 10px 22px rgba(0, 0, 0, 0.18); }
+        .btn-primary { background-color: #0056b3; border-color: #004494; color: #ffffff; }
+        .btn-primary:hover { background-color: #004494; border-color: #003366; color: #ffffff; }
         
         /* Griffin-Unlocker - Purple */
         .pill-link.griffin { background: linear-gradient(145deg, #e8d5ff, #d4b3ff); color: #5a1a8a; border-color: #b894e6; box-shadow: 0 6px 16px rgba(138, 43, 226, 0.2); }
