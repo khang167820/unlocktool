@@ -1,6 +1,6 @@
-﻿<?php
-$page_title = "Flash Firmware Samsung Bằng Odin 2026 - Hướng Dẫn Chi Tiết | UnlockTool";
-$page_description = "Hướng dẫn flash firmware Samsung bằng Odin mới nhất 2026. Cứu máy brick, downgrade, nâng cấp ROM. Tải Odin và firmware Samsung - Thuê UnlockTool 8.000đ/6h";
+<?php
+$page_title = "Flash Firmware Samsung B?ng Odin 2026 - Hu?ng D?n Chi Ti?t | UnlockTool";
+$page_description = "Hu?ng d?n flash firmware Samsung b?ng Odin m?i nh?t 2026. C?u m�y brick, downgrade, n�ng c?p ROM. T?i Odin v� firmware Samsung - Thu� UnlockTool 8.000d/6h";
 $page_keywords = "flash samsung odin, odin samsung, flash firmware samsung, samsung firmware download, odin download, flash rom samsung";
 $canonical_url = "https://www.unlocktool.us/articles/112-flash-firmware-samsung-odin.php";
 ?>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/112-flash-firmware-samsung-
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/112-flash-firmware-samsung-
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hướng dẫn kỹ thuật">
+    <meta property="article:section" content="Hu?ng d?n k? thu?t">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="Mở khóa điện thoại">
+    <meta property="article:tag" content="M? kh�a di?n tho?i">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -50,19 +50,19 @@ $canonical_url = "https://www.unlocktool.us/articles/112-flash-firmware-samsung-
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"HowTo","name":"Flash Firmware Samsung Bằng Odin","description":"Hướng dẫn flash firmware Samsung sử dụng Odin3","step":[
-        {"@type":"HowToStep","name":"Tải Odin và Firmware","text":"Tải Odin3 mới nhất và firmware phù hợp với model Samsung"},
-        {"@type":"HowToStep","name":"Vào Download Mode","text":"Tắt máy, nhấn giữ Vol Down + Power khi cắm cáp"},
-        {"@type":"HowToStep","name":"Mở Odin","text":"Chạy Odin3.exe, kiểm tra cổng COM nhận diện máy"},
-        {"@type":"HowToStep","name":"Load firmware","text":"Bấm BL, AP, CP, CSC để load các file firmware tương ứng"},
-        {"@type":"HowToStep","name":"Flash","text":"Click Start và chờ PASS"}
+    {"@context":"https://schema.org","@type":"HowTo","name":"Flash Firmware Samsung B?ng Odin","description":"Hu?ng d?n flash firmware Samsung s? d?ng Odin3","step":[
+        {"@type":"HowToStep","name":"T?i Odin v� Firmware","text":"T?i Odin3 m?i nh?t v� firmware ph� h?p v?i model Samsung"},
+        {"@type":"HowToStep","name":"V�o Download Mode","text":"T?t m�y, nh?n gi? Vol Down + Power khi c?m c�p"},
+        {"@type":"HowToStep","name":"M? Odin","text":"Ch?y Odin3.exe, ki?m tra c?ng COM nh?n di?n m�y"},
+        {"@type":"HowToStep","name":"Load firmware","text":"B?m BL, AP, CP, CSC d? load c�c file firmware tuong ?ng"},
+        {"@type":"HowToStep","name":"Flash","text":"Click Start v� ch? PASS"}
     ]}
     </script>
     
@@ -117,44 +117,14 @@ $canonical_url = "https://www.unlocktool.us/articles/112-flash-firmware-samsung-
         }
     }
     </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Dịch vụ mở khóa điện thoại",
-        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.9",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "70"
-        }
-    }
-    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -164,10 +134,10 @@ $canonical_url = "https://www.unlocktool.us/articles/112-flash-firmware-samsung-
         <div class="row align-items-center">
             <div class="col-lg-8">
                 <h1><i class="fas fa-download me-3"></i><?php echo $page_title; ?></h1>
-                <p class="lead mb-4">Hướng dẫn chi tiết flash firmware Samsung bằng Odin3. Cứu máy brick, downgrade, nâng cấp ROM an toàn!</p>
+                <p class="lead mb-4">Hu?ng d?n chi ti?t flash firmware Samsung b?ng Odin3. C?u m�y brick, downgrade, n�ng c?p ROM an to�n!</p>
                 <div class="d-flex flex-wrap gap-3">
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê UnlockTool 8K/6H</a>
-                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>Hỗ Trợ Kỹ Thuật</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thu� UnlockTool 8K/6H</a>
+                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>H? Tr? K? Thu?t</a>
                 </div>
             </div>
             <div class="col-lg-4 text-center mt-4 mt-lg-0">
@@ -183,123 +153,123 @@ $canonical_url = "https://www.unlocktool.us/articles/112-flash-firmware-samsung-
         <div class="col-lg-8">
             
             <div class="toc-box">
-                <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
+                <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
                 <ul class="list-unstyled">
-                    <li><a href="#odin-la-gi">1. Odin là gì?</a></li>
-                    <li><a href="#khi-nao-flash">2. Khi nào cần flash firmware?</a></li>
-                    <li><a href="#chuan-bi">3. Chuẩn bị</a></li>
-                    <li><a href="#giao-dien-odin">4. Giao diện Odin</a></li>
-                    <li><a href="#huong-dan">5. Hướng dẫn flash chi tiết</a></li>
-                    <li><a href="#loi-thuong-gap">6. Lỗi thường gặp</a></li>
+                    <li><a href="#odin-la-gi">1. Odin l� g�?</a></li>
+                    <li><a href="#khi-nao-flash">2. Khi n�o c?n flash firmware?</a></li>
+                    <li><a href="#chuan-bi">3. Chu?n b?</a></li>
+                    <li><a href="#giao-dien-odin">4. Giao di?n Odin</a></li>
+                    <li><a href="#huong-dan">5. Hu?ng d?n flash chi ti?t</a></li>
+                    <li><a href="#loi-thuong-gap">6. L?i thu?ng g?p</a></li>
                     <li><a href="#faq">7. FAQ</a></li>
                 </ul>
             </div>
 
             <section id="odin-la-gi">
-                <h2><i class="fas fa-info-circle me-2"></i>1. Odin Là Gì?</h2>
+                <h2><i class="fas fa-info-circle me-2"></i>1. Odin L� G�?</h2>
                 
-                <p><strong>Odin</strong> là công cụ flash firmware chính thức của Samsung dành cho kỹ thuật viên. Tên "Odin" lấy từ vị thần tối cao trong thần thoại Bắc Âu.</p>
+                <p><strong>Odin</strong> l� c�ng c? flash firmware ch�nh th?c c?a Samsung d�nh cho k? thu?t vi�n. T�n "Odin" l?y t? v? th?n t?i cao trong th?n tho?i B?c �u.</p>
 
-                <h3>Tính năng của Odin:</h3>
+                <h3>T�nh nang c?a Odin:</h3>
                 <ul>
-                    <li><strong>Flash firmware:</strong> Cài lại hệ điều hành Samsung</li>
-                    <li><strong>Cứu máy brick:</strong> Phục hồi máy bị lỗi phần mềm</li>
-                    <li><strong>Downgrade:</strong> Hạ cấp firmware xuống phiên bản thấp hơn</li>
-                    <li><strong>Upgrade:</strong> Nâng cấp firmware thủ công</li>
-                    <li><strong>Flash Recovery/Kernel:</strong> Cài custom recovery, kernel</li>
+                    <li><strong>Flash firmware:</strong> C�i l?i h? di?u h�nh Samsung</li>
+                    <li><strong>C?u m�y brick:</strong> Ph?c h?i m�y b? l?i ph?n m?m</li>
+                    <li><strong>Downgrade:</strong> H? c?p firmware xu?ng phi�n b?n th?p hon</li>
+                    <li><strong>Upgrade:</strong> N�ng c?p firmware th? c�ng</li>
+                    <li><strong>Flash Recovery/Kernel:</strong> C�i custom recovery, kernel</li>
                 </ul>
 
-                <h3>Các phiên bản Odin:</h3>
+                <h3>C�c phi�n b?n Odin:</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Phiên bản</th>
-                            <th>Mô tả</th>
+                            <th>Phi�n b?n</th>
+                            <th>M� t?</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td>Odin3 v3.14.4</td>
-                            <td>Phiên bản phổ biến, ổn định</td>
+                            <td>Phi�n b?n ph? bi?n, ?n d?nh</td>
                         </tr>
                         <tr>
                             <td>Odin3 v3.15.1</td>
-                            <td>Phiên bản mới hơn, hỗ trợ model mới</td>
+                            <td>Phi�n b?n m?i hon, h? tr? model m?i</td>
                         </tr>
                         <tr>
                             <td>Odin4</td>
-                            <td>Phiên bản mới nhất (chưa phổ biến)</td>
+                            <td>Phi�n b?n m?i nh?t (chua ph? bi?n)</td>
                         </tr>
                     </tbody>
                 </table>
             </section>
 
             <section id="khi-nao-flash">
-                <h2><i class="fas fa-question-circle me-2"></i>2. Khi Nào Cần Flash Firmware?</h2>
+                <h2><i class="fas fa-question-circle me-2"></i>2. Khi N�o C?n Flash Firmware?</h2>
                 
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-bug text-danger me-2"></i>Máy bị brick</h5>
-                            <p class="small mb-0">Máy không khởi động được, treo logo, bootloop</p>
+                            <h5><i class="fas fa-bug text-danger me-2"></i>M�y b? brick</h5>
+                            <p class="small mb-0">M�y kh�ng kh?i d?ng du?c, treo logo, bootloop</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-sync text-primary me-2"></i>Muốn cài ROM gốc</h5>
-                            <p class="small mb-0">Trở về firmware chính hãng sau khi dùng custom ROM</p>
+                            <h5><i class="fas fa-sync text-primary me-2"></i>Mu?n c�i ROM g?c</h5>
+                            <p class="small mb-0">Tr? v? firmware ch�nh h�ng sau khi d�ng custom ROM</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-arrow-down text-warning me-2"></i>Downgrade</h5>
-                            <p class="small mb-0">Hạ cấp xuống phiên bản firmware cũ hơn</p>
+                            <p class="small mb-0">H? c?p xu?ng phi�n b?n firmware cu hon</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-unlock text-success me-2"></i>Bypass/Unlock</h5>
-                            <p class="small mb-0">Flash firmware để hỗ trợ bypass FRP, unlock...</p>
+                            <p class="small mb-0">Flash firmware d? h? tr? bypass FRP, unlock...</p>
                         </div>
                     </div>
                 </div>
             </section>
 
             <section id="chuan-bi">
-                <h2><i class="fas fa-tools me-2"></i>3. Chuẩn Bị</h2>
+                <h2><i class="fas fa-tools me-2"></i>3. Chu?n B?</h2>
                 
-                <h3>Phần mềm cần tải:</h3>
+                <h3>Ph?n m?m c?n t?i:</h3>
                 <ul>
-                    <li><strong>Odin3:</strong> <a href="https://file.unlocktool.net/page/tool---android---pc/tool-android---pc" target="_blank">Tải tại đây</a></li>
-                    <li><strong>Samsung USB Driver:</strong> <a href="https://file.unlocktool.net/page/all-driver" target="_blank">Tải tại đây</a></li>
-                    <li><strong>Firmware Samsung:</strong> Tải từ SamFirm, Frija, hoặc các nguồn uy tín</li>
+                    <li><strong>Odin3:</strong> <a href="https://file.unlocktool.net/page/tool---android---pc/tool-android---pc" target="_blank">T?i t?i d�y</a></li>
+                    <li><strong>Samsung USB Driver:</strong> <a href="https://file.unlocktool.net/page/all-driver" target="_blank">T?i t?i d�y</a></li>
+                    <li><strong>Firmware Samsung:</strong> T?i t? SamFirm, Frija, ho?c c�c ngu?n uy t�n</li>
                 </ul>
 
-                <h3>Tải firmware Samsung:</h3>
-                <p>Bạn cần tải đúng firmware cho model và khu vực (CSC) của máy. Các nguồn tải phổ biến:</p>
+                <h3>T?i firmware Samsung:</h3>
+                <p>B?n c?n t?i d�ng firmware cho model v� khu v?c (CSC) c?a m�y. C�c ngu?n t?i ph? bi?n:</p>
                 <ul>
-                    <li><strong>SamFirm:</strong> Tool tải firmware từ server Samsung</li>
-                    <li><strong>Frija:</strong> Tool tương tự SamFirm</li>
-                    <li><strong>SamMobile:</strong> Website tải firmware (cần đăng ký)</li>
+                    <li><strong>SamFirm:</strong> Tool t?i firmware t? server Samsung</li>
+                    <li><strong>Frija:</strong> Tool tuong t? SamFirm</li>
+                    <li><strong>SamMobile:</strong> Website t?i firmware (c?n dang k�)</li>
                 </ul>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Quan trọng!</h5>
-                    <p class="mb-0">Tải đúng firmware cho model máy. Xem model trong Settings → About Phone → Model Number. Ví dụ: SM-A125F, SM-G991B...</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Quan tr?ng!</h5>
+                    <p class="mb-0">T?i d�ng firmware cho model m�y. Xem model trong Settings ? About Phone ? Model Number. V� d?: SM-A125F, SM-G991B...</p>
                 </div>
             </section>
 
             <section id="giao-dien-odin">
-                <h2><i class="fas fa-desktop me-2"></i>4. Giao Diện Odin</h2>
+                <h2><i class="fas fa-desktop me-2"></i>4. Giao Di?n Odin</h2>
                 
-                <p>Odin có giao diện đơn giản với các thành phần chính:</p>
+                <p>Odin c� giao di?n don gi?n v?i c�c th�nh ph?n ch�nh:</p>
 
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Nút</th>
-                            <th>Mô tả</th>
-                            <th>File tương ứng</th>
+                            <th>N�t</th>
+                            <th>M� t?</th>
+                            <th>File tuong ?ng</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -321,7 +291,7 @@ $canonical_url = "https://www.unlocktool.us/articles/112-flash-firmware-samsung-
                         <tr>
                             <td><strong>CSC</strong></td>
                             <td>Consumer Software Customization</td>
-                            <td>CSC_xxxxx.tar.md5 hoặc HOME_CSC_xxxxx.tar.md5</td>
+                            <td>CSC_xxxxx.tar.md5 ho?c HOME_CSC_xxxxx.tar.md5</td>
                         </tr>
                     </tbody>
                 </table>
@@ -329,80 +299,80 @@ $canonical_url = "https://www.unlocktool.us/articles/112-flash-firmware-samsung-
                 <div class="info-box">
                     <h5><i class="fas fa-info-circle me-2"></i>CSC vs HOME_CSC</h5>
                     <ul class="mb-0">
-                        <li><strong>CSC_xxx:</strong> Factory reset, xóa toàn bộ dữ liệu</li>
-                        <li><strong>HOME_CSC_xxx:</strong> Giữ lại dữ liệu (nếu có thể)</li>
+                        <li><strong>CSC_xxx:</strong> Factory reset, x�a to�n b? d? li?u</li>
+                        <li><strong>HOME_CSC_xxx:</strong> Gi? l?i d? li?u (n?u c� th?)</li>
                     </ul>
                 </div>
             </section>
 
             <section id="huong-dan">
-                <h2><i class="fas fa-play-circle me-2"></i>5. Hướng Dẫn Flash Chi Tiết</h2>
+                <h2><i class="fas fa-play-circle me-2"></i>5. Hu?ng D?n Flash Chi Ti?t</h2>
                 
                 <div class="step-box">
                     <span class="step-number">1</span>
-                    <h5>Giải nén firmware</h5>
-                    <p class="mb-0">Giải nén file firmware đã tải. Bạn sẽ thấy các file: BL, AP, CP, CSC (hoặc HOME_CSC)</p>
+                    <h5>Gi?i n�n firmware</h5>
+                    <p class="mb-0">Gi?i n�n file firmware d� t?i. B?n s? th?y c�c file: BL, AP, CP, CSC (ho?c HOME_CSC)</p>
                 </div>
 
                 <div class="step-box">
                     <span class="step-number">2</span>
-                    <h5>Cài driver Samsung</h5>
-                    <p class="mb-0">Cài Samsung USB Driver và khởi động lại máy tính</p>
+                    <h5>C�i driver Samsung</h5>
+                    <p class="mb-0">C�i Samsung USB Driver v� kh?i d?ng l?i m�y t�nh</p>
                 </div>
 
                 <div class="step-box">
                     <span class="step-number">3</span>
-                    <h5>Đưa Samsung vào Download Mode</h5>
-                    <p class="mb-0">Tắt máy → Nhấn giữ Vol Down + Power khi cắm cáp USB → Nhấn Vol Up để xác nhận</p>
+                    <h5>�ua Samsung v�o Download Mode</h5>
+                    <p class="mb-0">T?t m�y ? Nh?n gi? Vol Down + Power khi c?m c�p USB ? Nh?n Vol Up d? x�c nh?n</p>
                 </div>
 
                 <div class="step-box">
                     <span class="step-number">4</span>
-                    <h5>Mở Odin</h5>
-                    <p class="mb-0">Chạy Odin3.exe với quyền Administrator. Kiểm tra ô "ID:COM" có hiện số port (máy được nhận)</p>
+                    <h5>M? Odin</h5>
+                    <p class="mb-0">Ch?y Odin3.exe v?i quy?n Administrator. Ki?m tra � "ID:COM" c� hi?n s? port (m�y du?c nh?n)</p>
                 </div>
 
                 <div class="step-box">
                     <span class="step-number">5</span>
-                    <h5>Load firmware vào Odin</h5>
-                    <p class="mb-0">Click BL → chọn file BL, Click AP → chọn file AP, Click CP → chọn file CP, Click CSC → chọn file HOME_CSC (hoặc CSC)</p>
+                    <h5>Load firmware v�o Odin</h5>
+                    <p class="mb-0">Click BL ? ch?n file BL, Click AP ? ch?n file AP, Click CP ? ch?n file CP, Click CSC ? ch?n file HOME_CSC (ho?c CSC)</p>
                 </div>
 
                 <div class="step-box">
                     <span class="step-number">6</span>
-                    <h5>Kiểm tra Options</h5>
-                    <p class="mb-0">Đảm bảo chỉ tick "Auto Reboot" và "F. Reset Time". KHÔNG tick "Re-Partition" trừ khi biết mình đang làm gì</p>
+                    <h5>Ki?m tra Options</h5>
+                    <p class="mb-0">�?m b?o ch? tick "Auto Reboot" v� "F. Reset Time". KH�NG tick "Re-Partition" tr? khi bi?t m�nh dang l�m g�</p>
                 </div>
 
                 <div class="step-box">
                     <span class="step-number">7</span>
                     <h5>Click Start</h5>
-                    <p class="mb-0">Click Start và chờ. Quá trình mất 5-15 phút tùy firmware. Khi hoàn tất sẽ hiện "PASS!" màu xanh</p>
+                    <p class="mb-0">Click Start v� ch?. Qu� tr�nh m?t 5-15 ph�t t�y firmware. Khi ho�n t?t s? hi?n "PASS!" m�u xanh</p>
                 </div>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-check-circle me-2"></i>Hoàn tất!</h5>
-                    <p class="mb-0">Máy sẽ tự khởi động lại. Lần đầu khởi động có thể mất 5-10 phút, đừng hoảng!</p>
+                    <h5><i class="fas fa-check-circle me-2"></i>Ho�n t?t!</h5>
+                    <p class="mb-0">M�y s? t? kh?i d?ng l?i. L?n d?u kh?i d?ng c� th? m?t 5-10 ph�t, d?ng ho?ng!</p>
                 </div>
             </section>
 
             <section id="loi-thuong-gap">
-                <h2><i class="fas fa-bug me-2"></i>6. Lỗi Thường Gặp</h2>
+                <h2><i class="fas fa-bug me-2"></i>6. L?i Thu?ng G?p</h2>
                 
                 <div class="accordion" id="errorAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#err1">
-                                FAIL! (hiện đỏ)
+                                FAIL! (hi?n d?)
                             </button>
                         </h2>
                         <div id="err1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
                                 <ul>
-                                    <li>Thử đổi cổng USB (ưu tiên USB 2.0)</li>
-                                    <li>Thử cáp USB khác</li>
-                                    <li>Kiểm tra firmware đúng model chưa</li>
-                                    <li>Thử phiên bản Odin khác</li>
+                                    <li>Th? d?i c?ng USB (uu ti�n USB 2.0)</li>
+                                    <li>Th? c�p USB kh�c</li>
+                                    <li>Ki?m tra firmware d�ng model chua</li>
+                                    <li>Th? phi�n b?n Odin kh�c</li>
                                 </ul>
                             </div>
                         </div>
@@ -410,16 +380,16 @@ $canonical_url = "https://www.unlocktool.us/articles/112-flash-firmware-samsung-
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err2">
-                                Stuck ở "SetupConnection"
+                                Stuck ? "SetupConnection"
                             </button>
                         </h2>
                         <div id="err2" class="accordion-collapse collapse">
                             <div class="accordion-body">
                                 <ul>
-                                    <li>Cài lại driver Samsung</li>
-                                    <li>Đổi cổng USB</li>
-                                    <li>Đổi cáp USB</li>
-                                    <li>Thử vào Download Mode lại</li>
+                                    <li>C�i l?i driver Samsung</li>
+                                    <li>�?i c?ng USB</li>
+                                    <li>�?i c�p USB</li>
+                                    <li>Th? v�o Download Mode l?i</li>
                                 </ul>
                             </div>
                         </div>
@@ -433,9 +403,9 @@ $canonical_url = "https://www.unlocktool.us/articles/112-flash-firmware-samsung-
                         <div id="err3" class="accordion-collapse collapse">
                             <div class="accordion-body">
                                 <ul>
-                                    <li>File firmware bị lỗi → tải lại</li>
-                                    <li>Sai model → tải đúng firmware</li>
-                                    <li>Bootloader bị khóa → cần mở khóa trước</li>
+                                    <li>File firmware b? l?i ? t?i l?i</li>
+                                    <li>Sai model ? t?i d�ng firmware</li>
+                                    <li>Bootloader b? kh�a ? c?n m? kh�a tru?c</li>
                                 </ul>
                             </div>
                         </div>
@@ -450,24 +420,24 @@ $canonical_url = "https://www.unlocktool.us/articles/112-flash-firmware-samsung-
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
-                                Flash firmware có mất bảo hành không?
+                                Flash firmware c� m?t b?o h�nh kh�ng?
                             </button>
                         </h2>
                         <div id="faq1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
-                                Flash firmware gốc (stock) thường không ảnh hưởng bảo hành. Tuy nhiên, flash custom ROM hoặc root sẽ mất bảo hành.
+                                Flash firmware g?c (stock) thu?ng kh�ng ?nh hu?ng b?o h�nh. Tuy nhi�n, flash custom ROM ho?c root s? m?t b?o h�nh.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
-                                Flash có mất dữ liệu không?
+                                Flash c� m?t d? li?u kh�ng?
                             </button>
                         </h2>
                         <div id="faq2" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                Nếu dùng <strong>HOME_CSC</strong>: có thể giữ dữ liệu. Nếu dùng <strong>CSC</strong>: sẽ factory reset, mất dữ liệu. Nên backup trước khi flash!
+                                N?u d�ng <strong>HOME_CSC</strong>: c� th? gi? d? li?u. N?u d�ng <strong>CSC</strong>: s? factory reset, m?t d? li?u. N�n backup tru?c khi flash!
                             </div>
                         </div>
                     </div>
@@ -475,11 +445,11 @@ $canonical_url = "https://www.unlocktool.us/articles/112-flash-firmware-samsung-
             </section>
 
             <div class="price-highlight">
-                <h4><i class="fas fa-shopping-cart me-2"></i>Cần hỗ trợ flash Samsung?</h4>
-                <p>Thuê UnlockTool để được hỗ trợ toàn diện</p>
-                <p class="price">8.000đ</p>
-                <p class="h4">/ 6 tiếng</p>
-                <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-shopping-cart me-2"></i>Thuê Ngay - UnlockTool.us</a>
+                <h4><i class="fas fa-shopping-cart me-2"></i>C?n h? tr? flash Samsung?</h4>
+                <p>Thu� UnlockTool d? du?c h? tr? to�n di?n</p>
+                <p class="price">8.000d</p>
+                <p class="h4">/ 6 ti?ng</p>
+                <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-shopping-cart me-2"></i>Thu� Ngay - UnlockTool.us</a>
             </div>
 
         </div>
@@ -488,15 +458,15 @@ $canonical_url = "https://www.unlocktool.us/articles/112-flash-firmware-samsung-
         <div class="col-lg-4">
             <div class="sticky-top" style="top:20px">
                 <div class="price-highlight mb-4">
-                    <h5><i class="fas fa-unlock me-2"></i>Thuê UnlockTool</h5>
-                    <p class="price" style="font-size:2.5rem">8.000đ</p>
-                    <p>/ 6 tiếng</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thuê Ngay</a>
+                    <h5><i class="fas fa-unlock me-2"></i>Thu� UnlockTool</h5>
+                    <p class="price" style="font-size:2.5rem">8.000d</p>
+                    <p>/ 6 ti?ng</p>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thu� Ngay</a>
                 </div>
 
                 <div class="card mb-4">
                     <div class="card-header text-white" style="background:#1428a0">
-                        <i class="fas fa-download me-2"></i>Tải về
+                        <i class="fas fa-download me-2"></i>T?i v?
                     </div>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item"><a href="https://file.unlocktool.net/page/tool---android---pc/tool-android---pc" target="_blank">Odin3</a></li>
@@ -506,12 +476,12 @@ $canonical_url = "https://www.unlocktool.us/articles/112-flash-firmware-samsung-
 
                 <div class="card">
                     <div class="card-header bg-dark text-white">
-                        <i class="fas fa-link me-2"></i>Bài viết liên quan
+                        <i class="fas fa-link me-2"></i>B�i vi?t li�n quan
                     </div>
                     <ul class="list-group list-group-flush">
-                        <li class="list-group-item"><a href="111-sua-imei-samsung-2026.php">Sửa IMEI Samsung</a></li>
+                        <li class="list-group-item"><a href="111-sua-imei-samsung-2026.php">S?a IMEI Samsung</a></li>
                         <li class="list-group-item"><a href="82-frp-samsung-a12.php">FRP Samsung A12</a></li>
-                        <li class="list-group-item"><a href="98-xoa-knox-samsung.php">Xóa Knox Samsung</a></li>
+                        <li class="list-group-item"><a href="98-xoa-knox-samsung.php">X�a Knox Samsung</a></li>
                     </ul>
                 </div>
             </div>
@@ -526,7 +496,7 @@ $canonical_url = "https://www.unlocktool.us/articles/112-flash-firmware-samsung-
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -540,13 +510,13 @@ $canonical_url = "https://www.unlocktool.us/articles/112-flash-firmware-samsung-
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hướng dẫn chi tiết</small>
+                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
                         </div>
                     </div>
                 </div>
@@ -554,15 +524,15 @@ $canonical_url = "https://www.unlocktool.us/articles/112-flash-firmware-samsung-
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">Từ iPhone 5s - X</small>
+                            <small class="text-muted">T? iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
-                            <small class="text-muted">Download mới nhất</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
+                            <small class="text-muted">Download m?i nh?t</small>
                         </div>
                     </div>
                 </div>
@@ -575,7 +545,7 @@ $canonical_url = "https://www.unlocktool.us/articles/112-flash-firmware-samsung-
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -586,10 +556,10 @@ $canonical_url = "https://www.unlocktool.us/articles/112-flash-firmware-samsung-
         <div class="row">
             <div class="col-md-6">
                 <h5>UnlockTool.us</h5>
-                <p class="small">Cho thuê tài khoản tool mở khóa điện thoại uy tín nhất Việt Nam.</p>
+                <p class="small">Cho thu� t�i kho?n tool m? kh�a di?n tho?i uy t�n nh?t Vi?t Nam.</p>
             </div>
             <div class="col-md-6 text-md-end">
-                <p class="small mb-1">Dịch vụ: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+                <p class="small mb-1">D?ch v?: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
                 <p class="small">&copy; 2026 UnlockTool.us - All rights reserved.</p>
             </div>
         </div>

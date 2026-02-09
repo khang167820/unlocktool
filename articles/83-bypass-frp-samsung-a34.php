@@ -1,7 +1,7 @@
-﻿<?php
-$page_title = "Bypass FRP Samsung Galaxy A34 5G 2026 - Hướng Dẫn Chi Tiết 3 Phương Pháp | 8K/6H";
-$page_description = "Hướng dẫn bypass FRP Samsung Galaxy A34 5G đầy đủ nhất 2026. Xóa tài khoản Google sau reset bằng UnlockTool qua ADB Mode, Download Mode. Hỗ trợ Android 14, One UI 6. Thuê tool 8.000đ/6h tại UnlockTool.us";
-$page_keywords = "bypass frp samsung a34, xóa frp a34, samsung a34 frp bypass, a34 google account bypass, frp a34 5g, bypass frp a34 android 14, xóa google samsung a34, a34 5g frp remove";
+<?php
+$page_title = "Bypass FRP Samsung Galaxy A34 5G 2026 - Hu?ng D?n Chi Ti?t 3 Phuong Ph�p | 8K/6H";
+$page_description = "Hu?ng d?n bypass FRP Samsung Galaxy A34 5G d?y d? nh?t 2026. X�a t�i kho?n Google sau reset b?ng UnlockTool qua ADB Mode, Download Mode. H? tr? Android 14, One UI 6. Thu� tool 8.000d/6h t?i UnlockTool.us";
+$page_keywords = "bypass frp samsung a34, x�a frp a34, samsung a34 frp bypass, a34 google account bypass, frp a34 5g, bypass frp a34 android 14, x�a google samsung a34, a34 5g frp remove";
 $canonical_url = "https://www.unlocktool.us/articles/83-bypass-frp-samsung-a34.php";
 $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
 ?>
@@ -20,7 +20,7 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
     <meta name="author" content="UnlockTool.us">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">">
     
@@ -74,8 +74,8 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
     {
         "@context": "https://schema.org",
         "@type": "HowTo",
-        "name": "Hướng dẫn Bypass FRP Samsung Galaxy A34 5G",
-        "description": "Hướng dẫn chi tiết từng bước bypass FRP, xóa Google Account trên Samsung Galaxy A34 5G bằng UnlockTool",
+        "name": "Hu?ng d?n Bypass FRP Samsung Galaxy A34 5G",
+        "description": "Hu?ng d?n chi ti?t t?ng bu?c bypass FRP, x�a Google Account tr�n Samsung Galaxy A34 5G b?ng UnlockTool",
         "image": "<?php echo $og_image; ?>",
         "totalTime": "PT30M",
         "estimatedCost": {
@@ -84,69 +84,69 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
             "value": "8000"
         },
         "supply": [
-            {"@type": "HowToSupply", "name": "Máy tính Windows 10/11 64-bit"},
-            {"@type": "HowToSupply", "name": "Cáp USB Type-C chính hãng"},
-            {"@type": "HowToSupply", "name": "Samsung Galaxy A34 5G với pin trên 50%"},
-            {"@type": "HowToSupply", "name": "Kết nối internet ổn định"}
+            {"@type": "HowToSupply", "name": "M�y t�nh Windows 10/11 64-bit"},
+            {"@type": "HowToSupply", "name": "C�p USB Type-C ch�nh h�ng"},
+            {"@type": "HowToSupply", "name": "Samsung Galaxy A34 5G v?i pin tr�n 50%"},
+            {"@type": "HowToSupply", "name": "K?t n?i internet ?n d?nh"}
         ],
         "tool": [
             {"@type": "HowToTool", "name": "UnlockTool"},
             {"@type": "HowToTool", "name": "Samsung USB Driver"},
-            {"@type": "HowToTool", "name": "Tài khoản UnlockTool (8.000đ/6h)"}
+            {"@type": "HowToTool", "name": "T�i kho?n UnlockTool (8.000d/6h)"}
         ],
         "step": [
             {
                 "@type": "HowToStep",
-                "name": "Cài đặt Samsung USB Driver",
-                "text": "Tải và cài đặt Samsung USB Driver từ file.unlocktool.net hoặc cài Samsung Smart Switch",
+                "name": "C�i d?t Samsung USB Driver",
+                "text": "T?i v� c�i d?t Samsung USB Driver t? file.unlocktool.net ho?c c�i Samsung Smart Switch",
                 "url": "<?php echo $canonical_url; ?>#buoc-1"
             },
             {
                 "@type": "HowToStep",
-                "name": "Tải UnlockTool",
-                "text": "Tải UnlockTool từ file.unlocktool.net, giải nén và tắt antivirus",
+                "name": "T?i UnlockTool",
+                "text": "T?i UnlockTool t? file.unlocktool.net, gi?i n�n v� t?t antivirus",
                 "url": "<?php echo $canonical_url; ?>#buoc-2"
             },
             {
                 "@type": "HowToStep",
-                "name": "Thuê tài khoản UnlockTool",
-                "text": "Truy cập UnlockTool.us và thuê tài khoản với giá 8.000đ/6 tiếng",
+                "name": "Thu� t�i kho?n UnlockTool",
+                "text": "Truy c?p UnlockTool.us v� thu� t�i kho?n v?i gi� 8.000d/6 ti?ng",
                 "url": "<?php echo $canonical_url; ?>#buoc-3"
             },
             {
                 "@type": "HowToStep",
-                "name": "Đăng nhập UnlockTool",
-                "text": "Chạy UnlockTool với quyền Administrator và đăng nhập tài khoản đã thuê",
+                "name": "�ang nh?p UnlockTool",
+                "text": "Ch?y UnlockTool v?i quy?n Administrator v� dang nh?p t�i kho?n d� thu�",
                 "url": "<?php echo $canonical_url; ?>#buoc-4"
             },
             {
                 "@type": "HowToStep",
-                "name": "Bật USB Debugging (ADB Mode)",
-                "text": "Tại màn hình FRP, sử dụng Emergency Call hoặc Google Assistant để vào Settings và bật USB Debugging",
+                "name": "B?t USB Debugging (ADB Mode)",
+                "text": "T?i m�n h�nh FRP, s? d?ng Emergency Call ho?c Google Assistant d? v�o Settings v� b?t USB Debugging",
                 "url": "<?php echo $canonical_url; ?>#buoc-5"
             },
             {
                 "@type": "HowToStep",
-                "name": "Kết nối Samsung A34 với máy tính",
-                "text": "Cắm cáp USB-C và cho phép USB Debugging khi có popup trên điện thoại",
+                "name": "K?t n?i Samsung A34 v?i m�y t�nh",
+                "text": "C?m c�p USB-C v� cho ph�p USB Debugging khi c� popup tr�n di?n tho?i",
                 "url": "<?php echo $canonical_url; ?>#buoc-6"
             },
             {
                 "@type": "HowToStep",
-                "name": "Chọn chức năng Remove FRP",
-                "text": "Trong UnlockTool, chọn tab Samsung > ADB Mode > Remove FRP",
+                "name": "Ch?n ch?c nang Remove FRP",
+                "text": "Trong UnlockTool, ch?n tab Samsung > ADB Mode > Remove FRP",
                 "url": "<?php echo $canonical_url; ?>#buoc-7"
             },
             {
                 "@type": "HowToStep",
-                "name": "Chờ quá trình bypass hoàn tất",
-                "text": "Đợi 1-2 phút để UnlockTool xóa FRP, máy sẽ tự động khởi động lại",
+                "name": "Ch? qu� tr�nh bypass ho�n t?t",
+                "text": "�?i 1-2 ph�t d? UnlockTool x�a FRP, m�y s? t? d?ng kh?i d?ng l?i",
                 "url": "<?php echo $canonical_url; ?>#buoc-8"
             },
             {
                 "@type": "HowToStep",
-                "name": "Thiết lập lại điện thoại",
-                "text": "Sau khi bypass thành công, thiết lập máy như mới và đăng nhập Google Account mới",
+                "name": "Thi?t l?p l?i di?n tho?i",
+                "text": "Sau khi bypass th�nh c�ng, thi?t l?p m�y nhu m?i v� dang nh?p Google Account m?i",
                 "url": "<?php echo $canonical_url; ?>#buoc-9"
             }
         ]
@@ -161,50 +161,50 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Bypass FRP Samsung A34 5G có được không?",
+                "name": "Bypass FRP Samsung A34 5G c� du?c kh�ng?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Có, Samsung Galaxy A34 5G hoàn toàn có thể bypass FRP bằng UnlockTool với tỉ lệ thành công 95%+. Hỗ trợ cả Android 13 (One UI 5.1) và Android 14 (One UI 6). Thuê tool chỉ 8.000đ/6h tại UnlockTool.us."
+                    "text": "C�, Samsung Galaxy A34 5G ho�n to�n c� th? bypass FRP b?ng UnlockTool v?i t? l? th�nh c�ng 95%+. H? tr? c? Android 13 (One UI 5.1) v� Android 14 (One UI 6). Thu� tool ch? 8.000d/6h t?i UnlockTool.us."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Bypass FRP Samsung A34 mất bao lâu?",
+                "name": "Bypass FRP Samsung A34 m?t bao l�u?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Thời gian bypass tùy phương pháp: ADB Mode nhanh nhất chỉ 1-2 phút, Download Mode mất 3-5 phút. Tổng thời gian chuẩn bị và thực hiện khoảng 15-30 phút."
+                    "text": "Th?i gian bypass t�y phuong ph�p: ADB Mode nhanh nh?t ch? 1-2 ph�t, Download Mode m?t 3-5 ph�t. T?ng th?i gian chu?n b? v� th?c hi?n kho?ng 15-30 ph�t."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Giá bypass FRP Samsung A34 5G là bao nhiêu?",
+                "name": "Gi� bypass FRP Samsung A34 5G l� bao nhi�u?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Tự làm với UnlockTool: 8.000đ/6h (có thể bypass nhiều máy). Dịch vụ làm hộ tại Thuetaikhoan.net: từ 50.000đ - 100.000đ tùy bản vá bảo mật."
+                    "text": "T? l�m v?i UnlockTool: 8.000d/6h (c� th? bypass nhi?u m�y). D?ch v? l�m h? t?i Thuetaikhoan.net: t? 50.000d - 100.000d t�y b?n v� b?o m?t."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Bypass FRP A34 có mất dữ liệu không?",
+                "name": "Bypass FRP A34 c� m?t d? li?u kh�ng?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "ADB Mode thường không mất dữ liệu. Download Mode có thể xóa dữ liệu. Tuy nhiên, khi máy đã bị FRP lock thì thường đã mất dữ liệu từ lúc factory reset rồi."
+                    "text": "ADB Mode thu?ng kh�ng m?t d? li?u. Download Mode c� th? x�a d? li?u. Tuy nhi�n, khi m�y d� b? FRP lock th� thu?ng d� m?t d? li?u t? l�c factory reset r?i."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Samsung A34 bản vá mới nhất 2026 có bypass được không?",
+                "name": "Samsung A34 b?n v� m?i nh?t 2026 c� bypass du?c kh�ng?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Có. UnlockTool liên tục cập nhật để hỗ trợ các bản vá mới. Samsung A34 với Android 14, One UI 6 và bản vá bảo mật mới nhất 2026 đều có thể bypass thành công."
+                    "text": "C�. UnlockTool li�n t?c c?p nh?t d? h? tr? c�c b?n v� m?i. Samsung A34 v?i Android 14, One UI 6 v� b?n v� b?o m?t m?i nh?t 2026 d?u c� th? bypass th�nh c�ng."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Không bypass được FRP A34 thì làm sao?",
+                "name": "Kh�ng bypass du?c FRP A34 th� l�m sao?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Nếu tự làm không được, hãy liên hệ Thuetaikhoan.net để được kỹ thuật viên hỗ trợ từ xa qua TeamViewer. Dịch vụ làm hộ từ 50.000đ với cam kết hoàn tiền nếu không thành công."
+                    "text": "N?u t? l�m kh�ng du?c, h�y li�n h? Thuetaikhoan.net d? du?c k? thu?t vi�n h? tr? t? xa qua TeamViewer. D?ch v? l�m h? t? 50.000d v?i cam k?t ho�n ti?n n?u kh�ng th�nh c�ng."
                 }
             }
         ]
@@ -274,36 +274,6 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
         }
     }
     </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Dịch vụ mở khóa điện thoại",
-        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.6",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "79"
-        }
-    }
-    </script>
 </head>
 <body>
 
@@ -311,8 +281,8 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -321,25 +291,25 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
     <div class="container">
         <nav class="breadcrumb-custom" aria-label="breadcrumb">
             <ol class="breadcrumb mb-0">
-                <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home me-1"></i>Trang chủ</a></li>
+                <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home me-1"></i>Trang ch?</a></li>
                 <li class="breadcrumb-item"><a href="74-samsung-frp-full-model.php">Samsung FRP</a></li>
                 <li class="breadcrumb-item active text-white">Samsung A34 5G</li>
             </ol>
         </nav>
         <div class="row align-items-center">
             <div class="col-lg-8">
-                <span class="badge bg-warning text-dark mb-3 px-3 py-2"><i class="fas fa-star me-1"></i>Cập nhật 01/2026</span>
-                <h1><i class="fas fa-mobile-alt me-3"></i>Bypass FRP Samsung Galaxy A34 5G - Hướng Dẫn Chi Tiết 2026</h1>
-                <p class="lead mb-4">Hướng dẫn đầy đủ nhất 3 phương pháp bypass FRP Samsung Galaxy A34 5G - Xóa tài khoản Google nhanh chóng, an toàn với UnlockTool. Hỗ trợ Android 13, Android 14, One UI 5.1 & One UI 6.</p>
+                <span class="badge bg-warning text-dark mb-3 px-3 py-2"><i class="fas fa-star me-1"></i>C?p nh?t 01/2026</span>
+                <h1><i class="fas fa-mobile-alt me-3"></i>Bypass FRP Samsung Galaxy A34 5G - Hu?ng D?n Chi Ti?t 2026</h1>
+                <p class="lead mb-4">Hu?ng d?n d?y d? nh?t 3 phuong ph�p bypass FRP Samsung Galaxy A34 5G - X�a t�i kho?n Google nhanh ch�ng, an to�n v?i UnlockTool. H? tr? Android 13, Android 14, One UI 5.1 & One UI 6.</p>
                 <div class="d-flex flex-wrap gap-3">
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê Tool 8K/6H</a>
-                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>Dịch Vụ Từ 50K</a>
-                    <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-download me-2"></i>Tải Tool</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thu� Tool 8K/6H</a>
+                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>D?ch V? T? 50K</a>
+                    <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-download me-2"></i>T?i Tool</a>
                 </div>
                 <div class="mt-4">
-                    <span class="badge bg-success me-2"><i class="fas fa-check me-1"></i>Hỗ trợ Android 14</span>
+                    <span class="badge bg-success me-2"><i class="fas fa-check me-1"></i>H? tr? Android 14</span>
                     <span class="badge bg-success me-2"><i class="fas fa-check me-1"></i>One UI 6</span>
-                    <span class="badge bg-success"><i class="fas fa-check me-1"></i>Bản vá 2026</span>
+                    <span class="badge bg-success"><i class="fas fa-check me-1"></i>B?n v� 2026</span>
                 </div>
             </div>
             <div class="col-lg-4 text-center d-none d-lg-block">
@@ -353,56 +323,56 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
     <div class="row">
         <div class="col-lg-8">
             
-            <!-- Mục Lục - 10 Sections -->
+            <!-- M?c L?c - 10 Sections -->
             <div class="toc-box">
-                <h4><i class="fas fa-list-ol me-2 text-primary"></i>Mục Lục Bài Viết</h4>
+                <h4><i class="fas fa-list-ol me-2 text-primary"></i>M?c L?c B�i Vi?t</h4>
                 <ul class="list-unstyled mb-0">
-                    <li><a href="#gioi-thieu"><i class="fas fa-chevron-right me-2 text-primary"></i>1. Giới thiệu Samsung Galaxy A34 5G & Thông số kỹ thuật</a></li>
-                    <li><a href="#frp-la-gi"><i class="fas fa-chevron-right me-2 text-primary"></i>2. FRP là gì? Tại sao Samsung A34 bị khóa FRP?</a></li>
-                    <li><a href="#tuong-thich"><i class="fas fa-chevron-right me-2 text-primary"></i>3. Bảng tương thích Samsung A34 với UnlockTool</a></li>
-                    <li><a href="#chuan-bi"><i class="fas fa-chevron-right me-2 text-primary"></i>4. Chuẩn bị trước khi bypass FRP</a></li>
-                    <li><a href="#adb-mode"><i class="fas fa-chevron-right me-2 text-primary"></i>5. Phương pháp 1: Bypass FRP qua ADB Mode (Khuyến nghị)</a></li>
-                    <li><a href="#download-mode"><i class="fas fa-chevron-right me-2 text-primary"></i>6. Phương pháp 2: Bypass FRP qua Download Mode</a></li>
-                    <li><a href="#emergency-call"><i class="fas fa-chevron-right me-2 text-primary"></i>7. Phương pháp 3: Emergency Call Trick (Tùy chọn)</a></li>
-                    <li><a href="#so-sanh"><i class="fas fa-chevron-right me-2 text-primary"></i>8. So sánh 3 phương pháp bypass FRP Samsung A34</a></li>
-                    <li><a href="#loi-thuong-gap"><i class="fas fa-chevron-right me-2 text-primary"></i>9. Lỗi thường gặp và cách khắc phục</a></li>
-                    <li><a href="#faq"><i class="fas fa-chevron-right me-2 text-primary"></i>10. Câu hỏi thường gặp (FAQ)</a></li>
+                    <li><a href="#gioi-thieu"><i class="fas fa-chevron-right me-2 text-primary"></i>1. Gi?i thi?u Samsung Galaxy A34 5G & Th�ng s? k? thu?t</a></li>
+                    <li><a href="#frp-la-gi"><i class="fas fa-chevron-right me-2 text-primary"></i>2. FRP l� g�? T?i sao Samsung A34 b? kh�a FRP?</a></li>
+                    <li><a href="#tuong-thich"><i class="fas fa-chevron-right me-2 text-primary"></i>3. B?ng tuong th�ch Samsung A34 v?i UnlockTool</a></li>
+                    <li><a href="#chuan-bi"><i class="fas fa-chevron-right me-2 text-primary"></i>4. Chu?n b? tru?c khi bypass FRP</a></li>
+                    <li><a href="#adb-mode"><i class="fas fa-chevron-right me-2 text-primary"></i>5. Phuong ph�p 1: Bypass FRP qua ADB Mode (Khuy?n ngh?)</a></li>
+                    <li><a href="#download-mode"><i class="fas fa-chevron-right me-2 text-primary"></i>6. Phuong ph�p 2: Bypass FRP qua Download Mode</a></li>
+                    <li><a href="#emergency-call"><i class="fas fa-chevron-right me-2 text-primary"></i>7. Phuong ph�p 3: Emergency Call Trick (T�y ch?n)</a></li>
+                    <li><a href="#so-sanh"><i class="fas fa-chevron-right me-2 text-primary"></i>8. So s�nh 3 phuong ph�p bypass FRP Samsung A34</a></li>
+                    <li><a href="#loi-thuong-gap"><i class="fas fa-chevron-right me-2 text-primary"></i>9. L?i thu?ng g?p v� c�ch kh?c ph?c</a></li>
+                    <li><a href="#faq"><i class="fas fa-chevron-right me-2 text-primary"></i>10. C�u h?i thu?ng g?p (FAQ)</a></li>
                 </ul>
             </div>
 
-            <!-- Section 1: Giới thiệu Samsung A34 5G -->
+            <!-- Section 1: Gi?i thi?u Samsung A34 5G -->
             <section id="gioi-thieu">
-                <h2><i class="fas fa-info-circle me-2"></i>1. Giới Thiệu Samsung Galaxy A34 5G & Thông Số Kỹ Thuật</h2>
+                <h2><i class="fas fa-info-circle me-2"></i>1. Gi?i Thi?u Samsung Galaxy A34 5G & Th�ng S? K? Thu?t</h2>
                 
-                <p><strong>Samsung Galaxy A34 5G</strong> là một trong những smartphone tầm trung bán chạy nhất của Samsung, ra mắt vào tháng 3 năm 2023. Đây là model kế nhiệm của Galaxy A33 5G, được nâng cấp đáng kể về thiết kế và hiệu năng. Tại Việt Nam, A34 5G nhanh chóng trở thành best-seller trong phân khúc 7-10 triệu đồng nhờ cấu hình mạnh, màn hình đẹp và khả năng kết nối 5G.</p>
+                <p><strong>Samsung Galaxy A34 5G</strong> l� m?t trong nh?ng smartphone t?m trung b�n ch?y nh?t c?a Samsung, ra m?t v�o th�ng 3 nam 2023. ��y l� model k? nhi?m c?a Galaxy A33 5G, du?c n�ng c?p d�ng k? v? thi?t k? v� hi?u nang. T?i Vi?t Nam, A34 5G nhanh ch�ng tr? th�nh best-seller trong ph�n kh�c 7-10 tri?u d?ng nh? c?u h�nh m?nh, m�n h�nh d?p v� kh? nang k?t n?i 5G.</p>
 
-                <p>Samsung Galaxy A34 5G sở hữu thiết kế hiện đại với khung viền phẳng tương tự dòng flagship Galaxy S, màn hình Super AMOLED 6.6 inch với tần số quét 120Hz mượt mà. Máy được trang bị chip MediaTek Dimensity 1080 mạnh mẽ, hỗ trợ 5G dual SIM, camera 48MP OIS cho chất lượng ảnh sắc nét.</p>
+                <p>Samsung Galaxy A34 5G s? h?u thi?t k? hi?n d?i v?i khung vi?n ph?ng tuong t? d�ng flagship Galaxy S, m�n h�nh Super AMOLED 6.6 inch v?i t?n s? qu�t 120Hz mu?t m�. M�y du?c trang b? chip MediaTek Dimensity 1080 m?nh m?, h? tr? 5G dual SIM, camera 48MP OIS cho ch?t lu?ng ?nh s?c n�t.</p>
 
-                <h3><i class="fas fa-microchip me-2"></i>Thông số kỹ thuật chi tiết Samsung A34 5G</h3>
+                <h3><i class="fas fa-microchip me-2"></i>Th�ng s? k? thu?t chi ti?t Samsung A34 5G</h3>
                 <table class="table specs-table">
                     <tbody>
                         <tr>
-                            <th><i class="fas fa-microchip me-2"></i>Chip xử lý (CPU)</th>
-                            <td><strong>MediaTek Dimensity 1080</strong> (6nm) - Octa-core lên đến 2.6 GHz</td>
+                            <th><i class="fas fa-microchip me-2"></i>Chip x? l� (CPU)</th>
+                            <td><strong>MediaTek Dimensity 1080</strong> (6nm) - Octa-core l�n d?n 2.6 GHz</td>
                         </tr>
                         <tr>
                             <th><i class="fas fa-memory me-2"></i>GPU</th>
                             <td>Mali-G68 MC4</td>
                         </tr>
                         <tr>
-                            <th><i class="fab fa-android me-2"></i>Hệ điều hành gốc</th>
+                            <th><i class="fab fa-android me-2"></i>H? di?u h�nh g?c</th>
                             <td>Android 13, One UI 5.1</td>
                         </tr>
                         <tr>
-                            <th><i class="fas fa-arrow-up me-2"></i>Cập nhật mới nhất</th>
-                            <td><strong>Android 14, One UI 6.1</strong> (cập nhật 2024-2025)</td>
+                            <th><i class="fas fa-arrow-up me-2"></i>C?p nh?t m?i nh?t</th>
+                            <td><strong>Android 14, One UI 6.1</strong> (c?p nh?t 2024-2025)</td>
                         </tr>
                         <tr>
-                            <th><i class="fas fa-sd-card me-2"></i>RAM / Bộ nhớ</th>
-                            <td>6GB / 128GB hoặc 8GB / 256GB (mở rộng MicroSD đến 1TB)</td>
+                            <th><i class="fas fa-sd-card me-2"></i>RAM / B? nh?</th>
+                            <td>6GB / 128GB ho?c 8GB / 256GB (m? r?ng MicroSD d?n 1TB)</td>
                         </tr>
                         <tr>
-                            <th><i class="fas fa-tv me-2"></i>Màn hình</th>
+                            <th><i class="fas fa-tv me-2"></i>M�n h�nh</th>
                             <td><strong>Super AMOLED 6.6"</strong>, FHD+ (1080x2340), <strong>120Hz</strong>, 1000 nits</td>
                         </tr>
                         <tr>
@@ -410,106 +380,106 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                             <td>48MP (OIS) + 8MP (ultrawide) + 5MP (macro)</td>
                         </tr>
                         <tr>
-                            <th><i class="fas fa-camera-retro me-2"></i>Camera trước</th>
+                            <th><i class="fas fa-camera-retro me-2"></i>Camera tru?c</th>
                             <td>13MP (f/2.2)</td>
                         </tr>
                         <tr>
                             <th><i class="fas fa-battery-full me-2"></i>Pin</th>
-                            <td><strong>5000mAh</strong>, sạc nhanh 25W</td>
+                            <td><strong>5000mAh</strong>, s?c nhanh 25W</td>
                         </tr>
                         <tr>
-                            <th><i class="fas fa-shield-alt me-2"></i>Bảo mật</th>
-                            <td>FRP (Google Account), Knox Security, Samsung Account, Vân tay dưới màn hình</td>
+                            <th><i class="fas fa-shield-alt me-2"></i>B?o m?t</th>
+                            <td>FRP (Google Account), Knox Security, Samsung Account, V�n tay du?i m�n h�nh</td>
                         </tr>
                         <tr>
-                            <th><i class="fas fa-wifi me-2"></i>Kết nối</th>
+                            <th><i class="fas fa-wifi me-2"></i>K?t n?i</th>
                             <td>5G, WiFi 6, Bluetooth 5.3, NFC, USB Type-C</td>
                         </tr>
                         <tr>
-                            <th><i class="fas fa-tint me-2"></i>Kháng nước</th>
-                            <td>IP67 (chịu nước, chịu bụi)</td>
+                            <th><i class="fas fa-tint me-2"></i>Kh�ng nu?c</th>
+                            <td>IP67 (ch?u nu?c, ch?u b?i)</td>
                         </tr>
                         <tr>
-                            <th><i class="fas fa-unlock me-2"></i>Hỗ trợ bypass</th>
-                            <td class="text-success fw-bold"><i class="fas fa-check-circle me-1"></i>UnlockTool, Samsung Tool Pro - Tỉ lệ 95%+</td>
+                            <th><i class="fas fa-unlock me-2"></i>H? tr? bypass</th>
+                            <td class="text-success fw-bold"><i class="fas fa-check-circle me-1"></i>UnlockTool, Samsung Tool Pro - T? l? 95%+</td>
                         </tr>
                     </tbody>
                 </table>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-lightbulb me-2"></i>Tại sao Samsung A34 5G là model phổ biến cần bypass FRP?</h5>
-                    <p>Samsung Galaxy A34 5G là model bán chạy nhất phân khúc tầm trung tại Việt Nam trong năm 2023-2024. Chính vì vậy, số lượng máy A34 cần bypass FRP cũng rất lớn do:</p>
+                    <h5><i class="fas fa-lightbulb me-2"></i>T?i sao Samsung A34 5G l� model ph? bi?n c?n bypass FRP?</h5>
+                    <p>Samsung Galaxy A34 5G l� model b�n ch?y nh?t ph�n kh�c t?m trung t?i Vi?t Nam trong nam 2023-2024. Ch�nh v� v?y, s? lu?ng m�y A34 c?n bypass FRP cung r?t l?n do:</p>
                     <ul class="mb-0">
-                        <li><strong>Mua máy cũ:</strong> Thị trường máy cũ A34 rất sôi động, nhiều máy chưa được đăng xuất Google Account</li>
-                        <li><strong>Quên mật khẩu:</strong> Người dùng quên password Google sau khi factory reset</li>
-                        <li><strong>Máy tặng/thừa kế:</strong> Nhận máy từ người thân nhưng không biết tài khoản Google cũ</li>
-                        <li><strong>Máy công ty:</strong> Doanh nghiệp cần reset máy nhưng nhân viên đã nghỉ việc</li>
+                        <li><strong>Mua m�y cu:</strong> Th? tru?ng m�y cu A34 r?t s�i d?ng, nhi?u m�y chua du?c dang xu?t Google Account</li>
+                        <li><strong>Qu�n m?t kh?u:</strong> Ngu?i d�ng qu�n password Google sau khi factory reset</li>
+                        <li><strong>M�y t?ng/th?a k?:</strong> Nh?n m�y t? ngu?i th�n nhung kh�ng bi?t t�i kho?n Google cu</li>
+                        <li><strong>M�y c�ng ty:</strong> Doanh nghi?p c?n reset m�y nhung nh�n vi�n d� ngh? vi?c</li>
                     </ul>
                 </div>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-check-circle me-2"></i>Tin vui: Samsung A34 5G bypass FRP dễ dàng!</h5>
-                    <p class="mb-0">Samsung Galaxy A34 5G sử dụng chip MediaTek Dimensity 1080 và có tỉ lệ bypass FRP thành công <strong>rất cao (95%+)</strong> với UnlockTool. Máy hỗ trợ đầy đủ ADB Mode và Download Mode, giúp quá trình bypass nhanh chóng và an toàn. Cả phiên bản Android 13 (One UI 5.1) và Android 14 (One UI 6) đều được hỗ trợ.</p>
+                    <h5><i class="fas fa-check-circle me-2"></i>Tin vui: Samsung A34 5G bypass FRP d? d�ng!</h5>
+                    <p class="mb-0">Samsung Galaxy A34 5G s? d?ng chip MediaTek Dimensity 1080 v� c� t? l? bypass FRP th�nh c�ng <strong>r?t cao (95%+)</strong> v?i UnlockTool. M�y h? tr? d?y d? ADB Mode v� Download Mode, gi�p qu� tr�nh bypass nhanh ch�ng v� an to�n. C? phi�n b?n Android 13 (One UI 5.1) v� Android 14 (One UI 6) d?u du?c h? tr?.</p>
                 </div>
             </section>
 
-            <!-- Section 2: FRP là gì -->
+            <!-- Section 2: FRP l� g� -->
             <section id="frp-la-gi">
-                <h2><i class="fas fa-lock me-2"></i>2. FRP Là Gì? Tại Sao Samsung A34 Bị Khóa FRP?</h2>
+                <h2><i class="fas fa-lock me-2"></i>2. FRP L� G�? T?i Sao Samsung A34 B? Kh�a FRP?</h2>
                 
-                <p><strong>FRP (Factory Reset Protection)</strong> là tính năng bảo mật được Google tích hợp trên tất cả thiết bị Android từ phiên bản 5.1 Lollipop trở đi. Đây là một lớp bảo vệ quan trọng nhằm ngăn chặn việc sử dụng điện thoại trái phép sau khi bị đánh cắp hoặc mất.</p>
+                <p><strong>FRP (Factory Reset Protection)</strong> l� t�nh nang b?o m?t du?c Google t�ch h?p tr�n t?t c? thi?t b? Android t? phi�n b?n 5.1 Lollipop tr? di. ��y l� m?t l?p b?o v? quan tr?ng nh?m ngan ch?n vi?c s? d?ng di?n tho?i tr�i ph�p sau khi b? d�nh c?p ho?c m?t.</p>
 
-                <h3><i class="fas fa-cogs me-2"></i>FRP hoạt động như thế nào trên Samsung A34?</h3>
-                <p>Khi bạn đăng nhập Google Account vào Samsung A34 5G, tài khoản này sẽ được liên kết chặt chẽ với thiết bị thông qua hệ thống bảo mật của Google và Samsung Knox. Quá trình hoạt động như sau:</p>
+                <h3><i class="fas fa-cogs me-2"></i>FRP ho?t d?ng nhu th? n�o tr�n Samsung A34?</h3>
+                <p>Khi b?n dang nh?p Google Account v�o Samsung A34 5G, t�i kho?n n�y s? du?c li�n k?t ch?t ch? v?i thi?t b? th�ng qua h? th?ng b?o m?t c?a Google v� Samsung Knox. Qu� tr�nh ho?t d?ng nhu sau:</p>
 
                 <ol>
-                    <li><strong>Đăng nhập Google Account:</strong> Khi thiết lập máy lần đầu hoặc đăng nhập Google Account, FRP được kích hoạt tự động</li>
-                    <li><strong>Liên kết thiết bị:</strong> IMEI và thông tin phần cứng của A34 được liên kết với Google Account trong hệ thống của Google</li>
-                    <li><strong>Kích hoạt bảo vệ:</strong> Nếu ai đó factory reset máy từ Recovery Mode hoặc qua Settings mà không đăng xuất Google Account, FRP sẽ khóa máy</li>
-                    <li><strong>Yêu cầu xác minh:</strong> Máy sẽ yêu cầu đăng nhập đúng Google Account cũ (email + mật khẩu) mới cho phép sử dụng</li>
+                    <li><strong>�ang nh?p Google Account:</strong> Khi thi?t l?p m�y l?n d?u ho?c dang nh?p Google Account, FRP du?c k�ch ho?t t? d?ng</li>
+                    <li><strong>Li�n k?t thi?t b?:</strong> IMEI v� th�ng tin ph?n c?ng c?a A34 du?c li�n k?t v?i Google Account trong h? th?ng c?a Google</li>
+                    <li><strong>K�ch ho?t b?o v?:</strong> N?u ai d� factory reset m�y t? Recovery Mode ho?c qua Settings m� kh�ng dang xu?t Google Account, FRP s? kh�a m�y</li>
+                    <li><strong>Y�u c?u x�c minh:</strong> M�y s? y�u c?u dang nh?p d�ng Google Account cu (email + m?t kh?u) m?i cho ph�p s? d?ng</li>
                 </ol>
 
-                <h3><i class="fas fa-exclamation-triangle me-2"></i>Các trường hợp phổ biến dẫn đến FRP Lock trên Samsung A34</h3>
+                <h3><i class="fas fa-exclamation-triangle me-2"></i>C�c tru?ng h?p ph? bi?n d?n d?n FRP Lock tr�n Samsung A34</h3>
                 <div class="row">
                     <div class="col-md-6">
                         <div class="feature-card">
-                            <h5><i class="fas fa-shopping-cart text-primary me-2"></i>Mua máy cũ</h5>
-                            <p class="mb-0">Người bán quên đăng xuất Google Account trước khi bán, hoặc cố tình không cung cấp thông tin tài khoản.</p>
+                            <h5><i class="fas fa-shopping-cart text-primary me-2"></i>Mua m�y cu</h5>
+                            <p class="mb-0">Ngu?i b�n qu�n dang xu?t Google Account tru?c khi b�n, ho?c c? t�nh kh�ng cung c?p th�ng tin t�i kho?n.</p>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="feature-card">
-                            <h5><i class="fas fa-key text-warning me-2"></i>Quên mật khẩu</h5>
-                            <p class="mb-0">Factory reset để xóa mật khẩu màn hình, nhưng sau đó quên mật khẩu Google Account đã đăng nhập.</p>
+                            <h5><i class="fas fa-key text-warning me-2"></i>Qu�n m?t kh?u</h5>
+                            <p class="mb-0">Factory reset d? x�a m?t kh?u m�n h�nh, nhung sau d� qu�n m?t kh?u Google Account d� dang nh?p.</p>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="feature-card">
-                            <h5><i class="fas fa-gift text-success me-2"></i>Máy được tặng</h5>
-                            <p class="mb-0">Nhận máy từ người thân, bạn bè nhưng họ không nhớ hoặc không cung cấp thông tin Google Account.</p>
+                            <h5><i class="fas fa-gift text-success me-2"></i>M�y du?c t?ng</h5>
+                            <p class="mb-0">Nh?n m�y t? ngu?i th�n, b?n b� nhung h? kh�ng nh? ho?c kh�ng cung c?p th�ng tin Google Account.</p>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="feature-card">
-                            <h5><i class="fas fa-building text-info me-2"></i>Máy công ty</h5>
-                            <p class="mb-0">Doanh nghiệp cần reset máy để sử dụng lại nhưng nhân viên đã nghỉ việc, không liên hệ được.</p>
+                            <h5><i class="fas fa-building text-info me-2"></i>M�y c�ng ty</h5>
+                            <p class="mb-0">Doanh nghi?p c?n reset m�y d? s? d?ng l?i nhung nh�n vi�n d� ngh? vi?c, kh�ng li�n h? du?c.</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-info-circle me-2"></i>Phân biệt FRP Lock và Samsung Account Lock</h5>
-                    <p><strong>FRP (Google Account Lock):</strong> Bảo mật của Google, yêu cầu đăng nhập Google Account cũ.</p>
-                    <p><strong>Samsung Account Lock (Find My Mobile):</strong> Bảo mật riêng của Samsung, yêu cầu Samsung Account.</p>
-                    <p class="mb-0">Hai loại lock này <strong>độc lập với nhau</strong>. Một máy có thể bị cả 2 loại lock cùng lúc. UnlockTool hỗ trợ bypass cả 2 loại trên Samsung A34 5G.</p>
+                    <h5><i class="fas fa-info-circle me-2"></i>Ph�n bi?t FRP Lock v� Samsung Account Lock</h5>
+                    <p><strong>FRP (Google Account Lock):</strong> B?o m?t c?a Google, y�u c?u dang nh?p Google Account cu.</p>
+                    <p><strong>Samsung Account Lock (Find My Mobile):</strong> B?o m?t ri�ng c?a Samsung, y�u c?u Samsung Account.</p>
+                    <p class="mb-0">Hai lo?i lock n�y <strong>d?c l?p v?i nhau</strong>. M?t m�y c� th? b? c? 2 lo?i lock c�ng l�c. UnlockTool h? tr? bypass c? 2 lo?i tr�n Samsung A34 5G.</p>
                 </div>
             </section>
 
-            <!-- Section 3: Bảng tương thích -->
+            <!-- Section 3: B?ng tuong th�ch -->
             <section id="tuong-thich">
-                <h2><i class="fas fa-check-double me-2"></i>3. Bảng Tương Thích Samsung A34 Với UnlockTool</h2>
+                <h2><i class="fas fa-check-double me-2"></i>3. B?ng Tuong Th�ch Samsung A34 V?i UnlockTool</h2>
                 
-                <p>Dưới đây là bảng tương thích chi tiết các phiên bản Samsung Galaxy A34 5G với UnlockTool, bao gồm model number, phiên bản Android/One UI, bản vá bảo mật và mức độ hỗ trợ:</p>
+                <p>Du?i d�y l� b?ng tuong th�ch chi ti?t c�c phi�n b?n Samsung Galaxy A34 5G v?i UnlockTool, bao g?m model number, phi�n b?n Android/One UI, b?n v� b?o m?t v� m?c d? h? tr?:</p>
 
                 <div class="table-responsive">
                     <table class="table table-custom">
@@ -519,7 +489,7 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                                 <th><i class="fab fa-android me-1"></i>Android / One UI</th>
                                 <th><i class="fas fa-shield-alt me-1"></i>Security Patch</th>
                                 <th><i class="fas fa-tools me-1"></i>UnlockTool Support</th>
-                                <th><i class="fas fa-star me-1"></i>Tỉ lệ</th>
+                                <th><i class="fas fa-star me-1"></i>T? l?</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -561,14 +531,14 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                             <tr>
                                 <td><strong>SM-A346N</strong> (Korea)</td>
                                 <td>Android 13-14</td>
-                                <td>Tất cả</td>
+                                <td>T?t c?</td>
                                 <td><i class="fas fa-check-circle text-success me-1"></i>ADB + Download</td>
                                 <td><span class="badge bg-success">93%</span></td>
                             </tr>
                             <tr>
                                 <td><strong>SM-A346M</strong> (Latin)</td>
                                 <td>Android 13-14</td>
-                                <td>Tất cả</td>
+                                <td>T?t c?</td>
                                 <td><i class="fas fa-check-circle text-success me-1"></i>ADB + Download</td>
                                 <td><span class="badge bg-success">95%</span></td>
                             </tr>
@@ -577,317 +547,317 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                 </div>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-thumbs-up me-2"></i>Kết luận: Samsung A34 5G hoàn toàn tương thích!</h5>
-                    <p class="mb-0"><strong>Tất cả phiên bản Samsung Galaxy A34 5G</strong> (SM-A346E, SM-A346B, SM-A346N, SM-A346M) đều được UnlockTool hỗ trợ bypass FRP với tỉ lệ thành công <strong>93-98%</strong>. Cả Android 13 (One UI 5.1) và Android 14 (One UI 6.x) với bản vá bảo mật mới nhất 2026 đều có thể bypass thành công.</p>
+                    <h5><i class="fas fa-thumbs-up me-2"></i>K?t lu?n: Samsung A34 5G ho�n to�n tuong th�ch!</h5>
+                    <p class="mb-0"><strong>T?t c? phi�n b?n Samsung Galaxy A34 5G</strong> (SM-A346E, SM-A346B, SM-A346N, SM-A346M) d?u du?c UnlockTool h? tr? bypass FRP v?i t? l? th�nh c�ng <strong>93-98%</strong>. C? Android 13 (One UI 5.1) v� Android 14 (One UI 6.x) v?i b?n v� b?o m?t m?i nh?t 2026 d?u c� th? bypass th�nh c�ng.</p>
                 </div>
 
-                <h3><i class="fas fa-question-circle me-2"></i>Cách kiểm tra model number Samsung A34</h3>
-                <p>Để xác định chính xác model number của Samsung A34 5G:</p>
+                <h3><i class="fas fa-question-circle me-2"></i>C�ch ki?m tra model number Samsung A34</h3>
+                <p>�? x�c d?nh ch�nh x�c model number c?a Samsung A34 5G:</p>
                 <ul>
-                    <li><strong>Cách 1:</strong> Vào Settings > About Phone > Model Number</li>
-                    <li><strong>Cách 2:</strong> Nhập *#1234# trên bàn phím dial (nếu vào được)</li>
-                    <li><strong>Cách 3:</strong> Xem trên hộp máy hoặc hóa đơn mua hàng</li>
-                    <li><strong>Cách 4:</strong> Xem nhãn dưới khay SIM hoặc mặt sau máy</li>
+                    <li><strong>C�ch 1:</strong> V�o Settings > About Phone > Model Number</li>
+                    <li><strong>C�ch 2:</strong> Nh?p *#1234# tr�n b�n ph�m dial (n?u v�o du?c)</li>
+                    <li><strong>C�ch 3:</strong> Xem tr�n h?p m�y ho?c h�a don mua h�ng</li>
+                    <li><strong>C�ch 4:</strong> Xem nh�n du?i khay SIM ho?c m?t sau m�y</li>
                 </ul>
             </section>
 
-            <!-- Section 4: Chuẩn bị -->
+            <!-- Section 4: Chu?n b? -->
             <section id="chuan-bi">
-                <h2><i class="fas fa-clipboard-check me-2"></i>4. Chuẩn Bị Trước Khi Bypass FRP Samsung A34 5G</h2>
+                <h2><i class="fas fa-clipboard-check me-2"></i>4. Chu?n B? Tru?c Khi Bypass FRP Samsung A34 5G</h2>
                 
-                <p>Trước khi bắt đầu quá trình bypass FRP, bạn cần chuẩn bị đầy đủ phần cứng và phần mềm sau đây để đảm bảo quá trình diễn ra suôn sẻ:</p>
+                <p>Tru?c khi b?t d?u qu� tr�nh bypass FRP, b?n c?n chu?n b? d?y d? ph?n c?ng v� ph?n m?m sau d�y d? d?m b?o qu� tr�nh di?n ra su�n s?:</p>
 
-                <h3><i class="fas fa-desktop me-2"></i>4.1. Yêu cầu phần cứng</h3>
+                <h3><i class="fas fa-desktop me-2"></i>4.1. Y�u c?u ph?n c?ng</h3>
                 <div class="feature-card">
                     <table class="table mb-0">
                         <tbody>
                             <tr>
-                                <td width="40%"><strong><i class="fas fa-laptop me-2 text-primary"></i>Máy tính</strong></td>
-                                <td>Windows 10 / 11 (64-bit) - Khuyến nghị Windows 10</td>
+                                <td width="40%"><strong><i class="fas fa-laptop me-2 text-primary"></i>M�y t�nh</strong></td>
+                                <td>Windows 10 / 11 (64-bit) - Khuy?n ngh? Windows 10</td>
                             </tr>
                             <tr>
-                                <td><strong><i class="fas fa-memory me-2 text-primary"></i>RAM máy tính</strong></td>
-                                <td>Tối thiểu 4GB, khuyến nghị 8GB trở lên</td>
+                                <td><strong><i class="fas fa-memory me-2 text-primary"></i>RAM m�y t�nh</strong></td>
+                                <td>T?i thi?u 4GB, khuy?n ngh? 8GB tr? l�n</td>
                             </tr>
                             <tr>
-                                <td><strong><i class="fas fa-usb me-2 text-primary"></i>Cáp USB</strong></td>
-                                <td>Cáp USB Type-C chính hãng Samsung hoặc cáp tốt có truyền data</td>
+                                <td><strong><i class="fas fa-usb me-2 text-primary"></i>C�p USB</strong></td>
+                                <td>C�p USB Type-C ch�nh h�ng Samsung ho?c c�p t?t c� truy?n data</td>
                             </tr>
                             <tr>
                                 <td><strong><i class="fas fa-mobile-alt me-2 text-primary"></i>Samsung A34 5G</strong></td>
-                                <td>Pin sạc trên 50%, màn hình không bị vỡ nặng</td>
+                                <td>Pin s?c tr�n 50%, m�n h�nh kh�ng b? v? n?ng</td>
                             </tr>
                             <tr>
-                                <td><strong><i class="fas fa-wifi me-2 text-primary"></i>Kết nối internet</strong></td>
-                                <td>Ổn định cho cả máy tính và điện thoại (nếu cần)</td>
+                                <td><strong><i class="fas fa-wifi me-2 text-primary"></i>K?t n?i internet</strong></td>
+                                <td>?n d?nh cho c? m�y t�nh v� di?n tho?i (n?u c?n)</td>
                             </tr>
                         </tbody>
                     </table>
                 </div>
 
-                <h3><i class="fas fa-download me-2"></i>4.2. Yêu cầu phần mềm</h3>
+                <h3><i class="fas fa-download me-2"></i>4.2. Y�u c?u ph?n m?m</h3>
                 <div class="feature-card">
                     <table class="table mb-0">
                         <tbody>
                             <tr>
                                 <td width="40%"><strong><i class="fas fa-usb me-2 text-success"></i>Samsung USB Driver</strong></td>
-                                <td><a href="https://file.unlocktool.net/page/all-driver" target="_blank" class="btn btn-sm btn-outline-primary">Tải Driver</a> - Bắt buộc cài trước</td>
+                                <td><a href="https://file.unlocktool.net/page/all-driver" target="_blank" class="btn btn-sm btn-outline-primary">T?i Driver</a> - B?t bu?c c�i tru?c</td>
                             </tr>
                             <tr>
                                 <td><strong><i class="fas fa-tools me-2 text-success"></i>UnlockTool</strong></td>
-                                <td><a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-sm btn-outline-primary">Tải UnlockTool</a> - Phiên bản mới nhất</td>
+                                <td><a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-sm btn-outline-primary">T?i UnlockTool</a> - Phi�n b?n m?i nh?t</td>
                             </tr>
                             <tr>
-                                <td><strong><i class="fas fa-key me-2 text-success"></i>Tài khoản UnlockTool</strong></td>
-                                <td><a href="https://www.unlocktool.us/" target="_blank" class="btn btn-sm btn-samsung">Thuê 8.000đ/6H</a></td>
+                                <td><strong><i class="fas fa-key me-2 text-success"></i>T�i kho?n UnlockTool</strong></td>
+                                <td><a href="https://www.unlocktool.us/" target="_blank" class="btn btn-sm btn-samsung">Thu� 8.000d/6H</a></td>
                             </tr>
                         </tbody>
                     </table>
                 </div>
 
-                <h3><i class="fas fa-cog me-2"></i>4.3. Các bước chuẩn bị trên máy tính</h3>
+                <h3><i class="fas fa-cog me-2"></i>4.3. C�c bu?c chu?n b? tr�n m�y t�nh</h3>
                 <div class="step-card">
                     <div class="step-number">1</div>
-                    <h4>Cài đặt Samsung USB Driver</h4>
+                    <h4>C�i d?t Samsung USB Driver</h4>
                     <ol>
-                        <li>Tải Samsung USB Driver từ <a href="https://file.unlocktool.net/page/all-driver" target="_blank">file.unlocktool.net/page/all-driver</a></li>
-                        <li>Giải nén file tải về</li>
-                        <li>Chạy file <strong>SAMSUNG_USB_Driver_for_Mobile_Phones.exe</strong> với quyền Administrator</li>
-                        <li>Hoàn tất cài đặt và <strong>restart máy tính</strong></li>
+                        <li>T?i Samsung USB Driver t? <a href="https://file.unlocktool.net/page/all-driver" target="_blank">file.unlocktool.net/page/all-driver</a></li>
+                        <li>Gi?i n�n file t?i v?</li>
+                        <li>Ch?y file <strong>SAMSUNG_USB_Driver_for_Mobile_Phones.exe</strong> v?i quy?n Administrator</li>
+                        <li>Ho�n t?t c�i d?t v� <strong>restart m�y t�nh</strong></li>
                     </ol>
-                    <p class="mb-0"><em><i class="fas fa-lightbulb me-1"></i>Tip: Có thể cài Samsung Smart Switch - driver sẽ được cài tự động</em></p>
+                    <p class="mb-0"><em><i class="fas fa-lightbulb me-1"></i>Tip: C� th? c�i Samsung Smart Switch - driver s? du?c c�i t? d?ng</em></p>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">2</div>
-                    <h4>Tải và chuẩn bị UnlockTool</h4>
+                    <h4>T?i v� chu?n b? UnlockTool</h4>
                     <ol>
-                        <li>Tải UnlockTool từ <a href="https://file.unlocktool.net/page/index.php" target="_blank">file.unlocktool.net</a></li>
-                        <li>Giải nén vào thư mục <strong>không có dấu tiếng Việt</strong> (ví dụ: D:\UnlockTool)</li>
-                        <li><strong>Tắt Windows Defender</strong> và phần mềm antivirus tạm thời</li>
-                        <li>Add thư mục UnlockTool vào <strong>Exclusion</strong> của Windows Defender</li>
+                        <li>T?i UnlockTool t? <a href="https://file.unlocktool.net/page/index.php" target="_blank">file.unlocktool.net</a></li>
+                        <li>Gi?i n�n v�o thu m?c <strong>kh�ng c� d?u ti?ng Vi?t</strong> (v� d?: D:\UnlockTool)</li>
+                        <li><strong>T?t Windows Defender</strong> v� ph?n m?m antivirus t?m th?i</li>
+                        <li>Add thu m?c UnlockTool v�o <strong>Exclusion</strong> c?a Windows Defender</li>
                     </ol>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">3</div>
-                    <h4>Thuê tài khoản UnlockTool</h4>
+                    <h4>Thu� t�i kho?n UnlockTool</h4>
                     <ol>
-                        <li>Truy cập <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a></li>
-                        <li>Chọn gói <strong>8.000đ/6 tiếng</strong> (có thể bypass nhiều máy)</li>
-                        <li>Thanh toán qua MoMo, ZaloPay, chuyển khoản ngân hàng...</li>
-                        <li>Nhận ngay thông tin đăng nhập qua email/SMS</li>
+                        <li>Truy c?p <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a></li>
+                        <li>Ch?n g�i <strong>8.000d/6 ti?ng</strong> (c� th? bypass nhi?u m�y)</li>
+                        <li>Thanh to�n qua MoMo, ZaloPay, chuy?n kho?n ng�n h�ng...</li>
+                        <li>Nh?n ngay th�ng tin dang nh?p qua email/SMS</li>
                     </ol>
                 </div>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý quan trọng trước khi bypass</h5>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu � quan tr?ng tru?c khi bypass</h5>
                     <ul class="mb-0">
-                        <li><strong>Tắt Windows Defender:</strong> Windows Defender có thể chặn UnlockTool, gây lỗi không chạy được</li>
-                        <li><strong>Chạy Administrator:</strong> Luôn chuột phải > Run as Administrator khi mở UnlockTool</li>
-                        <li><strong>Cáp USB tốt:</strong> Cáp kém chất lượng là nguyên nhân phổ biến nhất gây lỗi không nhận máy</li>
-                        <li><strong>Pin đủ:</strong> Đảm bảo pin Samsung A34 trên 50% để tránh tắt máy giữa chừng</li>
-                        <li><strong>Không ngắt kết nối:</strong> Tuyệt đối không rút cáp USB trong quá trình bypass</li>
+                        <li><strong>T?t Windows Defender:</strong> Windows Defender c� th? ch?n UnlockTool, g�y l?i kh�ng ch?y du?c</li>
+                        <li><strong>Ch?y Administrator:</strong> Lu�n chu?t ph?i > Run as Administrator khi m? UnlockTool</li>
+                        <li><strong>C�p USB t?t:</strong> C�p k�m ch?t lu?ng l� nguy�n nh�n ph? bi?n nh?t g�y l?i kh�ng nh?n m�y</li>
+                        <li><strong>Pin d?:</strong> �?m b?o pin Samsung A34 tr�n 50% d? tr�nh t?t m�y gi?a ch?ng</li>
+                        <li><strong>Kh�ng ng?t k?t n?i:</strong> Tuy?t d?i kh�ng r�t c�p USB trong qu� tr�nh bypass</li>
                     </ul>
                 </div>
             </section>
 
             <!-- Section 5: ADB Mode -->
             <section id="adb-mode">
-                <h2><i class="fas fa-terminal me-2"></i>5. Phương Pháp 1: Bypass FRP Qua ADB Mode (Khuyến Nghị)</h2>
+                <h2><i class="fas fa-terminal me-2"></i>5. Phuong Ph�p 1: Bypass FRP Qua ADB Mode (Khuy?n Ngh?)</h2>
                 
                 <div class="method-card">
                     <div class="row align-items-center">
                         <div class="col-md-8">
-                            <h4><i class="fas fa-star text-warning me-2"></i>Phương pháp được khuyến nghị nhất</h4>
-                            <p class="mb-0">ADB Mode là phương pháp nhanh nhất, an toàn nhất và có tỉ lệ thành công cao nhất cho Samsung A34 5G. Yêu cầu bật được USB Debugging trên máy.</p>
+                            <h4><i class="fas fa-star text-warning me-2"></i>Phuong ph�p du?c khuy?n ngh? nh?t</h4>
+                            <p class="mb-0">ADB Mode l� phuong ph�p nhanh nh?t, an to�n nh?t v� c� t? l? th�nh c�ng cao nh?t cho Samsung A34 5G. Y�u c?u b?t du?c USB Debugging tr�n m�y.</p>
                         </div>
                         <div class="col-md-4 text-center">
-                            <span class="badge bg-success fs-5 px-4 py-2">Tỉ lệ: 98%</span>
+                            <span class="badge bg-success fs-5 px-4 py-2">T? l?: 98%</span>
                         </div>
                     </div>
                 </div>
 
-                <h3><i class="fas fa-info-circle me-2"></i>Khi nào sử dụng ADB Mode?</h3>
+                <h3><i class="fas fa-info-circle me-2"></i>Khi n�o s? d?ng ADB Mode?</h3>
                 <ul>
-                    <li>Máy đang ở màn hình FRP (Hello screen) và có thể thao tác được</li>
-                    <li>Có thể truy cập vào Settings để bật USB Debugging</li>
-                    <li>Muốn bypass nhanh và không mất dữ liệu (nếu còn)</li>
+                    <li>M�y dang ? m�n h�nh FRP (Hello screen) v� c� th? thao t�c du?c</li>
+                    <li>C� th? truy c?p v�o Settings d? b?t USB Debugging</li>
+                    <li>Mu?n bypass nhanh v� kh�ng m?t d? li?u (n?u c�n)</li>
                 </ul>
 
-                <h3><i class="fas fa-list-ol me-2"></i>Hướng dẫn chi tiết từng bước</h3>
+                <h3><i class="fas fa-list-ol me-2"></i>Hu?ng d?n chi ti?t t?ng bu?c</h3>
 
                 <div class="step-card" id="buoc-1">
                     <div class="step-number">1</div>
-                    <h4>Bật USB Debugging trên Samsung A34</h4>
-                    <p>Tại màn hình FRP, bạn cần truy cập vào Settings để bật USB Debugging. Có nhiều cách để vào Settings:</p>
+                    <h4>B?t USB Debugging tr�n Samsung A34</h4>
+                    <p>T?i m�n h�nh FRP, b?n c?n truy c?p v�o Settings d? b?t USB Debugging. C� nhi?u c�ch d? v�o Settings:</p>
                     
-                    <h5><i class="fas fa-phone me-2"></i>Cách 1: Qua Emergency Call (Phổ biến nhất)</h5>
+                    <h5><i class="fas fa-phone me-2"></i>C�ch 1: Qua Emergency Call (Ph? bi?n nh?t)</h5>
                     <ol>
-                        <li>Tại màn hình Hello, nhấn <strong>Emergency Call</strong></li>
-                        <li>Gõ <strong>*#0*#</strong> trên bàn phím dial</li>
-                        <li>Màn hình Service Menu hiện ra</li>
-                        <li>Nhấn nút Back nhiều lần hoặc tìm cách vào Settings</li>
+                        <li>T?i m�n h�nh Hello, nh?n <strong>Emergency Call</strong></li>
+                        <li>G� <strong>*#0*#</strong> tr�n b�n ph�m dial</li>
+                        <li>M�n h�nh Service Menu hi?n ra</li>
+                        <li>Nh?n n�t Back nhi?u l?n ho?c t�m c�ch v�o Settings</li>
                     </ol>
 
-                    <h5><i class="fas fa-microphone me-2"></i>Cách 2: Qua Google Assistant</h5>
+                    <h5><i class="fas fa-microphone me-2"></i>C�ch 2: Qua Google Assistant</h5>
                     <ol>
-                        <li>Kết nối WiFi trên màn hình setup</li>
-                        <li>Nói "Hey Google" hoặc giữ nút Home</li>
-                        <li>Nói "Open Settings" hoặc "Mở Cài đặt"</li>
-                        <li>Google Assistant sẽ mở Settings cho bạn</li>
+                        <li>K?t n?i WiFi tr�n m�n h�nh setup</li>
+                        <li>N�i "Hey Google" ho?c gi? n�t Home</li>
+                        <li>N�i "Open Settings" ho?c "M? C�i d?t"</li>
+                        <li>Google Assistant s? m? Settings cho b?n</li>
                     </ol>
 
-                    <h5><i class="fab fa-chrome me-2"></i>Cách 3: Qua Chrome/Browser</h5>
+                    <h5><i class="fab fa-chrome me-2"></i>C�ch 3: Qua Chrome/Browser</h5>
                     <ol>
-                        <li>Kết nối WiFi > Tiếp tục setup cho đến khi có thể mở browser</li>
-                        <li>Mở Chrome và truy cập trang có link APK Settings</li>
-                        <li>Tải và cài APK để mở Settings</li>
+                        <li>K?t n?i WiFi > Ti?p t?c setup cho d?n khi c� th? m? browser</li>
+                        <li>M? Chrome v� truy c?p trang c� link APK Settings</li>
+                        <li>T?i v� c�i APK d? m? Settings</li>
                     </ol>
 
                     <div class="info-box">
-                        <p class="mb-0"><strong>Sau khi vào được Settings:</strong> Vào <strong>About Phone > Software Information</strong> > Nhấn <strong>Build Number</strong> 7 lần > Quay lại Settings > <strong>Developer Options</strong> > Bật <strong>USB Debugging</strong></p>
+                        <p class="mb-0"><strong>Sau khi v�o du?c Settings:</strong> V�o <strong>About Phone > Software Information</strong> > Nh?n <strong>Build Number</strong> 7 l?n > Quay l?i Settings > <strong>Developer Options</strong> > B?t <strong>USB Debugging</strong></p>
                     </div>
                 </div>
 
                 <div class="step-card" id="buoc-2">
                     <div class="step-number">2</div>
-                    <h4>Mở UnlockTool và đăng nhập</h4>
+                    <h4>M? UnlockTool v� dang nh?p</h4>
                     <ol>
-                        <li>Chuột phải vào <strong>UnlockTool.exe</strong> > <strong>Run as Administrator</strong></li>
-                        <li>Nhập tài khoản đã thuê từ <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a></li>
-                        <li>Click <strong>Login</strong> và đợi kết nối với server</li>
-                        <li>Giao diện chính của UnlockTool hiện ra</li>
+                        <li>Chu?t ph?i v�o <strong>UnlockTool.exe</strong> > <strong>Run as Administrator</strong></li>
+                        <li>Nh?p t�i kho?n d� thu� t? <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a></li>
+                        <li>Click <strong>Login</strong> v� d?i k?t n?i v?i server</li>
+                        <li>Giao di?n ch�nh c?a UnlockTool hi?n ra</li>
                     </ol>
                 </div>
 
                 <div class="step-card" id="buoc-3">
                     <div class="step-number">3</div>
-                    <h4>Kết nối Samsung A34 với máy tính</h4>
+                    <h4>K?t n?i Samsung A34 v?i m�y t�nh</h4>
                     <ol>
-                        <li>Cắm cáp USB Type-C từ Samsung A34 vào máy tính</li>
-                        <li>Trên điện thoại sẽ hiện popup <strong>"Allow USB Debugging?"</strong></li>
-                        <li>Tick vào <strong>"Always allow from this computer"</strong></li>
-                        <li>Nhấn <strong>Allow</strong></li>
-                        <li>Kiểm tra Device Manager xem đã nhận Samsung A34 chưa</li>
+                        <li>C?m c�p USB Type-C t? Samsung A34 v�o m�y t�nh</li>
+                        <li>Tr�n di?n tho?i s? hi?n popup <strong>"Allow USB Debugging?"</strong></li>
+                        <li>Tick v�o <strong>"Always allow from this computer"</strong></li>
+                        <li>Nh?n <strong>Allow</strong></li>
+                        <li>Ki?m tra Device Manager xem d� nh?n Samsung A34 chua</li>
                     </ol>
                 </div>
 
                 <div class="step-card" id="buoc-4">
                     <div class="step-number">4</div>
-                    <h4>Thực hiện bypass FRP</h4>
+                    <h4>Th?c hi?n bypass FRP</h4>
                     <ol>
                         <li>Trong UnlockTool, click tab <strong>Samsung</strong></li>
-                        <li>Chọn <strong>ADB Mode</strong> ở panel bên trái</li>
-                        <li>UnlockTool sẽ tự động nhận diện Samsung A34 5G</li>
-                        <li>Click nút <strong>Remove FRP</strong></li>
-                        <li>Đợi 1-2 phút để quá trình hoàn tất</li>
-                        <li>Máy sẽ tự động khởi động lại</li>
+                        <li>Ch?n <strong>ADB Mode</strong> ? panel b�n tr�i</li>
+                        <li>UnlockTool s? t? d?ng nh?n di?n Samsung A34 5G</li>
+                        <li>Click n�t <strong>Remove FRP</strong></li>
+                        <li>�?i 1-2 ph�t d? qu� tr�nh ho�n t?t</li>
+                        <li>M�y s? t? d?ng kh?i d?ng l?i</li>
                     </ol>
                 </div>
 
                 <div class="step-card" id="buoc-5">
                     <div class="step-number">5</div>
-                    <h4>Thiết lập lại điện thoại</h4>
+                    <h4>Thi?t l?p l?i di?n tho?i</h4>
                     <ol>
-                        <li>Sau khi khởi động, máy vào màn hình Welcome</li>
-                        <li>Thiết lập ngôn ngữ, kết nối WiFi</li>
-                        <li>Khi đến phần đăng nhập Google > <strong>Skip</strong> hoặc đăng nhập tài khoản mới</li>
-                        <li>Hoàn tất các bước setup còn lại</li>
-                        <li><strong>Bypass thành công!</strong></li>
+                        <li>Sau khi kh?i d?ng, m�y v�o m�n h�nh Welcome</li>
+                        <li>Thi?t l?p ng�n ng?, k?t n?i WiFi</li>
+                        <li>Khi d?n ph?n dang nh?p Google > <strong>Skip</strong> ho?c dang nh?p t�i kho?n m?i</li>
+                        <li>Ho�n t?t c�c bu?c setup c�n l?i</li>
+                        <li><strong>Bypass th�nh c�ng!</strong></li>
                     </ol>
                 </div>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-check-circle me-2"></i>Ưu điểm của phương pháp ADB Mode</h5>
+                    <h5><i class="fas fa-check-circle me-2"></i>Uu di?m c?a phuong ph�p ADB Mode</h5>
                     <ul class="mb-0">
-                        <li><strong>Nhanh:</strong> Chỉ mất 1-2 phút để bypass</li>
-                        <li><strong>An toàn:</strong> Không ảnh hưởng đến phần cứng</li>
-                        <li><strong>Giữ dữ liệu:</strong> Thường không xóa dữ liệu có sẵn</li>
-                        <li><strong>Tỉ lệ cao:</strong> 98% thành công cho Samsung A34</li>
-                        <li><strong>Đơn giản:</strong> Ít thao tác phức tạp</li>
+                        <li><strong>Nhanh:</strong> Ch? m?t 1-2 ph�t d? bypass</li>
+                        <li><strong>An to�n:</strong> Kh�ng ?nh hu?ng d?n ph?n c?ng</li>
+                        <li><strong>Gi? d? li?u:</strong> Thu?ng kh�ng x�a d? li?u c� s?n</li>
+                        <li><strong>T? l? cao:</strong> 98% th�nh c�ng cho Samsung A34</li>
+                        <li><strong>�on gi?n:</strong> �t thao t�c ph?c t?p</li>
                     </ul>
                 </div>
             </section>
 
             <!-- Section 6: Download Mode -->
             <section id="download-mode">
-                <h2><i class="fas fa-download me-2"></i>6. Phương Pháp 2: Bypass FRP Qua Download Mode</h2>
+                <h2><i class="fas fa-download me-2"></i>6. Phuong Ph�p 2: Bypass FRP Qua Download Mode</h2>
                 
                 <div class="method-card">
                     <div class="row align-items-center">
                         <div class="col-md-8">
-                            <h4><i class="fas fa-cog me-2"></i>Phương pháp thay thế khi không bật được ADB</h4>
-                            <p class="mb-0">Download Mode bypass FRP ở cấp độ firmware, hiệu quả khi không thể bật USB Debugging. Có thể xóa dữ liệu.</p>
+                            <h4><i class="fas fa-cog me-2"></i>Phuong ph�p thay th? khi kh�ng b?t du?c ADB</h4>
+                            <p class="mb-0">Download Mode bypass FRP ? c?p d? firmware, hi?u qu? khi kh�ng th? b?t USB Debugging. C� th? x�a d? li?u.</p>
                         </div>
                         <div class="col-md-4 text-center">
-                            <span class="badge bg-primary fs-5 px-4 py-2">Tỉ lệ: 95%</span>
+                            <span class="badge bg-primary fs-5 px-4 py-2">T? l?: 95%</span>
                         </div>
                     </div>
                 </div>
 
-                <h3><i class="fas fa-info-circle me-2"></i>Khi nào sử dụng Download Mode?</h3>
+                <h3><i class="fas fa-info-circle me-2"></i>Khi n�o s? d?ng Download Mode?</h3>
                 <ul>
-                    <li>Không thể bật USB Debugging bằng các cách trên</li>
-                    <li>Bản vá bảo mật mới đã chặn các trick vào Settings</li>
-                    <li>Máy bị brick hoặc không boot được vào Android</li>
-                    <li>Chấp nhận mất dữ liệu (thường máy FRP đã mất dữ liệu rồi)</li>
+                    <li>Kh�ng th? b?t USB Debugging b?ng c�c c�ch tr�n</li>
+                    <li>B?n v� b?o m?t m?i d� ch?n c�c trick v�o Settings</li>
+                    <li>M�y b? brick ho?c kh�ng boot du?c v�o Android</li>
+                    <li>Ch?p nh?n m?t d? li?u (thu?ng m�y FRP d� m?t d? li?u r?i)</li>
                 </ul>
 
-                <h3><i class="fas fa-list-ol me-2"></i>Hướng dẫn chi tiết từng bước</h3>
+                <h3><i class="fas fa-list-ol me-2"></i>Hu?ng d?n chi ti?t t?ng bu?c</h3>
 
                 <div class="step-card">
                     <div class="step-number">1</div>
-                    <h4>Vào Download Mode trên Samsung A34 5G</h4>
-                    <p>Có 2 cách để vào Download Mode:</p>
+                    <h4>V�o Download Mode tr�n Samsung A34 5G</h4>
+                    <p>C� 2 c�ch d? v�o Download Mode:</p>
                     
-                    <h5><i class="fas fa-power-off me-2"></i>Cách 1: Từ trạng thái tắt máy</h5>
+                    <h5><i class="fas fa-power-off me-2"></i>C�ch 1: T? tr?ng th�i t?t m�y</h5>
                     <ol>
-                        <li>Tắt nguồn Samsung A34 hoàn toàn (giữ nút Power 10 giây nếu cần)</li>
-                        <li>Đợi màn hình tắt hẳn (5 giây)</li>
-                        <li>Giữ đồng thời <strong>Volume Up + Volume Down</strong></li>
-                        <li>Vẫn giữ 2 nút, cắm cáp USB vào máy tính</li>
-                        <li>Khi thấy màn hình cảnh báo xanh, nhả 2 nút volume</li>
-                        <li>Nhấn <strong>Volume Up</strong> để confirm vào Download Mode</li>
-                        <li>Màn hình hiện <strong>"Downloading... Do not turn off target!!"</strong> là OK</li>
+                        <li>T?t ngu?n Samsung A34 ho�n to�n (gi? n�t Power 10 gi�y n?u c?n)</li>
+                        <li>�?i m�n h�nh t?t h?n (5 gi�y)</li>
+                        <li>Gi? d?ng th?i <strong>Volume Up + Volume Down</strong></li>
+                        <li>V?n gi? 2 n�t, c?m c�p USB v�o m�y t�nh</li>
+                        <li>Khi th?y m�n h�nh c?nh b�o xanh, nh? 2 n�t volume</li>
+                        <li>Nh?n <strong>Volume Up</strong> d? confirm v�o Download Mode</li>
+                        <li>M�n h�nh hi?n <strong>"Downloading... Do not turn off target!!"</strong> l� OK</li>
                     </ol>
 
-                    <h5><i class="fas fa-redo me-2"></i>Cách 2: Từ Recovery Mode</h5>
+                    <h5><i class="fas fa-redo me-2"></i>C�ch 2: T? Recovery Mode</h5>
                     <ol>
-                        <li>Tắt máy hoàn toàn</li>
-                        <li>Giữ <strong>Volume Up + Power</strong> cho đến khi logo Samsung hiện</li>
-                        <li>Vào Recovery Mode</li>
-                        <li>Chọn <strong>Reboot to bootloader</strong> hoặc vào Download Mode từ đây</li>
+                        <li>T?t m�y ho�n to�n</li>
+                        <li>Gi? <strong>Volume Up + Power</strong> cho d?n khi logo Samsung hi?n</li>
+                        <li>V�o Recovery Mode</li>
+                        <li>Ch?n <strong>Reboot to bootloader</strong> ho?c v�o Download Mode t? d�y</li>
                     </ol>
 
                     <div class="warning-box">
-                        <p class="mb-0"><strong>Quan trọng:</strong> Khi thấy màn hình cảnh báo màu xanh với dòng chữ "Warning", bạn PHẢI nhấn Volume Up để tiếp tục. Nếu nhấn Volume Down, máy sẽ cancel và khởi động lại.</p>
+                        <p class="mb-0"><strong>Quan tr?ng:</strong> Khi th?y m�n h�nh c?nh b�o m�u xanh v?i d�ng ch? "Warning", b?n PH?I nh?n Volume Up d? ti?p t?c. N?u nh?n Volume Down, m�y s? cancel v� kh?i d?ng l?i.</p>
                     </div>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">2</div>
-                    <h4>Kết nối với UnlockTool</h4>
+                    <h4>K?t n?i v?i UnlockTool</h4>
                     <ol>
-                        <li>Mở UnlockTool với quyền Administrator</li>
-                        <li>Đăng nhập tài khoản</li>
+                        <li>M? UnlockTool v?i quy?n Administrator</li>
+                        <li>�ang nh?p t�i kho?n</li>
                         <li>Click tab <strong>Samsung</strong></li>
-                        <li>Chọn <strong>Download Mode</strong> ở panel bên trái</li>
-                        <li>UnlockTool sẽ tự động nhận Samsung A34 ở Download Mode</li>
-                        <li>Thông tin máy (model, IMEI) sẽ hiển thị</li>
+                        <li>Ch?n <strong>Download Mode</strong> ? panel b�n tr�i</li>
+                        <li>UnlockTool s? t? d?ng nh?n Samsung A34 ? Download Mode</li>
+                        <li>Th�ng tin m�y (model, IMEI) s? hi?n th?</li>
                     </ol>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">3</div>
-                    <h4>Thực hiện bypass FRP</h4>
+                    <h4>Th?c hi?n bypass FRP</h4>
                     <ol>
-                        <li>Sau khi nhận máy, chọn chức năng <strong>Remove FRP</strong> hoặc <strong>Reset FRP</strong></li>
+                        <li>Sau khi nh?n m�y, ch?n ch?c nang <strong>Remove FRP</strong> ho?c <strong>Reset FRP</strong></li>
                         <li>Click <strong>Start</strong></li>
-                        <li>UnlockTool sẽ gửi các file cần thiết đến Samsung A34</li>
-                        <li>Đợi quá trình hoàn tất (3-5 phút)</li>
-                        <li>Máy sẽ tự động reboot</li>
-                        <li>Bypass thành công!</li>
+                        <li>UnlockTool s? g?i c�c file c?n thi?t d?n Samsung A34</li>
+                        <li>�?i qu� tr�nh ho�n t?t (3-5 ph�t)</li>
+                        <li>M�y s? t? d?ng reboot</li>
+                        <li>Bypass th�nh c�ng!</li>
                     </ol>
                 </div>
 
@@ -895,114 +865,114 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                     <div class="step-number">4</div>
                     <h4>Sau khi bypass</h4>
                     <ol>
-                        <li>Máy khởi động vào màn hình Welcome</li>
-                        <li>Thiết lập lại như máy mới</li>
-                        <li>Skip hoặc đăng nhập Google Account mới</li>
-                        <li>Hoàn tất setup</li>
+                        <li>M�y kh?i d?ng v�o m�n h�nh Welcome</li>
+                        <li>Thi?t l?p l?i nhu m�y m?i</li>
+                        <li>Skip ho?c dang nh?p Google Account m?i</li>
+                        <li>Ho�n t?t setup</li>
                     </ol>
                 </div>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý quan trọng về Download Mode</h5>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu � quan tr?ng v? Download Mode</h5>
                     <ul class="mb-0">
-                        <li><strong>Mất dữ liệu:</strong> Phương pháp này có thể xóa toàn bộ dữ liệu trên máy</li>
-                        <li><strong>Không rút cáp:</strong> Tuyệt đối không rút cáp USB trong quá trình bypass</li>
-                        <li><strong>Pin đủ:</strong> Đảm bảo pin trên 50% để tránh tắt máy giữa chừng</li>
-                        <li><strong>Kiên nhẫn:</strong> Quá trình có thể mất 3-5 phút, không cancel giữa chừng</li>
+                        <li><strong>M?t d? li?u:</strong> Phuong ph�p n�y c� th? x�a to�n b? d? li?u tr�n m�y</li>
+                        <li><strong>Kh�ng r�t c�p:</strong> Tuy?t d?i kh�ng r�t c�p USB trong qu� tr�nh bypass</li>
+                        <li><strong>Pin d?:</strong> �?m b?o pin tr�n 50% d? tr�nh t?t m�y gi?a ch?ng</li>
+                        <li><strong>Ki�n nh?n:</strong> Qu� tr�nh c� th? m?t 3-5 ph�t, kh�ng cancel gi?a ch?ng</li>
                     </ul>
                 </div>
             </section>
 
             <!-- Section 7: Emergency Call -->
             <section id="emergency-call">
-                <h2><i class="fas fa-phone-alt me-2"></i>7. Phương Pháp 3: Emergency Call Trick (Tùy Chọn)</h2>
+                <h2><i class="fas fa-phone-alt me-2"></i>7. Phuong Ph�p 3: Emergency Call Trick (T�y Ch?n)</h2>
                 
                 <div class="method-card">
                     <div class="row align-items-center">
                         <div class="col-md-8">
-                            <h4><i class="fas fa-magic me-2"></i>Phương pháp miễn phí không cần tool</h4>
-                            <p class="mb-0">Đây là phương pháp sử dụng lỗ hổng bảo mật trong Android để truy cập Settings. Chỉ hiệu quả trên một số bản vá cũ.</p>
+                            <h4><i class="fas fa-magic me-2"></i>Phuong ph�p mi?n ph� kh�ng c?n tool</h4>
+                            <p class="mb-0">��y l� phuong ph�p s? d?ng l? h?ng b?o m?t trong Android d? truy c?p Settings. Ch? hi?u qu? tr�n m?t s? b?n v� cu.</p>
                         </div>
                         <div class="col-md-4 text-center">
-                            <span class="badge bg-warning text-dark fs-5 px-4 py-2">Tỉ lệ: 40-60%</span>
+                            <span class="badge bg-warning text-dark fs-5 px-4 py-2">T? l?: 40-60%</span>
                         </div>
                     </div>
                 </div>
 
-                <h3><i class="fas fa-info-circle me-2"></i>Khi nào sử dụng Emergency Call Trick?</h3>
+                <h3><i class="fas fa-info-circle me-2"></i>Khi n�o s? d?ng Emergency Call Trick?</h3>
                 <ul>
-                    <li>Máy Samsung A34 với Android 13 và bản vá cũ (trước 2024)</li>
-                    <li>Muốn thử phương pháp miễn phí trước</li>
-                    <li>Không có máy tính để sử dụng UnlockTool</li>
+                    <li>M�y Samsung A34 v?i Android 13 v� b?n v� cu (tru?c 2024)</li>
+                    <li>Mu?n th? phuong ph�p mi?n ph� tru?c</li>
+                    <li>Kh�ng c� m�y t�nh d? s? d?ng UnlockTool</li>
                 </ul>
 
-                <h3><i class="fas fa-list-ol me-2"></i>Hướng dẫn chi tiết</h3>
+                <h3><i class="fas fa-list-ol me-2"></i>Hu?ng d?n chi ti?t</h3>
 
                 <div class="step-card">
                     <div class="step-number">1</div>
-                    <h4>Mở Emergency Call</h4>
+                    <h4>M? Emergency Call</h4>
                     <ol>
-                        <li>Tại màn hình Hello (màn hình setup ban đầu)</li>
-                        <li>Tìm và nhấn <strong>Emergency Call</strong> hoặc <strong>Cuộc gọi khẩn cấp</strong></li>
-                        <li>Bàn phím số sẽ hiện ra</li>
+                        <li>T?i m�n h�nh Hello (m�n h�nh setup ban d?u)</li>
+                        <li>T�m v� nh?n <strong>Emergency Call</strong> ho?c <strong>Cu?c g?i kh?n c?p</strong></li>
+                        <li>B�n ph�m s? s? hi?n ra</li>
                     </ol>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">2</div>
-                    <h4>Nhập mã Service Menu</h4>
+                    <h4>Nh?p m� Service Menu</h4>
                     <ol>
-                        <li>Gõ <strong>*#0*#</strong> trên bàn phím dial</li>
-                        <li>Màn hình Service Menu màu đen với các ô vuông sẽ hiện ra</li>
-                        <li>Nếu không hiện, thử các mã khác: <strong>*#*#4636#*#*</strong> hoặc <strong>*#*#0#*#*</strong></li>
+                        <li>G� <strong>*#0*#</strong> tr�n b�n ph�m dial</li>
+                        <li>M�n h�nh Service Menu m�u den v?i c�c � vu�ng s? hi?n ra</li>
+                        <li>N?u kh�ng hi?n, th? c�c m� kh�c: <strong>*#*#4636#*#*</strong> ho?c <strong>*#*#0#*#*</strong></li>
                     </ol>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">3</div>
-                    <h4>Truy cập Settings</h4>
+                    <h4>Truy c?p Settings</h4>
                     <ol>
-                        <li>Trong Service Menu, tìm cách để quay lại hoặc mở Settings</li>
-                        <li>Nhấn Back nhiều lần hoặc tìm option liên quan đến Settings</li>
-                        <li>Một số version có thể nhấn vào các ô test để trigger mở app khác</li>
+                        <li>Trong Service Menu, t�m c�ch d? quay l?i ho?c m? Settings</li>
+                        <li>Nh?n Back nhi?u l?n ho?c t�m option li�n quan d?n Settings</li>
+                        <li>M?t s? version c� th? nh?n v�o c�c � test d? trigger m? app kh�c</li>
                     </ol>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">4</div>
-                    <h4>Bật USB Debugging và bypass</h4>
+                    <h4>B?t USB Debugging v� bypass</h4>
                     <ol>
-                        <li>Khi vào được Settings, vào <strong>About Phone > Software Information</strong></li>
-                        <li>Nhấn <strong>Build Number</strong> 7 lần để bật Developer Mode</li>
-                        <li>Quay lại Settings > <strong>Developer Options</strong></li>
-                        <li>Bật <strong>USB Debugging</strong></li>
-                        <li>Kết nối với UnlockTool và bypass qua ADB Mode</li>
+                        <li>Khi v�o du?c Settings, v�o <strong>About Phone > Software Information</strong></li>
+                        <li>Nh?n <strong>Build Number</strong> 7 l?n d? b?t Developer Mode</li>
+                        <li>Quay l?i Settings > <strong>Developer Options</strong></li>
+                        <li>B?t <strong>USB Debugging</strong></li>
+                        <li>K?t n?i v?i UnlockTool v� bypass qua ADB Mode</li>
                     </ol>
                 </div>
 
                 <div class="danger-box">
-                    <h5><i class="fas fa-times-circle me-2"></i>Hạn chế của Emergency Call Trick</h5>
+                    <h5><i class="fas fa-times-circle me-2"></i>H?n ch? c?a Emergency Call Trick</h5>
                     <ul class="mb-0">
-                        <li><strong>Bị chặn:</strong> Samsung đã chặn trick này trên hầu hết các bản vá mới (2024-2026)</li>
-                        <li><strong>Tỉ lệ thấp:</strong> Chỉ khoảng 40-60% thành công tùy bản vá</li>
-                        <li><strong>Phức tạp:</strong> Cần thử nhiều cách khác nhau</li>
-                        <li><strong>Không ổn định:</strong> Có thể bị stuck hoặc loop</li>
+                        <li><strong>B? ch?n:</strong> Samsung d� ch?n trick n�y tr�n h?u h?t c�c b?n v� m?i (2024-2026)</li>
+                        <li><strong>T? l? th?p:</strong> Ch? kho?ng 40-60% th�nh c�ng t�y b?n v�</li>
+                        <li><strong>Ph?c t?p:</strong> C?n th? nhi?u c�ch kh�c nhau</li>
+                        <li><strong>Kh�ng ?n d?nh:</strong> C� th? b? stuck ho?c loop</li>
                     </ul>
-                    <p class="mt-3 mb-0"><strong>Khuyến nghị:</strong> Nếu Emergency Call Trick không hoạt động, hãy sử dụng <a href="#adb-mode">ADB Mode</a> hoặc <a href="#download-mode">Download Mode</a> với UnlockTool để có tỉ lệ thành công cao hơn.</p>
+                    <p class="mt-3 mb-0"><strong>Khuy?n ngh?:</strong> N?u Emergency Call Trick kh�ng ho?t d?ng, h�y s? d?ng <a href="#adb-mode">ADB Mode</a> ho?c <a href="#download-mode">Download Mode</a> v?i UnlockTool d? c� t? l? th�nh c�ng cao hon.</p>
                 </div>
             </section>
 
-            <!-- Section 8: So sánh phương pháp -->
+            <!-- Section 8: So s�nh phuong ph�p -->
             <section id="so-sanh">
-                <h2><i class="fas fa-balance-scale me-2"></i>8. So Sánh 3 Phương Pháp Bypass FRP Samsung A34</h2>
+                <h2><i class="fas fa-balance-scale me-2"></i>8. So S�nh 3 Phuong Ph�p Bypass FRP Samsung A34</h2>
                 
-                <p>Dưới đây là bảng so sánh chi tiết 3 phương pháp bypass FRP trên Samsung Galaxy A34 5G để bạn chọn phương pháp phù hợp nhất:</p>
+                <p>Du?i d�y l� b?ng so s�nh chi ti?t 3 phuong ph�p bypass FRP tr�n Samsung Galaxy A34 5G d? b?n ch?n phuong ph�p ph� h?p nh?t:</p>
 
                 <div class="table-responsive">
                     <table class="table table-custom">
                         <thead>
                             <tr>
-                                <th>Tiêu chí</th>
+                                <th>Ti�u ch�</th>
                                 <th><i class="fas fa-terminal me-1"></i>ADB Mode</th>
                                 <th><i class="fas fa-download me-1"></i>Download Mode</th>
                                 <th><i class="fas fa-phone me-1"></i>Emergency Call</th>
@@ -1010,106 +980,106 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                         </thead>
                         <tbody>
                             <tr class="comparison-best">
-                                <td><strong>Tỉ lệ thành công</strong></td>
+                                <td><strong>T? l? th�nh c�ng</strong></td>
                                 <td><span class="badge bg-success">98%</span> <i class="fas fa-crown text-warning"></i></td>
                                 <td><span class="badge bg-primary">95%</span></td>
                                 <td><span class="badge bg-warning text-dark">40-60%</span></td>
                             </tr>
                             <tr>
-                                <td><strong>Thời gian bypass</strong></td>
-                                <td><span class="text-success">1-2 phút</span></td>
-                                <td><span class="text-primary">3-5 phút</span></td>
-                                <td><span class="text-warning">5-15 phút</span></td>
+                                <td><strong>Th?i gian bypass</strong></td>
+                                <td><span class="text-success">1-2 ph�t</span></td>
+                                <td><span class="text-primary">3-5 ph�t</span></td>
+                                <td><span class="text-warning">5-15 ph�t</span></td>
                             </tr>
                             <tr>
-                                <td><strong>Độ khó</strong></td>
-                                <td><span class="text-success">Dễ</span></td>
-                                <td><span class="text-primary">Trung bình</span></td>
-                                <td><span class="text-warning">Trung bình</span></td>
+                                <td><strong>�? kh�</strong></td>
+                                <td><span class="text-success">D?</span></td>
+                                <td><span class="text-primary">Trung b�nh</span></td>
+                                <td><span class="text-warning">Trung b�nh</span></td>
                             </tr>
                             <tr>
-                                <td><strong>Yêu cầu</strong></td>
-                                <td>Bật được USB Debugging</td>
-                                <td>Vào được Download Mode</td>
-                                <td>Service Menu hoạt động</td>
+                                <td><strong>Y�u c?u</strong></td>
+                                <td>B?t du?c USB Debugging</td>
+                                <td>V�o du?c Download Mode</td>
+                                <td>Service Menu ho?t d?ng</td>
                             </tr>
                             <tr>
-                                <td><strong>Mất dữ liệu</strong></td>
-                                <td><span class="text-success">Không</span></td>
-                                <td><span class="text-danger">Có thể</span></td>
-                                <td><span class="text-success">Không</span></td>
+                                <td><strong>M?t d? li?u</strong></td>
+                                <td><span class="text-success">Kh�ng</span></td>
+                                <td><span class="text-danger">C� th?</span></td>
+                                <td><span class="text-success">Kh�ng</span></td>
                             </tr>
                             <tr>
-                                <td><strong>Cần UnlockTool</strong></td>
-                                <td><i class="fas fa-check text-success"></i> Có</td>
-                                <td><i class="fas fa-check text-success"></i> Có</td>
-                                <td><i class="fas fa-check text-success"></i> Có (sau đó)</td>
+                                <td><strong>C?n UnlockTool</strong></td>
+                                <td><i class="fas fa-check text-success"></i> C�</td>
+                                <td><i class="fas fa-check text-success"></i> C�</td>
+                                <td><i class="fas fa-check text-success"></i> C� (sau d�)</td>
                             </tr>
                             <tr>
-                                <td><strong>Hỗ trợ Android 14</strong></td>
+                                <td><strong>H? tr? Android 14</strong></td>
                                 <td><i class="fas fa-check text-success"></i></td>
                                 <td><i class="fas fa-check text-success"></i></td>
-                                <td><i class="fas fa-times text-danger"></i> Hạn chế</td>
+                                <td><i class="fas fa-times text-danger"></i> H?n ch?</td>
                             </tr>
                             <tr>
-                                <td><strong>Hỗ trợ bản vá 2026</strong></td>
+                                <td><strong>H? tr? b?n v� 2026</strong></td>
                                 <td><i class="fas fa-check text-success"></i></td>
                                 <td><i class="fas fa-check text-success"></i></td>
-                                <td><i class="fas fa-times text-danger"></i> Không</td>
+                                <td><i class="fas fa-times text-danger"></i> Kh�ng</td>
                             </tr>
                             <tr class="comparison-best">
-                                <td><strong>Khuyến nghị</strong></td>
-                                <td><span class="badge bg-success fs-6"><i class="fas fa-star me-1"></i>Tốt nhất</span></td>
-                                <td><span class="badge bg-primary fs-6">Thay thế</span></td>
-                                <td><span class="badge bg-secondary fs-6">Thử trước</span></td>
+                                <td><strong>Khuy?n ngh?</strong></td>
+                                <td><span class="badge bg-success fs-6"><i class="fas fa-star me-1"></i>T?t nh?t</span></td>
+                                <td><span class="badge bg-primary fs-6">Thay th?</span></td>
+                                <td><span class="badge bg-secondary fs-6">Th? tru?c</span></td>
                             </tr>
                         </tbody>
                     </table>
                 </div>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-lightbulb me-2"></i>Khuyến nghị lựa chọn phương pháp</h5>
+                    <h5><i class="fas fa-lightbulb me-2"></i>Khuy?n ngh? l?a ch?n phuong ph�p</h5>
                     <ol class="mb-0">
-                        <li><strong>Bước 1:</strong> Thử Emergency Call Trick trước nếu máy có bản vá cũ (miễn phí)</li>
-                        <li><strong>Bước 2:</strong> Nếu vào được Settings, bật USB Debugging và dùng <strong>ADB Mode</strong> (khuyến nghị)</li>
-                        <li><strong>Bước 3:</strong> Nếu không bật được USB Debugging, sử dụng <strong>Download Mode</strong></li>
-                        <li><strong>Bước 4:</strong> Nếu vẫn không thành công, liên hệ <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a> để được hỗ trợ</li>
+                        <li><strong>Bu?c 1:</strong> Th? Emergency Call Trick tru?c n?u m�y c� b?n v� cu (mi?n ph�)</li>
+                        <li><strong>Bu?c 2:</strong> N?u v�o du?c Settings, b?t USB Debugging v� d�ng <strong>ADB Mode</strong> (khuy?n ngh?)</li>
+                        <li><strong>Bu?c 3:</strong> N?u kh�ng b?t du?c USB Debugging, s? d?ng <strong>Download Mode</strong></li>
+                        <li><strong>Bu?c 4:</strong> N?u v?n kh�ng th�nh c�ng, li�n h? <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a> d? du?c h? tr?</li>
                     </ol>
                 </div>
             </section>
 
-            <!-- Section 9: Lỗi thường gặp -->
+            <!-- Section 9: L?i thu?ng g?p -->
             <section id="loi-thuong-gap">
-                <h2><i class="fas fa-bug me-2"></i>9. Lỗi Thường Gặp Và Cách Khắc Phục</h2>
+                <h2><i class="fas fa-bug me-2"></i>9. L?i Thu?ng G?p V� C�ch Kh?c Ph?c</h2>
                 
-                <p>Dưới đây là 5 lỗi phổ biến nhất khi bypass FRP Samsung A34 5G và cách khắc phục chi tiết:</p>
+                <p>Du?i d�y l� 5 l?i ph? bi?n nh?t khi bypass FRP Samsung A34 5G v� c�ch kh?c ph?c chi ti?t:</p>
 
                 <div class="accordion" id="errorAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#error1" aria-expanded="true">
-                                <i class="fas fa-times-circle text-danger me-2"></i><strong>Lỗi 1: UnlockTool không nhận Samsung A34</strong>
+                                <i class="fas fa-times-circle text-danger me-2"></i><strong>L?i 1: UnlockTool kh�ng nh?n Samsung A34</strong>
                             </button>
                         </h2>
                         <div id="error1" class="accordion-collapse collapse show" data-bs-parent="#errorAccordion">
                             <div class="accordion-body">
-                                <p><strong>Nguyên nhân:</strong></p>
+                                <p><strong>Nguy�n nh�n:</strong></p>
                                 <ul>
-                                    <li>Chưa cài Samsung USB Driver</li>
-                                    <li>Driver cài không đúng hoặc bị lỗi</li>
-                                    <li>Cáp USB không hỗ trợ truyền data (chỉ sạc)</li>
-                                    <li>Cổng USB bị lỗi</li>
-                                    <li>Antivirus chặn driver</li>
+                                    <li>Chua c�i Samsung USB Driver</li>
+                                    <li>Driver c�i kh�ng d�ng ho?c b? l?i</li>
+                                    <li>C�p USB kh�ng h? tr? truy?n data (ch? s?c)</li>
+                                    <li>C?ng USB b? l?i</li>
+                                    <li>Antivirus ch?n driver</li>
                                 </ul>
-                                <p><strong>Cách khắc phục:</strong></p>
+                                <p><strong>C�ch kh?c ph?c:</strong></p>
                                 <ol>
-                                    <li>Gỡ driver Samsung hiện tại trong Device Manager</li>
-                                    <li>Tải lại Samsung USB Driver từ <a href="https://file.unlocktool.net/page/all-driver" target="_blank">file.unlocktool.net</a></li>
-                                    <li>Cài đặt với quyền Administrator</li>
-                                    <li>Restart máy tính</li>
-                                    <li>Thử cáp USB khác (cáp chính hãng Samsung)</li>
-                                    <li>Thử cổng USB 2.0 thay vì USB 3.0</li>
-                                    <li>Tắt hoàn toàn Windows Defender và antivirus</li>
+                                    <li>G? driver Samsung hi?n t?i trong Device Manager</li>
+                                    <li>T?i l?i Samsung USB Driver t? <a href="https://file.unlocktool.net/page/all-driver" target="_blank">file.unlocktool.net</a></li>
+                                    <li>C�i d?t v?i quy?n Administrator</li>
+                                    <li>Restart m�y t�nh</li>
+                                    <li>Th? c�p USB kh�c (c�p ch�nh h�ng Samsung)</li>
+                                    <li>Th? c?ng USB 2.0 thay v� USB 3.0</li>
+                                    <li>T?t ho�n to�n Windows Defender v� antivirus</li>
                                 </ol>
                             </div>
                         </div>
@@ -1118,26 +1088,26 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#error2">
-                                <i class="fas fa-times-circle text-danger me-2"></i><strong>Lỗi 2: FRP Remove Failed - Bypass không thành công</strong>
+                                <i class="fas fa-times-circle text-danger me-2"></i><strong>L?i 2: FRP Remove Failed - Bypass kh�ng th�nh c�ng</strong>
                             </button>
                         </h2>
                         <div id="error2" class="accordion-collapse collapse" data-bs-parent="#errorAccordion">
                             <div class="accordion-body">
-                                <p><strong>Nguyên nhân:</strong></p>
+                                <p><strong>Nguy�n nh�n:</strong></p>
                                 <ul>
-                                    <li>Bản vá bảo mật quá mới</li>
-                                    <li>Kết nối internet không ổn định</li>
-                                    <li>UnlockTool phiên bản cũ</li>
-                                    <li>Chọn sai phương pháp bypass</li>
+                                    <li>B?n v� b?o m?t qu� m?i</li>
+                                    <li>K?t n?i internet kh�ng ?n d?nh</li>
+                                    <li>UnlockTool phi�n b?n cu</li>
+                                    <li>Ch?n sai phuong ph�p bypass</li>
                                 </ul>
-                                <p><strong>Cách khắc phục:</strong></p>
+                                <p><strong>C�ch kh?c ph?c:</strong></p>
                                 <ol>
-                                    <li>Update UnlockTool lên phiên bản mới nhất</li>
-                                    <li>Kiểm tra kết nối internet</li>
-                                    <li>Thử phương pháp khác (ADB → Download Mode hoặc ngược lại)</li>
-                                    <li>Thử chức năng <strong>Server Auth</strong> nếu có</li>
-                                    <li>Restart cả máy tính và điện thoại, thử lại</li>
-                                    <li>Liên hệ <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a> để được hỗ trợ</li>
+                                    <li>Update UnlockTool l�n phi�n b?n m?i nh?t</li>
+                                    <li>Ki?m tra k?t n?i internet</li>
+                                    <li>Th? phuong ph�p kh�c (ADB ? Download Mode ho?c ngu?c l?i)</li>
+                                    <li>Th? ch?c nang <strong>Server Auth</strong> n?u c�</li>
+                                    <li>Restart c? m�y t�nh v� di?n tho?i, th? l?i</li>
+                                    <li>Li�n h? <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a> d? du?c h? tr?</li>
                                 </ol>
                             </div>
                         </div>
@@ -1146,24 +1116,24 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#error3">
-                                <i class="fas fa-times-circle text-danger me-2"></i><strong>Lỗi 3: Máy treo logo Samsung sau khi bypass</strong>
+                                <i class="fas fa-times-circle text-danger me-2"></i><strong>L?i 3: M�y treo logo Samsung sau khi bypass</strong>
                             </button>
                         </h2>
                         <div id="error3" class="accordion-collapse collapse" data-bs-parent="#errorAccordion">
                             <div class="accordion-body">
-                                <p><strong>Nguyên nhân:</strong></p>
+                                <p><strong>Nguy�n nh�n:</strong></p>
                                 <ul>
-                                    <li>Quá trình bypass bị gián đoạn (rút cáp, hết pin)</li>
-                                    <li>File system bị corrupt</li>
-                                    <li>Xung đột phần mềm</li>
+                                    <li>Qu� tr�nh bypass b? gi�n do?n (r�t c�p, h?t pin)</li>
+                                    <li>File system b? corrupt</li>
+                                    <li>Xung d?t ph?n m?m</li>
                                 </ul>
-                                <p><strong>Cách khắc phục:</strong></p>
+                                <p><strong>C�ch kh?c ph?c:</strong></p>
                                 <ol>
-                                    <li>Vào Recovery Mode: Tắt máy > Giữ <strong>Vol Up + Power</strong></li>
-                                    <li>Chọn <strong>Wipe data/factory reset</strong></li>
-                                    <li>Confirm và đợi máy reset</li>
-                                    <li>Nếu vẫn lỗi, vào Download Mode và flash lại firmware gốc bằng Odin</li>
-                                    <li>Tải firmware Samsung A34 từ <a href="https://samfw.com" target="_blank">samfw.com</a></li>
+                                    <li>V�o Recovery Mode: T?t m�y > Gi? <strong>Vol Up + Power</strong></li>
+                                    <li>Ch?n <strong>Wipe data/factory reset</strong></li>
+                                    <li>Confirm v� d?i m�y reset</li>
+                                    <li>N?u v?n l?i, v�o Download Mode v� flash l?i firmware g?c b?ng Odin</li>
+                                    <li>T?i firmware Samsung A34 t? <a href="https://samfw.com" target="_blank">samfw.com</a></li>
                                 </ol>
                             </div>
                         </div>
@@ -1172,25 +1142,25 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#error4">
-                                <i class="fas fa-times-circle text-danger me-2"></i><strong>Lỗi 4: Không vào được Download Mode</strong>
+                                <i class="fas fa-times-circle text-danger me-2"></i><strong>L?i 4: Kh�ng v�o du?c Download Mode</strong>
                             </button>
                         </h2>
                         <div id="error4" class="accordion-collapse collapse" data-bs-parent="#errorAccordion">
                             <div class="accordion-body">
-                                <p><strong>Nguyên nhân:</strong></p>
+                                <p><strong>Nguy�n nh�n:</strong></p>
                                 <ul>
-                                    <li>Sai tổ hợp phím</li>
-                                    <li>Nút Volume bị hỏng hoặc kẹt</li>
-                                    <li>Máy chưa tắt hẳn</li>
+                                    <li>Sai t? h?p ph�m</li>
+                                    <li>N�t Volume b? h?ng ho?c k?t</li>
+                                    <li>M�y chua t?t h?n</li>
                                 </ul>
-                                <p><strong>Cách khắc phục:</strong></p>
+                                <p><strong>C�ch kh?c ph?c:</strong></p>
                                 <ol>
-                                    <li>Tắt máy hoàn toàn: Giữ nút Power 10-15 giây</li>
-                                    <li>Đợi 5 giây cho máy tắt hẳn</li>
-                                    <li>Giữ <strong>Vol Up + Vol Down</strong> cùng lúc</li>
-                                    <li>Vẫn giữ 2 nút, cắm cáp USB</li>
-                                    <li>Khi thấy màn hình cảnh báo, nhả 2 nút và nhấn <strong>Vol Up</strong></li>
-                                    <li>Nếu nút hỏng, cần mang đến tiệm sửa chữa để dùng test point</li>
+                                    <li>T?t m�y ho�n to�n: Gi? n�t Power 10-15 gi�y</li>
+                                    <li>�?i 5 gi�y cho m�y t?t h?n</li>
+                                    <li>Gi? <strong>Vol Up + Vol Down</strong> c�ng l�c</li>
+                                    <li>V?n gi? 2 n�t, c?m c�p USB</li>
+                                    <li>Khi th?y m�n h�nh c?nh b�o, nh? 2 n�t v� nh?n <strong>Vol Up</strong></li>
+                                    <li>N?u n�t h?ng, c?n mang d?n ti?m s?a ch?a d? d�ng test point</li>
                                 </ol>
                             </div>
                         </div>
@@ -1199,25 +1169,25 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#error5">
-                                <i class="fas fa-times-circle text-danger me-2"></i><strong>Lỗi 5: Bypass xong restart vẫn bị FRP</strong>
+                                <i class="fas fa-times-circle text-danger me-2"></i><strong>L?i 5: Bypass xong restart v?n b? FRP</strong>
                             </button>
                         </h2>
                         <div id="error5" class="accordion-collapse collapse" data-bs-parent="#errorAccordion">
                             <div class="accordion-body">
-                                <p><strong>Nguyên nhân:</strong></p>
+                                <p><strong>Nguy�n nh�n:</strong></p>
                                 <ul>
-                                    <li>Chưa bypass triệt để</li>
-                                    <li>Máy có cả Samsung Account Lock</li>
-                                    <li>FRP được sync lại từ cloud</li>
+                                    <li>Chua bypass tri?t d?</li>
+                                    <li>M�y c� c? Samsung Account Lock</li>
+                                    <li>FRP du?c sync l?i t? cloud</li>
                                 </ul>
-                                <p><strong>Cách khắc phục:</strong></p>
+                                <p><strong>C�ch kh?c ph?c:</strong></p>
                                 <ol>
-                                    <li>Thực hiện bypass lại bằng phương pháp khác</li>
-                                    <li>Sau khi bypass, vào Settings > Accounts > Remove tất cả accounts</li>
-                                    <li>Vào Settings > Apps > Google Play Services > Clear Data</li>
-                                    <li>Thử bypass Samsung Account Lock nếu có</li>
-                                    <li>Factory reset lại sau khi đã bypass</li>
-                                    <li>Sử dụng Download Mode với option <strong>Reset FRP</strong> (sẽ xóa dữ liệu)</li>
+                                    <li>Th?c hi?n bypass l?i b?ng phuong ph�p kh�c</li>
+                                    <li>Sau khi bypass, v�o Settings > Accounts > Remove t?t c? accounts</li>
+                                    <li>V�o Settings > Apps > Google Play Services > Clear Data</li>
+                                    <li>Th? bypass Samsung Account Lock n?u c�</li>
+                                    <li>Factory reset l?i sau khi d� bypass</li>
+                                    <li>S? d?ng Download Mode v?i option <strong>Reset FRP</strong> (s? x�a d? li?u)</li>
                                 </ol>
                             </div>
                         </div>
@@ -1225,25 +1195,25 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                 </div>
 
                 <div class="info-box mt-4">
-                    <h5><i class="fas fa-headset me-2"></i>Cần hỗ trợ thêm?</h5>
-                    <p class="mb-0">Nếu bạn đã thử tất cả các cách trên mà vẫn không thành công, hãy liên hệ <a href="https://thuetaikhoan.net" target="_blank"><strong>Thuetaikhoan.net</strong></a> để được kỹ thuật viên hỗ trợ từ xa qua TeamViewer. Dịch vụ bypass FRP Samsung A34 5G từ <strong>50.000đ</strong>, cam kết hoàn tiền nếu không thành công.</p>
+                    <h5><i class="fas fa-headset me-2"></i>C?n h? tr? th�m?</h5>
+                    <p class="mb-0">N?u b?n d� th? t?t c? c�c c�ch tr�n m� v?n kh�ng th�nh c�ng, h�y li�n h? <a href="https://thuetaikhoan.net" target="_blank"><strong>Thuetaikhoan.net</strong></a> d? du?c k? thu?t vi�n h? tr? t? xa qua TeamViewer. D?ch v? bypass FRP Samsung A34 5G t? <strong>50.000d</strong>, cam k?t ho�n ti?n n?u kh�ng th�nh c�ng.</p>
                 </div>
             </section>
 
             <!-- Section 10: FAQ -->
             <section id="faq">
-                <h2><i class="fas fa-question-circle me-2"></i>10. Câu Hỏi Thường Gặp (FAQ)</h2>
+                <h2><i class="fas fa-question-circle me-2"></i>10. C�u H?i Thu?ng G?p (FAQ)</h2>
                 
                 <div class="accordion" id="faqAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1" aria-expanded="true">
-                                <i class="fas fa-question text-primary me-2"></i>Bypass FRP Samsung A34 5G có được không?
+                                <i class="fas fa-question text-primary me-2"></i>Bypass FRP Samsung A34 5G c� du?c kh�ng?
                             </button>
                         </h2>
                         <div id="faq1" class="accordion-collapse collapse show" data-bs-parent="#faqAccordion">
                             <div class="accordion-body">
-                                <strong>Có, hoàn toàn được.</strong> Samsung Galaxy A34 5G là một trong những model dễ bypass FRP nhất trong phân khúc tầm trung. UnlockTool hỗ trợ bypass với tỉ lệ thành công <strong>95-98%</strong> cho tất cả phiên bản (SM-A346E, SM-A346B, SM-A346N, SM-A346M). Hỗ trợ cả Android 13 (One UI 5.1) và Android 14 (One UI 6.x) với bản vá bảo mật mới nhất 2026. Giá thuê tool chỉ <strong>8.000đ/6 tiếng</strong> tại <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a>.
+                                <strong>C�, ho�n to�n du?c.</strong> Samsung Galaxy A34 5G l� m?t trong nh?ng model d? bypass FRP nh?t trong ph�n kh�c t?m trung. UnlockTool h? tr? bypass v?i t? l? th�nh c�ng <strong>95-98%</strong> cho t?t c? phi�n b?n (SM-A346E, SM-A346B, SM-A346N, SM-A346M). H? tr? c? Android 13 (One UI 5.1) v� Android 14 (One UI 6.x) v?i b?n v� b?o m?t m?i nh?t 2026. Gi� thu� tool ch? <strong>8.000d/6 ti?ng</strong> t?i <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a>.
                             </div>
                         </div>
                     </div>
@@ -1251,18 +1221,18 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
-                                <i class="fas fa-question text-primary me-2"></i>Bypass FRP Samsung A34 mất bao lâu?
+                                <i class="fas fa-question text-primary me-2"></i>Bypass FRP Samsung A34 m?t bao l�u?
                             </button>
                         </h2>
                         <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                             <div class="accordion-body">
-                                Thời gian bypass tùy thuộc vào phương pháp sử dụng:
+                                Th?i gian bypass t�y thu?c v�o phuong ph�p s? d?ng:
                                 <ul>
-                                    <li><strong>ADB Mode:</strong> 1-2 phút (nhanh nhất)</li>
-                                    <li><strong>Download Mode:</strong> 3-5 phút</li>
-                                    <li><strong>Emergency Call Trick:</strong> 5-15 phút</li>
+                                    <li><strong>ADB Mode:</strong> 1-2 ph�t (nhanh nh?t)</li>
+                                    <li><strong>Download Mode:</strong> 3-5 ph�t</li>
+                                    <li><strong>Emergency Call Trick:</strong> 5-15 ph�t</li>
                                 </ul>
-                                Tổng thời gian bao gồm chuẩn bị (cài driver, tải tool, thuê tài khoản) khoảng <strong>15-30 phút</strong> cho lần đầu. Từ lần thứ 2 trở đi chỉ mất 5-10 phút.
+                                T?ng th?i gian bao g?m chu?n b? (c�i driver, t?i tool, thu� t�i kho?n) kho?ng <strong>15-30 ph�t</strong> cho l?n d?u. T? l?n th? 2 tr? di ch? m?t 5-10 ph�t.
                             </div>
                         </div>
                     </div>
@@ -1270,17 +1240,17 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3">
-                                <i class="fas fa-question text-primary me-2"></i>Giá bypass FRP Samsung A34 5G là bao nhiêu?
+                                <i class="fas fa-question text-primary me-2"></i>Gi� bypass FRP Samsung A34 5G l� bao nhi�u?
                             </button>
                         </h2>
                         <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                             <div class="accordion-body">
-                                Có 2 lựa chọn:
+                                C� 2 l?a ch?n:
                                 <ul>
-                                    <li><strong>Tự làm với UnlockTool:</strong> <span class="badge bg-success">8.000đ/6 tiếng</span> - Có thể bypass nhiều máy trong thời gian thuê. Thuê tại <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a></li>
-                                    <li><strong>Dịch vụ làm hộ:</strong> <span class="badge bg-primary">50.000đ - 100.000đ</span> - Kỹ thuật viên hỗ trợ từ xa qua TeamViewer. Đặt tại <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a></li>
+                                    <li><strong>T? l�m v?i UnlockTool:</strong> <span class="badge bg-success">8.000d/6 ti?ng</span> - C� th? bypass nhi?u m�y trong th?i gian thu�. Thu� t?i <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a></li>
+                                    <li><strong>D?ch v? l�m h?:</strong> <span class="badge bg-primary">50.000d - 100.000d</span> - K? thu?t vi�n h? tr? t? xa qua TeamViewer. �?t t?i <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a></li>
                                 </ul>
-                                So với giá dịch vụ ở các cửa hàng (200.000đ - 500.000đ), tự làm với UnlockTool tiết kiệm đáng kể.
+                                So v?i gi� d?ch v? ? c�c c?a h�ng (200.000d - 500.000d), t? l�m v?i UnlockTool ti?t ki?m d�ng k?.
                             </div>
                         </div>
                     </div>
@@ -1288,18 +1258,18 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4">
-                                <i class="fas fa-question text-primary me-2"></i>Bypass FRP A34 có mất dữ liệu không?
+                                <i class="fas fa-question text-primary me-2"></i>Bypass FRP A34 c� m?t d? li?u kh�ng?
                             </button>
                         </h2>
                         <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                             <div class="accordion-body">
-                                Tùy phương pháp:
+                                T�y phuong ph�p:
                                 <ul>
-                                    <li><strong>ADB Mode:</strong> Thường <span class="text-success">KHÔNG mất dữ liệu</span></li>
-                                    <li><strong>Download Mode:</strong> <span class="text-danger">CÓ THỂ mất dữ liệu</span> (tùy option chọn)</li>
-                                    <li><strong>Emergency Call:</strong> Thường <span class="text-success">KHÔNG mất dữ liệu</span></li>
+                                    <li><strong>ADB Mode:</strong> Thu?ng <span class="text-success">KH�NG m?t d? li?u</span></li>
+                                    <li><strong>Download Mode:</strong> <span class="text-danger">C� TH? m?t d? li?u</span> (t�y option ch?n)</li>
+                                    <li><strong>Emergency Call:</strong> Thu?ng <span class="text-success">KH�NG m?t d? li?u</span></li>
                                 </ul>
-                                <strong>Lưu ý:</strong> Khi máy đã bị FRP lock thì thường đã qua factory reset, nghĩa là dữ liệu đã bị xóa từ trước rồi. Nên việc mất hay không mất dữ liệu không quá quan trọng trong trường hợp này.
+                                <strong>Luu �:</strong> Khi m�y d� b? FRP lock th� thu?ng d� qua factory reset, nghia l� d? li?u d� b? x�a t? tru?c r?i. N�n vi?c m?t hay kh�ng m?t d? li?u kh�ng qu� quan tr?ng trong tru?ng h?p n�y.
                             </div>
                         </div>
                     </div>
@@ -1307,19 +1277,19 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq5">
-                                <i class="fas fa-question text-primary me-2"></i>Bypass FRP có vĩnh viễn không? Có bị khóa lại không?
+                                <i class="fas fa-question text-primary me-2"></i>Bypass FRP c� vinh vi?n kh�ng? C� b? kh�a l?i kh�ng?
                             </button>
                         </h2>
                         <div id="faq5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                             <div class="accordion-body">
-                                <strong>Có, bypass FRP là vĩnh viễn.</strong> Sau khi bypass thành công:
+                                <strong>C�, bypass FRP l� vinh vi?n.</strong> Sau khi bypass th�nh c�ng:
                                 <ul>
-                                    <li>Tài khoản Google cũ được xóa hoàn toàn khỏi máy</li>
-                                    <li>Bạn có thể đăng nhập Google Account mới của mình</li>
-                                    <li>Máy hoạt động bình thường như máy mới</li>
-                                    <li><strong>Không bị khóa lại</strong> trừ khi bạn factory reset mà quên đăng xuất Google Account mới</li>
+                                    <li>T�i kho?n Google cu du?c x�a ho�n to�n kh?i m�y</li>
+                                    <li>B?n c� th? dang nh?p Google Account m?i c?a m�nh</li>
+                                    <li>M�y ho?t d?ng b�nh thu?ng nhu m�y m?i</li>
+                                    <li><strong>Kh�ng b? kh�a l?i</strong> tr? khi b?n factory reset m� qu�n dang xu?t Google Account m?i</li>
                                 </ul>
-                                <strong>Khuyến nghị:</strong> Sau khi bypass, hãy đăng nhập Google Account của bạn và nhớ thông tin đăng nhập để tránh bị FRP lock lần nữa.
+                                <strong>Khuy?n ngh?:</strong> Sau khi bypass, h�y dang nh?p Google Account c?a b?n v� nh? th�ng tin dang nh?p d? tr�nh b? FRP lock l?n n?a.
                             </div>
                         </div>
                     </div>
@@ -1327,18 +1297,18 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq6">
-                                <i class="fas fa-question text-primary me-2"></i>Không tự bypass được FRP A34 thì làm sao?
+                                <i class="fas fa-question text-primary me-2"></i>Kh�ng t? bypass du?c FRP A34 th� l�m sao?
                             </button>
                         </h2>
                         <div id="faq6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                             <div class="accordion-body">
-                                Nếu bạn đã thử các phương pháp trong hướng dẫn mà vẫn không thành công, có các lựa chọn sau:
+                                N?u b?n d� th? c�c phuong ph�p trong hu?ng d?n m� v?n kh�ng th�nh c�ng, c� c�c l?a ch?n sau:
                                 <ol>
-                                    <li><strong>Dịch vụ hỗ trợ từ xa:</strong> Liên hệ <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a> để kỹ thuật viên hỗ trợ qua TeamViewer. Giá từ <strong>50.000đ</strong>, cam kết hoàn tiền nếu không thành công.</li>
-                                    <li><strong>Mang đến cửa hàng:</strong> Tìm cửa hàng sửa điện thoại uy tín gần nhà để được hỗ trợ trực tiếp.</li>
-                                    <li><strong>Thử công cụ khác:</strong> Samsung Tool Pro, SamFw Tool cũng hỗ trợ bypass FRP Samsung A34.</li>
+                                    <li><strong>D?ch v? h? tr? t? xa:</strong> Li�n h? <a href="https://thuetaikhoan.net" target="_blank">Thuetaikhoan.net</a> d? k? thu?t vi�n h? tr? qua TeamViewer. Gi� t? <strong>50.000d</strong>, cam k?t ho�n ti?n n?u kh�ng th�nh c�ng.</li>
+                                    <li><strong>Mang d?n c?a h�ng:</strong> T�m c?a h�ng s?a di?n tho?i uy t�n g?n nh� d? du?c h? tr? tr?c ti?p.</li>
+                                    <li><strong>Th? c�ng c? kh�c:</strong> Samsung Tool Pro, SamFw Tool cung h? tr? bypass FRP Samsung A34.</li>
                                 </ol>
-                                <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-samsung mt-2"><i class="fas fa-headset me-2"></i>Đặt Dịch Vụ Ngay</a>
+                                <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-samsung mt-2"><i class="fas fa-headset me-2"></i>�?t D?ch V? Ngay</a>
                             </div>
                         </div>
                     </div>
@@ -1350,21 +1320,21 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                 <div class="price-highlight">
                     <span class="badge bg-warning text-dark mb-3 px-3 py-2"><i class="fas fa-bolt me-1"></i>Deal Hot 2026</span>
                     <h3><i class="fas fa-unlock me-2"></i>Bypass FRP Samsung A34 5G Ngay!</h3>
-                    <p class="price">8.000đ</p>
-                    <p class="h4 mb-4">/ 6 tiếng - Bypass được nhiều máy</p>
+                    <p class="price">8.000d</p>
+                    <p class="h4 mb-4">/ 6 ti?ng - Bypass du?c nhi?u m�y</p>
                     <div class="d-flex flex-wrap justify-content-center gap-3">
-                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê Tool - UnlockTool.us</a>
-                        <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-download me-2"></i>Tải Tool</a>
+                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thu� Tool - UnlockTool.us</a>
+                        <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-download me-2"></i>T?i Tool</a>
                     </div>
-                    <p class="mt-4 mb-0"><small><i class="fas fa-check-circle me-1"></i>Hỗ trợ Samsung A34 Android 13/14 | One UI 5.1/6.x | Bản vá 2026</small></p>
+                    <p class="mt-4 mb-0"><small><i class="fas fa-check-circle me-1"></i>H? tr? Samsung A34 Android 13/14 | One UI 5.1/6.x | B?n v� 2026</small></p>
                 </div>
 
                 <div class="service-cta">
-                    <span class="badge bg-light text-dark mb-3 px-3 py-2"><i class="fas fa-headset me-1"></i>Hỗ trợ 24/7</span>
-                    <h4><i class="fas fa-hands-helping me-2"></i>Không Tự Làm Được? Để Chúng Tôi Giúp!</h4>
-                    <p class="h3 fw-bold mb-2">Dịch Vụ Bypass FRP Samsung A34</p>
-                    <p class="h2">Từ 50.000đ</p>
-                    <p class="mb-4">Kỹ thuật viên hỗ trợ từ xa qua TeamViewer - Hoàn tiền nếu không thành công</p>
+                    <span class="badge bg-light text-dark mb-3 px-3 py-2"><i class="fas fa-headset me-1"></i>H? tr? 24/7</span>
+                    <h4><i class="fas fa-hands-helping me-2"></i>Kh�ng T? L�m �u?c? �? Ch�ng T�i Gi�p!</h4>
+                    <p class="h3 fw-bold mb-2">D?ch V? Bypass FRP Samsung A34</p>
+                    <p class="h2">T? 50.000d</p>
+                    <p class="mb-4">K? thu?t vi�n h? tr? t? xa qua TeamViewer - Ho�n ti?n n?u kh�ng th�nh c�ng</p>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-headset me-2"></i>Thuetaikhoan.net</a>
                 </div>
             </section>
@@ -1378,52 +1348,52 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                 <!-- Pricing Card -->
                 <div class="sidebar-card mb-4">
                     <div class="card-header">
-                        <i class="fas fa-fire me-2"></i>Thuê Tool Bypass FRP
+                        <i class="fas fa-fire me-2"></i>Thu� Tool Bypass FRP
                     </div>
                     <div class="card-body text-center" style="background:linear-gradient(135deg,#1428a0 0%,#00c6ff 100%);color:white;padding:30px">
                         <h5>Samsung A34 5G</h5>
-                        <p class="display-4 fw-bold mb-0">8.000đ</p>
-                        <p class="mb-3">/ 6 tiếng</p>
+                        <p class="display-4 fw-bold mb-0">8.000d</p>
+                        <p class="mb-3">/ 6 ti?ng</p>
                         <ul class="list-unstyled text-start mb-4">
-                            <li><i class="fas fa-check me-2"></i>Hỗ trợ Android 13/14</li>
+                            <li><i class="fas fa-check me-2"></i>H? tr? Android 13/14</li>
                             <li><i class="fas fa-check me-2"></i>One UI 5.1 & 6.x</li>
-                            <li><i class="fas fa-check me-2"></i>Bản vá mới nhất 2026</li>
-                            <li><i class="fas fa-check me-2"></i>Bypass nhiều máy</li>
+                            <li><i class="fas fa-check me-2"></i>B?n v� m?i nh?t 2026</li>
+                            <li><i class="fas fa-check me-2"></i>Bypass nhi?u m�y</li>
                         </ul>
-                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mb-2"><i class="fas fa-shopping-cart me-2"></i>Thuê Ngay</a>
-                        <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light w-100">Dịch Vụ Từ 50K</a>
+                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mb-2"><i class="fas fa-shopping-cart me-2"></i>Thu� Ngay</a>
+                        <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light w-100">D?ch V? T? 50K</a>
                     </div>
                 </div>
 
                 <!-- Download Links -->
                 <div class="sidebar-card mb-4">
                     <div class="card-header bg-success text-white">
-                        <i class="fas fa-download me-2"></i>Tài Nguyên Cần Thiết
+                        <i class="fas fa-download me-2"></i>T�i Nguy�n C?n Thi?t
                     </div>
                     <div class="card-body">
                         <ul class="list-unstyled mb-0">
                             <li class="mb-3">
                                 <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="text-decoration-none">
-                                    <i class="fas fa-tools text-primary me-2"></i><strong>Tải UnlockTool</strong>
-                                    <small class="d-block text-muted">Phiên bản mới nhất 2026</small>
+                                    <i class="fas fa-tools text-primary me-2"></i><strong>T?i UnlockTool</strong>
+                                    <small class="d-block text-muted">Phi�n b?n m?i nh?t 2026</small>
                                 </a>
                             </li>
                             <li class="mb-3">
                                 <a href="https://file.unlocktool.net/page/all-driver" target="_blank" class="text-decoration-none">
                                     <i class="fas fa-usb text-success me-2"></i><strong>Samsung USB Driver</strong>
-                                    <small class="d-block text-muted">Bắt buộc cài trước</small>
+                                    <small class="d-block text-muted">B?t bu?c c�i tru?c</small>
                                 </a>
                             </li>
                             <li class="mb-3">
                                 <a href="https://www.unlocktool.us/" target="_blank" class="text-decoration-none">
-                                    <i class="fas fa-key text-warning me-2"></i><strong>Thuê Tài Khoản</strong>
-                                    <small class="d-block text-muted">8.000đ/6 tiếng</small>
+                                    <i class="fas fa-key text-warning me-2"></i><strong>Thu� T�i Kho?n</strong>
+                                    <small class="d-block text-muted">8.000d/6 ti?ng</small>
                                 </a>
                             </li>
                             <li>
                                 <a href="https://samfw.com" target="_blank" class="text-decoration-none">
                                     <i class="fas fa-file-archive text-info me-2"></i><strong>Firmware Samsung A34</strong>
-                                    <small class="d-block text-muted">Nếu cần flash lại</small>
+                                    <small class="d-block text-muted">N?u c?n flash l?i</small>
                                 </a>
                             </li>
                         </ul>
@@ -1433,14 +1403,14 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                 <!-- Support Info -->
                 <div class="sidebar-card mb-4">
                     <div class="card-header bg-danger text-white">
-                        <i class="fas fa-headset me-2"></i>Cần Hỗ Trợ?
+                        <i class="fas fa-headset me-2"></i>C?n H? Tr??
                     </div>
                     <div class="card-body">
-                        <p>Không tự bypass được? Kỹ thuật viên sẽ hỗ trợ từ xa qua TeamViewer!</p>
+                        <p>Kh�ng t? bypass du?c? K? thu?t vi�n s? h? tr? t? xa qua TeamViewer!</p>
                         <ul class="list-unstyled">
-                            <li><i class="fas fa-check text-success me-2"></i>Hỗ trợ 24/7</li>
-                            <li><i class="fas fa-check text-success me-2"></i>Hoàn tiền nếu thất bại</li>
-                            <li><i class="fas fa-check text-success me-2"></i>Giá từ 50.000đ</li>
+                            <li><i class="fas fa-check text-success me-2"></i>H? tr? 24/7</li>
+                            <li><i class="fas fa-check text-success me-2"></i>Ho�n ti?n n?u th?t b?i</li>
+                            <li><i class="fas fa-check text-success me-2"></i>Gi� t? 50.000d</li>
                         </ul>
                         <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-danger w-100"><i class="fas fa-headset me-2"></i>Thuetaikhoan.net</a>
                     </div>
@@ -1449,7 +1419,7 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                 <!-- Related Articles -->
                 <div class="sidebar-card">
                     <div class="card-header bg-dark text-white">
-                        <i class="fas fa-newspaper me-2"></i>Bài Viết Liên Quan
+                        <i class="fas fa-newspaper me-2"></i>B�i Vi?t Li�n Quan
                     </div>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item">
@@ -1479,7 +1449,7 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                         </li>
                         <li class="list-group-item">
                             <a href="81-unlocktool-huong-dan-su-dung.php" class="text-decoration-none">
-                                <i class="fas fa-book text-primary me-2"></i>Hướng Dẫn Sử Dụng UnlockTool
+                                <i class="fas fa-book text-primary me-2"></i>Hu?ng D?n S? D?ng UnlockTool
                             </a>
                         </li>
                     </ul>
@@ -1498,7 +1468,7 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -1512,13 +1482,13 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hướng dẫn chi tiết</small>
+                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
                         </div>
                     </div>
                 </div>
@@ -1526,15 +1496,15 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">Từ iPhone 5s - X</small>
+                            <small class="text-muted">T? iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
-                            <small class="text-muted">Download mới nhất</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
+                            <small class="text-muted">Download m?i nh?t</small>
                         </div>
                     </div>
                 </div>
@@ -1547,7 +1517,7 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -1558,10 +1528,10 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
         <div class="row">
             <div class="col-md-6">
                 <h5><i class="fas fa-unlock-alt me-2"></i>UnlockTool.us</h5>
-                <p class="mb-0">Dịch vụ thuê tool bypass FRP, iCloud uy tín #1 Việt Nam</p>
+                <p class="mb-0">D?ch v? thu� tool bypass FRP, iCloud uy t�n #1 Vi?t Nam</p>
             </div>
             <div class="col-md-6 text-md-end">
-                <p class="mb-1"><i class="fas fa-calendar-alt me-2"></i>Cập nhật: Tháng 01/2026</p>
+                <p class="mb-1"><i class="fas fa-calendar-alt me-2"></i>C?p nh?t: Th�ng 01/2026</p>
                 <p class="mb-0">
                     <a href="https://www.unlocktool.us/" class="text-white me-3">UnlockTool.us</a>
                     <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a>
@@ -1569,7 +1539,7 @@ $og_image = "https://www.unlocktool.us/images/samsung-a34-frp-bypass.jpg";
             </div>
         </div>
         <hr class="my-3">
-        <p class="text-center mb-0">&copy; 2026 UnlockTool.us - Hướng dẫn Bypass FRP Samsung Galaxy A34 5G</p>
+        <p class="text-center mb-0">&copy; 2026 UnlockTool.us - Hu?ng d?n Bypass FRP Samsung Galaxy A34 5G</p>
     </div>
 </footer>
 

@@ -1,7 +1,7 @@
-﻿<?php
-$page_title = "Check IMEI Free 2026 🔥 Kiểm Tra IMEI iPhone Samsung Miễn Phí Chi Tiết Nhất";
-$page_description = "🔥 Hướng dẫn check IMEI miễn phí CHI TIẾT NHẤT 2026. Kiểm tra iCloud, blacklist, warranty, carrier lock. Top 10 website check IMEI uy tín. Thuê UnlockTool chỉ 8K!";
-$page_keywords = "check imei free, kiểm tra imei miễn phí, check imei iphone, check imei samsung, check icloud status, check blacklist, check warranty apple, imei info, imeipro";
+<?php
+$page_title = "Check IMEI Free 2026 ?? Ki?m Tra IMEI iPhone Samsung Mi?n Ph� Chi Ti?t Nh?t";
+$page_description = "?? Hu?ng d?n check IMEI mi?n ph� CHI TI?T NH?T 2026. Ki?m tra iCloud, blacklist, warranty, carrier lock. Top 10 website check IMEI uy t�n. Thu� UnlockTool ch? 8K!";
+$page_keywords = "check imei free, ki?m tra imei mi?n ph�, check imei iphone, check imei samsung, check icloud status, check blacklist, check warranty apple, imei info, imeipro";
 $canonical_url = "https://www.unlocktool.us/articles/152-check-imei-free.php";
 ?>
 <!DOCTYPE html>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/152-check-imei-free.php";
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/152-check-imei-free.php";
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hướng dẫn kỹ thuật">
+    <meta property="article:section" content="Hu?ng d?n k? thu?t">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="Mở khóa điện thoại">
+    <meta property="article:tag" content="M? kh�a di?n tho?i">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -50,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/152-check-imei-free.php";
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -60,14 +60,14 @@ $canonical_url = "https://www.unlocktool.us/articles/152-check-imei-free.php";
     {
         "@context": "https://schema.org",
         "@type": "HowTo",
-        "name": "Cách Check IMEI iPhone Samsung Miễn Phí",
-        "description": "Hướng dẫn chi tiết cách kiểm tra IMEI điện thoại để biết iCloud status, blacklist, warranty, carrier lock",
+        "name": "C�ch Check IMEI iPhone Samsung Mi?n Ph�",
+        "description": "Hu?ng d?n chi ti?t c�ch ki?m tra IMEI di?n tho?i d? bi?t iCloud status, blacklist, warranty, carrier lock",
         "totalTime": "PT5M",
         "step": [
-            {"@type": "HowToStep", "name": "Lấy số IMEI", "text": "Bấm *#06# hoặc vào Settings > General > About để lấy IMEI"},
-            {"@type": "HowToStep", "name": "Truy cập website check", "text": "Vào imei.info, imeipro.info, hoặc checkcoverage.apple.com"},
-            {"@type": "HowToStep", "name": "Nhập IMEI", "text": "Nhập 15 số IMEI vào ô tìm kiếm"},
-            {"@type": "HowToStep", "name": "Xem kết quả", "text": "Đọc thông tin về model, warranty, iCloud, blacklist"}
+            {"@type": "HowToStep", "name": "L?y s? IMEI", "text": "B?m *#06# ho?c v�o Settings > General > About d? l?y IMEI"},
+            {"@type": "HowToStep", "name": "Truy c?p website check", "text": "V�o imei.info, imeipro.info, ho?c checkcoverage.apple.com"},
+            {"@type": "HowToStep", "name": "Nh?p IMEI", "text": "Nh?p 15 s? IMEI v�o � t�m ki?m"},
+            {"@type": "HowToStep", "name": "Xem k?t qu?", "text": "�?c th�ng tin v? model, warranty, iCloud, blacklist"}
         ]
     }
     </script>
@@ -76,11 +76,11 @@ $canonical_url = "https://www.unlocktool.us/articles/152-check-imei-free.php";
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "IMEI là gì?", "acceptedAnswer": {"@type": "Answer", "text": "IMEI (International Mobile Equipment Identity) là mã số định danh duy nhất gồm 15 chữ số của mỗi điện thoại. IMEI được dùng để xác định thiết bị, kiểm tra blacklist, iCloud, bảo hành và carrier lock."}},
-            {"@type": "Question", "name": "Check IMEI miễn phí có chính xác không?", "acceptedAnswer": {"@type": "Answer", "text": "Check IMEI miễn phí cung cấp thông tin cơ bản (model, màu, dung lượng, warranty) với độ chính xác cao. Tuy nhiên, để check iCloud status, blacklist cần dùng dịch vụ trả phí với độ chính xác 95%+."}},
-            {"@type": "Question", "name": "Làm sao lấy IMEI iPhone?", "acceptedAnswer": {"@type": "Answer", "text": "Có 4 cách: (1) Bấm *#06#, (2) Settings > General > About, (3) Xem trên khay SIM, (4) Xem trên hộp máy. IMEI gồm 15 chữ số."}},
-            {"@type": "Question", "name": "Check IMEI biết được những gì?", "acceptedAnswer": {"@type": "Answer", "text": "Tùy loại check: Miễn phí biết model, màu, dung lượng, warranty. Trả phí biết thêm iCloud status (Find My), blacklist, carrier lock, financed status, lost mode."}},
-            {"@type": "Question", "name": "iPhone blacklist có dùng được không?", "acceptedAnswer": {"@type": "Answer", "text": "iPhone blacklist có thể dùng WiFi bình thường, nhưng không gắn SIM được ở quốc gia đã báo blacklist. Một số nhà mạng quốc gia khác vẫn chấp nhận."}}
+            {"@type": "Question", "name": "IMEI l� g�?", "acceptedAnswer": {"@type": "Answer", "text": "IMEI (International Mobile Equipment Identity) l� m� s? d?nh danh duy nh?t g?m 15 ch? s? c?a m?i di?n tho?i. IMEI du?c d�ng d? x�c d?nh thi?t b?, ki?m tra blacklist, iCloud, b?o h�nh v� carrier lock."}},
+            {"@type": "Question", "name": "Check IMEI mi?n ph� c� ch�nh x�c kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "Check IMEI mi?n ph� cung c?p th�ng tin co b?n (model, m�u, dung lu?ng, warranty) v?i d? ch�nh x�c cao. Tuy nhi�n, d? check iCloud status, blacklist c?n d�ng d?ch v? tr? ph� v?i d? ch�nh x�c 95%+."}},
+            {"@type": "Question", "name": "L�m sao l?y IMEI iPhone?", "acceptedAnswer": {"@type": "Answer", "text": "C� 4 c�ch: (1) B?m *#06#, (2) Settings > General > About, (3) Xem tr�n khay SIM, (4) Xem tr�n h?p m�y. IMEI g?m 15 ch? s?."}},
+            {"@type": "Question", "name": "Check IMEI bi?t du?c nh?ng g�?", "acceptedAnswer": {"@type": "Answer", "text": "T�y lo?i check: Mi?n ph� bi?t model, m�u, dung lu?ng, warranty. Tr? ph� bi?t th�m iCloud status (Find My), blacklist, carrier lock, financed status, lost mode."}},
+            {"@type": "Question", "name": "iPhone blacklist c� d�ng du?c kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "iPhone blacklist c� th? d�ng WiFi b�nh thu?ng, nhung kh�ng g?n SIM du?c ? qu?c gia d� b�o blacklist. M?t s? nh� m?ng qu?c gia kh�c v?n ch?p nh?n."}}
         ]
     }
     </script>
@@ -149,54 +149,24 @@ $canonical_url = "https://www.unlocktool.us/articles/152-check-imei-free.php";
         }
     }
     </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Dịch vụ mở khóa điện thoại",
-        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.6",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "199"
-        }
-    }
-    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
 </nav>
 <section class="hero-section">
     <div class="container text-center">
-        <h1><i class="fas fa-search me-2"></i>Check IMEI Free 2026 - Kiểm Tra IMEI Miễn Phí</h1>
-        <p class="lead">Hướng dẫn chi tiết nhất cách check IMEI iPhone, Samsung - Kiểm tra iCloud, Blacklist, Warranty, Carrier Lock</p>
+        <h1><i class="fas fa-search me-2"></i>Check IMEI Free 2026 - Ki?m Tra IMEI Mi?n Ph�</h1>
+        <p class="lead">Hu?ng d?n chi ti?t nh?t c�ch check IMEI iPhone, Samsung - Ki?m tra iCloud, Blacklist, Warranty, Carrier Lock</p>
         <div class="mt-4">
-            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>Thuê UnlockTool <span class="flash-sale">CHỈ 8K</span></a>
+            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>Thu� UnlockTool <span class="flash-sale">CH? 8K</span></a>
         </div>
     </div>
 </section>
@@ -206,243 +176,243 @@ $canonical_url = "https://www.unlocktool.us/articles/152-check-imei-free.php";
         
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #0066cc;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>Tác giả:</strong> UnlockTool.us Team</span>
-            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>Cập nhật:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Đọc:</strong> ~5 phút</span>
-            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lượt xem:</strong> <span id="viewCount">1,234</span></span>
+            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>T�c gi?:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>�?c:</strong> ~5 ph�t</span>
+            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> <span id="viewCount">1,234</span></span>
         </div>
         <!-- Table of Contents -->
         <div class="toc">
-            <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
+            <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
             <ul>
-                <li><a href="#imei-la-gi">1. IMEI là gì? Tại sao cần check IMEI?</a></li>
-                <li><a href="#cach-lay-imei">2. Cách lấy IMEI iPhone, Samsung, Android</a></li>
-                <li><a href="#top-website">3. Top 10 Website Check IMEI Miễn Phí 2026</a></li>
-                <li><a href="#cac-loai-check">4. Các loại Check IMEI (Free vs Paid)</a></li>
+                <li><a href="#imei-la-gi">1. IMEI l� g�? T?i sao c?n check IMEI?</a></li>
+                <li><a href="#cach-lay-imei">2. C�ch l?y IMEI iPhone, Samsung, Android</a></li>
+                <li><a href="#top-website">3. Top 10 Website Check IMEI Mi?n Ph� 2026</a></li>
+                <li><a href="#cac-loai-check">4. C�c lo?i Check IMEI (Free vs Paid)</a></li>
                 <li><a href="#check-icloud">5. Check iCloud Status - Find My iPhone</a></li>
-                <li><a href="#check-blacklist">6. Check Blacklist - Máy báo mất</a></li>
-                <li><a href="#check-carrier">7. Check Carrier Lock - Nhà mạng</a></li>
-                <li><a href="#check-warranty">8. Check Warranty - Bảo hành Apple</a></li>
-                <li><a href="#huong-dan">9. Hướng dẫn Check IMEI từng bước</a></li>
-                <li><a href="#mua-may-cu">10. Mẹo mua iPhone/Samsung cũ</a></li>
-                <li><a href="#faq">11. Câu hỏi thường gặp (FAQ)</a></li>
+                <li><a href="#check-blacklist">6. Check Blacklist - M�y b�o m?t</a></li>
+                <li><a href="#check-carrier">7. Check Carrier Lock - Nh� m?ng</a></li>
+                <li><a href="#check-warranty">8. Check Warranty - B?o h�nh Apple</a></li>
+                <li><a href="#huong-dan">9. Hu?ng d?n Check IMEI t?ng bu?c</a></li>
+                <li><a href="#mua-may-cu">10. M?o mua iPhone/Samsung cu</a></li>
+                <li><a href="#faq">11. C�u h?i thu?ng g?p (FAQ)</a></li>
             </ul>
         </div>
         
         <!-- Section 1 -->
-        <h2 id="imei-la-gi"><i class="fas fa-info-circle me-2"></i>1. IMEI là gì? Tại sao cần check IMEI?</h2>
+        <h2 id="imei-la-gi"><i class="fas fa-info-circle me-2"></i>1. IMEI l� g�? T?i sao c?n check IMEI?</h2>
         
-        <p><strong>IMEI (International Mobile Equipment Identity)</strong> là mã số định danh duy nhất gồm <strong>15 chữ số</strong> của mỗi điện thoại di động. Mỗi thiết bị có một IMEI riêng biệt, không trùng lặp với bất kỳ thiết bị nào khác trên thế giới.</p>
+        <p><strong>IMEI (International Mobile Equipment Identity)</strong> l� m� s? d?nh danh duy nh?t g?m <strong>15 ch? s?</strong> c?a m?i di?n tho?i di d?ng. M?i thi?t b? c� m?t IMEI ri�ng bi?t, kh�ng tr�ng l?p v?i b?t k? thi?t b? n�o kh�c tr�n th? gi?i.</p>
         
-        <h3>1.1. Cấu trúc số IMEI</h3>
+        <h3>1.1. C?u tr�c s? IMEI</h3>
         
         <div class="info-box">
-            <p class="mb-2"><strong>Ví dụ IMEI:</strong> 35-123456-789012-3</p>
+            <p class="mb-2"><strong>V� d? IMEI:</strong> 35-123456-789012-3</p>
             <ul class="mb-0">
-                <li><strong>TAC (6 số đầu):</strong> Type Allocation Code - Xác định nhà sản xuất và model</li>
-                <li><strong>Serial (6 số tiếp):</strong> Số serial của thiết bị</li>
-                <li><strong>Check digit (số cuối):</strong> Số kiểm tra tính hợp lệ</li>
+                <li><strong>TAC (6 s? d?u):</strong> Type Allocation Code - X�c d?nh nh� s?n xu?t v� model</li>
+                <li><strong>Serial (6 s? ti?p):</strong> S? serial c?a thi?t b?</li>
+                <li><strong>Check digit (s? cu?i):</strong> S? ki?m tra t�nh h?p l?</li>
             </ul>
         </div>
         
-        <h3>1.2. Tại sao cần check IMEI?</h3>
+        <h3>1.2. T?i sao c?n check IMEI?</h3>
         
         <div class="row">
             <div class="col-md-6">
                 <div class="tool-card">
                     <div class="icon"><i class="fas fa-shield-alt"></i></div>
-                    <h5>Bảo vệ khi mua máy cũ</h5>
-                    <p>Tránh mua phải máy bị iCloud lock, blacklist (báo mất), hoặc carrier lock (khóa mạng).</p>
+                    <h5>B?o v? khi mua m�y cu</h5>
+                    <p>Tr�nh mua ph?i m�y b? iCloud lock, blacklist (b�o m?t), ho?c carrier lock (kh�a m?ng).</p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="tool-card">
                     <div class="icon"><i class="fas fa-check-circle"></i></div>
-                    <h5>Xác minh thông tin</h5>
-                    <p>Kiểm tra model, màu, dung lượng, xuất xứ có đúng với lời người bán không.</p>
+                    <h5>X�c minh th�ng tin</h5>
+                    <p>Ki?m tra model, m�u, dung lu?ng, xu?t x? c� d�ng v?i l?i ngu?i b�n kh�ng.</p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="tool-card">
                     <div class="icon"><i class="fas fa-award"></i></div>
-                    <h5>Kiểm tra bảo hành</h5>
-                    <p>Biết máy còn bảo hành Apple hay không, được active từ ngày nào.</p>
+                    <h5>Ki?m tra b?o h�nh</h5>
+                    <p>Bi?t m�y c�n b?o h�nh Apple hay kh�ng, du?c active t? ng�y n�o.</p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="tool-card">
                     <div class="icon"><i class="fas fa-unlock"></i></div>
-                    <h5>Xác định loại máy</h5>
-                    <p>Biết máy Quốc Tế hay Lock nhà mạng, cần unlock hay không.</p>
+                    <h5>X�c d?nh lo?i m�y</h5>
+                    <p>Bi?t m�y Qu?c T? hay Lock nh� m?ng, c?n unlock hay kh�ng.</p>
                 </div>
             </div>
         </div>
         
         <!-- Section 2 -->
-        <h2 id="cach-lay-imei"><i class="fas fa-mobile-alt me-2"></i>2. Cách lấy IMEI iPhone, Samsung, Android</h2>
+        <h2 id="cach-lay-imei"><i class="fas fa-mobile-alt me-2"></i>2. C�ch l?y IMEI iPhone, Samsung, Android</h2>
         
-        <h3>2.1. Cách lấy IMEI iPhone</h3>
+        <h3>2.1. C�ch l?y IMEI iPhone</h3>
         
         <div class="step-card">
             <span class="step-number">1</span>
-            <h5>Bấm *#06#</h5>
-            <p>Mở ứng dụng <strong>Phone</strong> (Điện thoại), bấm <strong>*#06#</strong>. IMEI sẽ hiển thị ngay trên màn hình.</p>
+            <h5>B?m *#06#</h5>
+            <p>M? ?ng d?ng <strong>Phone</strong> (�i?n tho?i), b?m <strong>*#06#</strong>. IMEI s? hi?n th? ngay tr�n m�n h�nh.</p>
         </div>
         
         <div class="step-card">
             <span class="step-number">2</span>
             <h5>Trong Settings</h5>
-            <p>Vào <strong>Settings → General → About</strong>. Cuộn xuống tìm mục <strong>IMEI</strong>.</p>
+            <p>V�o <strong>Settings ? General ? About</strong>. Cu?n xu?ng t�m m?c <strong>IMEI</strong>.</p>
         </div>
         
         <div class="step-card">
             <span class="step-number">3</span>
-            <h5>Trên khay SIM</h5>
-            <p>Một số iPhone có IMEI in trên <strong>khay SIM</strong> (iPhone 6s trở về sau).</p>
+            <h5>Tr�n khay SIM</h5>
+            <p>M?t s? iPhone c� IMEI in tr�n <strong>khay SIM</strong> (iPhone 6s tr? v? sau).</p>
         </div>
         
         <div class="step-card">
             <span class="step-number">4</span>
-            <h5>Trên hộp máy</h5>
-            <p>IMEI được in trên <strong>tem dán hộp máy</strong> gốc (nếu còn hộp).</p>
+            <h5>Tr�n h?p m�y</h5>
+            <p>IMEI du?c in tr�n <strong>tem d�n h?p m�y</strong> g?c (n?u c�n h?p).</p>
         </div>
         
-        <h3>2.2. Cách lấy IMEI Samsung/Android</h3>
+        <h3>2.2. C�ch l?y IMEI Samsung/Android</h3>
         
         <div class="info-box">
             <ul class="mb-0">
-                <li><strong>Bấm *#06#</strong> - Hoạt động trên mọi điện thoại Android</li>
-                <li><strong>Settings → About Phone → Status → IMEI</strong></li>
-                <li><strong>Settings → About Phone → IMEI Information</strong></li>
-                <li>Xem <strong>dưới pin</strong> (với máy tháo được pin)</li>
-                <li>Xem trên <strong>hộp máy</strong></li>
+                <li><strong>B?m *#06#</strong> - Ho?t d?ng tr�n m?i di?n tho?i Android</li>
+                <li><strong>Settings ? About Phone ? Status ? IMEI</strong></li>
+                <li><strong>Settings ? About Phone ? IMEI Information</strong></li>
+                <li>Xem <strong>du?i pin</strong> (v?i m�y th�o du?c pin)</li>
+                <li>Xem tr�n <strong>h?p m�y</strong></li>
             </ul>
         </div>
         
         <div class="warning-box">
-            <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý quan trọng:</h5>
-            <p class="mb-0">Nếu máy không lên nguồn hoặc bị khóa màn hình, bạn vẫn có thể lấy IMEI từ <strong>khay SIM</strong> hoặc <strong>hộp máy</strong>. Đây là cách duy nhất để check trước khi mua máy cũ mà không cần mở khóa.</p>
+            <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu � quan tr?ng:</h5>
+            <p class="mb-0">N?u m�y kh�ng l�n ngu?n ho?c b? kh�a m�n h�nh, b?n v?n c� th? l?y IMEI t? <strong>khay SIM</strong> ho?c <strong>h?p m�y</strong>. ��y l� c�ch duy nh?t d? check tru?c khi mua m�y cu m� kh�ng c?n m? kh�a.</p>
         </div>
         
         <!-- Section 3 -->
-        <h2 id="top-website"><i class="fas fa-globe me-2"></i>3. Top 10 Website Check IMEI Miễn Phí 2026</h2>
+        <h2 id="top-website"><i class="fas fa-globe me-2"></i>3. Top 10 Website Check IMEI Mi?n Ph� 2026</h2>
         
         <h3>3.1. Check IMEI iPhone</h3>
         
         <div class="website-card">
             <h5><i class="fab fa-apple me-2"></i>1. checkcoverage.apple.com (Apple Official)</h5>
-            <p><strong>Miễn phí</strong> - Công cụ chính thức của Apple. Check warranty, hỗ trợ kỹ thuật, AppleCare+. Chính xác 100%.</p>
-            <a href="https://checkcoverage.apple.com" target="_blank" class="btn btn-sm btn-outline-primary">Truy cập →</a>
+            <p><strong>Mi?n ph�</strong> - C�ng c? ch�nh th?c c?a Apple. Check warranty, h? tr? k? thu?t, AppleCare+. Ch�nh x�c 100%.</p>
+            <a href="https://checkcoverage.apple.com" target="_blank" class="btn btn-sm btn-outline-primary">Truy c?p ?</a>
         </div>
         
         <div class="website-card">
             <h5><i class="fas fa-search me-2"></i>2. imei.info</h5>
-            <p><strong>Miễn phí cơ bản</strong> - Check model, màu, dung lượng, carrier. Có dịch vụ trả phí để check iCloud, blacklist.</p>
-            <a href="https://imei.info" target="_blank" class="btn btn-sm btn-outline-primary">Truy cập →</a>
+            <p><strong>Mi?n ph� co b?n</strong> - Check model, m�u, dung lu?ng, carrier. C� d?ch v? tr? ph� d? check iCloud, blacklist.</p>
+            <a href="https://imei.info" target="_blank" class="btn btn-sm btn-outline-primary">Truy c?p ?</a>
         </div>
         
         <div class="website-card">
             <h5><i class="fas fa-shield-alt me-2"></i>3. imeipro.info</h5>
-            <p><strong>Miễn phí cơ bản</strong> - Check Find My iPhone status, iCloud lock. Giao diện đơn giản, dễ sử dụng.</p>
-            <a href="https://imeipro.info" target="_blank" class="btn btn-sm btn-outline-primary">Truy cập →</a>
+            <p><strong>Mi?n ph� co b?n</strong> - Check Find My iPhone status, iCloud lock. Giao di?n don gi?n, d? s? d?ng.</p>
+            <a href="https://imeipro.info" target="_blank" class="btn btn-sm btn-outline-primary">Truy c?p ?</a>
         </div>
         
         <div class="website-card">
             <h5><i class="fas fa-lock me-2"></i>4. iunlocker.com</h5>
-            <p><strong>Miễn phí</strong> - Check iCloud Activation Lock, Find My iPhone status bằng IMEI hoặc Serial Number.</p>
-            <a href="https://iunlocker.com" target="_blank" class="btn btn-sm btn-outline-primary">Truy cập →</a>
+            <p><strong>Mi?n ph�</strong> - Check iCloud Activation Lock, Find My iPhone status b?ng IMEI ho?c Serial Number.</p>
+            <a href="https://iunlocker.com" target="_blank" class="btn btn-sm btn-outline-primary">Truy c?p ?</a>
         </div>
         
         <div class="website-card">
             <h5><i class="fas fa-cloud me-2"></i>5. ifreeicloud.co.uk</h5>
-            <p><strong>Miễn phí</strong> - Check Find My iPhone, iCloud status. Hỗ trợ check bằng Serial Number.</p>
-            <a href="https://ifreeicloud.co.uk" target="_blank" class="btn btn-sm btn-outline-primary">Truy cập →</a>
+            <p><strong>Mi?n ph�</strong> - Check Find My iPhone, iCloud status. H? tr? check b?ng Serial Number.</p>
+            <a href="https://ifreeicloud.co.uk" target="_blank" class="btn btn-sm btn-outline-primary">Truy c?p ?</a>
         </div>
         
         <h3>3.2. Check IMEI Samsung/Android</h3>
         
         <div class="website-card">
             <h5><i class="fab fa-android me-2"></i>6. imei.info (Android)</h5>
-            <p><strong>Miễn phí</strong> - Check model, specs, carrier cho tất cả điện thoại Android.</p>
+            <p><strong>Mi?n ph�</strong> - Check model, specs, carrier cho t?t c? di?n tho?i Android.</p>
         </div>
         
         <div class="website-card">
             <h5><i class="fas fa-mobile-alt me-2"></i>7. Samsung IMEI Check</h5>
-            <p><strong>Miễn phí</strong> - imei.samsungmobilepress.com - Check thông tin Samsung chính hãng.</p>
+            <p><strong>Mi?n ph�</strong> - imei.samsungmobilepress.com - Check th�ng tin Samsung ch�nh h�ng.</p>
         </div>
         
         <div class="website-card">
             <h5><i class="fas fa-ban me-2"></i>8. swappa.com/esn</h5>
-            <p><strong>Miễn phí</strong> - Check blacklist cho thị trường Mỹ. Chính xác cho các nhà mạng US.</p>
-            <a href="https://swappa.com/esn" target="_blank" class="btn btn-sm btn-outline-primary">Truy cập →</a>
+            <p><strong>Mi?n ph�</strong> - Check blacklist cho th? tru?ng M?. Ch�nh x�c cho c�c nh� m?ng US.</p>
+            <a href="https://swappa.com/esn" target="_blank" class="btn btn-sm btn-outline-primary">Truy c?p ?</a>
         </div>
         
         <h3>3.3. Check Blacklist</h3>
         
         <div class="website-card">
             <h5><i class="fas fa-exclamation-circle me-2"></i>9. CTIA Stolen Phone Checker</h5>
-            <p><strong>Miễn phí</strong> - Công cụ chính thức check blacklist cho Mỹ và Tây Âu. stolenphonechecker.org</p>
+            <p><strong>Mi?n ph�</strong> - C�ng c? ch�nh th?c check blacklist cho M? v� T�y �u. stolenphonechecker.org</p>
         </div>
         
         <div class="website-card">
             <h5><i class="fas fa-database me-2"></i>10. sickw.com</h5>
-            <p><strong>Miễn phí cơ bản</strong> - Check IMEI cho nhiều hãng, có dịch vụ trả phí chi tiết.</p>
-            <a href="https://sickw.com" target="_blank" class="btn btn-sm btn-outline-primary">Truy cập →</a>
+            <p><strong>Mi?n ph� co b?n</strong> - Check IMEI cho nhi?u h�ng, c� d?ch v? tr? ph� chi ti?t.</p>
+            <a href="https://sickw.com" target="_blank" class="btn btn-sm btn-outline-primary">Truy c?p ?</a>
         </div>
         
         <!-- Section 4 -->
-        <h2 id="cac-loai-check"><i class="fas fa-list me-2"></i>4. Các loại Check IMEI (Free vs Paid)</h2>
+        <h2 id="cac-loai-check"><i class="fas fa-list me-2"></i>4. C�c lo?i Check IMEI (Free vs Paid)</h2>
         
         <table class="comparison-table">
             <thead>
                 <tr>
-                    <th>Loại Check</th>
-                    <th>Thông tin</th>
-                    <th>Miễn phí?</th>
-                    <th>Độ chính xác</th>
+                    <th>Lo?i Check</th>
+                    <th>Th�ng tin</th>
+                    <th>Mi?n ph�?</th>
+                    <th>�? ch�nh x�c</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><strong>Basic Info</strong></td>
-                    <td>Model, màu, dung lượng, xuất xứ</td>
-                    <td><i class="fas fa-check check-icon"></i> Có</td>
+                    <td>Model, m�u, dung lu?ng, xu?t x?</td>
+                    <td><i class="fas fa-check check-icon"></i> C�</td>
                     <td>100%</td>
                 </tr>
                 <tr>
                     <td><strong>Warranty Check</strong></td>
-                    <td>Bảo hành Apple, ngày active</td>
-                    <td><i class="fas fa-check check-icon"></i> Có (Apple)</td>
+                    <td>B?o h�nh Apple, ng�y active</td>
+                    <td><i class="fas fa-check check-icon"></i> C� (Apple)</td>
                     <td>100%</td>
                 </tr>
                 <tr>
                     <td><strong>iCloud Status</strong></td>
                     <td>Find My iPhone ON/OFF</td>
-                    <td><i class="fas fa-times times-icon"></i> Trả phí</td>
+                    <td><i class="fas fa-times times-icon"></i> Tr? ph�</td>
                     <td>95%+</td>
                 </tr>
                 <tr>
                     <td><strong>Carrier Lock</strong></td>
-                    <td>Nhà mạng, lock/unlock status</td>
-                    <td><i class="fas fa-times times-icon"></i> Trả phí</td>
+                    <td>Nh� m?ng, lock/unlock status</td>
+                    <td><i class="fas fa-times times-icon"></i> Tr? ph�</td>
                     <td>95%+</td>
                 </tr>
                 <tr>
                     <td><strong>Blacklist Check</strong></td>
-                    <td>Máy báo mất/stolen</td>
-                    <td><i class="fas fa-times times-icon"></i> Trả phí</td>
+                    <td>M�y b�o m?t/stolen</td>
+                    <td><i class="fas fa-times times-icon"></i> Tr? ph�</td>
                     <td>90%+</td>
                 </tr>
                 <tr>
                     <td><strong>FRP Status</strong></td>
                     <td>Google Account lock (Android)</td>
-                    <td><i class="fas fa-times times-icon"></i> Trả phí</td>
+                    <td><i class="fas fa-times times-icon"></i> Tr? ph�</td>
                     <td>90%+</td>
                 </tr>
                 <tr>
                     <td><strong>Financed Status</strong></td>
-                    <td>Máy còn trả góp</td>
-                    <td><i class="fas fa-times times-icon"></i> Trả phí</td>
+                    <td>M�y c�n tr? g�p</td>
+                    <td><i class="fas fa-times times-icon"></i> Tr? ph�</td>
                     <td>85%+</td>
                 </tr>
             </tbody>
@@ -451,269 +421,269 @@ $canonical_url = "https://www.unlocktool.us/articles/152-check-imei-free.php";
         <!-- Section 5 -->
         <h2 id="check-icloud"><i class="fab fa-apple me-2"></i>5. Check iCloud Status - Find My iPhone</h2>
         
-        <p><strong>iCloud Status</strong> là thông tin quan trọng nhất khi mua iPhone cũ. Nếu Find My iPhone đang <strong>ON</strong>, bạn sẽ không thể sử dụng máy sau khi reset.</p>
+        <p><strong>iCloud Status</strong> l� th�ng tin quan tr?ng nh?t khi mua iPhone cu. N?u Find My iPhone dang <strong>ON</strong>, b?n s? kh�ng th? s? d?ng m�y sau khi reset.</p>
         
-        <h3>5.1. Các trạng thái iCloud</h3>
+        <h3>5.1. C�c tr?ng th�i iCloud</h3>
         
         <table class="check-table">
             <thead>
                 <tr>
-                    <th>Trạng thái</th>
-                    <th>Ý nghĩa</th>
-                    <th>Nên mua?</th>
+                    <th>Tr?ng th�i</th>
+                    <th>� nghia</th>
+                    <th>N�n mua?</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><strong style="color:#4caf50">OFF / CLEAN</strong></td>
-                    <td>Find My iPhone đã tắt, không có iCloud lock</td>
-                    <td><i class="fas fa-check check-icon"></i> An toàn</td>
+                    <td>Find My iPhone d� t?t, kh�ng c� iCloud lock</td>
+                    <td><i class="fas fa-check check-icon"></i> An to�n</td>
                 </tr>
                 <tr>
                     <td><strong style="color:#f44336">ON / LOCKED</strong></td>
-                    <td>Find My iPhone đang bật, cần Apple ID để kích hoạt</td>
-                    <td><i class="fas fa-times times-icon"></i> Không nên</td>
+                    <td>Find My iPhone dang b?t, c?n Apple ID d? k�ch ho?t</td>
+                    <td><i class="fas fa-times times-icon"></i> Kh�ng n�n</td>
                 </tr>
                 <tr>
                     <td><strong style="color:#ff9800">LOST MODE</strong></td>
-                    <td>Máy đã bị báo mất qua iCloud</td>
-                    <td><i class="fas fa-times times-icon"></i> Tránh mua</td>
+                    <td>M�y d� b? b�o m?t qua iCloud</td>
+                    <td><i class="fas fa-times times-icon"></i> Tr�nh mua</td>
                 </tr>
             </tbody>
         </table>
         
-        <h3>5.2. Cách check iCloud trực tiếp</h3>
+        <h3>5.2. C�ch check iCloud tr?c ti?p</h3>
         
         <div class="tip-box">
-            <h5><i class="fas fa-lightbulb me-2"></i>Cách tốt nhất: Kiểm tra trên máy</h5>
+            <h5><i class="fas fa-lightbulb me-2"></i>C�ch t?t nh?t: Ki?m tra tr�n m�y</h5>
             <ol class="mb-0">
-                <li>Vào <strong>Settings → [Tên người dùng] → Find My</strong></li>
-                <li>Nếu Find My iPhone <strong>OFF</strong> → OK</li>
-                <li>Hoặc: <strong>Settings → General → Reset → Erase All Content</strong></li>
-                <li>Nếu reset thành công và đến màn hình "Hello" mà KHÔNG yêu cầu Apple ID → Máy sạch</li>
+                <li>V�o <strong>Settings ? [T�n ngu?i d�ng] ? Find My</strong></li>
+                <li>N?u Find My iPhone <strong>OFF</strong> ? OK</li>
+                <li>Ho?c: <strong>Settings ? General ? Reset ? Erase All Content</strong></li>
+                <li>N?u reset th�nh c�ng v� d?n m�n h�nh "Hello" m� KH�NG y�u c?u Apple ID ? M�y s?ch</li>
             </ol>
         </div>
         
         <div class="danger-box">
-            <h5><i class="fas fa-exclamation-circle me-2"></i>Quan trọng:</h5>
-            <p class="mb-0">Nếu mua phải iPhone có iCloud ON mà không có mật khẩu, bạn sẽ cần bypass iCloud bằng <strong>UnlockTool</strong> (chỉ hỗ trợ iPhone 5s - iPhone X).</p>
+            <h5><i class="fas fa-exclamation-circle me-2"></i>Quan tr?ng:</h5>
+            <p class="mb-0">N?u mua ph?i iPhone c� iCloud ON m� kh�ng c� m?t kh?u, b?n s? c?n bypass iCloud b?ng <strong>UnlockTool</strong> (ch? h? tr? iPhone 5s - iPhone X).</p>
         </div>
         
         <!-- Section 6 -->
-        <h2 id="check-blacklist"><i class="fas fa-ban me-2"></i>6. Check Blacklist - Máy báo mất</h2>
+        <h2 id="check-blacklist"><i class="fas fa-ban me-2"></i>6. Check Blacklist - M�y b�o m?t</h2>
         
-        <p><strong>Blacklist</strong> là danh sách các IMEI bị báo mất hoặc stolen với nhà mạng. iPhone/điện thoại trong blacklist sẽ không gắn được SIM ở quốc gia đã báo.</p>
+        <p><strong>Blacklist</strong> l� danh s�ch c�c IMEI b? b�o m?t ho?c stolen v?i nh� m?ng. iPhone/di?n tho?i trong blacklist s? kh�ng g?n du?c SIM ? qu?c gia d� b�o.</p>
         
-        <h3>6.1. Nguyên nhân bị blacklist</h3>
+        <h3>6.1. Nguy�n nh�n b? blacklist</h3>
         
         <ul>
-            <li><strong>Báo mất/stolen:</strong> Chủ cũ báo mất với nhà mạng hoặc cảnh sát</li>
-            <li><strong>Còn nợ tiền:</strong> Máy mua trả góp chưa trả hết</li>
-            <li><strong>Financed:</strong> Máy đang trong hợp đồng thuê</li>
-            <li><strong>Fraud:</strong> Máy liên quan đến gian lận</li>
+            <li><strong>B�o m?t/stolen:</strong> Ch? cu b�o m?t v?i nh� m?ng ho?c c?nh s�t</li>
+            <li><strong>C�n n? ti?n:</strong> M�y mua tr? g�p chua tr? h?t</li>
+            <li><strong>Financed:</strong> M�y dang trong h?p d?ng thu�</li>
+            <li><strong>Fraud:</strong> M�y li�n quan d?n gian l?n</li>
         </ul>
         
-        <h3>6.2. Máy blacklist có dùng được không?</h3>
+        <h3>6.2. M�y blacklist c� d�ng du?c kh�ng?</h3>
         
         <div class="info-box">
             <ul class="mb-0">
-                <li><strong>WiFi:</strong> <i class="fas fa-check check-icon"></i> Dùng bình thường</li>
-                <li><strong>SIM cùng quốc gia:</strong> <i class="fas fa-times times-icon"></i> Không gắn được</li>
-                <li><strong>SIM quốc gia khác:</strong> <i class="fas fa-check check-icon"></i> Thường vẫn được (ví dụ: US blacklist nhưng VN vẫn dùng SIM VN được)</li>
-                <li><strong>eSIM:</strong> Tùy nhà mạng</li>
+                <li><strong>WiFi:</strong> <i class="fas fa-check check-icon"></i> D�ng b�nh thu?ng</li>
+                <li><strong>SIM c�ng qu?c gia:</strong> <i class="fas fa-times times-icon"></i> Kh�ng g?n du?c</li>
+                <li><strong>SIM qu?c gia kh�c:</strong> <i class="fas fa-check check-icon"></i> Thu?ng v?n du?c (v� d?: US blacklist nhung VN v?n d�ng SIM VN du?c)</li>
+                <li><strong>eSIM:</strong> T�y nh� m?ng</li>
             </ul>
         </div>
         
         <div class="warning-box">
-            <p class="mb-0"><strong>Khuyến nghị:</strong> Tránh mua máy blacklist vì giá trị bán lại thấp và có thể gặp vấn đề về pháp lý.</p>
+            <p class="mb-0"><strong>Khuy?n ngh?:</strong> Tr�nh mua m�y blacklist v� gi� tr? b�n l?i th?p v� c� th? g?p v?n d? v? ph�p l�.</p>
         </div>
         
         <!-- Section 7 -->
-        <h2 id="check-carrier"><i class="fas fa-sim-card me-2"></i>7. Check Carrier Lock - Nhà mạng</h2>
+        <h2 id="check-carrier"><i class="fas fa-sim-card me-2"></i>7. Check Carrier Lock - Nh� m?ng</h2>
         
-        <p><strong>Carrier Lock</strong> (khóa nhà mạng) là khi iPhone chỉ dùng được SIM của một nhà mạng cụ thể (AT&T, T-Mobile, Softbank...).</p>
+        <p><strong>Carrier Lock</strong> (kh�a nh� m?ng) l� khi iPhone ch? d�ng du?c SIM c?a m?t nh� m?ng c? th? (AT&T, T-Mobile, Softbank...).</p>
         
-        <h3>7.1. Các trạng thái Carrier</h3>
+        <h3>7.1. C�c tr?ng th�i Carrier</h3>
         
         <table class="check-table">
             <thead>
                 <tr>
-                    <th>Trạng thái</th>
-                    <th>Ý nghĩa</th>
+                    <th>Tr?ng th�i</th>
+                    <th>� nghia</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><strong>Factory Unlocked</strong></td>
-                    <td>Máy Quốc Tế, dùng mọi SIM</td>
+                    <td>M�y Qu?c T?, d�ng m?i SIM</td>
                 </tr>
                 <tr>
                     <td><strong>Carrier Locked (AT&T, T-Mobile...)</strong></td>
-                    <td>Chỉ dùng SIM nhà mạng đó, cần unlock</td>
+                    <td>Ch? d�ng SIM nh� m?ng d�, c?n unlock</td>
                 </tr>
                 <tr>
                     <td><strong>SIM Lock: No SIM restrictions</strong></td>
-                    <td>Đã unlock hoặc Quốc Tế</td>
+                    <td>�� unlock ho?c Qu?c T?</td>
                 </tr>
             </tbody>
         </table>
         
-        <h3>7.2. Cách kiểm tra trên máy</h3>
+        <h3>7.2. C�ch ki?m tra tr�n m�y</h3>
         
         <div class="info-box">
-            <p class="mb-0">Vào <strong>Settings → General → About</strong> → Tìm mục <strong>"Carrier Lock"</strong> hoặc <strong>"Network Provider Lock"</strong>. Nếu hiện <strong>"No SIM restrictions"</strong> → Máy Quốc Tế hoặc đã unlock.</p>
+            <p class="mb-0">V�o <strong>Settings ? General ? About</strong> ? T�m m?c <strong>"Carrier Lock"</strong> ho?c <strong>"Network Provider Lock"</strong>. N?u hi?n <strong>"No SIM restrictions"</strong> ? M�y Qu?c T? ho?c d� unlock.</p>
         </div>
         
         <!-- Section 8 -->
-        <h2 id="check-warranty"><i class="fas fa-award me-2"></i>8. Check Warranty - Bảo hành Apple</h2>
+        <h2 id="check-warranty"><i class="fas fa-award me-2"></i>8. Check Warranty - B?o h�nh Apple</h2>
         
-        <p>Apple cung cấp công cụ chính thức để check bảo hành tại <a href="https://checkcoverage.apple.com" target="_blank">checkcoverage.apple.com</a>.</p>
+        <p>Apple cung c?p c�ng c? ch�nh th?c d? check b?o h�nh t?i <a href="https://checkcoverage.apple.com" target="_blank">checkcoverage.apple.com</a>.</p>
         
-        <h3>8.1. Thông tin có thể check</h3>
+        <h3>8.1. Th�ng tin c� th? check</h3>
         
         <ul>
-            <li><strong>Valid Purchase Date:</strong> Ngày mua hợp lệ (đã kích hoạt)</li>
-            <li><strong>Telephone Technical Support:</strong> Hỗ trợ kỹ thuật qua điện thoại</li>
-            <li><strong>Repairs and Service Coverage:</strong> Bảo hành sửa chữa</li>
-            <li><strong>AppleCare+:</strong> Có mua gói bảo hành mở rộng không</li>
+            <li><strong>Valid Purchase Date:</strong> Ng�y mua h?p l? (d� k�ch ho?t)</li>
+            <li><strong>Telephone Technical Support:</strong> H? tr? k? thu?t qua di?n tho?i</li>
+            <li><strong>Repairs and Service Coverage:</strong> B?o h�nh s?a ch?a</li>
+            <li><strong>AppleCare+:</strong> C� mua g�i b?o h�nh m? r?ng kh�ng</li>
         </ul>
         
-        <h3>8.2. Cách check warranty</h3>
+        <h3>8.2. C�ch check warranty</h3>
         
         <div class="step-card">
             <span class="step-number">1</span>
-            <p>Truy cập <strong>checkcoverage.apple.com</strong></p>
+            <p>Truy c?p <strong>checkcoverage.apple.com</strong></p>
         </div>
         
         <div class="step-card">
             <span class="step-number">2</span>
-            <p>Nhập <strong>Serial Number</strong> hoặc <strong>IMEI</strong></p>
+            <p>Nh?p <strong>Serial Number</strong> ho?c <strong>IMEI</strong></p>
         </div>
         
         <div class="step-card">
             <span class="step-number">3</span>
-            <p>Nhập <strong>CAPTCHA</strong> và submit</p>
+            <p>Nh?p <strong>CAPTCHA</strong> v� submit</p>
         </div>
         
         <div class="step-card">
             <span class="step-number">4</span>
-            <p>Xem kết quả warranty status</p>
+            <p>Xem k?t qu? warranty status</p>
         </div>
         
         <!-- Section 9 -->
-        <h2 id="huong-dan"><i class="fas fa-book me-2"></i>9. Hướng dẫn Check IMEI từng bước</h2>
+        <h2 id="huong-dan"><i class="fas fa-book me-2"></i>9. Hu?ng d?n Check IMEI t?ng bu?c</h2>
         
-        <h3>9.1. Check IMEI cơ bản (Miễn phí)</h3>
+        <h3>9.1. Check IMEI co b?n (Mi?n ph�)</h3>
         
         <div class="step-card">
             <span class="step-number">1</span>
-            <h5>Lấy IMEI</h5>
-            <p>Bấm <strong>*#06#</strong> hoặc xem trong Settings → General → About</p>
+            <h5>L?y IMEI</h5>
+            <p>B?m <strong>*#06#</strong> ho?c xem trong Settings ? General ? About</p>
         </div>
         
         <div class="step-card">
             <span class="step-number">2</span>
             <h5>Check Warranty</h5>
-            <p>Vào <strong>checkcoverage.apple.com</strong>, nhập IMEI/Serial để xem bảo hành</p>
+            <p>V�o <strong>checkcoverage.apple.com</strong>, nh?p IMEI/Serial d? xem b?o h�nh</p>
         </div>
         
         <div class="step-card">
             <span class="step-number">3</span>
             <h5>Check Model Info</h5>
-            <p>Vào <strong>imei.info</strong>, nhập IMEI để xem model, màu, dung lượng, carrier</p>
+            <p>V�o <strong>imei.info</strong>, nh?p IMEI d? xem model, m�u, dung lu?ng, carrier</p>
         </div>
         
-        <h3>9.2. Check IMEI chi tiết (Trả phí)</h3>
+        <h3>9.2. Check IMEI chi ti?t (Tr? ph�)</h3>
         
         <div class="step-card">
             <span class="step-number">1</span>
-            <h5>Chọn dịch vụ</h5>
-            <p>Sử dụng <strong>imei.info</strong>, <strong>imeipro.info</strong> hoặc liên hệ dịch vụ check IMEI</p>
+            <h5>Ch?n d?ch v?</h5>
+            <p>S? d?ng <strong>imei.info</strong>, <strong>imeipro.info</strong> ho?c li�n h? d?ch v? check IMEI</p>
         </div>
         
         <div class="step-card">
             <span class="step-number">2</span>
-            <h5>Thanh toán</h5>
-            <p>Giá thường từ <strong>20K - 100K</strong> tùy loại check</p>
+            <h5>Thanh to�n</h5>
+            <p>Gi� thu?ng t? <strong>20K - 100K</strong> t�y lo?i check</p>
         </div>
         
         <div class="step-card">
             <span class="step-number">3</span>
-            <h5>Nhận kết quả</h5>
-            <p>Kết quả trả về trong <strong>vài giây đến vài phút</strong></p>
+            <h5>Nh?n k?t qu?</h5>
+            <p>K?t qu? tr? v? trong <strong>v�i gi�y d?n v�i ph�t</strong></p>
         </div>
         
         <!-- Section 10 -->
-        <h2 id="mua-may-cu"><i class="fas fa-shopping-cart me-2"></i>10. Mẹo mua iPhone/Samsung cũ</h2>
+        <h2 id="mua-may-cu"><i class="fas fa-shopping-cart me-2"></i>10. M?o mua iPhone/Samsung cu</h2>
         
         <div class="tip-box">
-            <h5><i class="fas fa-lightbulb me-2"></i>Checklist trước khi mua:</h5>
+            <h5><i class="fas fa-lightbulb me-2"></i>Checklist tru?c khi mua:</h5>
             <ul class="mb-0">
-                <li><i class="fas fa-check check-icon me-2"></i><strong>Check IMEI</strong> - Xác minh model, warranty</li>
-                <li><i class="fas fa-check check-icon me-2"></i><strong>Check iCloud</strong> - Đảm bảo Find My OFF</li>
-                <li><i class="fas fa-check check-icon me-2"></i><strong>Check Blacklist</strong> - Không báo mất</li>
-                <li><i class="fas fa-check check-icon me-2"></i><strong>Check Carrier</strong> - Quốc Tế hay Lock</li>
-                <li><i class="fas fa-check check-icon me-2"></i><strong>Test trên máy</strong> - Reset thử trước khi mua</li>
+                <li><i class="fas fa-check check-icon me-2"></i><strong>Check IMEI</strong> - X�c minh model, warranty</li>
+                <li><i class="fas fa-check check-icon me-2"></i><strong>Check iCloud</strong> - �?m b?o Find My OFF</li>
+                <li><i class="fas fa-check check-icon me-2"></i><strong>Check Blacklist</strong> - Kh�ng b�o m?t</li>
+                <li><i class="fas fa-check check-icon me-2"></i><strong>Check Carrier</strong> - Qu?c T? hay Lock</li>
+                <li><i class="fas fa-check check-icon me-2"></i><strong>Test tr�n m�y</strong> - Reset th? tru?c khi mua</li>
             </ul>
         </div>
         
         <div class="warning-box">
-            <h5><i class="fas fa-exclamation-triangle me-2"></i>Red flags khi mua máy cũ:</h5>
+            <h5><i class="fas fa-exclamation-triangle me-2"></i>Red flags khi mua m�y cu:</h5>
             <ul class="mb-0">
-                <li>Người bán không cho check IMEI</li>
-                <li>Không cho test reset máy</li>
-                <li>Giá rẻ bất thường</li>
-                <li>Không có hộp, phụ kiện</li>
-                <li>Máy đã jailbreak sẵn</li>
+                <li>Ngu?i b�n kh�ng cho check IMEI</li>
+                <li>Kh�ng cho test reset m�y</li>
+                <li>Gi� r? b?t thu?ng</li>
+                <li>Kh�ng c� h?p, ph? ki?n</li>
+                <li>M�y d� jailbreak s?n</li>
             </ul>
         </div>
         
         <!-- Section 11: FAQ -->
-        <h2 id="faq"><i class="fas fa-question-circle me-2"></i>11. Câu hỏi thường gặp (FAQ)</h2>
+        <h2 id="faq"><i class="fas fa-question-circle me-2"></i>11. C�u h?i thu?ng g?p (FAQ)</h2>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Check IMEI miễn phí có chính xác không?</h5>
-            <p>Check miễn phí cung cấp thông tin <strong>cơ bản</strong> (model, warranty) với độ chính xác cao. Tuy nhiên, để check iCloud status, blacklist cần dùng dịch vụ trả phí với độ chính xác <strong>95%+</strong>.</p>
+            <h5><i class="fas fa-question me-2"></i>Check IMEI mi?n ph� c� ch�nh x�c kh�ng?</h5>
+            <p>Check mi?n ph� cung c?p th�ng tin <strong>co b?n</strong> (model, warranty) v?i d? ch�nh x�c cao. Tuy nhi�n, d? check iCloud status, blacklist c?n d�ng d?ch v? tr? ph� v?i d? ch�nh x�c <strong>95%+</strong>.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Check IMEI có biết máy giả không?</h5>
-            <p><strong>Có thể.</strong> Nếu IMEI không tồn tại trong database Apple/Samsung hoặc thông tin không khớp với máy thực tế, máy có thể là hàng giả hoặc IMEI đã bị sửa.</p>
+            <h5><i class="fas fa-question me-2"></i>Check IMEI c� bi?t m�y gi? kh�ng?</h5>
+            <p><strong>C� th?.</strong> N?u IMEI kh�ng t?n t?i trong database Apple/Samsung ho?c th�ng tin kh�ng kh?p v?i m�y th?c t?, m�y c� th? l� h�ng gi? ho?c IMEI d� b? s?a.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Máy iCloud ON có bypass được không?</h5>
-            <p><strong>Có.</strong> Với iPhone 5s đến iPhone X, bạn có thể <strong>bypass iCloud</strong> bằng UnlockTool. Tuy nhiên sẽ mất một số tính năng như gọi điện, iMessage. <a href="https://www.unlocktool.us/">Thuê UnlockTool chỉ 8K →</a></p>
+            <h5><i class="fas fa-question me-2"></i>M�y iCloud ON c� bypass du?c kh�ng?</h5>
+            <p><strong>C�.</strong> V?i iPhone 5s d?n iPhone X, b?n c� th? <strong>bypass iCloud</strong> b?ng UnlockTool. Tuy nhi�n s? m?t m?t s? t�nh nang nhu g?i di?n, iMessage. <a href="https://www.unlocktool.us/">Thu� UnlockTool ch? 8K ?</a></p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Tại sao cần check IMEI trả phí?</h5>
-            <p>Check miễn phí không cung cấp thông tin quan trọng như:<br/>
+            <h5><i class="fas fa-question me-2"></i>T?i sao c?n check IMEI tr? ph�?</h5>
+            <p>Check mi?n ph� kh�ng cung c?p th�ng tin quan tr?ng nhu:<br/>
             - <strong>iCloud status</strong> (Find My ON/OFF)<br/>
-            - <strong>Blacklist status</strong> (máy báo mất)<br/>
-            - <strong>Financed status</strong> (máy còn trả góp)<br/>
-            Những thông tin này rất quan trọng khi mua máy cũ!</p>
+            - <strong>Blacklist status</strong> (m�y b�o m?t)<br/>
+            - <strong>Financed status</strong> (m�y c�n tr? g�p)<br/>
+            Nh?ng th�ng tin n�y r?t quan tr?ng khi mua m�y cu!</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Check IMEI mất bao lâu?</h5>
-            <p>Check miễn phí: <strong>Ngay lập tức</strong>. Check trả phí: <strong>Vài giây đến vài phút</strong> tùy dịch vụ.</p>
+            <h5><i class="fas fa-question me-2"></i>Check IMEI m?t bao l�u?</h5>
+            <p>Check mi?n ph�: <strong>Ngay l?p t?c</strong>. Check tr? ph�: <strong>V�i gi�y d?n v�i ph�t</strong> t�y d?ch v?.</p>
         </div>
         
         <!-- CTA -->
         <div class="price-box">
-            <h3><i class="fas fa-unlock me-2"></i>iPhone bị iCloud? Bypass với UnlockTool!</h3>
-            <p>UnlockTool hỗ trợ bypass iCloud cho iPhone 5s - iPhone X. Hệ thống tự động 24/7!</p>
-            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>Thuê Ngay CHỈ 8K</a>
+            <h3><i class="fas fa-unlock me-2"></i>iPhone b? iCloud? Bypass v?i UnlockTool!</h3>
+            <p>UnlockTool h? tr? bypass iCloud cho iPhone 5s - iPhone X. H? th?ng t? d?ng 24/7!</p>
+            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>Thu� Ngay CH? 8K</a>
         </div>
         
         <!-- Related -->
-        <h2><i class="fas fa-link me-2"></i>Bài viết liên quan</h2>
+        <h2><i class="fas fa-link me-2"></i>B�i vi?t li�n quan</h2>
         <ul>
-            <li><a href="97-kiem-tra-imei-iphone.php">Kiểm tra IMEI iPhone - Hướng dẫn chi tiết</a></li>
-            <li><a href="5-bypass-icloud-iphone.php">Bypass iCloud iPhone bằng UnlockTool</a></li>
-            <li><a href="147-unlock-iphone-lock.php">Unlock iPhone Lock - Mở khóa nhà mạng</a></li>
-            <li><a href="14-thue-unlocktool-gia-re.php">Thuê UnlockTool Giá Rẻ Nhất - Chỉ 8K</a></li>
+            <li><a href="97-kiem-tra-imei-iphone.php">Ki?m tra IMEI iPhone - Hu?ng d?n chi ti?t</a></li>
+            <li><a href="5-bypass-icloud-iphone.php">Bypass iCloud iPhone b?ng UnlockTool</a></li>
+            <li><a href="147-unlock-iphone-lock.php">Unlock iPhone Lock - M? kh�a nh� m?ng</a></li>
+            <li><a href="14-thue-unlocktool-gia-re.php">Thu� UnlockTool Gi� R? Nh?t - Ch? 8K</a></li>
         </ul>
         
     </div>
@@ -726,7 +696,7 @@ $canonical_url = "https://www.unlocktool.us/articles/152-check-imei-free.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -740,13 +710,13 @@ $canonical_url = "https://www.unlocktool.us/articles/152-check-imei-free.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hướng dẫn chi tiết</small>
+                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
                         </div>
                     </div>
                 </div>
@@ -754,15 +724,15 @@ $canonical_url = "https://www.unlocktool.us/articles/152-check-imei-free.php";
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">Từ iPhone 5s - X</small>
+                            <small class="text-muted">T? iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
-                            <small class="text-muted">Download mới nhất</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
+                            <small class="text-muted">Download m?i nh?t</small>
                         </div>
                     </div>
                 </div>
@@ -775,7 +745,7 @@ $canonical_url = "https://www.unlocktool.us/articles/152-check-imei-free.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -783,8 +753,8 @@ $canonical_url = "https://www.unlocktool.us/articles/152-check-imei-free.php";
 </div>
 <footer class="bg-dark text-white py-4 text-center">
     <div class="container">
-        <p class="mb-2">&copy; 2026 UnlockTool.us - Dịch vụ cho thuê tài khoản UnlockTool uy tín #1 Việt Nam</p>
-        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thuê UnlockTool 8K</a> | <a href="/" class="text-white">Trang chủ</a></p>
+        <p class="mb-2">&copy; 2026 UnlockTool.us - D?ch v? cho thu� t�i kho?n UnlockTool uy t�n #1 Vi?t Nam</p>
+        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thu� UnlockTool 8K</a> | <a href="/" class="text-white">Trang ch?</a></p>
     </div>
 </footer>
 

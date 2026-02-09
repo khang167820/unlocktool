@@ -1,7 +1,7 @@
-﻿<?php
-$page_title = "Bypass iCloud iPhone 5S 2026 - Hướng Dẫn Mở Khóa Chi Tiết | Thuê Tool 8K/6H";
-$page_description = "Hướng dẫn bypass iCloud iPhone 5S chi tiết nhất 2026. Checkm8 exploit hỗ trợ A7 chip, mở khóa màn hình Hello, tắt Find My. Thuê tool 8.000đ/6h tại UnlockTool.us";
-$page_keywords = "bypass icloud iphone 5s, mở khóa icloud iphone 5s, iphone 5s icloud bypass, iphone 5s activation lock, icloud iphone 5s, unlock iphone 5s";
+<?php
+$page_title = "Bypass iCloud iPhone 5S 2026 - Hu?ng D?n M? Kh�a Chi Ti?t | Thu� Tool 8K/6H";
+$page_description = "Hu?ng d?n bypass iCloud iPhone 5S chi ti?t nh?t 2026. Checkm8 exploit h? tr? A7 chip, m? kh�a m�n h�nh Hello, t?t Find My. Thu� tool 8.000d/6h t?i UnlockTool.us";
+$page_keywords = "bypass icloud iphone 5s, m? kh�a icloud iphone 5s, iphone 5s icloud bypass, iphone 5s activation lock, icloud iphone 5s, unlock iphone 5s";
 $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.php";
 ?>
 <!DOCTYPE html>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hướng dẫn kỹ thuật">
+    <meta property="article:section" content="Hu?ng d?n k? thu?t">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="Mở khóa điện thoại">
+    <meta property="article:tag" content="M? kh�a di?n tho?i">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -50,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -60,18 +60,18 @@ $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.
     {"@context":"https://schema.org","@type":"Article","headline":"<?php echo $page_title; ?>","author":{"@type":"Organization","name":"UnlockTool.us"},"datePublished":"2026-01-25","dateModified":"2026-01-25"}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"HowTo","name":"Bypass iCloud iPhone 5S","description":"Các bước bypass iCloud trên iPhone 5S","step":[
-        {"@type":"HowToStep","name":"Jailbreak iPhone 5S","text":"Sử dụng checkm8 exploit để jailbreak"},
-        {"@type":"HowToStep","name":"Mở UnlockTool","text":"Đăng nhập và kết nối iPhone"},
-        {"@type":"HowToStep","name":"Chọn iCloud Bypass","text":"Chọn Remove iCloud trong menu iPhone"},
-        {"@type":"HowToStep","name":"Hoàn tất","text":"Chờ quá trình bypass hoàn tất"}
+    {"@context":"https://schema.org","@type":"HowTo","name":"Bypass iCloud iPhone 5S","description":"C�c bu?c bypass iCloud tr�n iPhone 5S","step":[
+        {"@type":"HowToStep","name":"Jailbreak iPhone 5S","text":"S? d?ng checkm8 exploit d? jailbreak"},
+        {"@type":"HowToStep","name":"M? UnlockTool","text":"�ang nh?p v� k?t n?i iPhone"},
+        {"@type":"HowToStep","name":"Ch?n iCloud Bypass","text":"Ch?n Remove iCloud trong menu iPhone"},
+        {"@type":"HowToStep","name":"Ho�n t?t","text":"Ch? qu� tr�nh bypass ho�n t?t"}
     ]}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"iPhone 5S có thể bypass iCloud không?","acceptedAnswer":{"@type":"Answer","text":"Có, iPhone 5S sử dụng chip A7 hoàn toàn hỗ trợ bypass iCloud qua checkm8 exploit. Đây là phương pháp hardware exploit nên không thể patch bằng update phần mềm."}},
-        {"@type":"Question","name":"Bypass iCloud iPhone 5S mất bao lâu?","acceptedAnswer":{"@type":"Answer","text":"Quá trình bypass iCloud iPhone 5S thường mất 10-20 phút. Bao gồm jailbreak và bypass activation lock."}},
-        {"@type":"Question","name":"Giá bypass iCloud iPhone 5S?","acceptedAnswer":{"@type":"Answer","text":"Thuê tool 8.000đ/6 tiếng tại UnlockTool.us. Dịch vụ làm hộ từ 100.000đ tại Thuetaikhoan.net."}}
+        {"@type":"Question","name":"iPhone 5S c� th? bypass iCloud kh�ng?","acceptedAnswer":{"@type":"Answer","text":"C�, iPhone 5S s? d?ng chip A7 ho�n to�n h? tr? bypass iCloud qua checkm8 exploit. ��y l� phuong ph�p hardware exploit n�n kh�ng th? patch b?ng update ph?n m?m."}},
+        {"@type":"Question","name":"Bypass iCloud iPhone 5S m?t bao l�u?","acceptedAnswer":{"@type":"Answer","text":"Qu� tr�nh bypass iCloud iPhone 5S thu?ng m?t 10-20 ph�t. Bao g?m jailbreak v� bypass activation lock."}},
+        {"@type":"Question","name":"Gi� bypass iCloud iPhone 5S?","acceptedAnswer":{"@type":"Answer","text":"Thu� tool 8.000d/6 ti?ng t?i UnlockTool.us. D?ch v? l�m h? t? 100.000d t?i Thuetaikhoan.net."}}
     ]}
     </script>
     
@@ -126,44 +126,14 @@ $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.
         }
     }
     </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Dịch vụ mở khóa điện thoại",
-        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.8",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "94"
-        }
-    }
-    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -173,10 +143,10 @@ $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.
         <div class="row align-items-center">
             <div class="col-lg-8">
                 <h1><i class="fab fa-apple me-3"></i><?php echo $page_title; ?></h1>
-                <p class="lead mb-4">iPhone 5S - model iPhone đầu tiên với chip 64-bit (A7). Hoàn toàn hỗ trợ bypass iCloud qua checkm8 exploit với UnlockTool!</p>
+                <p class="lead mb-4">iPhone 5S - model iPhone d?u ti�n v?i chip 64-bit (A7). Ho�n to�n h? tr? bypass iCloud qua checkm8 exploit v?i UnlockTool!</p>
                 <div class="d-flex flex-wrap gap-3">
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê Tool 8K/6H</a>
-                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>Dịch Vụ Làm Hộ</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thu� Tool 8K/6H</a>
+                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>D?ch V? L�m H?</a>
                 </div>
             </div>
             <div class="col-lg-4 text-center mt-4 mt-lg-0">
@@ -192,157 +162,157 @@ $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.
         <div class="col-lg-8">
             
             <div class="toc-box">
-                <h4><i class="fas fa-list me-2"></i>Mục Lục Bài Viết</h4>
+                <h4><i class="fas fa-list me-2"></i>M?c L?c B�i Vi?t</h4>
                 <ul class="list-unstyled">
-                    <li><a href="#gioi-thieu">1. Giới thiệu iPhone 5S và iCloud Lock</a></li>
-                    <li><a href="#checkm8">2. Checkm8 Exploit và iPhone 5S</a></li>
-                    <li><a href="#chuan-bi">3. Chuẩn bị trước khi bypass</a></li>
-                    <li><a href="#huong-dan-bypass">4. Hướng dẫn bypass chi tiết</a></li>
-                    <li><a href="#han-che">5. Hạn chế sau bypass</a></li>
-                    <li><a href="#loi-thuong-gap">6. Lỗi thường gặp và cách khắc phục</a></li>
-                    <li><a href="#faq">7. Câu hỏi thường gặp (FAQ)</a></li>
+                    <li><a href="#gioi-thieu">1. Gi?i thi?u iPhone 5S v� iCloud Lock</a></li>
+                    <li><a href="#checkm8">2. Checkm8 Exploit v� iPhone 5S</a></li>
+                    <li><a href="#chuan-bi">3. Chu?n b? tru?c khi bypass</a></li>
+                    <li><a href="#huong-dan-bypass">4. Hu?ng d?n bypass chi ti?t</a></li>
+                    <li><a href="#han-che">5. H?n ch? sau bypass</a></li>
+                    <li><a href="#loi-thuong-gap">6. L?i thu?ng g?p v� c�ch kh?c ph?c</a></li>
+                    <li><a href="#faq">7. C�u h?i thu?ng g?p (FAQ)</a></li>
                 </ul>
             </div>
 
             <section id="gioi-thieu">
-                <h2><i class="fas fa-info-circle me-2"></i>1. Giới Thiệu iPhone 5S và iCloud Lock</h2>
+                <h2><i class="fas fa-info-circle me-2"></i>1. Gi?i Thi?u iPhone 5S v� iCloud Lock</h2>
                 
-                <p><strong>iPhone 5S</strong> ra mắt tháng 9/2013, là model iPhone đầu tiên sử dụng chip 64-bit (Apple A7) và Touch ID (cảm biến vân tay). Dù đã khá cũ, iPhone 5S vẫn được nhiều người sử dụng vì giá rẻ và vẫn đủ mượt cho các tác vụ cơ bản.</p>
+                <p><strong>iPhone 5S</strong> ra m?t th�ng 9/2013, l� model iPhone d?u ti�n s? d?ng chip 64-bit (Apple A7) v� Touch ID (c?m bi?n v�n tay). D� d� kh� cu, iPhone 5S v?n du?c nhi?u ngu?i s? d?ng v� gi� r? v� v?n d? mu?t cho c�c t�c v? co b?n.</p>
 
-                <h3>Thông số kỹ thuật iPhone 5S</h3>
+                <h3>Th�ng s? k? thu?t iPhone 5S</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Thông số</th>
-                            <th>Chi tiết</th>
+                            <th>Th�ng s?</th>
+                            <th>Chi ti?t</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr><td><strong>Chip</strong></td><td>Apple A7 (64-bit)</td></tr>
                         <tr><td><strong>RAM</strong></td><td>1GB DDR3</td></tr>
-                        <tr><td><strong>Bộ nhớ</strong></td><td>16GB / 32GB / 64GB</td></tr>
-                        <tr><td><strong>Màn hình</strong></td><td>4.0" Retina, 1136x640</td></tr>
+                        <tr><td><strong>B? nh?</strong></td><td>16GB / 32GB / 64GB</td></tr>
+                        <tr><td><strong>M�n h�nh</strong></td><td>4.0" Retina, 1136x640</td></tr>
                         <tr><td><strong>Camera</strong></td><td>8MP iSight</td></tr>
-                        <tr><td><strong>Touch ID</strong></td><td>Có (thế hệ đầu)</td></tr>
-                        <tr><td><strong>iOS cao nhất</strong></td><td>iOS 12.5.7</td></tr>
+                        <tr><td><strong>Touch ID</strong></td><td>C� (th? h? d?u)</td></tr>
+                        <tr><td><strong>iOS cao nh?t</strong></td><td>iOS 12.5.7</td></tr>
                         <tr><td><strong>Model</strong></td><td>A1453, A1457, A1518, A1528, A1530, A1533</td></tr>
-                        <tr><td><strong>Bypass iCloud</strong></td><td class="text-success fw-bold">✓ Hỗ trợ đầy đủ (Checkm8)</td></tr>
+                        <tr><td><strong>Bypass iCloud</strong></td><td class="text-success fw-bold">? H? tr? d?y d? (Checkm8)</td></tr>
                     </tbody>
                 </table>
 
-                <h3>iCloud Activation Lock là gì?</h3>
-                <p><strong>iCloud Activation Lock</strong> (khóa kích hoạt iCloud) là tính năng bảo mật của Apple, được giới thiệu từ iOS 7. Khi bật Find My iPhone, máy sẽ liên kết với tài khoản Apple ID. Nếu máy bị reset hoặc restore, phải đăng nhập đúng Apple ID để kích hoạt.</p>
+                <h3>iCloud Activation Lock l� g�?</h3>
+                <p><strong>iCloud Activation Lock</strong> (kh�a k�ch ho?t iCloud) l� t�nh nang b?o m?t c?a Apple, du?c gi?i thi?u t? iOS 7. Khi b?t Find My iPhone, m�y s? li�n k?t v?i t�i kho?n Apple ID. N?u m�y b? reset ho?c restore, ph?i dang nh?p d�ng Apple ID d? k�ch ho?t.</p>
 
-                <p>Các dấu hiệu máy bị khóa iCloud:</p>
+                <p>C�c d?u hi?u m�y b? kh�a iCloud:</p>
                 <ul>
-                    <li>Màn hình "Hello" hoặc "Xin chào" với biểu tượng khóa</li>
-                    <li>Yêu cầu nhập Apple ID và mật khẩu để tiếp tục</li>
-                    <li>Thông báo "This iPhone is linked to an Apple ID"</li>
-                    <li>Không thể bỏ qua bằng cách thông thường</li>
+                    <li>M�n h�nh "Hello" ho?c "Xin ch�o" v?i bi?u tu?ng kh�a</li>
+                    <li>Y�u c?u nh?p Apple ID v� m?t kh?u d? ti?p t?c</li>
+                    <li>Th�ng b�o "This iPhone is linked to an Apple ID"</li>
+                    <li>Kh�ng th? b? qua b?ng c�ch th�ng thu?ng</li>
                 </ul>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-check-circle me-2"></i>Tin tuyệt vời cho iPhone 5S!</h5>
-                    <p class="mb-0">iPhone 5S dùng chip A7, nằm trong danh sách thiết bị hỗ trợ đầy đủ bởi checkm8 exploit. Đây là lỗ hổng hardware, Apple KHÔNG THỂ patch bằng cập nhật phần mềm. Bypass iCloud iPhone 5S với UnlockTool chỉ <strong>8.000đ/6 tiếng</strong>!</p>
+                    <h5><i class="fas fa-check-circle me-2"></i>Tin tuy?t v?i cho iPhone 5S!</h5>
+                    <p class="mb-0">iPhone 5S d�ng chip A7, n?m trong danh s�ch thi?t b? h? tr? d?y d? b?i checkm8 exploit. ��y l� l? h?ng hardware, Apple KH�NG TH? patch b?ng c?p nh?t ph?n m?m. Bypass iCloud iPhone 5S v?i UnlockTool ch? <strong>8.000d/6 ti?ng</strong>!</p>
                 </div>
             </section>
 
             <section id="checkm8">
-                <h2><i class="fas fa-microchip me-2"></i>2. Checkm8 Exploit và iPhone 5S</h2>
+                <h2><i class="fas fa-microchip me-2"></i>2. Checkm8 Exploit v� iPhone 5S</h2>
                 
-                <p><strong>Checkm8</strong> là một bootrom exploit được phát hiện bởi axi0mX vào tháng 9/2019. Đây là lỗ hổng trong SecureROM (bootrom) của các chip Apple từ A5 đến A11, bao gồm cả chip A7 trên iPhone 5S.</p>
+                <p><strong>Checkm8</strong> l� m?t bootrom exploit du?c ph�t hi?n b?i axi0mX v�o th�ng 9/2019. ��y l� l? h?ng trong SecureROM (bootrom) c?a c�c chip Apple t? A5 d?n A11, bao g?m c? chip A7 tr�n iPhone 5S.</p>
 
-                <h3>Tại sao checkm8 quan trọng?</h3>
+                <h3>T?i sao checkm8 quan tr?ng?</h3>
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-shield-alt text-primary me-2"></i>Không thể patch</h5>
-                            <p class="small mb-0">Checkm8 là lỗ hổng trong phần cứng (bootrom). Apple không thể fix bằng cập nhật iOS hay firmware. Chỉ có cách thay chip mới.</p>
+                            <h5><i class="fas fa-shield-alt text-primary me-2"></i>Kh�ng th? patch</h5>
+                            <p class="small mb-0">Checkm8 l� l? h?ng trong ph?n c?ng (bootrom). Apple kh�ng th? fix b?ng c?p nh?t iOS hay firmware. Ch? c� c�ch thay chip m?i.</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-infinity text-success me-2"></i>Hoạt động vĩnh viễn</h5>
-                            <p class="small mb-0">Dù Apple cập nhật iOS bao nhiêu lần, checkm8 vẫn hoạt động trên các thiết bị dính lỗ hổng này.</p>
+                            <h5><i class="fas fa-infinity text-success me-2"></i>Ho?t d?ng vinh vi?n</h5>
+                            <p class="small mb-0">D� Apple c?p nh?t iOS bao nhi�u l?n, checkm8 v?n ho?t d?ng tr�n c�c thi?t b? d�nh l? h?ng n�y.</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-unlock text-warning me-2"></i>Bypass activation</h5>
-                            <p class="small mb-0">Cho phép bypass iCloud activation lock, xóa Find My iPhone, và vào được iOS.</p>
+                            <p class="small mb-0">Cho ph�p bypass iCloud activation lock, x�a Find My iPhone, v� v�o du?c iOS.</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-mobile-alt text-danger me-2"></i>Thiết bị hỗ trợ</h5>
-                            <p class="small mb-0">iPhone 4S đến iPhone X, iPad 2 đến iPad 7, tất cả iPad Mini, iPad Air 1-2, iPad Pro 12.9" (1st, 2nd), iPad Pro 10.5".</p>
+                            <h5><i class="fas fa-mobile-alt text-danger me-2"></i>Thi?t b? h? tr?</h5>
+                            <p class="small mb-0">iPhone 4S d?n iPhone X, iPad 2 d?n iPad 7, t?t c? iPad Mini, iPad Air 1-2, iPad Pro 12.9" (1st, 2nd), iPad Pro 10.5".</p>
                         </div>
                     </div>
                 </div>
 
-                <h3>iPhone 5S và checkm8</h3>
+                <h3>iPhone 5S v� checkm8</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Tính năng</th>
-                            <th>Trạng thái</th>
+                            <th>T�nh nang</th>
+                            <th>Tr?ng th�i</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td>Checkm8 exploit</td>
-                            <td class="text-success"><i class="fas fa-check me-1"></i>Hỗ trợ (Chip A7)</td>
+                            <td class="text-success"><i class="fas fa-check me-1"></i>H? tr? (Chip A7)</td>
                         </tr>
                         <tr>
                             <td>Bypass Hello Screen</td>
-                            <td class="text-success"><i class="fas fa-check me-1"></i>Hỗ trợ</td>
+                            <td class="text-success"><i class="fas fa-check me-1"></i>H? tr?</td>
                         </tr>
                         <tr>
-                            <td>Tắt Find My iPhone</td>
-                            <td class="text-success"><i class="fas fa-check me-1"></i>Hỗ trợ</td>
+                            <td>T?t Find My iPhone</td>
+                            <td class="text-success"><i class="fas fa-check me-1"></i>H? tr?</td>
                         </tr>
                         <tr>
-                            <td>Vào được iOS</td>
-                            <td class="text-success"><i class="fas fa-check me-1"></i>Hỗ trợ</td>
+                            <td>V�o du?c iOS</td>
+                            <td class="text-success"><i class="fas fa-check me-1"></i>H? tr?</td>
                         </tr>
                         <tr>
-                            <td>Gọi điện/SMS</td>
-                            <td class="text-warning"><i class="fas fa-exclamation-triangle me-1"></i>Tùy phương pháp</td>
+                            <td>G?i di?n/SMS</td>
+                            <td class="text-warning"><i class="fas fa-exclamation-triangle me-1"></i>T�y phuong ph�p</td>
                         </tr>
                         <tr>
-                            <td>Thông báo đẩy</td>
-                            <td class="text-warning"><i class="fas fa-exclamation-triangle me-1"></i>Tùy phương pháp</td>
+                            <td>Th�ng b�o d?y</td>
+                            <td class="text-warning"><i class="fas fa-exclamation-triangle me-1"></i>T�y phuong ph�p</td>
                         </tr>
                         <tr>
-                            <td>Apple ID mới</td>
-                            <td class="text-warning"><i class="fas fa-exclamation-triangle me-1"></i>Có hạn chế</td>
+                            <td>Apple ID m?i</td>
+                            <td class="text-warning"><i class="fas fa-exclamation-triangle me-1"></i>C� h?n ch?</td>
                         </tr>
                     </tbody>
                 </table>
             </section>
 
             <section id="chuan-bi">
-                <h2><i class="fas fa-clipboard-check me-2"></i>3. Chuẩn Bị Trước Khi Bypass</h2>
+                <h2><i class="fas fa-clipboard-check me-2"></i>3. Chu?n B? Tru?c Khi Bypass</h2>
                 
-                <h3>3.1. Yêu cầu phần cứng</h3>
+                <h3>3.1. Y�u c?u ph?n c?ng</h3>
                 <ul>
-                    <li><strong>Máy tính:</strong> Windows 10/11 hoặc macOS</li>
-                    <li><strong>Cáp Lightning:</strong> Cáp chính hãng Apple hoặc cáp MFi chất lượng cao</li>
-                    <li><strong>iPhone 5S:</strong> Pin còn ít nhất 50%, màn hình không bị hỏng nặng</li>
-                    <li><strong>Kết nối internet:</strong> Ổn định cho máy tính</li>
+                    <li><strong>M�y t�nh:</strong> Windows 10/11 ho?c macOS</li>
+                    <li><strong>C�p Lightning:</strong> C�p ch�nh h�ng Apple ho?c c�p MFi ch?t lu?ng cao</li>
+                    <li><strong>iPhone 5S:</strong> Pin c�n �t nh?t 50%, m�n h�nh kh�ng b? h?ng n?ng</li>
+                    <li><strong>K?t n?i internet:</strong> ?n d?nh cho m�y t�nh</li>
                 </ul>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Quan trọng về cáp USB</h5>
-                    <p class="mb-0">Cáp USB kém chất lượng là nguyên nhân chính gây lỗi khi bypass iCloud. Sử dụng cáp chính hãng Apple hoặc cáp có chứng nhận MFi để đảm bảo quá trình bypass ổn định.</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Quan tr?ng v? c�p USB</h5>
+                    <p class="mb-0">C�p USB k�m ch?t lu?ng l� nguy�n nh�n ch�nh g�y l?i khi bypass iCloud. S? d?ng c�p ch�nh h�ng Apple ho?c c�p c� ch?ng nh?n MFi d? d?m b?o qu� tr�nh bypass ?n d?nh.</p>
                 </div>
 
-                <h3>3.2. Phần mềm cần cài đặt</h3>
+                <h3>3.2. Ph?n m?m c?n c�i d?t</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Phần mềm</th>
-                            <th>Mô tả</th>
+                            <th>Ph?n m?m</th>
+                            <th>M� t?</th>
                             <th>Link</th>
                         </tr>
                     </thead>
@@ -350,77 +320,77 @@ $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.
                         <tr>
                             <td><strong>iTunes</strong></td>
                             <td>Apple USB driver (Windows)</td>
-                            <td><a href="https://apple.com/itunes" target="_blank">Tải iTunes</a></td>
+                            <td><a href="https://apple.com/itunes" target="_blank">T?i iTunes</a></td>
                         </tr>
                         <tr>
                             <td><strong>UnlockTool</strong></td>
-                            <td>Phần mềm bypass iCloud</td>
-                            <td><a href="https://file.unlocktool.net/page/index.php" target="_blank">Tải UnlockTool</a></td>
+                            <td>Ph?n m?m bypass iCloud</td>
+                            <td><a href="https://file.unlocktool.net/page/index.php" target="_blank">T?i UnlockTool</a></td>
                         </tr>
                         <tr>
                             <td><strong>WinRA1N</strong></td>
                             <td>Tool jailbreak checkm8</td>
-                            <td><a href="https://file.unlocktool.net/page/tool---android---pc/tool-winra1n21-jailbreak-iphone---ipad" target="_blank">Tải WinRA1N</a></td>
+                            <td><a href="https://file.unlocktool.net/page/tool---android---pc/tool-winra1n21-jailbreak-iphone---ipad" target="_blank">T?i WinRA1N</a></td>
                         </tr>
                         <tr>
                             <td><strong>Ramdisk iPhone</strong></td>
-                            <td>File ramdisk để bypass</td>
-                            <td><a href="https://file.unlocktool.net/page/all-ramdisk---iphone" target="_blank">Tải Ramdisk</a></td>
+                            <td>File ramdisk d? bypass</td>
+                            <td><a href="https://file.unlocktool.net/page/all-ramdisk---iphone" target="_blank">T?i Ramdisk</a></td>
                         </tr>
                         <tr>
                             <td><strong>Diag iPhone</strong></td>
-                            <td>File diag để đọc thông tin</td>
-                            <td><a href="https://file.unlocktool.net/page/diag---iphone" target="_blank">Tải Diag</a></td>
+                            <td>File diag d? d?c th�ng tin</td>
+                            <td><a href="https://file.unlocktool.net/page/diag---iphone" target="_blank">T?i Diag</a></td>
                         </tr>
                     </tbody>
                 </table>
 
-                <h3>3.3. Thuê tài khoản UnlockTool</h3>
+                <h3>3.3. Thu� t�i kho?n UnlockTool</h3>
                 <div class="price-highlight">
-                    <h4><i class="fas fa-tag me-2"></i>Thuê Tool Bypass iCloud</h4>
-                    <p class="price">8.000đ</p>
-                    <p class="h4">/ 6 tiếng</p>
-                    <p class="mt-3">Hệ thống tự động 24/7 - Nhận ngay sau thanh toán</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-shopping-cart me-2"></i>Thuê Ngay - UnlockTool.us</a>
+                    <h4><i class="fas fa-tag me-2"></i>Thu� Tool Bypass iCloud</h4>
+                    <p class="price">8.000d</p>
+                    <p class="h4">/ 6 ti?ng</p>
+                    <p class="mt-3">H? th?ng t? d?ng 24/7 - Nh?n ngay sau thanh to�n</p>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-shopping-cart me-2"></i>Thu� Ngay - UnlockTool.us</a>
                 </div>
             </section>
 
             <section id="huong-dan-bypass">
-                <h2><i class="fas fa-unlock me-2"></i>4. Hướng Dẫn Bypass Chi Tiết</h2>
+                <h2><i class="fas fa-unlock me-2"></i>4. Hu?ng D?n Bypass Chi Ti?t</h2>
                 
-                <p>Có hai phương pháp chính để bypass iCloud iPhone 5S với UnlockTool:</p>
+                <p>C� hai phuong ph�p ch�nh d? bypass iCloud iPhone 5S v?i UnlockTool:</p>
 
-                <h3>Phương pháp 1: Bypass Untethered (Khuyến nghị)</h3>
-                <p>Phương pháp này cho phép máy hoạt động bình thường sau khi khởi động lại, không cần jailbreak lại.</p>
+                <h3>Phuong ph�p 1: Bypass Untethered (Khuy?n ngh?)</h3>
+                <p>Phuong ph�p n�y cho ph�p m�y ho?t d?ng b�nh thu?ng sau khi kh?i d?ng l?i, kh�ng c?n jailbreak l?i.</p>
 
                 <div class="step-card">
                     <div class="step-number">1</div>
-                    <h4>Vào DFU Mode</h4>
-                    <p>DFU (Device Firmware Update) Mode là chế độ đặc biệt cho phép flash firmware và jailbreak.</p>
+                    <h4>V�o DFU Mode</h4>
+                    <p>DFU (Device Firmware Update) Mode l� ch? d? d?c bi?t cho ph�p flash firmware v� jailbreak.</p>
                     <ol>
-                        <li>Kết nối iPhone 5S với máy tính qua cáp Lightning</li>
-                        <li>Mở iTunes (nếu có popup, bỏ qua)</li>
-                        <li><strong>Cách vào DFU iPhone 5S:</strong></li>
-                        <li>Giữ đồng thời <strong>Home + Power</strong> trong 8 giây</li>
-                        <li>Thả nút Power, tiếp tục giữ Home thêm 5-10 giây</li>
-                        <li>Màn hình hoàn toàn đen (không có logo Apple) = DFU Mode</li>
-                        <li>iTunes/Finder báo "iPhone in recovery mode"</li>
+                        <li>K?t n?i iPhone 5S v?i m�y t�nh qua c�p Lightning</li>
+                        <li>M? iTunes (n?u c� popup, b? qua)</li>
+                        <li><strong>C�ch v�o DFU iPhone 5S:</strong></li>
+                        <li>Gi? d?ng th?i <strong>Home + Power</strong> trong 8 gi�y</li>
+                        <li>Th? n�t Power, ti?p t?c gi? Home th�m 5-10 gi�y</li>
+                        <li>M�n h�nh ho�n to�n den (kh�ng c� logo Apple) = DFU Mode</li>
+                        <li>iTunes/Finder b�o "iPhone in recovery mode"</li>
                     </ol>
                     <div class="info-box">
-                        <p class="mb-0"><strong>Mẹo:</strong> Nếu thấy logo Apple hoặc iTunes, bạn đã vào Recovery Mode (không phải DFU). Thử lại từ đầu.</p>
+                        <p class="mb-0"><strong>M?o:</strong> N?u th?y logo Apple ho?c iTunes, b?n d� v�o Recovery Mode (kh�ng ph?i DFU). Th? l?i t? d?u.</p>
                     </div>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">2</div>
-                    <h4>Jailbreak với checkm8</h4>
+                    <h4>Jailbreak v?i checkm8</h4>
                     <ol>
-                        <li>Mở UnlockTool và đăng nhập tài khoản</li>
-                        <li>Chuyển sang tab <strong>iPhone</strong> hoặc <strong>iCloud</strong></li>
-                        <li>Chọn <strong>Jailbreak</strong> hoặc <strong>Checkm8</strong></li>
-                        <li>Nhấn <strong>Start</strong></li>
-                        <li>Tool sẽ tự động jailbreak iPhone 5S</li>
-                        <li>Quá trình mất khoảng 2-5 phút</li>
+                        <li>M? UnlockTool v� dang nh?p t�i kho?n</li>
+                        <li>Chuy?n sang tab <strong>iPhone</strong> ho?c <strong>iCloud</strong></li>
+                        <li>Ch?n <strong>Jailbreak</strong> ho?c <strong>Checkm8</strong></li>
+                        <li>Nh?n <strong>Start</strong></li>
+                        <li>Tool s? t? d?ng jailbreak iPhone 5S</li>
+                        <li>Qu� tr�nh m?t kho?ng 2-5 ph�t</li>
                     </ol>
                 </div>
 
@@ -428,105 +398,105 @@ $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.
                     <div class="step-number">3</div>
                     <h4>Bypass iCloud</h4>
                     <ol>
-                        <li>Sau khi jailbreak thành công, máy vào chế độ Ramdisk</li>
-                        <li>Trong UnlockTool, chọn <strong>Bypass iCloud</strong> hoặc <strong>Remove Activation</strong></li>
-                        <li>Chọn phương pháp <strong>Untethered</strong></li>
-                        <li>Nhấn <strong>Start</strong></li>
-                        <li>Chờ quá trình bypass hoàn tất (5-10 phút)</li>
-                        <li>Máy sẽ tự khởi động lại vào màn hình chào mừng</li>
+                        <li>Sau khi jailbreak th�nh c�ng, m�y v�o ch? d? Ramdisk</li>
+                        <li>Trong UnlockTool, ch?n <strong>Bypass iCloud</strong> ho?c <strong>Remove Activation</strong></li>
+                        <li>Ch?n phuong ph�p <strong>Untethered</strong></li>
+                        <li>Nh?n <strong>Start</strong></li>
+                        <li>Ch? qu� tr�nh bypass ho�n t?t (5-10 ph�t)</li>
+                        <li>M�y s? t? kh?i d?ng l?i v�o m�n h�nh ch�o m?ng</li>
                     </ol>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">4</div>
-                    <h4>Thiết lập máy</h4>
+                    <h4>Thi?t l?p m�y</h4>
                     <ol>
-                        <li>Sau khi bypass, màn hình Hello không còn yêu cầu Apple ID cũ</li>
-                        <li>Chọn ngôn ngữ và quốc gia</li>
-                        <li>Kết nối WiFi</li>
-                        <li>Bỏ qua Touch ID (hoặc thiết lập sau)</li>
-                        <li>Tạo passcode nếu muốn</li>
-                        <li>Đăng nhập Apple ID MỚI của bạn (hoặc bỏ qua)</li>
-                        <li>Vào được iOS - Hoàn tất!</li>
+                        <li>Sau khi bypass, m�n h�nh Hello kh�ng c�n y�u c?u Apple ID cu</li>
+                        <li>Ch?n ng�n ng? v� qu?c gia</li>
+                        <li>K?t n?i WiFi</li>
+                        <li>B? qua Touch ID (ho?c thi?t l?p sau)</li>
+                        <li>T?o passcode n?u mu?n</li>
+                        <li>�ang nh?p Apple ID M?I c?a b?n (ho?c b? qua)</li>
+                        <li>V�o du?c iOS - Ho�n t?t!</li>
                     </ol>
                 </div>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-check-circle me-2"></i>Bypass Untethered thành công!</h5>
-                    <p class="mb-0">Với phương pháp Untethered, iPhone 5S có thể khởi động lại bình thường mà không cần bypass lại. Đây là phương pháp tốt nhất cho iPhone 5S.</p>
+                    <h5><i class="fas fa-check-circle me-2"></i>Bypass Untethered th�nh c�ng!</h5>
+                    <p class="mb-0">V?i phuong ph�p Untethered, iPhone 5S c� th? kh?i d?ng l?i b�nh thu?ng m� kh�ng c?n bypass l?i. ��y l� phuong ph�p t?t nh?t cho iPhone 5S.</p>
                 </div>
 
-                <h3>Phương pháp 2: Bypass Tethered (Dự phòng)</h3>
-                <p>Nếu phương pháp Untethered không hoạt động, có thể thử Tethered:</p>
+                <h3>Phuong ph�p 2: Bypass Tethered (D? ph�ng)</h3>
+                <p>N?u phuong ph�p Untethered kh�ng ho?t d?ng, c� th? th? Tethered:</p>
                 <ul>
-                    <li>Bypass thành công nhưng mỗi lần khởi động lại cần kết nối máy tính để boot</li>
-                    <li>Không phù hợp cho sử dụng hàng ngày</li>
-                    <li>Thường dùng để kiểm tra hoặc cho máy trưng bày</li>
+                    <li>Bypass th�nh c�ng nhung m?i l?n kh?i d?ng l?i c?n k?t n?i m�y t�nh d? boot</li>
+                    <li>Kh�ng ph� h?p cho s? d?ng h�ng ng�y</li>
+                    <li>Thu?ng d�ng d? ki?m tra ho?c cho m�y trung b�y</li>
                 </ul>
             </section>
 
             <section id="han-che">
-                <h2><i class="fas fa-exclamation-circle me-2"></i>5. Hạn Chế Sau Bypass</h2>
+                <h2><i class="fas fa-exclamation-circle me-2"></i>5. H?n Ch? Sau Bypass</h2>
                 
-                <p>Sau khi bypass iCloud iPhone 5S, có một số hạn chế bạn cần biết:</p>
+                <p>Sau khi bypass iCloud iPhone 5S, c� m?t s? h?n ch? b?n c?n bi?t:</p>
 
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100 border-success">
-                            <h5 class="text-success"><i class="fas fa-check me-2"></i>Được</h5>
+                            <h5 class="text-success"><i class="fas fa-check me-2"></i>�u?c</h5>
                             <ul class="small mb-0">
-                                <li>Sử dụng WiFi</li>
-                                <li>Cài đặt app qua App Store (với Apple ID mới)</li>
-                                <li>Chụp ảnh, quay video</li>
-                                <li>Nghe nhạc, xem video</li>
-                                <li>Duyệt web</li>
-                                <li>Sử dụng Bluetooth</li>
-                                <li>Khởi động lại (untethered)</li>
+                                <li>S? d?ng WiFi</li>
+                                <li>C�i d?t app qua App Store (v?i Apple ID m?i)</li>
+                                <li>Ch?p ?nh, quay video</li>
+                                <li>Nghe nh?c, xem video</li>
+                                <li>Duy?t web</li>
+                                <li>S? d?ng Bluetooth</li>
+                                <li>Kh?i d?ng l?i (untethered)</li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100 border-warning">
-                            <h5 class="text-warning"><i class="fas fa-exclamation-triangle me-2"></i>Hạn chế</h5>
+                            <h5 class="text-warning"><i class="fas fa-exclamation-triangle me-2"></i>H?n ch?</h5>
                             <ul class="small mb-0">
-                                <li>Gọi điện/SMS có thể không hoạt động (tùy model/carrier)</li>
-                                <li>Thông báo đẩy có thể bị ảnh hưởng</li>
-                                <li>iMessage/FaceTime có thể không hoạt động</li>
-                                <li>Không nên cập nhật iOS</li>
-                                <li>Reset máy sẽ cần bypass lại</li>
+                                <li>G?i di?n/SMS c� th? kh�ng ho?t d?ng (t�y model/carrier)</li>
+                                <li>Th�ng b�o d?y c� th? b? ?nh hu?ng</li>
+                                <li>iMessage/FaceTime c� th? kh�ng ho?t d?ng</li>
+                                <li>Kh�ng n�n c?p nh?t iOS</li>
+                                <li>Reset m�y s? c?n bypass l?i</li>
                             </ul>
                         </div>
                     </div>
                 </div>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-info-circle me-2"></i>Mẹo sử dụng sau bypass</h5>
+                    <h5><i class="fas fa-info-circle me-2"></i>M?o s? d?ng sau bypass</h5>
                     <ul class="mb-0">
-                        <li>Tắt tự động cập nhật iOS: Settings > General > Software Update > Automatic Updates > OFF</li>
-                        <li>Sử dụng WiFi thay vì SIM nếu gọi điện/SMS không hoạt động</li>
-                        <li>Dùng các app gọi điện qua internet như Zalo, Viber, WhatsApp</li>
+                        <li>T?t t? d?ng c?p nh?t iOS: Settings > General > Software Update > Automatic Updates > OFF</li>
+                        <li>S? d?ng WiFi thay v� SIM n?u g?i di?n/SMS kh�ng ho?t d?ng</li>
+                        <li>D�ng c�c app g?i di?n qua internet nhu Zalo, Viber, WhatsApp</li>
                     </ul>
                 </div>
             </section>
 
             <section id="loi-thuong-gap">
-                <h2><i class="fas fa-bug me-2"></i>6. Lỗi Thường Gặp và Cách Khắc Phục</h2>
+                <h2><i class="fas fa-bug me-2"></i>6. L?i Thu?ng G?p v� C�ch Kh?c Ph?c</h2>
                 
                 <div class="accordion" id="errorAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#err1">
-                                <i class="fas fa-times-circle text-danger me-2"></i>Không vào được DFU Mode
+                                <i class="fas fa-times-circle text-danger me-2"></i>Kh�ng v�o du?c DFU Mode
                             </button>
                         </h2>
                         <div id="err1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
-                                <p><strong>Nguyên nhân:</strong> Giữ nút không đúng thời gian, nút Home hoặc Power bị hỏng.</p>
-                                <p><strong>Cách khắc phục:</strong></p>
+                                <p><strong>Nguy�n nh�n:</strong> Gi? n�t kh�ng d�ng th?i gian, n�t Home ho?c Power b? h?ng.</p>
+                                <p><strong>C�ch kh?c ph?c:</strong></p>
                                 <ul>
-                                    <li>Đếm chính xác 8 giây cho bước đầu, 5-10 giây cho bước sau</li>
-                                    <li>Nếu nút Home hỏng, sử dụng DFU box hoặc chức năng DFU tự động trong UnlockTool</li>
-                                    <li>Thử cáp USB khác</li>
+                                    <li>�?m ch�nh x�c 8 gi�y cho bu?c d?u, 5-10 gi�y cho bu?c sau</li>
+                                    <li>N?u n�t Home h?ng, s? d?ng DFU box ho?c ch?c nang DFU t? d?ng trong UnlockTool</li>
+                                    <li>Th? c�p USB kh�c</li>
                                 </ul>
                             </div>
                         </div>
@@ -534,18 +504,18 @@ $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err2">
-                                <i class="fas fa-times-circle text-danger me-2"></i>Jailbreak thất bại
+                                <i class="fas fa-times-circle text-danger me-2"></i>Jailbreak th?t b?i
                             </button>
                         </h2>
                         <div id="err2" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>Nguyên nhân:</strong> Cáp USB kém, driver chưa cài, antivirus chặn.</p>
-                                <p><strong>Cách khắc phục:</strong></p>
+                                <p><strong>Nguy�n nh�n:</strong> C�p USB k�m, driver chua c�i, antivirus ch?n.</p>
+                                <p><strong>C�ch kh?c ph?c:</strong></p>
                                 <ul>
-                                    <li>Sử dụng cáp chính hãng Apple</li>
-                                    <li>Cài iTunes để có driver Apple USB</li>
-                                    <li>Tắt Windows Defender và antivirus khác</li>
-                                    <li>Thử cổng USB 2.0 thay vì USB 3.0</li>
+                                    <li>S? d?ng c�p ch�nh h�ng Apple</li>
+                                    <li>C�i iTunes d? c� driver Apple USB</li>
+                                    <li>T?t Windows Defender v� antivirus kh�c</li>
+                                    <li>Th? c?ng USB 2.0 thay v� USB 3.0</li>
                                 </ul>
                             </div>
                         </div>
@@ -553,17 +523,17 @@ $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err3">
-                                <i class="fas fa-times-circle text-danger me-2"></i>Bypass xong vẫn yêu cầu Apple ID
+                                <i class="fas fa-times-circle text-danger me-2"></i>Bypass xong v?n y�u c?u Apple ID
                             </button>
                         </h2>
                         <div id="err3" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>Nguyên nhân:</strong> Bypass chưa hoàn tất hoặc máy bị MDM lock.</p>
-                                <p><strong>Cách khắc phục:</strong></p>
+                                <p><strong>Nguy�n nh�n:</strong> Bypass chua ho�n t?t ho?c m�y b? MDM lock.</p>
+                                <p><strong>C�ch kh?c ph?c:</strong></p>
                                 <ul>
-                                    <li>Thử bypass lại với phương pháp khác</li>
-                                    <li>Kiểm tra máy có MDM profile không (Settings > General > Device Management)</li>
-                                    <li>Nếu có MDM, cần bypass MDM riêng</li>
+                                    <li>Th? bypass l?i v?i phuong ph�p kh�c</li>
+                                    <li>Ki?m tra m�y c� MDM profile kh�ng (Settings > General > Device Management)</li>
+                                    <li>N?u c� MDM, c?n bypass MDM ri�ng</li>
                                 </ul>
                             </div>
                         </div>
@@ -571,16 +541,16 @@ $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err4">
-                                <i class="fas fa-times-circle text-danger me-2"></i>Máy khởi động lại bị stuck
+                                <i class="fas fa-times-circle text-danger me-2"></i>M�y kh?i d?ng l?i b? stuck
                             </button>
                         </h2>
                         <div id="err4" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>Nguyên nhân:</strong> Bypass tethered hoặc file hệ thống bị lỗi.</p>
-                                <p><strong>Cách khắc phục:</strong></p>
+                                <p><strong>Nguy�n nh�n:</strong> Bypass tethered ho?c file h? th?ng b? l?i.</p>
+                                <p><strong>C�ch kh?c ph?c:</strong></p>
                                 <ul>
-                                    <li>Nếu bypass tethered, kết nối máy tính và boot qua tool</li>
-                                    <li>Restore iPhone và bypass lại từ đầu</li>
+                                    <li>N?u bypass tethered, k?t n?i m�y t�nh v� boot qua tool</li>
+                                    <li>Restore iPhone v� bypass l?i t? d?u</li>
                                 </ul>
                             </div>
                         </div>
@@ -589,83 +559,83 @@ $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.
             </section>
 
             <section id="faq">
-                <h2><i class="fas fa-question-circle me-2"></i>7. Câu Hỏi Thường Gặp (FAQ)</h2>
+                <h2><i class="fas fa-question-circle me-2"></i>7. C�u H?i Thu?ng G?p (FAQ)</h2>
                 
                 <div class="accordion" id="faqAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
-                                Bypass iCloud iPhone 5S mất bao lâu?
+                                Bypass iCloud iPhone 5S m?t bao l�u?
                             </button>
                         </h2>
                         <div id="faq1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
-                                Tổng thời gian bypass iCloud iPhone 5S khoảng <strong>15-30 phút</strong>, bao gồm: vào DFU (~2 phút), jailbreak (~5 phút), bypass (~10 phút), thiết lập (~5 phút).
+                                T?ng th?i gian bypass iCloud iPhone 5S kho?ng <strong>15-30 ph�t</strong>, bao g?m: v�o DFU (~2 ph�t), jailbreak (~5 ph�t), bypass (~10 ph�t), thi?t l?p (~5 ph�t).
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
-                                Giá bypass iCloud iPhone 5S bao nhiêu?
+                                Gi� bypass iCloud iPhone 5S bao nhi�u?
                             </button>
                         </h2>
                         <div id="faq2" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <strong>Tự làm:</strong> Thuê tool 8.000đ/6 tiếng tại <a href="https://www.unlocktool.us/">UnlockTool.us</a><br>
-                                <strong>Dịch vụ làm hộ:</strong> Từ 100.000đ tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>
+                                <strong>T? l�m:</strong> Thu� tool 8.000d/6 ti?ng t?i <a href="https://www.unlocktool.us/">UnlockTool.us</a><br>
+                                <strong>D?ch v? l�m h?:</strong> T? 100.000d t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3">
-                                Bypass iCloud có vĩnh viễn không?
+                                Bypass iCloud c� vinh vi?n kh�ng?
                             </button>
                         </h2>
                         <div id="faq3" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <strong>Có</strong>, bypass bằng checkm8 là vĩnh viễn trên thiết bị đó. Tuy nhiên, nếu bạn restore/reset máy, sẽ cần bypass lại. Nhưng vì checkm8 luôn hoạt động, bạn có thể bypass lại bất cứ lúc nào.
+                                <strong>C�</strong>, bypass b?ng checkm8 l� vinh vi?n tr�n thi?t b? d�. Tuy nhi�n, n?u b?n restore/reset m�y, s? c?n bypass l?i. Nhung v� checkm8 lu�n ho?t d?ng, b?n c� th? bypass l?i b?t c? l�c n�o.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4">
-                                iPhone 5S còn đáng dùng năm 2026 không?
+                                iPhone 5S c�n d�ng d�ng nam 2026 kh�ng?
                             </button>
                         </h2>
                         <div id="faq4" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                iPhone 5S vẫn đủ dùng cho các tác vụ cơ bản như gọi điện, nhắn tin, lướt web, mạng xã hội. Tuy nhiên, các app mới có thể không hỗ trợ iOS 12. Phù hợp làm máy phụ, máy cho người lớn tuổi, hoặc máy test.
+                                iPhone 5S v?n d? d�ng cho c�c t�c v? co b?n nhu g?i di?n, nh?n tin, lu?t web, m?ng x� h?i. Tuy nhi�n, c�c app m?i c� th? kh�ng h? tr? iOS 12. Ph� h?p l�m m�y ph?, m�y cho ngu?i l?n tu?i, ho?c m�y test.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq5">
-                                Không tự bypass được thì sao?
+                                Kh�ng t? bypass du?c th� sao?
                             </button>
                         </h2>
                         <div id="faq5" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                Nếu không tự bypass được, hãy sử dụng dịch vụ kỹ thuật viên tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>. Thợ sẽ hỗ trợ từ xa qua TeamViewer. Giá từ 100.000đ, cam kết thành công hoặc hoàn tiền!
+                                N?u kh�ng t? bypass du?c, h�y s? d?ng d?ch v? k? thu?t vi�n t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>. Th? s? h? tr? t? xa qua TeamViewer. Gi� t? 100.000d, cam k?t th�nh c�ng ho?c ho�n ti?n!
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <!-- CTA cuối bài -->
+            <!-- CTA cu?i b�i -->
             <section class="mt-5">
                 <div class="price-highlight">
                     <h3><i class="fab fa-apple me-2"></i>Bypass iCloud iPhone 5S Ngay!</h3>
-                    <p>Chip A7 - Hỗ trợ đầy đủ Checkm8 exploit</p>
-                    <p class="price">8.000đ</p>
-                    <p class="h4">/ 6 tiếng</p>
+                    <p>Chip A7 - H? tr? d?y d? Checkm8 exploit</p>
+                    <p class="price">8.000d</p>
+                    <p class="h4">/ 6 ti?ng</p>
                     <div class="d-flex justify-content-center flex-wrap gap-3 mt-4">
-                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê Tool - UnlockTool.us</a>
-                        <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-download me-2"></i>Tải UnlockTool</a>
+                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thu� Tool - UnlockTool.us</a>
+                        <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-download me-2"></i>T?i UnlockTool</a>
                     </div>
                 </div>
             </section>
@@ -677,9 +647,9 @@ $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.
             <div class="sticky-top" style="top:20px">
                 <div class="price-highlight mb-4">
                     <h5><i class="fab fa-apple me-2"></i>Bypass iPhone 5S</h5>
-                    <p class="price" style="font-size:2.5rem">8.000đ</p>
-                    <p>/ 6 tiếng</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thuê Tool Ngay</a>
+                    <p class="price" style="font-size:2.5rem">8.000d</p>
+                    <p>/ 6 ti?ng</p>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thu� Tool Ngay</a>
                 </div>
 
                 <div class="card mb-4">
@@ -688,17 +658,17 @@ $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.
                     </div>
                     <div class="card-body">
                         <ul class="list-unstyled mb-0">
-                            <li>✓ Chip A7 - Checkm8 support</li>
-                            <li>✓ Untethered bypass</li>
-                            <li>✓ Khởi động lại bình thường</li>
-                            <li>✓ Thời gian: 15-30 phút</li>
+                            <li>? Chip A7 - Checkm8 support</li>
+                            <li>? Untethered bypass</li>
+                            <li>? Kh?i d?ng l?i b�nh thu?ng</li>
+                            <li>? Th?i gian: 15-30 ph�t</li>
                         </ul>
                     </div>
                 </div>
 
                 <div class="card mb-4">
                     <div class="card-header bg-primary text-white">
-                        <i class="fas fa-download me-2"></i>Tải xuống
+                        <i class="fas fa-download me-2"></i>T?i xu?ng
                     </div>
                     <div class="card-body">
                         <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-primary w-100 mb-2">UnlockTool</a>
@@ -709,13 +679,13 @@ $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.
 
                 <div class="card">
                     <div class="card-header bg-dark text-white">
-                        <i class="fas fa-link me-2"></i>Bài viết liên quan
+                        <i class="fas fa-link me-2"></i>B�i vi?t li�n quan
                     </div>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item"><a href="89-bypass-icloud-iphone-7.php">iCloud iPhone 7</a></li>
                         <li class="list-group-item"><a href="88-bypass-icloud-iphone-8.php">iCloud iPhone 8</a></li>
                         <li class="list-group-item"><a href="87-bypass-icloud-iphone-x.php">iCloud iPhone X</a></li>
-                        <li class="list-group-item"><a href="81-unlocktool-huong-dan-su-dung.php">Hướng dẫn UnlockTool</a></li>
+                        <li class="list-group-item"><a href="81-unlocktool-huong-dan-su-dung.php">Hu?ng d?n UnlockTool</a></li>
                     </ul>
                 </div>
             </div>
@@ -730,7 +700,7 @@ $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -744,13 +714,13 @@ $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hướng dẫn chi tiết</small>
+                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
                         </div>
                     </div>
                 </div>
@@ -758,15 +728,15 @@ $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">Từ iPhone 5s - X</small>
+                            <small class="text-muted">T? iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
-                            <small class="text-muted">Download mới nhất</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
+                            <small class="text-muted">Download m?i nh?t</small>
                         </div>
                     </div>
                 </div>
@@ -779,7 +749,7 @@ $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -790,10 +760,10 @@ $canonical_url = "https://www.unlocktool.us/articles/96-bypass-icloud-iphone-5s.
         <div class="row">
             <div class="col-md-6">
                 <h5>UnlockTool.us</h5>
-                <p class="small">Cho thuê tài khoản tool mở khóa điện thoại uy tín nhất Việt Nam.</p>
+                <p class="small">Cho thu� t�i kho?n tool m? kh�a di?n tho?i uy t�n nh?t Vi?t Nam.</p>
             </div>
             <div class="col-md-6 text-md-end">
-                <p class="small mb-1">Dịch vụ: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+                <p class="small mb-1">D?ch v?: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
                 <p class="small">&copy; 2026 UnlockTool.us - All rights reserved.</p>
             </div>
         </div>

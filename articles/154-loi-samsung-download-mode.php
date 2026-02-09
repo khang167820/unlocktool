@@ -1,6 +1,6 @@
-﻿<?php
-$page_title = "Samsung Download Mode 🔥 Hướng Dẫn Vào Và Fix Lỗi 2026";
-$page_description = "🔥 Hướng dẫn vào Samsung Download Mode (Odin Mode) S24/A55/S23. Fix lỗi stuck, Odin không nhận. Cách thoát Download Mode. Thuê UnlockTool 8K/6h!";
+<?php
+$page_title = "Samsung Download Mode ?? Hu?ng D?n V�o V� Fix L?i 2026";
+$page_description = "?? Hu?ng d?n v�o Samsung Download Mode (Odin Mode) S24/A55/S23. Fix l?i stuck, Odin kh�ng nh?n. C�ch tho�t Download Mode. Thu� UnlockTool 8K/6h!";
 $page_keywords = "samsung download mode, odin mode, cach vao download mode, loi download mode, samsung odin, fix download mode";
 $canonical_url = "https://www.unlocktool.us/articles/154-loi-samsung-download-mode.php";
 ?>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/154-loi-samsung-download-mo
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/154-loi-samsung-download-mo
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hướng dẫn kỹ thuật">
+    <meta property="article:section" content="Hu?ng d?n k? thu?t">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="Mở khóa điện thoại">
+    <meta property="article:tag" content="M? kh�a di?n tho?i">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -50,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/154-loi-samsung-download-mo
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -60,8 +60,8 @@ $canonical_url = "https://www.unlocktool.us/articles/154-loi-samsung-download-mo
     {
         "@context": "https://schema.org",
         "@type": "TechArticle",
-        "headline": "Samsung Download Mode - Hướng Dẫn Vào Và Fix Lỗi 2026",
-        "description": "Hướng dẫn chi tiết vào Samsung Download Mode và khắc phục các lỗi thường gặp",
+        "headline": "Samsung Download Mode - Hu?ng D?n V�o V� Fix L?i 2026",
+        "description": "Hu?ng d?n chi ti?t v�o Samsung Download Mode v� kh?c ph?c c�c l?i thu?ng g?p",
         "author": {"@type": "Organization", "name": "UnlockTool.us"},
         "publisher": {"@type": "Organization", "name": "UnlockTool.us"},
         "datePublished": "2024-01-01",
@@ -72,12 +72,12 @@ $canonical_url = "https://www.unlocktool.us/articles/154-loi-samsung-download-mo
     {
         "@context": "https://schema.org",
         "@type": "HowTo",
-        "name": "Cách vào Samsung Download Mode",
+        "name": "C�ch v�o Samsung Download Mode",
         "step": [
-            {"@type": "HowToStep", "position": 1, "name": "Tắt máy", "text": "Tắt Samsung hoàn toàn, hoặc giữ Power + Vol Down 7 giây"},
-            {"@type": "HowToStep", "position": 2, "name": "Nhấn tổ hợp phím", "text": "Giữ Vol Up + Vol Down đồng thời (máy mới) hoặc Vol Down + Home + Power (máy cũ)"},
-            {"@type": "HowToStep", "position": 3, "name": "Cắm cáp USB", "text": "Với máy mới, cắm cáp USB trong khi giữ phím"},
-            {"@type": "HowToStep", "position": 4, "name": "Xác nhận", "text": "Khi hiện Warning màu vàng, nhấn Vol Up để vào Download Mode"}
+            {"@type": "HowToStep", "position": 1, "name": "T?t m�y", "text": "T?t Samsung ho�n to�n, ho?c gi? Power + Vol Down 7 gi�y"},
+            {"@type": "HowToStep", "position": 2, "name": "Nh?n t? h?p ph�m", "text": "Gi? Vol Up + Vol Down d?ng th?i (m�y m?i) ho?c Vol Down + Home + Power (m�y cu)"},
+            {"@type": "HowToStep", "position": 3, "name": "C?m c�p USB", "text": "V?i m�y m?i, c?m c�p USB trong khi gi? ph�m"},
+            {"@type": "HowToStep", "position": 4, "name": "X�c nh?n", "text": "Khi hi?n Warning m�u v�ng, nh?n Vol Up d? v�o Download Mode"}
         ]
     }
     </script>
@@ -86,10 +86,10 @@ $canonical_url = "https://www.unlocktool.us/articles/154-loi-samsung-download-mo
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "Download Mode là gì?", "acceptedAnswer": {"@type": "Answer", "text": "Download Mode (Odin Mode) là chế độ đặc biệt trên Samsung cho phép flash firmware bằng Odin. Dùng để cứu máy brick, bypass FRP, cài ROM."}},
-            {"@type": "Question", "name": "Làm sao để thoát Download Mode?", "acceptedAnswer": {"@type": "Answer", "text": "Giữ Power + Vol Down 7-10 giây để force restart. Hoặc tháo pin nếu được."}},
-            {"@type": "Question", "name": "Download Mode có xóa dữ liệu không?", "acceptedAnswer": {"@type": "Answer", "text": "Không. Chỉ vào Download Mode không xóa gì. Dữ liệu chỉ mất khi flash firmware hoặc factory reset."}},
-            {"@type": "Question", "name": "Odin không nhận máy thì làm sao?", "acceptedAnswer": {"@type": "Answer", "text": "Cài Samsung USB Driver, thử cáp USB khác, chạy Odin với quyền Admin, thử cổng USB 2.0 thay vì 3.0."}}
+            {"@type": "Question", "name": "Download Mode l� g�?", "acceptedAnswer": {"@type": "Answer", "text": "Download Mode (Odin Mode) l� ch? d? d?c bi?t tr�n Samsung cho ph�p flash firmware b?ng Odin. D�ng d? c?u m�y brick, bypass FRP, c�i ROM."}},
+            {"@type": "Question", "name": "L�m sao d? tho�t Download Mode?", "acceptedAnswer": {"@type": "Answer", "text": "Gi? Power + Vol Down 7-10 gi�y d? force restart. Ho?c th�o pin n?u du?c."}},
+            {"@type": "Question", "name": "Download Mode c� x�a d? li?u kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "Kh�ng. Ch? v�o Download Mode kh�ng x�a g�. D? li?u ch? m?t khi flash firmware ho?c factory reset."}},
+            {"@type": "Question", "name": "Odin kh�ng nh?n m�y th� l�m sao?", "acceptedAnswer": {"@type": "Answer", "text": "C�i Samsung USB Driver, th? c�p USB kh�c, ch?y Odin v?i quy?n Admin, th? c?ng USB 2.0 thay v� 3.0."}}
         ]
     }
     </script>
@@ -137,52 +137,22 @@ $canonical_url = "https://www.unlocktool.us/articles/154-loi-samsung-download-mo
         }
     }
     </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Dịch vụ mở khóa điện thoại",
-        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.6",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "132"
-        }
-    }
-    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
 </nav>
 <section class="hero-section">
     <div class="container text-center">
-        <h1><i class="fas fa-download me-2"></i>Samsung Download Mode - Hướng Dẫn 2026</h1>
-        <p class="lead">Odin Mode - Cách vào, fix lỗi stuck, khắc phục Odin không nhận máy</p>
+        <h1><i class="fas fa-download me-2"></i>Samsung Download Mode - Hu?ng D?n 2026</h1>
+        <p class="lead">Odin Mode - C�ch v�o, fix l?i stuck, kh?c ph?c Odin kh�ng nh?n m�y</p>
         <div class="mt-4">
             <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>UnlockTool <span class="flash-sale">8K/6H</span></a>
         </div>
@@ -194,258 +164,258 @@ $canonical_url = "https://www.unlocktool.us/articles/154-loi-samsung-download-mo
         
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #0066cc;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>Tác giả:</strong> UnlockTool.us Team</span>
-            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>Cập nhật:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Đọc:</strong> ~5 phút</span>
-            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lượt xem:</strong> <span id="viewCount">1,234</span></span>
+            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>T�c gi?:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>�?c:</strong> ~5 ph�t</span>
+            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> <span id="viewCount">1,234</span></span>
         </div>
         <div class="toc">
-            <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
+            <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
             <ul>
-                <li><a href="#download-mode-la-gi">1. Download Mode là gì?</a></li>
-                <li><a href="#cach-vao">2. Cách vào Download Mode</a></li>
-                <li><a href="#cach-thoat">3. Cách thoát Download Mode</a></li>
-                <li><a href="#fix-loi">4. Khắc phục lỗi thường gặp</a></li>
-                <li><a href="#odin">5. Flash firmware bằng Odin</a></li>
+                <li><a href="#download-mode-la-gi">1. Download Mode l� g�?</a></li>
+                <li><a href="#cach-vao">2. C�ch v�o Download Mode</a></li>
+                <li><a href="#cach-thoat">3. C�ch tho�t Download Mode</a></li>
+                <li><a href="#fix-loi">4. Kh?c ph?c l?i thu?ng g?p</a></li>
+                <li><a href="#odin">5. Flash firmware b?ng Odin</a></li>
                 <li><a href="#so-sanh">6. Download Mode vs Recovery Mode</a></li>
-                <li><a href="#faq">7. FAQ - Câu hỏi thường gặp</a></li>
+                <li><a href="#faq">7. FAQ - C�u h?i thu?ng g?p</a></li>
             </ul>
         </div>
         
-        <h2 id="download-mode-la-gi"><i class="fas fa-info-circle me-2"></i>1. Download Mode là gì?</h2>
+        <h2 id="download-mode-la-gi"><i class="fas fa-info-circle me-2"></i>1. Download Mode l� g�?</h2>
         
-        <p><strong>Download Mode</strong> (còn gọi là <strong>Odin Mode</strong>) là chế độ khởi động đặc biệt trên điện thoại Samsung. Chế độ này cho phép kết nối máy với máy tính và sử dụng phần mềm <strong>Odin</strong> để flash firmware.</p>
+        <p><strong>Download Mode</strong> (c�n g?i l� <strong>Odin Mode</strong>) l� ch? d? kh?i d?ng d?c bi?t tr�n di?n tho?i Samsung. Ch? d? n�y cho ph�p k?t n?i m�y v?i m�y t�nh v� s? d?ng ph?n m?m <strong>Odin</strong> d? flash firmware.</p>
         
-        <h3>1.1. Công dụng của Download Mode</h3>
+        <h3>1.1. C�ng d?ng c?a Download Mode</h3>
         <ul>
-            <li><strong>Flash firmware:</strong> Cài lại hệ điều hành khi máy bị lỗi</li>
-            <li><strong>Cứu máy brick:</strong> Khôi phục máy bị treo logo, bootloop</li>
-            <li><strong>Nâng cấp/hạ cấp Android:</strong> Update hoặc downgrade phiên bản Android</li>
-            <li><strong>Bypass FRP:</strong> Kết hợp với các tool để bypass Google Account</li>
-            <li><strong>Root máy:</strong> Flash file root (Magisk, TWRP)</li>
-            <li><strong>Sửa IMEI:</strong> Kết hợp với tool để repair IMEI</li>
+            <li><strong>Flash firmware:</strong> C�i l?i h? di?u h�nh khi m�y b? l?i</li>
+            <li><strong>C?u m�y brick:</strong> Kh�i ph?c m�y b? treo logo, bootloop</li>
+            <li><strong>N�ng c?p/h? c?p Android:</strong> Update ho?c downgrade phi�n b?n Android</li>
+            <li><strong>Bypass FRP:</strong> K?t h?p v?i c�c tool d? bypass Google Account</li>
+            <li><strong>Root m�y:</strong> Flash file root (Magisk, TWRP)</li>
+            <li><strong>S?a IMEI:</strong> K?t h?p v?i tool d? repair IMEI</li>
         </ul>
         
-        <h3>1.2. Màn hình Download Mode</h3>
-        <p>Khi vào Download Mode thành công, bạn sẽ thấy màn hình màu xanh với nội dung:</p>
+        <h3>1.2. M�n h�nh Download Mode</h3>
+        <p>Khi v�o Download Mode th�nh c�ng, b?n s? th?y m�n h�nh m�u xanh v?i n?i dung:</p>
         <ul>
             <li>"<strong>Downloading... Do not turn off target!!</strong>"</li>
-            <li>Hiển thị thông tin model, bootloader version</li>
-            <li>Có hình tam giác với mũi tên hướng xuống</li>
+            <li>Hi?n th? th�ng tin model, bootloader version</li>
+            <li>C� h�nh tam gi�c v?i mui t�n hu?ng xu?ng</li>
         </ul>
         
-        <h2 id="cach-vao"><i class="fas fa-keyboard me-2"></i>2. Cách vào Download Mode</h2>
+        <h2 id="cach-vao"><i class="fas fa-keyboard me-2"></i>2. C�ch v�o Download Mode</h2>
         
-        <h3>2.1. Máy Samsung đời mới (S20, S21, S22, S23, S24, A55, A54...)</h3>
-        <p>Các máy đời mới không có nút Home vật lý, sử dụng cách sau:</p>
+        <h3>2.1. M�y Samsung d?i m?i (S20, S21, S22, S23, S24, A55, A54...)</h3>
+        <p>C�c m�y d?i m?i kh�ng c� n�t Home v?t l�, s? d?ng c�ch sau:</p>
         
         <div class="step-box">
             <div class="step-num">1</div>
-            <h5>Tắt máy hoàn toàn</h5>
-            <p>Giữ <kbd>Power</kbd> + <kbd>Vol Down</kbd> 7 giây → Tap "Power Off" 2 lần. Hoặc đợi máy hết pin rồi tắt.</p>
+            <h5>T?t m�y ho�n to�n</h5>
+            <p>Gi? <kbd>Power</kbd> + <kbd>Vol Down</kbd> 7 gi�y ? Tap "Power Off" 2 l?n. Ho?c d?i m�y h?t pin r?i t?t.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">2</div>
-            <h5>Nhấn tổ hợp phím</h5>
-            <p>Giữ đồng thời <kbd>Vol Up</kbd> + <kbd>Vol Down</kbd> (cả 2 nút âm lượng cùng lúc).</p>
+            <h5>Nh?n t? h?p ph�m</h5>
+            <p>Gi? d?ng th?i <kbd>Vol Up</kbd> + <kbd>Vol Down</kbd> (c? 2 n�t �m lu?ng c�ng l�c).</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">3</div>
-            <h5>Cắm cáp USB</h5>
-            <p>Trong khi vẫn giữ 2 nút Vol, cắm cáp USB-C từ máy tính vào điện thoại.</p>
+            <h5>C?m c�p USB</h5>
+            <p>Trong khi v?n gi? 2 n�t Vol, c?m c�p USB-C t? m�y t�nh v�o di?n tho?i.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">4</div>
-            <h5>Xác nhận vào Download Mode</h5>
-            <p>Khi hiện màn hình Warning màu vàng, nhấn <kbd>Vol Up</kbd> để xác nhận vào Download Mode.</p>
+            <h5>X�c nh?n v�o Download Mode</h5>
+            <p>Khi hi?n m�n h�nh Warning m�u v�ng, nh?n <kbd>Vol Up</kbd> d? x�c nh?n v�o Download Mode.</p>
         </div>
         
-        <h3>2.2. Máy Samsung có nút Home (S7, S8, Note 8 trở về trước)</h3>
+        <h3>2.2. M�y Samsung c� n�t Home (S7, S8, Note 8 tr? v? tru?c)</h3>
         
         <div class="method-card">
-            <h5><i class="fas fa-mobile-alt me-2"></i>Tổ hợp phím:</h5>
-            <p class="mb-0">Tắt máy → Giữ <kbd>Vol Down</kbd> + <kbd>Home</kbd> + <kbd>Power</kbd> đồng thời → Khi hiện Warning, nhấn <kbd>Vol Up</kbd>.</p>
+            <h5><i class="fas fa-mobile-alt me-2"></i>T? h?p ph�m:</h5>
+            <p class="mb-0">T?t m�y ? Gi? <kbd>Vol Down</kbd> + <kbd>Home</kbd> + <kbd>Power</kbd> d?ng th?i ? Khi hi?n Warning, nh?n <kbd>Vol Up</kbd>.</p>
         </div>
         
-        <h3>2.3. Máy Samsung có nút Bixby (S9, S10, Note 9, Note 10)</h3>
+        <h3>2.3. M�y Samsung c� n�t Bixby (S9, S10, Note 9, Note 10)</h3>
         
         <div class="method-card">
-            <h5><i class="fas fa-robot me-2"></i>Tổ hợp phím:</h5>
-            <p class="mb-0">Tắt máy → Giữ <kbd>Vol Down</kbd> + <kbd>Bixby</kbd> + <kbd>Power</kbd> đồng thời → Khi hiện Warning, nhấn <kbd>Vol Up</kbd>.</p>
+            <h5><i class="fas fa-robot me-2"></i>T? h?p ph�m:</h5>
+            <p class="mb-0">T?t m�y ? Gi? <kbd>Vol Down</kbd> + <kbd>Bixby</kbd> + <kbd>Power</kbd> d?ng th?i ? Khi hi?n Warning, nh?n <kbd>Vol Up</kbd>.</p>
         </div>
         
         <div class="info-box">
-            <h5><i class="fas fa-lightbulb me-2"></i>Mẹo:</h5>
-            <p class="mb-0">Nếu không biết chắc model, hãy tham khảo bảng tổ hợp phím cho từng dòng máy ở phần dưới, hoặc sử dụng <strong>UnlockTool</strong> để tự động đưa máy vào Download Mode qua USB.</p>
+            <h5><i class="fas fa-lightbulb me-2"></i>M?o:</h5>
+            <p class="mb-0">N?u kh�ng bi?t ch?c model, h�y tham kh?o b?ng t? h?p ph�m cho t?ng d�ng m�y ? ph?n du?i, ho?c s? d?ng <strong>UnlockTool</strong> d? t? d?ng dua m�y v�o Download Mode qua USB.</p>
         </div>
         
-        <h3>2.4. Bảng tổ hợp phím theo model</h3>
+        <h3>2.4. B?ng t? h?p ph�m theo model</h3>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Dòng máy</th><th>Tổ hợp phím</th><th>Ghi chú</th></tr>
+                <tr><th>D�ng m�y</th><th>T? h?p ph�m</th><th>Ghi ch�</th></tr>
             </thead>
             <tbody>
-                <tr><td>Galaxy S20 - S24</td><td>Vol Up + Vol Down + USB</td><td>Tắt máy trước</td></tr>
-                <tr><td>Galaxy A55, A54, A34</td><td>Vol Up + Vol Down + USB</td><td>Tắt máy trước</td></tr>
-                <tr><td>Galaxy S10, Note 10</td><td>Vol Down + Bixby + Power</td><td>Có nút Bixby</td></tr>
-                <tr><td>Galaxy S9, Note 9</td><td>Vol Down + Bixby + Power</td><td>Có nút Bixby</td></tr>
-                <tr><td>Galaxy S7, S8, Note 8</td><td>Vol Down + Home + Power</td><td>Có nút Home</td></tr>
-                <tr><td>Galaxy J, A cũ</td><td>Vol Down + Home + Power</td><td>Có nút Home</td></tr>
+                <tr><td>Galaxy S20 - S24</td><td>Vol Up + Vol Down + USB</td><td>T?t m�y tru?c</td></tr>
+                <tr><td>Galaxy A55, A54, A34</td><td>Vol Up + Vol Down + USB</td><td>T?t m�y tru?c</td></tr>
+                <tr><td>Galaxy S10, Note 10</td><td>Vol Down + Bixby + Power</td><td>C� n�t Bixby</td></tr>
+                <tr><td>Galaxy S9, Note 9</td><td>Vol Down + Bixby + Power</td><td>C� n�t Bixby</td></tr>
+                <tr><td>Galaxy S7, S8, Note 8</td><td>Vol Down + Home + Power</td><td>C� n�t Home</td></tr>
+                <tr><td>Galaxy J, A cu</td><td>Vol Down + Home + Power</td><td>C� n�t Home</td></tr>
             </tbody>
         </table>
         
-        <h2 id="cach-thoat"><i class="fas fa-sign-out-alt me-2"></i>3. Cách thoát Download Mode</h2>
+        <h2 id="cach-thoat"><i class="fas fa-sign-out-alt me-2"></i>3. C�ch tho�t Download Mode</h2>
         
-        <h3>3.1. Force Restart (Phổ biến nhất)</h3>
-        <p>Giữ <kbd>Power</kbd> + <kbd>Vol Down</kbd> từ <strong>7-10 giây</strong> cho đến khi màn hình tắt và máy restart.</p>
+        <h3>3.1. Force Restart (Ph? bi?n nh?t)</h3>
+        <p>Gi? <kbd>Power</kbd> + <kbd>Vol Down</kbd> t? <strong>7-10 gi�y</strong> cho d?n khi m�n h�nh t?t v� m�y restart.</p>
         
-        <h3>3.2. Tháo pin (Máy cũ)</h3>
-        <p>Nếu máy có pin rời, tháo pin ra, đợi 30 giây, lắp lại và bật máy bình thường.</p>
+        <h3>3.2. Th�o pin (M�y cu)</h3>
+        <p>N?u m�y c� pin r?i, th�o pin ra, d?i 30 gi�y, l?p l?i v� b?t m�y b�nh thu?ng.</p>
         
-        <h3>3.3. Đợi hết pin</h3>
-        <p>Nếu 2 cách trên không được, để máy tự hết pin. Sau đó sạc và bật lại.</p>
+        <h3>3.3. �?i h?t pin</h3>
+        <p>N?u 2 c�ch tr�n kh�ng du?c, d? m�y t? h?t pin. Sau d� s?c v� b?t l?i.</p>
         
         <div class="warning-box">
-            <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý:</h5>
-            <p class="mb-0">Nếu máy tự động quay lại Download Mode sau khi restart, có thể nút bấm bị kẹt hoặc firmware lỗi. Kiểm tra nút vật lý hoặc flash lại firmware.</p>
+            <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu �:</h5>
+            <p class="mb-0">N?u m�y t? d?ng quay l?i Download Mode sau khi restart, c� th? n�t b?m b? k?t ho?c firmware l?i. Ki?m tra n�t v?t l� ho?c flash l?i firmware.</p>
         </div>
         
-        <h2 id="fix-loi"><i class="fas fa-wrench me-2"></i>4. Khắc phục lỗi thường gặp</h2>
+        <h2 id="fix-loi"><i class="fas fa-wrench me-2"></i>4. Kh?c ph?c l?i thu?ng g?p</h2>
         
-        <h3>4.1. Lỗi: Không vào được Download Mode</h3>
+        <h3>4.1. L?i: Kh�ng v�o du?c Download Mode</h3>
         
         <div class="danger-box">
-            <h5><i class="fas fa-times-circle me-2"></i>Nguyên nhân:</h5>
+            <h5><i class="fas fa-times-circle me-2"></i>Nguy�n nh�n:</h5>
             <ul>
-                <li>Sai tổ hợp phím cho model</li>
-                <li>Máy hết pin hoặc pin yếu</li>
-                <li>Nút vật lý bị hỏng/kẹt</li>
-                <li>Bootloader bị khóa hoặc lỗi</li>
+                <li>Sai t? h?p ph�m cho model</li>
+                <li>M�y h?t pin ho?c pin y?u</li>
+                <li>N�t v?t l� b? h?ng/k?t</li>
+                <li>Bootloader b? kh�a ho?c l?i</li>
             </ul>
         </div>
         
         <div class="tip-box">
-            <h5><i class="fas fa-check-circle me-2"></i>Cách khắc phục:</h5>
+            <h5><i class="fas fa-check-circle me-2"></i>C�ch kh?c ph?c:</h5>
             <ul class="mb-0">
-                <li>Kiểm tra đúng tổ hợp phím theo bảng trên</li>
-                <li>Sạc máy ít nhất 30 phút trước khi thử lại</li>
-                <li>Giữ phím đủ lâu (10-15 giây)</li>
-                <li>Nếu nút hỏng, sử dụng <strong>UnlockTool</strong> hoặc <strong>test point</strong></li>
+                <li>Ki?m tra d�ng t? h?p ph�m theo b?ng tr�n</li>
+                <li>S?c m�y �t nh?t 30 ph�t tru?c khi th? l?i</li>
+                <li>Gi? ph�m d? l�u (10-15 gi�y)</li>
+                <li>N?u n�t h?ng, s? d?ng <strong>UnlockTool</strong> ho?c <strong>test point</strong></li>
             </ul>
         </div>
         
-        <h3>4.2. Lỗi: Odin không nhận máy (không hiện ID:COM)</h3>
+        <h3>4.2. L?i: Odin kh�ng nh?n m�y (kh�ng hi?n ID:COM)</h3>
         
         <div class="danger-box">
-            <h5><i class="fas fa-usb me-2"></i>Nguyên nhân:</h5>
+            <h5><i class="fas fa-usb me-2"></i>Nguy�n nh�n:</h5>
             <ul>
-                <li>Chưa cài Samsung USB Driver</li>
-                <li>Cáp USB lỗi hoặc kém chất lượng</li>
-                <li>Cổng USB trên máy tính lỗi</li>
-                <li>Odin không chạy với quyền Admin</li>
+                <li>Chua c�i Samsung USB Driver</li>
+                <li>C�p USB l?i ho?c k�m ch?t lu?ng</li>
+                <li>C?ng USB tr�n m�y t�nh l?i</li>
+                <li>Odin kh�ng ch?y v?i quy?n Admin</li>
             </ul>
         </div>
         
         <div class="tip-box">
-            <h5><i class="fas fa-check-circle me-2"></i>Cách khắc phục:</h5>
+            <h5><i class="fas fa-check-circle me-2"></i>C�ch kh?c ph?c:</h5>
             <ul class="mb-0">
-                <li>Cài <strong>Samsung USB Driver</strong> hoặc <strong>Samsung Smart Switch</strong></li>
-                <li>Dùng cáp USB chính hãng Samsung</li>
-                <li>Thử cổng USB 2.0 thay vì USB 3.0</li>
-                <li>Click phải Odin → "Run as Administrator"</li>
-                <li>Tắt antivirus tạm thời</li>
+                <li>C�i <strong>Samsung USB Driver</strong> ho?c <strong>Samsung Smart Switch</strong></li>
+                <li>D�ng c�p USB ch�nh h�ng Samsung</li>
+                <li>Th? c?ng USB 2.0 thay v� USB 3.0</li>
+                <li>Click ph?i Odin ? "Run as Administrator"</li>
+                <li>T?t antivirus t?m th?i</li>
             </ul>
         </div>
         
-        <h3>4.3. Lỗi: Máy bị stuck trong Download Mode</h3>
+        <h3>4.3. L?i: M�y b? stuck trong Download Mode</h3>
         
         <div class="danger-box">
-            <h5><i class="fas fa-sync-alt me-2"></i>Nguyên nhân:</h5>
+            <h5><i class="fas fa-sync-alt me-2"></i>Nguy�n nh�n:</h5>
             <ul>
-                <li>Flash firmware bị fail giữa chừng</li>
-                <li>Firmware bị corrupt</li>
-                <li>Nút bấm bị kẹt</li>
-                <li>Lỗi phần cứng mainboard</li>
+                <li>Flash firmware b? fail gi?a ch?ng</li>
+                <li>Firmware b? corrupt</li>
+                <li>N�t b?m b? k?t</li>
+                <li>L?i ph?n c?ng mainboard</li>
             </ul>
         </div>
         
         <div class="tip-box">
-            <h5><i class="fas fa-check-circle me-2"></i>Cách khắc phục:</h5>
+            <h5><i class="fas fa-check-circle me-2"></i>C�ch kh?c ph?c:</h5>
             <ul class="mb-0">
-                <li><strong>Force restart:</strong> Giữ Power + Vol Down 10 giây</li>
-                <li><strong>Kiểm tra nút:</strong> Đảm bảo không có nút nào bị kẹt (ốp lưng, bụi)</li>
-                <li><strong>Flash lại firmware:</strong> Tải đúng firmware và flash bằng Odin</li>
-                <li><strong>Factory reset từ Recovery:</strong> Vào Recovery Mode và wipe data</li>
+                <li><strong>Force restart:</strong> Gi? Power + Vol Down 10 gi�y</li>
+                <li><strong>Ki?m tra n�t:</strong> �?m b?o kh�ng c� n�t n�o b? k?t (?p lung, b?i)</li>
+                <li><strong>Flash l?i firmware:</strong> T?i d�ng firmware v� flash b?ng Odin</li>
+                <li><strong>Factory reset t? Recovery:</strong> V�o Recovery Mode v� wipe data</li>
             </ul>
         </div>
         
-        <h3>4.4. Lỗi: FRP lock chặn Download Mode</h3>
+        <h3>4.4. L?i: FRP lock ch?n Download Mode</h3>
         
         <div class="info-box">
-            <h5><i class="fas fa-lock me-2"></i>Giải pháp:</h5>
-            <p class="mb-0">Một số Samsung có FRP chặn Download Mode. Sử dụng <strong>UnlockTool</strong> hoặc <strong>TSM Tool</strong> để bypass qua USB mà không cần vào Download Mode thủ công.</p>
+            <h5><i class="fas fa-lock me-2"></i>Gi?i ph�p:</h5>
+            <p class="mb-0">M?t s? Samsung c� FRP ch?n Download Mode. S? d?ng <strong>UnlockTool</strong> ho?c <strong>TSM Tool</strong> d? bypass qua USB m� kh�ng c?n v�o Download Mode th? c�ng.</p>
         </div>
         
         <div class="price-box">
-            <h3><i class="fas fa-tools me-2"></i>Không Tự Khắc Phục Được?</h3>
-            <p>UnlockTool tự động đưa máy vào Download Mode và bypass FRP</p>
-            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg"><i class="fas fa-bolt me-2"></i>Thuê UnlockTool 8K/6H</a>
+            <h3><i class="fas fa-tools me-2"></i>Kh�ng T? Kh?c Ph?c �u?c?</h3>
+            <p>UnlockTool t? d?ng dua m�y v�o Download Mode v� bypass FRP</p>
+            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg"><i class="fas fa-bolt me-2"></i>Thu� UnlockTool 8K/6H</a>
         </div>
         
-        <h2 id="odin"><i class="fas fa-hdd me-2"></i>5. Flash firmware bằng Odin</h2>
+        <h2 id="odin"><i class="fas fa-hdd me-2"></i>5. Flash firmware b?ng Odin</h2>
         
-        <h3>5.1. Chuẩn bị</h3>
+        <h3>5.1. Chu?n b?</h3>
         <ul>
-            <li>Tải <strong>Odin</strong> phiên bản mới nhất (Odin 3.14.1+)</li>
-            <li>Tải <strong>firmware</strong> đúng model từ SamMobile hoặc Samfrew</li>
-            <li>Cài <strong>Samsung USB Driver</strong></li>
-            <li>Sạc máy trên 50%</li>
-            <li>Cáp USB chất lượng tốt</li>
+            <li>T?i <strong>Odin</strong> phi�n b?n m?i nh?t (Odin 3.14.1+)</li>
+            <li>T?i <strong>firmware</strong> d�ng model t? SamMobile ho?c Samfrew</li>
+            <li>C�i <strong>Samsung USB Driver</strong></li>
+            <li>S?c m�y tr�n 50%</li>
+            <li>C�p USB ch?t lu?ng t?t</li>
         </ul>
         
-        <h3>5.2. Các bước flash firmware</h3>
+        <h3>5.2. C�c bu?c flash firmware</h3>
         
         <div class="step-box">
             <div class="step-num">1</div>
-            <h5>Giải nén firmware</h5>
-            <p>Giải nén file .zip firmware, sẽ có các file: BL, AP, CP, CSC (HOME_CSC).</p>
+            <h5>Gi?i n�n firmware</h5>
+            <p>Gi?i n�n file .zip firmware, s? c� c�c file: BL, AP, CP, CSC (HOME_CSC).</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">2</div>
-            <h5>Vào Download Mode</h5>
-            <p>Đưa Samsung vào Download Mode theo hướng dẫn ở trên.</p>
+            <h5>V�o Download Mode</h5>
+            <p>�ua Samsung v�o Download Mode theo hu?ng d?n ? tr�n.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">3</div>
-            <h5>Mở Odin và kết nối</h5>
-            <p>Chạy Odin với quyền Admin. Kết nối USB, Odin sẽ hiện <strong>ID:COM</strong> màu xanh.</p>
+            <h5>M? Odin v� k?t n?i</h5>
+            <p>Ch?y Odin v?i quy?n Admin. K?t n?i USB, Odin s? hi?n <strong>ID:COM</strong> m�u xanh.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">4</div>
             <h5>Load firmware</h5>
-            <p>Click từng nút BL/AP/CP/CSC và chọn file tương ứng. Dùng HOME_CSC nếu muốn giữ dữ liệu.</p>
+            <p>Click t?ng n�t BL/AP/CP/CSC v� ch?n file tuong ?ng. D�ng HOME_CSC n?u mu?n gi? d? li?u.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">5</div>
-            <h5>Bắt đầu flash</h5>
-            <p>Click <strong>Start</strong> và đợi hoàn tất. Máy sẽ tự restart khi xong.</p>
+            <h5>B?t d?u flash</h5>
+            <p>Click <strong>Start</strong> v� d?i ho�n t?t. M�y s? t? restart khi xong.</p>
         </div>
         
         <div class="warning-box">
-            <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý quan trọng:</h5>
+            <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu � quan tr?ng:</h5>
             <ul class="mb-0">
-                <li>Flash đúng firmware cho model (kiểm tra SM-XXXX)</li>
-                <li>Không rút cáp USB khi đang flash</li>
-                <li>Nếu dùng CSC thay vì HOME_CSC, dữ liệu sẽ bị xóa</li>
-                <li>Flash firmware khác vùng có thể gây lỗi</li>
+                <li>Flash d�ng firmware cho model (ki?m tra SM-XXXX)</li>
+                <li>Kh�ng r�t c�p USB khi dang flash</li>
+                <li>N?u d�ng CSC thay v� HOME_CSC, d? li?u s? b? x�a</li>
+                <li>Flash firmware kh�c v�ng c� th? g�y l?i</li>
             </ul>
         </div>
         
@@ -453,52 +423,52 @@ $canonical_url = "https://www.unlocktool.us/articles/154-loi-samsung-download-mo
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Tiêu chí</th><th>Download Mode</th><th>Recovery Mode</th></tr>
+                <tr><th>Ti�u ch�</th><th>Download Mode</th><th>Recovery Mode</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>Mục đích</strong></td><td>Flash firmware bằng Odin</td><td>Factory reset, wipe cache</td></tr>
-                <tr><td><strong>Cách vào</strong></td><td>Vol Up + Vol Down + USB</td><td>Vol Up + Power (khi cắm USB)</td></tr>
-                <tr><td><strong>Giao diện</strong></td><td>Xanh dương "Downloading..."</td><td>Đen với menu text</td></tr>
-                <tr><td><strong>Cần máy tính</strong></td><td>Có (Odin)</td><td>Không cần</td></tr>
-                <tr><td><strong>Xóa dữ liệu</strong></td><td>Tùy (CSC xóa, HOME_CSC giữ)</td><td>Tùy chọn Wipe data</td></tr>
+                <tr><td><strong>M?c d�ch</strong></td><td>Flash firmware b?ng Odin</td><td>Factory reset, wipe cache</td></tr>
+                <tr><td><strong>C�ch v�o</strong></td><td>Vol Up + Vol Down + USB</td><td>Vol Up + Power (khi c?m USB)</td></tr>
+                <tr><td><strong>Giao di?n</strong></td><td>Xanh duong "Downloading..."</td><td>�en v?i menu text</td></tr>
+                <tr><td><strong>C?n m�y t�nh</strong></td><td>C� (Odin)</td><td>Kh�ng c?n</td></tr>
+                <tr><td><strong>X�a d? li?u</strong></td><td>T�y (CSC x�a, HOME_CSC gi?)</td><td>T�y ch?n Wipe data</td></tr>
             </tbody>
         </table>
         
-        <h2 id="faq"><i class="fas fa-comments me-2"></i>7. FAQ - Câu hỏi thường gặp</h2>
+        <h2 id="faq"><i class="fas fa-comments me-2"></i>7. FAQ - C�u h?i thu?ng g?p</h2>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Download Mode là gì?</h5>
-            <p><strong>Download Mode</strong> (Odin Mode) là chế độ đặc biệt trên Samsung cho phép flash firmware bằng phần mềm Odin trên máy tính. Dùng để cứu máy brick, cài ROM, bypass FRP.</p>
+            <h5><i class="fas fa-question me-2"></i>Download Mode l� g�?</h5>
+            <p><strong>Download Mode</strong> (Odin Mode) l� ch? d? d?c bi?t tr�n Samsung cho ph�p flash firmware b?ng ph?n m?m Odin tr�n m�y t�nh. D�ng d? c?u m�y brick, c�i ROM, bypass FRP.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Download Mode có xóa dữ liệu không?</h5>
-            <p><strong>Không.</strong> Chỉ vào Download Mode không xóa gì cả. Dữ liệu chỉ bị xóa khi flash firmware với file CSC (không phải HOME_CSC) hoặc khi factory reset.</p>
+            <h5><i class="fas fa-question me-2"></i>Download Mode c� x�a d? li?u kh�ng?</h5>
+            <p><strong>Kh�ng.</strong> Ch? v�o Download Mode kh�ng x�a g� c?. D? li?u ch? b? x�a khi flash firmware v?i file CSC (kh�ng ph?i HOME_CSC) ho?c khi factory reset.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Làm sao để thoát Download Mode?</h5>
-            <p>Giữ <kbd>Power</kbd> + <kbd>Vol Down</kbd> từ 7-10 giây để force restart. Nếu không được, tháo pin (máy cũ) hoặc đợi hết pin.</p>
+            <h5><i class="fas fa-question me-2"></i>L�m sao d? tho�t Download Mode?</h5>
+            <p>Gi? <kbd>Power</kbd> + <kbd>Vol Down</kbd> t? 7-10 gi�y d? force restart. N?u kh�ng du?c, th�o pin (m�y cu) ho?c d?i h?t pin.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Odin không nhận máy phải làm sao?</h5>
-            <p>Cài <strong>Samsung USB Driver</strong>, thử cáp USB khác, chạy Odin với quyền Admin, thử cổng USB 2.0 thay vì 3.0. Nếu vẫn không được, thử UnlockTool.</p>
+            <h5><i class="fas fa-question me-2"></i>Odin kh�ng nh?n m�y ph?i l�m sao?</h5>
+            <p>C�i <strong>Samsung USB Driver</strong>, th? c�p USB kh�c, ch?y Odin v?i quy?n Admin, th? c?ng USB 2.0 thay v� 3.0. N?u v?n kh�ng du?c, th? UnlockTool.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Máy bị stuck ở Download Mode làm sao?</h5>
-            <p>Force restart bằng Power + Vol Down 10 giây. Nếu vẫn stuck, flash lại firmware bằng Odin. Nếu không được, có thể cần sửa phần cứng.</p>
+            <h5><i class="fas fa-question me-2"></i>M�y b? stuck ? Download Mode l�m sao?</h5>
+            <p>Force restart b?ng Power + Vol Down 10 gi�y. N?u v?n stuck, flash l?i firmware b?ng Odin. N?u kh�ng du?c, c� th? c?n s?a ph?n c?ng.</p>
         </div>
         
-        <h2><i class="fas fa-link me-2"></i>Bài viết liên quan</h2>
+        <h2><i class="fas fa-link me-2"></i>B�i vi?t li�n quan</h2>
         <ul>
-            <li><a href="3-xoa-frp-samsung.php">Xóa FRP Samsung - Hướng dẫn bypass</a></li>
-            <li><a href="134-flash-samsung-odin.php">Flash Samsung bằng Odin - Hướng dẫn chi tiết</a></li>
-            <li><a href="132-knox-samsung-remove.php">Samsung Knox là gì? Có xóa được không?</a></li>
-            <li><a href="133-sua-imei-samsung.php">Sửa IMEI Samsung - Hướng dẫn chi tiết</a></li>
-            <li><a href="44-tsm-tool-huong-dan.php">TSM Tool - Hướng dẫn sử dụng</a></li>
-            <li><a href="1-unlocktool-la-gi.php">UnlockTool là gì? Hướng dẫn toàn diện</a></li>
+            <li><a href="3-xoa-frp-samsung.php">X�a FRP Samsung - Hu?ng d?n bypass</a></li>
+            <li><a href="134-flash-samsung-odin.php">Flash Samsung b?ng Odin - Hu?ng d?n chi ti?t</a></li>
+            <li><a href="132-knox-samsung-remove.php">Samsung Knox l� g�? C� x�a du?c kh�ng?</a></li>
+            <li><a href="133-sua-imei-samsung.php">S?a IMEI Samsung - Hu?ng d?n chi ti?t</a></li>
+            <li><a href="44-tsm-tool-huong-dan.php">TSM Tool - Hu?ng d?n s? d?ng</a></li>
+            <li><a href="1-unlocktool-la-gi.php">UnlockTool l� g�? Hu?ng d?n to�n di?n</a></li>
         </ul>
         
     </div>
@@ -511,7 +481,7 @@ $canonical_url = "https://www.unlocktool.us/articles/154-loi-samsung-download-mo
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -525,13 +495,13 @@ $canonical_url = "https://www.unlocktool.us/articles/154-loi-samsung-download-mo
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hướng dẫn chi tiết</small>
+                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
                         </div>
                     </div>
                 </div>
@@ -539,15 +509,15 @@ $canonical_url = "https://www.unlocktool.us/articles/154-loi-samsung-download-mo
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">Từ iPhone 5s - X</small>
+                            <small class="text-muted">T? iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
-                            <small class="text-muted">Download mới nhất</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
+                            <small class="text-muted">Download m?i nh?t</small>
                         </div>
                     </div>
                 </div>
@@ -560,7 +530,7 @@ $canonical_url = "https://www.unlocktool.us/articles/154-loi-samsung-download-mo
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -568,8 +538,8 @@ $canonical_url = "https://www.unlocktool.us/articles/154-loi-samsung-download-mo
 </div>
 <footer class="bg-dark text-white py-4 text-center">
     <div class="container">
-        <p class="mb-2">&copy; 2026 UnlockTool.us - Dịch vụ cho thuê UnlockTool uy tín #1 Việt Nam</p>
-        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thuê UnlockTool 8K</a></p>
+        <p class="mb-2">&copy; 2026 UnlockTool.us - D?ch v? cho thu� UnlockTool uy t�n #1 Vi?t Nam</p>
+        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thu� UnlockTool 8K</a></p>
     </div>
 </footer>
 

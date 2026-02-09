@@ -1,7 +1,7 @@
-﻿<?php
-$page_title = "Oppo Vivo FRP Bypass 2026 - Xóa Tài Khoản Google | Thuê Tool 8K/6H";
-$page_description = "Hướng dẫn bypass FRP Oppo Vivo Realme chi tiết. Xóa tài khoản Google, ColorOS, Funtouch. Thuê tool FRP 8.000đ/6h tại UnlockTool.us hoặc dịch vụ từ 50.000đ";
-$page_keywords = "oppo frp bypass, vivo frp bypass, realme frp, xóa frp oppo, xóa tài khoản google oppo vivo, colorOS frp bypass";
+<?php
+$page_title = "Oppo Vivo FRP Bypass 2026 - X�a T�i Kho?n Google | Thu� Tool 8K/6H";
+$page_description = "Hu?ng d?n bypass FRP Oppo Vivo Realme chi ti?t. X�a t�i kho?n Google, ColorOS, Funtouch. Thu� tool FRP 8.000d/6h t?i UnlockTool.us ho?c d?ch v? t? 50.000d";
+$page_keywords = "oppo frp bypass, vivo frp bypass, realme frp, x�a frp oppo, x�a t�i kho?n google oppo vivo, colorOS frp bypass";
 $canonical_url = "https://www.unlocktool.us/articles/51-oppo-vivo-frp-bypass.php";
 ?>
 <!DOCTYPE html>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/51-oppo-vivo-frp-bypass.php
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">">
     <meta property="og:title" content="<?php echo $page_title; ?>">
@@ -29,8 +29,8 @@ $canonical_url = "https://www.unlocktool.us/articles/51-oppo-vivo-frp-bypass.php
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"FRP Oppo Vivo là gì?","acceptedAnswer":{"@type":"Answer","text":"FRP (Factory Reset Protection) là tính năng bảo mật của Google trên Oppo/Vivo. Khi reset máy mà không đăng xuất Google, máy sẽ yêu cầu đăng nhập lại tài khoản cũ."}},
-        {"@type":"Question","name":"Bypass FRP Oppo Vivo giá bao nhiêu?","acceptedAnswer":{"@type":"Answer","text":"Thuê tool bypass FRP chỉ 8.000đ/6h tại UnlockTool.us. Dịch vụ kỹ thuật từ 50.000đ tại Thuetaikhoan.net."}}
+        {"@type":"Question","name":"FRP Oppo Vivo l� g�?","acceptedAnswer":{"@type":"Answer","text":"FRP (Factory Reset Protection) l� t�nh nang b?o m?t c?a Google tr�n Oppo/Vivo. Khi reset m�y m� kh�ng dang xu?t Google, m�y s? y�u c?u dang nh?p l?i t�i kho?n cu."}},
+        {"@type":"Question","name":"Bypass FRP Oppo Vivo gi� bao nhi�u?","acceptedAnswer":{"@type":"Answer","text":"Thu� tool bypass FRP ch? 8.000d/6h t?i UnlockTool.us. D?ch v? k? thu?t t? 50.000d t?i Thuetaikhoan.net."}}
     ]}
     </script>
     
@@ -86,44 +86,14 @@ $canonical_url = "https://www.unlocktool.us/articles/51-oppo-vivo-frp-bypass.php
         }
     }
     </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Dịch vụ mở khóa điện thoại",
-        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.6",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "133"
-        }
-    }
-    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -131,10 +101,10 @@ $canonical_url = "https://www.unlocktool.us/articles/51-oppo-vivo-frp-bypass.php
 <section class="hero-section">
     <div class="container">
         <h1><i class="fas fa-mobile-alt me-3"></i><?php echo $page_title; ?></h1>
-        <p class="lead">Xóa tài khoản Google trên Oppo, Vivo, Realme - ColorOS, Funtouch OS</p>
+        <p class="lead">X�a t�i kho?n Google tr�n Oppo, Vivo, Realme - ColorOS, Funtouch OS</p>
         <div class="mt-4">
-            <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg me-2">Thuê Tool - 8K/6H</a>
-            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg">Dịch Vụ - 50K</a>
+            <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg me-2">Thu� Tool - 8K/6H</a>
+            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg">D?ch V? - 50K</a>
         </div>
     </div>
 </section>
@@ -144,43 +114,43 @@ $canonical_url = "https://www.unlocktool.us/articles/51-oppo-vivo-frp-bypass.php
         <div class="col-lg-8">
             
             <div class="toc">
-                <h5><i class="fas fa-list me-2"></i>Mục lục</h5>
+                <h5><i class="fas fa-list me-2"></i>M?c l?c</h5>
                 <ul>
-                    <li><a href="#frp">1. FRP Oppo/Vivo là gì?</a></li>
-                    <li><a href="#thiet-bi">2. Thiết bị hỗ trợ</a></li>
-                    <li><a href="#phuong-phap">3. Phương pháp bypass</a></li>
-                    <li><a href="#huong-dan">4. Hướng dẫn chi tiết</a></li>
-                    <li><a href="#tool">5. Các tool bypass</a></li>
-                    <li><a href="#dich-vu">6. Thuê tool / Dịch vụ</a></li>
+                    <li><a href="#frp">1. FRP Oppo/Vivo l� g�?</a></li>
+                    <li><a href="#thiet-bi">2. Thi?t b? h? tr?</a></li>
+                    <li><a href="#phuong-phap">3. Phuong ph�p bypass</a></li>
+                    <li><a href="#huong-dan">4. Hu?ng d?n chi ti?t</a></li>
+                    <li><a href="#tool">5. C�c tool bypass</a></li>
+                    <li><a href="#dich-vu">6. Thu� tool / D?ch v?</a></li>
                     <li><a href="#faq">7. FAQ</a></li>
                 </ul>
             </div>
 
             <section id="frp" class="mt-5">
-                <h2><i class="fas fa-info-circle text-success me-2"></i>1. FRP Oppo/Vivo Là Gì?</h2>
+                <h2><i class="fas fa-info-circle text-success me-2"></i>1. FRP Oppo/Vivo L� G�?</h2>
                 
-                <p><strong>FRP</strong> (Factory Reset Protection) trên Oppo và Vivo hoạt động tương tự các thiết bị Android khác. Khi điện thoại bị reset về cài đặt gốc mà chưa đăng xuất tài khoản Google, máy sẽ yêu cầu xác minh tài khoản Google cũ để tiếp tục sử dụng.</p>
+                <p><strong>FRP</strong> (Factory Reset Protection) tr�n Oppo v� Vivo ho?t d?ng tuong t? c�c thi?t b? Android kh�c. Khi di?n tho?i b? reset v? c�i d?t g?c m� chua dang xu?t t�i kho?n Google, m�y s? y�u c?u x�c minh t�i kho?n Google cu d? ti?p t?c s? d?ng.</p>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-lightbulb me-2"></i>Đặc điểm FRP trên Oppo/Vivo</h5>
+                    <h5><i class="fas fa-lightbulb me-2"></i>�?c di?m FRP tr�n Oppo/Vivo</h5>
                     <ul class="mb-0">
-                        <li><strong>Oppo (ColorOS):</strong> Có thể có thêm Oppo ID bên cạnh Google Account</li>
-                        <li><strong>Vivo (Funtouch OS):</strong> Một số máy có Vivo Account lock</li>
-                        <li><strong>Realme (Realme UI):</strong> Dựa trên ColorOS, FRP tương tự Oppo</li>
+                        <li><strong>Oppo (ColorOS):</strong> C� th? c� th�m Oppo ID b�n c?nh Google Account</li>
+                        <li><strong>Vivo (Funtouch OS):</strong> M?t s? m�y c� Vivo Account lock</li>
+                        <li><strong>Realme (Realme UI):</strong> D?a tr�n ColorOS, FRP tuong t? Oppo</li>
                     </ul>
                 </div>
 
-                <h3>1.1. Các dấu hiệu bị khóa FRP</h3>
+                <h3>1.1. C�c d?u hi?u b? kh�a FRP</h3>
                 <ul>
-                    <li>Màn hình yêu cầu "Verify your account"</li>
-                    <li>Báo "This device was reset. To continue, sign in..."</li>
-                    <li>Không thể bỏ qua bước đăng nhập Google</li>
-                    <li>Một số máy yêu cầu thêm Oppo/Vivo Account</li>
+                    <li>M�n h�nh y�u c?u "Verify your account"</li>
+                    <li>B�o "This device was reset. To continue, sign in..."</li>
+                    <li>Kh�ng th? b? qua bu?c dang nh?p Google</li>
+                    <li>M?t s? m�y y�u c?u th�m Oppo/Vivo Account</li>
                 </ul>
             </section>
 
             <section id="thiet-bi" class="mt-5">
-                <h2><i class="fas fa-mobile-alt text-success me-2"></i>2. Thiết Bị Hỗ Trợ</h2>
+                <h2><i class="fas fa-mobile-alt text-success me-2"></i>2. Thi?t B? H? Tr?</h2>
 
                 <div class="row">
                     <div class="col-md-4 mb-3">
@@ -223,145 +193,145 @@ $canonical_url = "https://www.unlocktool.us/articles/51-oppo-vivo-frp-bypass.php
             </section>
 
             <section id="phuong-phap" class="mt-5">
-                <h2><i class="fas fa-tools text-success me-2"></i>3. Phương Pháp Bypass FRP</h2>
+                <h2><i class="fas fa-tools text-success me-2"></i>3. Phuong Ph�p Bypass FRP</h2>
 
                 <div class="row">
                     <div class="col-md-6 mb-4">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-laptop-code text-primary me-2"></i>Tool chuyên dụng</h5>
-                            <p>Dùng UnlockTool, Griffin-Unlocker để bypass FRP qua máy tính.</p>
-                            <p><strong>Ưu điểm:</strong> Nhanh, hiệu quả, hỗ trợ nhiều model</p>
-                            <p><strong>Giá:</strong> Thuê 8K/6H</p>
-                            <span class="badge bg-success">Khuyến nghị</span>
+                            <h5><i class="fas fa-laptop-code text-primary me-2"></i>Tool chuy�n d?ng</h5>
+                            <p>D�ng UnlockTool, Griffin-Unlocker d? bypass FRP qua m�y t�nh.</p>
+                            <p><strong>Uu di?m:</strong> Nhanh, hi?u qu?, h? tr? nhi?u model</p>
+                            <p><strong>Gi�:</strong> Thu� 8K/6H</p>
+                            <span class="badge bg-success">Khuy?n ngh?</span>
                         </div>
                     </div>
                     <div class="col-md-6 mb-4">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-keyboard text-info me-2"></i>Test Point / EDL</h5>
-                            <p>Đưa máy vào chế độ EDL (Emergency Download) và bypass.</p>
-                            <p><strong>Ưu điểm:</strong> Xử lý được nhiều trường hợp khó</p>
-                            <p><strong>Nhược điểm:</strong> Cần kỹ thuật, có thể cần tháo máy</p>
+                            <p>�ua m�y v�o ch? d? EDL (Emergency Download) v� bypass.</p>
+                            <p><strong>Uu di?m:</strong> X? l� du?c nhi?u tru?ng h?p kh�</p>
+                            <p><strong>Nhu?c di?m:</strong> C?n k? thu?t, c� th? c?n th�o m�y</p>
                         </div>
                     </div>
                 </div>
             </section>
 
             <section id="huong-dan" class="mt-5">
-                <h2><i class="fas fa-book text-success me-2"></i>4. Hướng Dẫn Bypass FRP Chi Tiết</h2>
+                <h2><i class="fas fa-book text-success me-2"></i>4. Hu?ng D?n Bypass FRP Chi Ti?t</h2>
 
-                <h3>4.1. Chuẩn bị</h3>
+                <h3>4.1. Chu?n b?</h3>
                 <ul>
-                    <li>Máy tính Windows</li>
-                    <li>Cáp USB chất lượng tốt</li>
-                    <li>Tải và cài đặt Qualcomm/MediaTek USB Driver</li>
-                    <li>Thuê tool tại <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a></li>
+                    <li>M�y t�nh Windows</li>
+                    <li>C�p USB ch?t lu?ng t?t</li>
+                    <li>T?i v� c�i d?t Qualcomm/MediaTek USB Driver</li>
+                    <li>Thu� tool t?i <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a></li>
                 </ul>
 
-                <h3>4.2. Các bước thực hiện</h3>
+                <h3>4.2. C�c bu?c th?c hi?n</h3>
                 <ol>
-                    <li>Đăng nhập tool với tài khoản đã thuê</li>
-                    <li>Chọn hãng <strong>Oppo/Vivo/Realme</strong></li>
-                    <li>Kết nối điện thoại với máy tính</li>
-                    <li>Đưa máy vào Download Mode hoặc EDL Mode (tùy model)</li>
-                    <li>Chọn chức năng <strong>FRP Bypass</strong></li>
-                    <li>Chờ tool xử lý (5-15 phút)</li>
-                    <li>Máy khởi động lại, FRP đã được xóa</li>
+                    <li>�ang nh?p tool v?i t�i kho?n d� thu�</li>
+                    <li>Ch?n h�ng <strong>Oppo/Vivo/Realme</strong></li>
+                    <li>K?t n?i di?n tho?i v?i m�y t�nh</li>
+                    <li>�ua m�y v�o Download Mode ho?c EDL Mode (t�y model)</li>
+                    <li>Ch?n ch?c nang <strong>FRP Bypass</strong></li>
+                    <li>Ch? tool x? l� (5-15 ph�t)</li>
+                    <li>M�y kh?i d?ng l?i, FRP d� du?c x�a</li>
                 </ol>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý EDL Mode</h5>
-                    <p class="mb-0">Một số máy Oppo/Vivo cần đưa vào EDL Mode bằng cách tháo lắp và chập Test Point. Nếu không có kinh nghiệm, nên sử dụng dịch vụ kỹ thuật.</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu � EDL Mode</h5>
+                    <p class="mb-0">M?t s? m�y Oppo/Vivo c?n dua v�o EDL Mode b?ng c�ch th�o l?p v� ch?p Test Point. N?u kh�ng c� kinh nghi?m, n�n s? d?ng d?ch v? k? thu?t.</p>
                 </div>
             </section>
 
             <section id="tool" class="mt-5">
-                <h2><i class="fas fa-wrench text-success me-2"></i>5. Các Tool Bypass FRP Oppo/Vivo</h2>
+                <h2><i class="fas fa-wrench text-success me-2"></i>5. C�c Tool Bypass FRP Oppo/Vivo</h2>
 
                 <table class="table table-custom">
                     <thead>
-                        <tr><th>Tool</th><th>Hỗ trợ</th><th>Thuê (6H)</th></tr>
+                        <tr><th>Tool</th><th>H? tr?</th><th>Thu� (6H)</th></tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td><strong>UnlockTool</strong></td>
                             <td>Oppo, Vivo, Realme, Samsung, Xiaomi...</td>
-                            <td class="table-success fw-bold">8.000đ</td>
+                            <td class="table-success fw-bold">8.000d</td>
                         </tr>
                         <tr>
                             <td><strong>Griffin-Unlocker</strong></td>
                             <td>Qualcomm devices (Oppo, Vivo, Realme...)</td>
-                            <td class="table-success fw-bold">8.000đ</td>
+                            <td class="table-success fw-bold">8.000d</td>
                         </tr>
                         <tr>
                             <td><strong>Android Multitool</strong></td>
                             <td>MediaTek, Qualcomm FRP</td>
-                            <td class="table-success fw-bold">8.000đ</td>
+                            <td class="table-success fw-bold">8.000d</td>
                         </tr>
                     </tbody>
                 </table>
             </section>
 
             <section id="dich-vu" class="mt-5">
-                <h2><i class="fas fa-shopping-cart text-success me-2"></i>6. Thuê Tool / Dịch Vụ</h2>
+                <h2><i class="fas fa-shopping-cart text-success me-2"></i>6. Thu� Tool / D?ch V?</h2>
 
                 <div class="row">
                     <div class="col-md-6 mb-4">
                         <div class="price-highlight h-100">
-                            <h4><i class="fas fa-laptop me-2"></i>Tự Làm</h4>
-                            <p class="price">8.000đ/6H</p>
-                            <p>Thuê tool tại UnlockTool.us</p>
-                            <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light">Thuê Ngay</a>
+                            <h4><i class="fas fa-laptop me-2"></i>T? L�m</h4>
+                            <p class="price">8.000d/6H</p>
+                            <p>Thu� tool t?i UnlockTool.us</p>
+                            <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light">Thu� Ngay</a>
                         </div>
                     </div>
                     <div class="col-md-6 mb-4">
                         <div class="service-cta h-100">
-                            <h4><i class="fas fa-headset me-2"></i>Dịch Vụ Kỹ Thuật</h4>
-                            <p class="h3 fw-bold">Từ 50.000đ</p>
-                            <p>Thợ làm hộ - Cam kết thành công</p>
-                            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light">Đặt Dịch Vụ</a>
+                            <h4><i class="fas fa-headset me-2"></i>D?ch V? K? Thu?t</h4>
+                            <p class="h3 fw-bold">T? 50.000d</p>
+                            <p>Th? l�m h? - Cam k?t th�nh c�ng</p>
+                            <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light">�?t D?ch V?</a>
                         </div>
                     </div>
                 </div>
             </section>
 
             <section id="faq" class="mt-5">
-                <h2><i class="fas fa-question-circle text-success me-2"></i>7. Câu Hỏi Thường Gặp</h2>
+                <h2><i class="fas fa-question-circle text-success me-2"></i>7. C�u H?i Thu?ng G?p</h2>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Bypass FRP Oppo có khó không?</span>
+                        <span>Bypass FRP Oppo c� kh� kh�ng?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Oppo (ColorOS) có FRP tương đối dễ bypass bằng tool. Một số model mới có thể cần EDL mode.</p>
+                        <p>Oppo (ColorOS) c� FRP tuong d?i d? bypass b?ng tool. M?t s? model m?i c� th? c?n EDL mode.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Vivo có thêm Vivo Account không?</span>
+                        <span>Vivo c� th�m Vivo Account kh�ng?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Có, một số máy Vivo có thể bị khóa cả Google Account và Vivo Account. Cần xử lý cả hai.</p>
+                        <p>C�, m?t s? m�y Vivo c� th? b? kh�a c? Google Account v� Vivo Account. C?n x? l� c? hai.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                        <span>Giá bypass FRP Oppo/Vivo bao nhiêu?</span>
+                        <span>Gi� bypass FRP Oppo/Vivo bao nhi�u?</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Thuê tool: 8.000đ/6h tại UnlockTool.us. Dịch vụ kỹ thuật: từ 50.000đ tại Thuetaikhoan.net.</p>
+                        <p>Thu� tool: 8.000d/6h t?i UnlockTool.us. D?ch v? k? thu?t: t? 50.000d t?i Thuetaikhoan.net.</p>
                     </div>
                 </div>
             </section>
 
             <section class="mt-5">
-                <h2><i class="fas fa-flag-checkered text-success me-2"></i>Kết Luận</h2>
-                <p>Bypass FRP Oppo, Vivo, Realme có thể thực hiện nhanh chóng với tool phù hợp. Thuê tool chỉ 8.000đ/6h hoặc sử dụng dịch vụ kỹ thuật từ 50.000đ tại Thuetaikhoan.net!</p>
+                <h2><i class="fas fa-flag-checkered text-success me-2"></i>K?t Lu?n</h2>
+                <p>Bypass FRP Oppo, Vivo, Realme c� th? th?c hi?n nhanh ch�ng v?i tool ph� h?p. Thu� tool ch? 8.000d/6h ho?c s? d?ng d?ch v? k? thu?t t? 50.000d t?i Thuetaikhoan.net!</p>
                 
                 <div class="text-center mt-4">
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-oppo btn-lg me-2 mb-2">Thuê Tool 8K/6H</a>
-                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-success btn-lg mb-2">Dịch Vụ Kỹ Thuật</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-oppo btn-lg me-2 mb-2">Thu� Tool 8K/6H</a>
+                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-success btn-lg mb-2">D?ch V? K? Thu?t</a>
                 </div>
             </section>
         </div>
@@ -370,14 +340,14 @@ $canonical_url = "https://www.unlocktool.us/articles/51-oppo-vivo-frp-bypass.php
             <div class="sticky-top" style="top:20px">
                 <div class="price-highlight mb-4">
                     <h5>FRP Oppo/Vivo</h5>
-                    <p class="price">8.000đ/6H</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100">Thuê Ngay</a>
+                    <p class="price">8.000d/6H</p>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100">Thu� Ngay</a>
                 </div>
                 <div class="card">
-                    <div class="card-header bg-success text-white">Dịch Vụ</div>
+                    <div class="card-header bg-success text-white">D?ch V?</div>
                     <div class="card-body">
-                        <p class="h4 fw-bold">Từ 50.000đ</p>
-                        <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-success w-100">Đặt Dịch Vụ</a>
+                        <p class="h4 fw-bold">T? 50.000d</p>
+                        <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-success w-100">�?t D?ch V?</a>
                     </div>
                 </div>
             </div>
@@ -392,7 +362,7 @@ $canonical_url = "https://www.unlocktool.us/articles/51-oppo-vivo-frp-bypass.php
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -406,13 +376,13 @@ $canonical_url = "https://www.unlocktool.us/articles/51-oppo-vivo-frp-bypass.php
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hướng dẫn chi tiết</small>
+                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
                         </div>
                     </div>
                 </div>
@@ -420,15 +390,15 @@ $canonical_url = "https://www.unlocktool.us/articles/51-oppo-vivo-frp-bypass.php
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">Từ iPhone 5s - X</small>
+                            <small class="text-muted">T? iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
-                            <small class="text-muted">Download mới nhất</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
+                            <small class="text-muted">Download m?i nh?t</small>
                         </div>
                     </div>
                 </div>
@@ -441,7 +411,7 @@ $canonical_url = "https://www.unlocktool.us/articles/51-oppo-vivo-frp-bypass.php
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         

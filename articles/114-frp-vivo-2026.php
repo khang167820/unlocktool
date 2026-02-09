@@ -1,6 +1,6 @@
-﻿<?php
-$page_title = "Bypass FRP Vivo 2026 - Hướng Dẫn Chi Tiết Tất Cả Model | UnlockTool";
-$page_description = "Hướng dẫn bypass FRP Vivo mới nhất 2026. Xóa xác minh tài khoản Google trên Vivo Y series, V series, X series. Các phương pháp hiệu quả - Thuê tool 8.000đ/6h";
+<?php
+$page_title = "Bypass FRP Vivo 2026 - Hu?ng D?n Chi Ti?t T?t C? Model | UnlockTool";
+$page_description = "Hu?ng d?n bypass FRP Vivo m?i nh?t 2026. X�a x�c minh t�i kho?n Google tr�n Vivo Y series, V series, X series. C�c phuong ph�p hi?u qu? - Thu� tool 8.000d/6h";
 $page_keywords = "frp vivo, bypass frp vivo, xoa frp vivo, vivo google account bypass, frp vivo y12, frp vivo y15, frp vivo v21";
 $canonical_url = "https://www.unlocktool.us/articles/114-frp-vivo-2026.php";
 ?>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/114-frp-vivo-2026.php";
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/114-frp-vivo-2026.php";
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hướng dẫn kỹ thuật">
+    <meta property="article:section" content="Hu?ng d?n k? thu?t">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="Mở khóa điện thoại">
+    <meta property="article:tag" content="M? kh�a di?n tho?i">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -50,17 +50,17 @@ $canonical_url = "https://www.unlocktool.us/articles/114-frp-vivo-2026.php";
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"HowTo","name":"Bypass FRP Vivo","description":"Hướng dẫn bypass FRP trên điện thoại Vivo","step":[
-        {"@type":"HowToStep","name":"Chuẩn bị","text":"Tải UnlockTool và driver Vivo"},
-        {"@type":"HowToStep","name":"Vào chế độ phù hợp","text":"EDL mode hoặc Fastboot mode"},
-        {"@type":"HowToStep","name":"Kết nối và bypass","text":"Mở UnlockTool, chọn FRP Bypass"}
+    {"@context":"https://schema.org","@type":"HowTo","name":"Bypass FRP Vivo","description":"Hu?ng d?n bypass FRP tr�n di?n tho?i Vivo","step":[
+        {"@type":"HowToStep","name":"Chu?n b?","text":"T?i UnlockTool v� driver Vivo"},
+        {"@type":"HowToStep","name":"V�o ch? d? ph� h?p","text":"EDL mode ho?c Fastboot mode"},
+        {"@type":"HowToStep","name":"K?t n?i v� bypass","text":"M? UnlockTool, ch?n FRP Bypass"}
     ]}
     </script>
     
@@ -114,44 +114,14 @@ $canonical_url = "https://www.unlocktool.us/articles/114-frp-vivo-2026.php";
         }
     }
     </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Dịch vụ mở khóa điện thoại",
-        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.7",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "75"
-        }
-    }
-    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -161,10 +131,10 @@ $canonical_url = "https://www.unlocktool.us/articles/114-frp-vivo-2026.php";
         <div class="row align-items-center">
             <div class="col-lg-8">
                 <h1><i class="fas fa-unlock-alt me-3"></i><?php echo $page_title; ?></h1>
-                <p class="lead mb-4">Hướng dẫn chi tiết bypass FRP (Factory Reset Protection) trên tất cả điện thoại Vivo. Cập nhật mới nhất 2026!</p>
+                <p class="lead mb-4">Hu?ng d?n chi ti?t bypass FRP (Factory Reset Protection) tr�n t?t c? di?n tho?i Vivo. C?p nh?t m?i nh?t 2026!</p>
                 <div class="d-flex flex-wrap gap-3">
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê UnlockTool 8K/6H</a>
-                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>Hỗ Trợ Kỹ Thuật</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thu� UnlockTool 8K/6H</a>
+                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>H? Tr? K? Thu?t</a>
                 </div>
             </div>
             <div class="col-lg-4 text-center mt-4 mt-lg-0">
@@ -180,46 +150,46 @@ $canonical_url = "https://www.unlocktool.us/articles/114-frp-vivo-2026.php";
         <div class="col-lg-8">
             
             <div class="toc-box">
-                <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
+                <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
                 <ul class="list-unstyled">
-                    <li><a href="#frp-vivo">1. FRP trên Vivo là gì?</a></li>
-                    <li><a href="#model-ho-tro">2. Model Vivo hỗ trợ</a></li>
-                    <li><a href="#chuan-bi">3. Chuẩn bị</a></li>
-                    <li><a href="#phuong-phap-unlocktool">4. Bypass bằng UnlockTool</a></li>
-                    <li><a href="#phuong-phap-adb">5. Bypass bằng ADB</a></li>
-                    <li><a href="#loi-thuong-gap">6. Lỗi thường gặp</a></li>
+                    <li><a href="#frp-vivo">1. FRP tr�n Vivo l� g�?</a></li>
+                    <li><a href="#model-ho-tro">2. Model Vivo h? tr?</a></li>
+                    <li><a href="#chuan-bi">3. Chu?n b?</a></li>
+                    <li><a href="#phuong-phap-unlocktool">4. Bypass b?ng UnlockTool</a></li>
+                    <li><a href="#phuong-phap-adb">5. Bypass b?ng ADB</a></li>
+                    <li><a href="#loi-thuong-gap">6. L?i thu?ng g?p</a></li>
                     <li><a href="#faq">7. FAQ</a></li>
                 </ul>
             </div>
 
             <section id="frp-vivo">
-                <h2><i class="fas fa-info-circle me-2"></i>1. FRP Trên Vivo Là Gì?</h2>
+                <h2><i class="fas fa-info-circle me-2"></i>1. FRP Tr�n Vivo L� G�?</h2>
                 
-                <p><strong>Factory Reset Protection (FRP)</strong> là tính năng bảo mật của Google trên Android. Khi reset máy Vivo, hệ thống sẽ yêu cầu đăng nhập tài khoản Google đã liên kết trước đó.</p>
+                <p><strong>Factory Reset Protection (FRP)</strong> l� t�nh nang b?o m?t c?a Google tr�n Android. Khi reset m�y Vivo, h? th?ng s? y�u c?u dang nh?p t�i kho?n Google d� li�n k?t tru?c d�.</p>
 
-                <h3>Vì sao cần bypass FRP Vivo?</h3>
+                <h3>V� sao c?n bypass FRP Vivo?</h3>
                 <ul>
-                    <li><strong>Quên tài khoản:</strong> Không nhớ email/password</li>
-                    <li><strong>Mua máy cũ:</strong> Người bán quên đăng xuất</li>
-                    <li><strong>Sửa chữa:</strong> Khách mang máy đến không có tài khoản</li>
+                    <li><strong>Qu�n t�i kho?n:</strong> Kh�ng nh? email/password</li>
+                    <li><strong>Mua m�y cu:</strong> Ngu?i b�n qu�n dang xu?t</li>
+                    <li><strong>S?a ch?a:</strong> Kh�ch mang m�y d?n kh�ng c� t�i kho?n</li>
                 </ul>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-info-circle me-2"></i>Đặc điểm Vivo</h5>
-                    <p class="mb-0">Vivo sử dụng chip MediaTek (MTK) hoặc Qualcomm. Việc bypass FRP phụ thuộc vào loại chip và phiên bản Android.</p>
+                    <h5><i class="fas fa-info-circle me-2"></i>�?c di?m Vivo</h5>
+                    <p class="mb-0">Vivo s? d?ng chip MediaTek (MTK) ho?c Qualcomm. Vi?c bypass FRP ph? thu?c v�o lo?i chip v� phi�n b?n Android.</p>
                 </div>
             </section>
 
             <section id="model-ho-tro">
-                <h2><i class="fas fa-mobile-alt me-2"></i>2. Model Vivo Hỗ Trợ</h2>
+                <h2><i class="fas fa-mobile-alt me-2"></i>2. Model Vivo H? Tr?</h2>
                 
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Dòng máy</th>
-                            <th>Model tiêu biểu</th>
+                            <th>D�ng m�y</th>
+                            <th>Model ti�u bi?u</th>
                             <th>Chip</th>
-                            <th>Hỗ trợ</th>
+                            <th>H? tr?</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -227,127 +197,127 @@ $canonical_url = "https://www.unlocktool.us/articles/114-frp-vivo-2026.php";
                             <td><strong>Vivo Y Series</strong></td>
                             <td>Y12, Y15, Y17, Y20, Y21, Y33, Y35, Y36</td>
                             <td>MTK/Qualcomm</td>
-                            <td class="text-success">Tốt</td>
+                            <td class="text-success">T?t</td>
                         </tr>
                         <tr>
                             <td><strong>Vivo V Series</strong></td>
                             <td>V17, V19, V20, V21, V23, V25, V27, V29</td>
                             <td>MTK/Qualcomm</td>
-                            <td class="text-success">Tốt</td>
+                            <td class="text-success">T?t</td>
                         </tr>
                         <tr>
                             <td><strong>Vivo X Series</strong></td>
                             <td>X50, X60, X70, X80, X90</td>
                             <td>Qualcomm</td>
-                            <td class="text-success">Tốt</td>
+                            <td class="text-success">T?t</td>
                         </tr>
                         <tr>
                             <td><strong>Vivo S Series</strong></td>
                             <td>S1, S5, S6, S7, S10, S12, S15</td>
                             <td>MTK/Qualcomm</td>
-                            <td class="text-success">Tốt</td>
+                            <td class="text-success">T?t</td>
                         </tr>
                     </tbody>
                 </table>
             </section>
 
             <section id="chuan-bi">
-                <h2><i class="fas fa-tools me-2"></i>3. Chuẩn Bị</h2>
+                <h2><i class="fas fa-tools me-2"></i>3. Chu?n B?</h2>
                 
                 <ul>
-                    <li><strong>Máy tính:</strong> Windows 10/11</li>
-                    <li><strong>Driver:</strong> MTK Driver hoặc Qualcomm Driver (tùy chip)</li>
-                    <li><strong>UnlockTool:</strong> <a href="https://file.unlocktool.net/page/index.php" target="_blank">Tải tại đây</a></li>
-                    <li><strong>Cáp USB:</strong> Cáp chính hãng hoặc chất lượng tốt</li>
+                    <li><strong>M�y t�nh:</strong> Windows 10/11</li>
+                    <li><strong>Driver:</strong> MTK Driver ho?c Qualcomm Driver (t�y chip)</li>
+                    <li><strong>UnlockTool:</strong> <a href="https://file.unlocktool.net/page/index.php" target="_blank">T?i t?i d�y</a></li>
+                    <li><strong>C�p USB:</strong> C�p ch�nh h�ng ho?c ch?t lu?ng t?t</li>
                 </ul>
 
-                <h3>Cách vào EDL Mode Vivo:</h3>
+                <h3>C�ch v�o EDL Mode Vivo:</h3>
                 <ol>
-                    <li>Tắt hoàn toàn điện thoại</li>
-                    <li>Nhấn giữ cả hai phím Volume (Vol Up + Vol Down)</li>
-                    <li>Trong khi giữ, cắm cáp USB vào máy tính</li>
-                    <li>Device Manager sẽ hiện "Qualcomm HS-USB QDLoader 9008"</li>
+                    <li>T?t ho�n to�n di?n tho?i</li>
+                    <li>Nh?n gi? c? hai ph�m Volume (Vol Up + Vol Down)</li>
+                    <li>Trong khi gi?, c?m c�p USB v�o m�y t�nh</li>
+                    <li>Device Manager s? hi?n "Qualcomm HS-USB QDLoader 9008"</li>
                 </ol>
             </section>
 
             <section id="phuong-phap-unlocktool">
-                <h2><i class="fas fa-star me-2"></i>4. Bypass Bằng UnlockTool (Khuyên Dùng)</h2>
+                <h2><i class="fas fa-star me-2"></i>4. Bypass B?ng UnlockTool (Khuy�n D�ng)</h2>
                 
                 <div class="step-box">
                     <span class="step-number">1</span>
-                    <h5>Thuê tài khoản UnlockTool</h5>
-                    <p class="mb-0">Truy cập <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a> → Thuê gói 8.000đ/6 tiếng</p>
+                    <h5>Thu� t�i kho?n UnlockTool</h5>
+                    <p class="mb-0">Truy c?p <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a> ? Thu� g�i 8.000d/6 ti?ng</p>
                 </div>
 
                 <div class="step-box">
                     <span class="step-number">2</span>
-                    <h5>Cài driver</h5>
-                    <p class="mb-0">Cài MTK Driver (Vivo chip MTK) hoặc Qualcomm Driver (Vivo chip Qualcomm)</p>
+                    <h5>C�i driver</h5>
+                    <p class="mb-0">C�i MTK Driver (Vivo chip MTK) ho?c Qualcomm Driver (Vivo chip Qualcomm)</p>
                 </div>
 
                 <div class="step-box">
                     <span class="step-number">3</span>
-                    <h5>Đưa Vivo vào chế độ phù hợp</h5>
-                    <p class="mb-0">EDL Mode (Qualcomm) hoặc BROM Mode (MTK)</p>
+                    <h5>�ua Vivo v�o ch? d? ph� h?p</h5>
+                    <p class="mb-0">EDL Mode (Qualcomm) ho?c BROM Mode (MTK)</p>
                 </div>
 
                 <div class="step-box">
                     <span class="step-number">4</span>
-                    <h5>Mở UnlockTool</h5>
-                    <p class="mb-0">Chạy UnlockTool → Đăng nhập → Tab Vivo/MTK/Qualcomm (tùy chip)</p>
+                    <h5>M? UnlockTool</h5>
+                    <p class="mb-0">Ch?y UnlockTool ? �ang nh?p ? Tab Vivo/MTK/Qualcomm (t�y chip)</p>
                 </div>
 
                 <div class="step-box">
                     <span class="step-number">5</span>
-                    <h5>Chọn FRP Bypass</h5>
-                    <p class="mb-0">Chọn model máy → Click "FRP Bypass" → Chờ hoàn tất</p>
+                    <h5>Ch?n FRP Bypass</h5>
+                    <p class="mb-0">Ch?n model m�y ? Click "FRP Bypass" ? Ch? ho�n t?t</p>
                 </div>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-check-circle me-2"></i>Hoàn tất!</h5>
-                    <p class="mb-0">Vivo sẽ khởi động lại và không yêu cầu tài khoản Google nữa.</p>
+                    <h5><i class="fas fa-check-circle me-2"></i>Ho�n t?t!</h5>
+                    <p class="mb-0">Vivo s? kh?i d?ng l?i v� kh�ng y�u c?u t�i kho?n Google n?a.</p>
                 </div>
             </section>
 
             <section id="phuong-phap-adb">
-                <h2><i class="fas fa-terminal me-2"></i>5. Bypass Bằng ADB</h2>
+                <h2><i class="fas fa-terminal me-2"></i>5. Bypass B?ng ADB</h2>
                 
-                <p>Nếu có thể truy cập Developer Options và bật USB Debugging:</p>
+                <p>N?u c� th? truy c?p Developer Options v� b?t USB Debugging:</p>
 
-                <pre class="bg-dark text-light p-3 rounded"><code># Kết nối điện thoại
+                <pre class="bg-dark text-light p-3 rounded"><code># K?t n?i di?n tho?i
 adb devices
 
-# Xóa FRP
+# X�a FRP
 adb shell content insert --uri content://settings/secure --bind name:s:user_setup_complete --bind value:s:1
 adb shell am start -n com.google.android.gsf.login/
 adb shell am start -n com.google.android.gsf.login.LoginActivity
 
-# Hoặc
+# Ho?c
 adb shell pm disable-user --user 0 com.google.android.gms</code></pre>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý</h5>
-                    <p class="mb-0">Phương pháp ADB yêu cầu USB Debugging đã được bật. Nếu chưa bật, cần sử dụng EDL/BROM mode với UnlockTool.</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu �</h5>
+                    <p class="mb-0">Phuong ph�p ADB y�u c?u USB Debugging d� du?c b?t. N?u chua b?t, c?n s? d?ng EDL/BROM mode v?i UnlockTool.</p>
                 </div>
             </section>
 
             <section id="loi-thuong-gap">
-                <h2><i class="fas fa-bug me-2"></i>6. Lỗi Thường Gặp</h2>
+                <h2><i class="fas fa-bug me-2"></i>6. L?i Thu?ng G?p</h2>
                 
                 <div class="accordion" id="errorAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#err1">
-                                Không vào được EDL Mode
+                                Kh�ng v�o du?c EDL Mode
                             </button>
                         </h2>
                         <div id="err1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
                                 <ul>
-                                    <li>Thử cáp USB khác</li>
-                                    <li>Đổi cổng USB (ưu tiên USB 2.0)</li>
-                                    <li>Nhấn đúng tổ hợp phím</li>
-                                    <li>Một số Vivo cần test point</li>
+                                    <li>Th? c�p USB kh�c</li>
+                                    <li>�?i c?ng USB (uu ti�n USB 2.0)</li>
+                                    <li>Nh?n d�ng t? h?p ph�m</li>
+                                    <li>M?t s? Vivo c?n test point</li>
                                 </ul>
                             </div>
                         </div>
@@ -355,15 +325,15 @@ adb shell pm disable-user --user 0 com.google.android.gms</code></pre>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err2">
-                                FRP vẫn còn sau bypass
+                                FRP v?n c�n sau bypass
                             </button>
                         </h2>
                         <div id="err2" class="accordion-collapse collapse">
                             <div class="accordion-body">
                                 <ul>
-                                    <li>Thử bypass lại</li>
-                                    <li>Thử phương pháp khác (ADB, Factory Reset)</li>
-                                    <li>Liên hệ hỗ trợ <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></li>
+                                    <li>Th? bypass l?i</li>
+                                    <li>Th? phuong ph�p kh�c (ADB, Factory Reset)</li>
+                                    <li>Li�n h? h? tr? <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -378,24 +348,24 @@ adb shell pm disable-user --user 0 com.google.android.gms</code></pre>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
-                                Bypass FRP Vivo có mất dữ liệu không?
+                                Bypass FRP Vivo c� m?t d? li?u kh�ng?
                             </button>
                         </h2>
                         <div id="faq1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
-                                <strong>Có thể.</strong> Một số phương pháp bypass đi kèm factory reset. Nếu máy đang ở màn hình FRP thì cũng không có dữ liệu để mất.
+                                <strong>C� th?.</strong> M?t s? phuong ph�p bypass di k�m factory reset. N?u m�y dang ? m�n h�nh FRP th� cung kh�ng c� d? li?u d? m?t.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
-                                Làm sao biết Vivo dùng chip gì?
+                                L�m sao bi?t Vivo d�ng chip g�?
                             </button>
                         </h2>
                         <div id="faq2" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                Tra cứu model trên Google hoặc trang web Vivo chính thức. Vivo Y series thường dùng MTK, Vivo X series thường dùng Qualcomm.
+                                Tra c?u model tr�n Google ho?c trang web Vivo ch�nh th?c. Vivo Y series thu?ng d�ng MTK, Vivo X series thu?ng d�ng Qualcomm.
                             </div>
                         </div>
                     </div>
@@ -403,11 +373,11 @@ adb shell pm disable-user --user 0 com.google.android.gms</code></pre>
             </section>
 
             <div class="price-highlight">
-                <h4><i class="fas fa-shopping-cart me-2"></i>Thuê UnlockTool Ngay!</h4>
-                <p>Bypass FRP Vivo nhanh chóng - Giá chỉ</p>
-                <p class="price">8.000đ</p>
-                <p class="h4">/ 6 tiếng</p>
-                <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-shopping-cart me-2"></i>Thuê Ngay - UnlockTool.us</a>
+                <h4><i class="fas fa-shopping-cart me-2"></i>Thu� UnlockTool Ngay!</h4>
+                <p>Bypass FRP Vivo nhanh ch�ng - Gi� ch?</p>
+                <p class="price">8.000d</p>
+                <p class="h4">/ 6 ti?ng</p>
+                <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-shopping-cart me-2"></i>Thu� Ngay - UnlockTool.us</a>
             </div>
 
         </div>
@@ -416,15 +386,15 @@ adb shell pm disable-user --user 0 com.google.android.gms</code></pre>
         <div class="col-lg-4">
             <div class="sticky-top" style="top:20px">
                 <div class="price-highlight mb-4">
-                    <h5><i class="fas fa-unlock me-2"></i>Thuê UnlockTool</h5>
-                    <p class="price" style="font-size:2.5rem">8.000đ</p>
-                    <p>/ 6 tiếng</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thuê Ngay</a>
+                    <h5><i class="fas fa-unlock me-2"></i>Thu� UnlockTool</h5>
+                    <p class="price" style="font-size:2.5rem">8.000d</p>
+                    <p>/ 6 ti?ng</p>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thu� Ngay</a>
                 </div>
 
                 <div class="card">
                     <div class="card-header bg-dark text-white">
-                        <i class="fas fa-link me-2"></i>Bài viết liên quan
+                        <i class="fas fa-link me-2"></i>B�i vi?t li�n quan
                     </div>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item"><a href="84-frp-oppo.php">FRP Oppo</a></li>
@@ -444,7 +414,7 @@ adb shell pm disable-user --user 0 com.google.android.gms</code></pre>
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -458,13 +428,13 @@ adb shell pm disable-user --user 0 com.google.android.gms</code></pre>
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hướng dẫn chi tiết</small>
+                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
                         </div>
                     </div>
                 </div>
@@ -472,15 +442,15 @@ adb shell pm disable-user --user 0 com.google.android.gms</code></pre>
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">Từ iPhone 5s - X</small>
+                            <small class="text-muted">T? iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
-                            <small class="text-muted">Download mới nhất</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
+                            <small class="text-muted">Download m?i nh?t</small>
                         </div>
                     </div>
                 </div>
@@ -493,7 +463,7 @@ adb shell pm disable-user --user 0 com.google.android.gms</code></pre>
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -504,10 +474,10 @@ adb shell pm disable-user --user 0 com.google.android.gms</code></pre>
         <div class="row">
             <div class="col-md-6">
                 <h5>UnlockTool.us</h5>
-                <p class="small">Cho thuê tài khoản tool mở khóa điện thoại uy tín nhất Việt Nam.</p>
+                <p class="small">Cho thu� t�i kho?n tool m? kh�a di?n tho?i uy t�n nh?t Vi?t Nam.</p>
             </div>
             <div class="col-md-6 text-md-end">
-                <p class="small mb-1">Dịch vụ: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+                <p class="small mb-1">D?ch v?: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
                 <p class="small">&copy; 2026 UnlockTool.us - All rights reserved.</p>
             </div>
         </div>

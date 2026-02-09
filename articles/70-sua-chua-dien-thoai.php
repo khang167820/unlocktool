@@ -1,6 +1,6 @@
-﻿<?php
-$page_title = "Dịch Vụ Sửa Chữa Điện Thoại 🔧 Phần Mềm - Bypass | 2026";
-$page_description = "🔧 Dịch vụ sửa chữa phần mềm điện thoại: Bypass FRP, iCloud, sửa lỗi bootloop, stuck logo, flash firmware. Hỗ trợ từ xa 24/7.";
+<?php
+$page_title = "D?ch V? S?a Ch?a �i?n Tho?i ?? Ph?n M?m - Bypass | 2026";
+$page_description = "?? D?ch v? s?a ch?a ph?n m?m di?n tho?i: Bypass FRP, iCloud, s?a l?i bootloop, stuck logo, flash firmware. H? tr? t? xa 24/7.";
 $page_keywords = "sua chua dien thoai, sua phan mem dien thoai, fix bootloop, fix stuck logo, dich vu sua dien thoai";
 $canonical_url = "https://www.unlocktool.us/articles/70-sua-chua-dien-thoai.php";
 ?>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/70-sua-chua-dien-thoai.php"
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/70-sua-chua-dien-thoai.php"
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hướng dẫn kỹ thuật">
+    <meta property="article:section" content="Hu?ng d?n k? thu?t">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="Mở khóa điện thoại">
+    <meta property="article:tag" content="M? kh�a di?n tho?i">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -90,52 +90,22 @@ $canonical_url = "https://www.unlocktool.us/articles/70-sua-chua-dien-thoai.php"
         }
     }
     </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Dịch vụ mở khóa điện thoại",
-        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.5",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "110"
-        }
-    }
-    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
 </nav>
 <section class="hero-section">
     <div class="container text-center">
-        <h1><i class="fas fa-wrench me-2"></i>Dịch Vụ Sửa Chữa Điện Thoại</h1>
-        <p class="lead">Phần mềm | Bypass | Flash | Fix lỗi | Từ xa 24/7</p>
+        <h1><i class="fas fa-wrench me-2"></i>D?ch V? S?a Ch?a �i?n Tho?i</h1>
+        <p class="lead">Ph?n m?m | Bypass | Flash | Fix l?i | T? xa 24/7</p>
     </div>
 </section>
 
@@ -144,59 +114,59 @@ $canonical_url = "https://www.unlocktool.us/articles/70-sua-chua-dien-thoai.php"
         
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #0066cc;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>Tác giả:</strong> UnlockTool.us Team</span>
-            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>Cập nhật:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Đọc:</strong> ~5 phút</span>
-            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lượt xem:</strong> <span id="viewCount">1,234</span></span>
+            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>T�c gi?:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>�?c:</strong> ~5 ph�t</span>
+            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> <span id="viewCount">1,234</span></span>
         </div>
-        <h2><i class="fas fa-cogs me-2"></i>Dịch Vụ Phần Mềm</h2>
+        <h2><i class="fas fa-cogs me-2"></i>D?ch V? Ph?n M?m</h2>
         
         <div class="row">
             <div class="col-md-6">
                 <div class="service-card">
                     <h5><i class="fas fa-unlock me-2"></i>Bypass FRP</h5>
-                    <p>Xóa Google Account sau factory reset</p>
-                    <p class="text-success fw-bold">Từ 30.000đ</p>
+                    <p>X�a Google Account sau factory reset</p>
+                    <p class="text-success fw-bold">T? 30.000d</p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="service-card">
                     <h5><i class="fab fa-apple me-2"></i>Bypass iCloud</h5>
-                    <p>Mở khóa Activation Lock iPhone/iPad</p>
-                    <p class="text-success fw-bold">Từ 50.000đ</p>
+                    <p>M? kh�a Activation Lock iPhone/iPad</p>
+                    <p class="text-success fw-bold">T? 50.000d</p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="service-card">
-                    <h5><i class="fas fa-key me-2"></i>Xóa Screen Lock</h5>
-                    <p>Xóa Pattern, PIN, Password, Fingerprint</p>
-                    <p class="text-success fw-bold">Từ 30.000đ</p>
+                    <h5><i class="fas fa-key me-2"></i>X�a Screen Lock</h5>
+                    <p>X�a Pattern, PIN, Password, Fingerprint</p>
+                    <p class="text-success fw-bold">T? 30.000d</p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="service-card">
                     <h5><i class="fas fa-microchip me-2"></i>Flash Firmware</h5>
-                    <p>Cài lại ROM, fix bootloop, stuck logo</p>
-                    <p class="text-success fw-bold">Từ 50.000đ</p>
+                    <p>C�i l?i ROM, fix bootloop, stuck logo</p>
+                    <p class="text-success fw-bold">T? 50.000d</p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="service-card">
-                    <h5><i class="fas fa-barcode me-2"></i>Sửa IMEI</h5>
+                    <h5><i class="fas fa-barcode me-2"></i>S?a IMEI</h5>
                     <p>Repair IMEI Samsung, Xiaomi</p>
-                    <p class="text-success fw-bold">Từ 100.000đ</p>
+                    <p class="text-success fw-bold">T? 100.000d</p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="service-card">
-                    <h5><i class="fas fa-shield-alt me-2"></i>Xóa Knox</h5>
+                    <h5><i class="fas fa-shield-alt me-2"></i>X�a Knox</h5>
                     <p>Remove Knox, MDM Samsung</p>
-                    <p class="text-success fw-bold">Từ 50.000đ</p>
+                    <p class="text-success fw-bold">T? 50.000d</p>
                 </div>
             </div>
         </div>
         
-        <h2><i class="fas fa-mobile-alt me-2"></i>Hãng Hỗ Trợ</h2>
+        <h2><i class="fas fa-mobile-alt me-2"></i>H�ng H? Tr?</h2>
         <ul>
             <li><strong>Samsung:</strong> FRP, Screen Lock, Knox, IMEI, Flash Odin</li>
             <li><strong>Xiaomi:</strong> Mi Account, FRP, Flash EDL</li>
@@ -207,20 +177,20 @@ $canonical_url = "https://www.unlocktool.us/articles/70-sua-chua-dien-thoai.php"
             <li><strong>LG, Motorola, Nokia...</strong></li>
         </ul>
         
-        <h2><i class="fas fa-laptop me-2"></i>Quy Trình Sửa Từ Xa</h2>
+        <h2><i class="fas fa-laptop me-2"></i>Quy Tr�nh S?a T? Xa</h2>
         <ol>
-            <li>Liên hệ báo model và lỗi</li>
-            <li>Nhận báo giá và xác nhận</li>
-            <li>Thanh toán</li>
-            <li>Cài TeamViewer, kỹ thuật viên điều khiển từ xa</li>
-            <li>Hoàn tất, test máy</li>
+            <li>Li�n h? b�o model v� l?i</li>
+            <li>Nh?n b�o gi� v� x�c nh?n</li>
+            <li>Thanh to�n</li>
+            <li>C�i TeamViewer, k? thu?t vi�n di?u khi?n t? xa</li>
+            <li>Ho�n t?t, test m�y</li>
         </ol>
         
         <div class="price-box">
-            <h3><i class="fas fa-wrench me-2"></i>Đặt Dịch Vụ Ngay</h3>
-            <p>Hoàn tiền 100% nếu không sửa được</p>
-            <a href="https://www.unlocktool.us/" class="cta-btn me-2"><i class="fas fa-tools me-2"></i>Thuê Tool 8K</a>
-            <a href="https://thuetaikhoan.net" class="cta-btn"><i class="fas fa-headset me-2"></i>Đặt Dịch Vụ</a>
+            <h3><i class="fas fa-wrench me-2"></i>�?t D?ch V? Ngay</h3>
+            <p>Ho�n ti?n 100% n?u kh�ng s?a du?c</p>
+            <a href="https://www.unlocktool.us/" class="cta-btn me-2"><i class="fas fa-tools me-2"></i>Thu� Tool 8K</a>
+            <a href="https://thuetaikhoan.net" class="cta-btn"><i class="fas fa-headset me-2"></i>�?t D?ch V?</a>
         </div>
         
     </div>
@@ -233,7 +203,7 @@ $canonical_url = "https://www.unlocktool.us/articles/70-sua-chua-dien-thoai.php"
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -247,13 +217,13 @@ $canonical_url = "https://www.unlocktool.us/articles/70-sua-chua-dien-thoai.php"
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hướng dẫn chi tiết</small>
+                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
                         </div>
                     </div>
                 </div>
@@ -261,15 +231,15 @@ $canonical_url = "https://www.unlocktool.us/articles/70-sua-chua-dien-thoai.php"
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">Từ iPhone 5s - X</small>
+                            <small class="text-muted">T? iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
-                            <small class="text-muted">Download mới nhất</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
+                            <small class="text-muted">Download m?i nh?t</small>
                         </div>
                     </div>
                 </div>
@@ -282,7 +252,7 @@ $canonical_url = "https://www.unlocktool.us/articles/70-sua-chua-dien-thoai.php"
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         

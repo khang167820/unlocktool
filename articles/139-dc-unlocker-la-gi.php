@@ -1,6 +1,6 @@
-﻿<?php
-$page_title = "DC Unlocker 📶 Unlock Modem Router Huawei ZTE - Hướng Dẫn 2026";
-$page_description = "📶 DC Unlocker - Tool unlock modem USB, router WiFi di động. Hỗ trợ Huawei, ZTE, Netgear, Sierra. Credits và hướng dẫn sử dụng.";
+<?php
+$page_title = "DC Unlocker ?? Unlock Modem Router Huawei ZTE - Hu?ng D?n 2026";
+$page_description = "?? DC Unlocker - Tool unlock modem USB, router WiFi di d?ng. H? tr? Huawei, ZTE, Netgear, Sierra. Credits v� hu?ng d?n s? d?ng.";
 $page_keywords = "dc unlocker, dc-unlocker, unlock modem, unlock huawei, unlock zte, unlock router, mifi unlock";
 $canonical_url = "https://www.unlocktool.us/articles/139-dc-unlocker-la-gi.php";
 ?>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/139-dc-unlocker-la-gi.php";
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/139-dc-unlocker-la-gi.php";
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hướng dẫn kỹ thuật">
+    <meta property="article:section" content="Hu?ng d?n k? thu?t">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="Mở khóa điện thoại">
+    <meta property="article:tag" content="M? kh�a di?n tho?i">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -50,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/139-dc-unlocker-la-gi.php";
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -61,7 +61,7 @@ $canonical_url = "https://www.unlocktool.us/articles/139-dc-unlocker-la-gi.php";
         "@context": "https://schema.org",
         "@type": "TechArticle",
         "headline": "DC Unlocker - Unlock Modem Router Huawei ZTE - 2026",
-        "description": "Hướng dẫn sử dụng DC-Unlocker để unlock modem và router",
+        "description": "Hu?ng d?n s? d?ng DC-Unlocker d? unlock modem v� router",
         "author": {"@type": "Organization", "name": "UnlockTool.us"},
         "publisher": {"@type": "Organization", "name": "UnlockTool.us"},
         "datePublished": "2024-01-01",
@@ -73,10 +73,10 @@ $canonical_url = "https://www.unlocktool.us/articles/139-dc-unlocker-la-gi.php";
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "DC Unlocker là gì?", "acceptedAnswer": {"@type": "Answer", "text": "DC-Unlocker là phần mềm chuyên unlock modem USB, router WiFi di động của Huawei, ZTE, Netgear, Sierra Wireless."}},
-            {"@type": "Question", "name": "DC Unlocker có unlock iPhone không?", "acceptedAnswer": {"@type": "Answer", "text": "Không. DC-Unlocker chỉ hỗ trợ modem và router. Để unlock iPhone dùng UnlockTool hoặc dịch vụ Thuetaikhoan.net."}},
-            {"@type": "Question", "name": "Giá DC Unlocker bao nhiêu?", "acceptedAnswer": {"@type": "Answer", "text": "DC-Unlocker dùng hệ thống credits. Giá ~ USD/credit. Unlock modem thường tốn 4-20 credits tùy model."}},
-            {"@type": "Question", "name": "Mua credits DC Unlocker ở đâu?", "acceptedAnswer": {"@type": "Answer", "text": "Mua trực tiếp tại dc-unlocker.com hoặc qua đại lý. Hỗ trợ PayPal, Credit Card, Bank Transfer."}}
+            {"@type": "Question", "name": "DC Unlocker l� g�?", "acceptedAnswer": {"@type": "Answer", "text": "DC-Unlocker l� ph?n m?m chuy�n unlock modem USB, router WiFi di d?ng c?a Huawei, ZTE, Netgear, Sierra Wireless."}},
+            {"@type": "Question", "name": "DC Unlocker c� unlock iPhone kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "Kh�ng. DC-Unlocker ch? h? tr? modem v� router. �? unlock iPhone d�ng UnlockTool ho?c d?ch v? Thuetaikhoan.net."}},
+            {"@type": "Question", "name": "Gi� DC Unlocker bao nhi�u?", "acceptedAnswer": {"@type": "Answer", "text": "DC-Unlocker d�ng h? th?ng credits. Gi� ~ USD/credit. Unlock modem thu?ng t?n 4-20 credits t�y model."}},
+            {"@type": "Question", "name": "Mua credits DC Unlocker ? d�u?", "acceptedAnswer": {"@type": "Answer", "text": "Mua tr?c ti?p t?i dc-unlocker.com ho?c qua d?i l�. H? tr? PayPal, Credit Card, Bank Transfer."}}
         ]
     }
     </script>
@@ -118,44 +118,14 @@ $canonical_url = "https://www.unlocktool.us/articles/139-dc-unlocker-la-gi.php";
         }
     }
     </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Dịch vụ mở khóa điện thoại",
-        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.5",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "147"
-        }
-    }
-    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -163,9 +133,9 @@ $canonical_url = "https://www.unlocktool.us/articles/139-dc-unlocker-la-gi.php";
 <section class="hero-section">
     <div class="container text-center">
         <h1><i class="fas fa-wifi me-2"></i>DC Unlocker - Unlock Modem & Router 2026</h1>
-        <p class="lead">Chuyên unlock modem USB, router WiFi di động - Huawei, ZTE, Netgear</p>
+        <p class="lead">Chuy�n unlock modem USB, router WiFi di d?ng - Huawei, ZTE, Netgear</p>
         <div class="mt-4">
-            <a href="https://thuetaikhoan.net" class="cta-btn"><i class="fas fa-headset me-2"></i>Hỗ Trợ Dịch Vụ</a>
+            <a href="https://thuetaikhoan.net" class="cta-btn"><i class="fas fa-headset me-2"></i>H? Tr? D?ch V?</a>
         </div>
     </div>
 </section>
@@ -175,227 +145,227 @@ $canonical_url = "https://www.unlocktool.us/articles/139-dc-unlocker-la-gi.php";
         
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #0066cc;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>Tác giả:</strong> UnlockTool.us Team</span>
-            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>Cập nhật:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Đọc:</strong> ~5 phút</span>
-            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lượt xem:</strong> <span id="viewCount">1,234</span></span>
+            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>T�c gi?:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>�?c:</strong> ~5 ph�t</span>
+            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> <span id="viewCount">1,234</span></span>
         </div>
         <div class="toc">
-            <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
+            <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
             <ul>
-                <li><a href="#dc-unlocker-la-gi">1. DC Unlocker là gì?</a></li>
-                <li><a href="#tinh-nang">2. Tính năng chính</a></li>
-                <li><a href="#thiet-bi">3. Thiết bị hỗ trợ</a></li>
-                <li><a href="#credits">4. Hệ thống credits và giá</a></li>
-                <li><a href="#huong-dan">5. Hướng dẫn sử dụng</a></li>
-                <li><a href="#so-sanh">6. So sánh với các tool khác</a></li>
-                <li><a href="#luu-y">7. Lưu ý quan trọng</a></li>
-                <li><a href="#faq">8. FAQ - Câu hỏi thường gặp</a></li>
+                <li><a href="#dc-unlocker-la-gi">1. DC Unlocker l� g�?</a></li>
+                <li><a href="#tinh-nang">2. T�nh nang ch�nh</a></li>
+                <li><a href="#thiet-bi">3. Thi?t b? h? tr?</a></li>
+                <li><a href="#credits">4. H? th?ng credits v� gi�</a></li>
+                <li><a href="#huong-dan">5. Hu?ng d?n s? d?ng</a></li>
+                <li><a href="#so-sanh">6. So s�nh v?i c�c tool kh�c</a></li>
+                <li><a href="#luu-y">7. Luu � quan tr?ng</a></li>
+                <li><a href="#faq">8. FAQ - C�u h?i thu?ng g?p</a></li>
             </ul>
         </div>
         
-        <h2 id="dc-unlocker-la-gi"><i class="fas fa-info-circle me-2"></i>1. DC Unlocker là gì?</h2>
+        <h2 id="dc-unlocker-la-gi"><i class="fas fa-info-circle me-2"></i>1. DC Unlocker l� g�?</h2>
         
-        <p><strong>DC-Unlocker</strong> là phần mềm chuyên dụng để unlock (mở khóa mạng) cho các thiết bị modem USB, router WiFi di động (MiFi), và một số điện thoại Huawei/ZTE. Tool được phát triển bởi công ty từ châu Âu và đã hoạt động nhiều năm trong lĩnh vực này.</p>
+        <p><strong>DC-Unlocker</strong> l� ph?n m?m chuy�n d?ng d? unlock (m? kh�a m?ng) cho c�c thi?t b? modem USB, router WiFi di d?ng (MiFi), v� m?t s? di?n tho?i Huawei/ZTE. Tool du?c ph�t tri?n b?i c�ng ty t? ch�u �u v� d� ho?t d?ng nhi?u nam trong linh v?c n�y.</p>
         
-        <h3>1.1. Tại sao cần unlock modem/router?</h3>
+        <h3>1.1. T?i sao c?n unlock modem/router?</h3>
         <ul>
-            <li><strong>Đổi nhà mạng:</strong> Modem lock 1 nhà mạng muốn dùng SIM khác</li>
-            <li><strong>Du lịch nước ngoài:</strong> Dùng SIM địa phương thay vì roaming</li>
-            <li><strong>Mua hàng xách tay:</strong> Thiết bị từ nước ngoài thường bị lock</li>
-            <li><strong>Giá trị bán lại:</strong> Thiết bị unlocked có giá cao hơn</li>
+            <li><strong>�?i nh� m?ng:</strong> Modem lock 1 nh� m?ng mu?n d�ng SIM kh�c</li>
+            <li><strong>Du l?ch nu?c ngo�i:</strong> D�ng SIM d?a phuong thay v� roaming</li>
+            <li><strong>Mua h�ng x�ch tay:</strong> Thi?t b? t? nu?c ngo�i thu?ng b? lock</li>
+            <li><strong>Gi� tr? b�n l?i:</strong> Thi?t b? unlocked c� gi� cao hon</li>
         </ul>
         
         <div class="info-box">
-            <h5><i class="fas fa-history me-2"></i>Lịch sử DC-Unlocker:</h5>
-            <p class="mb-0">DC-Unlocker hoạt động từ đầu những năm 2000, là một trong những tool unlock modem lâu đời nhất. Software được cập nhật thường xuyên với model mới.</p>
+            <h5><i class="fas fa-history me-2"></i>L?ch s? DC-Unlocker:</h5>
+            <p class="mb-0">DC-Unlocker ho?t d?ng t? d?u nh?ng nam 2000, l� m?t trong nh?ng tool unlock modem l�u d?i nh?t. Software du?c c?p nh?t thu?ng xuy�n v?i model m?i.</p>
         </div>
         
-        <h2 id="tinh-nang"><i class="fas fa-cogs me-2"></i>2. Tính năng chính</h2>
+        <h2 id="tinh-nang"><i class="fas fa-cogs me-2"></i>2. T�nh nang ch�nh</h2>
         
         <div class="feature-card">
             <h5><i class="fas fa-unlock me-2 text-primary"></i>Direct Unlock</h5>
-            <p>Unlock trực tiếp không cần code, chỉ mất vài giây cho các model được hỗ trợ.</p>
+            <p>Unlock tr?c ti?p kh�ng c?n code, ch? m?t v�i gi�y cho c�c model du?c h? tr?.</p>
         </div>
         
         <div class="feature-card">
             <h5><i class="fas fa-key me-2 text-warning"></i>Code Generation</h5>
-            <p>Tạo unlock code và firmware update code cho các thiết bị còn lại.</p>
+            <p>T?o unlock code v� firmware update code cho c�c thi?t b? c�n l?i.</p>
         </div>
         
         <div class="feature-card">
             <h5><i class="fas fa-phone-volume me-2 text-success"></i>Voice Feature Activation</h5>
-            <p>Kích hoạt tính năng voice (gọi điện) cho một số modem Huawei Qualcomm và Sierra Wireless.</p>
+            <p>K�ch ho?t t�nh nang voice (g?i di?n) cho m?t s? modem Huawei Qualcomm v� Sierra Wireless.</p>
         </div>
         
         <div class="feature-card">
             <h5><i class="fas fa-hdd me-2 text-info"></i>Dashboard Read/Write</h5>
-            <p>Đọc và ghi dashboard cho modem ZTE USB (thường miễn phí).</p>
+            <p>�?c v� ghi dashboard cho modem ZTE USB (thu?ng mi?n ph�).</p>
         </div>
         
         <div class="feature-card">
             <h5><i class="fas fa-search-plus me-2 text-secondary"></i>Auto-Detect</h5>
-            <p>Tự động nhận diện thiết bị kết nối, không cần cáp đặc biệt - chỉ cần USB.</p>
+            <p>T? d?ng nh?n di?n thi?t b? k?t n?i, kh�ng c?n c�p d?c bi?t - ch? c?n USB.</p>
         </div>
         
-        <h2 id="thiet-bi"><i class="fas fa-mobile-alt me-2"></i>3. Thiết bị hỗ trợ</h2>
+        <h2 id="thiet-bi"><i class="fas fa-mobile-alt me-2"></i>3. Thi?t b? h? tr?</h2>
         
-        <h3>3.1. Hỗ trợ tốt nhất</h3>
+        <h3>3.1. H? tr? t?t nh?t</h3>
         <table class="comparison-table">
             <thead>
-                <tr><th>Loại thiết bị</th><th>Hãng</th><th>Ví dụ model</th></tr>
+                <tr><th>Lo?i thi?t b?</th><th>H�ng</th><th>V� d? model</th></tr>
             </thead>
             <tbody>
                 <tr><td><strong>Modem USB 3G/4G</strong></td><td>Huawei</td><td>E303, E3372, E3531, E8372</td></tr>
                 <tr><td><strong>Modem USB 4G/5G</strong></td><td>ZTE</td><td>MF79U, MF833V, MF920</td></tr>
-                <tr><td><strong>Router WiFi di động</strong></td><td>Huawei</td><td>E5577, E5785, E5788, E5886</td></tr>
-                <tr><td><strong>Router WiFi di động</strong></td><td>ZTE</td><td>MF910, MF923, MF971V</td></tr>
-                <tr><td><strong>Router WiFi di động</strong></td><td>Netgear</td><td>Aircard 753S, 760S, 782S</td></tr>
+                <tr><td><strong>Router WiFi di d?ng</strong></td><td>Huawei</td><td>E5577, E5785, E5788, E5886</td></tr>
+                <tr><td><strong>Router WiFi di d?ng</strong></td><td>ZTE</td><td>MF910, MF923, MF971V</td></tr>
+                <tr><td><strong>Router WiFi di d?ng</strong></td><td>Netgear</td><td>Aircard 753S, 760S, 782S</td></tr>
                 <tr><td><strong>Modem Sierra</strong></td><td>Sierra Wireless</td><td>AirCard 312U, 313U, 320U</td></tr>
             </tbody>
         </table>
         
-        <h3>3.2. Hỗ trợ hạn chế</h3>
+        <h3>3.2. H? tr? h?n ch?</h3>
         <table class="comparison-table">
             <thead>
-                <tr><th>Loại</th><th>Hãng</th><th>Ghi chú</th></tr>
+                <tr><th>Lo?i</th><th>H�ng</th><th>Ghi ch�</th></tr>
             </thead>
             <tbody>
-                <tr><td>Điện thoại</td><td>Huawei/Honor</td><td>Chỉ một số model cũ</td></tr>
-                <tr><td>Điện thoại</td><td>ZTE</td><td>Rất hạn chế</td></tr>
+                <tr><td>�i?n tho?i</td><td>Huawei/Honor</td><td>Ch? m?t s? model cu</td></tr>
+                <tr><td>�i?n tho?i</td><td>ZTE</td><td>R?t h?n ch?</td></tr>
             </tbody>
         </table>
         
         <div class="warning-box">
-            <h5><i class="fas fa-ban me-2"></i>KHÔNG hỗ trợ:</h5>
+            <h5><i class="fas fa-ban me-2"></i>KH�NG h? tr?:</h5>
             <ul class="mb-0">
-                <li><strong>iPhone:</strong> Không unlock, không bypass iCloud</li>
-                <li><strong>Samsung:</strong> Không unlock, không bypass FRP</li>
-                <li><strong>Xiaomi:</strong> Không hỗ trợ</li>
-                <li><strong>Oppo/Vivo/Realme:</strong> Không hỗ trợ</li>
+                <li><strong>iPhone:</strong> Kh�ng unlock, kh�ng bypass iCloud</li>
+                <li><strong>Samsung:</strong> Kh�ng unlock, kh�ng bypass FRP</li>
+                <li><strong>Xiaomi:</strong> Kh�ng h? tr?</li>
+                <li><strong>Oppo/Vivo/Realme:</strong> Kh�ng h? tr?</li>
             </ul>
         </div>
         
-        <h2 id="credits"><i class="fas fa-coins me-2"></i>4. Hệ thống Credits và giá</h2>
+        <h2 id="credits"><i class="fas fa-coins me-2"></i>4. H? th?ng Credits v� gi�</h2>
         
-        <p>DC-Unlocker hoạt động theo hệ thống <strong>credits</strong> (tín dụng). Mỗi thao tác tiêu tốn một lượng credits nhất định.</p>
+        <p>DC-Unlocker ho?t d?ng theo h? th?ng <strong>credits</strong> (t�n d?ng). M?i thao t�c ti�u t?n m?t lu?ng credits nh?t d?nh.</p>
         
-        <h3>4.1. Bảng giá credits</h3>
+        <h3>4.1. B?ng gi� credits</h3>
         <table class="comparison-table">
             <thead>
-                <tr><th>Thao tác</th><th>Credits cần</th><th>Giá ước tính (USD)</th></tr>
+                <tr><th>Thao t�c</th><th>Credits c?n</th><th>Gi� u?c t�nh (USD)</th></tr>
             </thead>
             <tbody>
-                <tr><td>Unlock modem USB đơn giản</td><td>4-7 credits</td><td>-7</td></tr>
-                <tr><td>Unlock modem USB khó</td><td>10-20 credits</td><td>-20</td></tr>
+                <tr><td>Unlock modem USB don gi?n</td><td>4-7 credits</td><td>-7</td></tr>
+                <tr><td>Unlock modem USB kh�</td><td>10-20 credits</td><td>-20</td></tr>
                 <tr><td>Unlock router WiFi</td><td>7-15 credits</td><td>-15</td></tr>
-                <tr><td>Unlock điện thoại Huawei</td><td>15-50 credits</td><td>-50</td></tr>
-                <tr><td>Kích hoạt voice</td><td>10-20 credits</td><td>-20</td></tr>
+                <tr><td>Unlock di?n tho?i Huawei</td><td>15-50 credits</td><td>-50</td></tr>
+                <tr><td>K�ch ho?t voice</td><td>10-20 credits</td><td>-20</td></tr>
             </tbody>
         </table>
         
         <h3>4.2. Mua credits</h3>
         <ul>
-            <li><strong>Website chính:</strong> dc-unlocker.com</li>
-            <li><strong>Thanh toán:</strong> PayPal, Credit Card, Bank Transfer, Bitcoin</li>
-            <li><strong>Giá:</strong> ~ USD/credit (mua nhiều có giảm giá)</li>
-            <li><strong>Update miễn phí:</strong> 1 năm sau khi mua</li>
+            <li><strong>Website ch�nh:</strong> dc-unlocker.com</li>
+            <li><strong>Thanh to�n:</strong> PayPal, Credit Card, Bank Transfer, Bitcoin</li>
+            <li><strong>Gi�:</strong> ~ USD/credit (mua nhi?u c� gi?m gi�)</li>
+            <li><strong>Update mi?n ph�:</strong> 1 nam sau khi mua</li>
         </ul>
         
-        <h2 id="huong-dan"><i class="fas fa-play-circle me-2"></i>5. Hướng dẫn sử dụng</h2>
+        <h2 id="huong-dan"><i class="fas fa-play-circle me-2"></i>5. Hu?ng d?n s? d?ng</h2>
         
-        <h3>5.1. Chuẩn bị</h3>
+        <h3>5.1. Chu?n b?</h3>
         <ol>
-            <li>Tải DC-Unlocker Client từ dc-unlocker.com</li>
-            <li>Cài đặt driver cho modem/router</li>
-            <li>Chuẩn bị credits hoặc dongle DC-Unlocker</li>
+            <li>T?i DC-Unlocker Client t? dc-unlocker.com</li>
+            <li>C�i d?t driver cho modem/router</li>
+            <li>Chu?n b? credits ho?c dongle DC-Unlocker</li>
         </ol>
         
         <h3>5.2. Unlock modem</h3>
         <ol>
-            <li>Kết nối modem/router bằng cáp USB</li>
-            <li>Mở DC-Unlocker Client</li>
-            <li>Click "Detect Device" - Tool tự nhận thiết bị</li>
-            <li>Kiểm tra thông tin: Model, IMEI, Lock status</li>
-            <li>Click "Unlock" hoặc "Read Unlock Code"</li>
-            <li>Đợi hoàn tất - thường chỉ mất vài giây</li>
+            <li>K?t n?i modem/router b?ng c�p USB</li>
+            <li>M? DC-Unlocker Client</li>
+            <li>Click "Detect Device" - Tool t? nh?n thi?t b?</li>
+            <li>Ki?m tra th�ng tin: Model, IMEI, Lock status</li>
+            <li>Click "Unlock" ho?c "Read Unlock Code"</li>
+            <li>�?i ho�n t?t - thu?ng ch? m?t v�i gi�y</li>
         </ol>
         
         <div class="tip-box">
-            <h5><i class="fas fa-lightbulb me-2"></i>Mẹo tiết kiệm credits:</h5>
-            <p class="mb-0">Trước khi unlock, sử dụng tính năng "Check Status" (thường free) để đảm bảo thiết bị được hỗ trợ và biết cần bao nhiêu credits.</p>
+            <h5><i class="fas fa-lightbulb me-2"></i>M?o ti?t ki?m credits:</h5>
+            <p class="mb-0">Tru?c khi unlock, s? d?ng t�nh nang "Check Status" (thu?ng free) d? d?m b?o thi?t b? du?c h? tr? v� bi?t c?n bao nhi�u credits.</p>
         </div>
         
-        <h2 id="so-sanh"><i class="fas fa-balance-scale me-2"></i>6. So sánh với các tool khác</h2>
+        <h2 id="so-sanh"><i class="fas fa-balance-scale me-2"></i>6. So s�nh v?i c�c tool kh�c</h2>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Tiêu chí</th><th>DC-Unlocker</th><th>UnlockTool</th><th>EFT Pro</th></tr>
+                <tr><th>Ti�u ch�</th><th>DC-Unlocker</th><th>UnlockTool</th><th>EFT Pro</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>Chuyên môn</strong></td><td>Modem, Router</td><td>Điện thoại</td><td>Huawei/Samsung</td></tr>
-                <tr><td><strong>iPhone</strong></td><td class="text-danger">❌</td><td class="text-success">✅</td><td class="text-danger">❌</td></tr>
-                <tr><td><strong>Samsung FRP</strong></td><td class="text-danger">❌</td><td class="text-success">✅</td><td class="text-success">✅</td></tr>
-                <tr><td><strong>Modem USB</strong></td><td class="text-success">✅ Rất tốt</td><td class="text-danger">❌</td><td class="text-danger">❌</td></tr>
-                <tr><td><strong>Router WiFi</strong></td><td class="text-success">✅ Rất tốt</td><td class="text-danger">❌</td><td class="text-danger">❌</td></tr>
-                <tr><td><strong>Giá thuê</strong></td><td>Mua credits</td><td>8K/6h</td><td>Mua license</td></tr>
+                <tr><td><strong>Chuy�n m�n</strong></td><td>Modem, Router</td><td>�i?n tho?i</td><td>Huawei/Samsung</td></tr>
+                <tr><td><strong>iPhone</strong></td><td class="text-danger">?</td><td class="text-success">?</td><td class="text-danger">?</td></tr>
+                <tr><td><strong>Samsung FRP</strong></td><td class="text-danger">?</td><td class="text-success">?</td><td class="text-success">?</td></tr>
+                <tr><td><strong>Modem USB</strong></td><td class="text-success">? R?t t?t</td><td class="text-danger">?</td><td class="text-danger">?</td></tr>
+                <tr><td><strong>Router WiFi</strong></td><td class="text-success">? R?t t?t</td><td class="text-danger">?</td><td class="text-danger">?</td></tr>
+                <tr><td><strong>Gi� thu�</strong></td><td>Mua credits</td><td>8K/6h</td><td>Mua license</td></tr>
             </tbody>
         </table>
         
-        <h2 id="luu-y"><i class="fas fa-exclamation-circle me-2"></i>7. Lưu ý quan trọng</h2>
+        <h2 id="luu-y"><i class="fas fa-exclamation-circle me-2"></i>7. Luu � quan tr?ng</h2>
         
         <div class="warning-box">
-            <h5><i class="fas fa-exclamation-triangle me-2"></i>Trước khi dùng DC-Unlocker:</h5>
+            <h5><i class="fas fa-exclamation-triangle me-2"></i>Tru?c khi d�ng DC-Unlocker:</h5>
             <ul class="mb-0">
-                <li><strong>Kiểm tra hỗ trợ:</strong> Không phải mọi modem/router đều được hỗ trợ</li>
-                <li><strong>Credits không hoàn:</strong> Đã dùng credits không thể hoàn lại</li>
-                <li><strong>Firmware mới:</strong> Một số firmware mới có thể chưa được hỗ trợ</li>
-                <li><strong>Điện thoại:</strong> Hỗ trợ điện thoại rất hạn chế - chỉ Huawei/ZTE cũ</li>
+                <li><strong>Ki?m tra h? tr?:</strong> Kh�ng ph?i m?i modem/router d?u du?c h? tr?</li>
+                <li><strong>Credits kh�ng ho�n:</strong> �� d�ng credits kh�ng th? ho�n l?i</li>
+                <li><strong>Firmware m?i:</strong> M?t s? firmware m?i c� th? chua du?c h? tr?</li>
+                <li><strong>�i?n tho?i:</strong> H? tr? di?n tho?i r?t h?n ch? - ch? Huawei/ZTE cu</li>
             </ul>
         </div>
         
         <div class="info-box">
-            <h5><i class="fas fa-info me-2"></i>Cần unlock điện thoại?</h5>
-            <p class="mb-0">DC-Unlocker không phải lựa chọn tốt cho điện thoại. Sử dụng <strong>UnlockTool</strong> (8K/6h) cho iPhone, Samsung, Xiaomi hoặc liên hệ <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>.</p>
+            <h5><i class="fas fa-info me-2"></i>C?n unlock di?n tho?i?</h5>
+            <p class="mb-0">DC-Unlocker kh�ng ph?i l?a ch?n t?t cho di?n tho?i. S? d?ng <strong>UnlockTool</strong> (8K/6h) cho iPhone, Samsung, Xiaomi ho?c li�n h? <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>.</p>
         </div>
         
-        <h2 id="faq"><i class="fas fa-comments me-2"></i>8. FAQ - Câu hỏi thường gặp</h2>
+        <h2 id="faq"><i class="fas fa-comments me-2"></i>8. FAQ - C�u h?i thu?ng g?p</h2>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>DC-Unlocker có unlock iPhone được không?</h5>
-            <p><strong>Không.</strong> DC-Unlocker không hỗ trợ iPhone. Để bypass iCloud hoặc unlock network iPhone, sử dụng UnlockTool hoặc dịch vụ tại Thuetaikhoan.net.</p>
-        </div>
-        
-        <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>DC-Unlocker có bypass FRP Samsung không?</h5>
-            <p><strong>Không.</strong> DC-Unlocker không hỗ trợ Samsung. Dùng UnlockTool để bypass FRP Samsung.</p>
+            <h5><i class="fas fa-question me-2"></i>DC-Unlocker c� unlock iPhone du?c kh�ng?</h5>
+            <p><strong>Kh�ng.</strong> DC-Unlocker kh�ng h? tr? iPhone. �? bypass iCloud ho?c unlock network iPhone, s? d?ng UnlockTool ho?c d?ch v? t?i Thuetaikhoan.net.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Mua credits DC-Unlocker ở đâu?</h5>
-            <p>Mua trực tiếp tại <strong>dc-unlocker.com</strong> hoặc qua các đại lý chính thức. Hỗ trợ nhiều phương thức thanh toán.</p>
+            <h5><i class="fas fa-question me-2"></i>DC-Unlocker c� bypass FRP Samsung kh�ng?</h5>
+            <p><strong>Kh�ng.</strong> DC-Unlocker kh�ng h? tr? Samsung. D�ng UnlockTool d? bypass FRP Samsung.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Modem của tôi có được hỗ trợ không?</h5>
-            <p>Kiểm tra danh sách thiết bị hỗ trợ tại dc-unlocker.com, hoặc dùng phần mềm client để detect thiết bị (miễn phí).</p>
+            <h5><i class="fas fa-question me-2"></i>Mua credits DC-Unlocker ? d�u?</h5>
+            <p>Mua tr?c ti?p t?i <strong>dc-unlocker.com</strong> ho?c qua c�c d?i l� ch�nh th?c. H? tr? nhi?u phuong th?c thanh to�n.</p>
+        </div>
+        
+        <div class="faq-item">
+            <h5><i class="fas fa-question me-2"></i>Modem c?a t�i c� du?c h? tr? kh�ng?</h5>
+            <p>Ki?m tra danh s�ch thi?t b? h? tr? t?i dc-unlocker.com, ho?c d�ng ph?n m?m client d? detect thi?t b? (mi?n ph�).</p>
         </div>
         
         <div class="price-box">
-            <h3><i class="fas fa-mobile-alt me-2"></i>Cần Unlock Điện Thoại?</h3>
-            <p>DC-Unlocker không hỗ trợ. Thuê UnlockTool để unlock iPhone, Samsung, Xiaomi</p>
-            <p class="display-5 fw-bold">8.000đ / 6H</p>
-            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg me-2"><i class="fas fa-bolt me-2"></i>Thuê UnlockTool</a>
-            <a href="https://thuetaikhoan.net" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>Dịch Vụ</a>
+            <h3><i class="fas fa-mobile-alt me-2"></i>C?n Unlock �i?n Tho?i?</h3>
+            <p>DC-Unlocker kh�ng h? tr?. Thu� UnlockTool d? unlock iPhone, Samsung, Xiaomi</p>
+            <p class="display-5 fw-bold">8.000d / 6H</p>
+            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg me-2"><i class="fas fa-bolt me-2"></i>Thu� UnlockTool</a>
+            <a href="https://thuetaikhoan.net" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>D?ch V?</a>
         </div>
         
-        <h2><i class="fas fa-link me-2"></i>Bài viết liên quan</h2>
+        <h2><i class="fas fa-link me-2"></i>B�i vi?t li�n quan</h2>
         <ul>
             <li><a href="55-eft-pro-tool.php">EFT Pro Tool - Huawei/Samsung</a></li>
             <li><a href="140-miracle-box-la-gi.php">Miracle Box - Multi-brand tool</a></li>
             <li><a href="143-hydra-tool-la-gi.php">Hydra Tool - Qualcomm FRP</a></li>
             <li><a href="44-tsm-tool-huong-dan.php">TSM Tool - Universal FRP</a></li>
-            <li><a href="1-unlocktool-la-gi.php">UnlockTool là gì?</a></li>
+            <li><a href="1-unlocktool-la-gi.php">UnlockTool l� g�?</a></li>
         </ul>
         
     </div>
@@ -408,7 +378,7 @@ $canonical_url = "https://www.unlocktool.us/articles/139-dc-unlocker-la-gi.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -422,13 +392,13 @@ $canonical_url = "https://www.unlocktool.us/articles/139-dc-unlocker-la-gi.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hướng dẫn chi tiết</small>
+                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
                         </div>
                     </div>
                 </div>
@@ -436,15 +406,15 @@ $canonical_url = "https://www.unlocktool.us/articles/139-dc-unlocker-la-gi.php";
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">Từ iPhone 5s - X</small>
+                            <small class="text-muted">T? iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
-                            <small class="text-muted">Download mới nhất</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
+                            <small class="text-muted">Download m?i nh?t</small>
                         </div>
                     </div>
                 </div>
@@ -457,7 +427,7 @@ $canonical_url = "https://www.unlocktool.us/articles/139-dc-unlocker-la-gi.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -465,8 +435,8 @@ $canonical_url = "https://www.unlocktool.us/articles/139-dc-unlocker-la-gi.php";
 </div>
 <footer class="bg-dark text-white py-4 text-center">
     <div class="container">
-        <p class="mb-2">&copy; 2026 UnlockTool.us - Dịch vụ cho thuê UnlockTool uy tín #1 Việt Nam</p>
-        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thuê UnlockTool 8K</a> | <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+        <p class="mb-2">&copy; 2026 UnlockTool.us - D?ch v? cho thu� UnlockTool uy t�n #1 Vi?t Nam</p>
+        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thu� UnlockTool 8K</a> | <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
     </div>
 </footer>
 

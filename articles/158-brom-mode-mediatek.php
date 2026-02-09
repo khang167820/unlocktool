@@ -1,6 +1,6 @@
-﻿<?php
-$page_title = "BROM Mode MediaTek 2026 - Hướng Dẫn Vào BootROM Mode MTK | UnlockTool.us";
-$page_description = "Hướng dẫn chi tiết vào BROM Mode (BootROM) trên chip MediaTek. Unbrick, bypass FRP, flash firmware MTK. Thuê tool 8K/6H tại UnlockTool.us";
+<?php
+$page_title = "BROM Mode MediaTek 2026 - Hu?ng D?n V�o BootROM Mode MTK | UnlockTool.us";
+$page_description = "Hu?ng d?n chi ti?t v�o BROM Mode (BootROM) tr�n chip MediaTek. Unbrick, bypass FRP, flash firmware MTK. Thu� tool 8K/6H t?i UnlockTool.us";
 $page_keywords = "brom mode, bootrom mediatek, mtk brom, unbrick mediatek, bypass frp mtk, mediatek preloader, mtk flash";
 $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php";
 ?>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php"
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">">
     
@@ -44,15 +44,15 @@ $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php"
     {
         "@context": "https://schema.org",
         "@type": "HowTo",
-        "name": "Cách vào BROM Mode MediaTek",
-        "description": "Hướng dẫn vào BROM Mode trên thiết bị chip MediaTek",
+        "name": "C�ch v�o BROM Mode MediaTek",
+        "description": "Hu?ng d?n v�o BROM Mode tr�n thi?t b? chip MediaTek",
         "totalTime": "PT10M",
         "step": [
-            {"@type": "HowToStep", "position": 1, "name": "Cài driver MTK", "text": "Cài đặt MediaTek USB VCOM Driver trên máy tính"},
-            {"@type": "HowToStep", "position": 2, "name": "Tắt máy", "text": "Tắt nguồn điện thoại hoàn toàn"},
-            {"@type": "HowToStep", "position": 3, "name": "Giữ phím", "text": "Giữ đồng thời Vol Up + Vol Down"},
-            {"@type": "HowToStep", "position": 4, "name": "Cắm USB", "text": "Trong khi giữ phím, cắm cáp USB vào máy tính"},
-            {"@type": "HowToStep", "position": 5, "name": "Kiểm tra", "text": "Device Manager hiện MediaTek PreLoader USB VCOM"}
+            {"@type": "HowToStep", "position": 1, "name": "C�i driver MTK", "text": "C�i d?t MediaTek USB VCOM Driver tr�n m�y t�nh"},
+            {"@type": "HowToStep", "position": 2, "name": "T?t m�y", "text": "T?t ngu?n di?n tho?i ho�n to�n"},
+            {"@type": "HowToStep", "position": 3, "name": "Gi? ph�m", "text": "Gi? d?ng th?i Vol Up + Vol Down"},
+            {"@type": "HowToStep", "position": 4, "name": "C?m USB", "text": "Trong khi gi? ph�m, c?m c�p USB v�o m�y t�nh"},
+            {"@type": "HowToStep", "position": 5, "name": "Ki?m tra", "text": "Device Manager hi?n MediaTek PreLoader USB VCOM"}
         ]
     }
     </script>
@@ -64,26 +64,26 @@ $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php"
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "BROM Mode và Preloader khác nhau thế nào?",
+                "name": "BROM Mode v� Preloader kh�c nhau th? n�o?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "BROM (Boot ROM) là chế độ cấp thấp nhất, nằm trong chip. Preloader là chế độ cao hơn một chút, nằm trong bộ nhớ flash. Cả hai đều dùng để flash firmware nhưng BROM mạnh hơn khi máy brick hoàn toàn."
+                    "text": "BROM (Boot ROM) l� ch? d? c?p th?p nh?t, n?m trong chip. Preloader l� ch? d? cao hon m?t ch�t, n?m trong b? nh? flash. C? hai d?u d�ng d? flash firmware nhung BROM m?nh hon khi m�y brick ho�n to�n."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Thiết bị nào dùng chip MediaTek?",
+                "name": "Thi?t b? n�o d�ng chip MediaTek?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Nhiều thiết bị Xiaomi (Redmi), Oppo, Vivo, Realme, Samsung (một số dòng A, M), Tecno, Infinix dùng chip MediaTek Helio hoặc Dimensity."
+                    "text": "Nhi?u thi?t b? Xiaomi (Redmi), Oppo, Vivo, Realme, Samsung (m?t s? d�ng A, M), Tecno, Infinix d�ng chip MediaTek Helio ho?c Dimensity."
                 }
             },
             {
                 "@type": "Question",
-                "name": "BROM Mode có bypass được FRP không?",
+                "name": "BROM Mode c� bypass du?c FRP kh�ng?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Có, BROM Mode cho phép bypass FRP trên thiết bị MediaTek bằng cách reset partition FRP hoặc flash firmware mới. UnlockTool hỗ trợ tính năng này."
+                    "text": "C�, BROM Mode cho ph�p bypass FRP tr�n thi?t b? MediaTek b?ng c�ch reset partition FRP ho?c flash firmware m?i. UnlockTool h? tr? t�nh nang n�y."
                 }
             }
         ]
@@ -124,44 +124,14 @@ $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php"
         }
     }
     </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Dịch vụ mở khóa điện thoại",
-        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.6",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "134"
-        }
-    }
-    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -171,10 +141,10 @@ $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php"
         <div class="row align-items-center">
             <div class="col-lg-8">
                 <h1><i class="fas fa-microchip me-3"></i><?php echo $page_title; ?></h1>
-                <p class="lead mb-4">Hướng dẫn đầy đủ cách vào BROM Mode (BootROM) trên thiết bị MediaTek. Unbrick máy brick, flash firmware, bypass FRP cho Xiaomi, Oppo, Vivo, Realme.</p>
+                <p class="lead mb-4">Hu?ng d?n d?y d? c�ch v�o BROM Mode (BootROM) tr�n thi?t b? MediaTek. Unbrick m�y brick, flash firmware, bypass FRP cho Xiaomi, Oppo, Vivo, Realme.</p>
                 <div class="d-flex flex-wrap gap-3">
-                    <a href="https://www.unlocktool.us/" class="btn btn-dark btn-lg"><i class="fas fa-tools me-2"></i>Thuê UnlockTool 8K/6H</a>
-                    <a href="https://thuetaikhoan.net" class="btn btn-outline-dark btn-lg"><i class="fas fa-headset me-2"></i>Dịch Vụ Hỗ Trợ</a>
+                    <a href="https://www.unlocktool.us/" class="btn btn-dark btn-lg"><i class="fas fa-tools me-2"></i>Thu� UnlockTool 8K/6H</a>
+                    <a href="https://thuetaikhoan.net" class="btn btn-outline-dark btn-lg"><i class="fas fa-headset me-2"></i>D?ch V? H? Tr?</a>
                 </div>
             </div>
             <div class="col-lg-4 text-center mt-4 mt-lg-0">
@@ -188,71 +158,71 @@ $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php"
     <div class="row">
         <div class="col-lg-8">
             
-            <!-- Mục lục -->
+            <!-- M?c l?c -->
             <div class="toc-box">
-                <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
+                <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
                 <ul>
-                    <li><a href="#brom-la-gi">1. BROM Mode là gì?</a></li>
-                    <li><a href="#thiet-bi-mtk">2. Thiết bị dùng chip MediaTek</a></li>
-                    <li><a href="#cach-vao-brom">3. Các cách vào BROM Mode</a></li>
-                    <li><a href="#xac-nhan-brom">4. Xác nhận đã vào BROM Mode</a></li>
-                    <li><a href="#phan-mem">5. Phần mềm hỗ trợ MTK</a></li>
-                    <li><a href="#loi-thuong-gap">6. Lỗi thường gặp và cách khắc phục</a></li>
-                    <li><a href="#faq">7. Câu hỏi thường gặp (FAQ)</a></li>
+                    <li><a href="#brom-la-gi">1. BROM Mode l� g�?</a></li>
+                    <li><a href="#thiet-bi-mtk">2. Thi?t b? d�ng chip MediaTek</a></li>
+                    <li><a href="#cach-vao-brom">3. C�c c�ch v�o BROM Mode</a></li>
+                    <li><a href="#xac-nhan-brom">4. X�c nh?n d� v�o BROM Mode</a></li>
+                    <li><a href="#phan-mem">5. Ph?n m?m h? tr? MTK</a></li>
+                    <li><a href="#loi-thuong-gap">6. L?i thu?ng g?p v� c�ch kh?c ph?c</a></li>
+                    <li><a href="#faq">7. C�u h?i thu?ng g?p (FAQ)</a></li>
                 </ul>
             </div>
 
-            <!-- BROM là gì -->
+            <!-- BROM l� g� -->
             <section id="brom-la-gi">
-                <h2><i class="fas fa-question-circle me-2"></i>1. BROM Mode Là Gì?</h2>
+                <h2><i class="fas fa-question-circle me-2"></i>1. BROM Mode L� G�?</h2>
                 
-                <p><strong>BROM Mode (Boot ROM Mode)</strong> là chế độ cấp thấp nhất trên các thiết bị dùng chip MediaTek (MTK). Tương tự như EDL Mode của Qualcomm, BROM cho phép truy cập sâu vào hệ thống để thực hiện các thao tác cấp thấp.</p>
+                <p><strong>BROM Mode (Boot ROM Mode)</strong> l� ch? d? c?p th?p nh?t tr�n c�c thi?t b? d�ng chip MediaTek (MTK). Tuong t? nhu EDL Mode c?a Qualcomm, BROM cho ph�p truy c?p s�u v�o h? th?ng d? th?c hi?n c�c thao t�c c?p th?p.</p>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-info-circle me-2"></i>Sự khác biệt BROM vs Preloader</h5>
+                    <h5><i class="fas fa-info-circle me-2"></i>S? kh�c bi?t BROM vs Preloader</h5>
                     <table class="table table-sm mb-0">
                         <tr>
                             <th>BROM (Boot ROM)</th>
                             <th>Preloader</th>
                         </tr>
                         <tr>
-                            <td>Nằm trong chip (không xóa được)</td>
-                            <td>Nằm trong bộ nhớ flash</td>
+                            <td>N?m trong chip (kh�ng x�a du?c)</td>
+                            <td>N?m trong b? nh? flash</td>
                         </tr>
                         <tr>
-                            <td>Cấp thấp nhất, luôn hoạt động</td>
-                            <td>Cấp cao hơn BROM</td>
+                            <td>C?p th?p nh?t, lu�n ho?t d?ng</td>
+                            <td>C?p cao hon BROM</td>
                         </tr>
                         <tr>
-                            <td>Dùng khi máy brick hoàn toàn</td>
-                            <td>Dùng khi máy còn phản hồi</td>
+                            <td>D�ng khi m�y brick ho�n to�n</td>
+                            <td>D�ng khi m�y c�n ph?n h?i</td>
                         </tr>
                     </table>
                 </div>
 
-                <h3>Công dụng của BROM Mode</h3>
+                <h3>C�ng d?ng c?a BROM Mode</h3>
                 <ul>
-                    <li><strong>Unbrick máy:</strong> Cứu máy bị brick hoàn toàn, không vào được bất kỳ mode nào</li>
-                    <li><strong>Flash firmware:</strong> Flash ROM khi máy treo logo, bootloop</li>
-                    <li><strong>Bypass FRP:</strong> Xóa tài khoản Google không cần mật khẩu</li>
-                    <li><strong>Unlock bootloader:</strong> Mở khóa bootloader mà không cần OEM unlock</li>
-                    <li><strong>Format/Wipe:</strong> Xóa dữ liệu, factory reset cấp thấp</li>
-                    <li><strong>Read/Write partition:</strong> Đọc/ghi từng partition riêng lẻ</li>
+                    <li><strong>Unbrick m�y:</strong> C?u m�y b? brick ho�n to�n, kh�ng v�o du?c b?t k? mode n�o</li>
+                    <li><strong>Flash firmware:</strong> Flash ROM khi m�y treo logo, bootloop</li>
+                    <li><strong>Bypass FRP:</strong> X�a t�i kho?n Google kh�ng c?n m?t kh?u</li>
+                    <li><strong>Unlock bootloader:</strong> M? kh�a bootloader m� kh�ng c?n OEM unlock</li>
+                    <li><strong>Format/Wipe:</strong> X�a d? li?u, factory reset c?p th?p</li>
+                    <li><strong>Read/Write partition:</strong> �?c/ghi t?ng partition ri�ng l?</li>
                 </ul>
             </section>
 
-            <!-- Thiết bị MTK -->
+            <!-- Thi?t b? MTK -->
             <section id="thiet-bi-mtk">
-                <h2><i class="fas fa-mobile-alt me-2"></i>2. Thiết Bị Dùng Chip MediaTek</h2>
+                <h2><i class="fas fa-mobile-alt me-2"></i>2. Thi?t B? D�ng Chip MediaTek</h2>
                 
-                <p>Chip MediaTek (Helio, Dimensity) được sử dụng rộng rãi trên các thiết bị tầm trung và giá rẻ. Dưới đây là danh sách các hãng và dòng máy phổ biến:</p>
+                <p>Chip MediaTek (Helio, Dimensity) du?c s? d?ng r?ng r�i tr�n c�c thi?t b? t?m trung v� gi� r?. Du?i d�y l� danh s�ch c�c h�ng v� d�ng m�y ph? bi?n:</p>
 
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Hãng</th>
-                            <th>Dòng máy MTK phổ biến</th>
-                            <th>Chip thường gặp</th>
+                            <th>H�ng</th>
+                            <th>D�ng m�y MTK ph? bi?n</th>
+                            <th>Chip thu?ng g?p</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -268,12 +238,12 @@ $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php"
                         </tr>
                         <tr>
                             <td><strong>Vivo</strong></td>
-                            <td>Y series (Y15, Y17, Y21...), một số V series</td>
+                            <td>Y series (Y15, Y17, Y21...), m?t s? V series</td>
                             <td>Helio P35, G85, Dimensity 700</td>
                         </tr>
                         <tr>
                             <td><strong>Realme</strong></td>
-                            <td>C series (C11, C15, C25...), Narzo, số lẻ</td>
+                            <td>C series (C11, C15, C25...), Narzo, s? l?</td>
                             <td>Helio G35, G85, G96, Dimensity</td>
                         </tr>
                         <tr>
@@ -283,40 +253,40 @@ $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php"
                         </tr>
                         <tr>
                             <td><strong>Tecno/Infinix</strong></td>
-                            <td>Hầu hết các model</td>
+                            <td>H?u h?t c�c model</td>
                             <td>Helio G series</td>
                         </tr>
                     </tbody>
                 </table>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Cách xác định chip MTK</h5>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>C�ch x�c d?nh chip MTK</h5>
                     <ul class="mb-0">
-                        <li>Kiểm tra thông số trên website chính hãng</li>
-                        <li>Dùng app CPU-Z, AIDA64 (nếu máy còn bật được)</li>
+                        <li>Ki?m tra th�ng s? tr�n website ch�nh h�ng</li>
+                        <li>D�ng app CPU-Z, AIDA64 (n?u m�y c�n b?t du?c)</li>
                         <li>Google "[model] specifications"</li>
                     </ul>
                 </div>
             </section>
 
-            <!-- Cách vào BROM -->
+            <!-- C�ch v�o BROM -->
             <section id="cach-vao-brom">
-                <h2><i class="fas fa-sign-in-alt me-2"></i>3. Các Cách Vào BROM Mode</h2>
+                <h2><i class="fas fa-sign-in-alt me-2"></i>3. C�c C�ch V�o BROM Mode</h2>
 
                 <div class="method-card">
                     <div class="d-flex align-items-center mb-3">
                         <div class="method-number me-3">1</div>
                         <div>
-                            <h5 class="mb-0">Giữ Vol Up + Vol Down + Cắm USB</h5>
-                            <small class="text-muted">Cách phổ biến nhất</small>
+                            <h5 class="mb-0">Gi? Vol Up + Vol Down + C?m USB</h5>
+                            <small class="text-muted">C�ch ph? bi?n nh?t</small>
                         </div>
                     </div>
                     <ol class="mb-0">
-                        <li>Tắt máy hoàn toàn (tháo pin nếu có thể)</li>
-                        <li>Giữ đồng thời <strong>Vol Up + Vol Down</strong></li>
-                        <li>Trong khi giữ, cắm cáp USB vào máy tính</li>
-                        <li>Giữ khoảng 5-10 giây</li>
-                        <li>Máy tính sẽ nhận "MediaTek PreLoader USB VCOM" hoặc "MTK USB Port"</li>
+                        <li>T?t m�y ho�n to�n (th�o pin n?u c� th?)</li>
+                        <li>Gi? d?ng th?i <strong>Vol Up + Vol Down</strong></li>
+                        <li>Trong khi gi?, c?m c�p USB v�o m�y t�nh</li>
+                        <li>Gi? kho?ng 5-10 gi�y</li>
+                        <li>M�y t�nh s? nh?n "MediaTek PreLoader USB VCOM" ho?c "MTK USB Port"</li>
                     </ol>
                 </div>
 
@@ -324,15 +294,15 @@ $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php"
                     <div class="d-flex align-items-center mb-3">
                         <div class="method-number me-3">2</div>
                         <div>
-                            <h5 class="mb-0">Chỉ giữ Vol Down</h5>
-                            <small class="text-muted">Một số model cũ</small>
+                            <h5 class="mb-0">Ch? gi? Vol Down</h5>
+                            <small class="text-muted">M?t s? model cu</small>
                         </div>
                     </div>
                     <ol class="mb-0">
-                        <li>Tắt máy hoàn toàn</li>
-                        <li>Chỉ giữ <strong>Vol Down</strong></li>
-                        <li>Cắm cáp USB vào máy tính</li>
-                        <li>Giữ cho đến khi máy tính nhận thiết bị</li>
+                        <li>T?t m�y ho�n to�n</li>
+                        <li>Ch? gi? <strong>Vol Down</strong></li>
+                        <li>C?m c�p USB v�o m�y t�nh</li>
+                        <li>Gi? cho d?n khi m�y t�nh nh?n thi?t b?</li>
                     </ol>
                 </div>
 
@@ -341,15 +311,15 @@ $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php"
                         <div class="method-number me-3">3</div>
                         <div>
                             <h5 class="mb-0">Qua SP Flash Tool / UnlockTool</h5>
-                            <small class="text-muted">Phần mềm tự detect</small>
+                            <small class="text-muted">Ph?n m?m t? detect</small>
                         </div>
                     </div>
                     <ol class="mb-0">
-                        <li>Mở phần mềm (SP Flash Tool hoặc UnlockTool)</li>
-                        <li>Chọn chức năng cần dùng</li>
-                        <li>Tắt điện thoại</li>
-                        <li>Nhấn Start/Connect trên phần mềm</li>
-                        <li>Cắm cáp USB → Phần mềm tự detect BROM/Preloader</li>
+                        <li>M? ph?n m?m (SP Flash Tool ho?c UnlockTool)</li>
+                        <li>Ch?n ch?c nang c?n d�ng</li>
+                        <li>T?t di?n tho?i</li>
+                        <li>Nh?n Start/Connect tr�n ph?n m?m</li>
+                        <li>C?m c�p USB ? Ph?n m?m t? detect BROM/Preloader</li>
                     </ol>
                 </div>
 
@@ -357,112 +327,112 @@ $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php"
                     <div class="d-flex align-items-center mb-3">
                         <div class="method-number me-3">4</div>
                         <div>
-                            <h5 class="mb-0">Test Point (Khi cách thường không được)</h5>
-                            <small class="text-muted">Cần tháo máy</small>
+                            <h5 class="mb-0">Test Point (Khi c�ch thu?ng kh�ng du?c)</h5>
+                            <small class="text-muted">C?n th�o m�y</small>
                         </div>
                     </div>
-                    <p>Tương tự Qualcomm, MediaTek cũng có test point để force vào BROM khi máy không phản hồi bằng cách bình thường.</p>
+                    <p>Tuong t? Qualcomm, MediaTek cung c� test point d? force v�o BROM khi m�y kh�ng ph?n h?i b?ng c�ch b�nh thu?ng.</p>
                     <ol class="mb-0">
-                        <li>Tháo máy để lộ main board</li>
-                        <li>Tìm vị trí test point (tra schematic)</li>
-                        <li>Nối test point với GND</li>
-                        <li>Cắm cáp USB trong khi giữ nối</li>
+                        <li>Th�o m�y d? l? main board</li>
+                        <li>T�m v? tr� test point (tra schematic)</li>
+                        <li>N?i test point v?i GND</li>
+                        <li>C?m c�p USB trong khi gi? n?i</li>
                     </ol>
                 </div>
             </section>
 
-            <!-- Xác nhận BROM -->
+            <!-- X�c nh?n BROM -->
             <section id="xac-nhan-brom">
-                <h2><i class="fas fa-check-circle me-2"></i>4. Xác Nhận Đã Vào BROM Mode</h2>
+                <h2><i class="fas fa-check-circle me-2"></i>4. X�c Nh?n �� V�o BROM Mode</h2>
                 
                 <div class="success-box">
-                    <h5><i class="fas fa-check me-2"></i>Dấu hiệu vào BROM thành công</h5>
+                    <h5><i class="fas fa-check me-2"></i>D?u hi?u v�o BROM th�nh c�ng</h5>
                     <ul class="mb-0">
-                        <li><strong>Màn hình điện thoại:</strong> Đen hoặc không phản hồi</li>
-                        <li><strong>Device Manager:</strong> Hiện <strong>"MediaTek PreLoader USB VCOM"</strong> hoặc <strong>"MTK USB Port"</strong></li>
-                        <li><strong>UnlockTool/SP Flash Tool:</strong> Hiện "Device connected" hoặc progress bar chạy</li>
+                        <li><strong>M�n h�nh di?n tho?i:</strong> �en ho?c kh�ng ph?n h?i</li>
+                        <li><strong>Device Manager:</strong> Hi?n <strong>"MediaTek PreLoader USB VCOM"</strong> ho?c <strong>"MTK USB Port"</strong></li>
+                        <li><strong>UnlockTool/SP Flash Tool:</strong> Hi?n "Device connected" ho?c progress bar ch?y</li>
                     </ul>
                 </div>
 
-                <h3>Cài đặt Driver MediaTek</h3>
-                <p>Nếu máy tính không nhận hoặc hiện Unknown Device, cần cài driver:</p>
+                <h3>C�i d?t Driver MediaTek</h3>
+                <p>N?u m�y t�nh kh�ng nh?n ho?c hi?n Unknown Device, c?n c�i driver:</p>
                 <ul>
-                    <li><strong>MTK USB All Driver:</strong> Driver tổng hợp cho MediaTek</li>
-                    <li><strong>SP Flash Tool Driver:</strong> Driver đi kèm SP Flash Tool</li>
-                    <li><strong>UnlockTool Auto Driver:</strong> Tính năng cài driver tự động trong UnlockTool</li>
+                    <li><strong>MTK USB All Driver:</strong> Driver t?ng h?p cho MediaTek</li>
+                    <li><strong>SP Flash Tool Driver:</strong> Driver di k�m SP Flash Tool</li>
+                    <li><strong>UnlockTool Auto Driver:</strong> T�nh nang c�i driver t? d?ng trong UnlockTool</li>
                 </ul>
-                <a href="https://file.unlocktool.net/page/all-driver" class="btn btn-warning" target="_blank"><i class="fas fa-download me-2"></i>Tải MTK Driver</a>
+                <a href="https://file.unlocktool.net/page/all-driver" class="btn btn-warning" target="_blank"><i class="fas fa-download me-2"></i>T?i MTK Driver</a>
             </section>
 
-            <!-- Phần mềm -->
+            <!-- Ph?n m?m -->
             <section id="phan-mem">
-                <h2><i class="fas fa-download me-2"></i>5. Phần Mềm Hỗ Trợ MTK</h2>
+                <h2><i class="fas fa-download me-2"></i>5. Ph?n M?m H? Tr? MTK</h2>
                 
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Phần mềm</th>
-                            <th>Loại</th>
-                            <th>Ghi chú</th>
+                            <th>Ph?n m?m</th>
+                            <th>Lo?i</th>
+                            <th>Ghi ch�</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td><strong>UnlockTool</strong></td>
                             <td>All-in-one</td>
-                            <td><span class="badge bg-success">Khuyến nghị</span> - Dễ dùng, hỗ trợ đầy đủ</td>
+                            <td><span class="badge bg-success">Khuy?n ngh?</span> - D? d�ng, h? tr? d?y d?</td>
                         </tr>
                         <tr>
                             <td><strong>SP Flash Tool</strong></td>
-                            <td>Miễn phí</td>
-                            <td>Tool chính thức MediaTek, cần scatter file</td>
+                            <td>Mi?n ph�</td>
+                            <td>Tool ch�nh th?c MediaTek, c?n scatter file</td>
                         </tr>
                         <tr>
                             <td><strong>MTKClient</strong></td>
-                            <td>Miễn phí</td>
-                            <td>Open source, có crash preloader to BROM</td>
+                            <td>Mi?n ph�</td>
+                            <td>Open source, c� crash preloader to BROM</td>
                         </tr>
                         <tr>
                             <td><strong>MCT (MTK Client Tool)</strong></td>
-                            <td>Miễn phí</td>
+                            <td>Mi?n ph�</td>
                             <td>GUI cho MTKClient</td>
                         </tr>
                         <tr>
                             <td><strong>Miracle Box</strong></td>
-                            <td>Chuyên nghiệp</td>
-                            <td>Tool trả phí, tính năng đầy đủ</td>
+                            <td>Chuy�n nghi?p</td>
+                            <td>Tool tr? ph�, t�nh nang d?y d?</td>
                         </tr>
                     </tbody>
                 </table>
 
                 <div class="price-box mt-4">
-                    <h4>Flash MTK Dễ Dàng Với UnlockTool</h4>
-                    <p class="display-4 fw-bold">8.000đ/6h</p>
-                    <p>Hỗ trợ đầy đủ các chip MediaTek Helio, Dimensity</p>
-                    <a href="https://www.unlocktool.us/" class="btn btn-dark btn-lg">Thuê UnlockTool Ngay</a>
+                    <h4>Flash MTK D? D�ng V?i UnlockTool</h4>
+                    <p class="display-4 fw-bold">8.000d/6h</p>
+                    <p>H? tr? d?y d? c�c chip MediaTek Helio, Dimensity</p>
+                    <a href="https://www.unlocktool.us/" class="btn btn-dark btn-lg">Thu� UnlockTool Ngay</a>
                 </div>
             </section>
 
-            <!-- Lỗi thường gặp -->
+            <!-- L?i thu?ng g?p -->
             <section id="loi-thuong-gap">
-                <h2><i class="fas fa-bug me-2"></i>6. Lỗi Thường Gặp Và Cách Khắc Phục</h2>
+                <h2><i class="fas fa-bug me-2"></i>6. L?i Thu?ng G?p V� C�ch Kh?c Ph?c</h2>
                 
                 <div class="accordion" id="errorAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#err1">
-                                Máy không nhận BROM / Preloader
+                                M�y kh�ng nh?n BROM / Preloader
                             </button>
                         </h2>
                         <div id="err1" class="accordion-collapse collapse show" data-bs-parent="#errorAccordion">
                             <div class="accordion-body">
                                 <ul>
-                                    <li>Thử <strong>Vol Up thay Vol Down</strong> hoặc ngược lại</li>
-                                    <li>Thử giữ <strong>cả 3 nút: Vol Up + Vol Down + Power</strong></li>
-                                    <li>Kiểm tra cáp USB (dùng cáp ngắn, tốt)</li>
-                                    <li>Thử cổng USB 2.0 thay USB 3.0</li>
-                                    <li>Cài lại MTK Driver</li>
-                                    <li>Cuối cùng: Dùng Test Point</li>
+                                    <li>Th? <strong>Vol Up thay Vol Down</strong> ho?c ngu?c l?i</li>
+                                    <li>Th? gi? <strong>c? 3 n�t: Vol Up + Vol Down + Power</strong></li>
+                                    <li>Ki?m tra c�p USB (d�ng c�p ng?n, t?t)</li>
+                                    <li>Th? c?ng USB 2.0 thay USB 3.0</li>
+                                    <li>C�i l?i MTK Driver</li>
+                                    <li>Cu?i c�ng: D�ng Test Point</li>
                                 </ul>
                             </div>
                         </div>
@@ -470,16 +440,16 @@ $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php"
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err2">
-                                SP Flash Tool báo lỗi BROM ERROR
+                                SP Flash Tool b�o l?i BROM ERROR
                             </button>
                         </h2>
                         <div id="err2" class="accordion-collapse collapse" data-bs-parent="#errorAccordion">
                             <div class="accordion-body">
-                                <p>Một số chip MTK mới có bảo vệ BROM. Giải pháp:</p>
+                                <p>M?t s? chip MTK m?i c� b?o v? BROM. Gi?i ph�p:</p>
                                 <ul>
-                                    <li>Dùng <strong>MTKClient</strong> với tính năng crash preloader</li>
-                                    <li>Dùng <strong>UnlockTool</strong> có bypass BROM protection</li>
-                                    <li>Thử Auth file nếu có</li>
+                                    <li>D�ng <strong>MTKClient</strong> v?i t�nh nang crash preloader</li>
+                                    <li>D�ng <strong>UnlockTool</strong> c� bypass BROM protection</li>
+                                    <li>Th? Auth file n?u c�</li>
                                 </ul>
                             </div>
                         </div>
@@ -487,15 +457,15 @@ $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php"
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err3">
-                                Lỗi DA (Download Agent) không load được
+                                L?i DA (Download Agent) kh�ng load du?c
                             </button>
                         </h2>
                         <div id="err3" class="accordion-collapse collapse" data-bs-parent="#errorAccordion">
                             <div class="accordion-body">
                                 <ul>
-                                    <li>Đảm bảo dùng đúng DA file cho chip của máy</li>
-                                    <li>Thử DA file khác (có nhiều version)</li>
-                                    <li>UnlockTool tự động chọn DA phù hợp</li>
+                                    <li>�?m b?o d�ng d�ng DA file cho chip c?a m�y</li>
+                                    <li>Th? DA file kh�c (c� nhi?u version)</li>
+                                    <li>UnlockTool t? d?ng ch?n DA ph� h?p</li>
                                 </ul>
                             </div>
                         </div>
@@ -505,54 +475,54 @@ $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php"
 
             <!-- FAQ -->
             <section id="faq">
-                <h2><i class="fas fa-question-circle me-2"></i>7. Câu Hỏi Thường Gặp (FAQ)</h2>
+                <h2><i class="fas fa-question-circle me-2"></i>7. C�u H?i Thu?ng G?p (FAQ)</h2>
                 
                 <div class="accordion" id="faqAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
-                                BROM Mode có xóa dữ liệu không?
+                                BROM Mode c� x�a d? li?u kh�ng?
                             </button>
                         </h2>
                         <div id="faq1" class="accordion-collapse collapse show" data-bs-parent="#faqAccordion">
                             <div class="accordion-body">
-                                Vào BROM Mode không xóa dữ liệu. Tuy nhiên, các thao tác flash, format sau đó có thể xóa dữ liệu tùy thuộc vào thao tác thực hiện.
+                                V�o BROM Mode kh�ng x�a d? li?u. Tuy nhi�n, c�c thao t�c flash, format sau d� c� th? x�a d? li?u t�y thu?c v�o thao t�c th?c hi?n.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
-                                BROM có bypass được FRP không?
+                                BROM c� bypass du?c FRP kh�ng?
                             </button>
                         </h2>
                         <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                             <div class="accordion-body">
-                                Có, BROM Mode cho phép bypass FRP trên thiết bị MediaTek. UnlockTool có tính năng "Reset FRP" qua BROM Mode rất hiệu quả.
+                                C�, BROM Mode cho ph�p bypass FRP tr�n thi?t b? MediaTek. UnlockTool c� t�nh nang "Reset FRP" qua BROM Mode r?t hi?u qu?.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3">
-                                Chip MTK mới có bị khóa BROM không?
+                                Chip MTK m?i c� b? kh�a BROM kh�ng?
                             </button>
                         </h2>
                         <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                             <div class="accordion-body">
-                                Một số chip MTK mới (Helio G series, Dimensity) có bảo vệ BROM. Cần dùng tool hỗ trợ bypass như UnlockTool hoặc MTKClient với tính năng exploit.
+                                M?t s? chip MTK m?i (Helio G series, Dimensity) c� b?o v? BROM. C?n d�ng tool h? tr? bypass nhu UnlockTool ho?c MTKClient v?i t�nh nang exploit.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4">
-                                Không tự làm được BROM thì liên hệ đâu?
+                                Kh�ng t? l�m du?c BROM th� li�n h? d�u?
                             </button>
                         </h2>
                         <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                             <div class="accordion-body">
-                                Liên hệ <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a> để được hỗ trợ từ xa. Kỹ thuật viên sẽ giúp flash, unbrick, bypass FRP qua TeamViewer với giá hợp lý.
+                                Li�n h? <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a> d? du?c h? tr? t? xa. K? thu?t vi�n s? gi�p flash, unbrick, bypass FRP qua TeamViewer v?i gi� h?p l�.
                             </div>
                         </div>
                     </div>
@@ -561,11 +531,11 @@ $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php"
 
             <!-- CTA -->
             <div class="cta-box">
-                <h3><i class="fas fa-tools me-2"></i>Cần Hỗ Trợ Flash MediaTek?</h3>
-                <p>Thuê UnlockTool để tự flash hoặc liên hệ dịch vụ hỗ trợ từ xa!</p>
+                <h3><i class="fas fa-tools me-2"></i>C?n H? Tr? Flash MediaTek?</h3>
+                <p>Thu� UnlockTool d? t? flash ho?c li�n h? d?ch v? h? tr? t? xa!</p>
                 <div class="mt-4">
-                    <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg me-2"><i class="fas fa-tools me-2"></i>Thuê UnlockTool 8K/6H</a>
-                    <a href="https://thuetaikhoan.net" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>Dịch Vụ Hỗ Trợ</a>
+                    <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg me-2"><i class="fas fa-tools me-2"></i>Thu� UnlockTool 8K/6H</a>
+                    <a href="https://thuetaikhoan.net" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>D?ch V? H? Tr?</a>
                 </div>
             </div>
 
@@ -574,18 +544,18 @@ $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php"
         <!-- Sidebar -->
         <div class="col-lg-4">
             <div class="price-box sticky-top" style="top:20px">
-                <h5><i class="fas fa-tools me-2"></i>Thuê UnlockTool</h5>
-                <p class="display-4 fw-bold">8.000đ</p>
-                <p>/ 6 tiếng</p>
+                <h5><i class="fas fa-tools me-2"></i>Thu� UnlockTool</h5>
+                <p class="display-4 fw-bold">8.000d</p>
+                <p>/ 6 ti?ng</p>
                 <hr>
                 <ul class="text-start small">
-                    <li>Hỗ trợ chip MediaTek</li>
+                    <li>H? tr? chip MediaTek</li>
                     <li>Flash BROM/Preloader</li>
                     <li>Bypass FRP, Format</li>
-                    <li>Hỗ trợ kỹ thuật 24/7</li>
+                    <li>H? tr? k? thu?t 24/7</li>
                 </ul>
-                <a href="https://www.unlocktool.us/" class="btn btn-dark w-100 mb-2">Thuê Ngay</a>
-                <a href="https://thuetaikhoan.net" class="btn btn-outline-dark w-100">Dịch Vụ Làm Hộ</a>
+                <a href="https://www.unlocktool.us/" class="btn btn-dark w-100 mb-2">Thu� Ngay</a>
+                <a href="https://thuetaikhoan.net" class="btn btn-outline-dark w-100">D?ch V? L�m H?</a>
             </div>
         </div>
     </div>
@@ -598,7 +568,7 @@ $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php"
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -612,13 +582,13 @@ $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php"
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hướng dẫn chi tiết</small>
+                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
                         </div>
                     </div>
                 </div>
@@ -626,15 +596,15 @@ $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php"
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">Từ iPhone 5s - X</small>
+                            <small class="text-muted">T? iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
-                            <small class="text-muted">Download mới nhất</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
+                            <small class="text-muted">Download m?i nh?t</small>
                         </div>
                     </div>
                 </div>
@@ -647,7 +617,7 @@ $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php"
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -655,7 +625,7 @@ $canonical_url = "https://www.unlocktool.us/articles/158-brom-mode-mediatek.php"
 </div>
 <footer class="bg-dark text-white py-4">
     <div class="container text-center">
-        <p class="mb-0">&copy; 2026 <a href="https://www.unlocktool.us/" class="text-white">UnlockTool.us</a> - Dịch vụ: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+        <p class="mb-0">&copy; 2026 <a href="https://www.unlocktool.us/" class="text-white">UnlockTool.us</a> - D?ch v?: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
     </div>
 </footer>
 

@@ -1,7 +1,7 @@
-﻿<?php
-$page_title = "Bypass FRP Realme C55 2026 - Hướng Dẫn Xóa Tài Khoản Google Chi Tiết | 8K/6H";
-$page_description = "Hướng dẫn bypass FRP Realme C55 chi tiết nhất 2026. Xóa tài khoản Google sau reset bằng UnlockTool qua MTK BROM Mode. Thuê tool 8.000đ/6h tại UnlockTool.us";
-$page_keywords = "bypass frp realme c55, xóa frp realme c55, frp realme c55, google account realme c55, realme c55 google bypass, realme c55 frp remove";
+<?php
+$page_title = "Bypass FRP Realme C55 2026 - Hu?ng D?n X�a T�i Kho?n Google Chi Ti?t | 8K/6H";
+$page_description = "Hu?ng d?n bypass FRP Realme C55 chi ti?t nh?t 2026. X�a t�i kho?n Google sau reset b?ng UnlockTool qua MTK BROM Mode. Thu� tool 8.000d/6h t?i UnlockTool.us";
+$page_keywords = "bypass frp realme c55, x�a frp realme c55, frp realme c55, google account realme c55, realme c55 google bypass, realme c55 frp remove";
 $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
 ?>
 <!DOCTYPE html>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hướng dẫn kỹ thuật">
+    <meta property="article:section" content="Hu?ng d?n k? thu?t">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="Mở khóa điện thoại">
+    <meta property="article:tag" content="M? kh�a di?n tho?i">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -50,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -60,18 +60,18 @@ $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
     {"@context":"https://schema.org","@type":"Article","headline":"<?php echo $page_title; ?>","author":{"@type":"Organization","name":"UnlockTool.us"},"datePublished":"2026-01-25","dateModified":"2026-01-25"}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"HowTo","name":"Bypass FRP Realme C55","description":"Hướng dẫn xóa tài khoản Google trên Realme C55","step":[
-        {"@type":"HowToStep","name":"Cài driver MTK","text":"Tải và cài MediaTek VCOM Driver từ file.unlocktool.net"},
-        {"@type":"HowToStep","name":"Mở UnlockTool","text":"Đăng nhập UnlockTool với tài khoản đã thuê"},
-        {"@type":"HowToStep","name":"Vào BROM Mode","text":"Tắt máy, giữ Vol Up + Vol Down + cắm cáp USB"},
-        {"@type":"HowToStep","name":"Bypass FRP","text":"Chọn Remove FRP trong UnlockTool và chờ hoàn tất"}
+    {"@context":"https://schema.org","@type":"HowTo","name":"Bypass FRP Realme C55","description":"Hu?ng d?n x�a t�i kho?n Google tr�n Realme C55","step":[
+        {"@type":"HowToStep","name":"C�i driver MTK","text":"T?i v� c�i MediaTek VCOM Driver t? file.unlocktool.net"},
+        {"@type":"HowToStep","name":"M? UnlockTool","text":"�ang nh?p UnlockTool v?i t�i kho?n d� thu�"},
+        {"@type":"HowToStep","name":"V�o BROM Mode","text":"T?t m�y, gi? Vol Up + Vol Down + c?m c�p USB"},
+        {"@type":"HowToStep","name":"Bypass FRP","text":"Ch?n Remove FRP trong UnlockTool v� ch? ho�n t?t"}
     ]}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"Realme C55 bypass FRP được không?","acceptedAnswer":{"@type":"Answer","text":"Có, Realme C55 sử dụng chip MediaTek Helio G88, hoàn toàn có thể bypass FRP bằng UnlockTool qua BROM Mode. Giá thuê tool 8.000đ/6h tại UnlockTool.us."}},
-        {"@type":"Question","name":"Bypass FRP Realme C55 mất bao lâu?","acceptedAnswer":{"@type":"Answer","text":"Bypass FRP Realme C55 thường mất 5-15 phút tùy phương pháp sử dụng. Chuẩn bị thêm 10-15 phút cho việc cài driver và setup tool."}},
-        {"@type":"Question","name":"Giá bypass FRP Realme C55?","acceptedAnswer":{"@type":"Answer","text":"Tự làm: thuê tool 8.000đ/6 tiếng tại UnlockTool.us. Dịch vụ làm hộ: từ 50.000đ tại Thuetaikhoan.net."}}
+        {"@type":"Question","name":"Realme C55 bypass FRP du?c kh�ng?","acceptedAnswer":{"@type":"Answer","text":"C�, Realme C55 s? d?ng chip MediaTek Helio G88, ho�n to�n c� th? bypass FRP b?ng UnlockTool qua BROM Mode. Gi� thu� tool 8.000d/6h t?i UnlockTool.us."}},
+        {"@type":"Question","name":"Bypass FRP Realme C55 m?t bao l�u?","acceptedAnswer":{"@type":"Answer","text":"Bypass FRP Realme C55 thu?ng m?t 5-15 ph�t t�y phuong ph�p s? d?ng. Chu?n b? th�m 10-15 ph�t cho vi?c c�i driver v� setup tool."}},
+        {"@type":"Question","name":"Gi� bypass FRP Realme C55?","acceptedAnswer":{"@type":"Answer","text":"T? l�m: thu� tool 8.000d/6 ti?ng t?i UnlockTool.us. D?ch v? l�m h?: t? 50.000d t?i Thuetaikhoan.net."}}
     ]}
     </script>
     
@@ -127,44 +127,14 @@ $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
         }
     }
     </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Dịch vụ mở khóa điện thoại",
-        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.6",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "133"
-        }
-    }
-    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -174,10 +144,10 @@ $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
         <div class="row align-items-center">
             <div class="col-lg-8">
                 <h1><i class="fas fa-mobile-alt me-3"></i><?php echo $page_title; ?></h1>
-                <p class="lead mb-4">Hướng dẫn bypass FRP Realme C55 đầy đủ nhất 2026. Realme C55 dùng chip MediaTek Helio G88, bypass dễ dàng qua BROM Mode với UnlockTool.</p>
+                <p class="lead mb-4">Hu?ng d?n bypass FRP Realme C55 d?y d? nh?t 2026. Realme C55 d�ng chip MediaTek Helio G88, bypass d? d�ng qua BROM Mode v?i UnlockTool.</p>
                 <div class="d-flex flex-wrap gap-3">
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-dark btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê Tool 8K/6H</a>
-                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-dark btn-lg"><i class="fas fa-headset me-2"></i>Dịch Vụ Làm Hộ</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-dark btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thu� Tool 8K/6H</a>
+                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-dark btn-lg"><i class="fas fa-headset me-2"></i>D?ch V? L�m H?</a>
                 </div>
             </div>
             <div class="col-lg-4 text-center mt-4 mt-lg-0">
@@ -193,251 +163,251 @@ $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
         <div class="col-lg-8">
             
             <div class="toc-box">
-                <h4><i class="fas fa-list me-2"></i>Mục Lục Bài Viết</h4>
+                <h4><i class="fas fa-list me-2"></i>M?c L?c B�i Vi?t</h4>
                 <ul class="list-unstyled">
-                    <li><a href="#gioi-thieu">1. Giới thiệu Realme C55</a></li>
-                    <li><a href="#frp-la-gi">2. FRP là gì? Khi nào cần bypass?</a></li>
-                    <li><a href="#chuan-bi">3. Chuẩn bị trước khi bypass</a></li>
+                    <li><a href="#gioi-thieu">1. Gi?i thi?u Realme C55</a></li>
+                    <li><a href="#frp-la-gi">2. FRP l� g�? Khi n�o c?n bypass?</a></li>
+                    <li><a href="#chuan-bi">3. Chu?n b? tru?c khi bypass</a></li>
                     <li><a href="#phuong-phap-brom">4. Bypass qua BROM Mode (MTK)</a></li>
                     <li><a href="#phuong-phap-fastboot">5. Bypass qua Fastboot Mode</a></li>
-                    <li><a href="#phuong-phap-adb">6. Bypass qua ADB (nếu có USB Debugging)</a></li>
-                    <li><a href="#loi-thuong-gap">7. Lỗi thường gặp và cách khắc phục</a></li>
-                    <li><a href="#faq">8. Câu hỏi thường gặp (FAQ)</a></li>
+                    <li><a href="#phuong-phap-adb">6. Bypass qua ADB (n?u c� USB Debugging)</a></li>
+                    <li><a href="#loi-thuong-gap">7. L?i thu?ng g?p v� c�ch kh?c ph?c</a></li>
+                    <li><a href="#faq">8. C�u h?i thu?ng g?p (FAQ)</a></li>
                 </ul>
             </div>
 
             <section id="gioi-thieu">
-                <h2><i class="fas fa-info-circle me-2"></i>1. Giới Thiệu Realme C55</h2>
+                <h2><i class="fas fa-info-circle me-2"></i>1. Gi?i Thi?u Realme C55</h2>
                 
-                <p><strong>Realme C55</strong> là smartphone tầm trung giá rẻ của Realme, ra mắt đầu năm 2023. Đây là một trong những model bán chạy nhất của Realme tại Việt Nam nhờ cấu hình tốt và giá cả phải chăng.</p>
+                <p><strong>Realme C55</strong> l� smartphone t?m trung gi� r? c?a Realme, ra m?t d?u nam 2023. ��y l� m?t trong nh?ng model b�n ch?y nh?t c?a Realme t?i Vi?t Nam nh? c?u h�nh t?t v� gi� c? ph?i chang.</p>
 
-                <p>Realme C55 nổi bật với thiết kế đẹp mắt, màn hình lớn, camera 64MP chất lượng tốt và đặc biệt là tính năng Dynamic Island (Mini Capsule) giống iPhone 14 Pro. Máy sử dụng chip MediaTek Helio G88 mạnh mẽ trong phân khúc.</p>
+                <p>Realme C55 n?i b?t v?i thi?t k? d?p m?t, m�n h�nh l?n, camera 64MP ch?t lu?ng t?t v� d?c bi?t l� t�nh nang Dynamic Island (Mini Capsule) gi?ng iPhone 14 Pro. M�y s? d?ng chip MediaTek Helio G88 m?nh m? trong ph�n kh�c.</p>
 
-                <h3>Thông số kỹ thuật Realme C55</h3>
+                <h3>Th�ng s? k? thu?t Realme C55</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Thông số</th>
-                            <th>Chi tiết</th>
+                            <th>Th�ng s?</th>
+                            <th>Chi ti?t</th>
                         </tr>
                     </thead>
                     <tbody>
-                        <tr><td><strong>Chip xử lý</strong></td><td>MediaTek Helio G88 (12nm)</td></tr>
-                        <tr><td><strong>RAM</strong></td><td>6GB / 8GB (mở rộng thêm 8GB)</td></tr>
-                        <tr><td><strong>Bộ nhớ trong</strong></td><td>64GB / 128GB / 256GB</td></tr>
-                        <tr><td><strong>Màn hình</strong></td><td>6.72" IPS LCD, FHD+ (1080x2400), 90Hz</td></tr>
-                        <tr><td><strong>Camera sau</strong></td><td>64MP (chính) + 2MP (macro)</td></tr>
-                        <tr><td><strong>Camera trước</strong></td><td>8MP</td></tr>
-                        <tr><td><strong>Pin</strong></td><td>5000mAh, sạc nhanh 33W</td></tr>
-                        <tr><td><strong>Hệ điều hành</strong></td><td>Android 13, Realme UI 4.0</td></tr>
-                        <tr><td><strong>Bảo mật</strong></td><td>FRP, vân tay cạnh, nhận diện khuôn mặt</td></tr>
-                        <tr><td><strong>Bypass FRP</strong></td><td class="text-success fw-bold">✓ Hỗ trợ - BROM Mode</td></tr>
+                        <tr><td><strong>Chip x? l�</strong></td><td>MediaTek Helio G88 (12nm)</td></tr>
+                        <tr><td><strong>RAM</strong></td><td>6GB / 8GB (m? r?ng th�m 8GB)</td></tr>
+                        <tr><td><strong>B? nh? trong</strong></td><td>64GB / 128GB / 256GB</td></tr>
+                        <tr><td><strong>M�n h�nh</strong></td><td>6.72" IPS LCD, FHD+ (1080x2400), 90Hz</td></tr>
+                        <tr><td><strong>Camera sau</strong></td><td>64MP (ch�nh) + 2MP (macro)</td></tr>
+                        <tr><td><strong>Camera tru?c</strong></td><td>8MP</td></tr>
+                        <tr><td><strong>Pin</strong></td><td>5000mAh, s?c nhanh 33W</td></tr>
+                        <tr><td><strong>H? di?u h�nh</strong></td><td>Android 13, Realme UI 4.0</td></tr>
+                        <tr><td><strong>B?o m?t</strong></td><td>FRP, v�n tay c?nh, nh?n di?n khu�n m?t</td></tr>
+                        <tr><td><strong>Bypass FRP</strong></td><td class="text-success fw-bold">? H? tr? - BROM Mode</td></tr>
                     </tbody>
                 </table>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-check-circle me-2"></i>Tin vui cho người dùng Realme C55!</h5>
-                    <p class="mb-0">Realme C55 sử dụng chip MediaTek Helio G88, có thể bypass FRP dễ dàng qua BROM Mode. MediaTek là một trong những chip dễ bypass nhất vì có thể truy cập sâu vào hệ thống qua chế độ BROM. Giá thuê tool chỉ <strong>8.000đ/6 tiếng</strong> tại UnlockTool.us!</p>
+                    <h5><i class="fas fa-check-circle me-2"></i>Tin vui cho ngu?i d�ng Realme C55!</h5>
+                    <p class="mb-0">Realme C55 s? d?ng chip MediaTek Helio G88, c� th? bypass FRP d? d�ng qua BROM Mode. MediaTek l� m?t trong nh?ng chip d? bypass nh?t v� c� th? truy c?p s�u v�o h? th?ng qua ch? d? BROM. Gi� thu� tool ch? <strong>8.000d/6 ti?ng</strong> t?i UnlockTool.us!</p>
                 </div>
 
-                <h3>Tại sao Realme C55 phổ biến?</h3>
+                <h3>T?i sao Realme C55 ph? bi?n?</h3>
                 <ul>
-                    <li><strong>Giá rẻ:</strong> Chỉ từ 3-4 triệu đồng cho cấu hình tốt</li>
-                    <li><strong>Mini Capsule:</strong> Tính năng Dynamic Island độc đáo</li>
-                    <li><strong>Camera 64MP:</strong> Chụp ảnh đẹp cho phân khúc giá</li>
-                    <li><strong>Pin lớn 5000mAh:</strong> Sử dụng cả ngày</li>
-                    <li><strong>Sạc nhanh 33W:</strong> Đầy pin trong ~70 phút</li>
-                    <li><strong>RAM mở rộng:</strong> Thêm 8GB RAM ảo từ bộ nhớ trong</li>
+                    <li><strong>Gi� r?:</strong> Ch? t? 3-4 tri?u d?ng cho c?u h�nh t?t</li>
+                    <li><strong>Mini Capsule:</strong> T�nh nang Dynamic Island d?c d�o</li>
+                    <li><strong>Camera 64MP:</strong> Ch?p ?nh d?p cho ph�n kh�c gi�</li>
+                    <li><strong>Pin l?n 5000mAh:</strong> S? d?ng c? ng�y</li>
+                    <li><strong>S?c nhanh 33W:</strong> �?y pin trong ~70 ph�t</li>
+                    <li><strong>RAM m? r?ng:</strong> Th�m 8GB RAM ?o t? b? nh? trong</li>
                 </ul>
             </section>
 
             <section id="frp-la-gi">
-                <h2><i class="fas fa-lock me-2"></i>2. FRP Là Gì? Khi Nào Cần Bypass?</h2>
+                <h2><i class="fas fa-lock me-2"></i>2. FRP L� G�? Khi N�o C?n Bypass?</h2>
                 
-                <p><strong>FRP (Factory Reset Protection)</strong> là tính năng bảo mật của Google trên Android. Khi bạn đăng ký tài khoản Google trên máy và sau đó reset máy về cài đặt gốc, FRP sẽ yêu cầu đăng nhập lại tài khoản Google đó để chứng minh bạn là chủ sở hữu.</p>
+                <p><strong>FRP (Factory Reset Protection)</strong> l� t�nh nang b?o m?t c?a Google tr�n Android. Khi b?n dang k� t�i kho?n Google tr�n m�y v� sau d� reset m�y v? c�i d?t g?c, FRP s? y�u c?u dang nh?p l?i t�i kho?n Google d� d? ch?ng minh b?n l� ch? s? h?u.</p>
 
-                <h3>Cách FRP hoạt động:</h3>
+                <h3>C�ch FRP ho?t d?ng:</h3>
                 <ol>
-                    <li>Bạn đăng ký tài khoản Google trên Realme C55</li>
-                    <li>Thông tin tài khoản được lưu trong vùng bảo mật của máy</li>
-                    <li>Khi reset máy (Factory Reset), FRP được kích hoạt</li>
-                    <li>Máy yêu cầu đăng nhập tài khoản Google cũ</li>
-                    <li>Không đăng nhập đúng = Không sử dụng được máy</li>
+                    <li>B?n dang k� t�i kho?n Google tr�n Realme C55</li>
+                    <li>Th�ng tin t�i kho?n du?c luu trong v�ng b?o m?t c?a m�y</li>
+                    <li>Khi reset m�y (Factory Reset), FRP du?c k�ch ho?t</li>
+                    <li>M�y y�u c?u dang nh?p t�i kho?n Google cu</li>
+                    <li>Kh�ng dang nh?p d�ng = Kh�ng s? d?ng du?c m�y</li>
                 </ol>
 
-                <h3>Khi nào cần bypass FRP Realme C55?</h3>
+                <h3>Khi n�o c?n bypass FRP Realme C55?</h3>
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-key text-warning me-2"></i>Quên mật khẩu Google</h5>
-                            <p class="small mb-0">Bạn đã đăng ký Google nhưng quên mật khẩu hoặc không thể khôi phục được.</p>
+                            <h5><i class="fas fa-key text-warning me-2"></i>Qu�n m?t kh?u Google</h5>
+                            <p class="small mb-0">B?n d� dang k� Google nhung qu�n m?t kh?u ho?c kh�ng th? kh�i ph?c du?c.</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-shopping-bag text-primary me-2"></i>Mua máy cũ</h5>
-                            <p class="small mb-0">Mua Realme C55 cũ nhưng người bán quên xóa tài khoản Google.</p>
+                            <h5><i class="fas fa-shopping-bag text-primary me-2"></i>Mua m�y cu</h5>
+                            <p class="small mb-0">Mua Realme C55 cu nhung ngu?i b�n qu�n x�a t�i kho?n Google.</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-gift text-success me-2"></i>Nhận máy tặng</h5>
-                            <p class="small mb-0">Được tặng máy nhưng không có thông tin tài khoản Google của người trước.</p>
+                            <h5><i class="fas fa-gift text-success me-2"></i>Nh?n m�y t?ng</h5>
+                            <p class="small mb-0">�u?c t?ng m�y nhung kh�ng c� th�ng tin t�i kho?n Google c?a ngu?i tru?c.</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-redo text-danger me-2"></i>Reset máy nhầm</h5>
-                            <p class="small mb-0">Vô tình reset máy trong Recovery mà chưa đăng xuất Google.</p>
+                            <h5><i class="fas fa-redo text-danger me-2"></i>Reset m�y nh?m</h5>
+                            <p class="small mb-0">V� t�nh reset m�y trong Recovery m� chua dang xu?t Google.</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý quan trọng</h5>
-                    <p class="mb-0">Bypass FRP chỉ nên thực hiện trên máy của chính bạn hoặc máy bạn có quyền sử dụng hợp pháp. Việc bypass FRP trên máy trộm cắp là vi phạm pháp luật.</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu � quan tr?ng</h5>
+                    <p class="mb-0">Bypass FRP ch? n�n th?c hi?n tr�n m�y c?a ch�nh b?n ho?c m�y b?n c� quy?n s? d?ng h?p ph�p. Vi?c bypass FRP tr�n m�y tr?m c?p l� vi ph?m ph�p lu?t.</p>
                 </div>
             </section>
 
             <section id="chuan-bi">
-                <h2><i class="fas fa-clipboard-check me-2"></i>3. Chuẩn Bị Trước Khi Bypass</h2>
+                <h2><i class="fas fa-clipboard-check me-2"></i>3. Chu?n B? Tru?c Khi Bypass</h2>
                 
-                <h3>3.1. Yêu cầu phần cứng</h3>
+                <h3>3.1. Y�u c?u ph?n c?ng</h3>
                 <ul>
-                    <li><strong>Máy tính Windows:</strong> Windows 7/8/10/11 (64-bit khuyến nghị)</li>
-                    <li><strong>Cáp USB-C:</strong> Cáp chính hãng hoặc cáp chất lượng tốt, đảm bảo truyền dữ liệu</li>
-                    <li><strong>Realme C55:</strong> Pin còn ít nhất 50%</li>
-                    <li><strong>Kết nối internet:</strong> Ổn định để xác thực tool</li>
+                    <li><strong>M�y t�nh Windows:</strong> Windows 7/8/10/11 (64-bit khuy?n ngh?)</li>
+                    <li><strong>C�p USB-C:</strong> C�p ch�nh h�ng ho?c c�p ch?t lu?ng t?t, d?m b?o truy?n d? li?u</li>
+                    <li><strong>Realme C55:</strong> Pin c�n �t nh?t 50%</li>
+                    <li><strong>K?t n?i internet:</strong> ?n d?nh d? x�c th?c tool</li>
                 </ul>
 
-                <h3>3.2. Phần mềm cần cài đặt</h3>
+                <h3>3.2. Ph?n m?m c?n c�i d?t</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Phần mềm</th>
-                            <th>Mô tả</th>
-                            <th>Link tải</th>
+                            <th>Ph?n m?m</th>
+                            <th>M� t?</th>
+                            <th>Link t?i</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td><strong>MTK VCOM Driver</strong></td>
-                            <td>Driver để máy tính nhận Realme C55 ở BROM Mode</td>
-                            <td><a href="https://file.unlocktool.net/page/all-driver" target="_blank">Tải Driver</a></td>
+                            <td>Driver d? m�y t�nh nh?n Realme C55 ? BROM Mode</td>
+                            <td><a href="https://file.unlocktool.net/page/all-driver" target="_blank">T?i Driver</a></td>
                         </tr>
                         <tr>
                             <td><strong>UnlockTool</strong></td>
-                            <td>Phần mềm bypass FRP chuyên dụng</td>
-                            <td><a href="https://file.unlocktool.net/page/index.php" target="_blank">Tải UnlockTool</a></td>
+                            <td>Ph?n m?m bypass FRP chuy�n d?ng</td>
+                            <td><a href="https://file.unlocktool.net/page/index.php" target="_blank">T?i UnlockTool</a></td>
                         </tr>
                         <tr>
-                            <td><strong>Tài khoản UnlockTool</strong></td>
-                            <td>Thuê tài khoản để sử dụng tool</td>
-                            <td><a href="https://www.unlocktool.us/" target="_blank">Thuê 8K/6H</a></td>
+                            <td><strong>T�i kho?n UnlockTool</strong></td>
+                            <td>Thu� t�i kho?n d? s? d?ng tool</td>
+                            <td><a href="https://www.unlocktool.us/" target="_blank">Thu� 8K/6H</a></td>
                         </tr>
                     </tbody>
                 </table>
 
-                <h3>3.3. Thuê tài khoản UnlockTool</h3>
+                <h3>3.3. Thu� t�i kho?n UnlockTool</h3>
                 <div class="price-highlight">
-                    <h4><i class="fas fa-tag me-2"></i>Thuê Tool Bypass FRP</h4>
-                    <p class="price">8.000đ</p>
-                    <p class="h4">/ 6 tiếng</p>
-                    <p class="mt-3">Hệ thống tự động 24/7 - Nhận ngay sau thanh toán</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-dark btn-lg mt-3"><i class="fas fa-shopping-cart me-2"></i>Thuê Ngay - UnlockTool.us</a>
+                    <h4><i class="fas fa-tag me-2"></i>Thu� Tool Bypass FRP</h4>
+                    <p class="price">8.000d</p>
+                    <p class="h4">/ 6 ti?ng</p>
+                    <p class="mt-3">H? th?ng t? d?ng 24/7 - Nh?n ngay sau thanh to�n</p>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-dark btn-lg mt-3"><i class="fas fa-shopping-cart me-2"></i>Thu� Ngay - UnlockTool.us</a>
                 </div>
 
                 <div class="danger-box">
-                    <h5><i class="fas fa-shield-alt me-2"></i>Bắt buộc làm trước khi bypass</h5>
+                    <h5><i class="fas fa-shield-alt me-2"></i>B?t bu?c l�m tru?c khi bypass</h5>
                     <ul class="mb-0">
-                        <li><strong>Tắt Windows Defender:</strong> Settings > Windows Security > Real-time protection > OFF</li>
-                        <li><strong>Tắt antivirus khác:</strong> Kaspersky, Avast, AVG, Norton...</li>
-                        <li><strong>Chạy với Administrator:</strong> Chuột phải vào UnlockTool.exe > Run as administrator</li>
-                        <li><strong>Cài driver trước:</strong> Cài MTK VCOM Driver và restart máy tính</li>
+                        <li><strong>T?t Windows Defender:</strong> Settings > Windows Security > Real-time protection > OFF</li>
+                        <li><strong>T?t antivirus kh�c:</strong> Kaspersky, Avast, AVG, Norton...</li>
+                        <li><strong>Ch?y v?i Administrator:</strong> Chu?t ph?i v�o UnlockTool.exe > Run as administrator</li>
+                        <li><strong>C�i driver tru?c:</strong> C�i MTK VCOM Driver v� restart m�y t�nh</li>
                     </ul>
                 </div>
             </section>
 
             <section id="phuong-phap-brom">
-                <h2><i class="fas fa-microchip me-2"></i>4. Bypass Qua BROM Mode (MTK) - Khuyến Nghị</h2>
+                <h2><i class="fas fa-microchip me-2"></i>4. Bypass Qua BROM Mode (MTK) - Khuy?n Ngh?</h2>
                 
-                <p><strong>BROM (Boot ROM) Mode</strong> là chế độ đặc biệt của chip MediaTek, cho phép truy cập trực tiếp vào bootrom để thực hiện các thao tác như flash firmware, bypass FRP, xóa pattern... Đây là phương pháp hiệu quả nhất cho Realme C55.</p>
+                <p><strong>BROM (Boot ROM) Mode</strong> l� ch? d? d?c bi?t c?a chip MediaTek, cho ph�p truy c?p tr?c ti?p v�o bootrom d? th?c hi?n c�c thao t�c nhu flash firmware, bypass FRP, x�a pattern... ��y l� phuong ph�p hi?u qu? nh?t cho Realme C55.</p>
 
                 <div class="step-card">
                     <div class="step-number">1</div>
-                    <h4>Cài đặt MTK VCOM Driver</h4>
+                    <h4>C�i d?t MTK VCOM Driver</h4>
                     <ol>
-                        <li>Tải MTK VCOM Driver từ <a href="https://file.unlocktool.net/page/all-driver" target="_blank">file.unlocktool.net/all-driver</a></li>
-                        <li>Giải nén và chạy file cài đặt với quyền Administrator</li>
-                        <li>Làm theo hướng dẫn cài đặt</li>
-                        <li><strong>Quan trọng:</strong> Restart máy tính sau khi cài driver</li>
+                        <li>T?i MTK VCOM Driver t? <a href="https://file.unlocktool.net/page/all-driver" target="_blank">file.unlocktool.net/all-driver</a></li>
+                        <li>Gi?i n�n v� ch?y file c�i d?t v?i quy?n Administrator</li>
+                        <li>L�m theo hu?ng d?n c�i d?t</li>
+                        <li><strong>Quan tr?ng:</strong> Restart m�y t�nh sau khi c�i driver</li>
                     </ol>
                     <div class="info-box">
-                        <p class="mb-0"><strong>Kiểm tra driver:</strong> Mở Device Manager > Cắm Realme C55 ở BROM Mode > Nếu thấy "MediaTek PreLoader USB VCOM" là driver đã cài đúng.</p>
+                        <p class="mb-0"><strong>Ki?m tra driver:</strong> M? Device Manager > C?m Realme C55 ? BROM Mode > N?u th?y "MediaTek PreLoader USB VCOM" l� driver d� c�i d�ng.</p>
                     </div>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">2</div>
-                    <h4>Mở UnlockTool và đăng nhập</h4>
+                    <h4>M? UnlockTool v� dang nh?p</h4>
                     <ol>
-                        <li>Tải UnlockTool từ <a href="https://file.unlocktool.net/page/index.php" target="_blank">file.unlocktool.net</a></li>
-                        <li>Giải nén vào thư mục (ví dụ: D:\UnlockTool)</li>
-                        <li>Chuột phải vào <strong>UnlockTool.exe</strong> > <strong>Run as administrator</strong></li>
-                        <li>Nhập Username và Password đã thuê từ UnlockTool.us</li>
-                        <li>Nhấn <strong>Login</strong> và chờ xác thực</li>
+                        <li>T?i UnlockTool t? <a href="https://file.unlocktool.net/page/index.php" target="_blank">file.unlocktool.net</a></li>
+                        <li>Gi?i n�n v�o thu m?c (v� d?: D:\UnlockTool)</li>
+                        <li>Chu?t ph?i v�o <strong>UnlockTool.exe</strong> > <strong>Run as administrator</strong></li>
+                        <li>Nh?p Username v� Password d� thu� t? UnlockTool.us</li>
+                        <li>Nh?n <strong>Login</strong> v� ch? x�c th?c</li>
                     </ol>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">3</div>
-                    <h4>Vào BROM Mode trên Realme C55</h4>
-                    <p>Đây là bước quan trọng nhất. Có nhiều cách để vào BROM Mode:</p>
+                    <h4>V�o BROM Mode tr�n Realme C55</h4>
+                    <p>��y l� bu?c quan tr?ng nh?t. C� nhi?u c�ch d? v�o BROM Mode:</p>
                     
-                    <p><strong>Cách 1: Combo phím (Khuyến nghị)</strong></p>
+                    <p><strong>C�ch 1: Combo ph�m (Khuy?n ngh?)</strong></p>
                     <ol>
-                        <li>Tắt nguồn Realme C55 hoàn toàn</li>
-                        <li>Trong UnlockTool, chọn tab <strong>MTK</strong> hoặc <strong>Realme</strong></li>
-                        <li>Chọn <strong>BROM Mode</strong></li>
-                        <li>Nhấn <strong>Start</strong> hoặc <strong>Read Info</strong> trong UnlockTool</li>
-                        <li>Giữ đồng thời <strong>Vol Up + Vol Down</strong></li>
-                        <li>Vẫn giữ 2 nút, cắm cáp USB vào máy tính</li>
-                        <li>Giữ thêm 3-5 giây rồi thả tay</li>
-                        <li>UnlockTool sẽ tự động nhận máy ở BROM Mode</li>
+                        <li>T?t ngu?n Realme C55 ho�n to�n</li>
+                        <li>Trong UnlockTool, ch?n tab <strong>MTK</strong> ho?c <strong>Realme</strong></li>
+                        <li>Ch?n <strong>BROM Mode</strong></li>
+                        <li>Nh?n <strong>Start</strong> ho?c <strong>Read Info</strong> trong UnlockTool</li>
+                        <li>Gi? d?ng th?i <strong>Vol Up + Vol Down</strong></li>
+                        <li>V?n gi? 2 n�t, c?m c�p USB v�o m�y t�nh</li>
+                        <li>Gi? th�m 3-5 gi�y r?i th? tay</li>
+                        <li>UnlockTool s? t? d?ng nh?n m�y ? BROM Mode</li>
                     </ol>
 
-                    <p><strong>Cách 2: Chỉ cắm cáp</strong></p>
+                    <p><strong>C�ch 2: Ch? c?m c�p</strong></p>
                     <ol>
-                        <li>Tắt nguồn hoàn toàn</li>
-                        <li>Nhấn Start trong UnlockTool</li>
-                        <li>Cắm cáp USB (không giữ nút nào)</li>
-                        <li>Một số máy sẽ tự vào BROM</li>
+                        <li>T?t ngu?n ho�n to�n</li>
+                        <li>Nh?n Start trong UnlockTool</li>
+                        <li>C?m c�p USB (kh�ng gi? n�t n�o)</li>
+                        <li>M?t s? m�y s? t? v�o BROM</li>
                     </ol>
 
                     <div class="info-box">
-                        <p class="mb-0"><strong>Dấu hiệu thành công:</strong> UnlockTool hiển thị thông tin máy như "MT6765" hoặc "Helio G88" và trạng thái "BROM Mode detected".</p>
+                        <p class="mb-0"><strong>D?u hi?u th�nh c�ng:</strong> UnlockTool hi?n th? th�ng tin m�y nhu "MT6765" ho?c "Helio G88" v� tr?ng th�i "BROM Mode detected".</p>
                     </div>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">4</div>
-                    <h4>Thực hiện bypass FRP</h4>
+                    <h4>Th?c hi?n bypass FRP</h4>
                     <ol>
-                        <li>Khi UnlockTool đã nhận máy ở BROM Mode</li>
-                        <li>Chọn <strong>Remove FRP</strong> hoặc <strong>Reset FRP</strong></li>
-                        <li>Nhấn <strong>Start</strong></li>
-                        <li>Chờ quá trình hoàn tất (5-15 phút)</li>
-                        <li>Máy sẽ tự khởi động lại</li>
-                        <li><strong>FRP đã được xóa thành công!</strong></li>
+                        <li>Khi UnlockTool d� nh?n m�y ? BROM Mode</li>
+                        <li>Ch?n <strong>Remove FRP</strong> ho?c <strong>Reset FRP</strong></li>
+                        <li>Nh?n <strong>Start</strong></li>
+                        <li>Ch? qu� tr�nh ho�n t?t (5-15 ph�t)</li>
+                        <li>M�y s? t? kh?i d?ng l?i</li>
+                        <li><strong>FRP d� du?c x�a th�nh c�ng!</strong></li>
                     </ol>
                 </div>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-check-circle me-2"></i>Kết quả sau bypass thành công</h5>
+                    <h5><i class="fas fa-check-circle me-2"></i>K?t qu? sau bypass th�nh c�ng</h5>
                     <ul class="mb-0">
-                        <li>Realme C55 khởi động vào màn hình Welcome như máy mới</li>
-                        <li>Không còn yêu cầu đăng nhập tài khoản Google cũ</li>
-                        <li>Bạn có thể đăng ký tài khoản Google mới và sử dụng máy bình thường</li>
+                        <li>Realme C55 kh?i d?ng v�o m�n h�nh Welcome nhu m�y m?i</li>
+                        <li>Kh�ng c�n y�u c?u dang nh?p t�i kho?n Google cu</li>
+                        <li>B?n c� th? dang k� t�i kho?n Google m?i v� s? d?ng m�y b�nh thu?ng</li>
                     </ul>
                 </div>
             </section>
@@ -445,16 +415,16 @@ $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
             <section id="phuong-phap-fastboot">
                 <h2><i class="fas fa-terminal me-2"></i>5. Bypass Qua Fastboot Mode</h2>
                 
-                <p>Một số trường hợp có thể bypass FRP Realme C55 qua Fastboot Mode thay vì BROM Mode.</p>
+                <p>M?t s? tru?ng h?p c� th? bypass FRP Realme C55 qua Fastboot Mode thay v� BROM Mode.</p>
 
                 <div class="step-card">
                     <div class="step-number">1</div>
-                    <h4>Vào Fastboot Mode</h4>
+                    <h4>V�o Fastboot Mode</h4>
                     <ol>
-                        <li>Tắt nguồn Realme C55 hoàn toàn</li>
-                        <li>Giữ đồng thời <strong>Vol Down + Power</strong></li>
-                        <li>Khi thấy logo Fastboot/Realme với chữ "Fastboot Mode" = OK</li>
-                        <li>Kết nối với máy tính qua cáp USB</li>
+                        <li>T?t ngu?n Realme C55 ho�n to�n</li>
+                        <li>Gi? d?ng th?i <strong>Vol Down + Power</strong></li>
+                        <li>Khi th?y logo Fastboot/Realme v?i ch? "Fastboot Mode" = OK</li>
+                        <li>K?t n?i v?i m�y t�nh qua c�p USB</li>
                     </ol>
                 </div>
 
@@ -462,61 +432,61 @@ $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
                     <div class="step-number">2</div>
                     <h4>Bypass trong UnlockTool</h4>
                     <ol>
-                        <li>Mở UnlockTool > Tab <strong>Realme</strong> hoặc <strong>MTK</strong></li>
-                        <li>Chọn <strong>Fastboot Mode</strong></li>
-                        <li>UnlockTool nhận máy > Chọn <strong>Remove FRP</strong></li>
-                        <li>Chờ hoàn tất</li>
+                        <li>M? UnlockTool > Tab <strong>Realme</strong> ho?c <strong>MTK</strong></li>
+                        <li>Ch?n <strong>Fastboot Mode</strong></li>
+                        <li>UnlockTool nh?n m�y > Ch?n <strong>Remove FRP</strong></li>
+                        <li>Ch? ho�n t?t</li>
                     </ol>
                 </div>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý Fastboot</h5>
-                    <p class="mb-0">Fastboot Mode trên Realme C55 có thể bị hạn chế tính năng. Nếu phương pháp này không hoạt động, hãy sử dụng BROM Mode như hướng dẫn ở trên.</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu � Fastboot</h5>
+                    <p class="mb-0">Fastboot Mode tr�n Realme C55 c� th? b? h?n ch? t�nh nang. N?u phuong ph�p n�y kh�ng ho?t d?ng, h�y s? d?ng BROM Mode nhu hu?ng d?n ? tr�n.</p>
                 </div>
             </section>
 
             <section id="phuong-phap-adb">
-                <h2><i class="fas fa-code me-2"></i>6. Bypass Qua ADB (Nếu Có USB Debugging)</h2>
+                <h2><i class="fas fa-code me-2"></i>6. Bypass Qua ADB (N?u C� USB Debugging)</h2>
                 
-                <p>Nếu bạn đã bật USB Debugging trước khi bị khóa FRP, có thể bypass qua ADB - đây là phương pháp nhanh nhất.</p>
+                <p>N?u b?n d� b?t USB Debugging tru?c khi b? kh�a FRP, c� th? bypass qua ADB - d�y l� phuong ph�p nhanh nh?t.</p>
 
                 <div class="step-card">
-                    <h4>Các bước bypass qua ADB:</h4>
+                    <h4>C�c bu?c bypass qua ADB:</h4>
                     <ol>
-                        <li>Kết nối Realme C55 với máy tính</li>
-                        <li>Nhấn <strong>Allow</strong> trên điện thoại khi có popup USB Debugging</li>
-                        <li>Mở UnlockTool > Tab <strong>Realme</strong></li>
-                        <li>Chọn <strong>ADB Mode</strong></li>
-                        <li>Nhấn <strong>Remove FRP</strong></li>
-                        <li>Chờ 1-2 phút, máy tự khởi động lại</li>
+                        <li>K?t n?i Realme C55 v?i m�y t�nh</li>
+                        <li>Nh?n <strong>Allow</strong> tr�n di?n tho?i khi c� popup USB Debugging</li>
+                        <li>M? UnlockTool > Tab <strong>Realme</strong></li>
+                        <li>Ch?n <strong>ADB Mode</strong></li>
+                        <li>Nh?n <strong>Remove FRP</strong></li>
+                        <li>Ch? 1-2 ph�t, m�y t? kh?i d?ng l?i</li>
                     </ol>
                 </div>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-info-circle me-2"></i>Cách bật USB Debugging từ màn hình FRP</h5>
-                    <p class="mb-0">Tại màn hình FRP, thử: Kết nối WiFi > Mở trình duyệt > Tải APK Activity Launcher > Mở Settings > Developer Options > USB Debugging ON. Nếu không được, sử dụng phương pháp BROM Mode.</p>
+                    <h5><i class="fas fa-info-circle me-2"></i>C�ch b?t USB Debugging t? m�n h�nh FRP</h5>
+                    <p class="mb-0">T?i m�n h�nh FRP, th?: K?t n?i WiFi > M? tr�nh duy?t > T?i APK Activity Launcher > M? Settings > Developer Options > USB Debugging ON. N?u kh�ng du?c, s? d?ng phuong ph�p BROM Mode.</p>
                 </div>
             </section>
 
             <section id="loi-thuong-gap">
-                <h2><i class="fas fa-bug me-2"></i>7. Lỗi Thường Gặp và Cách Khắc Phục</h2>
+                <h2><i class="fas fa-bug me-2"></i>7. L?i Thu?ng G?p v� C�ch Kh?c Ph?c</h2>
                 
                 <div class="accordion" id="errorAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#err1">
-                                <i class="fas fa-times-circle text-danger me-2"></i>Không vào được BROM Mode
+                                <i class="fas fa-times-circle text-danger me-2"></i>Kh�ng v�o du?c BROM Mode
                             </button>
                         </h2>
                         <div id="err1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
-                                <p><strong>Nguyên nhân:</strong> Không giữ đúng combo phím, cáp USB lỗi, driver chưa cài.</p>
-                                <p><strong>Cách khắc phục:</strong></p>
+                                <p><strong>Nguy�n nh�n:</strong> Kh�ng gi? d�ng combo ph�m, c�p USB l?i, driver chua c�i.</p>
+                                <p><strong>C�ch kh?c ph?c:</strong></p>
                                 <ul>
-                                    <li>Thử giữ Vol Up + Vol Down trước, rồi mới cắm cáp</li>
-                                    <li>Thử cáp USB khác (cáp chính hãng hoặc cáp truyền dữ liệu)</li>
-                                    <li>Cài lại MTK VCOM Driver và restart máy tính</li>
-                                    <li>Thử cổng USB 2.0 thay vì USB 3.0</li>
+                                    <li>Th? gi? Vol Up + Vol Down tru?c, r?i m?i c?m c�p</li>
+                                    <li>Th? c�p USB kh�c (c�p ch�nh h�ng ho?c c�p truy?n d? li?u)</li>
+                                    <li>C�i l?i MTK VCOM Driver v� restart m�y t�nh</li>
+                                    <li>Th? c?ng USB 2.0 thay v� USB 3.0</li>
                                 </ul>
                             </div>
                         </div>
@@ -524,18 +494,18 @@ $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err2">
-                                <i class="fas fa-times-circle text-danger me-2"></i>UnlockTool không nhận máy
+                                <i class="fas fa-times-circle text-danger me-2"></i>UnlockTool kh�ng nh?n m�y
                             </button>
                         </h2>
                         <div id="err2" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>Nguyên nhân:</strong> Driver chưa cài đúng, antivirus chặn, không chạy Administrator.</p>
-                                <p><strong>Cách khắc phục:</strong></p>
+                                <p><strong>Nguy�n nh�n:</strong> Driver chua c�i d�ng, antivirus ch?n, kh�ng ch?y Administrator.</p>
+                                <p><strong>C�ch kh?c ph?c:</strong></p>
                                 <ul>
-                                    <li>Kiểm tra Device Manager xem có thiết bị MediaTek không</li>
-                                    <li>Tắt hoàn toàn Windows Defender và antivirus</li>
-                                    <li>Chạy UnlockTool với quyền Administrator</li>
-                                    <li>Restart máy tính và thử lại</li>
+                                    <li>Ki?m tra Device Manager xem c� thi?t b? MediaTek kh�ng</li>
+                                    <li>T?t ho�n to�n Windows Defender v� antivirus</li>
+                                    <li>Ch?y UnlockTool v?i quy?n Administrator</li>
+                                    <li>Restart m�y t�nh v� th? l?i</li>
                                 </ul>
                             </div>
                         </div>
@@ -548,12 +518,12 @@ $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
                         </h2>
                         <div id="err3" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>Nguyên nhân:</strong> Firmware mới, model chưa được hỗ trợ đầy đủ.</p>
-                                <p><strong>Cách khắc phục:</strong></p>
+                                <p><strong>Nguy�n nh�n:</strong> Firmware m?i, model chua du?c h? tr? d?y d?.</p>
+                                <p><strong>C�ch kh?c ph?c:</strong></p>
                                 <ul>
-                                    <li>Cập nhật UnlockTool lên phiên bản mới nhất</li>
-                                    <li>Thử phương pháp khác (BROM -> Fastboot)</li>
-                                    <li>Liên hệ dịch vụ hỗ trợ: <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></li>
+                                    <li>C?p nh?t UnlockTool l�n phi�n b?n m?i nh?t</li>
+                                    <li>Th? phuong ph�p kh�c (BROM -> Fastboot)</li>
+                                    <li>Li�n h? d?ch v? h? tr?: <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -561,17 +531,17 @@ $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err4">
-                                <i class="fas fa-times-circle text-danger me-2"></i>Máy treo logo sau bypass
+                                <i class="fas fa-times-circle text-danger me-2"></i>M�y treo logo sau bypass
                             </button>
                         </h2>
                         <div id="err4" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>Nguyên nhân:</strong> Quá trình bypass bị gián đoạn hoặc file hệ thống bị hỏng.</p>
-                                <p><strong>Cách khắc phục:</strong></p>
+                                <p><strong>Nguy�n nh�n:</strong> Qu� tr�nh bypass b? gi�n do?n ho?c file h? th?ng b? h?ng.</p>
+                                <p><strong>C�ch kh?c ph?c:</strong></p>
                                 <ul>
-                                    <li>Vào Recovery Mode (Vol Up + Power khi tắt máy)</li>
-                                    <li>Chọn Wipe data/factory reset</li>
-                                    <li>Nếu vẫn lỗi, flash lại firmware gốc</li>
+                                    <li>V�o Recovery Mode (Vol Up + Power khi t?t m�y)</li>
+                                    <li>Ch?n Wipe data/factory reset</li>
+                                    <li>N?u v?n l?i, flash l?i firmware g?c</li>
                                 </ul>
                             </div>
                         </div>
@@ -580,90 +550,90 @@ $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
             </section>
 
             <section id="faq">
-                <h2><i class="fas fa-question-circle me-2"></i>8. Câu Hỏi Thường Gặp (FAQ)</h2>
+                <h2><i class="fas fa-question-circle me-2"></i>8. C�u H?i Thu?ng G?p (FAQ)</h2>
                 
                 <div class="accordion" id="faqAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
-                                Bypass FRP Realme C55 mất bao lâu?
+                                Bypass FRP Realme C55 m?t bao l�u?
                             </button>
                         </h2>
                         <div id="faq1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
-                                Quá trình bypass FRP Realme C55 qua BROM Mode thường mất <strong>5-15 phút</strong>. Tổng thời gian bao gồm chuẩn bị (cài driver, setup tool) khoảng 20-30 phút.
+                                Qu� tr�nh bypass FRP Realme C55 qua BROM Mode thu?ng m?t <strong>5-15 ph�t</strong>. T?ng th?i gian bao g?m chu?n b? (c�i driver, setup tool) kho?ng 20-30 ph�t.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
-                                Giá bypass FRP Realme C55 bao nhiêu?
+                                Gi� bypass FRP Realme C55 bao nhi�u?
                             </button>
                         </h2>
                         <div id="faq2" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <strong>Tự làm:</strong> Thuê tool 8.000đ/6 tiếng tại <a href="https://www.unlocktool.us/">UnlockTool.us</a><br>
-                                <strong>Dịch vụ làm hộ:</strong> Từ 50.000đ tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>
+                                <strong>T? l�m:</strong> Thu� tool 8.000d/6 ti?ng t?i <a href="https://www.unlocktool.us/">UnlockTool.us</a><br>
+                                <strong>D?ch v? l�m h?:</strong> T? 50.000d t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3">
-                                Bypass FRP Realme C55 có mất dữ liệu không?
+                                Bypass FRP Realme C55 c� m?t d? li?u kh�ng?
                             </button>
                         </h2>
                         <div id="faq3" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                Thông thường, bypass FRP qua BROM Mode sẽ reset máy và mất dữ liệu. Nếu bạn có dữ liệu quan trọng và có thể truy cập máy (dù ở màn hình FRP), hãy thử backup trước khi bypass.
+                                Th�ng thu?ng, bypass FRP qua BROM Mode s? reset m�y v� m?t d? li?u. N?u b?n c� d? li?u quan tr?ng v� c� th? truy c?p m�y (d� ? m�n h�nh FRP), h�y th? backup tru?c khi bypass.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4">
-                                Bypass FRP có vĩnh viễn không?
+                                Bypass FRP c� vinh vi?n kh�ng?
                             </button>
                         </h2>
                         <div id="faq4" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <strong>Có</strong>, sau khi bypass FRP thành công, tài khoản Google cũ được xóa hoàn toàn. Bạn có thể đăng ký tài khoản Google mới và sử dụng bình thường. Nếu reset máy lần nữa, sẽ yêu cầu tài khoản MỚI của bạn.
+                                <strong>C�</strong>, sau khi bypass FRP th�nh c�ng, t�i kho?n Google cu du?c x�a ho�n to�n. B?n c� th? dang k� t�i kho?n Google m?i v� s? d?ng b�nh thu?ng. N?u reset m�y l?n n?a, s? y�u c?u t�i kho?n M?I c?a b?n.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq5">
-                                Không tự làm được thì sao?
+                                Kh�ng t? l�m du?c th� sao?
                             </button>
                         </h2>
                         <div id="faq5" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                Nếu không tự bypass được, bạn có thể sử dụng dịch vụ kỹ thuật viên tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>. Thợ sẽ hỗ trợ từ xa qua TeamViewer hoặc AnyDesk. Giá từ 50.000đ, cam kết thành công hoặc hoàn tiền!
+                                N?u kh�ng t? bypass du?c, b?n c� th? s? d?ng d?ch v? k? thu?t vi�n t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>. Th? s? h? tr? t? xa qua TeamViewer ho?c AnyDesk. Gi� t? 50.000d, cam k?t th�nh c�ng ho?c ho�n ti?n!
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <!-- CTA cuối bài -->
+            <!-- CTA cu?i b�i -->
             <section class="mt-5">
                 <div class="price-highlight">
-                    <h3><i class="fas fa-unlock me-2"></i>Bypass FRP Realme C55 Ngay Hôm Nay!</h3>
-                    <p>Chip MediaTek Helio G88 - Bypass dễ dàng qua BROM Mode</p>
-                    <p class="price">8.000đ</p>
-                    <p class="h4">/ 6 tiếng</p>
+                    <h3><i class="fas fa-unlock me-2"></i>Bypass FRP Realme C55 Ngay H�m Nay!</h3>
+                    <p>Chip MediaTek Helio G88 - Bypass d? d�ng qua BROM Mode</p>
+                    <p class="price">8.000d</p>
+                    <p class="h4">/ 6 ti?ng</p>
                     <div class="d-flex justify-content-center flex-wrap gap-3 mt-4">
-                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-dark btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê Tool - UnlockTool.us</a>
-                        <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-dark btn-lg"><i class="fas fa-download me-2"></i>Tải UnlockTool</a>
+                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-dark btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thu� Tool - UnlockTool.us</a>
+                        <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-dark btn-lg"><i class="fas fa-download me-2"></i>T?i UnlockTool</a>
                     </div>
                 </div>
 
                 <div class="service-cta">
-                    <h4><i class="fas fa-headset me-2"></i>Không Tự Làm Được? Dịch Vụ Làm Hộ!</h4>
-                    <p>Kỹ thuật viên hỗ trợ từ xa qua TeamViewer - Cam kết thành công!</p>
-                    <p class="h3 fw-bold">Từ 50.000đ</p>
+                    <h4><i class="fas fa-headset me-2"></i>Kh�ng T? L�m �u?c? D?ch V? L�m H?!</h4>
+                    <p>K? thu?t vi�n h? tr? t? xa qua TeamViewer - Cam k?t th�nh c�ng!</p>
+                    <p class="h3 fw-bold">T? 50.000d</p>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-external-link-alt me-2"></i>Thuetaikhoan.net</a>
                 </div>
             </section>
@@ -675,9 +645,9 @@ $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
             <div class="sticky-top" style="top:20px">
                 <div class="price-highlight mb-4">
                     <h5><i class="fas fa-tag me-2"></i>Bypass Realme C55</h5>
-                    <p class="price" style="font-size:2.5rem">8.000đ</p>
-                    <p>/ 6 tiếng</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-dark w-100 mt-3">Thuê Tool Ngay</a>
+                    <p class="price" style="font-size:2.5rem">8.000d</p>
+                    <p>/ 6 ti?ng</p>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-dark w-100 mt-3">Thu� Tool Ngay</a>
                 </div>
 
                 <div class="card mb-4">
@@ -686,17 +656,17 @@ $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
                     </div>
                     <div class="card-body">
                         <ul class="list-unstyled mb-0">
-                            <li>✓ Chip MediaTek Helio G88</li>
-                            <li>✓ BROM Mode support</li>
-                            <li>✓ Bypass dễ dàng</li>
-                            <li>✓ Thời gian: 5-15 phút</li>
+                            <li>? Chip MediaTek Helio G88</li>
+                            <li>? BROM Mode support</li>
+                            <li>? Bypass d? d�ng</li>
+                            <li>? Th?i gian: 5-15 ph�t</li>
                         </ul>
                     </div>
                 </div>
 
                 <div class="card mb-4">
                     <div class="card-header bg-primary text-white">
-                        <i class="fas fa-download me-2"></i>Tải xuống
+                        <i class="fas fa-download me-2"></i>T?i xu?ng
                     </div>
                     <div class="card-body">
                         <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-primary w-100 mb-2">UnlockTool</a>
@@ -706,13 +676,13 @@ $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
 
                 <div class="card">
                     <div class="card-header bg-dark text-white">
-                        <i class="fas fa-link me-2"></i>Bài viết liên quan
+                        <i class="fas fa-link me-2"></i>B�i vi?t li�n quan
                     </div>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item"><a href="93-frp-oppo-a58.php">FRP Oppo A58</a></li>
                         <li class="list-group-item"><a href="94-frp-vivo-y36.php">FRP Vivo Y36</a></li>
                         <li class="list-group-item"><a href="100-sp-flash-tool-mediatek.php">SP Flash Tool</a></li>
-                        <li class="list-group-item"><a href="81-unlocktool-huong-dan-su-dung.php">Hướng dẫn UnlockTool</a></li>
+                        <li class="list-group-item"><a href="81-unlocktool-huong-dan-su-dung.php">Hu?ng d?n UnlockTool</a></li>
                     </ul>
                 </div>
             </div>
@@ -727,7 +697,7 @@ $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -741,13 +711,13 @@ $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hướng dẫn chi tiết</small>
+                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
                         </div>
                     </div>
                 </div>
@@ -755,15 +725,15 @@ $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">Từ iPhone 5s - X</small>
+                            <small class="text-muted">T? iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
-                            <small class="text-muted">Download mới nhất</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
+                            <small class="text-muted">Download m?i nh?t</small>
                         </div>
                     </div>
                 </div>
@@ -776,7 +746,7 @@ $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -787,10 +757,10 @@ $canonical_url = "https://www.unlocktool.us/articles/95-frp-realme-c55.php";
         <div class="row">
             <div class="col-md-6">
                 <h5>UnlockTool.us</h5>
-                <p class="small">Cho thuê tài khoản tool mở khóa điện thoại uy tín nhất Việt Nam.</p>
+                <p class="small">Cho thu� t�i kho?n tool m? kh�a di?n tho?i uy t�n nh?t Vi?t Nam.</p>
             </div>
             <div class="col-md-6 text-md-end">
-                <p class="small mb-1">Dịch vụ: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+                <p class="small mb-1">D?ch v?: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
                 <p class="small">&copy; 2026 UnlockTool.us - All rights reserved.</p>
             </div>
         </div>

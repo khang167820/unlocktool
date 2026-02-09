@@ -1,6 +1,6 @@
-﻿<?php
-$page_title = "Liên Hệ 📞 UnlockTool.us - Thuetaikhoan.net | Hỗ Trợ 24/7";
-$page_description = "📞 Liên hệ UnlockTool.us và Thuetaikhoan.net. Hỗ trợ 24/7 qua Zalo, Facebook, Telegram. Thuê tool, đặt dịch vụ bypass.";
+<?php
+$page_title = "Li�n H? ?? UnlockTool.us - Thuetaikhoan.net | H? Tr? 24/7";
+$page_description = "?? Li�n h? UnlockTool.us v� Thuetaikhoan.net. H? tr? 24/7 qua Zalo, Facebook, Telegram. Thu� tool, d?t d?ch v? bypass.";
 $page_keywords = "lien he unlocktool, lien he thuetaikhoan, ho tro ky thuat, zalo unlocktool";
 $canonical_url = "https://www.unlocktool.us/articles/79-lien-he.php";
 ?>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/79-lien-he.php";
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/79-lien-he.php";
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hướng dẫn kỹ thuật">
+    <meta property="article:section" content="Hu?ng d?n k? thu?t">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="Mở khóa điện thoại">
+    <meta property="article:tag" content="M? kh�a di?n tho?i">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -50,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/79-lien-he.php";
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -60,8 +60,8 @@ $canonical_url = "https://www.unlocktool.us/articles/79-lien-he.php";
     {
         "@context": "https://schema.org",
         "@type": "ContactPage",
-        "name": "Liên Hệ UnlockTool.us",
-        "description": "Trang liên hệ hỗ trợ khách hàng"
+        "name": "Li�n H? UnlockTool.us",
+        "description": "Trang li�n h? h? tr? kh�ch h�ng"
     }
     </script>
     
@@ -111,52 +111,22 @@ $canonical_url = "https://www.unlocktool.us/articles/79-lien-he.php";
         }
     }
     </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Dịch vụ mở khóa điện thoại",
-        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.9",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "140"
-        }
-    }
-    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
 </nav>
 <section class="hero-section">
     <div class="container text-center">
-        <h1><i class="fas fa-headset me-2"></i>Liên Hệ</h1>
-        <p class="lead">Hỗ trợ 24/7 - Phản hồi nhanh chóng</p>
+        <h1><i class="fas fa-headset me-2"></i>Li�n H?</h1>
+        <p class="lead">H? tr? 24/7 - Ph?n h?i nhanh ch�ng</p>
     </div>
 </section>
 
@@ -165,36 +135,36 @@ $canonical_url = "https://www.unlocktool.us/articles/79-lien-he.php";
         
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #0066cc;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>Tác giả:</strong> UnlockTool.us Team</span>
-            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>Cập nhật:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Đọc:</strong> ~5 phút</span>
-            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lượt xem:</strong> <span id="viewCount">1,234</span></span>
+            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>T�c gi?:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>�?c:</strong> ~5 ph�t</span>
+            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> <span id="viewCount">1,234</span></span>
         </div>
-        <h2><i class="fas fa-comments me-2"></i>Kênh Liên Hệ</h2>
+        <h2><i class="fas fa-comments me-2"></i>K�nh Li�n H?</h2>
         
         <div class="row">
             <div class="col-md-4">
                 <div class="contact-card">
                     <i class="fab fa-facebook text-primary"></i>
                     <h5>Facebook</h5>
-                    <p>Nhắn tin nhanh qua Messenger</p>
-                    <a href="https://thuetaikhoan.net" class="btn btn-primary">Liên hệ</a>
+                    <p>Nh?n tin nhanh qua Messenger</p>
+                    <a href="https://thuetaikhoan.net" class="btn btn-primary">Li�n h?</a>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="contact-card">
                     <i class="fas fa-comment-dots text-info"></i>
                     <h5>Zalo</h5>
-                    <p>Chat trực tiếp qua Zalo</p>
-                    <a href="https://thuetaikhoan.net" class="btn btn-info text-white">Liên hệ</a>
+                    <p>Chat tr?c ti?p qua Zalo</p>
+                    <a href="https://thuetaikhoan.net" class="btn btn-info text-white">Li�n h?</a>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="contact-card">
                     <i class="fab fa-telegram text-primary"></i>
                     <h5>Telegram</h5>
-                    <p>Hỗ trợ quốc tế</p>
-                    <a href="https://thuetaikhoan.net" class="btn btn-primary">Liên hệ</a>
+                    <p>H? tr? qu?c t?</p>
+                    <a href="https://thuetaikhoan.net" class="btn btn-primary">Li�n h?</a>
                 </div>
             </div>
         </div>
@@ -202,32 +172,32 @@ $canonical_url = "https://www.unlocktool.us/articles/79-lien-he.php";
         <div class="service-info">
             <h4><i class="fas fa-globe me-2"></i>Website</h4>
             <ul class="mb-0">
-                <li><strong>Thuê Tool:</strong> <a href="https://www.unlocktool.us/">UnlockTool.us</a></li>
-                <li><strong>Dịch vụ:</strong> <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></li>
+                <li><strong>Thu� Tool:</strong> <a href="https://www.unlocktool.us/">UnlockTool.us</a></li>
+                <li><strong>D?ch v?:</strong> <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></li>
             </ul>
         </div>
         
-        <h2><i class="fas fa-clock me-2"></i>Thời Gian Hỗ Trợ</h2>
+        <h2><i class="fas fa-clock me-2"></i>Th?i Gian H? Tr?</h2>
         <ul>
-            <li><strong>Hỗ trợ online:</strong> 24/7</li>
-            <li><strong>Phản hồi:</strong> Trong vòng 5-30 phút</li>
-            <li><strong>Xử lý dịch vụ:</strong> 5-60 phút tùy dịch vụ</li>
+            <li><strong>H? tr? online:</strong> 24/7</li>
+            <li><strong>Ph?n h?i:</strong> Trong v�ng 5-30 ph�t</li>
+            <li><strong>X? l� d?ch v?:</strong> 5-60 ph�t t�y d?ch v?</li>
         </ul>
         
-        <h2><i class="fas fa-info-circle me-2"></i>Dịch Vụ Cung Cấp</h2>
+        <h2><i class="fas fa-info-circle me-2"></i>D?ch V? Cung C?p</h2>
         <ul>
-            <li>Cho thuê UnlockTool, TSM Tool, EFT Pro, Chimera...</li>
-            <li>Dịch vụ bypass FRP Android</li>
-            <li>Dịch vụ bypass iCloud iPhone</li>
-            <li>Sửa IMEI, xóa Knox Samsung</li>
-            <li>Flash firmware, fix lỗi phần mềm</li>
+            <li>Cho thu� UnlockTool, TSM Tool, EFT Pro, Chimera...</li>
+            <li>D?ch v? bypass FRP Android</li>
+            <li>D?ch v? bypass iCloud iPhone</li>
+            <li>S?a IMEI, x�a Knox Samsung</li>
+            <li>Flash firmware, fix l?i ph?n m?m</li>
         </ul>
         
         <div class="price-box">
-            <h3><i class="fas fa-bolt me-2"></i>Thuê UnlockTool Ngay</h3>
-            <p class="display-5 fw-bold">8.000đ / 6H</p>
-            <a href="https://www.unlocktool.us/" class="cta-btn me-2"><i class="fas fa-tools me-2"></i>Thuê Tool</a>
-            <a href="https://thuetaikhoan.net" class="cta-btn"><i class="fas fa-headset me-2"></i>Đặt Dịch Vụ</a>
+            <h3><i class="fas fa-bolt me-2"></i>Thu� UnlockTool Ngay</h3>
+            <p class="display-5 fw-bold">8.000d / 6H</p>
+            <a href="https://www.unlocktool.us/" class="cta-btn me-2"><i class="fas fa-tools me-2"></i>Thu� Tool</a>
+            <a href="https://thuetaikhoan.net" class="cta-btn"><i class="fas fa-headset me-2"></i>�?t D?ch V?</a>
         </div>
         
     </div>
@@ -240,7 +210,7 @@ $canonical_url = "https://www.unlocktool.us/articles/79-lien-he.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -254,13 +224,13 @@ $canonical_url = "https://www.unlocktool.us/articles/79-lien-he.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hướng dẫn chi tiết</small>
+                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
                         </div>
                     </div>
                 </div>
@@ -268,15 +238,15 @@ $canonical_url = "https://www.unlocktool.us/articles/79-lien-he.php";
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">Từ iPhone 5s - X</small>
+                            <small class="text-muted">T? iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
-                            <small class="text-muted">Download mới nhất</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
+                            <small class="text-muted">Download m?i nh?t</small>
                         </div>
                     </div>
                 </div>
@@ -289,7 +259,7 @@ $canonical_url = "https://www.unlocktool.us/articles/79-lien-he.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         

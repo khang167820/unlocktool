@@ -1,6 +1,6 @@
-﻿<?php
-$page_title = "Miracle Box Là Gì? 🔥 Hướng Dẫn Miracle Thunder MTK 2026";
-$page_description = "🔥 Miracle Box là gì? Hướng dẫn CHI TIẾT Miracle Thunder 2026. Tính năng FRP bypass, IMEI repair cho MTK, Qualcomm, SPD. Giá $115-165. So sánh với UnlockTool 8K!";
+<?php
+$page_title = "Miracle Box L� G�? ?? Hu?ng D?n Miracle Thunder MTK 2026";
+$page_description = "?? Miracle Box l� g�? Hu?ng d?n CHI TI?T Miracle Thunder 2026. T�nh nang FRP bypass, IMEI repair cho MTK, Qualcomm, SPD. Gi� $115-165. So s�nh v?i UnlockTool 8K!";
 $page_keywords = "miracle box, miracle thunder, miracle key, miracle mtk, miracle qualcomm, so sanh miracle unlocktool, miracle box la gi";
 $canonical_url = "https://www.unlocktool.us/articles/140-miracle-box-la-gi.php";
 ?>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/140-miracle-box-la-gi.php";
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/140-miracle-box-la-gi.php";
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hướng dẫn kỹ thuật">
+    <meta property="article:section" content="Hu?ng d?n k? thu?t">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="Mở khóa điện thoại">
+    <meta property="article:tag" content="M? kh�a di?n tho?i">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -50,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/140-miracle-box-la-gi.php";
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -60,8 +60,8 @@ $canonical_url = "https://www.unlocktool.us/articles/140-miracle-box-la-gi.php";
     {
         "@context": "https://schema.org",
         "@type": "TechArticle",
-        "headline": "Miracle Box Là Gì? Hướng Dẫn Miracle Thunder MTK 2026",
-        "description": "Hướng dẫn chi tiết về Miracle Box Thunder - công cụ mở khóa lâu đời nhất cho MTK và Qualcomm",
+        "headline": "Miracle Box L� G�? Hu?ng D?n Miracle Thunder MTK 2026",
+        "description": "Hu?ng d?n chi ti?t v? Miracle Box Thunder - c�ng c? m? kh�a l�u d?i nh?t cho MTK v� Qualcomm",
         "author": {"@type": "Organization", "name": "UnlockTool.us"},
         "publisher": {"@type": "Organization", "name": "UnlockTool.us"},
         "datePublished": "2024-02-01",
@@ -73,10 +73,10 @@ $canonical_url = "https://www.unlocktool.us/articles/140-miracle-box-la-gi.php";
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "Miracle Box là gì?", "acceptedAnswer": {"@type": "Answer", "text": "Miracle Box là công cụ mở khóa điện thoại lâu đời và nổi tiếng nhất, được phát triển từ Trung Quốc. Hỗ trợ MTK, Qualcomm, Spreadtrum. Có 3 phiên bản: Miracle Box (dongle), Miracle Thunder, Miracle Key."}},
-            {"@type": "Question", "name": "Miracle Box giá bao nhiêu?", "acceptedAnswer": {"@type": "Answer", "text": "Miracle Thunder Dongle khoảng $115-165 USD (2.9-4.1 triệu VND). Miracle Key (1 năm) khoảng $60-80 USD. Cần renew hàng năm $165."}},
-            {"@type": "Question", "name": "Miracle Box có làm iPhone được không?", "acceptedAnswer": {"@type": "Answer", "text": "Không. Miracle Box chỉ hỗ trợ Android (MTK, Qualcomm, SPD). Để làm iPhone, cần sử dụng UnlockTool."}},
-            {"@type": "Question", "name": "Nên mua Miracle hay thuê UnlockTool?", "acceptedAnswer": {"@type": "Answer", "text": "Nếu chuyên làm MTK số lượng lớn, Miracle là lựa chọn tốt. Nếu cần làm đa dạng (iPhone + Android) hoặc chỉ 1-2 máy, thuê UnlockTool 8K tiết kiệm hơn rất nhiều."}}
+            {"@type": "Question", "name": "Miracle Box l� g�?", "acceptedAnswer": {"@type": "Answer", "text": "Miracle Box l� c�ng c? m? kh�a di?n tho?i l�u d?i v� n?i ti?ng nh?t, du?c ph�t tri?n t? Trung Qu?c. H? tr? MTK, Qualcomm, Spreadtrum. C� 3 phi�n b?n: Miracle Box (dongle), Miracle Thunder, Miracle Key."}},
+            {"@type": "Question", "name": "Miracle Box gi� bao nhi�u?", "acceptedAnswer": {"@type": "Answer", "text": "Miracle Thunder Dongle kho?ng $115-165 USD (2.9-4.1 tri?u VND). Miracle Key (1 nam) kho?ng $60-80 USD. C?n renew h�ng nam $165."}},
+            {"@type": "Question", "name": "Miracle Box c� l�m iPhone du?c kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "Kh�ng. Miracle Box ch? h? tr? Android (MTK, Qualcomm, SPD). �? l�m iPhone, c?n s? d?ng UnlockTool."}},
+            {"@type": "Question", "name": "N�n mua Miracle hay thu� UnlockTool?", "acceptedAnswer": {"@type": "Answer", "text": "N?u chuy�n l�m MTK s? lu?ng l?n, Miracle l� l?a ch?n t?t. N?u c?n l�m da d?ng (iPhone + Android) ho?c ch? 1-2 m�y, thu� UnlockTool 8K ti?t ki?m hon r?t nhi?u."}}
         ]
     }
     </script>
@@ -122,54 +122,24 @@ $canonical_url = "https://www.unlocktool.us/articles/140-miracle-box-la-gi.php";
         }
     }
     </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Dịch vụ mở khóa điện thoại",
-        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.9",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "121"
-        }
-    }
-    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
 </nav>
 <section class="hero-section">
     <div class="container text-center">
-        <h1><i class="fas fa-magic me-2"></i>Miracle Box Là Gì? Hướng Dẫn Miracle Thunder 2026</h1>
-        <p class="lead">Tool mở khóa lâu đời nhất cho MTK, Qualcomm, SPD - FRP Bypass, IMEI Repair, Flash Firmware</p>
+        <h1><i class="fas fa-magic me-2"></i>Miracle Box L� G�? Hu?ng D?n Miracle Thunder 2026</h1>
+        <p class="lead">Tool m? kh�a l�u d?i nh?t cho MTK, Qualcomm, SPD - FRP Bypass, IMEI Repair, Flash Firmware</p>
         <div class="mt-4">
-            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>Thuê UnlockTool <span class="flash-sale">CHỈ 8K</span></a>
+            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>Thu� UnlockTool <span class="flash-sale">CH? 8K</span></a>
         </div>
     </div>
 </section>
@@ -179,314 +149,314 @@ $canonical_url = "https://www.unlocktool.us/articles/140-miracle-box-la-gi.php";
         
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #0066cc;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>Tác giả:</strong> UnlockTool.us Team</span>
-            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>Cập nhật:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Đọc:</strong> ~5 phút</span>
-            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lượt xem:</strong> <span id="viewCount">1,234</span></span>
+            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>T�c gi?:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>�?c:</strong> ~5 ph�t</span>
+            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> <span id="viewCount">1,234</span></span>
         </div>
         <div class="toc">
-            <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
+            <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
             <ul>
-                <li><a href="#miracle-la-gi">1. Miracle Box là gì?</a></li>
-                <li><a href="#phien-ban">2. Các phiên bản Miracle</a></li>
-                <li><a href="#tinh-nang">3. Tính năng chính</a></li>
-                <li><a href="#chip-ho-tro">4. Chip và thiết bị hỗ trợ</a></li>
-                <li><a href="#gia">5. Giá Miracle Box 2026</a></li>
-                <li><a href="#so-sanh">6. So sánh Miracle vs UnlockTool</a></li>
-                <li><a href="#nen-mua">7. Nên mua Miracle hay thuê UnlockTool?</a></li>
-                <li><a href="#faq">8. Câu hỏi thường gặp (FAQ)</a></li>
+                <li><a href="#miracle-la-gi">1. Miracle Box l� g�?</a></li>
+                <li><a href="#phien-ban">2. C�c phi�n b?n Miracle</a></li>
+                <li><a href="#tinh-nang">3. T�nh nang ch�nh</a></li>
+                <li><a href="#chip-ho-tro">4. Chip v� thi?t b? h? tr?</a></li>
+                <li><a href="#gia">5. Gi� Miracle Box 2026</a></li>
+                <li><a href="#so-sanh">6. So s�nh Miracle vs UnlockTool</a></li>
+                <li><a href="#nen-mua">7. N�n mua Miracle hay thu� UnlockTool?</a></li>
+                <li><a href="#faq">8. C�u h?i thu?ng g?p (FAQ)</a></li>
             </ul>
         </div>
         
-        <h2 id="miracle-la-gi"><i class="fas fa-magic me-2"></i>1. Miracle Box là gì?</h2>
+        <h2 id="miracle-la-gi"><i class="fas fa-magic me-2"></i>1. Miracle Box l� g�?</h2>
         
-        <p><strong>Miracle Box</strong> là một trong những công cụ mở khóa điện thoại <strong>lâu đời và nổi tiếng nhất</strong> trong ngành sửa chữa điện thoại, được phát triển bởi <strong>Miracle Team</strong> từ Trung Quốc. Tool này hỗ trợ nhiều loại chip xử lý bao gồm <strong>MediaTek (MTK), Qualcomm (Snapdragon), và Spreadtrum (SPD)</strong>.</p>
+        <p><strong>Miracle Box</strong> l� m?t trong nh?ng c�ng c? m? kh�a di?n tho?i <strong>l�u d?i v� n?i ti?ng nh?t</strong> trong ng�nh s?a ch?a di?n tho?i, du?c ph�t tri?n b?i <strong>Miracle Team</strong> t? Trung Qu?c. Tool n�y h? tr? nhi?u lo?i chip x? l� bao g?m <strong>MediaTek (MTK), Qualcomm (Snapdragon), v� Spreadtrum (SPD)</strong>.</p>
         
-        <h3>1.1. Lịch sử phát triển</h3>
-        <p>Miracle Box đã có mặt trên thị trường hơn 10 năm và được coi là "huyền thoại" trong làng GSM tools:</p>
+        <h3>1.1. L?ch s? ph�t tri?n</h3>
+        <p>Miracle Box d� c� m?t tr�n th? tru?ng hon 10 nam v� du?c coi l� "huy?n tho?i" trong l�ng GSM tools:</p>
         <ul>
-            <li><strong>2010s:</strong> Ra mắt Miracle Box đầu tiên</li>
-            <li><strong>2015:</strong> Phát triển Miracle Key (phiên bản key license)</li>
-            <li><strong>2018:</strong> Ra mắt Miracle Thunder với nhiều tính năng mới</li>
-            <li><strong>2024-2025:</strong> Update hỗ trợ MTK New Security Patch, Qualcomm Secure Boot</li>
+            <li><strong>2010s:</strong> Ra m?t Miracle Box d?u ti�n</li>
+            <li><strong>2015:</strong> Ph�t tri?n Miracle Key (phi�n b?n key license)</li>
+            <li><strong>2018:</strong> Ra m?t Miracle Thunder v?i nhi?u t�nh nang m?i</li>
+            <li><strong>2024-2025:</strong> Update h? tr? MTK New Security Patch, Qualcomm Secure Boot</li>
         </ul>
         
-        <h3>1.2. Tại sao Miracle Box nổi tiếng?</h3>
+        <h3>1.2. T?i sao Miracle Box n?i ti?ng?</h3>
         <div class="info-box">
             <ul class="mb-0">
-                <li><strong>Hỗ trợ MTK tốt nhất:</strong> Là thế mạnh hàng đầu của Miracle</li>
-                <li><strong>Database lớn nhất:</strong> Archive flash file đầy đủ nhất thế giới</li>
-                <li><strong>Cộng đồng lớn:</strong> Hàng triệu người dùng toàn cầu</li>
-                <li><strong>Update thường xuyên:</strong> Cập nhật model mới liên tục</li>
+                <li><strong>H? tr? MTK t?t nh?t:</strong> L� th? m?nh h�ng d?u c?a Miracle</li>
+                <li><strong>Database l?n nh?t:</strong> Archive flash file d?y d? nh?t th? gi?i</li>
+                <li><strong>C?ng d?ng l?n:</strong> H�ng tri?u ngu?i d�ng to�n c?u</li>
+                <li><strong>Update thu?ng xuy�n:</strong> C?p nh?t model m?i li�n t?c</li>
             </ul>
         </div>
         
-        <h2 id="phien-ban"><i class="fas fa-boxes me-2"></i>2. Các phiên bản Miracle</h2>
+        <h2 id="phien-ban"><i class="fas fa-boxes me-2"></i>2. C�c phi�n b?n Miracle</h2>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Phiên bản</th><th>Loại</th><th>Giá ước tính</th><th>Ghi chú</th></tr>
+                <tr><th>Phi�n b?n</th><th>Lo?i</th><th>Gi� u?c t�nh</th><th>Ghi ch�</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>Miracle Box</strong></td><td>Dongle phần cứng</td><td>$115+</td><td>Phiên bản gốc, ngừng update</td></tr>
-                <tr><td><strong>Miracle Thunder</strong></td><td>Dongle phần cứng</td><td>$165</td><td>Phiên bản mới nhất, đầy đủ tính năng</td></tr>
-                <tr><td><strong>Miracle Key</strong></td><td>Key license</td><td>$60-80/năm</td><td>Không cần dongle, cần renew</td></tr>
-                <tr><td><strong>Miracle Digital</strong></td><td>Login Edition</td><td>$115</td><td>Phiên bản online</td></tr>
+                <tr><td><strong>Miracle Box</strong></td><td>Dongle ph?n c?ng</td><td>$115+</td><td>Phi�n b?n g?c, ng?ng update</td></tr>
+                <tr><td><strong>Miracle Thunder</strong></td><td>Dongle ph?n c?ng</td><td>$165</td><td>Phi�n b?n m?i nh?t, d?y d? t�nh nang</td></tr>
+                <tr><td><strong>Miracle Key</strong></td><td>Key license</td><td>$60-80/nam</td><td>Kh�ng c?n dongle, c?n renew</td></tr>
+                <tr><td><strong>Miracle Digital</strong></td><td>Login Edition</td><td>$115</td><td>Phi�n b?n online</td></tr>
             </tbody>
         </table>
         
         <div class="warning-box">
-            <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý quan trọng:</h5>
-            <p class="mb-0">Miracle Box (phiên bản cũ) đã ngừng update. Nếu mua mới, nên chọn <strong>Miracle Thunder</strong> để được hỗ trợ model mới nhất.</p>
+            <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu � quan tr?ng:</h5>
+            <p class="mb-0">Miracle Box (phi�n b?n cu) d� ng?ng update. N?u mua m?i, n�n ch?n <strong>Miracle Thunder</strong> d? du?c h? tr? model m?i nh?t.</p>
         </div>
         
-        <h2 id="tinh-nang"><i class="fas fa-star me-2"></i>3. Tính năng chính</h2>
+        <h2 id="tinh-nang"><i class="fas fa-star me-2"></i>3. T�nh nang ch�nh</h2>
         
         <div class="row">
             <div class="col-md-6">
                 <div class="tool-card">
                     <div class="icon"><i class="fas fa-user-lock"></i></div>
                     <h5>FRP Bypass</h5>
-                    <p>Xóa Google Account FRP trên MTK, Qualcomm, SPD. Hỗ trợ pattern, PIN, password lock.</p>
+                    <p>X�a Google Account FRP tr�n MTK, Qualcomm, SPD. H? tr? pattern, PIN, password lock.</p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="tool-card">
                     <div class="icon"><i class="fas fa-barcode"></i></div>
                     <h5>IMEI Repair</h5>
-                    <p>Sửa IMEI MTK, một số Qualcomm. Auto IMEI repair, hỗ trợ IMEI null/invalid.</p>
+                    <p>S?a IMEI MTK, m?t s? Qualcomm. Auto IMEI repair, h? tr? IMEI null/invalid.</p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="tool-card">
                     <div class="icon"><i class="fas fa-download"></i></div>
                     <h5>Flash Firmware</h5>
-                    <p>Flash stock ROM, firmware. Hỗ trợ read/write flash memory. Archive flash file lớn nhất.</p>
+                    <p>Flash stock ROM, firmware. H? tr? read/write flash memory. Archive flash file l?n nh?t.</p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="tool-card">
                     <div class="icon"><i class="fas fa-unlock-alt"></i></div>
                     <h5>Network Unlock</h5>
-                    <p>Mở khóa mạng, đọc NCK codes. Hỗ trợ nhiều hãng.</p>
+                    <p>M? kh�a m?ng, d?c NCK codes. H? tr? nhi?u h�ng.</p>
                 </div>
             </div>
         </div>
         
-        <h3>3.1. Tính năng nâng cao (2024-2025)</h3>
+        <h3>3.1. T�nh nang n�ng cao (2024-2025)</h3>
         <ul>
-            <li><strong>MTK New Security Patch:</strong> Hỗ trợ bảo mật mới 2024-2025</li>
-            <li><strong>EMMC Format cải tiến:</strong> Format và FRP removal tốt hơn</li>
-            <li><strong>Qualcomm Secure Boot Handling:</strong> Xử lý secure boot mới</li>
-            <li><strong>Dead Boot Repair:</strong> Sửa lỗi boot với test point</li>
-            <li><strong>MDM Lock Removal:</strong> Xóa khóa quản lý thiết bị</li>
-            <li><strong>Database Xiaomi, Realme, Vivo:</strong> Cập nhật mở rộng</li>
+            <li><strong>MTK New Security Patch:</strong> H? tr? b?o m?t m?i 2024-2025</li>
+            <li><strong>EMMC Format c?i ti?n:</strong> Format v� FRP removal t?t hon</li>
+            <li><strong>Qualcomm Secure Boot Handling:</strong> X? l� secure boot m?i</li>
+            <li><strong>Dead Boot Repair:</strong> S?a l?i boot v?i test point</li>
+            <li><strong>MDM Lock Removal:</strong> X�a kh�a qu?n l� thi?t b?</li>
+            <li><strong>Database Xiaomi, Realme, Vivo:</strong> C?p nh?t m? r?ng</li>
         </ul>
         
-        <h2 id="chip-ho-tro"><i class="fas fa-microchip me-2"></i>4. Chip và thiết bị hỗ trợ</h2>
+        <h2 id="chip-ho-tro"><i class="fas fa-microchip me-2"></i>4. Chip v� thi?t b? h? tr?</h2>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Chip</th><th>Hỗ trợ</th><th>Ghi chú</th></tr>
+                <tr><th>Chip</th><th>H? tr?</th><th>Ghi ch�</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>MediaTek (MTK)</strong></td><td><i class="fas fa-check check-icon"></i> Rất tốt</td><td>Thế mạnh hàng đầu</td></tr>
-                <tr><td><strong>Qualcomm</strong></td><td><i class="fas fa-check check-icon"></i> Tốt</td><td>Hỗ trợ nhiều model</td></tr>
-                <tr><td><strong>Spreadtrum (SPD)</strong></td><td><i class="fas fa-check check-icon"></i> Tốt</td><td>Điện thoại giá rẻ</td></tr>
-                <tr><td><strong>RDA, CoolSand, MSTAR</strong></td><td>⚠️ Một số</td><td>Feature phone</td></tr>
-                <tr><td><strong>Samsung Exynos</strong></td><td>⚠️ Hạn chế</td><td>Một số model</td></tr>
-                <tr><td><strong>iPhone/iPad</strong></td><td><i class="fas fa-times times-icon"></i> Không</td><td>Dùng UnlockTool</td></tr>
+                <tr><td><strong>MediaTek (MTK)</strong></td><td><i class="fas fa-check check-icon"></i> R?t t?t</td><td>Th? m?nh h�ng d?u</td></tr>
+                <tr><td><strong>Qualcomm</strong></td><td><i class="fas fa-check check-icon"></i> T?t</td><td>H? tr? nhi?u model</td></tr>
+                <tr><td><strong>Spreadtrum (SPD)</strong></td><td><i class="fas fa-check check-icon"></i> T?t</td><td>�i?n tho?i gi� r?</td></tr>
+                <tr><td><strong>RDA, CoolSand, MSTAR</strong></td><td>?? M?t s?</td><td>Feature phone</td></tr>
+                <tr><td><strong>Samsung Exynos</strong></td><td>?? H?n ch?</td><td>M?t s? model</td></tr>
+                <tr><td><strong>iPhone/iPad</strong></td><td><i class="fas fa-times times-icon"></i> Kh�ng</td><td>D�ng UnlockTool</td></tr>
             </tbody>
         </table>
         
-        <h3>4.1. Các hãng hỗ trợ</h3>
-        <p>Miracle Box hỗ trợ hầu hết các hãng Android:</p>
+        <h3>4.1. C�c h�ng h? tr?</h3>
+        <p>Miracle Box h? tr? h?u h?t c�c h�ng Android:</p>
         <ul>
             <li><strong>Xiaomi/Redmi/POCO:</strong> FRP, flash, IMEI</li>
-            <li><strong>Realme:</strong> FRP, flash (cập nhật 2024)</li>
-            <li><strong>Vivo:</strong> FRP, flash (cập nhật 2024)</li>
-            <li><strong>Oppo:</strong> Một số model MTK/Qualcomm</li>
+            <li><strong>Realme:</strong> FRP, flash (c?p nh?t 2024)</li>
+            <li><strong>Vivo:</strong> FRP, flash (c?p nh?t 2024)</li>
+            <li><strong>Oppo:</strong> M?t s? model MTK/Qualcomm</li>
             <li><strong>Samsung:</strong> MTK/Qualcomm models</li>
             <li><strong>Tecno, Infinix, Itel:</strong> MTK devices</li>
         </ul>
         
-        <h2 id="gia"><i class="fas fa-dollar-sign me-2"></i>5. Giá Miracle Box 2026</h2>
+        <h2 id="gia"><i class="fas fa-dollar-sign me-2"></i>5. Gi� Miracle Box 2026</h2>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Sản phẩm</th><th>Giá USD</th><th>Giá VND (ước tính)</th></tr>
+                <tr><th>S?n ph?m</th><th>Gi� USD</th><th>Gi� VND (u?c t�nh)</th></tr>
             </thead>
             <tbody>
                 <tr><td><strong>Miracle Thunder Dongle</strong></td><td>$115 - $165</td><td>2.900.000 - 4.100.000</td></tr>
-                <tr><td><strong>Miracle Key (1 năm)</strong></td><td>$60 - $80</td><td>1.500.000 - 2.000.000</td></tr>
-                <tr><td><strong>Renew License (hàng năm)</strong></td><td>$165</td><td>4.100.000</td></tr>
+                <tr><td><strong>Miracle Key (1 nam)</strong></td><td>$60 - $80</td><td>1.500.000 - 2.000.000</td></tr>
+                <tr><td><strong>Renew License (h�ng nam)</strong></td><td>$165</td><td>4.100.000</td></tr>
                 <tr><td><strong>Miracle Digital (Login)</strong></td><td>$115</td><td>2.900.000</td></tr>
             </tbody>
         </table>
         
         <div class="warning-box">
-            <h5><i class="fas fa-calculator me-2"></i>Chi phí thực tế:</h5>
-            <p class="mb-0">Năm đầu: <strong>$165 (4.1 triệu)</strong>. Các năm sau: <strong>$165/năm renew</strong>. Nếu chỉ làm 1-2 máy, thuê <strong>UnlockTool 8K</strong> tiết kiệm hơn rất nhiều!</p>
+            <h5><i class="fas fa-calculator me-2"></i>Chi ph� th?c t?:</h5>
+            <p class="mb-0">Nam d?u: <strong>$165 (4.1 tri?u)</strong>. C�c nam sau: <strong>$165/nam renew</strong>. N?u ch? l�m 1-2 m�y, thu� <strong>UnlockTool 8K</strong> ti?t ki?m hon r?t nhi?u!</p>
         </div>
         
-        <h2 id="so-sanh"><i class="fas fa-balance-scale me-2"></i>6. So sánh Miracle vs UnlockTool</h2>
+        <h2 id="so-sanh"><i class="fas fa-balance-scale me-2"></i>6. So s�nh Miracle vs UnlockTool</h2>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Tiêu chí</th><th>Miracle Box</th><th>UnlockTool</th></tr>
+                <tr><th>Ti�u ch�</th><th>Miracle Box</th><th>UnlockTool</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>Loại</strong></td><td>Dongle/Key</td><td>Phần mềm (thuê online)</td></tr>
-                <tr><td><strong>Giá ban đầu</strong></td><td>~$165 (4.1 triệu)</td><td>8.000đ/6 tiếng</td></tr>
-                <tr><td><strong>Chi phí/máy (làm 1 máy)</strong></td><td>~4.100.000đ</td><td>8.000đ</td></tr>
-                <tr><td><strong>iPhone/iPad</strong></td><td><i class="fas fa-times times-icon"></i> Không</td><td><i class="fas fa-check check-icon"></i> Có (5s-X)</td></tr>
-                <tr><td><strong>MTK</strong></td><td><i class="fas fa-check check-icon"></i> Rất tốt</td><td><i class="fas fa-check check-icon"></i> Tốt</td></tr>
-                <tr><td><strong>Samsung</strong></td><td><i class="fas fa-check check-icon"></i> Tốt</td><td><i class="fas fa-check check-icon"></i> Rất tốt</td></tr>
-                <tr><td><strong>Renew hàng năm</strong></td><td>$165/năm</td><td>Không cần</td></tr>
-                <tr><td><strong>Phù hợp</strong></td><td>Shop chuyên MTK</td><td>Mọi đối tượng</td></tr>
+                <tr><td><strong>Lo?i</strong></td><td>Dongle/Key</td><td>Ph?n m?m (thu� online)</td></tr>
+                <tr><td><strong>Gi� ban d?u</strong></td><td>~$165 (4.1 tri?u)</td><td>8.000d/6 ti?ng</td></tr>
+                <tr><td><strong>Chi ph�/m�y (l�m 1 m�y)</strong></td><td>~4.100.000d</td><td>8.000d</td></tr>
+                <tr><td><strong>iPhone/iPad</strong></td><td><i class="fas fa-times times-icon"></i> Kh�ng</td><td><i class="fas fa-check check-icon"></i> C� (5s-X)</td></tr>
+                <tr><td><strong>MTK</strong></td><td><i class="fas fa-check check-icon"></i> R?t t?t</td><td><i class="fas fa-check check-icon"></i> T?t</td></tr>
+                <tr><td><strong>Samsung</strong></td><td><i class="fas fa-check check-icon"></i> T?t</td><td><i class="fas fa-check check-icon"></i> R?t t?t</td></tr>
+                <tr><td><strong>Renew h�ng nam</strong></td><td>$165/nam</td><td>Kh�ng c?n</td></tr>
+                <tr><td><strong>Ph� h?p</strong></td><td>Shop chuy�n MTK</td><td>M?i d?i tu?ng</td></tr>
             </tbody>
         </table>
         
-        <h2 id="nen-mua"><i class="fas fa-question-circle me-2"></i>7. Nên mua Miracle hay thuê UnlockTool?</h2>
+        <h2 id="nen-mua"><i class="fas fa-question-circle me-2"></i>7. N�n mua Miracle hay thu� UnlockTool?</h2>
         
         <div class="row">
             <div class="col-md-6">
                 <div class="info-box">
-                    <h5><i class="fas fa-check-circle me-2"></i>Nên mua Miracle khi:</h5>
+                    <h5><i class="fas fa-check-circle me-2"></i>N�n mua Miracle khi:</h5>
                     <ul class="mb-0">
-                        <li>Chuyên làm điện thoại MTK số lượng lớn</li>
-                        <li>Cần database flash file đầy đủ</li>
-                        <li>Có ngân sách đầu tư dài hạn</li>
-                        <li>Chỉ làm Android, không cần iPhone</li>
+                        <li>Chuy�n l�m di?n tho?i MTK s? lu?ng l?n</li>
+                        <li>C?n database flash file d?y d?</li>
+                        <li>C� ng�n s�ch d?u tu d�i h?n</li>
+                        <li>Ch? l�m Android, kh�ng c?n iPhone</li>
                     </ul>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="tip-box">
-                    <h5><i class="fas fa-bolt me-2"></i>Nên thuê UnlockTool khi:</h5>
+                    <h5><i class="fas fa-bolt me-2"></i>N�n thu� UnlockTool khi:</h5>
                     <ul class="mb-0">
-                        <li>Chỉ làm 1-2 máy (tiết kiệm 99%)</li>
-                        <li>Cần làm cả iPhone + Android</li>
-                        <li>Không muốn chi $165/năm renew</li>
-                        <li>Mới bắt đầu, muốn thử nghiệm</li>
+                        <li>Ch? l�m 1-2 m�y (ti?t ki?m 99%)</li>
+                        <li>C?n l�m c? iPhone + Android</li>
+                        <li>Kh�ng mu?n chi $165/nam renew</li>
+                        <li>M?i b?t d?u, mu?n th? nghi?m</li>
                     </ul>
                 </div>
             </div>
         </div>
         
         <div class="price-box">
-            <h3><i class="fas fa-bolt me-2"></i>Thuê UnlockTool - Hỗ Trợ Cả iPhone + Android</h3>
-            <p class="display-4 fw-bold">8.000đ / 6 tiếng</p>
-            <p>Không cần đầu tư 4 triệu • Không phí renew hàng năm • Hệ thống tự động 24/7</p>
-            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg"><i class="fas fa-bolt me-2"></i>Thuê Ngay</a>
+            <h3><i class="fas fa-bolt me-2"></i>Thu� UnlockTool - H? Tr? C? iPhone + Android</h3>
+            <p class="display-4 fw-bold">8.000d / 6 ti?ng</p>
+            <p>Kh�ng c?n d?u tu 4 tri?u � Kh�ng ph� renew h�ng nam � H? th?ng t? d?ng 24/7</p>
+            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg"><i class="fas fa-bolt me-2"></i>Thu� Ngay</a>
         </div>
         
-        <h2 id="faq"><i class="fas fa-comments me-2"></i>8. Câu hỏi thường gặp (FAQ)</h2>
+        <h2 id="faq"><i class="fas fa-comments me-2"></i>8. C�u h?i thu?ng g?p (FAQ)</h2>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Miracle Box là gì?</h5>
-            <p>Miracle Box là công cụ mở khóa điện thoại lâu đời nhất, được phát triển từ Trung Quốc. Hỗ trợ MTK, Qualcomm, SPD. Có 3 phiên bản: Miracle Box, Miracle Thunder, Miracle Key.</p>
-        </div>
-        
-        <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Miracle Box giá bao nhiêu?</h5>
-            <p>Miracle Thunder Dongle: <strong>$115-165 (2.9-4.1 triệu)</strong>. Cần renew <strong>$165/năm</strong>. Miracle Key: $60-80/năm.</p>
+            <h5><i class="fas fa-question me-2"></i>Miracle Box l� g�?</h5>
+            <p>Miracle Box l� c�ng c? m? kh�a di?n tho?i l�u d?i nh?t, du?c ph�t tri?n t? Trung Qu?c. H? tr? MTK, Qualcomm, SPD. C� 3 phi�n b?n: Miracle Box, Miracle Thunder, Miracle Key.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Miracle Box có làm iPhone được không?</h5>
-            <p><strong>Không.</strong> Miracle Box chỉ hỗ trợ Android (MTK, Qualcomm, SPD). Để làm iPhone, sử dụng <a href="https://www.unlocktool.us/">UnlockTool</a>.</p>
+            <h5><i class="fas fa-question me-2"></i>Miracle Box gi� bao nhi�u?</h5>
+            <p>Miracle Thunder Dongle: <strong>$115-165 (2.9-4.1 tri?u)</strong>. C?n renew <strong>$165/nam</strong>. Miracle Key: $60-80/nam.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Miracle Box Thunder khác gì Miracle Box cũ?</h5>
-            <p>Miracle Thunder là phiên bản mới nhất, được update thường xuyên. Miracle Box cũ đã ngừng update. Nên chọn Thunder nếu mua mới.</p>
+            <h5><i class="fas fa-question me-2"></i>Miracle Box c� l�m iPhone du?c kh�ng?</h5>
+            <p><strong>Kh�ng.</strong> Miracle Box ch? h? tr? Android (MTK, Qualcomm, SPD). �? l�m iPhone, s? d?ng <a href="https://www.unlocktool.us/">UnlockTool</a>.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Nên mua Miracle hay thuê UnlockTool?</h5>
-            <p>Nếu chỉ làm 1-2 máy, <strong>thuê UnlockTool 8K tiết kiệm hơn 99%</strong>. Miracle phù hợp shop chuyên làm MTK số lượng lớn.</p>
+            <h5><i class="fas fa-question me-2"></i>Miracle Box Thunder kh�c g� Miracle Box cu?</h5>
+            <p>Miracle Thunder l� phi�n b?n m?i nh?t, du?c update thu?ng xuy�n. Miracle Box cu d� ng?ng update. N�n ch?n Thunder n?u mua m?i.</p>
         </div>
         
-        <h2><i class="fas fa-download me-2"></i>Hướng Dẫn Cài Đặt Miracle Box</h2>
+        <div class="faq-item">
+            <h5><i class="fas fa-question me-2"></i>N�n mua Miracle hay thu� UnlockTool?</h5>
+            <p>N?u ch? l�m 1-2 m�y, <strong>thu� UnlockTool 8K ti?t ki?m hon 99%</strong>. Miracle ph� h?p shop chuy�n l�m MTK s? lu?ng l?n.</p>
+        </div>
         
-        <h3>Yêu cầu hệ thống:</h3>
+        <h2><i class="fas fa-download me-2"></i>Hu?ng D?n C�i �?t Miracle Box</h2>
+        
+        <h3>Y�u c?u h? th?ng:</h3>
         <ul>
-            <li>Windows 7/8/10/11 (32-bit hoặc 64-bit)</li>
-            <li>RAM tối thiểu 2GB (4GB khuyến nghị)</li>
-            <li>Ổ cứng trống tối thiểu 5GB</li>
-            <li>Cổng USB 2.0/3.0</li>
-            <li>Kết nối Internet</li>
-            <li>Tắt Windows Defender/Antivirus</li>
+            <li>Windows 7/8/10/11 (32-bit ho?c 64-bit)</li>
+            <li>RAM t?i thi?u 2GB (4GB khuy?n ngh?)</li>
+            <li>? c?ng tr?ng t?i thi?u 5GB</li>
+            <li>C?ng USB 2.0/3.0</li>
+            <li>K?t n?i Internet</li>
+            <li>T?t Windows Defender/Antivirus</li>
         </ul>
         
-        <h3>Các bước cài đặt Miracle Thunder:</h3>
+        <h3>C�c bu?c c�i d?t Miracle Thunder:</h3>
         <ol>
-            <li><strong>Tải driver:</strong> MediaTek USB Driver, Qualcomm HS-USB Driver, SPD Driver</li>
-            <li><strong>Cắm Miracle Dongle:</strong> Cắm vào cổng USB, đợi Windows nhận diện</li>
-            <li><strong>Tải phần mềm:</strong> Download Miracle Thunder từ gsmserver.com hoặc miracleteam.org</li>
-            <li><strong>Giải nén và cài đặt:</strong> Extract file, chạy setup, chọn đường dẫn cài đặt</li>
-            <li><strong>Kích hoạt license:</strong> Mở Miracle, nhập user/pass, activate dongle</li>
-            <li><strong>Chạy và update:</strong> Tool sẽ tự động cập nhật database và firmware mới</li>
+            <li><strong>T?i driver:</strong> MediaTek USB Driver, Qualcomm HS-USB Driver, SPD Driver</li>
+            <li><strong>C?m Miracle Dongle:</strong> C?m v�o c?ng USB, d?i Windows nh?n di?n</li>
+            <li><strong>T?i ph?n m?m:</strong> Download Miracle Thunder t? gsmserver.com ho?c miracleteam.org</li>
+            <li><strong>Gi?i n�n v� c�i d?t:</strong> Extract file, ch?y setup, ch?n du?ng d?n c�i d?t</li>
+            <li><strong>K�ch ho?t license:</strong> M? Miracle, nh?p user/pass, activate dongle</li>
+            <li><strong>Ch?y v� update:</strong> Tool s? t? d?ng c?p nh?t database v� firmware m?i</li>
         </ol>
         
-        <h2><i class="fas fa-wrench me-2"></i>Khắc phục lỗi thường gặp</h2>
+        <h2><i class="fas fa-wrench me-2"></i>Kh?c ph?c l?i thu?ng g?p</h2>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Lỗi</th><th>Nguyên nhân</th><th>Cách khắc phục</th></tr>
+                <tr><th>L?i</th><th>Nguy�n nh�n</th><th>C�ch kh?c ph?c</th></tr>
             </thead>
             <tbody>
-                <tr><td>Dongle not detected</td><td>Driver chưa cài</td><td>Cài lại Miracle Driver hoặc USB driver</td></tr>
-                <tr><td>License expired</td><td>Hết hạn renewal</td><td>Mua thêm 1 năm renew ($165)</td></tr>
-                <tr><td>Port not found</td><td>Driver lỗi</td><td>Cài lại driver cho chip tương ứng</td></tr>
-                <tr><td>Flash failed</td><td>File firmware lỗi</td><td>Tải lại firmware từ nguồn chính thức</td></tr>
-                <tr><td>FRP bypass failed</td><td>Security patch mới</td><td>Update tool, thử method khác</td></tr>
+                <tr><td>Dongle not detected</td><td>Driver chua c�i</td><td>C�i l?i Miracle Driver ho?c USB driver</td></tr>
+                <tr><td>License expired</td><td>H?t h?n renewal</td><td>Mua th�m 1 nam renew ($165)</td></tr>
+                <tr><td>Port not found</td><td>Driver l?i</td><td>C�i l?i driver cho chip tuong ?ng</td></tr>
+                <tr><td>Flash failed</td><td>File firmware l?i</td><td>T?i l?i firmware t? ngu?n ch�nh th?c</td></tr>
+                <tr><td>FRP bypass failed</td><td>Security patch m?i</td><td>Update tool, th? method kh�c</td></tr>
             </tbody>
         </table>
         
-        <h2><i class="fas fa-shield-alt me-2"></i>Lưu ý An Toàn</h2>
+        <h2><i class="fas fa-shield-alt me-2"></i>Luu � An To�n</h2>
         
         <div class="warning-box">
-            <h5><i class="fas fa-exclamation-triangle me-2"></i>Cảnh báo bảo mật:</h5>
+            <h5><i class="fas fa-exclamation-triangle me-2"></i>C?nh b�o b?o m?t:</h5>
             <ul class="mb-0">
-                <li>Chỉ mua Miracle từ đại lý chính thức (GSM Server, Martview)</li>
-                <li>Tránh Miracle Box/Thunder crack - có thể chứa backdoor</li>
-                <li>Không bypass thiết bị ăn cắp</li>
-                <li>Backup IMEI, EFS trước khi flash firmware</li>
-                <li>Sử dụng cáp USB chính hãng để tránh lỗi kết nối</li>
+                <li>Ch? mua Miracle t? d?i l� ch�nh th?c (GSM Server, Martview)</li>
+                <li>Tr�nh Miracle Box/Thunder crack - c� th? ch?a backdoor</li>
+                <li>Kh�ng bypass thi?t b? an c?p</li>
+                <li>Backup IMEI, EFS tru?c khi flash firmware</li>
+                <li>S? d?ng c�p USB ch�nh h�ng d? tr�nh l?i k?t n?i</li>
             </ul>
         </div>
         
-        <h2><i class="fas fa-chart-bar me-2"></i>Miracle Box Có Đáng Mua?</h2>
+        <h2><i class="fas fa-chart-bar me-2"></i>Miracle Box C� ��ng Mua?</h2>
         
         <div class="tip-box">
-            <h5><i class="fas fa-check-circle me-2"></i>NÊN mua Miracle nếu:</h5>
+            <h5><i class="fas fa-check-circle me-2"></i>N�N mua Miracle n?u:</h5>
             <ul class="mb-0">
-                <li>Chuyên làm điện thoại MTK (Xiaomi, Oppo, Vivo cũ)</li>
-                <li>Có shop với 50+ máy/tháng</li>
-                <li>Cần flash firmware, unbrick thường xuyên</li>
-                <li>Làm nhiều model SPD (Samsung J, A series cũ)</li>
+                <li>Chuy�n l�m di?n tho?i MTK (Xiaomi, Oppo, Vivo cu)</li>
+                <li>C� shop v?i 50+ m�y/th�ng</li>
+                <li>C?n flash firmware, unbrick thu?ng xuy�n</li>
+                <li>L�m nhi?u model SPD (Samsung J, A series cu)</li>
             </ul>
         </div>
         
         <div class="warning-box">
-            <h5><i class="fas fa-times-circle me-2"></i>KHÔNG nên mua nếu:</h5>
+            <h5><i class="fas fa-times-circle me-2"></i>KH�NG n�n mua n?u:</h5>
             <ul class="mb-0">
-                <li>Chỉ làm 1-5 máy cá nhân</li>
-                <li>Cần làm iPhone → dùng UnlockTool</li>
-                <li>Không muốn trả phí renew hàng năm</li>
-                <li>Ngân sách hạn chế dưới 3 triệu</li>
+                <li>Ch? l�m 1-5 m�y c� nh�n</li>
+                <li>C?n l�m iPhone ? d�ng UnlockTool</li>
+                <li>Kh�ng mu?n tr? ph� renew h�ng nam</li>
+                <li>Ng�n s�ch h?n ch? du?i 3 tri?u</li>
             </ul>
         </div>
         
-        <h2><i class="fas fa-link me-2"></i>Bài viết liên quan</h2>
+        <h2><i class="fas fa-link me-2"></i>B�i vi?t li�n quan</h2>
         <ul>
-            <li><a href="143-hydra-tool-la-gi.php">Hydra Tool là gì? Hướng dẫn chi tiết</a></li>
-            <li><a href="137-iremoval-pro-la-gi.php">iRemoval Pro là gì? So sánh với UnlockTool</a></li>
-            <li><a href="133-sua-imei-samsung.php">Sửa IMEI Samsung - Hướng dẫn chi tiết</a></li>
-            <li><a href="1-unlocktool-la-gi.php">UnlockTool là gì? Hướng dẫn toàn diện</a></li>
-            <li><a href="14-thue-unlocktool-gia-re.php">Thuê UnlockTool Giá Rẻ - Chỉ 8K</a></li>
+            <li><a href="143-hydra-tool-la-gi.php">Hydra Tool l� g�? Hu?ng d?n chi ti?t</a></li>
+            <li><a href="137-iremoval-pro-la-gi.php">iRemoval Pro l� g�? So s�nh v?i UnlockTool</a></li>
+            <li><a href="133-sua-imei-samsung.php">S?a IMEI Samsung - Hu?ng d?n chi ti?t</a></li>
+            <li><a href="1-unlocktool-la-gi.php">UnlockTool l� g�? Hu?ng d?n to�n di?n</a></li>
+            <li><a href="14-thue-unlocktool-gia-re.php">Thu� UnlockTool Gi� R? - Ch? 8K</a></li>
         </ul>
         
     </div>
@@ -499,7 +469,7 @@ $canonical_url = "https://www.unlocktool.us/articles/140-miracle-box-la-gi.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -513,13 +483,13 @@ $canonical_url = "https://www.unlocktool.us/articles/140-miracle-box-la-gi.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hướng dẫn chi tiết</small>
+                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
                         </div>
                     </div>
                 </div>
@@ -527,15 +497,15 @@ $canonical_url = "https://www.unlocktool.us/articles/140-miracle-box-la-gi.php";
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">Từ iPhone 5s - X</small>
+                            <small class="text-muted">T? iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
-                            <small class="text-muted">Download mới nhất</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
+                            <small class="text-muted">Download m?i nh?t</small>
                         </div>
                     </div>
                 </div>
@@ -548,7 +518,7 @@ $canonical_url = "https://www.unlocktool.us/articles/140-miracle-box-la-gi.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -556,8 +526,8 @@ $canonical_url = "https://www.unlocktool.us/articles/140-miracle-box-la-gi.php";
 </div>
 <footer class="bg-dark text-white py-4 text-center">
     <div class="container">
-        <p class="mb-2">&copy; 2026 UnlockTool.us - Dịch vụ cho thuê UnlockTool uy tín #1 Việt Nam</p>
-        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thuê UnlockTool 8K</a></p>
+        <p class="mb-2">&copy; 2026 UnlockTool.us - D?ch v? cho thu� UnlockTool uy t�n #1 Vi?t Nam</p>
+        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thu� UnlockTool 8K</a></p>
     </div>
 </footer>
 

@@ -1,7 +1,7 @@
-﻿<?php
-$page_title = "UnlockTool Full Guide 2026 - Hướng Dẫn Toàn Diện Từ A-Z";
-$page_description = "Hướng dẫn UnlockTool toàn diện 2026 từ A-Z. Tất cả về download, cài đặt, sử dụng, FRP Samsung, Mi Account Xiaomi, iCloud bypass iPhone. Guide đầy đủ nhất.";
-$page_keywords = "unlocktool full guide, hướng dẫn unlocktool đầy đủ, unlocktool tutorial complete, unlocktool guide 2026, unlocktool toàn diện";
+<?php
+$page_title = "UnlockTool Full Guide 2026 - Hu?ng D?n To�n Di?n T? A-Z";
+$page_description = "Hu?ng d?n UnlockTool to�n di?n 2026 t? A-Z. T?t c? v? download, c�i d?t, s? d?ng, FRP Samsung, Mi Account Xiaomi, iCloud bypass iPhone. Guide d?y d? nh?t.";
+$page_keywords = "unlocktool full guide, hu?ng d?n unlocktool d?y d?, unlocktool tutorial complete, unlocktool guide 2026, unlocktool to�n di?n";
 $canonical_url = "https://www.unlocktool.us/articles/30-unlocktool-full-guide.php";
 ?>
 <!DOCTYPE html>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/30-unlocktool-full-guide.ph
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/30-unlocktool-full-guide.ph
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hướng dẫn kỹ thuật">
+    <meta property="article:section" content="Hu?ng d?n k? thu?t">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="Mở khóa điện thoại">
+    <meta property="article:tag" content="M? kh�a di?n tho?i">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -50,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/30-unlocktool-full-guide.ph
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -115,36 +115,6 @@ $canonical_url = "https://www.unlocktool.us/articles/30-unlocktool-full-guide.ph
         }
     }
     </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Dịch vụ mở khóa điện thoại",
-        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.7",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "102"
-        }
-    }
-    </script>
 </head>
 <body>
 
@@ -152,7 +122,7 @@ $canonical_url = "https://www.unlocktool.us/articles/30-unlocktool-full-guide.ph
     <div class="container">
         <div style="font-size:3rem;margin-bottom:20px"><i class="fas fa-book"></i></div>
         <h1>UnlockTool Full Guide 2026</h1>
-        <p>Hướng dẫn toàn diện từ A-Z - Tất cả trong một</p>
+        <p>Hu?ng d?n to�n di?n t? A-Z - T?t c? trong m?t</p>
     </div>
 </header>
 
@@ -161,96 +131,96 @@ $canonical_url = "https://www.unlocktool.us/articles/30-unlocktool-full-guide.ph
         
         <!-- Guide Hero -->
         <div class="guide-hero">
-            <h3><i class="fas fa-graduation-cap"></i> Hướng dẫn đầy đủ nhất về UnlockTool</h3>
-            <p>Từ cơ bản đến nâng cao - Dành cho người mới và chuyên nghiệp</p>
+            <h3><i class="fas fa-graduation-cap"></i> Hu?ng d?n d?y d? nh?t v? UnlockTool</h3>
+            <p>T? co b?n d?n n�ng cao - D�nh cho ngu?i m?i v� chuy�n nghi?p</p>
         </div>
         
         <!-- Quick Links -->
         <div class="quick-links">
-            <h4><i class="fas fa-bolt"></i> Truy cập nhanh</h4>
+            <h4><i class="fas fa-bolt"></i> Truy c?p nhanh</h4>
             <a href="https://file.unlocktool.net/page/index.php" target="_blank"><i class="fas fa-download"></i> Download</a>
             <a href="https://file.unlocktool.net/page/all-driver" target="_blank"><i class="fas fa-hdd"></i> Driver</a>
-            <a href="https://www.unlocktool.us/" target="_blank"><i class="fas fa-key"></i> Thuê 8K</a>
+            <a href="https://www.unlocktool.us/" target="_blank"><i class="fas fa-key"></i> Thu� 8K</a>
             <a href="https://file.unlocktool.net/page/all-ramdisk---iphone" target="_blank"><i class="fab fa-apple"></i> Ramdisk</a>
         </div>
         
         <!-- Summary -->
         <div class="summary-box">
-            <h4><i class="fas fa-star"></i> Tóm tắt về UnlockTool</h4>
+            <h4><i class="fas fa-star"></i> T�m t?t v? UnlockTool</h4>
             <ul class="mb-0">
-                <li><strong>UnlockTool là gì:</strong> Phần mềm mở khóa điện thoại đa hãng hàng đầu</li>
-                <li><strong>Hỗ trợ:</strong> Samsung, Xiaomi, iPhone (checkm8), Oppo, Vivo, Realme, Huawei...</li>
-                <li><strong>Tính năng:</strong> FRP Bypass, Mi Account, iCloud Bypass, Pattern Remove, IMEI Repair</li>
-                <li><strong>Giá license:</strong> Từ $40/tháng hoặc thuê từ 8.000đ tại UnlockTool.us</li>
-                <li><strong>Yêu cầu:</strong> Windows 7/8/10/11, driver phù hợp, cáp USB tốt</li>
+                <li><strong>UnlockTool l� g�:</strong> Ph?n m?m m? kh�a di?n tho?i da h�ng h�ng d?u</li>
+                <li><strong>H? tr?:</strong> Samsung, Xiaomi, iPhone (checkm8), Oppo, Vivo, Realme, Huawei...</li>
+                <li><strong>T�nh nang:</strong> FRP Bypass, Mi Account, iCloud Bypass, Pattern Remove, IMEI Repair</li>
+                <li><strong>Gi� license:</strong> T? $40/th�ng ho?c thu� t? 8.000d t?i UnlockTool.us</li>
+                <li><strong>Y�u c?u:</strong> Windows 7/8/10/11, driver ph� h?p, c�p USB t?t</li>
             </ul>
         </div>
         
         <!-- TOC -->
         <div class="toc">
-            <h4><i class="fas fa-list"></i> Mục lục Full Guide</h4>
+            <h4><i class="fas fa-list"></i> M?c l?c Full Guide</h4>
             <ol>
-                <li><a href="#download">Download & Cài đặt</a></li>
-                <li><a href="#driver">Cài đặt Driver</a></li>
-                <li><a href="#dang-nhap">Đăng nhập & Tài khoản</a></li>
-                <li><a href="#samsung">Sử dụng cho Samsung</a></li>
-                <li><a href="#xiaomi">Sử dụng cho Xiaomi</a></li>
-                <li><a href="#iphone">Sử dụng cho iPhone</a></li>
-                <li><a href="#oppo-vivo">Sử dụng cho Oppo/Vivo</a></li>
-                <li><a href="#loi">Xử lý lỗi thường gặp</a></li>
+                <li><a href="#download">Download & C�i d?t</a></li>
+                <li><a href="#driver">C�i d?t Driver</a></li>
+                <li><a href="#dang-nhap">�ang nh?p & T�i kho?n</a></li>
+                <li><a href="#samsung">S? d?ng cho Samsung</a></li>
+                <li><a href="#xiaomi">S? d?ng cho Xiaomi</a></li>
+                <li><a href="#iphone">S? d?ng cho iPhone</a></li>
+                <li><a href="#oppo-vivo">S? d?ng cho Oppo/Vivo</a></li>
+                <li><a href="#loi">X? l� l?i thu?ng g?p</a></li>
             </ol>
         </div>
         
         <!-- Chapter Cards -->
-        <h2>Các chủ đề chi tiết</h2>
+        <h2>C�c ch? d? chi ti?t</h2>
         
         <div class="chapter-grid">
             <div class="chapter-card">
-                <h5><i class="fas fa-download"></i> Download & Cài đặt</h5>
-                <p>Hướng dẫn tải và cài đặt UnlockTool từ nguồn chính thức</p>
-                <a href="11-unlocktool-download.php">Xem chi tiết →</a>
+                <h5><i class="fas fa-download"></i> Download & C�i d?t</h5>
+                <p>Hu?ng d?n t?i v� c�i d?t UnlockTool t? ngu?n ch�nh th?c</p>
+                <a href="11-unlocktool-download.php">Xem chi ti?t ?</a>
             </div>
             <div class="chapter-card">
-                <h5><i class="fas fa-hdd"></i> Cài đặt Driver</h5>
-                <p>Driver Samsung, Qualcomm 9008, MTK và cách cài đặt</p>
-                <a href="25-unlocktool-driver.php">Xem chi tiết →</a>
+                <h5><i class="fas fa-hdd"></i> C�i d?t Driver</h5>
+                <p>Driver Samsung, Qualcomm 9008, MTK v� c�ch c�i d?t</p>
+                <a href="25-unlocktool-driver.php">Xem chi ti?t ?</a>
             </div>
             <div class="chapter-card">
-                <h5><i class="fas fa-key"></i> Tài khoản & Giá</h5>
-                <p>Cách mua license hoặc thuê tài khoản giá rẻ</p>
-                <a href="14-thue-unlocktool-gia-re.php">Xem chi tiết →</a>
+                <h5><i class="fas fa-key"></i> T�i kho?n & Gi�</h5>
+                <p>C�ch mua license ho?c thu� t�i kho?n gi� r?</p>
+                <a href="14-thue-unlocktool-gia-re.php">Xem chi ti?t ?</a>
             </div>
             <div class="chapter-card">
                 <h5><i class="fab fa-android"></i> FRP Samsung</h5>
-                <p>Hướng dẫn FRP Bypass Samsung đầy đủ</p>
-                <a href="16-unlocktool-cho-samsung.php">Xem chi tiết →</a>
+                <p>Hu?ng d?n FRP Bypass Samsung d?y d?</p>
+                <a href="16-unlocktool-cho-samsung.php">Xem chi ti?t ?</a>
             </div>
             <div class="chapter-card">
                 <h5><i class="fas fa-mobile-alt"></i> Mi Account Xiaomi</h5>
-                <p>Xóa Mi Account trên Xiaomi, Redmi, POCO</p>
-                <a href="17-unlocktool-cho-xiaomi.php">Xem chi tiết →</a>
+                <p>X�a Mi Account tr�n Xiaomi, Redmi, POCO</p>
+                <a href="17-unlocktool-cho-xiaomi.php">Xem chi ti?t ?</a>
             </div>
             <div class="chapter-card">
                 <h5><i class="fab fa-apple"></i> iCloud Bypass</h5>
                 <p>Bypass iCloud iPhone checkm8</p>
-                <a href="20-unlocktool-icloud-bypass.php">Xem chi tiết →</a>
+                <a href="20-unlocktool-icloud-bypass.php">Xem chi ti?t ?</a>
             </div>
             <div class="chapter-card">
                 <h5><i class="fas fa-mobile"></i> Oppo/Vivo/Realme</h5>
-                <p>FRP và unlock cho Oppo, Vivo, Realme</p>
-                <a href="26-unlocktool-oppo-vivo-realme.php">Xem chi tiết →</a>
+                <p>FRP v� unlock cho Oppo, Vivo, Realme</p>
+                <a href="26-unlocktool-oppo-vivo-realme.php">Xem chi ti?t ?</a>
             </div>
             <div class="chapter-card">
-                <h5><i class="fas fa-bug"></i> Xử lý lỗi</h5>
-                <p>Các lỗi thường gặp và cách khắc phục</p>
-                <a href="28-unlocktool-error-fix.php">Xem chi tiết →</a>
+                <h5><i class="fas fa-bug"></i> X? l� l?i</h5>
+                <p>C�c l?i thu?ng g?p v� c�ch kh?c ph?c</p>
+                <a href="28-unlocktool-error-fix.php">Xem chi ti?t ?</a>
             </div>
         </div>
         
         <!-- Section 1 -->
-        <h2 id="download">1. Download & Cài đặt UnlockTool</h2>
+        <h2 id="download">1. Download & C�i d?t UnlockTool</h2>
         
-        <h3>1.1. Link download chính thức</h3>
+        <h3>1.1. Link download ch�nh th?c</h3>
         <table>
             <tr>
                 <th>File</th>
@@ -270,51 +240,51 @@ $canonical_url = "https://www.unlocktool.us/articles/30-unlocktool-full-guide.ph
             </tr>
         </table>
         
-        <h3>1.2. Các bước cài đặt</h3>
+        <h3>1.2. C�c bu?c c�i d?t</h3>
         <ol>
-            <li>Tắt Windows Defender và Antivirus</li>
-            <li>Tải UnlockTool từ link chính thức</li>
-            <li>Giải nén file .zip hoặc .rar</li>
-            <li>Chạy UnlockTool.exe với quyền Administrator</li>
+            <li>T?t Windows Defender v� Antivirus</li>
+            <li>T?i UnlockTool t? link ch�nh th?c</li>
+            <li>Gi?i n�n file .zip ho?c .rar</li>
+            <li>Ch?y UnlockTool.exe v?i quy?n Administrator</li>
         </ol>
         
-        <p><strong>Xem chi tiết:</strong> <a href="11-unlocktool-download.php">Hướng dẫn Download UnlockTool</a></p>
+        <p><strong>Xem chi ti?t:</strong> <a href="11-unlocktool-download.php">Hu?ng d?n Download UnlockTool</a></p>
         
         <!-- Section 2 -->
-        <h2 id="driver">2. Cài đặt Driver</h2>
+        <h2 id="driver">2. C�i d?t Driver</h2>
         
-        <h3>Driver theo hãng:</h3>
+        <h3>Driver theo h�ng:</h3>
         <ul>
             <li><strong>Samsung:</strong> Samsung USB Driver</li>
             <li><strong>Xiaomi Qualcomm:</strong> Qualcomm QDLoader 9008</li>
             <li><strong>Xiaomi MTK:</strong> MTK USB VCOM Driver</li>
-            <li><strong>iPhone:</strong> iTunes (từ Apple website)</li>
+            <li><strong>iPhone:</strong> iTunes (t? Apple website)</li>
         </ul>
         
-        <p><strong>Xem chi tiết:</strong> <a href="25-unlocktool-driver.php">Hướng dẫn cài Driver</a></p>
+        <p><strong>Xem chi ti?t:</strong> <a href="25-unlocktool-driver.php">Hu?ng d?n c�i Driver</a></p>
         
         <!-- Section 3 -->
-        <h2 id="dang-nhap">3. Đăng nhập & Tài khoản</h2>
+        <h2 id="dang-nhap">3. �ang nh?p & T�i kho?n</h2>
         
-        <h3>3.1. Cách đăng nhập</h3>
+        <h3>3.1. C�ch dang nh?p</h3>
         <ol>
-            <li>Chạy UnlockTool.exe với quyền Admin</li>
-            <li>Nhập Username và Password</li>
+            <li>Ch?y UnlockTool.exe v?i quy?n Admin</li>
+            <li>Nh?p Username v� Password</li>
             <li>Click Login</li>
         </ol>
         
-        <h3>3.2. Chưa có tài khoản?</h3>
+        <h3>3.2. Chua c� t�i kho?n?</h3>
         <ul>
-            <li><strong>Mua license:</strong> Từ $40/tháng</li>
-            <li><strong>Thuê tại UnlockTool.us:</strong> Từ 8.000đ (hệ thống tự động 24/7)</li>
+            <li><strong>Mua license:</strong> T? $40/th�ng</li>
+            <li><strong>Thu� t?i UnlockTool.us:</strong> T? 8.000d (h? th?ng t? d?ng 24/7)</li>
         </ul>
         
-        <p><strong>Xem chi tiết:</strong> <a href="14-thue-unlocktool-gia-re.php">Thuê UnlockTool giá rẻ</a> | <a href="22-mua-unlocktool.php">Mua UnlockTool</a></p>
+        <p><strong>Xem chi ti?t:</strong> <a href="14-thue-unlocktool-gia-re.php">Thu� UnlockTool gi� r?</a> | <a href="22-mua-unlocktool.php">Mua UnlockTool</a></p>
         
         <!-- Section 4 -->
-        <h2 id="samsung">4. Sử dụng cho Samsung</h2>
+        <h2 id="samsung">4. S? d?ng cho Samsung</h2>
         
-        <h3>Tính năng hỗ trợ:</h3>
+        <h3>T�nh nang h? tr?:</h3>
         <ul>
             <li>FRP Bypass (Android 8-14, One UI 6)</li>
             <li>Samsung Account Remove</li>
@@ -322,20 +292,20 @@ $canonical_url = "https://www.unlocktool.us/articles/30-unlocktool-full-guide.ph
             <li>IMEI Repair</li>
         </ul>
         
-        <h3>Quy trình cơ bản:</h3>
+        <h3>Quy tr�nh co b?n:</h3>
         <ol>
-            <li>Cài Samsung USB Driver</li>
-            <li>Đưa Samsung vào Download Mode</li>
-            <li>Mở UnlockTool → Tab Samsung</li>
-            <li>Chọn tính năng cần dùng và Start</li>
+            <li>C�i Samsung USB Driver</li>
+            <li>�ua Samsung v�o Download Mode</li>
+            <li>M? UnlockTool ? Tab Samsung</li>
+            <li>Ch?n t�nh nang c?n d�ng v� Start</li>
         </ol>
         
-        <p><strong>Xem chi tiết:</strong> <a href="16-unlocktool-cho-samsung.php">UnlockTool cho Samsung</a></p>
+        <p><strong>Xem chi ti?t:</strong> <a href="16-unlocktool-cho-samsung.php">UnlockTool cho Samsung</a></p>
         
         <!-- Section 5 -->
-        <h2 id="xiaomi">5. Sử dụng cho Xiaomi</h2>
+        <h2 id="xiaomi">5. S? d?ng cho Xiaomi</h2>
         
-        <h3>Tính năng hỗ trợ:</h3>
+        <h3>T�nh nang h? tr?:</h3>
         <ul>
             <li>Mi Account Remove (MIUI 10-15, HyperOS)</li>
             <li>FRP Bypass</li>
@@ -343,86 +313,86 @@ $canonical_url = "https://www.unlocktool.us/articles/30-unlocktool-full-guide.ph
             <li>Bootloader Unlock</li>
         </ul>
         
-        <h3>Quy trình cơ bản:</h3>
+        <h3>Quy tr�nh co b?n:</h3>
         <ol>
-            <li>Xác định chip (Qualcomm/MTK)</li>
-            <li>Cài driver phù hợp</li>
-            <li>Đưa máy vào EDL/MTK Mode</li>
-            <li>Mở UnlockTool → Tab Xiaomi</li>
-            <li>Chọn Mi Account Remove và Start</li>
+            <li>X�c d?nh chip (Qualcomm/MTK)</li>
+            <li>C�i driver ph� h?p</li>
+            <li>�ua m�y v�o EDL/MTK Mode</li>
+            <li>M? UnlockTool ? Tab Xiaomi</li>
+            <li>Ch?n Mi Account Remove v� Start</li>
         </ol>
         
-        <p><strong>Xem chi tiết:</strong> <a href="17-unlocktool-cho-xiaomi.php">UnlockTool cho Xiaomi</a></p>
+        <p><strong>Xem chi ti?t:</strong> <a href="17-unlocktool-cho-xiaomi.php">UnlockTool cho Xiaomi</a></p>
         
         <!-- Section 6 -->
-        <h2 id="iphone">6. Sử dụng cho iPhone</h2>
+        <h2 id="iphone">6. S? d?ng cho iPhone</h2>
         
-        <h3>Thiết bị hỗ trợ:</h3>
-        <p>iPhone 5S → iPhone X (checkm8 devices) | iOS 12-17</p>
+        <h3>Thi?t b? h? tr?:</h3>
+        <p>iPhone 5S ? iPhone X (checkm8 devices) | iOS 12-17</p>
         
-        <h3>Quy trình cơ bản:</h3>
+        <h3>Quy tr�nh co b?n:</h3>
         <ol>
-            <li>Cài iTunes</li>
-            <li>Tải Ramdisk files</li>
-            <li>Đưa iPhone vào DFU Mode</li>
-            <li>Mở UnlockTool → Tab Apple</li>
-            <li>Chọn Hello Bypass và Start</li>
+            <li>C�i iTunes</li>
+            <li>T?i Ramdisk files</li>
+            <li>�ua iPhone v�o DFU Mode</li>
+            <li>M? UnlockTool ? Tab Apple</li>
+            <li>Ch?n Hello Bypass v� Start</li>
         </ol>
         
-        <p><strong>Xem chi tiết:</strong> <a href="20-unlocktool-icloud-bypass.php">iCloud Bypass</a> | <a href="23-unlocktool-iphone-bypass-icloud.php">UnlockTool iPhone</a></p>
+        <p><strong>Xem chi ti?t:</strong> <a href="20-unlocktool-icloud-bypass.php">iCloud Bypass</a> | <a href="23-unlocktool-iphone-bypass-icloud.php">UnlockTool iPhone</a></p>
         
         <!-- Section 7 -->
-        <h2 id="oppo-vivo">7. Sử dụng cho Oppo/Vivo/Realme</h2>
+        <h2 id="oppo-vivo">7. S? d?ng cho Oppo/Vivo/Realme</h2>
         
-        <p>Quy trình tương tự Xiaomi - xác định chip và vào mode phù hợp.</p>
+        <p>Quy tr�nh tuong t? Xiaomi - x�c d?nh chip v� v�o mode ph� h?p.</p>
         
-        <p><strong>Xem chi tiết:</strong> <a href="26-unlocktool-oppo-vivo-realme.php">UnlockTool Oppo/Vivo/Realme</a></p>
+        <p><strong>Xem chi ti?t:</strong> <a href="26-unlocktool-oppo-vivo-realme.php">UnlockTool Oppo/Vivo/Realme</a></p>
         
         <!-- Section 8 -->
-        <h2 id="loi">8. Xử lý lỗi thường gặp</h2>
+        <h2 id="loi">8. X? l� l?i thu?ng g?p</h2>
         
         <table>
             <tr>
-                <th>Lỗi</th>
-                <th>Cách fix</th>
+                <th>L?i</th>
+                <th>C�ch fix</th>
             </tr>
             <tr>
-                <td>Không nhận máy</td>
-                <td>Kiểm tra driver, cáp USB, mode</td>
+                <td>Kh�ng nh?n m�y</td>
+                <td>Ki?m tra driver, c�p USB, mode</td>
             </tr>
             <tr>
                 <td>Login Failed</td>
-                <td>Kiểm tra Username/Password, internet</td>
+                <td>Ki?m tra Username/Password, internet</td>
             </tr>
             <tr>
                 <td>FRP Failed</td>
-                <td>Đổi phương pháp, cập nhật UnlockTool</td>
+                <td>�?i phuong ph�p, c?p nh?t UnlockTool</td>
             </tr>
             <tr>
-                <td>Bị Antivirus chặn</td>
-                <td>Tắt antivirus, thêm vào exclusion</td>
+                <td>B? Antivirus ch?n</td>
+                <td>T?t antivirus, th�m v�o exclusion</td>
             </tr>
         </table>
         
-        <p><strong>Xem chi tiết:</strong> <a href="28-unlocktool-error-fix.php">Lỗi và cách khắc phục</a></p>
+        <p><strong>Xem chi ti?t:</strong> <a href="28-unlocktool-error-fix.php">L?i v� c�ch kh?c ph?c</a></p>
         
         <!-- CTA -->
         <div class="cta-box">
-            <h3><i class="fas fa-rocket"></i> Bắt đầu sử dụng UnlockTool ngay!</h3>
-            <p>Tải phần mềm và thuê tài khoản để thực hành</p>
+            <h3><i class="fas fa-rocket"></i> B?t d?u s? d?ng UnlockTool ngay!</h3>
+            <p>T?i ph?n m?m v� thu� t�i kho?n d? th?c h�nh</p>
             <a href="https://file.unlocktool.net/page/index.php" class="cta-btn"><i class="fas fa-download"></i> Download</a>
             <a href="https://file.unlocktool.net/page/all-driver" class="cta-btn"><i class="fas fa-hdd"></i> Driver</a>
-            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-key"></i> Thuê 8K</a>
+            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-key"></i> Thu� 8K</a>
         </div>
         
         <!-- Related -->
-        <h2>Tất cả bài viết</h2>
+        <h2>T?t c? b�i vi?t</h2>
         <ul>
-            <li><a href="1-unlocktool-la-gi.php">UnlockTool là gì?</a></li>
+            <li><a href="1-unlocktool-la-gi.php">UnlockTool l� g�?</a></li>
             <li><a href="11-unlocktool-download.php">Download UnlockTool</a></li>
-            <li><a href="19-cach-su-dung-unlocktool.php">Cách sử dụng UnlockTool</a></li>
-            <li><a href="14-thue-unlocktool-gia-re.php">Thuê UnlockTool giá rẻ</a></li>
-            <li><a href="index.php">Xem tất cả bài viết →</a></li>
+            <li><a href="19-cach-su-dung-unlocktool.php">C�ch s? d?ng UnlockTool</a></li>
+            <li><a href="14-thue-unlocktool-gia-re.php">Thu� UnlockTool gi� r?</a></li>
+            <li><a href="index.php">Xem t?t c? b�i vi?t ?</a></li>
         </ul>
         
     </article>
@@ -435,7 +405,7 @@ $canonical_url = "https://www.unlocktool.us/articles/30-unlocktool-full-guide.ph
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -449,13 +419,13 @@ $canonical_url = "https://www.unlocktool.us/articles/30-unlocktool-full-guide.ph
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hướng dẫn chi tiết</small>
+                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
                         </div>
                     </div>
                 </div>
@@ -463,15 +433,15 @@ $canonical_url = "https://www.unlocktool.us/articles/30-unlocktool-full-guide.ph
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">Từ iPhone 5s - X</small>
+                            <small class="text-muted">T? iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
-                            <small class="text-muted">Download mới nhất</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
+                            <small class="text-muted">Download m?i nh?t</small>
                         </div>
                     </div>
                 </div>
@@ -484,7 +454,7 @@ $canonical_url = "https://www.unlocktool.us/articles/30-unlocktool-full-guide.ph
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -492,8 +462,8 @@ $canonical_url = "https://www.unlocktool.us/articles/30-unlocktool-full-guide.ph
 </div>
 <footer>
     <div class="container text-center">
-        <p><strong>UnlockTool.us</strong> - Dịch vụ cho thuê tài khoản UnlockTool uy tín</p>
-        <p class="mb-0">© 2026 UnlockTool.us</p>
+        <p><strong>UnlockTool.us</strong> - D?ch v? cho thu� t�i kho?n UnlockTool uy t�n</p>
+        <p class="mb-0">� 2026 UnlockTool.us</p>
     </div>
 </footer>
 

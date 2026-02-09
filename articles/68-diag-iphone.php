@@ -1,6 +1,6 @@
-﻿<?php
-$page_title = "DIAG iPhone 🔧 Diagnostic Mode & Purple Mode - Hướng Dẫn 2026";
-$page_description = "🔧 DIAG iPhone - Apple Diagnostic Mode, Purple Mode, file Diag cho bypass iCloud. Hướng dẫn vào DIAG Mode, tải file tại file.unlocktool.net";
+<?php
+$page_title = "DIAG iPhone ?? Diagnostic Mode & Purple Mode - Hu?ng D?n 2026";
+$page_description = "?? DIAG iPhone - Apple Diagnostic Mode, Purple Mode, file Diag cho bypass iCloud. Hu?ng d?n v�o DIAG Mode, t?i file t?i file.unlocktool.net";
 $page_keywords = "diag iphone, diagnostic mode iphone, purple mode iphone, file diag, bypass icloud diag";
 $canonical_url = "https://www.unlocktool.us/articles/68-diag-iphone.php";
 ?>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/68-diag-iphone.php";
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/68-diag-iphone.php";
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hướng dẫn kỹ thuật">
+    <meta property="article:section" content="Hu?ng d?n k? thu?t">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="Mở khóa điện thoại">
+    <meta property="article:tag" content="M? kh�a di?n tho?i">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -50,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/68-diag-iphone.php";
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -61,7 +61,7 @@ $canonical_url = "https://www.unlocktool.us/articles/68-diag-iphone.php";
         "@context": "https://schema.org",
         "@type": "TechArticle",
         "headline": "DIAG iPhone - Diagnostic Mode & Purple Mode - 2026",
-        "description": "Hướng dẫn vào Diagnostic Mode và sử dụng file Diag cho iPhone",
+        "description": "Hu?ng d?n v�o Diagnostic Mode v� s? d?ng file Diag cho iPhone",
         "author": {"@type": "Organization", "name": "UnlockTool.us"},
         "publisher": {"@type": "Organization", "name": "UnlockTool.us"},
         "datePublished": "2024-01-01",
@@ -73,10 +73,10 @@ $canonical_url = "https://www.unlocktool.us/articles/68-diag-iphone.php";
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "Diagnostic Mode iPhone là gì?", "acceptedAnswer": {"@type": "Answer", "text": "Diagnostic Mode là chế độ kiểm tra phần cứng/phần mềm của Apple. Vào bằng cách giữ Vol Up + Vol Down + kết nối sạc 18W+."}},
-            {"@type": "Question", "name": "Purple Mode là gì?", "acceptedAnswer": {"@type": "Answer", "text": "Purple Mode là chế độ ẩn cho phép thay đổi Serial/ECID. Cần DCSD cable hoặc flash box. Dùng cho bypass iCloud nâng cao."}},
-            {"@type": "Question", "name": "File Diag dùng để làm gì?", "acceptedAnswer": {"@type": "Answer", "text": "File Diag là file hệ thống Apple dùng cho bypass iCloud với các tool như UnlockTool. Tải tại file.unlocktool.net."}},
-            {"@type": "Question", "name": "Có cần file Diag để bypass iCloud không?", "acceptedAnswer": {"@type": "Answer", "text": "Tùy method bypass. Một số tool như UnlockTool đã tích hợp sẵn Diag, không cần tải thêm."}}
+            {"@type": "Question", "name": "Diagnostic Mode iPhone l� g�?", "acceptedAnswer": {"@type": "Answer", "text": "Diagnostic Mode l� ch? d? ki?m tra ph?n c?ng/ph?n m?m c?a Apple. V�o b?ng c�ch gi? Vol Up + Vol Down + k?t n?i s?c 18W+."}},
+            {"@type": "Question", "name": "Purple Mode l� g�?", "acceptedAnswer": {"@type": "Answer", "text": "Purple Mode l� ch? d? ?n cho ph�p thay d?i Serial/ECID. C?n DCSD cable ho?c flash box. D�ng cho bypass iCloud n�ng cao."}},
+            {"@type": "Question", "name": "File Diag d�ng d? l�m g�?", "acceptedAnswer": {"@type": "Answer", "text": "File Diag l� file h? th?ng Apple d�ng cho bypass iCloud v?i c�c tool nhu UnlockTool. T?i t?i file.unlocktool.net."}},
+            {"@type": "Question", "name": "C� c?n file Diag d? bypass iCloud kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "T�y method bypass. M?t s? tool nhu UnlockTool d� t�ch h?p s?n Diag, kh�ng c?n t?i th�m."}}
         ]
     }
     </script>
@@ -120,44 +120,14 @@ $canonical_url = "https://www.unlocktool.us/articles/68-diag-iphone.php";
         }
     }
     </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Dịch vụ mở khóa điện thoại",
-        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.6",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "87"
-        }
-    }
-    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -167,7 +137,7 @@ $canonical_url = "https://www.unlocktool.us/articles/68-diag-iphone.php";
         <h1><i class="fas fa-stethoscope me-2"></i>DIAG iPhone - Diagnostic Mode 2026</h1>
         <p class="lead">Apple Diagnostic Mode | Purple Mode | File Diag cho Bypass</p>
         <div class="mt-4">
-            <a href="https://file.unlocktool.net/page/diag---iphone" class="cta-btn"><i class="fas fa-download me-2"></i>Tải File Diag</a>
+            <a href="https://file.unlocktool.net/page/diag---iphone" class="cta-btn"><i class="fas fa-download me-2"></i>T?i File Diag</a>
         </div>
     </div>
 </section>
@@ -177,141 +147,141 @@ $canonical_url = "https://www.unlocktool.us/articles/68-diag-iphone.php";
         
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #0066cc;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>Tác giả:</strong> UnlockTool.us Team</span>
-            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>Cập nhật:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Đọc:</strong> ~5 phút</span>
-            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lượt xem:</strong> <span id="viewCount">1,234</span></span>
+            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>T�c gi?:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>�?c:</strong> ~5 ph�t</span>
+            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> <span id="viewCount">1,234</span></span>
         </div>
         <div class="toc">
-            <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
+            <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
             <ul>
-                <li><a href="#diag-la-gi">1. DIAG/Diagnostic Mode là gì?</a></li>
-                <li><a href="#apple-diag">2. Apple Diagnostic Mode (Chính thức)</a></li>
-                <li><a href="#purple-mode">3. Purple Mode (Ẩn)</a></li>
+                <li><a href="#diag-la-gi">1. DIAG/Diagnostic Mode l� g�?</a></li>
+                <li><a href="#apple-diag">2. Apple Diagnostic Mode (Ch�nh th?c)</a></li>
+                <li><a href="#purple-mode">3. Purple Mode (?n)</a></li>
                 <li><a href="#file-diag">4. File Diag cho bypass</a></li>
-                <li><a href="#download">5. Link tải File Diag</a></li>
-                <li><a href="#faq">6. FAQ - Câu hỏi thường gặp</a></li>
+                <li><a href="#download">5. Link t?i File Diag</a></li>
+                <li><a href="#faq">6. FAQ - C�u h?i thu?ng g?p</a></li>
             </ul>
         </div>
         
         <div class="download-box">
-            <h3><i class="fas fa-download me-2"></i>Tải File Diag iPhone/iPad</h3>
-            <p>File Diag đầy đủ cho tất cả model - Dùng cho bypass iCloud</p>
+            <h3><i class="fas fa-download me-2"></i>T?i File Diag iPhone/iPad</h3>
+            <p>File Diag d?y d? cho t?t c? model - D�ng cho bypass iCloud</p>
             <a href="https://file.unlocktool.net/page/diag---iphone" class="btn btn-light btn-lg me-2"><i class="fab fa-apple me-2"></i>iPhone</a>
             <a href="https://file.unlocktool.net/page/diag---ipad" class="btn btn-outline-light btn-lg"><i class="fas fa-tablet-alt me-2"></i>iPad</a>
         </div>
         
-        <h2 id="diag-la-gi"><i class="fas fa-info-circle me-2"></i>1. DIAG/Diagnostic Mode là gì?</h2>
+        <h2 id="diag-la-gi"><i class="fas fa-info-circle me-2"></i>1. DIAG/Diagnostic Mode l� g�?</h2>
         
-        <p><strong>Diagnostic Mode</strong> (DIAG Mode) là chế độ đặc biệt trên iPhone dùng để kiểm tra phần cứng và phần mềm. Có hai loại Diagnostic Mode chính:</p>
+        <p><strong>Diagnostic Mode</strong> (DIAG Mode) l� ch? d? d?c bi?t tr�n iPhone d�ng d? ki?m tra ph?n c?ng v� ph?n m?m. C� hai lo?i Diagnostic Mode ch�nh:</p>
         
         <ul>
-            <li><strong>Apple Diagnostics:</strong> Chế độ chính thức của Apple để kiểm tra lỗi phần cứng</li>
-            <li><strong>Purple Mode:</strong> Chế độ ẩn dành cho kỹ thuật viên Apple và các mục đích nâng cao</li>
+            <li><strong>Apple Diagnostics:</strong> Ch? d? ch�nh th?c c?a Apple d? ki?m tra l?i ph?n c?ng</li>
+            <li><strong>Purple Mode:</strong> Ch? d? ?n d�nh cho k? thu?t vi�n Apple v� c�c m?c d�ch n�ng cao</li>
         </ul>
         
-        <h2 id="apple-diag"><i class="fab fa-apple me-2"></i>2. Apple Diagnostic Mode (Chính thức)</h2>
+        <h2 id="apple-diag"><i class="fab fa-apple me-2"></i>2. Apple Diagnostic Mode (Ch�nh th?c)</h2>
         
-        <p>Đây là chế độ chẩn đoán chính thức của Apple, được sử dụng trong chương trình <strong>Apple Self Service Repair</strong>.</p>
+        <p>��y l� ch? d? ch?n do�n ch�nh th?c c?a Apple, du?c s? d?ng trong chuong tr�nh <strong>Apple Self Service Repair</strong>.</p>
         
-        <h3>2.1. Cách vào Apple Diagnostic Mode</h3>
+        <h3>2.1. C�ch v�o Apple Diagnostic Mode</h3>
         <ol>
-            <li><strong>Tắt iPhone:</strong> Giữ Vol + Side button → Slide to power off → Đợi 30 giây</li>
-            <li><strong>Giữ Vol Up + Vol Down:</strong> Nhấn giữ cả hai nút âm lượng</li>
-            <li><strong>Kết nối sạc:</strong> Trong khi giữ, cắm sạc 18W trở lên (hoặc kết nối Mac)</li>
-            <li><strong>Thả nút:</strong> Khi thấy logo Apple, thả cả hai nút</li>
-            <li><strong>Start Session:</strong> Màn hình hiện "Diagnostics" → Tap "Start Session"</li>
+            <li><strong>T?t iPhone:</strong> Gi? Vol + Side button ? Slide to power off ? �?i 30 gi�y</li>
+            <li><strong>Gi? Vol Up + Vol Down:</strong> Nh?n gi? c? hai n�t �m lu?ng</li>
+            <li><strong>K?t n?i s?c:</strong> Trong khi gi?, c?m s?c 18W tr? l�n (ho?c k?t n?i Mac)</li>
+            <li><strong>Th? n�t:</strong> Khi th?y logo Apple, th? c? hai n�t</li>
+            <li><strong>Start Session:</strong> M�n h�nh hi?n "Diagnostics" ? Tap "Start Session"</li>
         </ol>
         
         <div class="info-box">
-            <h5><i class="fas fa-plug me-2"></i>Yêu cầu sạc:</h5>
-            <p class="mb-0">Cần adapter sạc <strong>18W trở lên</strong> (USB-C Power Delivery). Sạc 5W thường không hoạt động.</p>
+            <h5><i class="fas fa-plug me-2"></i>Y�u c?u s?c:</h5>
+            <p class="mb-0">C?n adapter s?c <strong>18W tr? l�n</strong> (USB-C Power Delivery). S?c 5W thu?ng kh�ng ho?t d?ng.</p>
         </div>
         
-        <h3>2.2. Các bài test trong Diagnostic Mode</h3>
+        <h3>2.2. C�c b�i test trong Diagnostic Mode</h3>
         <ul>
-            <li><strong>Battery:</strong> Kiểm tra sức khỏe pin, chu kỳ sạc</li>
-            <li><strong>Display:</strong> Kiểm tra màn hình, cảm ứng</li>
-            <li><strong>Camera:</strong> Test camera trước/sau</li>
+            <li><strong>Battery:</strong> Ki?m tra s?c kh?e pin, chu k? s?c</li>
+            <li><strong>Display:</strong> Ki?m tra m�n h�nh, c?m ?ng</li>
+            <li><strong>Camera:</strong> Test camera tru?c/sau</li>
             <li><strong>Sensors:</strong> Gyroscope, accelerometer, proximity</li>
             <li><strong>Audio:</strong> Loa, mic, tai nghe</li>
             <li><strong>Connectivity:</strong> WiFi, Bluetooth, Cellular</li>
         </ul>
         
-        <h2 id="purple-mode"><i class="fas fa-user-secret me-2"></i>3. Purple Mode (Ẩn)</h2>
+        <h2 id="purple-mode"><i class="fas fa-user-secret me-2"></i>3. Purple Mode (?n)</h2>
         
         <div class="purple-box">
-            <h5><i class="fas fa-exclamation-circle me-2"></i>Cảnh báo:</h5>
-            <p class="mb-0"><strong>Purple Mode</strong> là chế độ nâng cao dành cho kỹ thuật viên. Sử dụng sai có thể làm hỏng iPhone vĩnh viễn (brick). Chỉ nên thực hiện bởi người có kinh nghiệm.</p>
+            <h5><i class="fas fa-exclamation-circle me-2"></i>C?nh b�o:</h5>
+            <p class="mb-0"><strong>Purple Mode</strong> l� ch? d? n�ng cao d�nh cho k? thu?t vi�n. S? d?ng sai c� th? l�m h?ng iPhone vinh vi?n (brick). Ch? n�n th?c hi?n b?i ngu?i c� kinh nghi?m.</p>
         </div>
         
-        <h3>3.1. Purple Mode là gì?</h3>
-        <p><strong>Purple Mode</strong> (còn gọi là Programmer's Mode) là chế độ ẩn cho phép:</p>
+        <h3>3.1. Purple Mode l� g�?</h3>
+        <p><strong>Purple Mode</strong> (c�n g?i l� Programmer's Mode) l� ch? d? ?n cho ph�p:</p>
         <ul>
-            <li>Thay đổi Serial Number, ECID</li>
-            <li>Đọc/ghi NAND ở mức thấp</li>
-            <li>Bypass iCloud bằng phương pháp nâng cao</li>
-            <li>Sửa chữa thiết bị brick</li>
+            <li>Thay d?i Serial Number, ECID</li>
+            <li>�?c/ghi NAND ? m?c th?p</li>
+            <li>Bypass iCloud b?ng phuong ph�p n�ng cao</li>
+            <li>S?a ch?a thi?t b? brick</li>
         </ul>
         
-        <h3>3.2. Thiết bị cần thiết</h3>
+        <h3>3.2. Thi?t b? c?n thi?t</h3>
         <ul>
-            <li><strong>DCSD Cable:</strong> Cáp chẩn đoán đặc biệt (~$50-100)</li>
+            <li><strong>DCSD Cable:</strong> C�p ch?n do�n d?c bi?t (~$50-100)</li>
             <li><strong>Flash Box:</strong> JC, Magico, iRepair...</li>
             <li><strong>Software:</strong> iRepair, Magico Tool...</li>
         </ul>
         
-        <h3>3.3. Lưu ý về Purple Mode</h3>
+        <h3>3.3. Luu � v? Purple Mode</h3>
         <ul>
-            <li>Một số phương pháp cũ không còn hoạt động với iOS mới</li>
-            <li>Có thể gây lỗi boot loop không khôi phục được</li>
-            <li>Không khuyến nghị cho người mới</li>
+            <li>M?t s? phuong ph�p cu kh�ng c�n ho?t d?ng v?i iOS m?i</li>
+            <li>C� th? g�y l?i boot loop kh�ng kh�i ph?c du?c</li>
+            <li>Kh�ng khuy?n ngh? cho ngu?i m?i</li>
         </ul>
         
         <h2 id="file-diag"><i class="fas fa-file-alt me-2"></i>4. File Diag cho Bypass</h2>
         
-        <p><strong>File Diag</strong> là file hệ thống của Apple được sử dụng trong quá trình bypass iCloud với các tool như UnlockTool.</p>
+        <p><strong>File Diag</strong> l� file h? th?ng c?a Apple du?c s? d?ng trong qu� tr�nh bypass iCloud v?i c�c tool nhu UnlockTool.</p>
         
-        <h3>4.1. Tại sao cần File Diag?</h3>
+        <h3>4.1. T?i sao c?n File Diag?</h3>
         <ul>
-            <li>Một số bypass method cần giả lập môi trường Diagnostic</li>
-            <li>File Diag chứa các component cần thiết cho SSH ramdisk</li>
-            <li>Kết hợp với checkm8 exploit để truy cập file system</li>
+            <li>M?t s? bypass method c?n gi? l?p m�i tru?ng Diagnostic</li>
+            <li>File Diag ch?a c�c component c?n thi?t cho SSH ramdisk</li>
+            <li>K?t h?p v?i checkm8 exploit d? truy c?p file system</li>
         </ul>
         
-        <h3>4.2. Danh sách File Diag theo model</h3>
+        <h3>4.2. Danh s�ch File Diag theo model</h3>
         <table class="comparison-table">
             <thead>
-                <tr><th>Model</th><th>Identifier</th><th>Chip</th><th>Hỗ trợ</th></tr>
+                <tr><th>Model</th><th>Identifier</th><th>Chip</th><th>H? tr?</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>iPhone 5s</strong></td><td>iPhone6,1/6,2</td><td>A7</td><td class="text-success">✅</td></tr>
-                <tr><td><strong>iPhone 6/6+</strong></td><td>iPhone7,1/7,2</td><td>A8</td><td class="text-success">✅</td></tr>
-                <tr><td><strong>iPhone 6s/6s+/SE</strong></td><td>iPhone8,x</td><td>A9</td><td class="text-success">✅</td></tr>
-                <tr><td><strong>iPhone 7/7+</strong></td><td>iPhone9,x</td><td>A10</td><td class="text-success">✅</td></tr>
-                <tr><td><strong>iPhone 8/8+/X</strong></td><td>iPhone10,x</td><td>A11</td><td class="text-success">✅</td></tr>
-                <tr><td><strong>iPhone XR/XS+</strong></td><td>iPhone11,x+</td><td>A12+</td><td class="text-danger">❌</td></tr>
+                <tr><td><strong>iPhone 5s</strong></td><td>iPhone6,1/6,2</td><td>A7</td><td class="text-success">?</td></tr>
+                <tr><td><strong>iPhone 6/6+</strong></td><td>iPhone7,1/7,2</td><td>A8</td><td class="text-success">?</td></tr>
+                <tr><td><strong>iPhone 6s/6s+/SE</strong></td><td>iPhone8,x</td><td>A9</td><td class="text-success">?</td></tr>
+                <tr><td><strong>iPhone 7/7+</strong></td><td>iPhone9,x</td><td>A10</td><td class="text-success">?</td></tr>
+                <tr><td><strong>iPhone 8/8+/X</strong></td><td>iPhone10,x</td><td>A11</td><td class="text-success">?</td></tr>
+                <tr><td><strong>iPhone XR/XS+</strong></td><td>iPhone11,x+</td><td>A12+</td><td class="text-danger">?</td></tr>
             </tbody>
         </table>
         
-        <h3>4.3. Cách sử dụng File Diag</h3>
+        <h3>4.3. C�ch s? d?ng File Diag</h3>
         <ol>
-            <li>Tải file Diag tương ứng với model iPhone</li>
-            <li>Giải nén file (nếu cần)</li>
-            <li>Đặt vào thư mục mà UnlockTool/tool yêu cầu</li>
-            <li>Tool sẽ tự động load file Diag khi bypass</li>
+            <li>T?i file Diag tuong ?ng v?i model iPhone</li>
+            <li>Gi?i n�n file (n?u c?n)</li>
+            <li>�?t v�o thu m?c m� UnlockTool/tool y�u c?u</li>
+            <li>Tool s? t? d?ng load file Diag khi bypass</li>
         </ol>
         
         <div class="tip-box">
-            <h5><i class="fas fa-lightbulb me-2"></i>Mẹo:</h5>
-            <p class="mb-0"><strong>UnlockTool</strong> phiên bản mới đã tích hợp sẵn file Diag. Bạn không cần tải thủ công trong hầu hết trường hợp.</p>
+            <h5><i class="fas fa-lightbulb me-2"></i>M?o:</h5>
+            <p class="mb-0"><strong>UnlockTool</strong> phi�n b?n m?i d� t�ch h?p s?n file Diag. B?n kh�ng c?n t?i th? c�ng trong h?u h?t tru?ng h?p.</p>
         </div>
         
-        <h2 id="download"><i class="fas fa-download me-2"></i>5. Link tải File Diag</h2>
+        <h2 id="download"><i class="fas fa-download me-2"></i>5. Link t?i File Diag</h2>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Loại</th><th>Link</th></tr>
+                <tr><th>Lo?i</th><th>Link</th></tr>
             </thead>
             <tbody>
                 <tr><td><strong>Diag iPhone</strong></td><td><a href="https://file.unlocktool.net/page/diag---iphone">file.unlocktool.net/diag-iphone</a></td></tr>
@@ -320,43 +290,43 @@ $canonical_url = "https://www.unlocktool.us/articles/68-diag-iphone.php";
             </tbody>
         </table>
         
-        <h2 id="faq"><i class="fas fa-comments me-2"></i>6. FAQ - Câu hỏi thường gặp</h2>
+        <h2 id="faq"><i class="fas fa-comments me-2"></i>6. FAQ - C�u h?i thu?ng g?p</h2>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Apple Diagnostic Mode có bypass iCloud không?</h5>
-            <p><strong>Không.</strong> Apple Diagnostic Mode chính thức chỉ để kiểm tra phần cứng. Bypass iCloud cần dùng tool chuyên dụng như UnlockTool.</p>
+            <h5><i class="fas fa-question me-2"></i>Apple Diagnostic Mode c� bypass iCloud kh�ng?</h5>
+            <p><strong>Kh�ng.</strong> Apple Diagnostic Mode ch�nh th?c ch? d? ki?m tra ph?n c?ng. Bypass iCloud c?n d�ng tool chuy�n d?ng nhu UnlockTool.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Purple Mode có an toàn không?</h5>
-            <p><strong>Rủi ro cao.</strong> Purple Mode có thể gây brick nếu thao tác sai. Chỉ nên dùng nếu có kinh nghiệm và thiết bị chuyên dụng.</p>
+            <h5><i class="fas fa-question me-2"></i>Purple Mode c� an to�n kh�ng?</h5>
+            <p><strong>R?i ro cao.</strong> Purple Mode c� th? g�y brick n?u thao t�c sai. Ch? n�n d�ng n?u c� kinh nghi?m v� thi?t b? chuy�n d?ng.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>File Diag có virus không?</h5>
-            <p><strong>Không.</strong> File Diag từ file.unlocktool.net là file hệ thống Apple, không phải phần mềm thực thi. Đã được kiểm tra an toàn.</p>
+            <h5><i class="fas fa-question me-2"></i>File Diag c� virus kh�ng?</h5>
+            <p><strong>Kh�ng.</strong> File Diag t? file.unlocktool.net l� file h? th?ng Apple, kh�ng ph?i ph?n m?m th?c thi. �� du?c ki?m tra an to�n.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Cần file Diag cho bypass không?</h5>
-            <p><strong>Tùy method.</strong> UnlockTool phiên bản mới đã tích hợp sẵn. Chỉ cần tải thủ công với một số tool cũ.</p>
+            <h5><i class="fas fa-question me-2"></i>C?n file Diag cho bypass kh�ng?</h5>
+            <p><strong>T�y method.</strong> UnlockTool phi�n b?n m?i d� t�ch h?p s?n. Ch? c?n t?i th? c�ng v?i m?t s? tool cu.</p>
         </div>
         
         <div class="price-box">
-            <h3><i class="fas fa-unlock me-2"></i>Bypass iCloud Dễ Dàng</h3>
-            <p>UnlockTool tích hợp sẵn File Diag - Không cần tải thủ công</p>
-            <p class="display-5 fw-bold">8.000đ / 6H</p>
-            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg me-2"><i class="fas fa-bolt me-2"></i>Thuê UnlockTool</a>
-            <a href="https://thuetaikhoan.net" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>Dịch Vụ</a>
+            <h3><i class="fas fa-unlock me-2"></i>Bypass iCloud D? D�ng</h3>
+            <p>UnlockTool t�ch h?p s?n File Diag - Kh�ng c?n t?i th? c�ng</p>
+            <p class="display-5 fw-bold">8.000d / 6H</p>
+            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg me-2"><i class="fas fa-bolt me-2"></i>Thu� UnlockTool</a>
+            <a href="https://thuetaikhoan.net" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>D?ch V?</a>
         </div>
         
-        <h2><i class="fas fa-link me-2"></i>Bài viết liên quan</h2>
+        <h2><i class="fas fa-link me-2"></i>B�i vi?t li�n quan</h2>
         <ul>
             <li><a href="67-ramdisk-iphone.php">Ramdisk iPhone</a></li>
-            <li><a href="155-loi-dfurecovery-mode.php">Vào DFU Mode iPhone</a></li>
+            <li><a href="155-loi-dfurecovery-mode.php">V�o DFU Mode iPhone</a></li>
             <li><a href="59-phoenix-bypass-icloud.php">Phoenix Bypass iCloud</a></li>
-            <li><a href="69-3utools-iphone.php">3uTools - Quản lý iOS</a></li>
-            <li><a href="1-unlocktool-la-gi.php">UnlockTool là gì?</a></li>
+            <li><a href="69-3utools-iphone.php">3uTools - Qu?n l� iOS</a></li>
+            <li><a href="1-unlocktool-la-gi.php">UnlockTool l� g�?</a></li>
         </ul>
         
     </div>
@@ -369,7 +339,7 @@ $canonical_url = "https://www.unlocktool.us/articles/68-diag-iphone.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -383,13 +353,13 @@ $canonical_url = "https://www.unlocktool.us/articles/68-diag-iphone.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hướng dẫn chi tiết</small>
+                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
                         </div>
                     </div>
                 </div>
@@ -397,15 +367,15 @@ $canonical_url = "https://www.unlocktool.us/articles/68-diag-iphone.php";
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">Từ iPhone 5s - X</small>
+                            <small class="text-muted">T? iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
-                            <small class="text-muted">Download mới nhất</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
+                            <small class="text-muted">Download m?i nh?t</small>
                         </div>
                     </div>
                 </div>
@@ -418,7 +388,7 @@ $canonical_url = "https://www.unlocktool.us/articles/68-diag-iphone.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -426,8 +396,8 @@ $canonical_url = "https://www.unlocktool.us/articles/68-diag-iphone.php";
 </div>
 <footer class="bg-dark text-white py-4 text-center">
     <div class="container">
-        <p class="mb-2">&copy; 2026 UnlockTool.us - Dịch vụ cho thuê UnlockTool uy tín #1 Việt Nam</p>
-        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thuê UnlockTool 8K</a> | <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+        <p class="mb-2">&copy; 2026 UnlockTool.us - D?ch v? cho thu� UnlockTool uy t�n #1 Vi?t Nam</p>
+        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thu� UnlockTool 8K</a> | <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
     </div>
 </footer>
 

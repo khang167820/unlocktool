@@ -1,6 +1,6 @@
-﻿<?php
-$page_title = "Ramdisk iPhone 💾 Bootable Ramdisk Bypass iCloud Passcode 2026";
-$page_description = "💾 Ramdisk iPhone - Bypass iCloud, Passcode với Checkm8 exploit. Broque, 007 Ramdisk, LU-Ramdisk. Hỗ trợ A5-A11 iOS 15-17. Tải tại file.unlocktool.net";
+<?php
+$page_title = "Ramdisk iPhone ?? Bootable Ramdisk Bypass iCloud Passcode 2026";
+$page_description = "?? Ramdisk iPhone - Bypass iCloud, Passcode v?i Checkm8 exploit. Broque, 007 Ramdisk, LU-Ramdisk. H? tr? A5-A11 iOS 15-17. T?i t?i file.unlocktool.net";
 $page_keywords = "ramdisk iphone, bootable ramdisk, bypass icloud ramdisk, broque ramdisk, 007 ramdisk, checkm8 ramdisk";
 $canonical_url = "https://www.unlocktool.us/articles/67-ramdisk-iphone.php";
 ?>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/67-ramdisk-iphone.php";
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>
+    <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/67-ramdisk-iphone.php";
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hướng dẫn kỹ thuật">
+    <meta property="article:section" content="Hu?ng d?n k? thu?t">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="Mở khóa điện thoại">
+    <meta property="article:tag" content="M? kh�a di?n tho?i">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -50,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/67-ramdisk-iphone.php";
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -61,7 +61,7 @@ $canonical_url = "https://www.unlocktool.us/articles/67-ramdisk-iphone.php";
         "@context": "https://schema.org",
         "@type": "TechArticle",
         "headline": "Ramdisk iPhone - Bootable Ramdisk Bypass iCloud Passcode 2026",
-        "description": "Hướng dẫn sử dụng Ramdisk để bypass iCloud và Passcode trên iPhone",
+        "description": "Hu?ng d?n s? d?ng Ramdisk d? bypass iCloud v� Passcode tr�n iPhone",
         "author": {"@type": "Organization", "name": "UnlockTool.us"},
         "publisher": {"@type": "Organization", "name": "UnlockTool.us"},
         "datePublished": "2024-01-01",
@@ -73,10 +73,10 @@ $canonical_url = "https://www.unlocktool.us/articles/67-ramdisk-iphone.php";
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "Ramdisk iPhone là gì?", "acceptedAnswer": {"@type": "Answer", "text": "Ramdisk là file hệ thống được load vào RAM iPhone để bypass iCloud và Passcode. Sử dụng Checkm8 exploit, hỗ trợ iPhone 5s-X (A5-A11)."}},
-            {"@type": "Question", "name": "Ramdisk có bypass iPhone mới không?", "acceptedAnswer": {"@type": "Answer", "text": "Không. Ramdisk chỉ hỗ trợ iPhone A11 trở xuống (iPhone X). iPhone XR/XS trở lên (A12+) không hỗ trợ."}},
-            {"@type": "Question", "name": "Tool Ramdisk nào tốt nhất?", "acceptedAnswer": {"@type": "Answer", "text": "Các tool phổ biến: Broque Ramdisk Pro (iOS 15-17), 007 Ramdisk Tool (free), LU-Ramdisk AIO. Hoặc dùng UnlockTool có tích hợp sẵn."}},
-            {"@type": "Question", "name": "Ramdisk bypass có vĩnh viễn không?", "acceptedAnswer": {"@type": "Answer", "text": "Không hoàn toàn. Nếu reset factory, cần bypass lại. Một số tool như UnlockTool có bypass untethered."}}
+            {"@type": "Question", "name": "Ramdisk iPhone l� g�?", "acceptedAnswer": {"@type": "Answer", "text": "Ramdisk l� file h? th?ng du?c load v�o RAM iPhone d? bypass iCloud v� Passcode. S? d?ng Checkm8 exploit, h? tr? iPhone 5s-X (A5-A11)."}},
+            {"@type": "Question", "name": "Ramdisk c� bypass iPhone m?i kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "Kh�ng. Ramdisk ch? h? tr? iPhone A11 tr? xu?ng (iPhone X). iPhone XR/XS tr? l�n (A12+) kh�ng h? tr?."}},
+            {"@type": "Question", "name": "Tool Ramdisk n�o t?t nh?t?", "acceptedAnswer": {"@type": "Answer", "text": "C�c tool ph? bi?n: Broque Ramdisk Pro (iOS 15-17), 007 Ramdisk Tool (free), LU-Ramdisk AIO. Ho?c d�ng UnlockTool c� t�ch h?p s?n."}},
+            {"@type": "Question", "name": "Ramdisk bypass c� vinh vi?n kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "Kh�ng ho�n to�n. N?u reset factory, c?n bypass l?i. M?t s? tool nhu UnlockTool c� bypass untethered."}}
         ]
     }
     </script>
@@ -120,44 +120,14 @@ $canonical_url = "https://www.unlocktool.us/articles/67-ramdisk-iphone.php";
         }
     }
     </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Dịch vụ mở khóa điện thoại",
-        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.5",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "126"
-        }
-    }
-    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -165,9 +135,9 @@ $canonical_url = "https://www.unlocktool.us/articles/67-ramdisk-iphone.php";
 <section class="hero-section">
     <div class="container text-center">
         <h1><i class="fas fa-memory me-2"></i>iPhone Ramdisk - Bypass iCloud & Passcode</h1>
-        <p class="lead">Bootable Ramdisk + Checkm8 Exploit - iPhone 5s đến iPhone X</p>
+        <p class="lead">Bootable Ramdisk + Checkm8 Exploit - iPhone 5s d?n iPhone X</p>
         <div class="mt-4">
-            <a href="https://file.unlocktool.net/page/all-ramdisk---iphone" class="cta-btn"><i class="fas fa-download me-2"></i>Tải Ramdisk iPhone</a>
+            <a href="https://file.unlocktool.net/page/all-ramdisk---iphone" class="cta-btn"><i class="fas fa-download me-2"></i>T?i Ramdisk iPhone</a>
         </div>
     </div>
 </section>
@@ -177,98 +147,98 @@ $canonical_url = "https://www.unlocktool.us/articles/67-ramdisk-iphone.php";
         
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #0066cc;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>Tác giả:</strong> UnlockTool.us Team</span>
-            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>Cập nhật:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Đọc:</strong> ~5 phút</span>
-            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lượt xem:</strong> <span id="viewCount">1,234</span></span>
+            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>T�c gi?:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>�?c:</strong> ~5 ph�t</span>
+            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> <span id="viewCount">1,234</span></span>
         </div>
         <div class="toc">
-            <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
+            <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
             <ul>
-                <li><a href="#ramdisk-la-gi">1. Ramdisk iPhone là gì?</a></li>
-                <li><a href="#cach-hoat-dong">2. Cách hoạt động</a></li>
-                <li><a href="#thiet-bi">3. Thiết bị hỗ trợ</a></li>
-                <li><a href="#cac-tool">4. Các Ramdisk Tool phổ biến</a></li>
-                <li><a href="#huong-dan">5. Hướng dẫn sử dụng</a></li>
-                <li><a href="#download">6. Link tải Ramdisk</a></li>
-                <li><a href="#faq">7. FAQ - Câu hỏi thường gặp</a></li>
+                <li><a href="#ramdisk-la-gi">1. Ramdisk iPhone l� g�?</a></li>
+                <li><a href="#cach-hoat-dong">2. C�ch ho?t d?ng</a></li>
+                <li><a href="#thiet-bi">3. Thi?t b? h? tr?</a></li>
+                <li><a href="#cac-tool">4. C�c Ramdisk Tool ph? bi?n</a></li>
+                <li><a href="#huong-dan">5. Hu?ng d?n s? d?ng</a></li>
+                <li><a href="#download">6. Link t?i Ramdisk</a></li>
+                <li><a href="#faq">7. FAQ - C�u h?i thu?ng g?p</a></li>
             </ul>
         </div>
         
         <div class="download-box">
-            <h3><i class="fas fa-download me-2"></i>Tải Ramdisk Files</h3>
-            <p>Ramdisk đầy đủ cho iPhone và iPad - Hỗ trợ bypass iCloud/Passcode</p>
+            <h3><i class="fas fa-download me-2"></i>T?i Ramdisk Files</h3>
+            <p>Ramdisk d?y d? cho iPhone v� iPad - H? tr? bypass iCloud/Passcode</p>
             <a href="https://file.unlocktool.net/page/all-ramdisk---iphone" class="btn btn-light btn-lg me-2"><i class="fab fa-apple me-2"></i>iPhone</a>
             <a href="http://file.unlocktool.net/page/all-ramdisk---ipad" class="btn btn-outline-light btn-lg"><i class="fas fa-tablet-alt me-2"></i>iPad</a>
         </div>
         
-        <h2 id="ramdisk-la-gi"><i class="fas fa-info-circle me-2"></i>1. Ramdisk iPhone là gì?</h2>
+        <h2 id="ramdisk-la-gi"><i class="fas fa-info-circle me-2"></i>1. Ramdisk iPhone l� g�?</h2>
         
-        <p><strong>Ramdisk</strong> (hay Bootable Ramdisk) là một loại file hệ thống được load vào RAM của iPhone/iPad trong quá trình boot. Trong context bypass iCloud và Passcode, Ramdisk được sử dụng kết hợp với <strong>Checkm8 exploit</strong> để truy cập vào hệ thống iOS ở mức thấp.</p>
+        <p><strong>Ramdisk</strong> (hay Bootable Ramdisk) l� m?t lo?i file h? th?ng du?c load v�o RAM c?a iPhone/iPad trong qu� tr�nh boot. Trong context bypass iCloud v� Passcode, Ramdisk du?c s? d?ng k?t h?p v?i <strong>Checkm8 exploit</strong> d? truy c?p v�o h? th?ng iOS ? m?c th?p.</p>
         
-        <h3>1.1. Ramdisk dùng để làm gì?</h3>
+        <h3>1.1. Ramdisk d�ng d? l�m g�?</h3>
         <ul>
-            <li><strong>Bypass iCloud Activation Lock:</strong> Vượt qua màn hình Hello iCloud</li>
-            <li><strong>Bypass Passcode:</strong> Mở khóa khi quên mật khẩu màn hình</li>
-            <li><strong>Remove MDM:</strong> Xóa Mobile Device Management</li>
-            <li><strong>Truy cập file system:</strong> Đọc/ghi dữ liệu iPhone khi bị khóa</li>
-            <li><strong>Change Serial:</strong> Thay đổi serial number (một số tool)</li>
+            <li><strong>Bypass iCloud Activation Lock:</strong> Vu?t qua m�n h�nh Hello iCloud</li>
+            <li><strong>Bypass Passcode:</strong> M? kh�a khi qu�n m?t kh?u m�n h�nh</li>
+            <li><strong>Remove MDM:</strong> X�a Mobile Device Management</li>
+            <li><strong>Truy c?p file system:</strong> �?c/ghi d? li?u iPhone khi b? kh�a</li>
+            <li><strong>Change Serial:</strong> Thay d?i serial number (m?t s? tool)</li>
         </ul>
         
-        <h2 id="cach-hoat-dong"><i class="fas fa-cogs me-2"></i>2. Cách hoạt động</h2>
+        <h2 id="cach-hoat-dong"><i class="fas fa-cogs me-2"></i>2. C�ch ho?t d?ng</h2>
         
-        <p>Ramdisk bypass hoạt động dựa trên <strong>Checkm8 exploit</strong> - một lỗ hổng Boot ROM được phát hiện năm 2019. Quy trình:</p>
+        <p>Ramdisk bypass ho?t d?ng d?a tr�n <strong>Checkm8 exploit</strong> - m?t l? h?ng Boot ROM du?c ph�t hi?n nam 2019. Quy tr�nh:</p>
         
         <ol>
-            <li><strong>Đưa iPhone vào DFU Mode</strong></li>
-            <li><strong>Khai thác checkm8:</strong> Tool gửi payload vào Boot ROM</li>
-            <li><strong>Load Ramdisk:</strong> File ramdisk được load vào RAM</li>
-            <li><strong>Boot từ Ramdisk:</strong> iPhone boot từ ramdisk thay vì storage</li>
-            <li><strong>Thực thi bypass:</strong> Tool thực hiện bypass từ ramdisk environment</li>
+            <li><strong>�ua iPhone v�o DFU Mode</strong></li>
+            <li><strong>Khai th�c checkm8:</strong> Tool g?i payload v�o Boot ROM</li>
+            <li><strong>Load Ramdisk:</strong> File ramdisk du?c load v�o RAM</li>
+            <li><strong>Boot t? Ramdisk:</strong> iPhone boot t? ramdisk thay v� storage</li>
+            <li><strong>Th?c thi bypass:</strong> Tool th?c hi?n bypass t? ramdisk environment</li>
         </ol>
         
         <div class="info-box">
             <h5><i class="fas fa-microchip me-2"></i>Checkm8 Exploit:</h5>
-            <p class="mb-0">Checkm8 là <strong>hardware exploit</strong> không thể patch bằng software update. Vì vậy các iPhone A5-A11 sẽ luôn vulnerable, bất kể iOS version.</p>
+            <p class="mb-0">Checkm8 l� <strong>hardware exploit</strong> kh�ng th? patch b?ng software update. V� v?y c�c iPhone A5-A11 s? lu�n vulnerable, b?t k? iOS version.</p>
         </div>
         
-        <h2 id="thiet-bi"><i class="fas fa-mobile-alt me-2"></i>3. Thiết bị hỗ trợ</h2>
+        <h2 id="thiet-bi"><i class="fas fa-mobile-alt me-2"></i>3. Thi?t b? h? tr?</h2>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Thiết bị</th><th>Chip</th><th>Ramdisk</th><th>Ghi chú</th></tr>
+                <tr><th>Thi?t b?</th><th>Chip</th><th>Ramdisk</th><th>Ghi ch�</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>iPhone 4s</strong></td><td>A5</td><td class="text-success">✅</td><td>iOS 6-9</td></tr>
-                <tr><td><strong>iPhone 5/5c</strong></td><td>A6</td><td class="text-success">✅</td><td>iOS 6-10</td></tr>
-                <tr><td><strong>iPhone 5s</strong></td><td>A7</td><td class="text-success">✅</td><td>iOS 7-12</td></tr>
-                <tr><td><strong>iPhone 6/6+</strong></td><td>A8</td><td class="text-success">✅</td><td>iOS 8-12</td></tr>
-                <tr><td><strong>iPhone 6s/6s+/SE</strong></td><td>A9</td><td class="text-success">✅</td><td>iOS 9-15</td></tr>
-                <tr><td><strong>iPhone 7/7+</strong></td><td>A10</td><td class="text-success">✅</td><td>iOS 10-17</td></tr>
-                <tr><td><strong>iPhone 8/8+/X</strong></td><td>A11</td><td class="text-success">✅</td><td>iOS 11-17 (hạn chế iOS 16+)</td></tr>
-                <tr><td><strong>iPhone XR/XS+ trở lên</strong></td><td>A12+</td><td class="text-danger">❌</td><td>Không hỗ trợ checkm8</td></tr>
+                <tr><td><strong>iPhone 4s</strong></td><td>A5</td><td class="text-success">?</td><td>iOS 6-9</td></tr>
+                <tr><td><strong>iPhone 5/5c</strong></td><td>A6</td><td class="text-success">?</td><td>iOS 6-10</td></tr>
+                <tr><td><strong>iPhone 5s</strong></td><td>A7</td><td class="text-success">?</td><td>iOS 7-12</td></tr>
+                <tr><td><strong>iPhone 6/6+</strong></td><td>A8</td><td class="text-success">?</td><td>iOS 8-12</td></tr>
+                <tr><td><strong>iPhone 6s/6s+/SE</strong></td><td>A9</td><td class="text-success">?</td><td>iOS 9-15</td></tr>
+                <tr><td><strong>iPhone 7/7+</strong></td><td>A10</td><td class="text-success">?</td><td>iOS 10-17</td></tr>
+                <tr><td><strong>iPhone 8/8+/X</strong></td><td>A11</td><td class="text-success">?</td><td>iOS 11-17 (h?n ch? iOS 16+)</td></tr>
+                <tr><td><strong>iPhone XR/XS+ tr? l�n</strong></td><td>A12+</td><td class="text-danger">?</td><td>Kh�ng h? tr? checkm8</td></tr>
             </tbody>
         </table>
         
-        <h2 id="cac-tool"><i class="fas fa-tools me-2"></i>4. Các Ramdisk Tool phổ biến</h2>
+        <h2 id="cac-tool"><i class="fas fa-tools me-2"></i>4. C�c Ramdisk Tool ph? bi?n</h2>
         
         <div class="row">
             <div class="col-md-6">
                 <div class="tool-card">
                     <h5><i class="fas fa-rocket text-primary me-2"></i>Broque Ramdisk Pro</h5>
-                    <p>iOS 15-17, bypass iCloud + passcode miễn phí</p>
+                    <p>iOS 15-17, bypass iCloud + passcode mi?n ph�</p>
                     <ul class="text-start small">
                         <li>Hello Screen bypass</li>
                         <li>Passcode bypass</li>
                         <li>Full signal + iTunes</li>
-                        <li>Không cần jailbreak</li>
+                        <li>Kh�ng c?n jailbreak</li>
                     </ul>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="tool-card">
                     <h5><i class="fas fa-user-secret text-success me-2"></i>007 Ramdisk Tool</h5>
-                    <p>Windows - iCloud Hello bypass miễn phí</p>
+                    <p>Windows - iCloud Hello bypass mi?n ph�</p>
                     <ul class="text-start small">
                         <li>Change Serial Number</li>
                         <li>Purple Mode boot</li>
@@ -285,65 +255,65 @@ $canonical_url = "https://www.unlocktool.us/articles/67-ramdisk-iphone.php";
                         <li>Passcode bypass</li>
                         <li>Activation bypass</li>
                         <li>MDM remove</li>
-                        <li>iOS mới nhất</li>
+                        <li>iOS m?i nh?t</li>
                     </ul>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="tool-card">
                     <h5><i class="fas fa-unlock text-danger me-2"></i>UnlockTool</h5>
-                    <p>Tích hợp ramdisk - thuê 8K/6h</p>
+                    <p>T�ch h?p ramdisk - thu� 8K/6h</p>
                     <ul class="text-start small">
                         <li>Auto load ramdisk</li>
                         <li>Signal bypass</li>
-                        <li>Hỗ trợ GSM + MEID</li>
-                        <li>GUI thân thiện</li>
+                        <li>H? tr? GSM + MEID</li>
+                        <li>GUI th�n thi?n</li>
                     </ul>
                 </div>
             </div>
         </div>
         
-        <h2 id="huong-dan"><i class="fas fa-play-circle me-2"></i>5. Hướng dẫn sử dụng</h2>
+        <h2 id="huong-dan"><i class="fas fa-play-circle me-2"></i>5. Hu?ng d?n s? d?ng</h2>
         
-        <h3>5.1. Chuẩn bị</h3>
+        <h3>5.1. Chu?n b?</h3>
         <ol>
-            <li>Tải file Ramdisk phù hợp với model và iOS</li>
-            <li>Cài đặt ramdisk tool (Broque, 007, hoặc UnlockTool)</li>
-            <li>Cài iTunes và USB drivers</li>
-            <li>Cáp USB chính hãng</li>
+            <li>T?i file Ramdisk ph� h?p v?i model v� iOS</li>
+            <li>C�i d?t ramdisk tool (Broque, 007, ho?c UnlockTool)</li>
+            <li>C�i iTunes v� USB drivers</li>
+            <li>C�p USB ch�nh h�ng</li>
         </ol>
         
-        <h3>5.2. Các bước thực hiện</h3>
+        <h3>5.2. C�c bu?c th?c hi?n</h3>
         <ol>
-            <li><strong>Đưa iPhone vào DFU Mode:</strong>
+            <li><strong>�ua iPhone v�o DFU Mode:</strong>
                 <ul>
-                    <li>iPhone 8/X: Vol Up → Vol Down → Power (giữ 10s)</li>
-                    <li>iPhone 7: Power + Vol Down (giữ 10s)</li>
-                    <li>iPhone 6s trở xuống: Power + Home (giữ 10s)</li>
+                    <li>iPhone 8/X: Vol Up ? Vol Down ? Power (gi? 10s)</li>
+                    <li>iPhone 7: Power + Vol Down (gi? 10s)</li>
+                    <li>iPhone 6s tr? xu?ng: Power + Home (gi? 10s)</li>
                 </ul>
             </li>
-            <li><strong>Kết nối với PC</strong></li>
-            <li><strong>Mở Ramdisk Tool</strong> → Detect device</li>
-            <li><strong>Load Ramdisk:</strong> Tool tự load hoặc chọn file thủ công</li>
-            <li><strong>Chọn bypass method:</strong> iCloud, Passcode, hoặc MDM</li>
-            <li><strong>Đợi hoàn tất</strong> (~5-15 phút)</li>
+            <li><strong>K?t n?i v?i PC</strong></li>
+            <li><strong>M? Ramdisk Tool</strong> ? Detect device</li>
+            <li><strong>Load Ramdisk:</strong> Tool t? load ho?c ch?n file th? c�ng</li>
+            <li><strong>Ch?n bypass method:</strong> iCloud, Passcode, ho?c MDM</li>
+            <li><strong>�?i ho�n t?t</strong> (~5-15 ph�t)</li>
         </ol>
         
         <div class="warning-box">
-            <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý quan trọng:</h5>
+            <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu � quan tr?ng:</h5>
             <ul class="mb-0">
-                <li><strong>Bypass không vĩnh viễn:</strong> Reset factory có thể cần bypass lại</li>
-                <li><strong>iPhone A12+ không hỗ trợ:</strong> Ramdisk chỉ cho A5-A11</li>
-                <li><strong>Signal:</strong> GSM devices có signal, MEID thường không</li>
-                <li><strong>iOS 16+ A11:</strong> Một số tool không hỗ trợ hoàn toàn</li>
+                <li><strong>Bypass kh�ng vinh vi?n:</strong> Reset factory c� th? c?n bypass l?i</li>
+                <li><strong>iPhone A12+ kh�ng h? tr?:</strong> Ramdisk ch? cho A5-A11</li>
+                <li><strong>Signal:</strong> GSM devices c� signal, MEID thu?ng kh�ng</li>
+                <li><strong>iOS 16+ A11:</strong> M?t s? tool kh�ng h? tr? ho�n to�n</li>
             </ul>
         </div>
         
-        <h2 id="download"><i class="fas fa-download me-2"></i>6. Link tải Ramdisk</h2>
+        <h2 id="download"><i class="fas fa-download me-2"></i>6. Link t?i Ramdisk</h2>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Loại</th><th>Link</th></tr>
+                <tr><th>Lo?i</th><th>Link</th></tr>
             </thead>
             <tbody>
                 <tr><td><strong>Ramdisk iPhone</strong></td><td><a href="https://file.unlocktool.net/page/all-ramdisk---iphone">file.unlocktool.net/iPhone</a></td></tr>
@@ -352,47 +322,47 @@ $canonical_url = "https://www.unlocktool.us/articles/67-ramdisk-iphone.php";
         </table>
         
         <div class="tip-box">
-            <h5><i class="fas fa-lightbulb me-2"></i>Mẹo:</h5>
-            <p class="mb-0">Nếu không biết chọn file ramdisk nào, sử dụng <strong>UnlockTool</strong> - tool sẽ tự động tải và load ramdisk phù hợp.</p>
+            <h5><i class="fas fa-lightbulb me-2"></i>M?o:</h5>
+            <p class="mb-0">N?u kh�ng bi?t ch?n file ramdisk n�o, s? d?ng <strong>UnlockTool</strong> - tool s? t? d?ng t?i v� load ramdisk ph� h?p.</p>
         </div>
         
-        <h2 id="faq"><i class="fas fa-comments me-2"></i>7. FAQ - Câu hỏi thường gặp</h2>
+        <h2 id="faq"><i class="fas fa-comments me-2"></i>7. FAQ - C�u h?i thu?ng g?p</h2>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Ramdisk có bypass iPhone 11/12/13 không?</h5>
-            <p><strong>Không.</strong> Ramdisk bypass dựa trên Checkm8 exploit chỉ hỗ trợ A5-A11. iPhone 11+ (A13+) không có hardware exploit tương tự.</p>
-        </div>
-        
-        <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Bypass ramdisk có vĩnh viễn không?</h5>
-            <p><strong>Phần lớn không.</strong> Nếu factory reset, iCloud lock có thể quay lại và cần bypass lại. Một số tool có "untethered" bypass nhưng vẫn có hạn chế.</p>
+            <h5><i class="fas fa-question me-2"></i>Ramdisk c� bypass iPhone 11/12/13 kh�ng?</h5>
+            <p><strong>Kh�ng.</strong> Ramdisk bypass d?a tr�n Checkm8 exploit ch? h? tr? A5-A11. iPhone 11+ (A13+) kh�ng c� hardware exploit tuong t?.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Ramdisk có signal bypass không?</h5>
-            <p><strong>Tùy thiết bị.</strong> GSM devices (không có CDMA) thường có signal sau bypass. MEID devices (Sprint, Verizon) thường không có signal.</p>
+            <h5><i class="fas fa-question me-2"></i>Bypass ramdisk c� vinh vi?n kh�ng?</h5>
+            <p><strong>Ph?n l?n kh�ng.</strong> N?u factory reset, iCloud lock c� th? quay l?i v� c?n bypass l?i. M?t s? tool c� "untethered" bypass nhung v?n c� h?n ch?.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Nên dùng tool nào?</h5>
-            <p><strong>Khuyên dùng UnlockTool</strong> với giá 8K/6h - có GUI thân thiện, tự động load ramdisk, và hỗ trợ nhiều method bypass.</p>
+            <h5><i class="fas fa-question me-2"></i>Ramdisk c� signal bypass kh�ng?</h5>
+            <p><strong>T�y thi?t b?.</strong> GSM devices (kh�ng c� CDMA) thu?ng c� signal sau bypass. MEID devices (Sprint, Verizon) thu?ng kh�ng c� signal.</p>
+        </div>
+        
+        <div class="faq-item">
+            <h5><i class="fas fa-question me-2"></i>N�n d�ng tool n�o?</h5>
+            <p><strong>Khuy�n d�ng UnlockTool</strong> v?i gi� 8K/6h - c� GUI th�n thi?n, t? d?ng load ramdisk, v� h? tr? nhi?u method bypass.</p>
         </div>
         
         <div class="price-box">
-            <h3><i class="fas fa-unlock me-2"></i>Bypass iCloud Dễ Dàng</h3>
-            <p>UnlockTool tích hợp sẵn Ramdisk - Không cần tải thủ công</p>
-            <p class="display-5 fw-bold">8.000đ / 6H</p>
-            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg me-2"><i class="fas fa-bolt me-2"></i>Thuê UnlockTool</a>
-            <a href="https://thuetaikhoan.net" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>Dịch Vụ</a>
+            <h3><i class="fas fa-unlock me-2"></i>Bypass iCloud D? D�ng</h3>
+            <p>UnlockTool t�ch h?p s?n Ramdisk - Kh�ng c?n t?i th? c�ng</p>
+            <p class="display-5 fw-bold">8.000d / 6H</p>
+            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg me-2"><i class="fas fa-bolt me-2"></i>Thu� UnlockTool</a>
+            <a href="https://thuetaikhoan.net" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>D?ch V?</a>
         </div>
         
-        <h2><i class="fas fa-link me-2"></i>Bài viết liên quan</h2>
+        <h2><i class="fas fa-link me-2"></i>B�i vi?t li�n quan</h2>
         <ul>
             <li><a href="68-diag-iphone.php">DIAG Mode iPhone</a></li>
             <li><a href="59-phoenix-bypass-icloud.php">Phoenix Bypass iCloud</a></li>
             <li><a href="66-winra1n-jailbreak.php">WinRa1n Jailbreak Windows</a></li>
-            <li><a href="155-loi-dfurecovery-mode.php">Vào DFU Mode iPhone</a></li>
-            <li><a href="1-unlocktool-la-gi.php">UnlockTool là gì?</a></li>
+            <li><a href="155-loi-dfurecovery-mode.php">V�o DFU Mode iPhone</a></li>
+            <li><a href="1-unlocktool-la-gi.php">UnlockTool l� g�?</a></li>
         </ul>
         
     </div>
@@ -405,7 +375,7 @@ $canonical_url = "https://www.unlocktool.us/articles/67-ramdisk-iphone.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -419,13 +389,13 @@ $canonical_url = "https://www.unlocktool.us/articles/67-ramdisk-iphone.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hướng dẫn chi tiết</small>
+                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
                         </div>
                     </div>
                 </div>
@@ -433,15 +403,15 @@ $canonical_url = "https://www.unlocktool.us/articles/67-ramdisk-iphone.php";
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">Từ iPhone 5s - X</small>
+                            <small class="text-muted">T? iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
-                            <small class="text-muted">Download mới nhất</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
+                            <small class="text-muted">Download m?i nh?t</small>
                         </div>
                     </div>
                 </div>
@@ -454,7 +424,7 @@ $canonical_url = "https://www.unlocktool.us/articles/67-ramdisk-iphone.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -462,8 +432,8 @@ $canonical_url = "https://www.unlocktool.us/articles/67-ramdisk-iphone.php";
 </div>
 <footer class="bg-dark text-white py-4 text-center">
     <div class="container">
-        <p class="mb-2">&copy; 2026 UnlockTool.us - Dịch vụ cho thuê UnlockTool uy tín #1 Việt Nam</p>
-        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thuê UnlockTool 8K</a> | <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+        <p class="mb-2">&copy; 2026 UnlockTool.us - D?ch v? cho thu� UnlockTool uy t�n #1 Vi?t Nam</p>
+        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thu� UnlockTool 8K</a> | <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
     </div>
 </footer>
 
