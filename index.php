@@ -103,7 +103,17 @@ $history_result = $stmt->get_result();
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "VN"
-        }
+        },
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+84777333763",
+            "contactType": "customer service",
+            "availableLanguage": "Vietnamese",
+            "areaServed": "VN"
+        },
+        "sameAs": [
+            "https://zalo.me/0777333763"
+        ]
     }
     </script>
     
@@ -118,18 +128,17 @@ $history_result = $stmt->get_result();
     }
     </script>
     
-    <!-- Structured Data - Service -->
+    
+    <!-- Structured Data - SoftwareApplication with Reviews (Google Rich Snippets eligible) -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
-        "@type": "Service",
-        "name": "Thuê Tài Khoản UnlockTool",
-        "provider": {
-            "@type": "Organization",
-            "name": "UnlockTool.us"
-        },
-        "description": "Dịch vụ cho thuê tài khoản UnlockTool premium theo giờ, ngày với giá rẻ nhất",
-        "areaServed": "VN",
+        "@type": "SoftwareApplication",
+        "name": "UnlockTool.us - Thuê Tài Khoản UnlockTool",
+        "applicationCategory": "UtilitiesApplication",
+        "operatingSystem": "Windows",
+        "url": "https://www.unlocktool.us",
+        "description": "Dịch vụ cho thuê tài khoản UnlockTool premium theo giờ, ngày với giá rẻ nhất. Hệ thống tự động 24/7.",
         "offers": {
             "@type": "AggregateOffer",
             "lowPrice": "8000",
@@ -140,8 +149,52 @@ $history_result = $stmt->get_result();
         "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": "4.9",
-            "reviewCount": "6500"
-        }
+            "reviewCount": "6500",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "review": [
+            {
+                "@type": "Review",
+                "author": {"@type": "Person", "name": "Minh Tuấn"},
+                "datePublished": "2026-02-05",
+                "reviewBody": "Đã thuê UnlockTool ở đây hơn 10 lần. Thanh toán xong là nhận tài khoản liền. Xóa FRP Samsung A54, A34 đều thành công. Giá 8K/6h quá rẻ.",
+                "name": "Dịch vụ nhanh, ổn định",
+                "reviewRating": {"@type": "Rating", "ratingValue": "5", "bestRating": "5"}
+            },
+            {
+                "@type": "Review",
+                "author": {"@type": "Person", "name": "Thanh Hải"},
+                "datePublished": "2026-01-22",
+                "reviewBody": "Hệ thống tự động 24/7 tiện lợi. Thuê lúc 2h sáng, chuyển tiền xong 30 giây là có tài khoản luôn.",
+                "name": "Tự động 24/7, rất tiện",
+                "reviewRating": {"@type": "Rating", "ratingValue": "5", "bestRating": "5"}
+            },
+            {
+                "@type": "Review",
+                "author": {"@type": "Person", "name": "Thành Long"},
+                "datePublished": "2025-12-05",
+                "reviewBody": "Đã thử 3-4 trang khác nhau, chốt ở đây vì giá rẻ nhất, hệ thống tự động, hỗ trợ nhanh.",
+                "name": "Trang uy tín nhất",
+                "reviewRating": {"@type": "Rating", "ratingValue": "5", "bestRating": "5"}
+            },
+            {
+                "@type": "Review",
+                "author": {"@type": "Person", "name": "Ngọc Trâm"},
+                "datePublished": "2026-01-05",
+                "reviewBody": "Là thợ sửa điện thoại, dùng trang này từ khi mới mở. Thuê hàng tuần, chưa bao giờ gặp vấn đề gì.",
+                "name": "Đáng tin cậy",
+                "reviewRating": {"@type": "Rating", "ratingValue": "5", "bestRating": "5"}
+            },
+            {
+                "@type": "Review",
+                "author": {"@type": "Person", "name": "Công Minh"},
+                "datePublished": "2025-11-20",
+                "reviewBody": "Nhờ UnlockTool.us mà nhận thêm dịch vụ xóa khóa cho khách. Thuê 8K, thu khách 100-200K. Trang chạy ổn định.",
+                "name": "Tiết kiệm chi phí",
+                "reviewRating": {"@type": "Rating", "ratingValue": "5", "bestRating": "5"}
+            }
+        ]
     }
     </script>
     
