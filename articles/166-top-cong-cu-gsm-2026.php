@@ -64,59 +64,26 @@ $canonical_url = "https://www.unlocktool.us/articles/166-top-cong-cu-gsm-2026.ph
     ]}
     </script>
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <?php require_once __DIR__ . '/../includes/article-template.php'; render_article_head_assets(); ?>
     <style>
-        body{font-family:'Segoe UI',sans-serif;line-height:1.9;color:#333;background:#f0f4f8}
-        .hero-section{background:linear-gradient(135deg,#1a1a2e 0%,#16213e 50%,#0f3460 100%);color:#fff;padding:70px 0 90px;position:relative}
-        .hero-section h1{font-size:2rem;font-weight:800;margin-bottom:15px}
-        .hero-section .lead{font-size:1.05rem;opacity:0.9;max-width:700px}
-        .content-wrapper{max-width:850px;margin:0 auto;background:#fff;border-radius:20px;box-shadow:0 10px 40px rgba(0,0,0,0.08);margin-top:-50px;padding:50px;position:relative;z-index:10}
-        h2{color:#0f3460;margin-top:45px;padding-bottom:15px;border-bottom:3px solid #e94560;font-size:1.6rem;font-weight:700}
-        h3{color:#0f3460;font-size:1.2rem;font-weight:700;margin-top:30px}
-        .tool-card{background:#fff;border:2px solid #e8ecf1;border-radius:16px;padding:30px;margin:25px 0;transition:all 0.3s}
-        .tool-card:hover{border-color:#e94560;box-shadow:0 8px 25px rgba(0,0,0,0.1)}
-        .tool-card .tool-header{display:flex;align-items:center;gap:15px;margin-bottom:15px}
-        .tool-card .tool-icon{width:60px;height:60px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:1.5rem;color:#fff;font-weight:800;flex-shrink:0}
-        .tool-card h3{margin:0;font-size:1.3rem}
-        .tool-card .tool-price{background:#e94560;color:#fff;padding:5px 15px;border-radius:20px;font-size:0.85rem;font-weight:700;display:inline-block;margin:10px 0}
-        .tool-card .tool-features{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:15px}
-        .tool-card .tool-features li{list-style:none;font-size:0.9rem;padding:3px 0}
-        .highlight-box{background:linear-gradient(135deg,#eaf2f8,#d6eaf8);border-left:5px solid #2e86c1;padding:20px 25px;border-radius:0 12px 12px 0;margin:25px 0}
-        .highlight-box.success{background:linear-gradient(135deg,#e8f8f5,#d5f5e3);border-left-color:#27ae60}
-        .highlight-box.warning{background:linear-gradient(135deg,#fdf2e9,#fdebd0);border-left-color:#f39c12}
-        .highlight-box p{margin:0;font-size:0.95rem}
-        .compare-table{width:100%;border-collapse:separate;border-spacing:0;border-radius:12px;overflow:hidden;box-shadow:0 4px 15px rgba(0,0,0,0.08);margin:25px 0;font-size:0.85rem}
-        .compare-table th{background:linear-gradient(135deg,#e94560,#0f3460);color:#fff;padding:12px 10px;font-weight:600;text-align:center}
-        .compare-table td{padding:10px;border-bottom:1px solid #ecf0f1;text-align:center}
-        .compare-table tr:nth-child(even){background:#f8f9fa}
-        .img-article{width:100%;border-radius:12px;box-shadow:0 4px 15px rgba(0,0,0,0.1);margin:20px 0}
-        .img-caption{text-align:center;color:#888;font-size:0.85rem;margin-top:-10px;margin-bottom:20px;font-style:italic}
-        .toc{background:#eaf2f8;border-radius:12px;padding:25px;margin:25px 0}
-        .toc h3{color:#0f3460;font-size:1.1rem;margin:0 0 15px}
-        .toc ol{margin:0;padding-left:20px}
-        .toc li{padding:5px 0}
-        .toc a{color:#e94560;text-decoration:none;font-weight:600;font-size:0.95rem}
-        .breadcrumb-nav{background:#fff;border-bottom:1px solid #e8ecf1}
-        .breadcrumb-nav a{color:#e94560;text-decoration:none;font-size:0.85rem}
-        .breadcrumb-nav span{color:#888;font-size:0.85rem}
-        .faq-item{background:#f8f9fa;border-radius:12px;padding:20px 25px;margin-bottom:12px;border:1px solid #e8ecf1}
-        .faq-item h3{font-size:1rem;font-weight:700;color:#0f3460;margin:0 0 10px}
-        .faq-item p{color:#555;margin:0;line-height:1.7;font-size:0.95rem}
-        .cta-section{background:linear-gradient(135deg,#e94560 0%,#0f3460 100%);color:#fff;padding:40px;border-radius:20px;text-align:center;margin:40px 0}
-        .cta-btn{display:inline-block;background:#fff;color:#e94560;padding:15px 35px;border-radius:50px;font-weight:700;text-decoration:none;margin:8px;transition:all 0.3s;font-size:0.95rem}
-        .cta-btn:hover{transform:translateY(-3px);box-shadow:0 10px 30px rgba(0,0,0,0.2);color:#0f3460;text-decoration:none}
-        @media(max-width:768px){
-            .hero-section{padding:50px 15px 70px}
-            .hero-section h1{font-size:1.5rem}
-            .content-wrapper{padding:25px 15px;margin:0 10px;margin-top:-30px}
-            h2{font-size:1.3rem}
-            .tool-card .tool-features{grid-template-columns:1fr}
-            .compare-table{font-size:0.75rem}
-        }
+        /* Article 166 — Blue/Red theme */
+        .hero-section{background:linear-gradient(135deg,#1a1a2e 0%,#16213e 50%,#0f3460 100%)}
+        h2{color:#0f3460} h3{color:#0f3460}
+        h2::after{background:linear-gradient(90deg,#e94560,#ff6b81)}
+        .toc{background:#eaf2f8} .toc::before{background:#e94560}
+        .toc a{color:#e94560}
+        .compare-table th{background:linear-gradient(135deg,#e94560,#0f3460)}
+        .cta-section{background:linear-gradient(135deg,#e94560 0%,#0f3460 100%)}
+        .cta-btn{color:#e94560} .cta-btn:hover{color:#0f3460}
+        .breadcrumb-nav a{color:#e94560}
+        .faq-item h3{color:#0f3460}
+        .related-posts a{color:#e94560}
+        .related-posts h3{color:#0f3460}
+        .tool-card:hover::before{background:linear-gradient(90deg,#e94560,#ff6b81)}
     </style>
 </head>
 <body>
+<?php render_article_navbar(); ?>
 
 <nav class="breadcrumb-nav py-2"><div class="container">
     <a href="/">Trang chủ</a><span> › </span><a href="/articles/">Bài viết</a><span> › </span><span>Top 8 Công Cụ GSM 2026</span>
@@ -387,24 +354,18 @@ $canonical_url = "https://www.unlocktool.us/articles/166-top-cong-cu-gsm-2026.ph
         <a href="/" class="cta-btn">🔓 Thuê UnlockTool</a>
     </div>
 
-    <div style="margin:30px 0;padding:25px;background:#f8f9fa;border-radius:16px;border:1px solid #e8ecf1">
-        <h3 style="color:#0f3460;font-weight:700;margin-bottom:15px"><i class="fas fa-link"></i> Bài Viết Liên Quan</h3>
-        <ul style="list-style:none;padding:0;margin:0">
-            <li style="padding:8px 0;border-bottom:1px solid #e8ecf1"><a href="https://thuetaikhoan.net" target="_blank" rel="nofollow" style="color:#e94560;text-decoration:none;font-weight:600">🏠 Thuetaikhoan.net — Nền Tảng Cho Thuê GSM Tool #1</a></li>
-            <li style="padding:8px 0;border-bottom:1px solid #e8ecf1"><a href="/articles/165-thue-vietmap-live-pro-gia-re.php" style="color:#e94560;text-decoration:none;font-weight:600">🗺️ Thuê Vietmap Live Pro Giá Rẻ 2026</a></li>
-            <li style="padding:8px 0;border-bottom:1px solid #e8ecf1"><a href="/" style="color:#e94560;text-decoration:none;font-weight:600">🔓 UnlockTool.us — Thuê UnlockTool Giá Rẻ</a></li>
-            <li style="padding:8px 0"><a href="/articles/1-unlocktool-la-gi.php" style="color:#e94560;text-decoration:none;font-weight:600">📚 UnlockTool Là Gì? Hướng Dẫn Sử Dụng</a></li>
+    <div class="related-posts">
+        <h3><i class="fas fa-link"></i> Bài Viết Liên Quan</h3>
+        <ul>
+            <li><a href="https://thuetaikhoan.net" target="_blank" rel="nofollow">🏠 Thuetaikhoan.net — Cho Thuê GSM Tool #1</a></li>
+            <li><a href="/articles/165-thue-vietmap-live-pro-gia-re.php">🗺️ Thuê Vietmap Live Pro Giá Rẻ 2026</a></li>
+            <li><a href="/articles/167-thue-tai-khoan-gsm-tool-uy-tin.php">🔍 Thuê GSM Tool Ở Đâu Uy Tín?</a></li>
+            <li><a href="/">🔓 UnlockTool.us — Thuê UnlockTool Giá Rẻ</a></li>
         </ul>
     </div>
 
 </div></div>
 
-<footer style="background:#1a1a2e;color:#fff;padding:30px 0;text-align:center;margin-top:50px">
-    <div class="container">
-        <p style="margin:0;opacity:0.7;font-size:0.9rem">© 2024-2026 UnlockTool.us - Dịch vụ cho thuê UnlockTool uy tín #1 Việt Nam</p>
-        <p style="margin:10px 0 0;opacity:0.5;font-size:0.8rem">Liên hệ: Zalo 0777333763 | Email: support@unlocktool.us</p>
-    </div>
-</footer>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<?php render_article_footer(); ?>
 </body>
 </html>

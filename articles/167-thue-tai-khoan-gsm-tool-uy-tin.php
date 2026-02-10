@@ -63,70 +63,30 @@ $canonical_url = "https://www.unlocktool.us/articles/167-thue-tai-khoan-gsm-tool
     ]}
     </script>
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <?php require_once __DIR__ . '/../includes/article-template.php'; render_article_head_assets(); ?>
     <style>
-        body{font-family:'Segoe UI',sans-serif;line-height:1.9;color:#333;background:#f0f4f8}
-        .hero-section{background:linear-gradient(135deg,#6c3483 0%,#4a235a 50%,#2c003e 100%);color:#fff;padding:70px 0 90px}
-        .hero-section h1{font-size:2rem;font-weight:800;margin-bottom:15px}
-        .hero-section .lead{font-size:1.05rem;opacity:0.9;max-width:700px}
-        .content-wrapper{max-width:850px;margin:0 auto;background:#fff;border-radius:20px;box-shadow:0 10px 40px rgba(0,0,0,0.08);margin-top:-50px;padding:50px;position:relative;z-index:10}
-        h2{color:#4a235a;margin-top:45px;padding-bottom:15px;border-bottom:3px solid #8e44ad;font-size:1.6rem;font-weight:700}
-        h3{color:#4a235a;font-size:1.2rem;font-weight:700;margin-top:30px}
-        .highlight-box{background:linear-gradient(135deg,#f5eef8,#ebdef0);border-left:5px solid #8e44ad;padding:20px 25px;border-radius:0 12px 12px 0;margin:25px 0}
-        .highlight-box.success{background:linear-gradient(135deg,#e8f8f5,#d5f5e3);border-left-color:#27ae60}
-        .highlight-box.warning{background:linear-gradient(135deg,#fdf2e9,#fdebd0);border-left-color:#f39c12}
-        .highlight-box.danger{background:linear-gradient(135deg,#fdedec,#fadbd8);border-left-color:#e74c3c}
-        .highlight-box p{margin:0;font-size:0.95rem}
-        .compare-table{width:100%;border-collapse:separate;border-spacing:0;border-radius:12px;overflow:hidden;box-shadow:0 4px 15px rgba(0,0,0,0.08);margin:25px 0}
-        .compare-table th{background:linear-gradient(135deg,#8e44ad,#4a235a);color:#fff;padding:14px 16px;font-size:0.9rem;font-weight:600;text-align:center}
-        .compare-table td{padding:12px 16px;border-bottom:1px solid #ecf0f1;font-size:0.9rem;text-align:center}
-        .compare-table tr:last-child td{border-bottom:none}
-        .compare-table tr:nth-child(even){background:#f8f9fa}
-        .check{color:#27ae60;font-size:1.2rem}
-        .cross{color:#e74c3c;font-size:1.2rem}
-        .platform-card{background:#fff;border:2px solid #e8ecf1;border-radius:16px;padding:30px;margin:25px 0;transition:all 0.3s}
-        .platform-card:hover{border-color:#8e44ad;box-shadow:0 8px 25px rgba(0,0,0,0.1)}
-        .platform-card .platform-header{display:flex;align-items:center;gap:15px;margin-bottom:15px}
-        .platform-card .platform-icon{width:60px;height:60px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:1.3rem;color:#fff;font-weight:800;flex-shrink:0}
-        .platform-card h3{margin:0;font-size:1.3rem}
-        .platform-card .rating{color:#f1c40f;font-size:1.1rem;margin:10px 0}
-        .feature-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px;margin:25px 0}
-        .feature-card{background:#fff;border:2px solid #d5dbdb;border-radius:15px;padding:25px;text-align:center;transition:all 0.3s}
-        .feature-card:hover{border-color:#8e44ad;transform:translateY(-3px);box-shadow:0 8px 25px rgba(0,0,0,0.1)}
-        .feature-card i{font-size:2.5rem;color:#8e44ad;margin-bottom:12px}
-        .feature-card h4{font-size:1rem;font-weight:700;color:#4a235a;margin-bottom:8px}
-        .feature-card p{font-size:0.85rem;color:#666;margin:0}
-        .img-article{width:100%;border-radius:12px;box-shadow:0 4px 15px rgba(0,0,0,0.1);margin:20px 0}
-        .img-caption{text-align:center;color:#888;font-size:0.85rem;margin-top:-10px;margin-bottom:20px;font-style:italic}
-        .review-mini{background:#f8f9fa;border-radius:12px;padding:20px;margin:15px 0;border-left:4px solid #f1c40f}
-        .review-mini .stars{color:#f1c40f;margin-bottom:8px}
-        .review-mini .author{font-weight:700;color:#4a235a;font-size:0.9rem}
-        .review-mini .text{color:#555;font-size:0.95rem;font-style:italic}
-        .toc{background:#f5eef8;border-radius:12px;padding:25px;margin:25px 0}
-        .toc h3{color:#4a235a;font-size:1.1rem;margin:0 0 15px}
-        .toc ol{margin:0;padding-left:20px}
-        .toc li{padding:5px 0}
-        .toc a{color:#8e44ad;text-decoration:none;font-weight:600;font-size:0.95rem}
-        .breadcrumb-nav{background:#fff;border-bottom:1px solid #e8ecf1}
-        .breadcrumb-nav a{color:#8e44ad;text-decoration:none;font-size:0.85rem}
-        .breadcrumb-nav span{color:#888;font-size:0.85rem}
-        .faq-item{background:#f8f9fa;border-radius:12px;padding:20px 25px;margin-bottom:12px;border:1px solid #e8ecf1}
-        .faq-item h3{font-size:1rem;font-weight:700;color:#4a235a;margin:0 0 10px}
-        .faq-item p{color:#555;margin:0;line-height:1.7;font-size:0.95rem}
-        .cta-section{background:linear-gradient(135deg,#8e44ad 0%,#4a235a 100%);color:#fff;padding:40px;border-radius:20px;text-align:center;margin:40px 0}
-        .cta-btn{display:inline-block;background:#fff;color:#8e44ad;padding:15px 35px;border-radius:50px;font-weight:700;text-decoration:none;margin:8px;transition:all 0.3s;font-size:0.95rem}
-        .cta-btn:hover{transform:translateY(-3px);box-shadow:0 10px 30px rgba(0,0,0,0.2);color:#4a235a;text-decoration:none}
-        @media(max-width:768px){
-            .hero-section{padding:50px 15px 70px}
-            .hero-section h1{font-size:1.5rem}
-            .content-wrapper{padding:25px 15px;margin:0 10px;margin-top:-30px}
-            h2{font-size:1.3rem}
-            .feature-grid{grid-template-columns:1fr}
-        }
+        /* Article 167 — Purple theme */
+        .hero-section{background:linear-gradient(135deg,#6c3483 0%,#4a235a 50%,#2c003e 100%)}
+        h2{color:#4a235a} h3{color:#4a235a}
+        h2::after{background:linear-gradient(90deg,#8e44ad,#bb6bd9)}
+        .toc{background:#f5eef8} .toc::before{background:#8e44ad}
+        .toc a{color:#8e44ad}
+        .feature-card i{color:#8e44ad}
+        .feature-card h4{color:#4a235a}
+        .feature-card::before{background:linear-gradient(90deg,#8e44ad,#bb6bd9)}
+        .compare-table th{background:linear-gradient(135deg,#8e44ad,#4a235a)}
+        .cta-section{background:linear-gradient(135deg,#8e44ad 0%,#4a235a 100%)}
+        .cta-btn{color:#8e44ad} .cta-btn:hover{color:#4a235a}
+        .breadcrumb-nav a{color:#8e44ad}
+        .faq-item h3{color:#4a235a}
+        .review-mini .author{color:#4a235a}
+        .related-posts a{color:#8e44ad}
+        .related-posts h3{color:#4a235a}
+        .platform-card:hover::before{background:linear-gradient(90deg,#8e44ad,#bb6bd9)}
     </style>
 </head>
 <body>
+<?php render_article_navbar(); ?>
 
 <nav class="breadcrumb-nav py-2"><div class="container">
     <a href="/">Trang chủ</a><span> › </span><a href="/articles/">Bài viết</a><span> › </span><span>Thuê GSM Tool Uy Tín</span>
@@ -399,25 +359,19 @@ $canonical_url = "https://www.unlocktool.us/articles/167-thue-tai-khoan-gsm-tool
         <a href="/" class="cta-btn">🔓 UnlockTool.us</a>
     </div>
 
-    <div style="margin:30px 0;padding:25px;background:#f8f9fa;border-radius:16px;border:1px solid #e8ecf1">
-        <h3 style="color:#4a235a;font-weight:700;margin-bottom:15px"><i class="fas fa-link"></i> Bài Viết Liên Quan</h3>
-        <ul style="list-style:none;padding:0;margin:0">
-            <li style="padding:8px 0;border-bottom:1px solid #e8ecf1"><a href="https://thuetaikhoan.net" target="_blank" rel="nofollow" style="color:#8e44ad;text-decoration:none;font-weight:600">🏠 Thuetaikhoan.net — Cho Thuê GSM Tool 24/7</a></li>
-            <li style="padding:8px 0;border-bottom:1px solid #e8ecf1"><a href="/articles/165-thue-vietmap-live-pro-gia-re.php" style="color:#8e44ad;text-decoration:none;font-weight:600">🗺️ Thuê Vietmap Live Pro Giá Rẻ 2026</a></li>
-            <li style="padding:8px 0;border-bottom:1px solid #e8ecf1"><a href="/articles/166-top-cong-cu-gsm-2026.php" style="color:#8e44ad;text-decoration:none;font-weight:600">🛠️ Top 8 Công Cụ GSM 2026</a></li>
-            <li style="padding:8px 0;border-bottom:1px solid #e8ecf1"><a href="/articles/164-unlocktool-us-co-uy-tin-khong.php" style="color:#8e44ad;text-decoration:none;font-weight:600">🔍 UnlockTool.us Có Uy Tín Không?</a></li>
-            <li style="padding:8px 0"><a href="/articles/163-danh-gia-khach-hang.php" style="color:#8e44ad;text-decoration:none;font-weight:600">⭐ Đánh Giá Khách Hàng</a></li>
+    <div class="related-posts">
+        <h3><i class="fas fa-link"></i> Bài Viết Liên Quan</h3>
+        <ul>
+            <li><a href="https://thuetaikhoan.net" target="_blank" rel="nofollow">🏠 Thuetaikhoan.net — Cho Thuê GSM Tool 24/7</a></li>
+            <li><a href="/articles/165-thue-vietmap-live-pro-gia-re.php">🗺️ Thuê Vietmap Live Pro Giá Rẻ 2026</a></li>
+            <li><a href="/articles/166-top-cong-cu-gsm-2026.php">🛠️ Top 8 Công Cụ GSM 2026</a></li>
+            <li><a href="/articles/164-unlocktool-us-co-uy-tin-khong.php">🔍 UnlockTool.us Có Uy Tín Không?</a></li>
+            <li><a href="/articles/163-danh-gia-khach-hang.php">⭐ Đánh Giá Khách Hàng</a></li>
         </ul>
     </div>
 
 </div></div>
 
-<footer style="background:#1a1a2e;color:#fff;padding:30px 0;text-align:center;margin-top:50px">
-    <div class="container">
-        <p style="margin:0;opacity:0.7;font-size:0.9rem">© 2024-2026 UnlockTool.us - Dịch vụ cho thuê UnlockTool uy tín #1 Việt Nam</p>
-        <p style="margin:10px 0 0;opacity:0.5;font-size:0.8rem">Liên hệ: Zalo 0777333763 | Email: support@unlocktool.us</p>
-    </div>
-</footer>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<?php render_article_footer(); ?>
 </body>
 </html>

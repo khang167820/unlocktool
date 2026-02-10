@@ -146,109 +146,34 @@ $canonical_url = "https://www.unlocktool.us/articles/164-unlocktool-us-co-uy-tin
     }
     </script>
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <?php require_once __DIR__ . '/../includes/article-template.php'; render_article_head_assets(); ?>
     <style>
-        body{font-family:'Segoe UI',sans-serif;line-height:1.9;color:#333;background:#f0f4f8}
-
-        /* Hero */
-        .hero-section{background:linear-gradient(135deg,#1a5276 0%,#154360 50%,#0e2f44 100%);color:#fff;padding:70px 0 90px;position:relative;overflow:hidden}
-        .hero-section::before{content:'';position:absolute;top:0;left:0;right:0;bottom:0;background:url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="50" cy="50" r="40" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="0.5"/></svg>') repeat;opacity:0.5}
-        .hero-section h1{font-size:2rem;font-weight:800;margin-bottom:15px;position:relative}
-        .hero-section .lead{font-size:1.05rem;opacity:0.9;max-width:700px;position:relative}
-
-        /* Content */
-        .content-wrapper{max-width:850px;margin:0 auto;background:#fff;border-radius:20px;box-shadow:0 10px 40px rgba(0,0,0,0.08);margin-top:-50px;padding:50px;position:relative;z-index:10}
-
-        /* Headings */
-        h2{color:#1a5276;margin-top:45px;padding-bottom:15px;border-bottom:3px solid #2e86c1;font-size:1.6rem;font-weight:700}
-        h3{color:#1a5276;font-size:1.2rem;font-weight:700;margin-top:30px}
-
-        /* Highlight boxes */
-        .highlight-box{background:linear-gradient(135deg,#e8f8f5,#d5f5e3);border-left:5px solid #27ae60;padding:20px 25px;border-radius:0 12px 12px 0;margin:25px 0}
-        .highlight-box.warning{background:linear-gradient(135deg,#fdf2e9,#fdebd0);border-left-color:#f39c12}
-        .highlight-box.info{background:linear-gradient(135deg,#eaf2f8,#d6eaf8);border-left-color:#2e86c1}
-        .highlight-box.danger{background:linear-gradient(135deg,#fdedec,#fadbd8);border-left-color:#e74c3c}
-        .highlight-box p{margin:0;font-size:0.95rem}
-        .highlight-box strong{color:#1a5276}
-
-        /* Feature cards */
-        .feature-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px;margin:25px 0}
-        .feature-card{background:#fff;border:2px solid #d5dbdb;border-radius:15px;padding:25px;text-align:center;transition:all 0.3s}
-        .feature-card:hover{border-color:#2e86c1;transform:translateY(-3px);box-shadow:0 8px 25px rgba(0,0,0,0.1)}
-        .feature-card i{font-size:2.5rem;color:#2e86c1;margin-bottom:12px}
-        .feature-card h4{font-size:1rem;font-weight:700;color:#1a5276;margin-bottom:8px}
-        .feature-card p{font-size:0.85rem;color:#666;margin:0}
-
-        /* Stats */
-        .stat-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:15px;margin:25px 0}
-        .stat-card{background:linear-gradient(135deg,#2e86c1,#1a5276);color:#fff;border-radius:15px;padding:25px;text-align:center}
-        .stat-card .number{font-size:2rem;font-weight:800;line-height:1.2}
-        .stat-card .label{font-size:0.8rem;opacity:0.9;margin-top:5px}
-
-        /* Comparison table */
-        .compare-table{width:100%;border-collapse:separate;border-spacing:0;border-radius:12px;overflow:hidden;box-shadow:0 4px 15px rgba(0,0,0,0.08);margin:25px 0}
-        .compare-table th{background:linear-gradient(135deg,#2e86c1,#1a5276);color:#fff;padding:14px 16px;font-size:0.9rem;font-weight:600;text-align:center}
-        .compare-table td{padding:12px 16px;border-bottom:1px solid #ecf0f1;font-size:0.9rem;text-align:center}
-        .compare-table tr:last-child td{border-bottom:none}
-        .compare-table tr:nth-child(even){background:#f8f9fa}
-        .check{color:#27ae60;font-size:1.2rem}
-        .cross{color:#e74c3c;font-size:1.2rem}
-
-        /* Review mini */
-        .review-mini{background:#f8f9fa;border-radius:12px;padding:20px;margin:15px 0;border-left:4px solid #f1c40f}
-        .review-mini .stars{color:#f1c40f;margin-bottom:8px}
-        .review-mini .author{font-weight:700;color:#1a5276;font-size:0.9rem}
-        .review-mini .text{color:#555;font-size:0.95rem;font-style:italic}
-
-        /* CTA */
-        .cta-section{background:linear-gradient(135deg,#27ae60 0%,#1e8449 100%);color:#fff;padding:40px;border-radius:20px;text-align:center;margin:40px 0}
-        .cta-btn{display:inline-block;background:#fff;color:#27ae60;padding:15px 40px;border-radius:50px;font-weight:700;text-decoration:none;margin:10px;transition:all 0.3s;font-size:1rem}
-        .cta-btn:hover{transform:translateY(-3px);box-shadow:0 10px 30px rgba(0,0,0,0.2);color:#1e8449;text-decoration:none}
-
-        /* FAQ */
-        .faq-item{background:#f8f9fa;border-radius:12px;padding:20px 25px;margin-bottom:12px;border:1px solid #e8ecf1}
-        .faq-item h3{font-size:1rem;font-weight:700;color:#1a5276;margin:0 0 10px;cursor:pointer}
-        .faq-item p{color:#555;margin:0;line-height:1.7;font-size:0.95rem}
-
-        /* TOC */
-        .toc{background:#eaf2f8;border-radius:12px;padding:25px;margin:25px 0}
-        .toc h3{color:#1a5276;font-size:1.1rem;margin:0 0 15px}
-        .toc ol{margin:0;padding-left:20px}
-        .toc li{padding:5px 0}
-        .toc a{color:#2e86c1;text-decoration:none;font-weight:600;font-size:0.95rem}
-        .toc a:hover{text-decoration:underline}
-
-        /* Breadcrumb */
-        .breadcrumb-nav{background:#fff;border-bottom:1px solid #e8ecf1}
-        .breadcrumb-nav a{color:#2e86c1;text-decoration:none;font-size:0.85rem}
-        .breadcrumb-nav a:hover{text-decoration:underline}
-        .breadcrumb-nav span{color:#888;font-size:0.85rem}
-
-        @media(max-width:768px){
-            .hero-section{padding:50px 15px 70px}
-            .hero-section h1{font-size:1.5rem}
-            .content-wrapper{padding:25px 15px;margin:0 10px;margin-top:-30px;border-radius:12px}
-            h2{font-size:1.3rem}
-            .feature-grid{grid-template-columns:1fr}
-            .stat-row{grid-template-columns:repeat(2,1fr)}
-            .compare-table{font-size:0.8rem}
-            .compare-table th,.compare-table td{padding:8px}
-        }
+        /* Article 164 — Blue theme */
+        .hero-section{background:linear-gradient(135deg,#1a5276 0%,#154360 50%,#0e2f44 100%)}
+        h2{color:#1a5276} h3{color:#1a5276}
+        h2::after{background:linear-gradient(90deg,#2e86c1,#5dade2)}
+        .toc{background:#eaf2f8} .toc::before{background:#2e86c1}
+        .toc a{color:#2e86c1}
+        .feature-card i{color:#2e86c1}
+        .feature-card h4{color:#1a5276}
+        .feature-card::before{background:linear-gradient(90deg,#2e86c1,#5dade2)}
+        .stat-card{background:linear-gradient(135deg,#2e86c1,#1a5276)}
+        .compare-table th{background:linear-gradient(135deg,#2e86c1,#1a5276)}
+        .cta-section{background:linear-gradient(135deg,#27ae60 0%,#1e8449 100%)}
+        .cta-btn{color:#27ae60} .cta-btn:hover{color:#1e8449}
+        .breadcrumb-nav a{color:#2e86c1}
+        .faq-item h3{color:#1a5276}
+        .review-mini .author{color:#1a5276}
+        .related-posts a{color:#2e86c1}
+        .related-posts h3{color:#1a5276}
     </style>
 </head>
 <body>
+<?php render_article_navbar(); ?>
 
-<!-- Breadcrumb -->
-<nav class="breadcrumb-nav py-2" aria-label="Breadcrumb">
-    <div class="container">
-        <a href="/">Trang chủ</a>
-        <span> › </span>
-        <a href="/articles/">Bài viết</a>
-        <span> › </span>
-        <span>UnlockTool.us Có Uy Tín Không?</span>
-    </div>
-</nav>
+<nav class="breadcrumb-nav py-2" aria-label="Breadcrumb"><div class="container">
+    <a href="/">Trang chủ</a><span> › </span><a href="/articles/">Bài viết</a><span> › </span><span>UnlockTool.us Có Uy Tín Không?</span>
+</div></nav>
 
 <!-- Hero -->
 <section class="hero-section">
@@ -584,28 +509,19 @@ $canonical_url = "https://www.unlocktool.us/articles/164-unlocktool-us-co-uy-tin
     </div>
 
     <!-- Related -->
-    <div style="margin:30px 0;padding:25px;background:#f8f9fa;border-radius:16px;border:1px solid #e8ecf1">
-        <h3 style="color:#1a5276;font-weight:700;margin-bottom:15px"><i class="fas fa-link"></i> Bài Viết Liên Quan</h3>
-        <ul style="list-style:none;padding:0;margin:0">
-            <li style="padding:8px 0;border-bottom:1px solid #e8ecf1"><a href="/" style="color:#2e86c1;text-decoration:none;font-weight:600">🏠 Trang Chủ - Thuê UnlockTool Ngay</a></li>
-            <li style="padding:8px 0;border-bottom:1px solid #e8ecf1"><a href="/articles/163-danh-gia-khach-hang.php" style="color:#2e86c1;text-decoration:none;font-weight:600">⭐ Đánh Giá Khách Hàng UnlockTool.us</a></li>
-            <li style="padding:8px 0;border-bottom:1px solid #e8ecf1"><a href="/articles/80-gioi-thieu-website.php" style="color:#2e86c1;text-decoration:none;font-weight:600">📖 Giới Thiệu Về UnlockTool.us</a></li>
-            <li style="padding:8px 0;border-bottom:1px solid #e8ecf1"><a href="/articles/1-unlocktool-la-gi.php" style="color:#2e86c1;text-decoration:none;font-weight:600">📚 UnlockTool Là Gì?</a></li>
-            <li style="padding:8px 0"><a href="/articles/130-cau-hoi-thuong-gap-faq.php" style="color:#2e86c1;text-decoration:none;font-weight:600">❓ Câu Hỏi Thường Gặp</a></li>
+    <div class="related-posts">
+        <h3><i class="fas fa-link"></i> Bài Viết Liên Quan</h3>
+        <ul>
+            <li><a href="/">🏠 Trang Chủ — Thuê UnlockTool Ngay</a></li>
+            <li><a href="/articles/163-danh-gia-khach-hang.php">⭐ Đánh Giá Khách Hàng UnlockTool.us</a></li>
+            <li><a href="/articles/165-thue-vietmap-live-pro-gia-re.php">🗺️ Thuê Vietmap Live Pro Giá Rẻ 2026</a></li>
+            <li><a href="/articles/166-top-cong-cu-gsm-2026.php">🛠️ Top 8 Công Cụ GSM 2026</a></li>
+            <li><a href="/articles/130-cau-hoi-thuong-gap-faq.php">❓ Câu Hỏi Thường Gặp</a></li>
         </ul>
     </div>
 
-</div>
-</div>
+</div></div>
 
-<!-- Footer -->
-<footer style="background:#1a1a2e;color:#fff;padding:30px 0;text-align:center;margin-top:50px">
-    <div class="container">
-        <p style="margin:0;opacity:0.7;font-size:0.9rem">© 2024-2026 UnlockTool.us - Dịch vụ cho thuê UnlockTool uy tín #1 Việt Nam</p>
-        <p style="margin:10px 0 0;opacity:0.5;font-size:0.8rem">Liên hệ: Zalo 0777333763 | Email: support@unlocktool.us</p>
-    </div>
-</footer>
-
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<?php render_article_footer(); ?>
 </body>
 </html>
