@@ -28,21 +28,6 @@ $canonical_url = "https://www.unlocktool.us/articles/22-mua-unlocktool.php";
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "UnlockTool License",
-        "description": "License phần mềm UnlockTool chính hãng",
-        "brand": {"@type": "Brand", "name": "UnlockTool"},
-        "offers": [
-            {"@type": "Offer", "name": "Trial", "price": "5", "priceCurrency": "USD"},
-            {"@type": "Offer", "name": "Monthly", "price": "40", "priceCurrency": "USD"},
-            {"@type": "Offer", "name": "Yearly", "price": "150", "priceCurrency": "USD"}
-        ]
-    }
-    </script>
-    
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
             {"@type": "Question", "name": "Mua UnlockTool ở đâu?", "acceptedAnswer": {"@type": "Answer", "text": "Mua license UnlockTool chính hãng tại website của nhà phát triển hoặc các reseller ủy quyền. Thanh toán qua PayPal hoặc thẻ quốc tế."}},
@@ -113,36 +98,6 @@ $canonical_url = "https://www.unlocktool.us/articles/22-mua-unlocktool.php";
         "speakable": {
             "@type": "SpeakableSpecification",
             "cssSelector": ["h1", ".hero-section p.lead", ".toc", ".info-box", ".tip-box"]
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Dịch vụ mở khóa điện thoại",
-        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.5",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "140"
         }
     }
     </script>

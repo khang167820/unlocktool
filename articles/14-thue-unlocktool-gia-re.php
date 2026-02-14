@@ -29,30 +29,6 @@ $canonical_url = "https://www.unlocktool.us/articles/14-thue-unlocktool-gia-re.p
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Thuê UnlockTool",
-        "description": "Dịch vụ cho thuê tài khoản UnlockTool giá rẻ, hệ thống tự động 24/7",
-        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
-        "offers": {
-            "@type": "AggregateOffer",
-            "lowPrice": "8000",
-            "highPrice": "180000",
-            "priceCurrency": "VND",
-            "availability": "https://schema.org/InStock",
-            "offerCount": "6"
-        },
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.9",
-            "reviewCount": "6500",
-            "bestRating": "5"
-        }
-    }
-    </script>
-    
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
             {"@type": "Question", "name": "Thuê UnlockTool ở đâu uy tín?", "acceptedAnswer": {"@type": "Answer", "text": "Thuê UnlockTool uy tín tại UnlockTool.us - hệ thống tự động 24/7, giá từ 8.000đ, nhận tài khoản ngay sau thanh toán."}},
@@ -162,20 +138,6 @@ $canonical_url = "https://www.unlocktool.us/articles/14-thue-unlocktool-gia-re.p
         "speakable": {
             "@type": "SpeakableSpecification",
             "cssSelector": ["h1", ".hero-section p.lead", ".toc", ".info-box", ".tip-box"]
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
         }
     }
     </script>

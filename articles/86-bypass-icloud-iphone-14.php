@@ -192,36 +192,6 @@ $og_image = "https://www.unlocktool.us/images/icloud-iphone-14-bypass.jpg";
         }
     }
     </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Dịch vụ mở khóa điện thoại",
-        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.8",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "140"
-        }
-    }
-    </script>
 </head>
 <body>
 

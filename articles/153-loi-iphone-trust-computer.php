@@ -122,36 +122,6 @@ $canonical_url = "https://www.unlocktool.us/articles/153-loi-iphone-trust-comput
         }
     }
     </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Dịch vụ mở khóa điện thoại",
-        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.7",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "195"
-        }
-    }
-    </script>
 </head>
 <body>
 

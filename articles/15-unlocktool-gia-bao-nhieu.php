@@ -29,24 +29,6 @@ $canonical_url = "https://www.unlocktool.us/articles/15-unlocktool-gia-bao-nhieu
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "UnlockTool License",
-        "description": "Phần mềm mở khóa điện thoại chuyên nghiệp",
-        "brand": {"@type": "Brand", "name": "UnlockTool"},
-        "offers": [
-            {"@type": "Offer", "name": "Trial 3 Days", "price": "5", "priceCurrency": "USD"},
-            {"@type": "Offer", "name": "Weekly", "price": "15", "priceCurrency": "USD"},
-            {"@type": "Offer", "name": "Monthly", "price": "40", "priceCurrency": "USD"},
-            {"@type": "Offer", "name": "Yearly", "price": "150", "priceCurrency": "USD"},
-            {"@type": "Offer", "name": "Thuê 6 tiếng - FLASH SALE", "price": "8000", "priceCurrency": "VND"}
-        ],
-        "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "52800"}
-    }
-    </script>
-    
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
             {"@type": "Question", "name": "UnlockTool giá bao nhiêu tiền?", "acceptedAnswer": {"@type": "Answer", "text": "License UnlockTool có giá từ $5 (Trial 3 ngày) đến $300 (Lifetime). Gói phổ biến nhất là Monthly $40 (~1 triệu VNĐ). Hoặc thuê theo giờ từ 8.000đ tại UnlockTool.us."}},
@@ -123,20 +105,6 @@ $canonical_url = "https://www.unlocktool.us/articles/15-unlocktool-gia-bao-nhieu
         "speakable": {
             "@type": "SpeakableSpecification",
             "cssSelector": ["h1", ".hero-section p.lead", ".toc", ".info-box", ".tip-box"]
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
         }
     }
     </script>

@@ -66,22 +66,6 @@ $canonical_url = "https://www.unlocktool.us/articles/168-thue-vietmap-live-gia-r
     ]}
     </script>
 
-    <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"Product",
-        "name":"Thuê Vietmap Live Pro tại Thuetaikhoan.net",
-        "description":"Dịch vụ cho thuê tài khoản Vietmap Live Pro giá rẻ nhất Việt Nam, từ 8.000đ/6h. Hệ thống tự động 24/7, nhận tài khoản PRO ngay sau 30 giây.",
-        "image":"https://www.unlocktool.us/images/vietmap/thuetaikhoan-trangchu-vietmap.png",
-        "brand":{"@type":"Brand","name":"Thuetaikhoan.net"},
-        "offers":{"@type":"AggregateOffer","lowPrice":"8000","highPrice":"199000","priceCurrency":"VND","offerCount":"8","availability":"https://schema.org/InStock"},
-        "aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","bestRating":"5","worstRating":"1","ratingCount":"387","reviewCount":"387"},
-        "review":[
-            {"@type":"Review","author":{"@type":"Person","name":"Minh Tuấn"},"datePublished":"2026-01-20","reviewBody":"Đi du lịch Đà Lạt 3 ngày, thuê Vietmap Live ở Thuetaikhoan.net chỉ 40K. Quá rẻ so với việc mua bản quyền 500K! Cảnh báo tốc độ đèo rất chuẩn, không bị phạt camera nào.","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"}},
-            {"@type":"Review","author":{"@type":"Person","name":"Văn Hùng"},"datePublished":"2026-01-15","reviewBody":"Chạy Grab cần Vietmap cảnh báo phạt nguội. Thuê 7 ngày chỉ 85K, mỗi ngày ~12K thôi. Hệ thống tự động, quét QR là nhận tài khoản liền, không phải chờ ai cả.","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"}},
-            {"@type":"Review","author":{"@type":"Person","name":"Thuỳ Linh"},"datePublished":"2026-02-01","reviewBody":"Mình thuê gói 6h chỉ 8K để test xem Vietmap có tốt không. Kết quả quá ưng — cảnh báo camera chuẩn, dẫn đường 3D đẹp. Giờ mình thuê hàng tuần luôn!","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"}}
-        ]
-    }
-    </script>
-
     <?php require_once __DIR__ . '/../includes/article-template.php'; render_article_head_assets(); ?>
     <style>
         /* Article 168 — Green Vietmap theme */

@@ -118,36 +118,6 @@ $page_keywords = "lỗi unlocktool, fix unlocktool, unlocktool không nhận má
         }
     }
     </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "UnlockTool.us",
-        "url": "https://www.unlocktool.us",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.unlocktool.us/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Dịch vụ mở khóa điện thoại",
-        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.6",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "154"
-        }
-    }
-    </script>
 </head>
 <body>
 
