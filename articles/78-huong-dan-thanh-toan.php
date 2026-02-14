@@ -1,6 +1,6 @@
-<?php
-$page_title = "Hu?ng D?n Thanh To�n ?? N?p Ti?n - Thu� Tool | UnlockTool.us";
-$page_description = "?? Hu?ng d?n thanh to�n n?p ti?n thu� UnlockTool. Chuy?n kho?n, Momo, ZaloPay, th? c�o. Nhanh ch�ng, an to�n.";
+﻿<?php
+$page_title = "Hướng Dẫn Thanh Toán 💳 Nạp Tiền - Thuê Tool | UnlockTool.us";
+$page_description = "💳 Hướng dẫn thanh toán nạp tiền thuê UnlockTool. Chuyển khoản, Momo, ZaloPay, thẻ cào. Nhanh chóng, an toàn.";
 $page_keywords = "huong dan thanh toan, nap tien unlocktool, chuyen khoan thue tool, thanh toan momo zalopay";
 $canonical_url = "https://www.unlocktool.us/articles/78-huong-dan-thanh-toan.php";
 ?>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/78-huong-dan-thanh-toan.php
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/78-huong-dan-thanh-toan.php
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hu?ng d?n k? thu?t">
+    <meta property="article:section" content="Hướng dẫn kỹ thuật">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="M? kh�a di?n tho?i">
+    <meta property="article:tag" content="Mở khóa điện thoại">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -92,22 +92,52 @@ $canonical_url = "https://www.unlocktool.us/articles/78-huong-dan-thanh-toan.php
         }
     }
     </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "UnlockTool.us",
+        "url": "https://www.unlocktool.us",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.unlocktool.us/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Dịch vụ mở khóa điện thoại",
+        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.7",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "182"
+        }
+    }
+    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
 </nav>
 <section class="hero-section">
     <div class="container text-center">
-        <h1><i class="fas fa-credit-card me-2"></i>Hu?ng D?n Thanh To�n</h1>
-        <p class="lead">N?p ti?n - Thu� Tool - �?t d?ch v?</p>
+        <h1><i class="fas fa-credit-card me-2"></i>Hướng Dẫn Thanh Toán</h1>
+        <p class="lead">Nạp tiền - Thuê Tool - Đặt dịch vụ</p>
     </div>
 </section>
 
@@ -116,94 +146,94 @@ $canonical_url = "https://www.unlocktool.us/articles/78-huong-dan-thanh-toan.php
         
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #0066cc;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>T�c gi?:</strong> UnlockTool.us Team</span>
-            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>�?c:</strong> ~5 ph�t</span>
-            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> <span id="viewCount">1,234</span></span>
+            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>Tác giả:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>Cập nhật:</strong> 06/02/2026</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Đọc:</strong> ~5 phút</span>
+            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lượt xem:</strong> <span id="viewCount">1,234</span></span>
         </div>
-        <h2><i class="fas fa-wallet me-2"></i>Phuong Th?c Thanh To�n</h2>
+        <h2><i class="fas fa-wallet me-2"></i>Phương Thức Thanh Toán</h2>
         
         <div class="row">
             <div class="col-md-6">
                 <div class="payment-card">
                     <i class="fas fa-university text-primary"></i>
-                    <h5>Chuy?n Kho?n Ng�n H�ng</h5>
+                    <h5>Chuyển Khoản Ngân Hàng</h5>
                     <p>Vietcombank, Techcombank, MB Bank...</p>
-                    <p class="text-success fw-bold">Uu ti�n - Nhanh nh?t</p>
+                    <p class="text-success fw-bold">Ưu tiên - Nhanh nhất</p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="payment-card">
                     <i class="fas fa-mobile-alt text-danger"></i>
-                    <h5>V� �i?n T?</h5>
+                    <h5>Ví Điện Tử</h5>
                     <p>Momo, ZaloPay, VNPay</p>
-                    <p class="text-success fw-bold">Ti?n l?i</p>
+                    <p class="text-success fw-bold">Tiện lợi</p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="payment-card">
                     <i class="fas fa-sim-card text-warning"></i>
-                    <h5>Th? C�o �i?n Tho?i</h5>
+                    <h5>Thẻ Cào Điện Thoại</h5>
                     <p>Viettel, Mobifone, Vinaphone</p>
-                    <p class="text-warning">Chi?t kh?u 20%</p>
+                    <p class="text-warning">Chiết khấu 20%</p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="payment-card">
                     <i class="fab fa-paypal text-info"></i>
                     <h5>PayPal / Crypto</h5>
-                    <p>Cho kh�ch qu?c t?</p>
-                    <p class="text-muted">Li�n h? tru?c</p>
+                    <p>Cho khách quốc tế</p>
+                    <p class="text-muted">Liên hệ trước</p>
                 </div>
             </div>
         </div>
         
-        <h2><i class="fas fa-list-ol me-2"></i>C�c Bu?c Thanh To�n</h2>
+        <h2><i class="fas fa-list-ol me-2"></i>Các Bước Thanh Toán</h2>
         
         <div class="step-card">
             <span class="step-number">1</span>
-            <h5>Ch?n d?ch v?</h5>
-            <p class="mb-0">Truy c?p <a href="https://www.unlocktool.us/">UnlockTool.us</a> ? Ch?n tool v� th?i gian thu�</p>
+            <h5>Chọn dịch vụ</h5>
+            <p class="mb-0">Truy cập <a href="https://www.unlocktool.us/">UnlockTool.us</a> → Chọn tool và thời gian thuê</p>
         </div>
         
         <div class="step-card">
             <span class="step-number">2</span>
-            <h5>X�c nh?n don h�ng</h5>
-            <p class="mb-0">Ki?m tra th�ng tin v� x�c nh?n don h�ng</p>
+            <h5>Xác nhận đơn hàng</h5>
+            <p class="mb-0">Kiểm tra thông tin và xác nhận đơn hàng</p>
         </div>
         
         <div class="step-card">
             <span class="step-number">3</span>
-            <h5>Thanh to�n</h5>
-            <p class="mb-0">Chuy?n kho?n ho?c thanh to�n qua v� di?n t?</p>
+            <h5>Thanh toán</h5>
+            <p class="mb-0">Chuyển khoản hoặc thanh toán qua ví điện tử</p>
         </div>
         
         <div class="step-card">
             <span class="step-number">4</span>
-            <h5>Nh?n t�i kho?n</h5>
-            <p class="mb-0">Sau khi thanh to�n, t�i kho?n du?c k�ch ho?t t? d?ng ho?c g?i qua Zalo/Email</p>
+            <h5>Nhận tài khoản</h5>
+            <p class="mb-0">Sau khi thanh toán, tài khoản được kích hoạt tự động hoặc gửi qua Zalo/Email</p>
         </div>
         
         <div class="info-box">
-            <h5><i class="fas fa-info me-2"></i>Th�ng tin chuy?n kho?n:</h5>
-            <p class="mb-0">N?i dung chuy?n kho?n: <strong>[M� don h�ng]</strong> ho?c <strong>[Email/S�T dang k�]</strong></p>
-            <p class="mb-0 mt-2">Li�n h? <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a> d? nh?n STK ng�n h�ng.</p>
+            <h5><i class="fas fa-info me-2"></i>Thông tin chuyển khoản:</h5>
+            <p class="mb-0">Nội dung chuyển khoản: <strong>[Mã đơn hàng]</strong> hoặc <strong>[Email/SĐT đăng ký]</strong></p>
+            <p class="mb-0 mt-2">Liên hệ <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a> để nhận STK ngân hàng.</p>
         </div>
         
         <div class="warning-box">
-            <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu �:</h5>
+            <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý:</h5>
             <ul class="mb-0">
-                <li>Gi? bi�n lai/?nh ch?p giao d?ch d? d?i chi?u khi c?n</li>
-                <li>Th? c�o chi?t kh?u 20% (n?p 100K = 80K)</li>
-                <li>Thanh to�n xong li�n h? d? k�ch ho?t nhanh hon</li>
+                <li>Giữ biên lai/ảnh chụp giao dịch để đối chiếu khi cần</li>
+                <li>Thẻ cào chiết khấu 20% (nạp 100K = 80K)</li>
+                <li>Thanh toán xong liên hệ để kích hoạt nhanh hơn</li>
             </ul>
         </div>
         
         <div class="price-box">
-            <h3><i class="fas fa-bolt me-2"></i>Thu� UnlockTool Ngay</h3>
-            <p class="display-5 fw-bold">8.000d / 6H</p>
-            <a href="https://www.unlocktool.us/" class="cta-btn me-2"><i class="fas fa-tools me-2"></i>Thu� Tool</a>
-            <a href="https://thuetaikhoan.net" class="cta-btn"><i class="fas fa-headset me-2"></i>Li�n H?</a>
+            <h3><i class="fas fa-bolt me-2"></i>Thuê UnlockTool Ngay</h3>
+            <p class="display-5 fw-bold">8.000đ / 6H</p>
+            <a href="https://www.unlocktool.us/" class="cta-btn me-2"><i class="fas fa-tools me-2"></i>Thuê Tool</a>
+            <a href="https://thuetaikhoan.net" class="cta-btn"><i class="fas fa-headset me-2"></i>Liên Hệ</a>
         </div>
         
     </div>
@@ -216,7 +246,7 @@ $canonical_url = "https://www.unlocktool.us/articles/78-huong-dan-thanh-toan.php
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -230,13 +260,13 @@ $canonical_url = "https://www.unlocktool.us/articles/78-huong-dan-thanh-toan.php
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -244,15 +274,15 @@ $canonical_url = "https://www.unlocktool.us/articles/78-huong-dan-thanh-toan.php
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -265,7 +295,7 @@ $canonical_url = "https://www.unlocktool.us/articles/78-huong-dan-thanh-toan.php
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         

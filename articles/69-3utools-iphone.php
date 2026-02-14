@@ -1,6 +1,6 @@
-<?php
-$page_title = "3uTools ?? Qu?n L� iPhone/iPad Mi?n Ph� - Hu?ng D?n 2026";
-$page_description = "?? 3uTools - C�ng c? qu?n l� iOS mi?n ph�. Flash firmware, backup, jailbreak, check iCloud. T?i t?i 3u.com. Hu?ng d?n chi ti?t.";
+﻿<?php
+$page_title = "3uTools 📱 Quản Lý iPhone/iPad Miễn Phí - Hướng Dẫn 2026";
+$page_description = "📱 3uTools - Công cụ quản lý iOS miễn phí. Flash firmware, backup, jailbreak, check iCloud. Tải tại 3u.com. Hướng dẫn chi tiết.";
 $page_keywords = "3utools, 3utools download, 3utools iphone, flash iphone, jailbreak 3utools, quan ly iphone";
 $canonical_url = "https://www.unlocktool.us/articles/69-3utools-iphone.php";
 ?>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/69-3utools-iphone.php";
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/69-3utools-iphone.php";
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hu?ng d?n k? thu?t">
+    <meta property="article:section" content="Hướng dẫn kỹ thuật">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="M? kh�a di?n tho?i">
+    <meta property="article:tag" content="Mở khóa điện thoại">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -50,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/69-3utools-iphone.php";
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -60,8 +60,8 @@ $canonical_url = "https://www.unlocktool.us/articles/69-3utools-iphone.php";
     {
         "@context": "https://schema.org",
         "@type": "TechArticle",
-        "headline": "3uTools - Qu?n L� iPhone/iPad Mi?n Ph� - 2026",
-        "description": "Hu?ng d?n s? d?ng 3uTools d? qu?n l� iPhone v� iPad",
+        "headline": "3uTools - Quản Lý iPhone/iPad Miễn Phí - 2026",
+        "description": "Hướng dẫn sử dụng 3uTools để quản lý iPhone và iPad",
         "author": {"@type": "Organization", "name": "UnlockTool.us"},
         "publisher": {"@type": "Organization", "name": "UnlockTool.us"},
         "datePublished": "2024-01-01",
@@ -73,10 +73,10 @@ $canonical_url = "https://www.unlocktool.us/articles/69-3utools-iphone.php";
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "3uTools l� g�?", "acceptedAnswer": {"@type": "Answer", "text": "3uTools l� ph?n m?m Windows mi?n ph� d? qu?n l� iPhone/iPad. H? tr? flash firmware, backup, jailbreak, check iCloud status."}},
-            {"@type": "Question", "name": "3uTools c� mi?n ph� kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "C�, 3uTools ho�n to�n mi?n ph�. T?i t?i 3u.com."}},
-            {"@type": "Question", "name": "3uTools c� bypass iCloud kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "Kh�ng. 3uTools kh�ng bypass iCloud. �? bypass iCloud c?n d�ng UnlockTool ho?c c�c tool chuy�n d?ng."}},
-            {"@type": "Question", "name": "3uTools h? tr? jailbreak iOS n�o?", "acceptedAnswer": {"@type": "Answer", "text": "3uTools t�ch h?p jailbreak tools cho iOS 5-17.1. iOS 17.2+ chua du?c h? tr?."}}
+            {"@type": "Question", "name": "3uTools là gì?", "acceptedAnswer": {"@type": "Answer", "text": "3uTools là phần mềm Windows miễn phí để quản lý iPhone/iPad. Hỗ trợ flash firmware, backup, jailbreak, check iCloud status."}},
+            {"@type": "Question", "name": "3uTools có miễn phí không?", "acceptedAnswer": {"@type": "Answer", "text": "Có, 3uTools hoàn toàn miễn phí. Tải tại 3u.com."}},
+            {"@type": "Question", "name": "3uTools có bypass iCloud không?", "acceptedAnswer": {"@type": "Answer", "text": "Không. 3uTools không bypass iCloud. Để bypass iCloud cần dùng UnlockTool hoặc các tool chuyên dụng."}},
+            {"@type": "Question", "name": "3uTools hỗ trợ jailbreak iOS nào?", "acceptedAnswer": {"@type": "Answer", "text": "3uTools tích hợp jailbreak tools cho iOS 5-17.1. iOS 17.2+ chưa được hỗ trợ."}}
         ]
     }
     </script>
@@ -119,24 +119,54 @@ $canonical_url = "https://www.unlocktool.us/articles/69-3utools-iphone.php";
         }
     }
     </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "UnlockTool.us",
+        "url": "https://www.unlocktool.us",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.unlocktool.us/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Dịch vụ mở khóa điện thoại",
+        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.7",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "84"
+        }
+    }
+    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
 </nav>
 <section class="hero-section">
     <div class="container text-center">
-        <h1><i class="fab fa-apple me-2"></i>3uTools - Qu?n L� iOS 2026</h1>
-        <p class="lead">Mi?n ph� - Flash Firmware - Backup - Jailbreak - Windows & macOS</p>
+        <h1><i class="fab fa-apple me-2"></i>3uTools - Quản Lý iOS 2026</h1>
+        <p class="lead">Miễn phí - Flash Firmware - Backup - Jailbreak - Windows & macOS</p>
         <div class="mt-4">
-            <a href="https://www.3u.com/" class="cta-btn"><i class="fas fa-download me-2"></i>T?i 3uTools</a>
+            <a href="https://www.3u.com/" class="cta-btn"><i class="fas fa-download me-2"></i>Tải 3uTools</a>
         </div>
     </div>
 </section>
@@ -146,48 +176,48 @@ $canonical_url = "https://www.unlocktool.us/articles/69-3utools-iphone.php";
         
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #0066cc;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>T�c gi?:</strong> UnlockTool.us Team</span>
-            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>�?c:</strong> ~5 ph�t</span>
-            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> <span id="viewCount">1,234</span></span>
+            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>Tác giả:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>Cập nhật:</strong> 06/02/2026</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Đọc:</strong> ~5 phút</span>
+            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lượt xem:</strong> <span id="viewCount">1,234</span></span>
         </div>
         <div class="toc">
-            <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
+            <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
             <ul>
-                <li><a href="#3utools-la-gi">1. 3uTools l� g�?</a></li>
-                <li><a href="#tinh-nang">2. T�nh nang ch�nh</a></li>
-                <li><a href="#download">3. T?i v� c�i d?t</a></li>
+                <li><a href="#3utools-la-gi">1. 3uTools là gì?</a></li>
+                <li><a href="#tinh-nang">2. Tính năng chính</a></li>
+                <li><a href="#download">3. Tải và cài đặt</a></li>
                 <li><a href="#flash">4. Flash firmware iOS</a></li>
-                <li><a href="#jailbreak">5. Jailbreak v?i 3uTools</a></li>
-                <li><a href="#luu-y">6. Luu � quan tr?ng</a></li>
-                <li><a href="#faq">7. FAQ - C�u h?i thu?ng g?p</a></li>
+                <li><a href="#jailbreak">5. Jailbreak với 3uTools</a></li>
+                <li><a href="#luu-y">6. Lưu ý quan trọng</a></li>
+                <li><a href="#faq">7. FAQ - Câu hỏi thường gặp</a></li>
             </ul>
         </div>
         
         <div class="download-box">
             <h3><i class="fas fa-download me-2"></i>3uTools v3.25</h3>
-            <p>Phi�n b?n m?i nh?t - Windows & macOS</p>
-            <a href="https://www.3u.com/" class="btn btn-light btn-lg"><i class="fas fa-download me-2"></i>T?i T?i 3u.com</a>
+            <p>Phiên bản mới nhất - Windows & macOS</p>
+            <a href="https://www.3u.com/" class="btn btn-light btn-lg"><i class="fas fa-download me-2"></i>Tải Tại 3u.com</a>
         </div>
         
-        <h2 id="3utools-la-gi"><i class="fas fa-info-circle me-2"></i>1. 3uTools l� g�?</h2>
+        <h2 id="3utools-la-gi"><i class="fas fa-info-circle me-2"></i>1. 3uTools là gì?</h2>
         
-        <p><strong>3uTools</strong> l� ph?n m?m qu?n l� iPhone/iPad mi?n ph� cho Windows v� macOS, du?c ph�t tri?n b?i m?t c�ng ty Trung Qu?c. 3uTools du?c xem l� iTunes alternative t?t nh?t v?i nhi?u t�nh nang m� iTunes kh�ng c�.</p>
+        <p><strong>3uTools</strong> là phần mềm quản lý iPhone/iPad miễn phí cho Windows và macOS, được phát triển bởi một công ty Trung Quốc. 3uTools được xem là iTunes alternative tốt nhất với nhiều tính năng mà iTunes không có.</p>
         
-        <h3>1.1. �i?m m?nh c?a 3uTools</h3>
+        <h3>1.1. Điểm mạnh của 3uTools</h3>
         <ul>
-            <li><strong>Mi?n ph� ho�n to�n:</strong> Kh�ng c?n tr? ph� hay dang k�</li>
-            <li><strong>�a nang:</strong> Qu?n l�, flash, backup, jailbreak trong 1 tool</li>
-            <li><strong>Th�n thi?n:</strong> Giao di?n d? s? d?ng hon iTunes</li>
-            <li><strong>C?p nh?t thu?ng xuy�n:</strong> Version m?i nh?t v3.25 (5/2025)</li>
-            <li><strong>App Store ri�ng:</strong> T?i app kh�ng c?n Apple ID</li>
+            <li><strong>Miễn phí hoàn toàn:</strong> Không cần trả phí hay đăng ký</li>
+            <li><strong>Đa năng:</strong> Quản lý, flash, backup, jailbreak trong 1 tool</li>
+            <li><strong>Thân thiện:</strong> Giao diện dễ sử dụng hơn iTunes</li>
+            <li><strong>Cập nhật thường xuyên:</strong> Version mới nhất v3.25 (5/2025)</li>
+            <li><strong>App Store riêng:</strong> Tải app không cần Apple ID</li>
         </ul>
         
-        <h2 id="tinh-nang"><i class="fas fa-cogs me-2"></i>2. T�nh nang ch�nh</h2>
+        <h2 id="tinh-nang"><i class="fas fa-cogs me-2"></i>2. Tính năng chính</h2>
         
         <div class="feature-card">
             <h5><i class="fas fa-info me-2 text-info"></i>Device Information</h5>
-            <p>Xem chi ti?t th�ng tin iPhone/iPad:</p>
+            <p>Xem chi tiết thông tin iPhone/iPad:</p>
             <ul>
                 <li>IMEI, Serial Number, UDID</li>
                 <li>Battery health, cycle count</li>
@@ -199,97 +229,97 @@ $canonical_url = "https://www.unlocktool.us/articles/69-3utools-iphone.php";
         
         <div class="feature-card">
             <h5><i class="fas fa-download me-2 text-success"></i>Flash & Restore</h5>
-            <p>Flash firmware iOS v?i nhi?u ch? d?:</p>
+            <p>Flash firmware iOS với nhiều chế độ:</p>
             <ul>
                 <li><strong>Easy Flash:</strong> One-click restore iOS</li>
-                <li><strong>Pro Flash:</strong> T�y ch?n n�ng cao</li>
-                <li>H? tr? Normal, Recovery, DFU Mode</li>
-                <li>SHSH backup v� s? d?ng</li>
+                <li><strong>Pro Flash:</strong> Tùy chọn nâng cao</li>
+                <li>Hỗ trợ Normal, Recovery, DFU Mode</li>
+                <li>SHSH backup và sử dụng</li>
                 <li>Baseband upgrade/downgrade</li>
             </ul>
         </div>
         
         <div class="feature-card">
             <h5><i class="fas fa-unlock me-2 text-warning"></i>Jailbreak</h5>
-            <p>T�ch h?p jailbreak tools:</p>
+            <p>Tích hợp jailbreak tools:</p>
             <ul>
                 <li>Checkra1n (iOS 12-14)</li>
                 <li>Palera1n (iOS 15-17.1)</li>
                 <li>Unc0ver, Odyssey</li>
-                <li>Hu?ng d?n step-by-step</li>
+                <li>Hướng dẫn step-by-step</li>
             </ul>
         </div>
         
         <div class="feature-card">
             <h5><i class="fas fa-save me-2 text-primary"></i>Backup & Restore</h5>
             <ul>
-                <li>Full backup to�n b? iPhone</li>
-                <li>Selective backup (ch?n data)</li>
-                <li>Restore t? backup</li>
-                <li>Chuy?n d? li?u gi?a c�c thi?t b?</li>
+                <li>Full backup toàn bộ iPhone</li>
+                <li>Selective backup (chọn data)</li>
+                <li>Restore từ backup</li>
+                <li>Chuyển dữ liệu giữa các thiết bị</li>
             </ul>
         </div>
         
         <div class="feature-card">
             <h5><i class="fas fa-folder me-2 text-secondary"></i>File Manager</h5>
             <ul>
-                <li>Qu?n l� photos, videos, music</li>
+                <li>Quản lý photos, videos, music</li>
                 <li>Ringtone maker</li>
                 <li>Video/audio converter</li>
                 <li>HEIC to JPG converter</li>
             </ul>
         </div>
         
-        <h2 id="download"><i class="fas fa-download me-2"></i>3. T?i v� c�i d?t</h2>
+        <h2 id="download"><i class="fas fa-download me-2"></i>3. Tải và cài đặt</h2>
         
-        <h3>3.1. Y�u c?u h? th?ng</h3>
+        <h3>3.1. Yêu cầu hệ thống</h3>
         <table class="comparison-table">
             <thead>
-                <tr><th>Y�u c?u</th><th>Windows</th><th>macOS</th></tr>
+                <tr><th>Yêu cầu</th><th>Windows</th><th>macOS</th></tr>
             </thead>
             <tbody>
                 <tr><td><strong>OS</strong></td><td>Windows 7/8/10/11 (64-bit)</td><td>macOS 10.13+</td></tr>
                 <tr><td><strong>RAM</strong></td><td>2GB+</td><td>2GB+</td></tr>
-                <tr><td><strong>? c?ng</strong></td><td>1GB tr?ng</td><td>1GB tr?ng</td></tr>
-                <tr><td><strong>iTunes</strong></td><td>Khuy?n ngh? c�i</td><td>Kh�ng c?n</td></tr>
+                <tr><td><strong>Ổ cứng</strong></td><td>1GB trống</td><td>1GB trống</td></tr>
+                <tr><td><strong>iTunes</strong></td><td>Khuyến nghị cài</td><td>Không cần</td></tr>
             </tbody>
         </table>
         
-        <h3>3.2. C�c bu?c c�i d?t</h3>
+        <h3>3.2. Các bước cài đặt</h3>
         <ol>
-            <li>Truy c?p <strong>www.3u.com</strong></li>
-            <li>Click <strong>Download</strong> (Windows ho?c macOS)</li>
-            <li>C�i d?t iTunes tru?c (Windows - khuy?n ngh?)</li>
-            <li>Ch?y file installer 3uTools</li>
-            <li>K?t n?i iPhone ? Click "Trust" tr�n m�n h�nh</li>
+            <li>Truy cập <strong>www.3u.com</strong></li>
+            <li>Click <strong>Download</strong> (Windows hoặc macOS)</li>
+            <li>Cài đặt iTunes trước (Windows - khuyến nghị)</li>
+            <li>Chạy file installer 3uTools</li>
+            <li>Kết nối iPhone → Click "Trust" trên màn hình</li>
         </ol>
         
         <h2 id="flash"><i class="fas fa-bolt me-2"></i>4. Flash firmware iOS</h2>
         
-        <h3>4.1. Easy Flash (Khuy�n d�ng)</h3>
+        <h3>4.1. Easy Flash (Khuyên dùng)</h3>
         <ol>
-            <li>K?t n?i iPhone v?i PC</li>
-            <li>V�o <strong>Flash & JB ? Easy Flash</strong></li>
-            <li>Ch?n phi�n b?n iOS mu?n c�i</li>
-            <li>3uTools t? d?ng t?i firmware v� flash</li>
-            <li>�?i ho�n t?t (~15-30 ph�t)</li>
+            <li>Kết nối iPhone với PC</li>
+            <li>Vào <strong>Flash & JB → Easy Flash</strong></li>
+            <li>Chọn phiên bản iOS muốn cài</li>
+            <li>3uTools tự động tải firmware và flash</li>
+            <li>Đợi hoàn tất (~15-30 phút)</li>
         </ol>
         
-        <h3>4.2. Pro Flash (N�ng cao)</h3>
+        <h3>4.2. Pro Flash (Nâng cao)</h3>
         <ul>
-            <li>Ch?n firmware th? c�ng (.ipsw)</li>
-            <li>T�y ch?n: Retain user data, Update baseband</li>
-            <li>H? tr? DFU Mode v� Recovery Mode</li>
+            <li>Chọn firmware thủ công (.ipsw)</li>
+            <li>Tùy chọn: Retain user data, Update baseband</li>
+            <li>Hỗ trợ DFU Mode và Recovery Mode</li>
         </ul>
         
         <div class="tip-box">
-            <h5><i class="fas fa-lightbulb me-2"></i>M?o Flash:</h5>
-            <p class="mb-0">N?u iPhone b? l?i kh�ng v�o du?c iOS, dua m�y v�o <strong>DFU Mode</strong> r?i flash. 3uTools s? t? nh?n v� flash firmware.</p>
+            <h5><i class="fas fa-lightbulb me-2"></i>Mẹo Flash:</h5>
+            <p class="mb-0">Nếu iPhone bị lỗi không vào được iOS, đưa máy vào <strong>DFU Mode</strong> rồi flash. 3uTools sẽ tự nhận và flash firmware.</p>
         </div>
         
-        <h2 id="jailbreak"><i class="fas fa-unlock-alt me-2"></i>5. Jailbreak v?i 3uTools</h2>
+        <h2 id="jailbreak"><i class="fas fa-unlock-alt me-2"></i>5. Jailbreak với 3uTools</h2>
         
-        <h3>5.1. iOS h? tr?</h3>
+        <h3>5.1. iOS hỗ trợ</h3>
         <table class="comparison-table">
             <thead>
                 <tr><th>Tool</th><th>iOS</th><th>Chip</th></tr>
@@ -297,72 +327,72 @@ $canonical_url = "https://www.unlocktool.us/articles/69-3utools-iphone.php";
             <tbody>
                 <tr><td><strong>Checkra1n</strong></td><td>iOS 12 - 14.8.1</td><td>A7 - A11</td></tr>
                 <tr><td><strong>Palera1n</strong></td><td>iOS 15 - 17.1</td><td>A8 - A11</td></tr>
-                <tr><td><strong>Unc0ver</strong></td><td>iOS 11 - 14.8</td><td>T?t c?</td></tr>
+                <tr><td><strong>Unc0ver</strong></td><td>iOS 11 - 14.8</td><td>Tất cả</td></tr>
             </tbody>
         </table>
         
-        <h3>5.2. C�ch jailbreak</h3>
+        <h3>5.2. Cách jailbreak</h3>
         <ol>
-            <li>V�o <strong>Flash & JB ? Jailbreak</strong></li>
-            <li>Ch?n tool ph� h?p v?i iOS version</li>
-            <li>L�m theo hu?ng d?n tr�n m�n h�nh</li>
-            <li>�ua iPhone v�o DFU Mode khi du?c y�u c?u</li>
+            <li>Vào <strong>Flash & JB → Jailbreak</strong></li>
+            <li>Chọn tool phù hợp với iOS version</li>
+            <li>Làm theo hướng dẫn trên màn hình</li>
+            <li>Đưa iPhone vào DFU Mode khi được yêu cầu</li>
         </ol>
         
-        <h2 id="luu-y"><i class="fas fa-exclamation-triangle me-2"></i>6. Luu � quan tr?ng</h2>
+        <h2 id="luu-y"><i class="fas fa-exclamation-triangle me-2"></i>6. Lưu ý quan trọng</h2>
         
         <div class="warning-box">
-            <h5><i class="fas fa-ban me-2"></i>3uTools KH�NG c� t�nh nang:</h5>
+            <h5><i class="fas fa-ban me-2"></i>3uTools KHÔNG có tính năng:</h5>
             <ul class="mb-0">
-                <li><strong>Bypass iCloud:</strong> Kh�ng th? bypass Activation Lock</li>
-                <li><strong>Bypass FRP:</strong> Kh�ng h? tr? Android</li>
-                <li><strong>Unlock carrier:</strong> Kh�ng m? kh�a m?ng</li>
-                <li><strong>Remove Apple ID:</strong> Kh�ng x�a Apple ID</li>
+                <li><strong>Bypass iCloud:</strong> Không thể bypass Activation Lock</li>
+                <li><strong>Bypass FRP:</strong> Không hỗ trợ Android</li>
+                <li><strong>Unlock carrier:</strong> Không mở khóa mạng</li>
+                <li><strong>Remove Apple ID:</strong> Không xóa Apple ID</li>
             </ul>
         </div>
         
         <div class="info-box">
-            <h5><i class="fas fa-info me-2"></i>�? bypass iCloud:</h5>
-            <p class="mb-0">S? d?ng <strong>UnlockTool</strong> (8K/6h) d? bypass iCloud, ho?c d?t d?ch v? t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>.</p>
+            <h5><i class="fas fa-info me-2"></i>Để bypass iCloud:</h5>
+            <p class="mb-0">Sử dụng <strong>UnlockTool</strong> (8K/6h) để bypass iCloud, hoặc đặt dịch vụ tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>.</p>
         </div>
         
-        <h2 id="faq"><i class="fas fa-comments me-2"></i>7. FAQ - C�u h?i thu?ng g?p</h2>
+        <h2 id="faq"><i class="fas fa-comments me-2"></i>7. FAQ - Câu hỏi thường gặp</h2>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>3uTools c� mi?n ph� kh�ng?</h5>
-            <p><strong>C�.</strong> 3uTools ho�n to�n mi?n ph�, kh�ng c� ph� ?n. T?i ch�nh th?c t?i 3u.com.</p>
-        </div>
-        
-        <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>3uTools c� an to�n kh�ng?</h5>
-            <p><strong>C�</strong>, n?u t?i t? trang ch�nh th?c. 3uTools du?c h�ng tri?u ngu?i s? d?ng to�n c?u.</p>
+            <h5><i class="fas fa-question me-2"></i>3uTools có miễn phí không?</h5>
+            <p><strong>Có.</strong> 3uTools hoàn toàn miễn phí, không có phí ẩn. Tải chính thức tại 3u.com.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>3uTools c� bypass iCloud kh�ng?</h5>
-            <p><strong>Kh�ng.</strong> 3uTools ch? check iCloud status, kh�ng bypass. D�ng UnlockTool d? bypass iCloud.</p>
+            <h5><i class="fas fa-question me-2"></i>3uTools có an toàn không?</h5>
+            <p><strong>Có</strong>, nếu tải từ trang chính thức. 3uTools được hàng triệu người sử dụng toàn cầu.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>3uTools c� thay th? iTunes kh�ng?</h5>
-            <p><strong>G?n nhu c�.</strong> 3uTools l�m du?c h?u h?t vi?c iTunes l�m, v� c�n nhi?u t�nh nang hon. Tuy nhi�n backup m� h�a v?n c?n iTunes.</p>
+            <h5><i class="fas fa-question me-2"></i>3uTools có bypass iCloud không?</h5>
+            <p><strong>Không.</strong> 3uTools chỉ check iCloud status, không bypass. Dùng UnlockTool để bypass iCloud.</p>
+        </div>
+        
+        <div class="faq-item">
+            <h5><i class="fas fa-question me-2"></i>3uTools có thay thế iTunes không?</h5>
+            <p><strong>Gần như có.</strong> 3uTools làm được hầu hết việc iTunes làm, và còn nhiều tính năng hơn. Tuy nhiên backup mã hóa vẫn cần iTunes.</p>
         </div>
         
         <div class="price-box">
-            <h3><i class="fas fa-unlock me-2"></i>C?n Bypass iCloud?</h3>
-            <p>3uTools kh�ng h? tr? - D�ng UnlockTool!</p>
-            <p class="display-5 fw-bold">8.000d / 6H</p>
-            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg me-2"><i class="fas fa-bolt me-2"></i>Thu� UnlockTool</a>
-            <a href="https://thuetaikhoan.net" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>D?ch V?</a>
+            <h3><i class="fas fa-unlock me-2"></i>Cần Bypass iCloud?</h3>
+            <p>3uTools không hỗ trợ - Dùng UnlockTool!</p>
+            <p class="display-5 fw-bold">8.000đ / 6H</p>
+            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg me-2"><i class="fas fa-bolt me-2"></i>Thuê UnlockTool</a>
+            <a href="https://thuetaikhoan.net" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>Dịch Vụ</a>
         </div>
         
-        <h2><i class="fas fa-link me-2"></i>B�i vi?t li�n quan</h2>
+        <h2><i class="fas fa-link me-2"></i>Bài viết liên quan</h2>
         <ul>
             <li><a href="66-winra1n-jailbreak.php">WinRa1n - Jailbreak Windows</a></li>
-            <li><a href="155-loi-dfurecovery-mode.php">V�o DFU/Recovery Mode</a></li>
+            <li><a href="155-loi-dfurecovery-mode.php">Vào DFU/Recovery Mode</a></li>
             <li><a href="59-phoenix-bypass-icloud.php">Phoenix Bypass iCloud</a></li>
             <li><a href="137-iremoval-pro-la-gi.php">iRemoval Pro</a></li>
-            <li><a href="1-unlocktool-la-gi.php">UnlockTool l� g�?</a></li>
+            <li><a href="1-unlocktool-la-gi.php">UnlockTool là gì?</a></li>
         </ul>
         
     </div>
@@ -375,7 +405,7 @@ $canonical_url = "https://www.unlocktool.us/articles/69-3utools-iphone.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -389,13 +419,13 @@ $canonical_url = "https://www.unlocktool.us/articles/69-3utools-iphone.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -403,15 +433,15 @@ $canonical_url = "https://www.unlocktool.us/articles/69-3utools-iphone.php";
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -424,7 +454,7 @@ $canonical_url = "https://www.unlocktool.us/articles/69-3utools-iphone.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -432,8 +462,8 @@ $canonical_url = "https://www.unlocktool.us/articles/69-3utools-iphone.php";
 </div>
 <footer class="bg-dark text-white py-4 text-center">
     <div class="container">
-        <p class="mb-2">&copy; 2026 UnlockTool.us - D?ch v? cho thu� UnlockTool uy t�n #1 Vi?t Nam</p>
-        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thu� UnlockTool 8K</a> | <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+        <p class="mb-2">&copy; 2026 UnlockTool.us - Dịch vụ cho thuê UnlockTool uy tín #1 Việt Nam</p>
+        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thuê UnlockTool 8K</a> | <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
     </div>
 </footer>
 

@@ -35,20 +35,6 @@ $page_description = "Tổng hợp các bài viết hướng dẫn sử dụng Un
         .cta-btn { display: inline-block; background: white; color: #11998e; padding: 15px 40px; border-radius: 50px; font-weight: 700; text-decoration: none; margin: 10px; }
         .cta-btn:hover { color: #0d7a6b; text-decoration: none; }
     </style>
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebPage",
-        "name": "<?php echo $page_title; ?>",
-        "description": "<?php echo $page_description; ?>",
-        "url": "https://www.unlocktool.us/articles/",
-        "publisher": {
-            "@type": "Organization",
-            "name": "UnlockTool.us",
-            "url": "https://www.unlocktool.us"
-        }
-    }
-    </script>
 </head>
 <body>
 

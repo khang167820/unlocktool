@@ -1,7 +1,7 @@
-<?php
-$page_title = "UnlockTool Error Fix 2026 - L?i Thu?ng G?p v� C�ch Kh?c Ph?c";
-$page_description = "T?ng h?p l?i UnlockTool thu?ng g?p v� c�ch kh?c ph?c 2026. L?i kh�ng nh?n m�y, login failed, driver error, FRP failed. Hu?ng d?n fix t?ng l?i chi ti?t.";
-$page_keywords = "unlocktool error, l?i unlocktool, s?a l?i unlocktool, unlocktool kh�ng nh?n m�y, unlocktool login failed, unlocktool driver error, unlocktool fix";
+﻿<?php
+$page_title = "UnlockTool Error Fix 2026 - Lỗi Thường Gặp và Cách Khắc Phục";
+$page_description = "Tổng hợp lỗi UnlockTool thường gặp và cách khắc phục 2026. Lỗi không nhận máy, login failed, driver error, FRP failed. Hướng dẫn fix từng lỗi chi tiết.";
+$page_keywords = "unlocktool error, lỗi unlocktool, sửa lỗi unlocktool, unlocktool không nhận máy, unlocktool login failed, unlocktool driver error, unlocktool fix";
 $canonical_url = "https://www.unlocktool.us/articles/28-unlocktool-error-fix.php";
 ?>
 <!DOCTYPE html>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/28-unlocktool-error-fix.php
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/28-unlocktool-error-fix.php
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hu?ng d?n k? thu?t">
+    <meta property="article:section" content="Hướng dẫn kỹ thuật">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="M? kh�a di?n tho?i">
+    <meta property="article:tag" content="Mở khóa điện thoại">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -50,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/28-unlocktool-error-fix.php
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -61,9 +61,9 @@ $canonical_url = "https://www.unlocktool.us/articles/28-unlocktool-error-fix.php
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "UnlockTool kh�ng nh?n m�y th� l�m sao?", "acceptedAnswer": {"@type": "Answer", "text": "Ki?m tra: (1) �� c�i driver d�ng chua, (2) M�y d� v�o d�ng mode chua, (3) Th? d?i c�p USB, (4) Th? c?ng USB kh�c, (5) Kh?i d?ng l?i m�y t�nh."}},
-            {"@type": "Question", "name": "L?i Login Failed khi dang nh?p UnlockTool?", "acceptedAnswer": {"@type": "Answer", "text": "Ki?m tra: (1) Username/Password d�ng chua, (2) Internet ?n d?nh kh�ng, (3) T�i kho?n c�n h?n kh�ng, (4) C� ai dang d�ng t�i kho?n ? m�y kh�c kh�ng."}},
-            {"@type": "Question", "name": "FRP Remove Failed th� x? l� sao?", "acceptedAnswer": {"@type": "Answer", "text": "Th?: (1) �?i phuong ph�p (ADB?Download Mode), (2) C?p nh?t UnlockTool m?i nh?t, (3) Th? FRP Reset thay v� FRP Remove, (4) Ki?m tra model c� h? tr? kh�ng."}}
+            {"@type": "Question", "name": "UnlockTool không nhận máy thì làm sao?", "acceptedAnswer": {"@type": "Answer", "text": "Kiểm tra: (1) Đã cài driver đúng chưa, (2) Máy đã vào đúng mode chưa, (3) Thử đổi cáp USB, (4) Thử cổng USB khác, (5) Khởi động lại máy tính."}},
+            {"@type": "Question", "name": "Lỗi Login Failed khi đăng nhập UnlockTool?", "acceptedAnswer": {"@type": "Answer", "text": "Kiểm tra: (1) Username/Password đúng chưa, (2) Internet ổn định không, (3) Tài khoản còn hạn không, (4) Có ai đang dùng tài khoản ở máy khác không."}},
+            {"@type": "Question", "name": "FRP Remove Failed thì xử lý sao?", "acceptedAnswer": {"@type": "Answer", "text": "Thử: (1) Đổi phương pháp (ADB→Download Mode), (2) Cập nhật UnlockTool mới nhất, (3) Thử FRP Reset thay vì FRP Remove, (4) Kiểm tra model có hỗ trợ không."}}
         ]
     }
     </script>
@@ -133,6 +133,36 @@ $canonical_url = "https://www.unlocktool.us/articles/28-unlocktool-error-fix.php
         }
     }
     </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "UnlockTool.us",
+        "url": "https://www.unlocktool.us",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.unlocktool.us/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Dịch vụ mở khóa điện thoại",
+        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.5",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "196"
+        }
+    }
+    </script>
 </head>
 <body>
 
@@ -140,7 +170,7 @@ $canonical_url = "https://www.unlocktool.us/articles/28-unlocktool-error-fix.php
     <div class="container">
         <div style="font-size:3rem;margin-bottom:20px"><i class="fas fa-bug"></i></div>
         <h1>UnlockTool Error Fix 2026</h1>
-        <p>L?i thu?ng g?p v� c�ch kh?c ph?c chi ti?t</p>
+        <p>Lỗi thường gặp và cách khắc phục chi tiết</p>
     </div>
 </header>
 
@@ -149,228 +179,228 @@ $canonical_url = "https://www.unlocktool.us/articles/28-unlocktool-error-fix.php
         
         <!-- Error Hero -->
         <div class="error-hero">
-            <h3><i class="fas fa-wrench"></i> T?ng h?p l?i v� c�ch fix</h3>
-            <p>Hu?ng d?n kh?c ph?c c�c l?i ph? bi?n khi s? d?ng UnlockTool</p>
+            <h3><i class="fas fa-wrench"></i> Tổng hợp lỗi và cách fix</h3>
+            <p>Hướng dẫn khắc phục các lỗi phổ biến khi sử dụng UnlockTool</p>
         </div>
         
         <!-- TOC -->
         <div class="toc">
-            <h4><i class="fas fa-list"></i> M?c l?c</h4>
+            <h4><i class="fas fa-list"></i> Mục lục</h4>
             <ul>
-                <li><a href="#khong-nhan-may">1. L?i kh�ng nh?n m�y</a></li>
-                <li><a href="#login-failed">2. L?i Login Failed</a></li>
-                <li><a href="#driver-error">3. L?i Driver</a></li>
-                <li><a href="#frp-failed">4. L?i FRP Failed</a></li>
-                <li><a href="#antivirus">5. L?i b? Antivirus ch?n</a></li>
-                <li><a href="#crash">6. L?i UnlockTool crash</a></li>
-                <li><a href="#khac">7. L?i kh�c</a></li>
+                <li><a href="#khong-nhan-may">1. Lỗi không nhận máy</a></li>
+                <li><a href="#login-failed">2. Lỗi Login Failed</a></li>
+                <li><a href="#driver-error">3. Lỗi Driver</a></li>
+                <li><a href="#frp-failed">4. Lỗi FRP Failed</a></li>
+                <li><a href="#antivirus">5. Lỗi bị Antivirus chặn</a></li>
+                <li><a href="#crash">6. Lỗi UnlockTool crash</a></li>
+                <li><a href="#khac">7. Lỗi khác</a></li>
             </ul>
         </div>
         
         <!-- Common Errors -->
         <div class="error-grid">
             <div class="error-card">
-                <h5><i class="fas fa-plug"></i> Kh�ng nh?n m�y</h5>
-                <p>Device not found, kh�ng detect du?c di?n tho?i</p>
+                <h5><i class="fas fa-plug"></i> Không nhận máy</h5>
+                <p>Device not found, không detect được điện thoại</p>
             </div>
             <div class="error-card">
                 <h5><i class="fas fa-user-lock"></i> Login Failed</h5>
-                <p>Kh�ng dang nh?p du?c t�i kho?n</p>
+                <p>Không đăng nhập được tài khoản</p>
             </div>
             <div class="error-card">
                 <h5><i class="fas fa-hdd"></i> Driver Error</h5>
-                <p>L?i driver, kh�ng nh?n port</p>
+                <p>Lỗi driver, không nhận port</p>
             </div>
             <div class="error-card">
                 <h5><i class="fas fa-times-circle"></i> FRP Failed</h5>
-                <p>FRP Remove kh�ng th�nh c�ng</p>
+                <p>FRP Remove không thành công</p>
             </div>
             <div class="error-card">
                 <h5><i class="fas fa-shield-alt"></i> Antivirus Block</h5>
-                <p>B? antivirus ch?n/x�a file</p>
+                <p>Bị antivirus chặn/xóa file</p>
             </div>
             <div class="error-card">
-                <h5><i class="fas fa-bomb"></i> Crash/��ng</h5>
-                <p>UnlockTool b? crash, d�ng d?t ng?t</p>
+                <h5><i class="fas fa-bomb"></i> Crash/Đóng</h5>
+                <p>UnlockTool bị crash, đóng đột ngột</p>
             </div>
         </div>
         
         <!-- Section 1 -->
-        <h2 id="khong-nhan-may">1. L?i kh�ng nh?n m�y (Device Not Found)</h2>
+        <h2 id="khong-nhan-may">1. Lỗi không nhận máy (Device Not Found)</h2>
         
         <div class="error-box">
-            <h4><i class="fas fa-exclamation-circle"></i> Tri?u ch?ng</h4>
-            <p class="mb-0">UnlockTool hi?n "No device connected", "Device not found" ho?c kh�ng hi?n th�ng tin m�y</p>
+            <h4><i class="fas fa-exclamation-circle"></i> Triệu chứng</h4>
+            <p class="mb-0">UnlockTool hiện "No device connected", "Device not found" hoặc không hiện thông tin máy</p>
         </div>
         
         <div class="solution-box">
-            <h4><i class="fas fa-check-circle"></i> C�ch kh?c ph?c</h4>
+            <h4><i class="fas fa-check-circle"></i> Cách khắc phục</h4>
             <ol class="step-list">
-                <li><strong>Ki?m tra driver:</strong> V�o Device Manager xem c� thi?t b? n�o b�o d?u ch?m than kh�ng</li>
-                <li><strong>C�i l?i driver:</strong> T?i driver t? <a href="https://file.unlocktool.net/page/all-driver" target="_blank">file.unlocktool.net/page/all-driver</a></li>
-                <li><strong>Ki?m tra mode:</strong> �?m b?o di?n tho?i d� v�o d�ng mode (Download/EDL/MTK)</li>
-                <li><strong>�?i c�p USB:</strong> Th? c�p USB ch?t lu?ng t?t (c�p zin ho?c branded)</li>
-                <li><strong>�?i c?ng USB:</strong> Th? c?ng USB 2.0 thay v� 3.0, uu ti�n c?ng tr�n mainboard</li>
-                <li><strong>Kh?i d?ng l?i:</strong> Restart c? m�y t�nh v� di?n tho?i</li>
+                <li><strong>Kiểm tra driver:</strong> Vào Device Manager xem có thiết bị nào báo dấu chấm than không</li>
+                <li><strong>Cài lại driver:</strong> Tải driver từ <a href="https://file.unlocktool.net/page/all-driver" target="_blank">file.unlocktool.net/page/all-driver</a></li>
+                <li><strong>Kiểm tra mode:</strong> Đảm bảo điện thoại đã vào đúng mode (Download/EDL/MTK)</li>
+                <li><strong>Đổi cáp USB:</strong> Thử cáp USB chất lượng tốt (cáp zin hoặc branded)</li>
+                <li><strong>Đổi cổng USB:</strong> Thử cổng USB 2.0 thay vì 3.0, ưu tiên cổng trên mainboard</li>
+                <li><strong>Khởi động lại:</strong> Restart cả máy tính và điện thoại</li>
             </ol>
         </div>
         
         <!-- Section 2 -->
-        <h2 id="login-failed">2. L?i Login Failed</h2>
+        <h2 id="login-failed">2. Lỗi Login Failed</h2>
         
         <div class="error-box">
-            <h4><i class="fas fa-exclamation-circle"></i> Tri?u ch?ng</h4>
-            <p class="mb-0">�ang nh?p th?t b?i, hi?n "Login Failed", "Invalid credentials", "Account not found"</p>
+            <h4><i class="fas fa-exclamation-circle"></i> Triệu chứng</h4>
+            <p class="mb-0">Đăng nhập thất bại, hiện "Login Failed", "Invalid credentials", "Account not found"</p>
         </div>
         
         <div class="solution-box">
-            <h4><i class="fas fa-check-circle"></i> C�ch kh?c ph?c</h4>
+            <h4><i class="fas fa-check-circle"></i> Cách khắc phục</h4>
             <ol class="step-list">
-                <li><strong>Ki?m tra Username/Password:</strong> �?m b?o g� d�ng, ch� � hoa thu?ng</li>
-                <li><strong>Ki?m tra internet:</strong> �?m b?o k?t n?i internet ?n d?nh</li>
-                <li><strong>Ki?m tra h?n license:</strong> T�i kho?n h?t h?n s? kh�ng dang nh?p du?c</li>
-                <li><strong>Ki?m tra dang nh?p tr�ng:</strong> T�i kho?n ch? d�ng du?c 1 m�y, logout ? m�y kh�c tru?c</li>
-                <li><strong>Ch?y Admin:</strong> �?m b?o ch?y UnlockTool v?i quy?n Administrator</li>
-                <li><strong>T?t VPN/Proxy:</strong> VPN c� th? g�y l?i k?t n?i d?n server</li>
+                <li><strong>Kiểm tra Username/Password:</strong> Đảm bảo gõ đúng, chú ý hoa thường</li>
+                <li><strong>Kiểm tra internet:</strong> Đảm bảo kết nối internet ổn định</li>
+                <li><strong>Kiểm tra hạn license:</strong> Tài khoản hết hạn sẽ không đăng nhập được</li>
+                <li><strong>Kiểm tra đăng nhập trùng:</strong> Tài khoản chỉ dùng được 1 máy, logout ở máy khác trước</li>
+                <li><strong>Chạy Admin:</strong> Đảm bảo chạy UnlockTool với quyền Administrator</li>
+                <li><strong>Tắt VPN/Proxy:</strong> VPN có thể gây lỗi kết nối đến server</li>
             </ol>
         </div>
         
         <!-- Section 3 -->
-        <h2 id="driver-error">3. L?i Driver</h2>
+        <h2 id="driver-error">3. Lỗi Driver</h2>
         
         <div class="error-box">
-            <h4><i class="fas fa-exclamation-circle"></i> Tri?u ch?ng</h4>
-            <p class="mb-0">Device Manager hi?n d?u ch?m than, Unknown Device, kh�ng nh?n port 9008/MTK</p>
+            <h4><i class="fas fa-exclamation-circle"></i> Triệu chứng</h4>
+            <p class="mb-0">Device Manager hiện dấu chấm than, Unknown Device, không nhận port 9008/MTK</p>
         </div>
         
         <div class="solution-box">
-            <h4><i class="fas fa-check-circle"></i> C�ch kh?c ph?c</h4>
+            <h4><i class="fas fa-check-circle"></i> Cách khắc phục</h4>
             <ol class="step-list">
-                <li><strong>G? driver cu:</strong> Uninstall driver l?i trong Device Manager</li>
-                <li><strong>T?t Driver Signature:</strong> C?n thi?t cho Qualcomm 9008 v� MTK driver</li>
-                <li><strong>C�i driver m?i:</strong> T?i v� c�i driver t? ngu?n ch�nh th?c</li>
-                <li><strong>Update driver th? c�ng:</strong> Click chu?t ph?i v�o Unknown Device ? Update Driver ? Browse ? Ch?n thu m?c driver</li>
-                <li><strong>Restart:</strong> Kh?i d?ng l?i m�y t�nh sau khi c�i driver</li>
+                <li><strong>Gỡ driver cũ:</strong> Uninstall driver lỗi trong Device Manager</li>
+                <li><strong>Tắt Driver Signature:</strong> Cần thiết cho Qualcomm 9008 và MTK driver</li>
+                <li><strong>Cài driver mới:</strong> Tải và cài driver từ nguồn chính thức</li>
+                <li><strong>Update driver thủ công:</strong> Click chuột phải vào Unknown Device → Update Driver → Browse → Chọn thư mục driver</li>
+                <li><strong>Restart:</strong> Khởi động lại máy tính sau khi cài driver</li>
             </ol>
         </div>
         
         <div class="tip-box">
-            <h4><i class="fas fa-lightbulb"></i> C�ch t?t Driver Signature tr�n Windows 10/11</h4>
+            <h4><i class="fas fa-lightbulb"></i> Cách tắt Driver Signature trên Windows 10/11</h4>
             <ol class="mb-0">
-                <li>Nh?n Shift + Restart</li>
-                <li>Ch?n Troubleshoot ? Advanced options ? Startup Settings ? Restart</li>
-                <li>Nh?n s? 7 d? Disable driver signature enforcement</li>
+                <li>Nhấn Shift + Restart</li>
+                <li>Chọn Troubleshoot → Advanced options → Startup Settings → Restart</li>
+                <li>Nhấn số 7 để Disable driver signature enforcement</li>
             </ol>
         </div>
         
         <!-- Section 4 -->
-        <h2 id="frp-failed">4. L?i FRP Failed</h2>
+        <h2 id="frp-failed">4. Lỗi FRP Failed</h2>
         
         <div class="error-box">
-            <h4><i class="fas fa-exclamation-circle"></i> Tri?u ch?ng</h4>
-            <p class="mb-0">FRP Remove Failed, FRP Bypass kh�ng th�nh c�ng, m�y v?n b? kh�a sau khi x? l�</p>
+            <h4><i class="fas fa-exclamation-circle"></i> Triệu chứng</h4>
+            <p class="mb-0">FRP Remove Failed, FRP Bypass không thành công, máy vẫn bị khóa sau khi xử lý</p>
         </div>
         
         <div class="solution-box">
-            <h4><i class="fas fa-check-circle"></i> C�ch kh?c ph?c</h4>
+            <h4><i class="fas fa-check-circle"></i> Cách khắc phục</h4>
             <ol class="step-list">
-                <li><strong>�?i phuong ph�p:</strong> Th? ADB ? Download Mode ho?c ngu?c l?i</li>
-                <li><strong>Th? FRP Reset:</strong> Thay v� FRP Remove, th? d�ng FRP Reset</li>
-                <li><strong>C?p nh?t UnlockTool:</strong> T?i phi�n b?n m?i nh?t</li>
-                <li><strong>Ki?m tra model:</strong> �?m b?o model c� trong danh s�ch h? tr?</li>
-                <li><strong>Factory Reset:</strong> Th? t�nh nang Factory Reset n?u c�</li>
-                <li><strong>�?i th�m:</strong> M?t s? model c?n th?i gian l�u hon, d?i 10-15 ph�t</li>
+                <li><strong>Đổi phương pháp:</strong> Thử ADB → Download Mode hoặc ngược lại</li>
+                <li><strong>Thử FRP Reset:</strong> Thay vì FRP Remove, thử dùng FRP Reset</li>
+                <li><strong>Cập nhật UnlockTool:</strong> Tải phiên bản mới nhất</li>
+                <li><strong>Kiểm tra model:</strong> Đảm bảo model có trong danh sách hỗ trợ</li>
+                <li><strong>Factory Reset:</strong> Thử tính năng Factory Reset nếu có</li>
+                <li><strong>Đợi thêm:</strong> Một số model cần thời gian lâu hơn, đợi 10-15 phút</li>
             </ol>
         </div>
         
         <!-- Section 5 -->
-        <h2 id="antivirus">5. L?i b? Antivirus ch?n</h2>
+        <h2 id="antivirus">5. Lỗi bị Antivirus chặn</h2>
         
         <div class="error-box">
-            <h4><i class="fas fa-exclamation-circle"></i> Tri?u ch?ng</h4>
-            <p class="mb-0">File b? x�a sau khi gi?i n�n, Windows Defender b�o virus, kh�ng ch?y du?c UnlockTool</p>
+            <h4><i class="fas fa-exclamation-circle"></i> Triệu chứng</h4>
+            <p class="mb-0">File bị xóa sau khi giải nén, Windows Defender báo virus, không chạy được UnlockTool</p>
         </div>
         
         <div class="solution-box">
-            <h4><i class="fas fa-check-circle"></i> C�ch kh?c ph?c</h4>
+            <h4><i class="fas fa-check-circle"></i> Cách khắc phục</h4>
             <ol class="step-list">
-                <li><strong>T?t Real-time protection:</strong> Windows Security ? Virus & threat ? Manage settings ? T?t Real-time protection</li>
-                <li><strong>Th�m v�o Exclusion:</strong> Add thu m?c UnlockTool v�o Exclusions</li>
-                <li><strong>T?t antivirus kh�c:</strong> Kaspersky, Avast, Norton... c?n t?t t?m</li>
-                <li><strong>Download l?i:</strong> T?i l?i file t? ngu?n ch�nh th?c</li>
-                <li><strong>Gi?i n�n l?i:</strong> Gi?i n�n sau khi d� t?t antivirus</li>
+                <li><strong>Tắt Real-time protection:</strong> Windows Security → Virus & threat → Manage settings → Tắt Real-time protection</li>
+                <li><strong>Thêm vào Exclusion:</strong> Add thư mục UnlockTool vào Exclusions</li>
+                <li><strong>Tắt antivirus khác:</strong> Kaspersky, Avast, Norton... cần tắt tạm</li>
+                <li><strong>Download lại:</strong> Tải lại file từ nguồn chính thức</li>
+                <li><strong>Giải nén lại:</strong> Giải nén sau khi đã tắt antivirus</li>
             </ol>
         </div>
         
         <!-- Section 6 -->
-        <h2 id="crash">6. L?i UnlockTool Crash</h2>
+        <h2 id="crash">6. Lỗi UnlockTool Crash</h2>
         
         <div class="error-box">
-            <h4><i class="fas fa-exclamation-circle"></i> Tri?u ch?ng</h4>
-            <p class="mb-0">UnlockTool b? d�ng d?t ng?t, crash khi dang x? l�, not responding</p>
+            <h4><i class="fas fa-exclamation-circle"></i> Triệu chứng</h4>
+            <p class="mb-0">UnlockTool bị đóng đột ngột, crash khi đang xử lý, not responding</p>
         </div>
         
         <div class="solution-box">
-            <h4><i class="fas fa-check-circle"></i> C�ch kh?c ph?c</h4>
+            <h4><i class="fas fa-check-circle"></i> Cách khắc phục</h4>
             <ol class="step-list">
-                <li><strong>Ch?y Administrator:</strong> Lu�n ch?y v?i quy?n Admin</li>
-                <li><strong>Compatibility Mode:</strong> Click chu?t ph?i ? Properties ? Compatibility ? Ch?n Windows 8</li>
-                <li><strong>T?t antivirus:</strong> Antivirus c� th? can thi?p g�y crash</li>
-                <li><strong>C?p nh?t phi�n b?n:</strong> D�ng phi�n b?n m?i nh?t</li>
-                <li><strong>Gi?i n�n d?y d?:</strong> �?m b?o file kh�ng b? corrupt, gi?i n�n ho�n ch?nh</li>
-                <li><strong>C�i .NET Framework:</strong> C�i d?t .NET Framework 4.8 n?u chua c�</li>
+                <li><strong>Chạy Administrator:</strong> Luôn chạy với quyền Admin</li>
+                <li><strong>Compatibility Mode:</strong> Click chuột phải → Properties → Compatibility → Chọn Windows 8</li>
+                <li><strong>Tắt antivirus:</strong> Antivirus có thể can thiệp gây crash</li>
+                <li><strong>Cập nhật phiên bản:</strong> Dùng phiên bản mới nhất</li>
+                <li><strong>Giải nén đầy đủ:</strong> Đảm bảo file không bị corrupt, giải nén hoàn chỉnh</li>
+                <li><strong>Cài .NET Framework:</strong> Cài đặt .NET Framework 4.8 nếu chưa có</li>
             </ol>
         </div>
         
         <!-- Section 7 -->
-        <h2 id="khac">7. C�c l?i kh�c</h2>
+        <h2 id="khac">7. Các lỗi khác</h2>
         
         <table>
             <tr>
-                <th>L?i</th>
-                <th>Nguy�n nh�n</th>
-                <th>C�ch fix</th>
+                <th>Lỗi</th>
+                <th>Nguyên nhân</th>
+                <th>Cách fix</th>
             </tr>
             <tr>
                 <td>Cannot connect to server</td>
-                <td>L?i k?t n?i internet</td>
-                <td>Ki?m tra internet, t?t VPN</td>
+                <td>Lỗi kết nối internet</td>
+                <td>Kiểm tra internet, tắt VPN</td>
             </tr>
             <tr>
                 <td>Account expired</td>
-                <td>T�i kho?n h?t h?n</td>
-                <td>Gia h?n ho?c thu� t�i kho?n m?i</td>
+                <td>Tài khoản hết hạn</td>
+                <td>Gia hạn hoặc thuê tài khoản mới</td>
             </tr>
             <tr>
                 <td>Port in use</td>
-                <td>Port b? chi?m b?i ?ng d?ng kh�c</td>
-                <td>��ng c�c ?ng d?ng di?n tho?i kh�c</td>
+                <td>Port bị chiếm bởi ứng dụng khác</td>
+                <td>Đóng các ứng dụng điện thoại khác</td>
             </tr>
             <tr>
                 <td>Timeout</td>
-                <td>X? l� qu� l�u</td>
-                <td>�?i th�m ho?c th? l?i t? d?u</td>
+                <td>Xử lý quá lâu</td>
+                <td>Đợi thêm hoặc thử lại từ đầu</td>
             </tr>
             <tr>
                 <td>File not found</td>
-                <td>Thi?u file/driver</td>
-                <td>T?i l?i UnlockTool/Driver d?y d?</td>
+                <td>Thiếu file/driver</td>
+                <td>Tải lại UnlockTool/Driver đầy đủ</td>
             </tr>
         </table>
         
         <!-- CTA -->
         <div class="cta-box">
-            <h3><i class="fas fa-headset"></i> C?n h? tr? th�m?</h3>
-            <p>Thu� t�i kho?n t?i UnlockTool.us d? du?c h? tr? k? thu?t</p>
-            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-key"></i> Thu� 8K</a>
-            <a href="https://file.unlocktool.net/page/index.php" class="cta-btn"><i class="fas fa-download"></i> T?i UnlockTool</a>
+            <h3><i class="fas fa-headset"></i> Cần hỗ trợ thêm?</h3>
+            <p>Thuê tài khoản tại UnlockTool.us để được hỗ trợ kỹ thuật</p>
+            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-key"></i> Thuê 8K</a>
+            <a href="https://file.unlocktool.net/page/index.php" class="cta-btn"><i class="fas fa-download"></i> Tải UnlockTool</a>
         </div>
         
         <!-- Related -->
-        <h2>B�i vi?t li�n quan</h2>
+        <h2>Bài viết liên quan</h2>
         <ul>
-            <li><a href="25-unlocktool-driver.php">Hu?ng d?n c�i Driver</a></li>
-            <li><a href="19-cach-su-dung-unlocktool.php">C�ch s? d?ng UnlockTool</a></li>
+            <li><a href="25-unlocktool-driver.php">Hướng dẫn cài Driver</a></li>
+            <li><a href="19-cach-su-dung-unlocktool.php">Cách sử dụng UnlockTool</a></li>
             <li><a href="11-unlocktool-download.php">Download UnlockTool</a></li>
         </ul>
         
@@ -384,7 +414,7 @@ $canonical_url = "https://www.unlocktool.us/articles/28-unlocktool-error-fix.php
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -398,13 +428,13 @@ $canonical_url = "https://www.unlocktool.us/articles/28-unlocktool-error-fix.php
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -412,15 +442,15 @@ $canonical_url = "https://www.unlocktool.us/articles/28-unlocktool-error-fix.php
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -433,7 +463,7 @@ $canonical_url = "https://www.unlocktool.us/articles/28-unlocktool-error-fix.php
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -441,8 +471,8 @@ $canonical_url = "https://www.unlocktool.us/articles/28-unlocktool-error-fix.php
 </div>
 <footer>
     <div class="container text-center">
-        <p><strong>UnlockTool.us</strong> - D?ch v? cho thu� t�i kho?n UnlockTool</p>
-        <p class="mb-0">� 2026 UnlockTool.us</p>
+        <p><strong>UnlockTool.us</strong> - Dịch vụ cho thuê tài khoản UnlockTool</p>
+        <p class="mb-0">© 2026 UnlockTool.us</p>
     </div>
 </footer>
 

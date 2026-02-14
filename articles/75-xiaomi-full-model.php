@@ -1,6 +1,6 @@
-<?php
-$page_title = "X�a Mi Account Xiaomi ?? Full Model Redmi POCO | HyperOS 2026";
-$page_description = "?? X�a Mi Account, FRP Xiaomi d?y d?: Xiaomi 14, Redmi Note 13, POCO F6. HyperOS, MIUI. EDL Mode, BROM. Thu� tool 8K/6h ho?c d?ch v? 50K.";
+﻿<?php
+$page_title = "Xóa Mi Account Xiaomi 🔓 Full Model Redmi POCO | HyperOS 2026";
+$page_description = "🔓 Xóa Mi Account, FRP Xiaomi đầy đủ: Xiaomi 14, Redmi Note 13, POCO F6. HyperOS, MIUI. EDL Mode, BROM. Thuê tool 8K/6h hoặc dịch vụ 50K.";
 $page_keywords = "xoa mi account, xiaomi frp, redmi frp, poco frp, hyperos frp, miui account remove";
 $canonical_url = "https://www.unlocktool.us/articles/75-xiaomi-full-model.php";
 ?>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/75-xiaomi-full-model.php";
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/75-xiaomi-full-model.php";
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hu?ng d?n k? thu?t">
+    <meta property="article:section" content="Hướng dẫn kỹ thuật">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="M? kh�a di?n tho?i">
+    <meta property="article:tag" content="Mở khóa điện thoại">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -50,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/75-xiaomi-full-model.php";
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -60,8 +60,8 @@ $canonical_url = "https://www.unlocktool.us/articles/75-xiaomi-full-model.php";
     {
         "@context": "https://schema.org",
         "@type": "TechArticle",
-        "headline": "X�a Mi Account Xiaomi - Full Model Redmi POCO 2026",
-        "description": "Hu?ng d?n x�a Mi Account v� FRP Xiaomi d?y d? c�c model",
+        "headline": "Xóa Mi Account Xiaomi - Full Model Redmi POCO 2026",
+        "description": "Hướng dẫn xóa Mi Account và FRP Xiaomi đầy đủ các model",
         "author": {"@type": "Organization", "name": "UnlockTool.us"},
         "publisher": {"@type": "Organization", "name": "UnlockTool.us"},
         "datePublished": "2024-01-01",
@@ -73,10 +73,10 @@ $canonical_url = "https://www.unlocktool.us/articles/75-xiaomi-full-model.php";
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "Mi Account v� FRP kh�c nhau nhu n�o?", "acceptedAnswer": {"@type": "Answer", "text": "FRP l� Google Account, Mi Account l� t�i kho?n Xiaomi. �i?n tho?i c� th? y�u c?u x�c th?c c? 2 sau reset."}},
-            {"@type": "Question", "name": "Xiaomi HyperOS c� x�a Mi Account du?c kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "�u?c. UnlockTool h? tr? HyperOS. C?n v�o EDL Mode (Qualcomm) ho?c BROM Mode (MediaTek)."}},
-            {"@type": "Question", "name": "Xiaomi m?i c?n authorized account l� g�?", "acceptedAnswer": {"@type": "Answer", "text": "Xiaomi m?i kh�a EDL Mode. C?n authorized Mi account d? m? kh�a tru?c khi flash. UnlockTool c� t�nh nang n�y."}},
-            {"@type": "Question", "name": "POCO v� Redmi c� ph?i Xiaomi kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "C�. POCO v� Redmi l� sub-brand c?a Xiaomi, d�ng chung h? di?u h�nh MIUI/HyperOS v� Mi Account."}}
+            {"@type": "Question", "name": "Mi Account và FRP khác nhau như nào?", "acceptedAnswer": {"@type": "Answer", "text": "FRP là Google Account, Mi Account là tài khoản Xiaomi. Điện thoại có thể yêu cầu xác thực cả 2 sau reset."}},
+            {"@type": "Question", "name": "Xiaomi HyperOS có xóa Mi Account được không?", "acceptedAnswer": {"@type": "Answer", "text": "Được. UnlockTool hỗ trợ HyperOS. Cần vào EDL Mode (Qualcomm) hoặc BROM Mode (MediaTek)."}},
+            {"@type": "Question", "name": "Xiaomi mới cần authorized account là gì?", "acceptedAnswer": {"@type": "Answer", "text": "Xiaomi mới khóa EDL Mode. Cần authorized Mi account để mở khóa trước khi flash. UnlockTool có tính năng này."}},
+            {"@type": "Question", "name": "POCO và Redmi có phải Xiaomi không?", "acceptedAnswer": {"@type": "Answer", "text": "Có. POCO và Redmi là sub-brand của Xiaomi, dùng chung hệ điều hành MIUI/HyperOS và Mi Account."}}
         ]
     }
     </script>
@@ -118,24 +118,54 @@ $canonical_url = "https://www.unlocktool.us/articles/75-xiaomi-full-model.php";
         }
     }
     </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "UnlockTool.us",
+        "url": "https://www.unlocktool.us",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.unlocktool.us/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Dịch vụ mở khóa điện thoại",
+        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.6",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "57"
+        }
+    }
+    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
 </nav>
 <section class="hero-section">
     <div class="container text-center">
-        <h1><i class="fas fa-mobile-alt me-2"></i>X�a Mi Account Xiaomi 2026</h1>
+        <h1><i class="fas fa-mobile-alt me-2"></i>Xóa Mi Account Xiaomi 2026</h1>
         <p class="lead">Full Model | Redmi | POCO | HyperOS | MIUI</p>
         <div class="mt-4">
-            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>Thu� Tool 8K/6H</a>
+            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>Thuê Tool 8K/6H</a>
         </div>
     </div>
 </section>
@@ -145,44 +175,44 @@ $canonical_url = "https://www.unlocktool.us/articles/75-xiaomi-full-model.php";
         
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #0066cc;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>T�c gi?:</strong> UnlockTool.us Team</span>
-            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>�?c:</strong> ~5 ph�t</span>
-            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> <span id="viewCount">1,234</span></span>
+            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>Tác giả:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>Cập nhật:</strong> 06/02/2026</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Đọc:</strong> ~5 phút</span>
+            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lượt xem:</strong> <span id="viewCount">1,234</span></span>
         </div>
         <div class="toc">
-            <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
+            <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
             <ul>
-                <li><a href="#mi-account">1. Mi Account l� g�?</a></li>
-                <li><a href="#model">2. C�c model h? tr?</a></li>
-                <li><a href="#phuong-phap">3. Phuong ph�p x�a</a></li>
+                <li><a href="#mi-account">1. Mi Account là gì?</a></li>
+                <li><a href="#model">2. Các model hỗ trợ</a></li>
+                <li><a href="#phuong-phap">3. Phương pháp xóa</a></li>
                 <li><a href="#edl-brom">4. EDL Mode vs BROM Mode</a></li>
-                <li><a href="#huong-dan">5. Hu?ng d?n x�a</a></li>
+                <li><a href="#huong-dan">5. Hướng dẫn xóa</a></li>
                 <li><a href="#faq">6. FAQ</a></li>
             </ul>
         </div>
         
-        <h2 id="mi-account"><i class="fas fa-user-lock me-2"></i>1. Mi Account l� g�?</h2>
+        <h2 id="mi-account"><i class="fas fa-user-lock me-2"></i>1. Mi Account là gì?</h2>
         
-        <p><strong>Mi Account</strong> (t�i kho?n Xiaomi) l� h? th?ng b?o m?t c?a Xiaomi, tuong t? iCloud c?a Apple hay Google Account. Khi dang nh?p Mi Account, t�i kho?n du?c li�n k?t v?i thi?t b?.</p>
+        <p><strong>Mi Account</strong> (tài khoản Xiaomi) là hệ thống bảo mật của Xiaomi, tương tự iCloud của Apple hay Google Account. Khi đăng nhập Mi Account, tài khoản được liên kết với thiết bị.</p>
         
         <h3>1.1. FRP vs Mi Account</h3>
         <table class="comparison-table">
             <thead>
-                <tr><th>Lo?i kh�a</th><th>Nh� ph�t tri?n</th><th>Khi n�o xu?t hi?n</th></tr>
+                <tr><th>Loại khóa</th><th>Nhà phát triển</th><th>Khi nào xuất hiện</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>FRP (Google)</strong></td><td>Google</td><td>Sau reset, y�u c?u Google Account</td></tr>
-                <tr><td><strong>Mi Account</strong></td><td>Xiaomi</td><td>Sau reset ho?c khi b?t Find Device</td></tr>
+                <tr><td><strong>FRP (Google)</strong></td><td>Google</td><td>Sau reset, yêu cầu Google Account</td></tr>
+                <tr><td><strong>Mi Account</strong></td><td>Xiaomi</td><td>Sau reset hoặc khi bật Find Device</td></tr>
             </tbody>
         </table>
         
         <div class="info-box">
-            <h5><i class="fas fa-info me-2"></i>Luu �:</h5>
-            <p class="mb-0">�i?n tho?i Xiaomi c� th? y�u c?u x�c th?c <strong>c? FRP v� Mi Account</strong> sau reset. C?n x�a c? hai d? s? d?ng b�nh thu?ng.</p>
+            <h5><i class="fas fa-info me-2"></i>Lưu ý:</h5>
+            <p class="mb-0">Điện thoại Xiaomi có thể yêu cầu xác thực <strong>cả FRP và Mi Account</strong> sau reset. Cần xóa cả hai để sử dụng bình thường.</p>
         </div>
         
-        <h2 id="model"><i class="fas fa-list-alt me-2"></i>2. C�c Model H? Tr?</h2>
+        <h2 id="model"><i class="fas fa-list-alt me-2"></i>2. Các Model Hỗ Trợ</h2>
         
         <div class="series-card">
             <h5><i class="fas fa-star text-warning me-2"></i>Xiaomi Flagship</h5>
@@ -202,7 +232,7 @@ $canonical_url = "https://www.unlocktool.us/articles/75-xiaomi-full-model.php";
                 <li><strong>Redmi Note 12:</strong> Note 12 Pro+ 5G, Note 12 Pro 5G, Note 12 Pro, Note 12 5G, Note 12, Note 12S</li>
                 <li><strong>Redmi Note 11:</strong> Note 11 Pro+ 5G, Note 11 Pro 5G, Note 11 Pro, Note 11S 5G, Note 11S, Note 11</li>
                 <li><strong>Redmi Note 10:</strong> Note 10 Pro, Note 10S, Note 10 5G, Note 10</li>
-                <li><strong>Redmi s?:</strong> Redmi 14C, 13C, 12C, 12, A3, A2+, A2, A1+</li>
+                <li><strong>Redmi số:</strong> Redmi 14C, 13C, 12C, 12, A3, A2+, A2, A1+</li>
             </ul>
         </div>
         
@@ -225,17 +255,17 @@ $canonical_url = "https://www.unlocktool.us/articles/75-xiaomi-full-model.php";
             </ul>
         </div>
         
-        <h2 id="phuong-phap"><i class="fas fa-cogs me-2"></i>3. Phuong Ph�p X�a Mi Account</h2>
+        <h2 id="phuong-phap"><i class="fas fa-cogs me-2"></i>3. Phương Pháp Xóa Mi Account</h2>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Phuong ph�p</th><th>Chip</th><th>Y�u c?u</th><th>�? kh�</th></tr>
+                <tr><th>Phương pháp</th><th>Chip</th><th>Yêu cầu</th><th>Độ khó</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>EDL Mode</strong></td><td>Qualcomm</td><td>V�o EDL 9008</td><td>Trung b�nh</td></tr>
-                <tr><td><strong>BROM Mode</strong></td><td>MediaTek</td><td>V�o BROM Mode</td><td>Trung b�nh</td></tr>
-                <tr><td><strong>Fastboot + Auth</strong></td><td>C? hai</td><td>Authorized account</td><td>D?</td></tr>
-                <tr><td><strong>Test Point</strong></td><td>C? hai</td><td>Th�o m�y</td><td>Kh�</td></tr>
+                <tr><td><strong>EDL Mode</strong></td><td>Qualcomm</td><td>Vào EDL 9008</td><td>Trung bình</td></tr>
+                <tr><td><strong>BROM Mode</strong></td><td>MediaTek</td><td>Vào BROM Mode</td><td>Trung bình</td></tr>
+                <tr><td><strong>Fastboot + Auth</strong></td><td>Cả hai</td><td>Authorized account</td><td>Dễ</td></tr>
+                <tr><td><strong>Test Point</strong></td><td>Cả hai</td><td>Tháo máy</td><td>Khó</td></tr>
             </tbody>
         </table>
         
@@ -244,101 +274,101 @@ $canonical_url = "https://www.unlocktool.us/articles/75-xiaomi-full-model.php";
         <h3>4.1. EDL Mode (Qualcomm)</h3>
         <ul>
             <li><strong>Chip:</strong> Qualcomm Snapdragon (6XX, 7XX, 8XX)</li>
-            <li><strong>T�n:</strong> 9008 ho?c HS-USB QDLoader</li>
-            <li><strong>C�ch v�o:</strong> Vol Up + Vol Down + Power, ho?c test point</li>
-            <li><strong>Xiaomi m?i:</strong> C?n <strong>authorized account</strong> d? m? EDL</li>
+            <li><strong>Tên:</strong> 9008 hoặc HS-USB QDLoader</li>
+            <li><strong>Cách vào:</strong> Vol Up + Vol Down + Power, hoặc test point</li>
+            <li><strong>Xiaomi mới:</strong> Cần <strong>authorized account</strong> để mở EDL</li>
         </ul>
         
         <h3>4.2. BROM Mode (MediaTek)</h3>
         <ul>
             <li><strong>Chip:</strong> MediaTek Dimensity, Helio</li>
-            <li><strong>T�n:</strong> MTK Preloader</li>
-            <li><strong>C�ch v�o:</strong> Vol Up ho?c Vol Down + c?m USB</li>
-            <li><strong>Luu �:</strong> M?t s? model c?n bypass auth</li>
+            <li><strong>Tên:</strong> MTK Preloader</li>
+            <li><strong>Cách vào:</strong> Vol Up hoặc Vol Down + cắm USB</li>
+            <li><strong>Lưu ý:</strong> Một số model cần bypass auth</li>
         </ul>
         
         <div class="warning-box">
-            <h5><i class="fas fa-exclamation-triangle me-2"></i>Xiaomi kh�a EDL:</h5>
-            <p class="mb-0">Xiaomi t? 2020 tr? l�n d� kh�a EDL Mode. C?n <strong>authorized Mi account</strong> d? m? kh�a tru?c khi flash. UnlockTool c� t�nh nang n�y. N?u kh�ng t? l�m du?c, li�n h? <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>.</p>
+            <h5><i class="fas fa-exclamation-triangle me-2"></i>Xiaomi khóa EDL:</h5>
+            <p class="mb-0">Xiaomi từ 2020 trở lên đã khóa EDL Mode. Cần <strong>authorized Mi account</strong> để mở khóa trước khi flash. UnlockTool có tính năng này. Nếu không tự làm được, liên hệ <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>.</p>
         </div>
         
-        <h2 id="huong-dan"><i class="fas fa-play-circle me-2"></i>5. Hu?ng D?n X�a Mi Account</h2>
+        <h2 id="huong-dan"><i class="fas fa-play-circle me-2"></i>5. Hướng Dẫn Xóa Mi Account</h2>
         
-        <h3>5.1. Chu?n b?</h3>
+        <h3>5.1. Chuẩn bị</h3>
         <ul>
             <li>PC Windows 7/10/11</li>
-            <li>Qualcomm 9008 Driver ho?c MTK Driver</li>
-            <li>C�p USB t?t</li>
-            <li>UnlockTool (thu� t?i UnlockTool.us)</li>
+            <li>Qualcomm 9008 Driver hoặc MTK Driver</li>
+            <li>Cáp USB tốt</li>
+            <li>UnlockTool (thuê tại UnlockTool.us)</li>
         </ul>
         
-        <h3>5.2. V�o EDL Mode (Qualcomm)</h3>
+        <h3>5.2. Vào EDL Mode (Qualcomm)</h3>
         <ol>
-            <li>T?t m�y ho�n to�n</li>
-            <li>Gi? <strong>Vol Up + Vol Down</strong></li>
-            <li>C?m USB v�o PC (v?n gi? n�t)</li>
-            <li>Device Manager hi?n "Qualcomm 9008"</li>
+            <li>Tắt máy hoàn toàn</li>
+            <li>Giữ <strong>Vol Up + Vol Down</strong></li>
+            <li>Cắm USB vào PC (vẫn giữ nút)</li>
+            <li>Device Manager hiện "Qualcomm 9008"</li>
         </ol>
         
-        <h3>5.3. V�o BROM Mode (MediaTek)</h3>
+        <h3>5.3. Vào BROM Mode (MediaTek)</h3>
         <ol>
-            <li>T?t m�y ho�n to�n</li>
-            <li>Gi? <strong>Vol Up</strong> ho?c <strong>Vol Down</strong></li>
-            <li>C?m USB v�o PC</li>
-            <li>Device Manager hi?n "MTK Preloader"</li>
+            <li>Tắt máy hoàn toàn</li>
+            <li>Giữ <strong>Vol Up</strong> hoặc <strong>Vol Down</strong></li>
+            <li>Cắm USB vào PC</li>
+            <li>Device Manager hiện "MTK Preloader"</li>
         </ol>
         
-        <h3>5.4. X�a v?i UnlockTool</h3>
+        <h3>5.4. Xóa với UnlockTool</h3>
         <ol>
-            <li>M? UnlockTool ? Tab <strong>Xiaomi</strong></li>
-            <li>Ch?n d�ng model di?n tho?i</li>
-            <li>Ch?n <strong>Remove Mi Account</strong> ho?c <strong>FRP Remove</strong></li>
-            <li>Click <strong>Start</strong> ? �?i 5-15 ph�t</li>
-            <li>Ho�n t?t, restart m�y</li>
+            <li>Mở UnlockTool → Tab <strong>Xiaomi</strong></li>
+            <li>Chọn đúng model điện thoại</li>
+            <li>Chọn <strong>Remove Mi Account</strong> hoặc <strong>FRP Remove</strong></li>
+            <li>Click <strong>Start</strong> → Đợi 5-15 phút</li>
+            <li>Hoàn tất, restart máy</li>
         </ol>
         
         <div class="tip-box">
-            <h5><i class="fas fa-lightbulb me-2"></i>M?o:</h5>
-            <p class="mb-0">N?u kh�ng v�o du?c EDL/BROM b?ng ph�m, c� th? c?n <strong>test point</strong>. Xem so d? testpoint t?i b�i <a href="/testpoints/">Testpoint Collection</a>.</p>
+            <h5><i class="fas fa-lightbulb me-2"></i>Mẹo:</h5>
+            <p class="mb-0">Nếu không vào được EDL/BROM bằng phím, có thể cần <strong>test point</strong>. Xem sơ đồ testpoint tại bài <a href="/testpoints/">Testpoint Collection</a>.</p>
         </div>
         
         <h2 id="faq"><i class="fas fa-comments me-2"></i>6. FAQ</h2>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>X�a Mi Account c� m?t d? li?u kh�ng?</h5>
-            <p><strong>C�.</strong> Qu� tr�nh x�a Mi Account s? factory reset, x�a to�n b? d? li?u. Backup tru?c n?u c� th?.</p>
+            <h5><i class="fas fa-question me-2"></i>Xóa Mi Account có mất dữ liệu không?</h5>
+            <p><strong>Có.</strong> Quá trình xóa Mi Account sẽ factory reset, xóa toàn bộ dữ liệu. Backup trước nếu có thể.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Xiaomi HyperOS c� x�a du?c kh�ng?</h5>
-            <p><strong>�u?c.</strong> UnlockTool h? tr? HyperOS v� MIUI. Quan tr?ng l� v�o du?c EDL ho?c BROM Mode.</p>
+            <h5><i class="fas fa-question me-2"></i>Xiaomi HyperOS có xóa được không?</h5>
+            <p><strong>Được.</strong> UnlockTool hỗ trợ HyperOS và MIUI. Quan trọng là vào được EDL hoặc BROM Mode.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Xiaomi chip MediaTek x�a nhu th? n�o?</h5>
-            <p>D�ng <strong>BROM Mode</strong> thay v� EDL. UnlockTool v� SP Flash Tool d?u h? tr? MTK.</p>
+            <h5><i class="fas fa-question me-2"></i>Xiaomi chip MediaTek xóa như thế nào?</h5>
+            <p>Dùng <strong>BROM Mode</strong> thay vì EDL. UnlockTool và SP Flash Tool đều hỗ trợ MTK.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>kh�ng v�o du?c EDL Mode?</h5>
-            <p>Xiaomi m?i c?n <strong>authorized account</strong>. UnlockTool c� t�nh nang authorize. Ho?c d�ng <strong>test point</strong> (c?n th�o m�y).</p>
+            <h5><i class="fas fa-question me-2"></i>không vào được EDL Mode?</h5>
+            <p>Xiaomi mới cần <strong>authorized account</strong>. UnlockTool có tính năng authorize. Hoặc dùng <strong>test point</strong> (cần tháo máy).</p>
         </div>
         
         <div class="price-box">
-            <h3><i class="fas fa-unlock me-2"></i>X�a Mi Account / FRP Xiaomi</h3>
+            <h3><i class="fas fa-unlock me-2"></i>Xóa Mi Account / FRP Xiaomi</h3>
             <p>Xiaomi | Redmi | POCO | HyperOS | MIUI</p>
-            <p class="display-5 fw-bold">8.000d / 6H</p>
-            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg me-2"><i class="fas fa-bolt me-2"></i>Thu� Tool</a>
-            <a href="https://thuetaikhoan.net" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>D?ch V? 50K</a>
+            <p class="display-5 fw-bold">8.000đ / 6H</p>
+            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg me-2"><i class="fas fa-bolt me-2"></i>Thuê Tool</a>
+            <a href="https://thuetaikhoan.net" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>Dịch Vụ 50K</a>
         </div>
         
-        <h2><i class="fas fa-link me-2"></i>B�i vi?t li�n quan</h2>
+        <h2><i class="fas fa-link me-2"></i>Bài viết liên quan</h2>
         <ul>
             <li><a href="135-flash-xiaomi-mi-flash.php">Flash Xiaomi Mi Flash Tool</a></li>
             <li><a href="151-firmware-xiaomi-download.php">Firmware Xiaomi Download</a></li>
             <li><a href="64-qualcomm-edl-mode.php">Qualcomm EDL Mode</a></li>
             <li><a href="63-mediatek-frp.php">MediaTek FRP Bypass</a></li>
-            <li><a href="71-driver-dien-thoai.php">Driver di?n tho?i</a></li>
+            <li><a href="71-driver-dien-thoai.php">Driver điện thoại</a></li>
         </ul>
         
     </div>
@@ -351,7 +381,7 @@ $canonical_url = "https://www.unlocktool.us/articles/75-xiaomi-full-model.php";
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -365,13 +395,13 @@ $canonical_url = "https://www.unlocktool.us/articles/75-xiaomi-full-model.php";
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -379,15 +409,15 @@ $canonical_url = "https://www.unlocktool.us/articles/75-xiaomi-full-model.php";
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -400,7 +430,7 @@ $canonical_url = "https://www.unlocktool.us/articles/75-xiaomi-full-model.php";
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -408,8 +438,8 @@ $canonical_url = "https://www.unlocktool.us/articles/75-xiaomi-full-model.php";
 </div>
 <footer class="bg-dark text-white py-4 text-center">
     <div class="container">
-        <p class="mb-2">&copy; 2026 UnlockTool.us - D?ch v? cho thu� UnlockTool uy t�n #1 Vi?t Nam</p>
-        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thu� UnlockTool 8K</a> | <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+        <p class="mb-2">&copy; 2026 UnlockTool.us - Dịch vụ cho thuê UnlockTool uy tín #1 Việt Nam</p>
+        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thuê UnlockTool 8K</a> | <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
     </div>
 </footer>
 

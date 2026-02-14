@@ -1,7 +1,7 @@
-<?php
-$page_title = "Bypass iCloud iPhone 7/7 Plus 2026 - Hu?ng D?n Chi Ti?t T? A-Z | Thu� Tool 8K/6H";
-$page_description = "Hu?ng d?n bypass iCloud iPhone 7 v� 7 Plus chi ti?t nh?t 2026. Chip A10 Fusion h? tr? checkm8, bypass d? d�ng b?ng UnlockTool, iRemoval Pro. Thu� tool 8.000d/6h t?i UnlockTool.us";
-$page_keywords = "bypass icloud iphone 7, bypass icloud iphone 7 plus, m? kh�a icloud iphone 7, unlock iphone 7 icloud, checkm8 iphone 7, iphone 7 activation lock bypass 2026";
+﻿<?php
+$page_title = "Bypass iCloud iPhone 7/7 Plus 2026 - Hướng Dẫn Chi Tiết Từ A-Z | Thuê Tool 8K/6H";
+$page_description = "Hướng dẫn bypass iCloud iPhone 7 và 7 Plus chi tiết nhất 2026. Chip A10 Fusion hỗ trợ checkm8, bypass dễ dàng bằng UnlockTool, iRemoval Pro. Thuê tool 8.000đ/6h tại UnlockTool.us";
+$page_keywords = "bypass icloud iphone 7, bypass icloud iphone 7 plus, mở khóa icloud iphone 7, unlock iphone 7 icloud, checkm8 iphone 7, iphone 7 activation lock bypass 2026";
 $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.php";
 ?>
 <!DOCTYPE html>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">">
     
@@ -31,34 +31,34 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
     {"@context":"https://schema.org","@type":"Article","headline":"<?php echo $page_title; ?>","description":"<?php echo $page_description; ?>","author":{"@type":"Organization","name":"UnlockTool.us"},"publisher":{"@type":"Organization","name":"UnlockTool.us"},"datePublished":"2026-01-26","dateModified":"2026-01-26"}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"HowTo","name":"Bypass iCloud iPhone 7/7 Plus","description":"Hu?ng d?n chi ti?t bypass iCloud iPhone 7 v� 7 Plus b?ng UnlockTool","totalTime":"PT15M","estimatedCost":{"@type":"MonetaryAmount","currency":"VND","value":"8000"},"step":[
-        {"@type":"HowToStep","position":1,"name":"C�i d?t iTunes","text":"T?i v� c�i iTunes t? Apple d? c� driver Apple Mobile Device","url":"https://www.apple.com/itunes/"},
-        {"@type":"HowToStep","position":2,"name":"T?i UnlockTool","text":"T?i ph?n m?m UnlockTool t? file.unlocktool.net v� gi?i n�n","url":"https://file.unlocktool.net/page/index.php"},
-        {"@type":"HowToStep","position":3,"name":"Thu� t�i kho?n","text":"Thu� t�i kho?n UnlockTool 8.000d/6 ti?ng t?i UnlockTool.us","url":"https://www.unlocktool.us/"},
-        {"@type":"HowToStep","position":4,"name":"V�o DFU Mode","text":"�ua iPhone 7 v�o DFU Mode: T?t ngu?n, gi? Side + Vol Down 10 gi�y, th? Side gi? Vol Down"},
-        {"@type":"HowToStep","position":5,"name":"K?t n?i m�y t�nh","text":"K?t n?i iPhone 7 v?i m�y t�nh qua c�p Lightning ch�nh h�ng"},
-        {"@type":"HowToStep","position":6,"name":"M? UnlockTool","text":"Ch?y UnlockTool v?i quy?n Administrator v� dang nh?p t�i kho?n"},
-        {"@type":"HowToStep","position":7,"name":"Ch?n iPhone","text":"Trong UnlockTool, ch?n tab iPhone, tool s? t? nh?n m�y ? DFU Mode"},
-        {"@type":"HowToStep","position":8,"name":"Hello Bypass","text":"Ch?n Hello Bypass v� nh?n Start"},
-        {"@type":"HowToStep","position":9,"name":"Ho�n t?t","text":"Ch? 5-10 ph�t, iPhone 7 kh?i d?ng l?i v� bypass th�nh c�ng"}
+    {"@context":"https://schema.org","@type":"HowTo","name":"Bypass iCloud iPhone 7/7 Plus","description":"Hướng dẫn chi tiết bypass iCloud iPhone 7 và 7 Plus bằng UnlockTool","totalTime":"PT15M","estimatedCost":{"@type":"MonetaryAmount","currency":"VND","value":"8000"},"step":[
+        {"@type":"HowToStep","position":1,"name":"Cài đặt iTunes","text":"Tải và cài iTunes từ Apple để có driver Apple Mobile Device","url":"https://www.apple.com/itunes/"},
+        {"@type":"HowToStep","position":2,"name":"Tải UnlockTool","text":"Tải phần mềm UnlockTool từ file.unlocktool.net và giải nén","url":"https://file.unlocktool.net/page/index.php"},
+        {"@type":"HowToStep","position":3,"name":"Thuê tài khoản","text":"Thuê tài khoản UnlockTool 8.000đ/6 tiếng tại UnlockTool.us","url":"https://www.unlocktool.us/"},
+        {"@type":"HowToStep","position":4,"name":"Vào DFU Mode","text":"Đưa iPhone 7 vào DFU Mode: Tắt nguồn, giữ Side + Vol Down 10 giây, thả Side giữ Vol Down"},
+        {"@type":"HowToStep","position":5,"name":"Kết nối máy tính","text":"Kết nối iPhone 7 với máy tính qua cáp Lightning chính hãng"},
+        {"@type":"HowToStep","position":6,"name":"Mở UnlockTool","text":"Chạy UnlockTool với quyền Administrator và đăng nhập tài khoản"},
+        {"@type":"HowToStep","position":7,"name":"Chọn iPhone","text":"Trong UnlockTool, chọn tab iPhone, tool sẽ tự nhận máy ở DFU Mode"},
+        {"@type":"HowToStep","position":8,"name":"Hello Bypass","text":"Chọn Hello Bypass và nhấn Start"},
+        {"@type":"HowToStep","position":9,"name":"Hoàn tất","text":"Chờ 5-10 phút, iPhone 7 khởi động lại và bypass thành công"}
     ],"tool":[
         {"@type":"HowToTool","name":"UnlockTool"},
         {"@type":"HowToTool","name":"iTunes"},
-        {"@type":"HowToTool","name":"C�p Lightning ch�nh h�ng"}
+        {"@type":"HowToTool","name":"Cáp Lightning chính hãng"}
     ],"supply":[
-        {"@type":"HowToSupply","name":"M�y t�nh Windows 7/8/10/11"},
-        {"@type":"HowToSupply","name":"iPhone 7 ho?c 7 Plus v?i pin tr�n 30%"},
-        {"@type":"HowToSupply","name":"K?t n?i Internet ?n d?nh"}
+        {"@type":"HowToSupply","name":"Máy tính Windows 7/8/10/11"},
+        {"@type":"HowToSupply","name":"iPhone 7 hoặc 7 Plus với pin trên 30%"},
+        {"@type":"HowToSupply","name":"Kết nối Internet ổn định"}
     ]}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"iPhone 7 bypass iCloud du?c kh�ng?","acceptedAnswer":{"@type":"Answer","text":"C�, iPhone 7 v� 7 Plus s? d?ng chip A10 Fusion c� l? h?ng checkm8, ho�n to�n c� th? bypass iCloud b?ng UnlockTool ho?c iRemoval Pro v?i gi� ch? 8.000d/6 ti?ng t?i UnlockTool.us."}},
-        {"@type":"Question","name":"Bypass iCloud iPhone 7 m?t bao l�u?","acceptedAnswer":{"@type":"Answer","text":"Bypass iCloud iPhone 7/7 Plus ch? m?t kho?ng 5-10 ph�t cho qu� tr�nh bypass. T?ng th?i gian bao g?m chu?n b? kho?ng 15-20 ph�t."}},
-        {"@type":"Question","name":"Gi� bypass iCloud iPhone 7 bao nhi�u?","acceptedAnswer":{"@type":"Answer","text":"T? l�m: thu� tool 8.000d/6 ti?ng t?i UnlockTool.us. D?ch v? l�m h?: t? 50.000d t?i Thuetaikhoan.net v?i cam k?t th�nh c�ng ho?c ho�n ti?n."}},
-        {"@type":"Question","name":"C�ch v�o DFU Mode iPhone 7 kh�c iPhone 6s nhu th? n�o?","acceptedAnswer":{"@type":"Answer","text":"iPhone 7 s? d?ng n�t Home c?m ?ng thay v� v?t l�, n�n c�ch v�o DFU kh�c: Gi? Side + Vol Down (thay v� Side + Home nhu iPhone 6s tr? xu?ng)."}},
-        {"@type":"Question","name":"Bypass iCloud iPhone 7 c� m?t d? li?u kh�ng?","acceptedAnswer":{"@type":"Answer","text":"Bypass iCloud thu?ng m?t d? li?u v� c?n jailbreak v� can thi?p h? th?ng. N?u c� th? truy c?p m�y tru?c, h�y backup d? li?u quan tr?ng."}},
-        {"@type":"Question","name":"iPhone 7 Plus bypass kh�c g� iPhone 7?","acceptedAnswer":{"@type":"Answer","text":"Kh�ng c� g� kh�c bi?t. C? iPhone 7 v� 7 Plus d?u d�ng chip A10 Fusion, c�ch bypass ho�n to�n gi?ng nhau."}}
+        {"@type":"Question","name":"iPhone 7 bypass iCloud được không?","acceptedAnswer":{"@type":"Answer","text":"Có, iPhone 7 và 7 Plus sử dụng chip A10 Fusion có lỗ hổng checkm8, hoàn toàn có thể bypass iCloud bằng UnlockTool hoặc iRemoval Pro với giá chỉ 8.000đ/6 tiếng tại UnlockTool.us."}},
+        {"@type":"Question","name":"Bypass iCloud iPhone 7 mất bao lâu?","acceptedAnswer":{"@type":"Answer","text":"Bypass iCloud iPhone 7/7 Plus chỉ mất khoảng 5-10 phút cho quá trình bypass. Tổng thời gian bao gồm chuẩn bị khoảng 15-20 phút."}},
+        {"@type":"Question","name":"Giá bypass iCloud iPhone 7 bao nhiêu?","acceptedAnswer":{"@type":"Answer","text":"Tự làm: thuê tool 8.000đ/6 tiếng tại UnlockTool.us. Dịch vụ làm hộ: từ 50.000đ tại Thuetaikhoan.net với cam kết thành công hoặc hoàn tiền."}},
+        {"@type":"Question","name":"Cách vào DFU Mode iPhone 7 khác iPhone 6s như thế nào?","acceptedAnswer":{"@type":"Answer","text":"iPhone 7 sử dụng nút Home cảm ứng thay vì vật lý, nên cách vào DFU khác: Giữ Side + Vol Down (thay vì Side + Home như iPhone 6s trở xuống)."}},
+        {"@type":"Question","name":"Bypass iCloud iPhone 7 có mất dữ liệu không?","acceptedAnswer":{"@type":"Answer","text":"Bypass iCloud thường mất dữ liệu vì cần jailbreak và can thiệp hệ thống. Nếu có thể truy cập máy trước, hãy backup dữ liệu quan trọng."}},
+        {"@type":"Question","name":"iPhone 7 Plus bypass khác gì iPhone 7?","acceptedAnswer":{"@type":"Answer","text":"Không có gì khác biệt. Cả iPhone 7 và 7 Plus đều dùng chip A10 Fusion, cách bypass hoàn toàn giống nhau."}}
     ]}
     </script>
     
@@ -124,14 +124,44 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
         }
     }
     </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "UnlockTool.us",
+        "url": "https://www.unlocktool.us",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.unlocktool.us/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Dịch vụ mở khóa điện thoại",
+        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.9",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "79"
+        }
+    }
+    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -140,18 +170,18 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-8">
-                <span class="badge-support mb-3">H? TR? CHECKM8 - BYPASS 100%</span>
+                <span class="badge-support mb-3">HỖ TRỢ CHECKM8 - BYPASS 100%</span>
                 <h1><i class="fab fa-apple me-3"></i><?php echo $page_title; ?></h1>
-                <p class="lead mb-4">Hu?ng d?n d?y d? nh?t c�ch bypass iCloud tr�n iPhone 7 v� iPhone 7 Plus. Chip A10 Fusion h? tr? checkm8 - Bypass d? d�ng ch? v?i 8.000d/6 ti?ng!</p>
+                <p class="lead mb-4">Hướng dẫn đầy đủ nhất cách bypass iCloud trên iPhone 7 và iPhone 7 Plus. Chip A10 Fusion hỗ trợ checkm8 - Bypass dễ dàng chỉ với 8.000đ/6 tiếng!</p>
                 <div class="d-flex flex-wrap gap-3">
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thu� Tool 8K/6H</a>
-                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>D?ch V? L�m H?</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê Tool 8K/6H</a>
+                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>Dịch Vụ Làm Hộ</a>
                 </div>
             </div>
             <div class="col-lg-4 text-center mt-4 mt-lg-0">
                 <div class="bg-white bg-opacity-10 rounded-4 p-4">
                     <i class="fab fa-apple fa-5x mb-3"></i>
-                    <p class="mb-0 fw-bold">iPhone 7 / 7 Plus<br>Chip A10 Fusion - Checkm8 ?</p>
+                    <p class="mb-0 fw-bold">iPhone 7 / 7 Plus<br>Chip A10 Fusion - Checkm8 ✓</p>
                 </div>
             </div>
         </div>
@@ -162,70 +192,70 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
     <div class="row">
         <div class="col-lg-8">
             
-            <!-- M?c l?c -->
+            <!-- Mục lục -->
             <div class="toc-box">
-                <h4><i class="fas fa-list me-2"></i>M?c L?c B�i Vi?t</h4>
+                <h4><i class="fas fa-list me-2"></i>Mục Lục Bài Viết</h4>
                 <ul>
-                    <li><a href="#gioi-thieu">1. Gi?i thi?u iPhone 7 v� iPhone 7 Plus</a></li>
-                    <li><a href="#checkm8">2. Checkm8 v� kh? nang bypass iPhone 7</a></li>
-                    <li><a href="#bang-tuong-thich">3. B?ng tuong th�ch Model - iOS - Tool</a></li>
-                    <li><a href="#chuan-bi">4. Chu?n b? tru?c khi bypass iCloud</a></li>
-                    <li><a href="#dfu-mode">5. C�ch v�o DFU Mode tr�n iPhone 7/7 Plus (QUAN TR?NG)</a></li>
-                    <li><a href="#huong-dan-bypass">6. Hu?ng d?n bypass iCloud chi ti?t</a></li>
-                    <li><a href="#sau-bypass">7. Sau khi bypass th�nh c�ng</a></li>
-                    <li><a href="#so-sanh-tool">8. So s�nh c�c tool bypass iPhone 7</a></li>
-                    <li><a href="#loi-thuong-gap">9. L?i thu?ng g?p v� c�ch kh?c ph?c</a></li>
-                    <li><a href="#faq">10. C�u h?i thu?ng g?p (FAQ)</a></li>
+                    <li><a href="#gioi-thieu">1. Giới thiệu iPhone 7 và iPhone 7 Plus</a></li>
+                    <li><a href="#checkm8">2. Checkm8 và khả năng bypass iPhone 7</a></li>
+                    <li><a href="#bang-tuong-thich">3. Bảng tương thích Model - iOS - Tool</a></li>
+                    <li><a href="#chuan-bi">4. Chuẩn bị trước khi bypass iCloud</a></li>
+                    <li><a href="#dfu-mode">5. Cách vào DFU Mode trên iPhone 7/7 Plus (QUAN TRỌNG)</a></li>
+                    <li><a href="#huong-dan-bypass">6. Hướng dẫn bypass iCloud chi tiết</a></li>
+                    <li><a href="#sau-bypass">7. Sau khi bypass thành công</a></li>
+                    <li><a href="#so-sanh-tool">8. So sánh các tool bypass iPhone 7</a></li>
+                    <li><a href="#loi-thuong-gap">9. Lỗi thường gặp và cách khắc phục</a></li>
+                    <li><a href="#faq">10. Câu hỏi thường gặp (FAQ)</a></li>
                 </ul>
             </div>
 
-            <!-- Gi?i thi?u -->
+            <!-- Giới thiệu -->
             <section id="gioi-thieu">
-                <h2><i class="fab fa-apple me-2"></i>1. Gi?i Thi?u iPhone 7 v� iPhone 7 Plus</h2>
+                <h2><i class="fab fa-apple me-2"></i>1. Giới Thiệu iPhone 7 và iPhone 7 Plus</h2>
                 
-                <p><strong>iPhone 7</strong> v� <strong>iPhone 7 Plus</strong> ra m?t v�o th�ng 9/2016, d�nh d?u nhi?u thay d?i quan tr?ng trong thi?t k? iPhone. ��y l� th? h? d?u ti�n ch?ng nu?c IP67, b? jack tai nghe 3.5mm v� thay n�t Home v?t l� b?ng n�t Home c?m ?ng Taptic Engine.</p>
+                <p><strong>iPhone 7</strong> và <strong>iPhone 7 Plus</strong> ra mắt vào tháng 9/2016, đánh dấu nhiều thay đổi quan trọng trong thiết kế iPhone. Đây là thế hệ đầu tiên chống nước IP67, bỏ jack tai nghe 3.5mm và thay nút Home vật lý bằng nút Home cảm ứng Taptic Engine.</p>
 
-                <p>iPhone 7 Plus c�n du?c trang b? camera k�p l?n d?u ti�n tr�n iPhone, h? tr? ch? d? Portrait v?i kh? nang x�a ph�ng chuy�n nghi?p. M?c d� ra m?t d� g?n 10 nam, iPhone 7/7 Plus v?n l� l?a ch?n kinh t? v?i hi?u nang t?t v� d?c bi?t l� kh? nang bypass iCloud d? d�ng nh? l? h?ng checkm8.</p>
+                <p>iPhone 7 Plus còn được trang bị camera kép lần đầu tiên trên iPhone, hỗ trợ chế độ Portrait với khả năng xóa phông chuyên nghiệp. Mặc dù ra mắt đã gần 10 năm, iPhone 7/7 Plus vẫn là lựa chọn kinh tế với hiệu năng tốt và đặc biệt là khả năng bypass iCloud dễ dàng nhờ lỗ hổng checkm8.</p>
 
                 <div class="row mt-4">
                     <div class="col-md-6 mb-3">
                         <div class="model-card h-100">
                             <h5><i class="fas fa-mobile-alt me-2"></i>iPhone 7</h5>
-                            <p class="small mb-2">M�n h�nh 4.7" Retina HD</p>
-                            <p class="small mb-2">Camera 12MP don v?i OIS</p>
+                            <p class="small mb-2">Màn hình 4.7" Retina HD</p>
+                            <p class="small mb-2">Camera 12MP đơn với OIS</p>
                             <p class="small mb-0">RAM 2GB</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="model-card h-100">
                             <h5><i class="fas fa-mobile-alt me-2"></i>iPhone 7 Plus</h5>
-                            <p class="small mb-2">M�n h�nh 5.5" Retina HD</p>
-                            <p class="small mb-2">Camera 12MP k�p (Portrait Mode)</p>
+                            <p class="small mb-2">Màn hình 5.5" Retina HD</p>
+                            <p class="small mb-2">Camera 12MP kép (Portrait Mode)</p>
                             <p class="small mb-0">RAM 3GB</p>
                         </div>
                     </div>
                 </div>
 
-                <h3>Th�ng s? k? thu?t chi ti?t</h3>
+                <h3>Thông số kỹ thuật chi tiết</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Th�ng s?</th>
+                            <th>Thông số</th>
                             <th>iPhone 7</th>
                             <th>iPhone 7 Plus</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <td><strong>Ra m?t</strong></td>
-                            <td colspan="2">Th�ng 9/2016</td>
+                            <td><strong>Ra mắt</strong></td>
+                            <td colspan="2">Tháng 9/2016</td>
                         </tr>
                         <tr>
-                            <td><strong>Chip x? l�</strong></td>
-                            <td colspan="2">Apple A10 Fusion (16nm, 4 nh�n)</td>
+                            <td><strong>Chip xử lý</strong></td>
+                            <td colspan="2">Apple A10 Fusion (16nm, 4 nhân)</td>
                         </tr>
                         <tr>
-                            <td><strong>M�n h�nh</strong></td>
+                            <td><strong>Màn hình</strong></td>
                             <td>4.7" Retina HD (1334x750)</td>
                             <td>5.5" Retina HD (1920x1080)</td>
                         </tr>
@@ -235,16 +265,16 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
                             <td>3GB</td>
                         </tr>
                         <tr>
-                            <td><strong>B? nh?</strong></td>
+                            <td><strong>Bộ nhớ</strong></td>
                             <td colspan="2">32GB / 128GB / 256GB</td>
                         </tr>
                         <tr>
                             <td><strong>Camera sau</strong></td>
-                            <td>12MP don, OIS, f/1.8</td>
-                            <td>12MP k�p (Wide + Tele), OIS k�p</td>
+                            <td>12MP đơn, OIS, f/1.8</td>
+                            <td>12MP kép (Wide + Tele), OIS kép</td>
                         </tr>
                         <tr>
-                            <td><strong>Camera tru?c</strong></td>
+                            <td><strong>Camera trước</strong></td>
                             <td colspan="2">7MP</td>
                         </tr>
                         <tr>
@@ -253,54 +283,54 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
                             <td>2900mAh</td>
                         </tr>
                         <tr>
-                            <td><strong>Ch?ng nu?c</strong></td>
-                            <td colspan="2">IP67 (ng�m 1m trong 30 ph�t)</td>
+                            <td><strong>Chống nước</strong></td>
+                            <td colspan="2">IP67 (ngâm 1m trong 30 phút)</td>
                         </tr>
                         <tr>
-                            <td><strong>N�t Home</strong></td>
-                            <td colspan="2">C?m ?ng Taptic Engine (kh�ng v?t l�)</td>
+                            <td><strong>Nút Home</strong></td>
+                            <td colspan="2">Cảm ứng Taptic Engine (không vật lý)</td>
                         </tr>
                         <tr>
                             <td><strong>Jack 3.5mm</strong></td>
-                            <td colspan="2">Kh�ng (d�ng Lightning ho?c Bluetooth)</td>
+                            <td colspan="2">Không (dùng Lightning hoặc Bluetooth)</td>
                         </tr>
                         <tr>
-                            <td><strong>iOS h? tr?</strong></td>
-                            <td colspan="2">iOS 10 - iOS 15 (b?n cu?i)</td>
+                            <td><strong>iOS hỗ trợ</strong></td>
+                            <td colspan="2">iOS 10 - iOS 15 (bản cuối)</td>
                         </tr>
                         <tr>
                             <td><strong>Checkm8</strong></td>
-                            <td colspan="2" class="text-success fw-bold">? C� l? h?ng - Bypass du?c</td>
+                            <td colspan="2" class="text-success fw-bold">✓ Có lỗ hổng - Bypass được</td>
                         </tr>
                     </tbody>
                 </table>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-check-circle me-2"></i>Tin vui cho ngu?i d�ng iPhone 7!</h5>
-                    <p class="mb-0">iPhone 7 v� 7 Plus s? d?ng chip <strong>A10 Fusion</strong> c� l? h?ng <strong>checkm8</strong> trong bootrom. ��y l� l?i ph?n c?ng kh�ng th? v� b?ng c?p nh?t iOS, cho ph�p bypass iCloud d? d�ng v?i t? l? th�nh c�ng g?n nhu 100%. Gi� thu� tool ch? <strong>8.000d/6 ti?ng</strong> t?i UnlockTool.us!</p>
+                    <h5><i class="fas fa-check-circle me-2"></i>Tin vui cho người dùng iPhone 7!</h5>
+                    <p class="mb-0">iPhone 7 và 7 Plus sử dụng chip <strong>A10 Fusion</strong> có lỗ hổng <strong>checkm8</strong> trong bootrom. Đây là lỗi phần cứng không thể vá bằng cập nhật iOS, cho phép bypass iCloud dễ dàng với tỷ lệ thành công gần như 100%. Giá thuê tool chỉ <strong>8.000đ/6 tiếng</strong> tại UnlockTool.us!</p>
                 </div>
 
-                <h3>�i?m n?i b?t c?a iPhone 7/7 Plus</h3>
+                <h3>Điểm nổi bật của iPhone 7/7 Plus</h3>
                 <div class="row">
                     <div class="col-md-4 mb-3">
                         <div class="feature-card h-100 text-center">
                             <i class="fas fa-tint fa-3x text-primary mb-3"></i>
-                            <h5>Ch?ng nu?c IP67</h5>
-                            <p class="small mb-0">iPhone d?u ti�n ch?ng nu?c ch�nh th?c, an to�n khi s? d?ng du?i mua</p>
+                            <h5>Chống nước IP67</h5>
+                            <p class="small mb-0">iPhone đầu tiên chống nước chính thức, an toàn khi sử dụng dưới mưa</p>
                         </div>
                     </div>
                     <div class="col-md-4 mb-3">
                         <div class="feature-card h-100 text-center">
                             <i class="fas fa-camera fa-3x text-success mb-3"></i>
                             <h5>Camera Portrait</h5>
-                            <p class="small mb-0">iPhone 7 Plus c� camera k�p v?i ch? d? x�a ph�ng chuy�n nghi?p</p>
+                            <p class="small mb-0">iPhone 7 Plus có camera kép với chế độ xóa phông chuyên nghiệp</p>
                         </div>
                     </div>
                     <div class="col-md-4 mb-3">
                         <div class="feature-card h-100 text-center">
                             <i class="fas fa-volume-up fa-3x text-warning mb-3"></i>
                             <h5>Loa stereo</h5>
-                            <p class="small mb-0">iPhone d?u ti�n c� loa stereo, �m thanh s?ng d?ng hon</p>
+                            <p class="small mb-0">iPhone đầu tiên có loa stereo, âm thanh sống động hơn</p>
                         </div>
                     </div>
                 </div>
@@ -308,33 +338,33 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
 
             <!-- Checkm8 -->
             <section id="checkm8">
-                <h2><i class="fas fa-unlock me-2"></i>2. Checkm8 v� Kh? Nang Bypass iPhone 7</h2>
+                <h2><i class="fas fa-unlock me-2"></i>2. Checkm8 và Khả Năng Bypass iPhone 7</h2>
                 
-                <p><strong>Checkm8</strong> (d?c l� "checkmate" - chi?u h?t trong c? vua) l� l? h?ng b?o m?t trong bootrom c?a Apple du?c ph�t hi?n nam 2019. L? h?ng n�y ?nh hu?ng t?t c? thi?t b? Apple s? d?ng chip t? A5 d?n A11, bao g?m iPhone 7/7 Plus v?i chip A10 Fusion.</p>
+                <p><strong>Checkm8</strong> (đọc là "checkmate" - chiếu hết trong cờ vua) là lỗ hổng bảo mật trong bootrom của Apple được phát hiện năm 2019. Lỗ hổng này ảnh hưởng tất cả thiết bị Apple sử dụng chip từ A5 đến A11, bao gồm iPhone 7/7 Plus với chip A10 Fusion.</p>
 
-                <h3>T?i sao checkm8 quan tr?ng?</h3>
+                <h3>Tại sao checkm8 quan trọng?</h3>
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-microchip text-danger me-2"></i>L?i ph?n c?ng vinh vi?n</h5>
-                            <p class="small mb-0">Checkm8 l� l?i trong bootrom - ph?n m?m c? d?nh trong chip. Apple kh�ng th? v� b?ng c?p nh?t iOS. L?i n�y s? t?n t?i m�i m�i tr�n c�c thi?t b? b? ?nh hu?ng.</p>
+                            <h5><i class="fas fa-microchip text-danger me-2"></i>Lỗi phần cứng vĩnh viễn</h5>
+                            <p class="small mb-0">Checkm8 là lỗi trong bootrom - phần mềm cố định trong chip. Apple không thể vá bằng cập nhật iOS. Lỗi này sẽ tồn tại mãi mãi trên các thiết bị bị ảnh hưởng.</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
-                            <h5><i class="fas fa-unlock text-success me-2"></i>Bypass m?i b?o m?t</h5>
-                            <p class="small mb-0">T? exploit checkm8, c� th? jailbreak v� bypass c�c l?p b?o m?t nhu iCloud Activation Lock, Passcode Lock, MDM... tr�n iPhone 7.</p>
+                            <h5><i class="fas fa-unlock text-success me-2"></i>Bypass mọi bảo mật</h5>
+                            <p class="small mb-0">Từ exploit checkm8, có thể jailbreak và bypass các lớp bảo mật như iCloud Activation Lock, Passcode Lock, MDM... trên iPhone 7.</p>
                         </div>
                     </div>
                 </div>
 
-                <h3>C�c chip Apple b? ?nh hu?ng b?i checkm8:</h3>
+                <h3>Các chip Apple bị ảnh hưởng bởi checkm8:</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
                             <th>Chip</th>
                             <th>iPhone</th>
-                            <th>Nam</th>
+                            <th>Năm</th>
                             <th>Checkm8</th>
                         </tr>
                     </thead>
@@ -343,61 +373,61 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
                             <td>A7</td>
                             <td>iPhone 5s</td>
                             <td>2013</td>
-                            <td class="text-success">? C�</td>
+                            <td class="text-success">✓ Có</td>
                         </tr>
                         <tr>
                             <td>A8</td>
                             <td>iPhone 6, 6 Plus</td>
                             <td>2014</td>
-                            <td class="text-success">? C�</td>
+                            <td class="text-success">✓ Có</td>
                         </tr>
                         <tr>
                             <td>A9</td>
                             <td>iPhone 6s, 6s Plus, SE 1</td>
                             <td>2015</td>
-                            <td class="text-success">? C�</td>
+                            <td class="text-success">✓ Có</td>
                         </tr>
                         <tr class="table-warning">
                             <td><strong>A10 Fusion</strong></td>
                             <td><strong>iPhone 7, 7 Plus</strong></td>
                             <td>2016</td>
-                            <td class="text-success fw-bold">? C� - Bypass OK</td>
+                            <td class="text-success fw-bold">✓ Có - Bypass OK</td>
                         </tr>
                         <tr>
                             <td>A11 Bionic</td>
                             <td>iPhone 8, 8 Plus, X</td>
                             <td>2017</td>
-                            <td class="text-success">? C�</td>
+                            <td class="text-success">✓ Có</td>
                         </tr>
                         <tr>
                             <td>A12+</td>
-                            <td>iPhone XR, XS tr? l�n</td>
+                            <td>iPhone XR, XS trở lên</td>
                             <td>2018+</td>
-                            <td class="text-danger">? Kh�ng</td>
+                            <td class="text-danger">✗ Không</td>
                         </tr>
                     </tbody>
                 </table>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-info-circle me-2"></i>iPhone 7 bypass nhanh nh?t trong d�ng checkm8</h5>
-                    <p class="mb-0">V?i chip A10 Fusion v� iOS h? tr? t?i da l� iOS 15, iPhone 7/7 Plus l� m?t trong nh?ng model bypass nhanh v� ?n d?nh nh?t. Qu� tr�nh bypass ch? m?t 5-10 ph�t v?i t? l? th�nh c�ng c?c cao.</p>
+                    <h5><i class="fas fa-info-circle me-2"></i>iPhone 7 bypass nhanh nhất trong dòng checkm8</h5>
+                    <p class="mb-0">Với chip A10 Fusion và iOS hỗ trợ tối đa là iOS 15, iPhone 7/7 Plus là một trong những model bypass nhanh và ổn định nhất. Quá trình bypass chỉ mất 5-10 phút với tỷ lệ thành công cực cao.</p>
                 </div>
             </section>
 
-            <!-- B?ng tuong th�ch -->
+            <!-- Bảng tương thích -->
             <section id="bang-tuong-thich">
-                <h2><i class="fas fa-table me-2"></i>3. B?ng Tuong Th�ch Model - iOS - Tool</h2>
+                <h2><i class="fas fa-table me-2"></i>3. Bảng Tương Thích Model - iOS - Tool</h2>
                 
-                <p>Du?i d�y l� b?ng tuong th�ch chi ti?t gi?a c�c model iPhone 7, phi�n b?n iOS v� tool bypass:</p>
+                <p>Dưới đây là bảng tương thích chi tiết giữa các model iPhone 7, phiên bản iOS và tool bypass:</p>
 
                 <table class="table table-custom">
                     <thead>
                         <tr>
                             <th>Model</th>
                             <th>Model Number</th>
-                            <th>iOS h? tr?</th>
+                            <th>iOS hỗ trợ</th>
                             <th>Tool</th>
-                            <th>Phuong ph�p</th>
+                            <th>Phương pháp</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -405,34 +435,34 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
                             <td><strong>iPhone 7</strong></td>
                             <td>A1660, A1778, A1779</td>
                             <td>iOS 10 - 15.x</td>
-                            <td class="text-success">UnlockTool ?</td>
+                            <td class="text-success">UnlockTool ✓</td>
                             <td>DFU + Checkm8</td>
                         </tr>
                         <tr>
                             <td><strong>iPhone 7 Plus</strong></td>
                             <td>A1661, A1784, A1785</td>
                             <td>iOS 10 - 15.x</td>
-                            <td class="text-success">UnlockTool ?</td>
+                            <td class="text-success">UnlockTool ✓</td>
                             <td>DFU + Checkm8</td>
                         </tr>
                         <tr>
                             <td><strong>iPhone 7 (CDMA)</strong></td>
                             <td>A1660</td>
                             <td>iOS 10 - 15.x</td>
-                            <td class="text-success">UnlockTool ?</td>
+                            <td class="text-success">UnlockTool ✓</td>
                             <td>DFU + Checkm8</td>
                         </tr>
                         <tr>
                             <td><strong>iPhone 7 Plus (CDMA)</strong></td>
                             <td>A1661</td>
                             <td>iOS 10 - 15.x</td>
-                            <td class="text-success">UnlockTool ?</td>
+                            <td class="text-success">UnlockTool ✓</td>
                             <td>DFU + Checkm8</td>
                         </tr>
                     </tbody>
                 </table>
 
-                <h3>Tool bypass iPhone 7 du?c h? tr?:</h3>
+                <h3>Tool bypass iPhone 7 được hỗ trợ:</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
@@ -440,294 +470,294 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
                             <th>Hello Bypass</th>
                             <th>Passcode Bypass</th>
                             <th>Signal</th>
-                            <th>Gi� thu�</th>
+                            <th>Giá thuê</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td><strong>UnlockTool</strong></td>
-                            <td class="text-success">?</td>
-                            <td class="text-success">?</td>
-                            <td class="text-warning">T�y option</td>
-                            <td>8.000d/6h</td>
+                            <td class="text-success">✓</td>
+                            <td class="text-success">✓</td>
+                            <td class="text-warning">Tùy option</td>
+                            <td>8.000đ/6h</td>
                         </tr>
                         <tr>
                             <td><strong>iRemoval Pro</strong></td>
-                            <td class="text-success">?</td>
-                            <td class="text-success">?</td>
-                            <td class="text-success">?</td>
-                            <td>8.000d/6h</td>
+                            <td class="text-success">✓</td>
+                            <td class="text-success">✓</td>
+                            <td class="text-success">✓</td>
+                            <td>8.000đ/6h</td>
                         </tr>
                         <tr>
                             <td><strong>Checkra1n</strong></td>
-                            <td class="text-success">?</td>
-                            <td class="text-danger">?</td>
-                            <td class="text-danger">?</td>
-                            <td>Mi?n ph�</td>
+                            <td class="text-success">✓</td>
+                            <td class="text-danger">✗</td>
+                            <td class="text-danger">✗</td>
+                            <td>Miễn phí</td>
                         </tr>
                     </tbody>
                 </table>
             </section>
 
-            <!-- Chu?n b? -->
+            <!-- Chuẩn bị -->
             <section id="chuan-bi">
-                <h2><i class="fas fa-clipboard-check me-2"></i>4. Chu?n B? Tru?c Khi Bypass iCloud</h2>
+                <h2><i class="fas fa-clipboard-check me-2"></i>4. Chuẩn Bị Trước Khi Bypass iCloud</h2>
                 
-                <h3>4.1. Y�u c?u ph?n c?ng</h3>
+                <h3>4.1. Yêu cầu phần cứng</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Th�nh ph?n</th>
-                            <th>Y�u c?u</th>
-                            <th>Ghi ch�</th>
+                            <th>Thành phần</th>
+                            <th>Yêu cầu</th>
+                            <th>Ghi chú</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <td><strong>M�y t�nh</strong></td>
+                            <td><strong>Máy tính</strong></td>
                             <td>Windows 7/8/10/11</td>
-                            <td>64-bit khuy?n ngh?</td>
+                            <td>64-bit khuyến nghị</td>
                         </tr>
                         <tr>
-                            <td><strong>C�p Lightning</strong></td>
-                            <td>Ch�nh h�ng Apple ho?c MFi</td>
-                            <td>C�p fake g�y l?i k?t n?i</td>
+                            <td><strong>Cáp Lightning</strong></td>
+                            <td>Chính hãng Apple hoặc MFi</td>
+                            <td>Cáp fake gây lỗi kết nối</td>
                         </tr>
                         <tr>
                             <td><strong>iPhone 7/7 Plus</strong></td>
                             <td>Pin > 30%</td>
-                            <td>S?c d?y tru?c khi bypass</td>
+                            <td>Sạc đầy trước khi bypass</td>
                         </tr>
                         <tr>
                             <td><strong>Internet</strong></td>
-                            <td>?n d?nh</td>
-                            <td>C?n d? x�c th?c tool</td>
+                            <td>Ổn định</td>
+                            <td>Cần để xác thực tool</td>
                         </tr>
                     </tbody>
                 </table>
 
-                <h3>4.2. Ph?n m?m c?n c�i d?t</h3>
+                <h3>4.2. Phần mềm cần cài đặt</h3>
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-music text-primary me-2"></i>iTunes</h5>
-                            <p class="small">C?n c�i iTunes d? c� driver Apple Mobile Device.</p>
-                            <a href="https://www.apple.com/itunes/" target="_blank" class="btn btn-outline-primary btn-sm">T?i iTunes</a>
+                            <p class="small">Cần cài iTunes để có driver Apple Mobile Device.</p>
+                            <a href="https://www.apple.com/itunes/" target="_blank" class="btn btn-outline-primary btn-sm">Tải iTunes</a>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-tools text-success me-2"></i>UnlockTool</h5>
-                            <p class="small">Ph?n m?m bypass iCloud chuy�n d?ng.</p>
-                            <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-success btn-sm">T?i UnlockTool</a>
+                            <p class="small">Phần mềm bypass iCloud chuyên dụng.</p>
+                            <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-success btn-sm">Tải UnlockTool</a>
                         </div>
                     </div>
                 </div>
 
-                <h3>4.3. Thu� t�i kho?n UnlockTool</h3>
+                <h3>4.3. Thuê tài khoản UnlockTool</h3>
                 <div class="price-highlight">
-                    <h4><i class="fas fa-tag me-2"></i>Thu� Tool Bypass iCloud iPhone 7</h4>
-                    <p class="price">8.000d</p>
-                    <p class="h4">/ 6 ti?ng</p>
-                    <p class="mt-3">H? th?ng t? d?ng 24/7 - Nh?n ngay sau thanh to�n</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-shopping-cart me-2"></i>Thu� Ngay - UnlockTool.us</a>
+                    <h4><i class="fas fa-tag me-2"></i>Thuê Tool Bypass iCloud iPhone 7</h4>
+                    <p class="price">8.000đ</p>
+                    <p class="h4">/ 6 tiếng</p>
+                    <p class="mt-3">Hệ thống tự động 24/7 - Nhận ngay sau thanh toán</p>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-shopping-cart me-2"></i>Thuê Ngay - UnlockTool.us</a>
                 </div>
 
                 <div class="danger-box">
-                    <h5><i class="fas fa-shield-alt me-2"></i>Quan tr?ng - Ph?i l�m tru?c khi bypass</h5>
+                    <h5><i class="fas fa-shield-alt me-2"></i>Quan trọng - Phải làm trước khi bypass</h5>
                     <ul class="mb-0">
-                        <li><strong>T?t Windows Defender:</strong> Settings > Windows Security > Real-time protection > OFF</li>
-                        <li><strong>T?t antivirus:</strong> Kaspersky, Avast, Norton...</li>
-                        <li><strong>Ch?y Administrator:</strong> Chu?t ph?i UnlockTool.exe > Run as administrator</li>
+                        <li><strong>Tắt Windows Defender:</strong> Settings > Windows Security > Real-time protection > OFF</li>
+                        <li><strong>Tắt antivirus:</strong> Kaspersky, Avast, Norton...</li>
+                        <li><strong>Chạy Administrator:</strong> Chuột phải UnlockTool.exe > Run as administrator</li>
                     </ul>
                 </div>
             </section>
 
             <!-- DFU Mode -->
             <section id="dfu-mode">
-                <h2><i class="fas fa-mobile-alt me-2"></i>5. C�ch V�o DFU Mode Tr�n iPhone 7/7 Plus (QUAN TR?NG)</h2>
+                <h2><i class="fas fa-mobile-alt me-2"></i>5. Cách Vào DFU Mode Trên iPhone 7/7 Plus (QUAN TRỌNG)</h2>
                 
                 <div class="danger-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>LUU � R?T QUAN TR?NG</h5>
-                    <p class="mb-0">iPhone 7/7 Plus s? d?ng <strong>n�t Home c?m ?ng</strong> (kh�ng ph?i v?t l� nhu iPhone 6s), n�n c�ch v�o DFU <strong>KH�C HO�N TO�N</strong> v?i c�c d?i tru?c. S? d?ng <strong>Vol Down</strong> thay cho n�t Home!</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>LƯU Ý RẤT QUAN TRỌNG</h5>
+                    <p class="mb-0">iPhone 7/7 Plus sử dụng <strong>nút Home cảm ứng</strong> (không phải vật lý như iPhone 6s), nên cách vào DFU <strong>KHÁC HOÀN TOÀN</strong> với các đời trước. Sử dụng <strong>Vol Down</strong> thay cho nút Home!</p>
                 </div>
 
                 <div class="step-card">
-                    <h4><i class="fas fa-list-ol me-2"></i>C�c bu?c v�o DFU Mode iPhone 7/7 Plus:</h4>
+                    <h4><i class="fas fa-list-ol me-2"></i>Các bước vào DFU Mode iPhone 7/7 Plus:</h4>
                     <ol>
-                        <li><strong>K?t n?i iPhone 7 v?i m�y t�nh</strong> qua c�p Lightning</li>
-                        <li><strong>T?t ngu?n iPhone</strong> ho�n to�n (gi? Side > Slide to power off)</li>
-                        <li><strong>Gi? d?ng th?i Side (Power) + Vol Down</strong> trong <strong>10 gi�y</strong></li>
-                        <li><strong>Sau 10 gi�y</strong>, <strong>th? n�t Side</strong> nhung <strong>ti?p t?c gi? Vol Down</strong></li>
-                        <li><strong>Gi? Vol Down th�m 10 gi�y</strong></li>
-                        <li><strong>Ki?m tra k?t qu?:</strong>
+                        <li><strong>Kết nối iPhone 7 với máy tính</strong> qua cáp Lightning</li>
+                        <li><strong>Tắt nguồn iPhone</strong> hoàn toàn (giữ Side > Slide to power off)</li>
+                        <li><strong>Giữ đồng thời Side (Power) + Vol Down</strong> trong <strong>10 giây</strong></li>
+                        <li><strong>Sau 10 giây</strong>, <strong>thả nút Side</strong> nhưng <strong>tiếp tục giữ Vol Down</strong></li>
+                        <li><strong>Giữ Vol Down thêm 10 giây</strong></li>
+                        <li><strong>Kiểm tra kết quả:</strong>
                             <ul>
-                                <li>M�n h�nh iPhone den ho�n to�n = DFU Mode OK ?</li>
-                                <li>N?u th?y logo Apple = Gi? Side qu� l�u, th? l?i</li>
-                                <li>N?u th?y "Connect to iTunes" = Recovery Mode, th? l?i</li>
+                                <li>Màn hình iPhone đen hoàn toàn = DFU Mode OK ✓</li>
+                                <li>Nếu thấy logo Apple = Giữ Side quá lâu, thử lại</li>
+                                <li>Nếu thấy "Connect to iTunes" = Recovery Mode, thử lại</li>
                             </ul>
                         </li>
-                        <li><strong>UnlockTool hi?n:</strong> "DFU Mode detected" ho?c "PWNED DFU" = Th�nh c�ng!</li>
+                        <li><strong>UnlockTool hiện:</strong> "DFU Mode detected" hoặc "PWNED DFU" = Thành công!</li>
                     </ol>
                 </div>
 
-                <h3>So s�nh c�ch v�o DFU: iPhone 7 vs iPhone 6s</h3>
+                <h3>So sánh cách vào DFU: iPhone 7 vs iPhone 6s</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Bu?c</th>
+                            <th>Bước</th>
                             <th>iPhone 7/7 Plus</th>
-                            <th>iPhone 6s tr? xu?ng</th>
+                            <th>iPhone 6s trở xuống</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <td><strong>T? h?p ph�m</strong></td>
+                            <td><strong>Tổ hợp phím</strong></td>
                             <td class="text-primary fw-bold">Side + Vol Down</td>
                             <td>Side + Home</td>
                         </tr>
                         <tr>
-                            <td><strong>Gi? 10 gi�y d?u</strong></td>
+                            <td><strong>Giữ 10 giây đầu</strong></td>
                             <td>Side + Vol Down</td>
                             <td>Side + Home</td>
                         </tr>
                         <tr>
-                            <td><strong>Th? v� gi? ti?p</strong></td>
-                            <td>Th? Side, gi? Vol Down</td>
-                            <td>Th? Side, gi? Home</td>
+                            <td><strong>Thả và giữ tiếp</strong></td>
+                            <td>Thả Side, giữ Vol Down</td>
+                            <td>Thả Side, giữ Home</td>
                         </tr>
                         <tr>
-                            <td><strong>L� do</strong></td>
-                            <td>N�t Home c?m ?ng Taptic</td>
-                            <td>N�t Home v?t l�</td>
+                            <td><strong>Lý do</strong></td>
+                            <td>Nút Home cảm ứng Taptic</td>
+                            <td>Nút Home vật lý</td>
                         </tr>
                     </tbody>
                 </table>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-lightbulb me-2"></i>M?o v�o DFU th�nh c�ng</h5>
+                    <h5><i class="fas fa-lightbulb me-2"></i>Mẹo vào DFU thành công</h5>
                     <ul class="mb-0">
-                        <li>S? d?ng d?ng h? b?m gi? d? d?m ch�nh x�c 10 gi�y</li>
-                        <li>Th? n�t Side d�ng th?i di?m, kh�ng s?m kh�ng mu?n</li>
-                        <li>N?u th?t b?i, th? c�p Lightning kh�c</li>
-                        <li>Th? c?ng USB 2.0 thay v� USB 3.0</li>
+                        <li>Sử dụng đồng hồ bấm giờ để đếm chính xác 10 giây</li>
+                        <li>Thả nút Side đúng thời điểm, không sớm không muộn</li>
+                        <li>Nếu thất bại, thử cáp Lightning khác</li>
+                        <li>Thử cổng USB 2.0 thay vì USB 3.0</li>
                     </ul>
                 </div>
 
-                <h3>Tho�t DFU Mode:</h3>
-                <p>N?u mu?n tho�t DFU m� kh�ng bypass, gi? d?ng th?i <strong>Vol Down + Side</strong> kho?ng 10-15 gi�y cho d?n khi logo Apple xu?t hi?n.</p>
+                <h3>Thoát DFU Mode:</h3>
+                <p>Nếu muốn thoát DFU mà không bypass, giữ đồng thời <strong>Vol Down + Side</strong> khoảng 10-15 giây cho đến khi logo Apple xuất hiện.</p>
             </section>
 
-            <!-- Hu?ng d?n bypass -->
+            <!-- Hướng dẫn bypass -->
             <section id="huong-dan-bypass">
-                <h2><i class="fas fa-unlock me-2"></i>6. Hu?ng D?n Bypass iCloud Chi Ti?t</h2>
+                <h2><i class="fas fa-unlock me-2"></i>6. Hướng Dẫn Bypass iCloud Chi Tiết</h2>
                 
                 <div class="step-card">
                     <div class="step-number">1</div>
-                    <h4>C�i d?t iTunes v� restart</h4>
+                    <h4>Cài đặt iTunes và restart</h4>
                     <ol>
-                        <li>T?i iTunes t? <a href="https://www.apple.com/itunes/" target="_blank">apple.com/itunes</a></li>
-                        <li>C�i d?t v?i quy?n Administrator</li>
-                        <li><strong>Kh?i d?ng l?i m�y t�nh</strong> sau khi c�i</li>
+                        <li>Tải iTunes từ <a href="https://www.apple.com/itunes/" target="_blank">apple.com/itunes</a></li>
+                        <li>Cài đặt với quyền Administrator</li>
+                        <li><strong>Khởi động lại máy tính</strong> sau khi cài</li>
                     </ol>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">2</div>
-                    <h4>T?i v� gi?i n�n UnlockTool</h4>
+                    <h4>Tải và giải nén UnlockTool</h4>
                     <ol>
-                        <li>T?i UnlockTool t? <a href="https://file.unlocktool.net/page/index.php" target="_blank">file.unlocktool.net</a></li>
-                        <li>Gi?i n�n v�o thu m?c don gi?n (D:\UnlockTool)</li>
+                        <li>Tải UnlockTool từ <a href="https://file.unlocktool.net/page/index.php" target="_blank">file.unlocktool.net</a></li>
+                        <li>Giải nén vào thư mục đơn giản (D:\UnlockTool)</li>
                     </ol>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">3</div>
-                    <h4>M? UnlockTool v� dang nh?p</h4>
+                    <h4>Mở UnlockTool và đăng nhập</h4>
                     <ol>
-                        <li>Chu?t ph?i UnlockTool.exe > Run as administrator</li>
-                        <li>Nh?p Username v� Password d� thu�</li>
-                        <li>Nh?n Login, ch? x�c th?c</li>
+                        <li>Chuột phải UnlockTool.exe > Run as administrator</li>
+                        <li>Nhập Username và Password đã thuê</li>
+                        <li>Nhấn Login, chờ xác thực</li>
                     </ol>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">4</div>
-                    <h4>�ua iPhone 7 v�o DFU Mode</h4>
+                    <h4>Đưa iPhone 7 vào DFU Mode</h4>
                     <ol>
-                        <li>K?t n?i iPhone 7 v?i m�y t�nh</li>
-                        <li>Th?c hi?n v�o DFU nhu hu?ng d?n ph?n 5</li>
-                        <li>UnlockTool s? t? nh?n v� hi?n th? th�ng tin</li>
+                        <li>Kết nối iPhone 7 với máy tính</li>
+                        <li>Thực hiện vào DFU như hướng dẫn phần 5</li>
+                        <li>UnlockTool sẽ tự nhận và hiển thị thông tin</li>
                     </ol>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">5</div>
-                    <h4>Th?c hi?n bypass</h4>
+                    <h4>Thực hiện bypass</h4>
                     <ol>
-                        <li>Trong UnlockTool, ch?n tab <strong>iPhone</strong></li>
-                        <li>Ch?n <strong>Hello Bypass</strong></li>
-                        <li>Nh?n <strong>Start</strong></li>
-                        <li>Ch? 5-10 ph�t (kh�ng r�t c�p)</li>
-                        <li>iPhone 7 t? kh?i d?ng l?i = <strong>Bypass th�nh c�ng!</strong></li>
+                        <li>Trong UnlockTool, chọn tab <strong>iPhone</strong></li>
+                        <li>Chọn <strong>Hello Bypass</strong></li>
+                        <li>Nhấn <strong>Start</strong></li>
+                        <li>Chờ 5-10 phút (không rút cáp)</li>
+                        <li>iPhone 7 tự khởi động lại = <strong>Bypass thành công!</strong></li>
                     </ol>
                 </div>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-check-circle me-2"></i>K?t qu? sau bypass</h5>
+                    <h5><i class="fas fa-check-circle me-2"></i>Kết quả sau bypass</h5>
                     <ul class="mb-0">
-                        <li>iPhone 7 v�o du?c m�n h�nh ch�nh</li>
-                        <li>Kh�ng c�n y�u c?u dang nh?p Apple ID cu</li>
-                        <li>C� th? dang nh?p Apple ID m?i</li>
+                        <li>iPhone 7 vào được màn hình chính</li>
+                        <li>Không còn yêu cầu đăng nhập Apple ID cũ</li>
+                        <li>Có thể đăng nhập Apple ID mới</li>
                     </ul>
                 </div>
             </section>
 
             <!-- Sau bypass -->
             <section id="sau-bypass">
-                <h2><i class="fas fa-cog me-2"></i>7. Sau Khi Bypass Th�nh C�ng</h2>
+                <h2><i class="fas fa-cog me-2"></i>7. Sau Khi Bypass Thành Công</h2>
                 
-                <h3>7.1. Nh?ng g� ho?t d?ng:</h3>
+                <h3>7.1. Những gì hoạt động:</h3>
                 <div class="row">
                     <div class="col-md-6">
                         <div class="feature-card">
-                            <h5 class="text-success"><i class="fas fa-check me-2"></i>Ho?t d?ng t?t</h5>
+                            <h5 class="text-success"><i class="fas fa-check me-2"></i>Hoạt động tốt</h5>
                             <ul class="small mb-0">
                                 <li>WiFi, Bluetooth</li>
-                                <li>Camera, ch?p ?nh, quay video 4K</li>
-                                <li>Touch ID (dang k� m?i)</li>
+                                <li>Camera, chụp ảnh, quay video 4K</li>
+                                <li>Touch ID (đăng ký mới)</li>
                                 <li>App Store</li>
                                 <li>Loa stereo</li>
-                                <li>Ch?ng nu?c IP67</li>
+                                <li>Chống nước IP67</li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="feature-card">
-                            <h5 class="text-warning"><i class="fas fa-exclamation-triangle me-2"></i>C� th? h?n ch?</h5>
+                            <h5 class="text-warning"><i class="fas fa-exclamation-triangle me-2"></i>Có thể hạn chế</h5>
                             <ul class="small mb-0">
-                                <li>SIM/Cellular (t�y phuong ph�p)</li>
+                                <li>SIM/Cellular (tùy phương pháp)</li>
                                 <li>iMessage/FaceTime</li>
-                                <li>Restore = c?n bypass l?i</li>
+                                <li>Restore = cần bypass lại</li>
                             </ul>
                         </div>
                     </div>
                 </div>
 
-                <h3>7.2. Mu?n Off iCloud vinh vi?n?</h3>
+                <h3>7.2. Muốn Off iCloud vĩnh viễn?</h3>
                 <div class="info-box">
-                    <p class="mb-0">Bypass l� t?m th?i. Mu?n Off iCloud vinh vi?n, s? d?ng d?ch v? <strong>Off iCloud Server</strong> t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>. Gi� Off iCloud iPhone 7/7 Plus t? 100.000d - 300.000d.</p>
+                    <p class="mb-0">Bypass là tạm thời. Muốn Off iCloud vĩnh viễn, sử dụng dịch vụ <strong>Off iCloud Server</strong> tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>. Giá Off iCloud iPhone 7/7 Plus từ 100.000đ - 300.000đ.</p>
                 </div>
             </section>
 
-            <!-- So s�nh tool -->
+            <!-- So sánh tool -->
             <section id="so-sanh-tool">
-                <h2><i class="fas fa-balance-scale me-2"></i>8. So S�nh C�c Tool Bypass iPhone 7</h2>
+                <h2><i class="fas fa-balance-scale me-2"></i>8. So Sánh Các Tool Bypass iPhone 7</h2>
                 
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Ti�u ch�</th>
+                            <th>Tiêu chí</th>
                             <th>UnlockTool</th>
                             <th>iRemoval Pro</th>
                             <th>Checkra1n</th>
@@ -735,65 +765,65 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
                     </thead>
                     <tbody>
                         <tr>
-                            <td><strong>H? di?u h�nh</strong></td>
+                            <td><strong>Hệ điều hành</strong></td>
                             <td>Windows</td>
                             <td>Windows</td>
                             <td>macOS/Linux</td>
                         </tr>
                         <tr>
-                            <td><strong>Gi�</strong></td>
-                            <td>8.000d/6h</td>
-                            <td>8.000d/6h</td>
-                            <td>Mi?n ph�</td>
+                            <td><strong>Giá</strong></td>
+                            <td>8.000đ/6h</td>
+                            <td>8.000đ/6h</td>
+                            <td>Miễn phí</td>
                         </tr>
                         <tr>
                             <td><strong>Hello Bypass</strong></td>
-                            <td class="text-success">?</td>
-                            <td class="text-success">?</td>
-                            <td class="text-success">?</td>
+                            <td class="text-success">✓</td>
+                            <td class="text-success">✓</td>
+                            <td class="text-success">✓</td>
                         </tr>
                         <tr>
                             <td><strong>Passcode Bypass</strong></td>
-                            <td class="text-success">?</td>
-                            <td class="text-success">?</td>
-                            <td class="text-danger">?</td>
+                            <td class="text-success">✓</td>
+                            <td class="text-success">✓</td>
+                            <td class="text-danger">✗</td>
                         </tr>
                         <tr>
                             <td><strong>SIM Signal</strong></td>
-                            <td class="text-warning">T�y option</td>
-                            <td class="text-success">?</td>
-                            <td class="text-danger">?</td>
+                            <td class="text-warning">Tùy option</td>
+                            <td class="text-success">✓</td>
+                            <td class="text-danger">✗</td>
                         </tr>
                         <tr>
-                            <td><strong>D? s? d?ng</strong></td>
-                            <td class="text-success">?????</td>
-                            <td class="text-success">?????</td>
-                            <td class="text-warning">???</td>
+                            <td><strong>Dễ sử dụng</strong></td>
+                            <td class="text-success">★★★★★</td>
+                            <td class="text-success">★★★★★</td>
+                            <td class="text-warning">★★★</td>
                         </tr>
                     </tbody>
                 </table>
             </section>
 
-            <!-- L?i thu?ng g?p -->
+            <!-- Lỗi thường gặp -->
             <section id="loi-thuong-gap">
-                <h2><i class="fas fa-bug me-2"></i>9. L?i Thu?ng G?p v� C�ch Kh?c Ph?c</h2>
+                <h2><i class="fas fa-bug me-2"></i>9. Lỗi Thường Gặp và Cách Khắc Phục</h2>
                 
                 <div class="accordion" id="errorAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#err1">
-                                <i class="fas fa-times-circle text-danger me-2"></i>L?i: Kh�ng v�o du?c DFU Mode
+                                <i class="fas fa-times-circle text-danger me-2"></i>Lỗi: Không vào được DFU Mode
                             </button>
                         </h2>
                         <div id="err1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
-                                <p><strong>Nguy�n nh�n:</strong> D�ng sai t? h?p ph�m (nh?m v?i iPhone 6s), timing kh�ng d�ng.</p>
-                                <p><strong>C�ch kh?c ph?c:</strong></p>
+                                <p><strong>Nguyên nhân:</strong> Dùng sai tổ hợp phím (nhầm với iPhone 6s), timing không đúng.</p>
+                                <p><strong>Cách khắc phục:</strong></p>
                                 <ul>
-                                    <li>Nh? d�ng <strong>Vol Down</strong> thay cho Home (iPhone 7 c� n�t Home c?m ?ng)</li>
-                                    <li>�?m ch�nh x�c 10 gi�y b?ng d?ng h?</li>
-                                    <li>Th? c�p Lightning kh�c</li>
-                                    <li>Th? c?ng USB 2.0</li>
+                                    <li>Nhớ dùng <strong>Vol Down</strong> thay cho Home (iPhone 7 có nút Home cảm ứng)</li>
+                                    <li>Đếm chính xác 10 giây bằng đồng hồ</li>
+                                    <li>Thử cáp Lightning khác</li>
+                                    <li>Thử cổng USB 2.0</li>
                                 </ul>
                             </div>
                         </div>
@@ -801,17 +831,17 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err2">
-                                <i class="fas fa-times-circle text-danger me-2"></i>L?i: UnlockTool kh�ng nh?n m�y
+                                <i class="fas fa-times-circle text-danger me-2"></i>Lỗi: UnlockTool không nhận máy
                             </button>
                         </h2>
                         <div id="err2" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>C�ch kh?c ph?c:</strong></p>
+                                <p><strong>Cách khắc phục:</strong></p>
                                 <ul>
-                                    <li>C�i l?i iTunes v� restart m�y t�nh</li>
-                                    <li>T?t Windows Defender v� antivirus</li>
-                                    <li>Ch?y UnlockTool v?i Administrator</li>
-                                    <li>Th? c�p/c?ng USB kh�c</li>
+                                    <li>Cài lại iTunes và restart máy tính</li>
+                                    <li>Tắt Windows Defender và antivirus</li>
+                                    <li>Chạy UnlockTool với Administrator</li>
+                                    <li>Thử cáp/cổng USB khác</li>
                                 </ul>
                             </div>
                         </div>
@@ -819,17 +849,17 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err3">
-                                <i class="fas fa-times-circle text-danger me-2"></i>L?i: Checkm8 exploit failed
+                                <i class="fas fa-times-circle text-danger me-2"></i>Lỗi: Checkm8 exploit failed
                             </button>
                         </h2>
                         <div id="err3" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>C�ch kh?c ph?c:</strong></p>
+                                <p><strong>Cách khắc phục:</strong></p>
                                 <ul>
-                                    <li>V�o l?i DFU Mode t? d?u</li>
-                                    <li>�?m b?o c�p Lightning ch?t lu?ng t?t</li>
-                                    <li>C?p nh?t UnlockTool phi�n b?n m?i nh?t</li>
-                                    <li>Restart m�y t�nh v� th? l?i</li>
+                                    <li>Vào lại DFU Mode từ đầu</li>
+                                    <li>Đảm bảo cáp Lightning chất lượng tốt</li>
+                                    <li>Cập nhật UnlockTool phiên bản mới nhất</li>
+                                    <li>Restart máy tính và thử lại</li>
                                 </ul>
                             </div>
                         </div>
@@ -837,17 +867,17 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err4">
-                                <i class="fas fa-times-circle text-danger me-2"></i>L?i: iPhone treo t�o sau bypass
+                                <i class="fas fa-times-circle text-danger me-2"></i>Lỗi: iPhone treo táo sau bypass
                             </button>
                         </h2>
                         <div id="err4" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>C�ch kh?c ph?c:</strong></p>
+                                <p><strong>Cách khắc phục:</strong></p>
                                 <ul>
-                                    <li>Force restart: Gi? Vol Down + Side d?n khi th?y logo Apple</li>
-                                    <li>V�o DFU l?i v� th? bypass l?n n?a</li>
-                                    <li>N?u v?n l?i, restore b?ng iTunes r?i bypass l?i</li>
-                                    <li>Li�n h? h? tr?: <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></li>
+                                    <li>Force restart: Giữ Vol Down + Side đến khi thấy logo Apple</li>
+                                    <li>Vào DFU lại và thử bypass lần nữa</li>
+                                    <li>Nếu vẫn lỗi, restore bằng iTunes rồi bypass lại</li>
+                                    <li>Liên hệ hỗ trợ: <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -857,102 +887,102 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
 
             <!-- FAQ -->
             <section id="faq">
-                <h2><i class="fas fa-question-circle me-2"></i>10. C�u H?i Thu?ng G?p (FAQ)</h2>
+                <h2><i class="fas fa-question-circle me-2"></i>10. Câu Hỏi Thường Gặp (FAQ)</h2>
                 
                 <div class="accordion" id="faqAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
-                                iPhone 7 Plus bypass kh�c g� iPhone 7?
+                                iPhone 7 Plus bypass khác gì iPhone 7?
                             </button>
                         </h2>
                         <div id="faq1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
-                                <strong>Kh�ng c� g� kh�c bi?t.</strong> C? iPhone 7 v� 7 Plus d?u d�ng chip A10 Fusion, c� c�ng l? h?ng checkm8, c�ch bypass ho�n to�n gi?ng nhau.
+                                <strong>Không có gì khác biệt.</strong> Cả iPhone 7 và 7 Plus đều dùng chip A10 Fusion, có cùng lỗ hổng checkm8, cách bypass hoàn toàn giống nhau.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
-                                Bypass iCloud iPhone 7 m?t bao l�u?
+                                Bypass iCloud iPhone 7 mất bao lâu?
                             </button>
                         </h2>
                         <div id="faq2" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                Qu� tr�nh bypass ch? m?t <strong>5-10 ph�t</strong>. T?ng th?i gian chu?n b? kho?ng <strong>15-20 ph�t</strong>.
+                                Quá trình bypass chỉ mất <strong>5-10 phút</strong>. Tổng thời gian chuẩn bị khoảng <strong>15-20 phút</strong>.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3">
-                                Gi� bypass iCloud iPhone 7?
+                                Giá bypass iCloud iPhone 7?
                             </button>
                         </h2>
                         <div id="faq3" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <strong>T? l�m:</strong> 8.000d/6h t?i <a href="https://www.unlocktool.us/">UnlockTool.us</a><br>
-                                <strong>D?ch v? l�m h?:</strong> T? 50.000d t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>
+                                <strong>Tự làm:</strong> 8.000đ/6h tại <a href="https://www.unlocktool.us/">UnlockTool.us</a><br>
+                                <strong>Dịch vụ làm hộ:</strong> Từ 50.000đ tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4">
-                                Sau bypass c� d�ng du?c SIM kh�ng?
+                                Sau bypass có dùng được SIM không?
                             </button>
                         </h2>
                         <div id="faq4" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                T�y phuong ph�p bypass. Hello Bypass co b?n c� th? kh�ng c� SIM signal. N?u c?n d�ng SIM, ch?n option "with Signal" ho?c s? d?ng iRemoval Pro.
+                                Tùy phương pháp bypass. Hello Bypass cơ bản có thể không có SIM signal. Nếu cần dùng SIM, chọn option "with Signal" hoặc sử dụng iRemoval Pro.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq5">
-                                Bypass c� vinh vi?n kh�ng?
+                                Bypass có vĩnh viễn không?
                             </button>
                         </h2>
                         <div id="faq5" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                Bypass gi? du?c cho d?n khi restore/update iOS. N?u restore, c?n bypass l?i. Mu?n vinh vi?n c?n Off iCloud Server.
+                                Bypass giữ được cho đến khi restore/update iOS. Nếu restore, cần bypass lại. Muốn vĩnh viễn cần Off iCloud Server.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq6">
-                                C�ch v�o DFU iPhone 7 kh�c g� iPhone 6s?
+                                Cách vào DFU iPhone 7 khác gì iPhone 6s?
                             </button>
                         </h2>
                         <div id="faq6" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                iPhone 7 d�ng n�t Home c?m ?ng n�n ph?i d�ng <strong>Vol Down</strong> thay cho Home. T? h?p ph�m: <strong>Side + Vol Down</strong> (thay v� Side + Home nhu iPhone 6s).
+                                iPhone 7 dùng nút Home cảm ứng nên phải dùng <strong>Vol Down</strong> thay cho Home. Tổ hợp phím: <strong>Side + Vol Down</strong> (thay vì Side + Home như iPhone 6s).
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <!-- CTA cu?i b�i -->
+            <!-- CTA cuối bài -->
             <section class="mt-5">
                 <div class="price-highlight">
                     <h3><i class="fas fa-unlock me-2"></i>Bypass iCloud iPhone 7/7 Plus Ngay!</h3>
-                    <p>Chip A10 Fusion - H? tr? Checkm8 - T? l? th�nh c�ng 100%</p>
-                    <p class="price">8.000d</p>
-                    <p class="h4">/ 6 ti?ng</p>
+                    <p>Chip A10 Fusion - Hỗ trợ Checkm8 - Tỷ lệ thành công 100%</p>
+                    <p class="price">8.000đ</p>
+                    <p class="h4">/ 6 tiếng</p>
                     <div class="d-flex justify-content-center flex-wrap gap-3 mt-4">
-                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thu� Tool - UnlockTool.us</a>
-                        <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-download me-2"></i>T?i UnlockTool</a>
+                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê Tool - UnlockTool.us</a>
+                        <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-download me-2"></i>Tải UnlockTool</a>
                     </div>
                 </div>
 
                 <div class="service-cta">
-                    <h4><i class="fas fa-headset me-2"></i>Kh�ng T? L�m �u?c? D?ch V? L�m H?!</h4>
-                    <p>K? thu?t vi�n h? tr? t? xa - Cam k?t th�nh c�ng ho?c ho�n ti?n!</p>
-                    <p class="h3 fw-bold">T? 50.000d</p>
+                    <h4><i class="fas fa-headset me-2"></i>Không Tự Làm Được? Dịch Vụ Làm Hộ!</h4>
+                    <p>Kỹ thuật viên hỗ trợ từ xa - Cam kết thành công hoặc hoàn tiền!</p>
+                    <p class="h3 fw-bold">Từ 50.000đ</p>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-external-link-alt me-2"></i>Thuetaikhoan.net</a>
                 </div>
             </section>
@@ -964,29 +994,29 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
             <div class="sticky-top" style="top:20px">
                 <div class="price-highlight mb-4">
                     <h5><i class="fas fa-tag me-2"></i>Bypass iPhone 7/7 Plus</h5>
-                    <p class="price" style="font-size:2.5rem">8.000d</p>
-                    <p>/ 6 ti?ng</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thu� Tool Ngay</a>
+                    <p class="price" style="font-size:2.5rem">8.000đ</p>
+                    <p>/ 6 tiếng</p>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thuê Tool Ngay</a>
                 </div>
 
                 <div class="card mb-4">
                     <div class="card-header bg-success text-white">
-                        <i class="fas fa-check me-2"></i>iPhone 7/7 Plus - H? tr? bypass
+                        <i class="fas fa-check me-2"></i>iPhone 7/7 Plus - Hỗ trợ bypass
                     </div>
                     <div class="card-body">
                         <ul class="list-unstyled mb-0">
-                            <li>? Chip A10 Fusion</li>
-                            <li>? C� l? h?ng checkm8</li>
-                            <li>? iOS 10 - iOS 15.x</li>
-                            <li>? Hello / Passcode Bypass</li>
-                            <li>? Bypass nhanh 5-10 ph�t</li>
+                            <li>✓ Chip A10 Fusion</li>
+                            <li>✓ Có lỗ hổng checkm8</li>
+                            <li>✓ iOS 10 - iOS 15.x</li>
+                            <li>✓ Hello / Passcode Bypass</li>
+                            <li>✓ Bypass nhanh 5-10 phút</li>
                         </ul>
                     </div>
                 </div>
 
                 <div class="card mb-4">
                     <div class="card-header bg-primary text-white">
-                        <i class="fas fa-download me-2"></i>T?i xu?ng
+                        <i class="fas fa-download me-2"></i>Tải xuống
                     </div>
                     <div class="card-body">
                         <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-primary w-100 mb-2">UnlockTool</a>
@@ -996,13 +1026,13 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
 
                 <div class="card">
                     <div class="card-header bg-dark text-white">
-                        <i class="fas fa-link me-2"></i>B�i vi?t li�n quan
+                        <i class="fas fa-link me-2"></i>Bài viết liên quan
                     </div>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item"><a href="88-bypass-icloud-iphone-8.php">Bypass iCloud iPhone 8</a></li>
                         <li class="list-group-item"><a href="90-bypass-icloud-iphone-6s.php">Bypass iCloud iPhone 6s</a></li>
                         <li class="list-group-item"><a href="87-bypass-icloud-iphone-x.php">Bypass iCloud iPhone X</a></li>
-                        <li class="list-group-item"><a href="102-iremoval-pro-la-gi.php">iRemoval Pro l� g�?</a></li>
+                        <li class="list-group-item"><a href="102-iremoval-pro-la-gi.php">iRemoval Pro là gì?</a></li>
                     </ul>
                 </div>
             </div>
@@ -1017,7 +1047,7 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -1031,13 +1061,13 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -1045,15 +1075,15 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -1066,7 +1096,7 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -1077,10 +1107,10 @@ $canonical_url = "https://www.unlocktool.us/articles/89-bypass-icloud-iphone-7.p
         <div class="row">
             <div class="col-md-6">
                 <h5>UnlockTool.us</h5>
-                <p class="small">Cho thu� t�i kho?n tool m? kh�a di?n tho?i uy t�n nh?t Vi?t Nam.</p>
+                <p class="small">Cho thuê tài khoản tool mở khóa điện thoại uy tín nhất Việt Nam.</p>
             </div>
             <div class="col-md-6 text-md-end">
-                <p class="small mb-1">D?ch v?: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+                <p class="small mb-1">Dịch vụ: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
                 <p class="small">&copy; 2026 UnlockTool.us - All rights reserved.</p>
             </div>
         </div>

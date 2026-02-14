@@ -1,6 +1,6 @@
-<?php
-$page_title = "ADB Fastboot L� G�? ?? Hu?ng D?n Chi Ti?t Unlock Bootloader 2026";
-$page_description = "?? ADB Fastboot l� g�? Hu?ng d?n c�i d?t, unlock bootloader, flash firmware. C�c l?nh ADB ph? bi?n. Thu� UnlockTool 8K/6h t?i UnlockTool.us!";
+﻿<?php
+$page_title = "ADB Fastboot Là Gì? 🔥 Hướng Dẫn Chi Tiết Unlock Bootloader 2026";
+$page_description = "🔥 ADB Fastboot là gì? Hướng dẫn cài đặt, unlock bootloader, flash firmware. Các lệnh ADB phổ biến. Thuê UnlockTool 8K/6h tại UnlockTool.us!";
 $page_keywords = "adb fastboot, adb commands, fastboot unlock, unlock bootloader, android debug bridge, cai dat adb";
 $canonical_url = "https://www.unlocktool.us/articles/136-adb-fastboot-huong-dan.php";
 ?>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/136-adb-fastboot-huong-dan.
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/136-adb-fastboot-huong-dan.
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hu?ng d?n k? thu?t">
+    <meta property="article:section" content="Hướng dẫn kỹ thuật">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="M? kh�a di?n tho?i">
+    <meta property="article:tag" content="Mở khóa điện thoại">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -50,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/136-adb-fastboot-huong-dan.
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -60,8 +60,8 @@ $canonical_url = "https://www.unlocktool.us/articles/136-adb-fastboot-huong-dan.
     {
         "@context": "https://schema.org",
         "@type": "TechArticle",
-        "headline": "ADB Fastboot L� G�? Hu?ng D?n Chi Ti?t Unlock Bootloader 2026",
-        "description": "Hu?ng d?n chi ti?t ADB Fastboot - c�ng c? kh�ng th? thi?u cho Android developer v� technician",
+        "headline": "ADB Fastboot Là Gì? Hướng Dẫn Chi Tiết Unlock Bootloader 2026",
+        "description": "Hướng dẫn chi tiết ADB Fastboot - công cụ không thể thiếu cho Android developer và technician",
         "author": {"@type": "Organization", "name": "UnlockTool.us"},
         "publisher": {"@type": "Organization", "name": "UnlockTool.us"},
         "datePublished": "2024-01-01",
@@ -73,10 +73,10 @@ $canonical_url = "https://www.unlocktool.us/articles/136-adb-fastboot-huong-dan.
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "ADB l� g�?", "acceptedAnswer": {"@type": "Answer", "text": "ADB (Android Debug Bridge) l� c�ng c? d�ng l?nh cho ph�p giao ti?p v?i thi?t b? Android t? m�y t�nh. D�ng d? c�i app, copy file, ch?y shell commands."}},
-            {"@type": "Question", "name": "Fastboot l� g�?", "acceptedAnswer": {"@type": "Answer", "text": "Fastboot l� giao th?c cho ph�p flash firmware, unlock bootloader khi m�y ? ch? d? bootloader/fastboot mode."}},
-            {"@type": "Question", "name": "Unlock bootloader c� x�a d? li?u kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "C�, unlock bootloader s? factory reset v� x�a t?t c? d? li?u. H�y backup tru?c khi th?c hi?n."}},
-            {"@type": "Question", "name": "ADB kh�ng nh?n thi?t b? th� l�m sao?", "acceptedAnswer": {"@type": "Answer", "text": "Ki?m tra: 1) USB Debugging d� b?t, 2) Driver d� c�i, 3) �� nh?n Allow tr�n di?n tho?i, 4) Th? c�p USB kh�c."}}
+            {"@type": "Question", "name": "ADB là gì?", "acceptedAnswer": {"@type": "Answer", "text": "ADB (Android Debug Bridge) là công cụ dòng lệnh cho phép giao tiếp với thiết bị Android từ máy tính. Dùng để cài app, copy file, chạy shell commands."}},
+            {"@type": "Question", "name": "Fastboot là gì?", "acceptedAnswer": {"@type": "Answer", "text": "Fastboot là giao thức cho phép flash firmware, unlock bootloader khi máy ở chế độ bootloader/fastboot mode."}},
+            {"@type": "Question", "name": "Unlock bootloader có xóa dữ liệu không?", "acceptedAnswer": {"@type": "Answer", "text": "Có, unlock bootloader sẽ factory reset và xóa tất cả dữ liệu. Hãy backup trước khi thực hiện."}},
+            {"@type": "Question", "name": "ADB không nhận thiết bị thì làm sao?", "acceptedAnswer": {"@type": "Answer", "text": "Kiểm tra: 1) USB Debugging đã bật, 2) Driver đã cài, 3) Đã nhấn Allow trên điện thoại, 4) Thử cáp USB khác."}}
         ]
     }
     </script>
@@ -122,21 +122,51 @@ $canonical_url = "https://www.unlocktool.us/articles/136-adb-fastboot-huong-dan.
         }
     }
     </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "UnlockTool.us",
+        "url": "https://www.unlocktool.us",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.unlocktool.us/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Dịch vụ mở khóa điện thoại",
+        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.5",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "60"
+        }
+    }
+    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
 </nav>
 <section class="hero-section">
     <div class="container text-center">
-        <h1><i class="fab fa-android me-2"></i>ADB Fastboot - Hu?ng D?n 2026</h1>
+        <h1><i class="fab fa-android me-2"></i>ADB Fastboot - Hướng Dẫn 2026</h1>
         <p class="lead">Android Debug Bridge - Unlock Bootloader, Flash Firmware, Root Android</p>
         <div class="mt-4">
             <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>UnlockTool <span class="flash-sale">8K/6H</span></a>
@@ -149,221 +179,221 @@ $canonical_url = "https://www.unlocktool.us/articles/136-adb-fastboot-huong-dan.
         
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #0066cc;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>T�c gi?:</strong> UnlockTool.us Team</span>
-            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>�?c:</strong> ~5 ph�t</span>
-            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> <span id="viewCount">1,234</span></span>
+            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>Tác giả:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>Cập nhật:</strong> 06/02/2026</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Đọc:</strong> ~5 phút</span>
+            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lượt xem:</strong> <span id="viewCount">1,234</span></span>
         </div>
         <div class="toc">
-            <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
+            <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
             <ul>
-                <li><a href="#adb-la-gi">1. ADB v� Fastboot l� g�?</a></li>
-                <li><a href="#cai-dat">2. C�i d?t ADB Fastboot</a></li>
-                <li><a href="#usb-debugging">3. B?t USB Debugging</a></li>
-                <li><a href="#lenh-adb">4. C�c l?nh ADB ph? bi?n</a></li>
-                <li><a href="#lenh-fastboot">5. C�c l?nh Fastboot ph? bi?n</a></li>
+                <li><a href="#adb-la-gi">1. ADB và Fastboot là gì?</a></li>
+                <li><a href="#cai-dat">2. Cài đặt ADB Fastboot</a></li>
+                <li><a href="#usb-debugging">3. Bật USB Debugging</a></li>
+                <li><a href="#lenh-adb">4. Các lệnh ADB phổ biến</a></li>
+                <li><a href="#lenh-fastboot">5. Các lệnh Fastboot phổ biến</a></li>
                 <li><a href="#unlock-bootloader">6. Unlock Bootloader</a></li>
-                <li><a href="#fix-loi">7. Kh?c ph?c l?i thu?ng g?p</a></li>
-                <li><a href="#faq">8. FAQ - C�u h?i thu?ng g?p</a></li>
+                <li><a href="#fix-loi">7. Khắc phục lỗi thường gặp</a></li>
+                <li><a href="#faq">8. FAQ - Câu hỏi thường gặp</a></li>
             </ul>
         </div>
         
-        <h2 id="adb-la-gi"><i class="fas fa-info-circle me-2"></i>1. ADB v� Fastboot l� g�?</h2>
+        <h2 id="adb-la-gi"><i class="fas fa-info-circle me-2"></i>1. ADB và Fastboot là gì?</h2>
         
         <h3>1.1. ADB (Android Debug Bridge)</h3>
-        <p><strong>ADB</strong> l� c�ng c? d�ng l?nh (command-line tool) cho ph�p giao ti?p v?i thi?t b? Android t? m�y t�nh. ADB l� m?t ph?n c?a Android SDK Platform-Tools.</p>
+        <p><strong>ADB</strong> là công cụ dòng lệnh (command-line tool) cho phép giao tiếp với thiết bị Android từ máy tính. ADB là một phần của Android SDK Platform-Tools.</p>
         
-        <p><strong>C�ng d?ng c?a ADB:</strong></p>
+        <p><strong>Công dụng của ADB:</strong></p>
         <ul>
-            <li>C�i d?t v� g? ?ng d?ng APK</li>
-            <li>Sao ch�p file gi?a m�y t�nh v� di?n tho?i</li>
-            <li>Ch?y shell commands tr�n thi?t b?</li>
-            <li>Xem log h? th?ng (logcat)</li>
-            <li>Kh?i d?ng l?i v�o recovery/bootloader</li>
-            <li>Backup v� restore d? li?u</li>
+            <li>Cài đặt và gỡ ứng dụng APK</li>
+            <li>Sao chép file giữa máy tính và điện thoại</li>
+            <li>Chạy shell commands trên thiết bị</li>
+            <li>Xem log hệ thống (logcat)</li>
+            <li>Khởi động lại vào recovery/bootloader</li>
+            <li>Backup và restore dữ liệu</li>
         </ul>
         
         <h3>1.2. Fastboot</h3>
-        <p><strong>Fastboot</strong> l� giao th?c v� c�ng c? cho ph�p thao t�c v?i thi?t b? khi ? ch? d? <strong>bootloader/fastboot mode</strong>. Kh�c v?i ADB ho?t d?ng khi Android d� boot, Fastboot ho?t d?ng tru?c khi h? di?u h�nh load.</p>
+        <p><strong>Fastboot</strong> là giao thức và công cụ cho phép thao tác với thiết bị khi ở chế độ <strong>bootloader/fastboot mode</strong>. Khác với ADB hoạt động khi Android đã boot, Fastboot hoạt động trước khi hệ điều hành load.</p>
         
-        <p><strong>C�ng d?ng c?a Fastboot:</strong></p>
+        <p><strong>Công dụng của Fastboot:</strong></p>
         <ul>
             <li>Unlock/lock bootloader</li>
             <li>Flash firmware, boot, recovery, system images</li>
             <li>Wipe data (factory reset)</li>
-            <li>Boot t? image t?m th?i (fastboot boot)</li>
+            <li>Boot từ image tạm thời (fastboot boot)</li>
         </ul>
         
-        <h2 id="cai-dat"><i class="fas fa-download me-2"></i>2. C�i d?t ADB Fastboot</h2>
+        <h2 id="cai-dat"><i class="fas fa-download me-2"></i>2. Cài đặt ADB Fastboot</h2>
         
-        <h3>2.1. T?i Platform Tools (Khuy?n ngh?)</h3>
+        <h3>2.1. Tải Platform Tools (Khuyến nghị)</h3>
         
         <div class="step-box">
             <div class="step-num">1</div>
-            <h5>T?i SDK Platform-Tools</h5>
-            <p>Truy c?p: <code>developer.android.com/studio/releases/platform-tools</code> v� t?i b?n cho Windows.</p>
+            <h5>Tải SDK Platform-Tools</h5>
+            <p>Truy cập: <code>developer.android.com/studio/releases/platform-tools</code> và tải bản cho Windows.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">2</div>
-            <h5>Gi?i n�n</h5>
-            <p>Gi?i n�n file .zip v�o thu m?c d? truy c?p, v� d?: <code>C:\platform-tools</code></p>
+            <h5>Giải nén</h5>
+            <p>Giải nén file .zip vào thư mục dễ truy cập, ví dụ: <code>C:\platform-tools</code></p>
         </div>
         
         <div class="step-box">
             <div class="step-num">3</div>
-            <h5>M? Command Prompt</h5>
-            <p>M? CMD trong thu m?c d� (Shift + Right Click ? "Open command window here") ho?c th�m v�o PATH.</p>
+            <h5>Mở Command Prompt</h5>
+            <p>Mở CMD trong thư mục đó (Shift + Right Click → "Open command window here") hoặc thêm vào PATH.</p>
         </div>
         
-        <h3>2.2. Th�m v�o PATH (t�y ch?n)</h3>
-        <p>�? ch?y ADB t? b?t k? d�u:</p>
+        <h3>2.2. Thêm vào PATH (tùy chọn)</h3>
+        <p>Để chạy ADB từ bất kỳ đâu:</p>
         <ol>
             <li>Search "Environment Variables" trong Windows</li>
             <li>Click "Environment Variables"</li>
-            <li>Ch?n "Path" ? Edit ? New</li>
-            <li>Th�m du?ng d?n <code>C:\platform-tools</code></li>
-            <li>OK ? Restart CMD</li>
+            <li>Chọn "Path" → Edit → New</li>
+            <li>Thêm đường dẫn <code>C:\platform-tools</code></li>
+            <li>OK → Restart CMD</li>
         </ol>
         
-        <h3>2.3. C�i qua Chocolatey (Windows)</h3>
+        <h3>2.3. Cài qua Chocolatey (Windows)</h3>
         <div class="code-box">
             <code>choco install adb</code>
         </div>
         
-        <h3>2.4. C�i qua Homebrew (macOS)</h3>
+        <h3>2.4. Cài qua Homebrew (macOS)</h3>
         <div class="code-box">
             <code>brew install android-platform-tools</code>
         </div>
         
-        <h2 id="usb-debugging"><i class="fas fa-mobile-alt me-2"></i>3. B?t USB Debugging</h2>
+        <h2 id="usb-debugging"><i class="fas fa-mobile-alt me-2"></i>3. Bật USB Debugging</h2>
         
-        <h3>3.1. B?t Developer Options</h3>
+        <h3>3.1. Bật Developer Options</h3>
         
         <div class="step-box">
             <div class="step-num">1</div>
-            <h5>V�o Settings ? About Phone</h5>
-            <p>T�m m?c "Build Number" ho?c "MIUI Version" (Xiaomi).</p>
+            <h5>Vào Settings → About Phone</h5>
+            <p>Tìm mục "Build Number" hoặc "MIUI Version" (Xiaomi).</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">2</div>
-            <h5>Nh?n 7 l?n</h5>
-            <p>Nh?n v�o "Build Number" 7 l?n li�n ti?p. S? hi?n th�ng b�o "You are now a developer!"</p>
+            <h5>Nhấn 7 lần</h5>
+            <p>Nhấn vào "Build Number" 7 lần liên tiếp. Sẽ hiện thông báo "You are now a developer!"</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">3</div>
-            <h5>B?t USB Debugging</h5>
-            <p>Quay l?i Settings ? System ? Developer Options ? B?t "USB Debugging".</p>
+            <h5>Bật USB Debugging</h5>
+            <p>Quay lại Settings → System → Developer Options → Bật "USB Debugging".</p>
         </div>
         
-        <h3>3.2. B?t OEM Unlocking (n?u c?n unlock bootloader)</h3>
-        <p>Trong Developer Options, t�m v� b?t <strong>"OEM Unlocking"</strong>. T�y ch?n n�y ph?i du?c b?t tru?c khi unlock bootloader.</p>
+        <h3>3.2. Bật OEM Unlocking (nếu cần unlock bootloader)</h3>
+        <p>Trong Developer Options, tìm và bật <strong>"OEM Unlocking"</strong>. Tùy chọn này phải được bật trước khi unlock bootloader.</p>
         
         <div class="warning-box">
-            <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu �:</h5>
-            <p class="mb-0">M?t s? m�y c?n dang nh?p t�i kho?n Google ho?c t�i kho?n h�ng (Xiaomi Mi Account, Samsung Account) v� d?i 7 ng�y tru?c khi OEM Unlocking du?c k�ch ho?t.</p>
+            <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý:</h5>
+            <p class="mb-0">Một số máy cần đăng nhập tài khoản Google hoặc tài khoản hãng (Xiaomi Mi Account, Samsung Account) và đợi 7 ngày trước khi OEM Unlocking được kích hoạt.</p>
         </div>
         
-        <h2 id="lenh-adb"><i class="fas fa-terminal me-2"></i>4. C�c l?nh ADB ph? bi?n</h2>
+        <h2 id="lenh-adb"><i class="fas fa-terminal me-2"></i>4. Các lệnh ADB phổ biến</h2>
         
-        <h3>4.1. Ki?m tra k?t n?i</h3>
+        <h3>4.1. Kiểm tra kết nối</h3>
         <div class="code-box">
             <code>adb devices</code>
         </div>
-        <p>Hi?n th? danh s�ch thi?t b? dang k?t n?i. N?u hi?n "device", t?c d� k?t n?i th�nh c�ng.</p>
+        <p>Hiển thị danh sách thiết bị đang kết nối. Nếu hiện "device", tức đã kết nối thành công.</p>
         
-        <h3>4.2. Kh?i d?ng l?i</h3>
+        <h3>4.2. Khởi động lại</h3>
         <table class="comparison-table">
             <thead>
-                <tr><th>L?nh</th><th>M� t?</th></tr>
+                <tr><th>Lệnh</th><th>Mô tả</th></tr>
             </thead>
             <tbody>
-                <tr><td><code>adb reboot</code></td><td>Kh?i d?ng l?i b�nh thu?ng</td></tr>
-                <tr><td><code>adb reboot bootloader</code></td><td>V�o ch? d? bootloader/fastboot</td></tr>
-                <tr><td><code>adb reboot recovery</code></td><td>V�o ch? d? Recovery</td></tr>
-                <tr><td><code>adb reboot edl</code></td><td>V�o ch? d? EDL (Qualcomm)</td></tr>
+                <tr><td><code>adb reboot</code></td><td>Khởi động lại bình thường</td></tr>
+                <tr><td><code>adb reboot bootloader</code></td><td>Vào chế độ bootloader/fastboot</td></tr>
+                <tr><td><code>adb reboot recovery</code></td><td>Vào chế độ Recovery</td></tr>
+                <tr><td><code>adb reboot edl</code></td><td>Vào chế độ EDL (Qualcomm)</td></tr>
             </tbody>
         </table>
         
-        <h3>4.3. Qu?n l� ?ng d?ng</h3>
+        <h3>4.3. Quản lý ứng dụng</h3>
         <table class="comparison-table">
             <thead>
-                <tr><th>L?nh</th><th>M� t?</th></tr>
+                <tr><th>Lệnh</th><th>Mô tả</th></tr>
             </thead>
             <tbody>
-                <tr><td><code>adb install app.apk</code></td><td>C�i d?t file APK</td></tr>
-                <tr><td><code>adb install -r app.apk</code></td><td>C?p nh?t APK (gi? d? li?u)</td></tr>
-                <tr><td><code>adb uninstall package.name</code></td><td>G? ?ng d?ng</td></tr>
-                <tr><td><code>adb shell pm list packages</code></td><td>Li?t k� t?t c? packages</td></tr>
-                <tr><td><code>adb shell pm disable-user package.name</code></td><td>V� hi?u h�a bloatware</td></tr>
+                <tr><td><code>adb install app.apk</code></td><td>Cài đặt file APK</td></tr>
+                <tr><td><code>adb install -r app.apk</code></td><td>Cập nhật APK (giữ dữ liệu)</td></tr>
+                <tr><td><code>adb uninstall package.name</code></td><td>Gỡ ứng dụng</td></tr>
+                <tr><td><code>adb shell pm list packages</code></td><td>Liệt kê tất cả packages</td></tr>
+                <tr><td><code>adb shell pm disable-user package.name</code></td><td>Vô hiệu hóa bloatware</td></tr>
             </tbody>
         </table>
         
-        <h3>4.4. Truy?n file</h3>
+        <h3>4.4. Truyền file</h3>
         <table class="comparison-table">
             <thead>
-                <tr><th>L?nh</th><th>M� t?</th></tr>
+                <tr><th>Lệnh</th><th>Mô tả</th></tr>
             </thead>
             <tbody>
-                <tr><td><code>adb push local remote</code></td><td>Copy file t? PC ? �i?n tho?i</td></tr>
-                <tr><td><code>adb pull remote local</code></td><td>Copy file t? �i?n tho?i ? PC</td></tr>
+                <tr><td><code>adb push local remote</code></td><td>Copy file từ PC → Điện thoại</td></tr>
+                <tr><td><code>adb pull remote local</code></td><td>Copy file từ Điện thoại → PC</td></tr>
             </tbody>
         </table>
         
         <div class="info-box">
-            <h5><i class="fas fa-lightbulb me-2"></i>V� d?:</h5>
+            <h5><i class="fas fa-lightbulb me-2"></i>Ví dụ:</h5>
             <p class="mb-0"><code>adb push C:\file.zip /sdcard/Download/</code><br>
             <code>adb pull /sdcard/DCIM/photo.jpg C:\Photos\</code></p>
         </div>
         
-        <h3>4.5. Shell commands h?u �ch</h3>
+        <h3>4.5. Shell commands hữu ích</h3>
         <table class="comparison-table">
             <thead>
-                <tr><th>L?nh</th><th>M� t?</th></tr>
+                <tr><th>Lệnh</th><th>Mô tả</th></tr>
             </thead>
             <tbody>
-                <tr><td><code>adb shell</code></td><td>M? shell tr�n thi?t b?</td></tr>
-                <tr><td><code>adb shell wm size</code></td><td>Xem d? ph�n gi?i m�n h�nh</td></tr>
-                <tr><td><code>adb shell wm density</code></td><td>Xem/thay d?i DPI</td></tr>
-                <tr><td><code>adb shell getprop</code></td><td>Xem t?t c? properties</td></tr>
-                <tr><td><code>adb shell settings put global http_proxy IP:PORT</code></td><td>Thi?t l?p proxy</td></tr>
+                <tr><td><code>adb shell</code></td><td>Mở shell trên thiết bị</td></tr>
+                <tr><td><code>adb shell wm size</code></td><td>Xem độ phân giải màn hình</td></tr>
+                <tr><td><code>adb shell wm density</code></td><td>Xem/thay đổi DPI</td></tr>
+                <tr><td><code>adb shell getprop</code></td><td>Xem tất cả properties</td></tr>
+                <tr><td><code>adb shell settings put global http_proxy IP:PORT</code></td><td>Thiết lập proxy</td></tr>
             </tbody>
         </table>
         
-        <h2 id="lenh-fastboot"><i class="fas fa-bolt me-2"></i>5. C�c l?nh Fastboot ph? bi?n</h2>
+        <h2 id="lenh-fastboot"><i class="fas fa-bolt me-2"></i>5. Các lệnh Fastboot phổ biến</h2>
         
-        <h3>5.1. Ki?m tra k?t n?i Fastboot</h3>
+        <h3>5.1. Kiểm tra kết nối Fastboot</h3>
         <div class="code-box">
             <code>fastboot devices</code>
         </div>
         
-        <h3>5.2. L?nh Fastboot co b?n</h3>
+        <h3>5.2. Lệnh Fastboot cơ bản</h3>
         <table class="comparison-table">
             <thead>
-                <tr><th>L?nh</th><th>M� t?</th></tr>
+                <tr><th>Lệnh</th><th>Mô tả</th></tr>
             </thead>
             <tbody>
                 <tr><td><code>fastboot oem unlock</code></td><td>Unlock bootloader</td></tr>
-                <tr><td><code>fastboot flashing unlock</code></td><td>Unlock bootloader (m�y m?i)</td></tr>
-                <tr><td><code>fastboot oem lock</code></td><td>Lock l?i bootloader</td></tr>
-                <tr><td><code>fastboot flashing lock</code></td><td>Lock bootloader (m�y m?i)</td></tr>
-                <tr><td><code>fastboot reboot</code></td><td>Kh?i d?ng l?i</td></tr>
-                <tr><td><code>fastboot getvar all</code></td><td>Xem th�ng tin thi?t b?</td></tr>
+                <tr><td><code>fastboot flashing unlock</code></td><td>Unlock bootloader (máy mới)</td></tr>
+                <tr><td><code>fastboot oem lock</code></td><td>Lock lại bootloader</td></tr>
+                <tr><td><code>fastboot flashing lock</code></td><td>Lock bootloader (máy mới)</td></tr>
+                <tr><td><code>fastboot reboot</code></td><td>Khởi động lại</td></tr>
+                <tr><td><code>fastboot getvar all</code></td><td>Xem thông tin thiết bị</td></tr>
             </tbody>
         </table>
         
         <h3>5.3. Flash images</h3>
         <table class="comparison-table">
             <thead>
-                <tr><th>L?nh</th><th>M� t?</th></tr>
+                <tr><th>Lệnh</th><th>Mô tả</th></tr>
             </thead>
             <tbody>
                 <tr><td><code>fastboot flash boot boot.img</code></td><td>Flash boot image</td></tr>
                 <tr><td><code>fastboot flash recovery recovery.img</code></td><td>Flash recovery (TWRP)</td></tr>
                 <tr><td><code>fastboot flash system system.img</code></td><td>Flash system image</td></tr>
-                <tr><td><code>fastboot boot recovery.img</code></td><td>Boot t?m t? recovery image</td></tr>
+                <tr><td><code>fastboot boot recovery.img</code></td><td>Boot tạm từ recovery image</td></tr>
                 <tr><td><code>fastboot -w</code></td><td>Wipe data (factory reset)</td></tr>
             </tbody>
         </table>
@@ -371,124 +401,124 @@ $canonical_url = "https://www.unlocktool.us/articles/136-adb-fastboot-huong-dan.
         <h2 id="unlock-bootloader"><i class="fas fa-unlock me-2"></i>6. Unlock Bootloader</h2>
         
         <div class="danger-box">
-            <h5><i class="fas fa-exclamation-triangle me-2"></i>C?NH B�O:</h5>
-            <p class="mb-0">Unlock bootloader s? <strong>X�A T?T C? D? LI?U</strong> tr�n di?n tho?i. H�y backup tru?c khi th?c hi?n!</p>
+            <h5><i class="fas fa-exclamation-triangle me-2"></i>CẢNH BÁO:</h5>
+            <p class="mb-0">Unlock bootloader sẽ <strong>XÓA TẤT CẢ DỮ LIỆU</strong> trên điện thoại. Hãy backup trước khi thực hiện!</p>
         </div>
         
-        <h3>6.1. C�c bu?c unlock bootloader chung</h3>
+        <h3>6.1. Các bước unlock bootloader chung</h3>
         
         <div class="step-box">
             <div class="step-num">1</div>
-            <h5>Backup d? li?u</h5>
-            <p>Sao luu t?t c? d? li?u quan tr?ng v� unlock s? factory reset.</p>
+            <h5>Backup dữ liệu</h5>
+            <p>Sao lưu tất cả dữ liệu quan trọng vì unlock sẽ factory reset.</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">2</div>
-            <h5>B?t OEM Unlocking</h5>
-            <p>Settings ? Developer Options ? B?t "OEM Unlocking".</p>
+            <h5>Bật OEM Unlocking</h5>
+            <p>Settings → Developer Options → Bật "OEM Unlocking".</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">3</div>
-            <h5>V�o Fastboot Mode</h5>
-            <p>Ch?y: <code>adb reboot bootloader</code> ho?c s? d?ng t? h?p ph�m (Power + Vol Down).</p>
+            <h5>Vào Fastboot Mode</h5>
+            <p>Chạy: <code>adb reboot bootloader</code> hoặc sử dụng tổ hợp phím (Power + Vol Down).</p>
         </div>
         
         <div class="step-box">
             <div class="step-num">4</div>
-            <h5>Ch?y l?nh unlock</h5>
-            <p>Ch?y: <code>fastboot flashing unlock</code> ho?c <code>fastboot oem unlock</code></p>
+            <h5>Chạy lệnh unlock</h5>
+            <p>Chạy: <code>fastboot flashing unlock</code> hoặc <code>fastboot oem unlock</code></p>
         </div>
         
         <div class="step-box">
             <div class="step-num">5</div>
-            <h5>X�c nh?n tr�n di?n tho?i</h5>
-            <p>D�ng ph�m Vol d? ch?n "Unlock the bootloader" v� nh?n Power d? x�c nh?n.</p>
+            <h5>Xác nhận trên điện thoại</h5>
+            <p>Dùng phím Vol để chọn "Unlock the bootloader" và nhấn Power để xác nhận.</p>
         </div>
         
-        <h3>6.2. Unlock theo h�ng</h3>
+        <h3>6.2. Unlock theo hãng</h3>
         <table class="comparison-table">
             <thead>
-                <tr><th>H�ng</th><th>Y�u c?u</th><th>Ghi ch�</th></tr>
+                <tr><th>Hãng</th><th>Yêu cầu</th><th>Ghi chú</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>Google Pixel</strong></td><td>Ch? c?n OEM Unlocking</td><td>D? nh?t</td></tr>
-                <tr><td><strong>Xiaomi</strong></td><td>Mi Account + d?i 7 ng�y</td><td>C?n Mi Unlock Tool</td></tr>
-                <tr><td><strong>OnePlus</strong></td><td>Ch? c?n OEM Unlocking</td><td>D?</td></tr>
-                <tr><td><strong>Samsung</strong></td><td>Kh�ng h? tr? ch�nh th?c</td><td>C?n UnlockTool</td></tr>
-                <tr><td><strong>Huawei</strong></td><td>�� ng?ng c?p code</td><td>C?n tool b�n th? 3</td></tr>
+                <tr><td><strong>Google Pixel</strong></td><td>Chỉ cần OEM Unlocking</td><td>Dễ nhất</td></tr>
+                <tr><td><strong>Xiaomi</strong></td><td>Mi Account + đợi 7 ngày</td><td>Cần Mi Unlock Tool</td></tr>
+                <tr><td><strong>OnePlus</strong></td><td>Chỉ cần OEM Unlocking</td><td>Dễ</td></tr>
+                <tr><td><strong>Samsung</strong></td><td>Không hỗ trợ chính thức</td><td>Cần UnlockTool</td></tr>
+                <tr><td><strong>Huawei</strong></td><td>Đã ngừng cấp code</td><td>Cần tool bên thứ 3</td></tr>
             </tbody>
         </table>
         
         <div class="price-box">
-            <h3><i class="fas fa-tools me-2"></i>Kh�ng Unlock �u?c?</h3>
-            <p>D�ng UnlockTool d? unlock bootloader Samsung, Huawei v� nhi?u h�ng kh�c!</p>
-            <a href="https://www.unlocktool.us/" class="btn btn-dark btn-lg"><i class="fas fa-bolt me-2"></i>Thu� UnlockTool 8K/6H</a>
+            <h3><i class="fas fa-tools me-2"></i>Không Unlock Được?</h3>
+            <p>Dùng UnlockTool để unlock bootloader Samsung, Huawei và nhiều hãng khác!</p>
+            <a href="https://www.unlocktool.us/" class="btn btn-dark btn-lg"><i class="fas fa-bolt me-2"></i>Thuê UnlockTool 8K/6H</a>
         </div>
         
-        <h2 id="fix-loi"><i class="fas fa-wrench me-2"></i>7. Kh?c ph?c l?i thu?ng g?p</h2>
+        <h2 id="fix-loi"><i class="fas fa-wrench me-2"></i>7. Khắc phục lỗi thường gặp</h2>
         
-        <h3>7.1. ADB kh�ng nh?n thi?t b?</h3>
+        <h3>7.1. ADB không nhận thiết bị</h3>
         <div class="danger-box">
-            <h5><i class="fas fa-times-circle me-2"></i>Nguy�n nh�n:</h5>
+            <h5><i class="fas fa-times-circle me-2"></i>Nguyên nhân:</h5>
             <ul>
-                <li>USB Debugging chua b?t</li>
-                <li>Chua nh?n "Allow" khi k?t n?i</li>
-                <li>Driver chua c�i</li>
-                <li>C�p USB l?i</li>
+                <li>USB Debugging chưa bật</li>
+                <li>Chưa nhấn "Allow" khi kết nối</li>
+                <li>Driver chưa cài</li>
+                <li>Cáp USB lỗi</li>
             </ul>
         </div>
         
         <div class="info-box">
-            <h5><i class="fas fa-check-circle me-2"></i>C�ch kh?c ph?c:</h5>
+            <h5><i class="fas fa-check-circle me-2"></i>Cách khắc phục:</h5>
             <ul class="mb-0">
-                <li>Ki?m tra USB Debugging d� b?t</li>
-                <li>Nh?n "Allow USB debugging" tr�n di?n tho?i khi k?t n?i</li>
-                <li>C�i driver Google USB Driver ho?c driver c?a h�ng</li>
-                <li>Th?: <code>adb kill-server</code> r?i <code>adb start-server</code></li>
+                <li>Kiểm tra USB Debugging đã bật</li>
+                <li>Nhấn "Allow USB debugging" trên điện thoại khi kết nối</li>
+                <li>Cài driver Google USB Driver hoặc driver của hãng</li>
+                <li>Thử: <code>adb kill-server</code> rồi <code>adb start-server</code></li>
             </ul>
         </div>
         
-        <h3>7.2. Fastboot kh�ng nh?n thi?t b?</h3>
-        <p>Fastboot c?n driver ri�ng. C�i Google USB Driver ho?c driver t? h�ng (Samsung, Xiaomi...).</p>
+        <h3>7.2. Fastboot không nhận thiết bị</h3>
+        <p>Fastboot cần driver riêng. Cài Google USB Driver hoặc driver từ hãng (Samsung, Xiaomi...).</p>
         
-        <h3>7.3. L?i "unauthorized"</h3>
-        <p>Khi ch?y <code>adb devices</code> hi?n "unauthorized":</p>
+        <h3>7.3. Lỗi "unauthorized"</h3>
+        <p>Khi chạy <code>adb devices</code> hiện "unauthorized":</p>
         <ul>
-            <li>M? kh�a di?n tho?i v� nh?n "Allow" trong popup USB debugging</li>
+            <li>Mở khóa điện thoại và nhấn "Allow" trong popup USB debugging</li>
             <li>Tick "Always allow from this computer"</li>
         </ul>
         
-        <h2 id="faq"><i class="fas fa-comments me-2"></i>8. FAQ - C�u h?i thu?ng g?p</h2>
+        <h2 id="faq"><i class="fas fa-comments me-2"></i>8. FAQ - Câu hỏi thường gặp</h2>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>ADB l� g�?</h5>
-            <p><strong>ADB (Android Debug Bridge)</strong> l� c�ng c? d�ng l?nh cho ph�p giao ti?p v?i Android t? m�y t�nh. D�ng d? c�i app, copy file, ch?y shell, debug ?ng d?ng.</p>
+            <h5><i class="fas fa-question me-2"></i>ADB là gì?</h5>
+            <p><strong>ADB (Android Debug Bridge)</strong> là công cụ dòng lệnh cho phép giao tiếp với Android từ máy tính. Dùng để cài app, copy file, chạy shell, debug ứng dụng.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Fastboot l� g�?</h5>
-            <p><strong>Fastboot</strong> l� giao th?c thao t�c v?i thi?t b? ? ch? d? bootloader. D�ng d? unlock bootloader, flash firmware, flash recovery.</p>
+            <h5><i class="fas fa-question me-2"></i>Fastboot là gì?</h5>
+            <p><strong>Fastboot</strong> là giao thức thao tác với thiết bị ở chế độ bootloader. Dùng để unlock bootloader, flash firmware, flash recovery.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Unlock bootloader c� x�a d? li?u kh�ng?</h5>
-            <p><strong>C�.</strong> Unlock bootloader s? factory reset v� x�a t?t c? d? li?u. Lu�n backup tru?c khi th?c hi?n.</p>
+            <h5><i class="fas fa-question me-2"></i>Unlock bootloader có xóa dữ liệu không?</h5>
+            <p><strong>Có.</strong> Unlock bootloader sẽ factory reset và xóa tất cả dữ liệu. Luôn backup trước khi thực hiện.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>ADB c� an to�n kh�ng?</h5>
-            <p><strong>C�.</strong> ADB l� c�ng c? ch�nh th?c t? Google. Tuy nhi�n, h�y c?n th?n khi ch?y c�c l?nh shell v?i quy?n root.</p>
+            <h5><i class="fas fa-question me-2"></i>ADB có an toàn không?</h5>
+            <p><strong>Có.</strong> ADB là công cụ chính thức từ Google. Tuy nhiên, hãy cẩn thận khi chạy các lệnh shell với quyền root.</p>
         </div>
         
-        <h2><i class="fas fa-link me-2"></i>B�i vi?t li�n quan</h2>
+        <h2><i class="fas fa-link me-2"></i>Bài viết liên quan</h2>
         <ul>
-            <li><a href="154-loi-samsung-download-mode.php">Samsung Download Mode - Hu?ng d?n</a></li>
-            <li><a href="64-qualcomm-edl-mode.php">Qualcomm EDL Mode - Hu?ng d?n</a></li>
-            <li><a href="134-flash-samsung-odin.php">Flash Samsung b?ng Odin</a></li>
-            <li><a href="135-flash-xiaomi-mi-flash.php">Flash Xiaomi b?ng Mi Flash</a></li>
-            <li><a href="1-unlocktool-la-gi.php">UnlockTool l� g�?</a></li>
+            <li><a href="154-loi-samsung-download-mode.php">Samsung Download Mode - Hướng dẫn</a></li>
+            <li><a href="64-qualcomm-edl-mode.php">Qualcomm EDL Mode - Hướng dẫn</a></li>
+            <li><a href="134-flash-samsung-odin.php">Flash Samsung bằng Odin</a></li>
+            <li><a href="135-flash-xiaomi-mi-flash.php">Flash Xiaomi bằng Mi Flash</a></li>
+            <li><a href="1-unlocktool-la-gi.php">UnlockTool là gì?</a></li>
         </ul>
         
     </div>
@@ -501,7 +531,7 @@ $canonical_url = "https://www.unlocktool.us/articles/136-adb-fastboot-huong-dan.
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -515,13 +545,13 @@ $canonical_url = "https://www.unlocktool.us/articles/136-adb-fastboot-huong-dan.
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -529,15 +559,15 @@ $canonical_url = "https://www.unlocktool.us/articles/136-adb-fastboot-huong-dan.
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -550,7 +580,7 @@ $canonical_url = "https://www.unlocktool.us/articles/136-adb-fastboot-huong-dan.
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -558,8 +588,8 @@ $canonical_url = "https://www.unlocktool.us/articles/136-adb-fastboot-huong-dan.
 </div>
 <footer class="bg-dark text-white py-4 text-center">
     <div class="container">
-        <p class="mb-2">&copy; 2026 UnlockTool.us - D?ch v? cho thu� UnlockTool uy t�n #1 Vi?t Nam</p>
-        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thu� UnlockTool 8K</a></p>
+        <p class="mb-2">&copy; 2026 UnlockTool.us - Dịch vụ cho thuê UnlockTool uy tín #1 Việt Nam</p>
+        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thuê UnlockTool 8K</a></p>
     </div>
 </footer>
 

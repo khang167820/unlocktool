@@ -1,7 +1,7 @@
-<?php
-$page_title = "Bypass iCloud iPhone 6s/6s Plus 2026 - Hu?ng D?n �?y �? | Thu� Tool 8K/6H";
-$page_description = "Hu?ng d?n bypass iCloud iPhone 6s v� 6s Plus chi ti?t nh?t 2026. Chip A9 h? tr? checkm8, bypass d? d�ng v?i UnlockTool. Thu� tool ch? 8.000d/6h t?i UnlockTool.us";
-$page_keywords = "bypass icloud iphone 6s, bypass icloud iphone 6s plus, m? kh�a icloud iphone 6s, unlock iphone 6s icloud, checkm8 iphone 6s";
+﻿<?php
+$page_title = "Bypass iCloud iPhone 6s/6s Plus 2026 - Hướng Dẫn Đầy Đủ | Thuê Tool 8K/6H";
+$page_description = "Hướng dẫn bypass iCloud iPhone 6s và 6s Plus chi tiết nhất 2026. Chip A9 hỗ trợ checkm8, bypass dễ dàng với UnlockTool. Thuê tool chỉ 8.000đ/6h tại UnlockTool.us";
+$page_keywords = "bypass icloud iphone 6s, bypass icloud iphone 6s plus, mở khóa icloud iphone 6s, unlock iphone 6s icloud, checkm8 iphone 6s";
 $canonical_url = "https://www.unlocktool.us/articles/90-bypass-icloud-iphone-6s.php";
 ?>
 <!DOCTYPE html>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/90-bypass-icloud-iphone-6s.
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/90-bypass-icloud-iphone-6s.
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hu?ng d?n k? thu?t">
+    <meta property="article:section" content="Hướng dẫn kỹ thuật">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="M? kh�a di?n tho?i">
+    <meta property="article:tag" content="Mở khóa điện thoại">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -50,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/90-bypass-icloud-iphone-6s.
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -60,18 +60,18 @@ $canonical_url = "https://www.unlocktool.us/articles/90-bypass-icloud-iphone-6s.
     {"@context":"https://schema.org","@type":"Article","headline":"<?php echo $page_title; ?>","author":{"@type":"Organization","name":"UnlockTool.us"},"datePublished":"2026-01-25"}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"HowTo","name":"Bypass iCloud iPhone 6s","description":"Hu?ng d?n bypass iCloud iPhone 6s b?ng UnlockTool","step":[
-        {"@type":"HowToStep","name":"C�i iTunes","text":"C�i d?t iTunes d? c� driver Apple Mobile Device"},
-        {"@type":"HowToStep","name":"T?i UnlockTool","text":"T?i UnlockTool t? file.unlocktool.net v� dang nh?p"},
-        {"@type":"HowToStep","name":"V�o DFU Mode","text":"�ua iPhone 6s v�o DFU b?ng c�ch gi? Home + Power"},
-        {"@type":"HowToStep","name":"Bypass","text":"Trong UnlockTool ch?n iPhone > Hello Bypass > Start"}
+    {"@context":"https://schema.org","@type":"HowTo","name":"Bypass iCloud iPhone 6s","description":"Hướng dẫn bypass iCloud iPhone 6s bằng UnlockTool","step":[
+        {"@type":"HowToStep","name":"Cài iTunes","text":"Cài đặt iTunes để có driver Apple Mobile Device"},
+        {"@type":"HowToStep","name":"Tải UnlockTool","text":"Tải UnlockTool từ file.unlocktool.net và đăng nhập"},
+        {"@type":"HowToStep","name":"Vào DFU Mode","text":"Đưa iPhone 6s vào DFU bằng cách giữ Home + Power"},
+        {"@type":"HowToStep","name":"Bypass","text":"Trong UnlockTool chọn iPhone > Hello Bypass > Start"}
     ]}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"iPhone 6s bypass iCloud du?c kh�ng?","acceptedAnswer":{"@type":"Answer","text":"C�, iPhone 6s v� 6s Plus s? d?ng chip A9 c� l? h?ng checkm8, ho�n to�n c� th? bypass iCloud b?ng UnlockTool v?i gi� 8.000d/6h."}},
-        {"@type":"Question","name":"Bypass iCloud iPhone 6s m?t bao l�u?","acceptedAnswer":{"@type":"Answer","text":"Bypass iCloud iPhone 6s ch? m?t kho?ng 3-8 ph�t v� chip A9 x? l� nhanh hon c�c d?i cu."}},
-        {"@type":"Question","name":"iPhone 6s sau bypass c� d�ng SIM du?c kh�ng?","acceptedAnswer":{"@type":"Answer","text":"T�y phuong ph�p bypass. Hello Bypass co b?n c� th? kh�ng c� SIM signal. C?n bypass v?i option c� SIM n?u mu?n g?i di?n."}}
+        {"@type":"Question","name":"iPhone 6s bypass iCloud được không?","acceptedAnswer":{"@type":"Answer","text":"Có, iPhone 6s và 6s Plus sử dụng chip A9 có lỗ hổng checkm8, hoàn toàn có thể bypass iCloud bằng UnlockTool với giá 8.000đ/6h."}},
+        {"@type":"Question","name":"Bypass iCloud iPhone 6s mất bao lâu?","acceptedAnswer":{"@type":"Answer","text":"Bypass iCloud iPhone 6s chỉ mất khoảng 3-8 phút vì chip A9 xử lý nhanh hơn các đời cũ."}},
+        {"@type":"Question","name":"iPhone 6s sau bypass có dùng SIM được không?","acceptedAnswer":{"@type":"Answer","text":"Tùy phương pháp bypass. Hello Bypass cơ bản có thể không có SIM signal. Cần bypass với option có SIM nếu muốn gọi điện."}}
     ]}
     </script>
     
@@ -127,14 +127,44 @@ $canonical_url = "https://www.unlocktool.us/articles/90-bypass-icloud-iphone-6s.
         }
     }
     </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "UnlockTool.us",
+        "url": "https://www.unlocktool.us",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.unlocktool.us/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Dịch vụ mở khóa điện thoại",
+        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "162"
+        }
+    }
+    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -143,17 +173,17 @@ $canonical_url = "https://www.unlocktool.us/articles/90-bypass-icloud-iphone-6s.
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-8">
-                <span class="badge bg-success mb-3">H? TR? CHECKM8 - D? BYPASS</span>
+                <span class="badge bg-success mb-3">HỖ TRỢ CHECKM8 - DỄ BYPASS</span>
                 <h1><i class="fab fa-apple me-3"></i><?php echo $page_title; ?></h1>
-                <p class="lead mb-4">Hu?ng d?n bypass iCloud iPhone 6s v� 6s Plus chi ti?t nh?t 2026. Chip A9 h? tr? checkm8 - Bypass nhanh, d? d�ng ch? v?i 8.000d/6 ti?ng!</p>
+                <p class="lead mb-4">Hướng dẫn bypass iCloud iPhone 6s và 6s Plus chi tiết nhất 2026. Chip A9 hỗ trợ checkm8 - Bypass nhanh, dễ dàng chỉ với 8.000đ/6 tiếng!</p>
                 <div class="d-flex flex-wrap gap-3">
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thu� Tool 8K/6H</a>
-                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>D?ch V? L�m H?</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê Tool 8K/6H</a>
+                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>Dịch Vụ Làm Hộ</a>
                 </div>
             </div>
             <div class="col-lg-4 text-center mt-4 mt-lg-0">
                 <i class="fab fa-apple fa-6x"></i>
-                <p class="mt-3 fw-bold">Chip A9 - Checkm8 ?</p>
+                <p class="mt-3 fw-bold">Chip A9 - Checkm8 ✓</p>
             </div>
         </div>
     </div>
@@ -163,75 +193,75 @@ $canonical_url = "https://www.unlocktool.us/articles/90-bypass-icloud-iphone-6s.
     <div class="row">
         <div class="col-lg-8">
             
-            <!-- M?c l?c -->
+            <!-- Mục lục -->
             <div class="toc-box">
-                <h4><i class="fas fa-list me-2"></i>M?c L?c B�i Vi?t</h4>
+                <h4><i class="fas fa-list me-2"></i>Mục Lục Bài Viết</h4>
                 <ul class="list-unstyled">
-                    <li><a href="#gioi-thieu">1. Gi?i thi?u iPhone 6s/6s Plus</a></li>
-                    <li><a href="#checkm8">2. Checkm8 v� kh? nang bypass iPhone 6s</a></li>
-                    <li><a href="#chuan-bi">3. Chu?n b? tru?c khi bypass</a></li>
-                    <li><a href="#huong-dan">4. Hu?ng d?n bypass chi ti?t t?ng bu?c</a></li>
-                    <li><a href="#dfu-mode">5. C�ch v�o DFU Mode iPhone 6s (n�t Home v?t l�)</a></li>
-                    <li><a href="#sau-bypass">6. Sau khi bypass th�nh c�ng</a></li>
-                    <li><a href="#loi-thuong-gap">7. L?i thu?ng g?p v� c�ch kh?c ph?c</a></li>
-                    <li><a href="#faq">8. C�u h?i thu?ng g?p (FAQ)</a></li>
+                    <li><a href="#gioi-thieu">1. Giới thiệu iPhone 6s/6s Plus</a></li>
+                    <li><a href="#checkm8">2. Checkm8 và khả năng bypass iPhone 6s</a></li>
+                    <li><a href="#chuan-bi">3. Chuẩn bị trước khi bypass</a></li>
+                    <li><a href="#huong-dan">4. Hướng dẫn bypass chi tiết từng bước</a></li>
+                    <li><a href="#dfu-mode">5. Cách vào DFU Mode iPhone 6s (nút Home vật lý)</a></li>
+                    <li><a href="#sau-bypass">6. Sau khi bypass thành công</a></li>
+                    <li><a href="#loi-thuong-gap">7. Lỗi thường gặp và cách khắc phục</a></li>
+                    <li><a href="#faq">8. Câu hỏi thường gặp (FAQ)</a></li>
                 </ul>
             </div>
 
-            <!-- Gi?i thi?u -->
+            <!-- Giới thiệu -->
             <section id="gioi-thieu">
-                <h2><i class="fab fa-apple me-2"></i>1. Gi?i Thi?u iPhone 6s/6s Plus</h2>
+                <h2><i class="fab fa-apple me-2"></i>1. Giới Thiệu iPhone 6s/6s Plus</h2>
                 
-                <p><strong>iPhone 6s</strong> v� <strong>iPhone 6s Plus</strong> ra m?t th�ng 9/2015, l� th? h? d?u ti�n trang b? c�ng ngh? 3D Touch v� quay video 4K. ��y cung l� d�ng iPhone cu?i c�ng c� jack tai nghe 3.5mm tru?c khi Apple lo?i b? ? iPhone 7.</p>
+                <p><strong>iPhone 6s</strong> và <strong>iPhone 6s Plus</strong> ra mắt tháng 9/2015, là thế hệ đầu tiên trang bị công nghệ 3D Touch và quay video 4K. Đây cũng là dòng iPhone cuối cùng có jack tai nghe 3.5mm trước khi Apple loại bỏ ở iPhone 7.</p>
 
-                <p>V?i chip A9 m?nh m?, iPhone 6s v?n du?c Apple h? tr? c?p nh?t iOS trong nhi?u nam v� v?n l� l?a ch?n ph? bi?n cho ngu?i d�ng mu?n iPhone gi� r?. �?c bi?t, chip A9 c� l? h?ng checkm8, gi�p vi?c bypass iCloud tr? n�n d? d�ng.</p>
+                <p>Với chip A9 mạnh mẽ, iPhone 6s vẫn được Apple hỗ trợ cập nhật iOS trong nhiều năm và vẫn là lựa chọn phổ biến cho người dùng muốn iPhone giá rẻ. Đặc biệt, chip A9 có lỗ hổng checkm8, giúp việc bypass iCloud trở nên dễ dàng.</p>
 
-                <h3>Th�ng s? k? thu?t</h3>
+                <h3>Thông số kỹ thuật</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Th�ng s?</th>
+                            <th>Thông số</th>
                             <th>iPhone 6s</th>
                             <th>iPhone 6s Plus</th>
                         </tr>
                     </thead>
                     <tbody>
-                        <tr><td><strong>Ra m?t</strong></td><td colspan="2">Th�ng 9/2015</td></tr>
-                        <tr><td><strong>M�n h�nh</strong></td><td>4.7" Retina HD (1334x750)</td><td>5.5" Retina HD (1920x1080)</td></tr>
+                        <tr><td><strong>Ra mắt</strong></td><td colspan="2">Tháng 9/2015</td></tr>
+                        <tr><td><strong>Màn hình</strong></td><td>4.7" Retina HD (1334x750)</td><td>5.5" Retina HD (1920x1080)</td></tr>
                         <tr><td><strong>Chip</strong></td><td colspan="2">Apple A9 + M9 coprocessor</td></tr>
                         <tr><td><strong>RAM</strong></td><td colspan="2">2GB</td></tr>
-                        <tr><td><strong>B? nh?</strong></td><td colspan="2">16GB / 32GB / 64GB / 128GB</td></tr>
-                        <tr><td><strong>Camera sau</strong></td><td colspan="2">12MP v?i OIS (Plus), video 4K</td></tr>
-                        <tr><td><strong>Camera tru?c</strong></td><td colspan="2">5MP</td></tr>
-                        <tr><td><strong>Touch ID</strong></td><td colspan="2">Th? h? 2 (nhanh hon)</td></tr>
-                        <tr><td><strong>3D Touch</strong></td><td colspan="2">C�</td></tr>
-                        <tr><td><strong>Ch?t li?u</strong></td><td colspan="2">Nh�m Series 7000</td></tr>
-                        <tr><td><strong>Checkm8</strong></td><td colspan="2" class="text-success fw-bold">? H? tr? bypass</td></tr>
+                        <tr><td><strong>Bộ nhớ</strong></td><td colspan="2">16GB / 32GB / 64GB / 128GB</td></tr>
+                        <tr><td><strong>Camera sau</strong></td><td colspan="2">12MP với OIS (Plus), video 4K</td></tr>
+                        <tr><td><strong>Camera trước</strong></td><td colspan="2">5MP</td></tr>
+                        <tr><td><strong>Touch ID</strong></td><td colspan="2">Thế hệ 2 (nhanh hơn)</td></tr>
+                        <tr><td><strong>3D Touch</strong></td><td colspan="2">Có</td></tr>
+                        <tr><td><strong>Chất liệu</strong></td><td colspan="2">Nhôm Series 7000</td></tr>
+                        <tr><td><strong>Checkm8</strong></td><td colspan="2" class="text-success fw-bold">✓ Hỗ trợ bypass</td></tr>
                     </tbody>
                 </table>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-check-circle me-2"></i>Tin vui cho ngu?i d�ng iPhone 6s!</h5>
-                    <p class="mb-0">iPhone 6s v� 6s Plus s? d?ng chip A9 c� l? h?ng checkm8 - l?i ph?n c?ng kh�ng th? v� b?ng ph?n m?m. �i?u n�y cho ph�p bypass iCloud d? d�ng v?i t? l? th�nh c�ng cao. Gi� ch? <strong>8.000d/6 ti?ng</strong> t?i UnlockTool.us!</p>
+                    <h5><i class="fas fa-check-circle me-2"></i>Tin vui cho người dùng iPhone 6s!</h5>
+                    <p class="mb-0">iPhone 6s và 6s Plus sử dụng chip A9 có lỗ hổng checkm8 - lỗi phần cứng không thể vá bằng phần mềm. Điều này cho phép bypass iCloud dễ dàng với tỷ lệ thành công cao. Giá chỉ <strong>8.000đ/6 tiếng</strong> tại UnlockTool.us!</p>
                 </div>
 
-                <h3>T?i sao iPhone 6s v?n ph? bi?n?</h3>
+                <h3>Tại sao iPhone 6s vẫn phổ biến?</h3>
                 <ul>
-                    <li><strong>Gi� r?:</strong> iPhone 6s cu gi� ch? t? 1-2 tri?u d?ng</li>
-                    <li><strong>Hi?u nang t?t:</strong> Chip A9 v?n ch?y mu?t c�c ?ng d?ng co b?n</li>
-                    <li><strong>Touch ID th? h? 2:</strong> Nhanh v� ch�nh x�c</li>
-                    <li><strong>Jack tai nghe 3.5mm:</strong> Ti?n l?i cho ngu?i d�ng tai nghe c� d�y</li>
-                    <li><strong>iOS h? tr?:</strong> �u?c c?p nh?t iOS 15 (phi�n b?n cu?i)</li>
+                    <li><strong>Giá rẻ:</strong> iPhone 6s cũ giá chỉ từ 1-2 triệu đồng</li>
+                    <li><strong>Hiệu năng tốt:</strong> Chip A9 vẫn chạy mượt các ứng dụng cơ bản</li>
+                    <li><strong>Touch ID thế hệ 2:</strong> Nhanh và chính xác</li>
+                    <li><strong>Jack tai nghe 3.5mm:</strong> Tiện lợi cho người dùng tai nghe có dây</li>
+                    <li><strong>iOS hỗ trợ:</strong> Được cập nhật iOS 15 (phiên bản cuối)</li>
                 </ul>
             </section>
 
             <!-- Checkm8 -->
             <section id="checkm8">
-                <h2><i class="fas fa-unlock me-2"></i>2. Checkm8 v� Kh? Nang Bypass iPhone 6s</h2>
+                <h2><i class="fas fa-unlock me-2"></i>2. Checkm8 và Khả Năng Bypass iPhone 6s</h2>
                 
-                <p><strong>Checkm8</strong> (d?c l� "checkmate" - chi?u h?t trong c? vua) l� l? h?ng b?o m?t trong bootrom c?a Apple du?c ph�t hi?n nam 2019. ��y l� l?i ph?n c?ng, c� nghia l� Apple kh�ng th? v� b?ng c?p nh?t ph?n m?m.</p>
+                <p><strong>Checkm8</strong> (đọc là "checkmate" - chiếu hết trong cờ vua) là lỗ hổng bảo mật trong bootrom của Apple được phát hiện năm 2019. Đây là lỗi phần cứng, có nghĩa là Apple không thể vá bằng cập nhật phần mềm.</p>
 
-                <h3>C�c chip Apple b? ?nh hu?ng b?i checkm8:</h3>
+                <h3>Các chip Apple bị ảnh hưởng bởi checkm8:</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
@@ -241,227 +271,227 @@ $canonical_url = "https://www.unlocktool.us/articles/90-bypass-icloud-iphone-6s.
                         </tr>
                     </thead>
                     <tbody>
-                        <tr><td>A5</td><td>iPhone 4s</td><td class="text-success">?</td></tr>
-                        <tr><td>A6</td><td>iPhone 5, 5c</td><td class="text-success">?</td></tr>
-                        <tr><td>A7</td><td>iPhone 5s</td><td class="text-success">?</td></tr>
-                        <tr><td>A8</td><td>iPhone 6, 6 Plus</td><td class="text-success">?</td></tr>
-                        <tr class="table-warning"><td><strong>A9</strong></td><td><strong>iPhone 6s, 6s Plus, SE</strong></td><td class="text-success fw-bold">? Bypass du?c</td></tr>
-                        <tr><td>A10</td><td>iPhone 7, 7 Plus</td><td class="text-success">?</td></tr>
-                        <tr><td>A11</td><td>iPhone 8, 8 Plus, X</td><td class="text-success">?</td></tr>
-                        <tr><td>A12+</td><td>iPhone XR tr? l�n</td><td class="text-danger">?</td></tr>
+                        <tr><td>A5</td><td>iPhone 4s</td><td class="text-success">✓</td></tr>
+                        <tr><td>A6</td><td>iPhone 5, 5c</td><td class="text-success">✓</td></tr>
+                        <tr><td>A7</td><td>iPhone 5s</td><td class="text-success">✓</td></tr>
+                        <tr><td>A8</td><td>iPhone 6, 6 Plus</td><td class="text-success">✓</td></tr>
+                        <tr class="table-warning"><td><strong>A9</strong></td><td><strong>iPhone 6s, 6s Plus, SE</strong></td><td class="text-success fw-bold">✓ Bypass được</td></tr>
+                        <tr><td>A10</td><td>iPhone 7, 7 Plus</td><td class="text-success">✓</td></tr>
+                        <tr><td>A11</td><td>iPhone 8, 8 Plus, X</td><td class="text-success">✓</td></tr>
+                        <tr><td>A12+</td><td>iPhone XR trở lên</td><td class="text-danger">✗</td></tr>
                     </tbody>
                 </table>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-info-circle me-2"></i>Checkm8 ho?t d?ng nhu th? n�o?</h5>
-                    <p class="mb-0">Checkm8 khai th�c l? h?ng trong DFU Mode c?a iPhone, cho ph�p th?c thi m� t�y � trong bootrom. T? d�, c� th? jailbreak v� bypass c�c l?p b?o m?t nhu iCloud Activation Lock. V� l� l?i ph?n c?ng trong chip, Apple kh�ng th? s?a b?ng c?p nh?t iOS - ch? c� th? thay chip m?i (t?c l� mua iPhone m?i).</p>
+                    <h5><i class="fas fa-info-circle me-2"></i>Checkm8 hoạt động như thế nào?</h5>
+                    <p class="mb-0">Checkm8 khai thác lỗ hổng trong DFU Mode của iPhone, cho phép thực thi mã tùy ý trong bootrom. Từ đó, có thể jailbreak và bypass các lớp bảo mật như iCloud Activation Lock. Vì là lỗi phần cứng trong chip, Apple không thể sửa bằng cập nhật iOS - chỉ có thể thay chip mới (tức là mua iPhone mới).</p>
                 </div>
             </section>
 
-            <!-- Chu?n b? -->
+            <!-- Chuẩn bị -->
             <section id="chuan-bi">
-                <h2><i class="fas fa-clipboard-check me-2"></i>3. Chu?n B? Tru?c Khi Bypass</h2>
+                <h2><i class="fas fa-clipboard-check me-2"></i>3. Chuẩn Bị Trước Khi Bypass</h2>
                 
-                <h3>3.1. Y�u c?u ph?n c?ng</h3>
+                <h3>3.1. Yêu cầu phần cứng</h3>
                 <ul>
-                    <li><strong>M�y t�nh Windows:</strong> Windows 7/8/10/11 (64-bit khuy?n ngh?)</li>
-                    <li><strong>C�p Lightning:</strong> C�p ch�nh h�ng Apple ho?c c�p MFi certified ch?t lu?ng t?t</li>
-                    <li><strong>iPhone 6s/6s Plus:</strong> Pin c�n �t nh?t 30%</li>
-                    <li><strong>Internet:</strong> K?t n?i ?n d?nh d? x�c th?c tool</li>
+                    <li><strong>Máy tính Windows:</strong> Windows 7/8/10/11 (64-bit khuyến nghị)</li>
+                    <li><strong>Cáp Lightning:</strong> Cáp chính hãng Apple hoặc cáp MFi certified chất lượng tốt</li>
+                    <li><strong>iPhone 6s/6s Plus:</strong> Pin còn ít nhất 30%</li>
+                    <li><strong>Internet:</strong> Kết nối ổn định để xác thực tool</li>
                 </ul>
 
-                <h3>3.2. Ph?n m?m c?n c�i d?t</h3>
+                <h3>3.2. Phần mềm cần cài đặt</h3>
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-music text-primary me-2"></i>iTunes</h5>
-                            <p class="small">C?n d? c� driver Apple Mobile Device.</p>
-                            <a href="https://www.apple.com/itunes/" target="_blank" class="btn btn-outline-primary btn-sm">T?i iTunes</a>
+                            <p class="small">Cần để có driver Apple Mobile Device.</p>
+                            <a href="https://www.apple.com/itunes/" target="_blank" class="btn btn-outline-primary btn-sm">Tải iTunes</a>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-tools text-success me-2"></i>UnlockTool</h5>
-                            <p class="small">Ph?n m?m bypass iCloud.</p>
-                            <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-success btn-sm">T?i UnlockTool</a>
+                            <p class="small">Phần mềm bypass iCloud.</p>
+                            <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-success btn-sm">Tải UnlockTool</a>
                         </div>
                     </div>
                 </div>
 
-                <h3>3.3. Thu� t�i kho?n UnlockTool</h3>
+                <h3>3.3. Thuê tài khoản UnlockTool</h3>
                 <div class="price-highlight">
-                    <h4><i class="fas fa-tag me-2"></i>Thu� Tool Bypass iCloud</h4>
-                    <p class="price">8.000d</p>
-                    <p class="h4">/ 6 ti?ng</p>
-                    <p class="mt-3">H? th?ng t? d?ng 24/7 - Nh?n ngay sau thanh to�n</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-shopping-cart me-2"></i>Thu� Ngay - UnlockTool.us</a>
+                    <h4><i class="fas fa-tag me-2"></i>Thuê Tool Bypass iCloud</h4>
+                    <p class="price">8.000đ</p>
+                    <p class="h4">/ 6 tiếng</p>
+                    <p class="mt-3">Hệ thống tự động 24/7 - Nhận ngay sau thanh toán</p>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-shopping-cart me-2"></i>Thuê Ngay - UnlockTool.us</a>
                 </div>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu � quan tr?ng tru?c khi b?t d?u</h5>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý quan trọng trước khi bắt đầu</h5>
                     <ul class="mb-0">
-                        <li><strong>T?t Windows Defender:</strong> Settings > Windows Security > Virus & threat protection > Real-time protection OFF</li>
-                        <li><strong>T?t c�c antivirus kh�c:</strong> Kaspersky, Avast, AVG, Norton...</li>
-                        <li><strong>Ch?y v?i quy?n Administrator:</strong> Chu?t ph?i v�o UnlockTool.exe > Run as administrator</li>
-                        <li><strong>Kh�ng c�i trong Program Files:</strong> N�n c�i v�o D:\ ho?c thu m?c kh�ng c� k� t? d?c bi?t</li>
+                        <li><strong>Tắt Windows Defender:</strong> Settings > Windows Security > Virus & threat protection > Real-time protection OFF</li>
+                        <li><strong>Tắt các antivirus khác:</strong> Kaspersky, Avast, AVG, Norton...</li>
+                        <li><strong>Chạy với quyền Administrator:</strong> Chuột phải vào UnlockTool.exe > Run as administrator</li>
+                        <li><strong>Không cài trong Program Files:</strong> Nên cài vào D:\ hoặc thư mục không có ký tự đặc biệt</li>
                     </ul>
                 </div>
             </section>
 
-            <!-- Hu?ng d?n -->
+            <!-- Hướng dẫn -->
             <section id="huong-dan">
-                <h2><i class="fas fa-list-ol me-2"></i>4. Hu?ng D?n Bypass Chi Ti?t T?ng Bu?c</h2>
+                <h2><i class="fas fa-list-ol me-2"></i>4. Hướng Dẫn Bypass Chi Tiết Từng Bước</h2>
                 
                 <div class="step-card">
                     <div class="step-number">1</div>
-                    <h4>C�i d?t iTunes</h4>
-                    <p>T?i iTunes t? trang ch? Apple v� c�i d?t. Sau khi c�i xong, <strong>kh?i d?ng l?i m�y t�nh</strong> d? d?m b?o driver Apple Mobile Device du?c c�i d?y d?.</p>
-                    <p>Ki?m tra driver: M? Device Manager > Portable Devices > N?u th?y Apple iPhone khi c?m m�y l� OK.</p>
+                    <h4>Cài đặt iTunes</h4>
+                    <p>Tải iTunes từ trang chủ Apple và cài đặt. Sau khi cài xong, <strong>khởi động lại máy tính</strong> để đảm bảo driver Apple Mobile Device được cài đầy đủ.</p>
+                    <p>Kiểm tra driver: Mở Device Manager > Portable Devices > Nếu thấy Apple iPhone khi cắm máy là OK.</p>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">2</div>
-                    <h4>T?i v� m? UnlockTool</h4>
+                    <h4>Tải và mở UnlockTool</h4>
                     <ol>
-                        <li>T?i UnlockTool t? <a href="https://file.unlocktool.net/page/index.php" target="_blank">file.unlocktool.net</a></li>
-                        <li>Gi?i n�n v�o thu m?c (v� d?: D:\UnlockTool)</li>
-                        <li>Chu?t ph?i v�o <strong>UnlockTool.exe</strong> > Run as administrator</li>
-                        <li>Nh?p Username v� Password d� thu� t? UnlockTool.us</li>
-                        <li>Nh?n <strong>Login</strong> v� ch? x�c th?c</li>
+                        <li>Tải UnlockTool từ <a href="https://file.unlocktool.net/page/index.php" target="_blank">file.unlocktool.net</a></li>
+                        <li>Giải nén vào thư mục (ví dụ: D:\UnlockTool)</li>
+                        <li>Chuột phải vào <strong>UnlockTool.exe</strong> > Run as administrator</li>
+                        <li>Nhập Username và Password đã thuê từ UnlockTool.us</li>
+                        <li>Nhấn <strong>Login</strong> và chờ xác thực</li>
                     </ol>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">3</div>
-                    <h4>�ua iPhone 6s v�o DFU Mode</h4>
-                    <p>iPhone 6s c� n�t Home v?t l�, n�n c�ch v�o DFU nhu sau:</p>
+                    <h4>Đưa iPhone 6s vào DFU Mode</h4>
+                    <p>iPhone 6s có nút Home vật lý, nên cách vào DFU như sau:</p>
                     <ol>
-                        <li>K?t n?i iPhone 6s v?i m�y t�nh qua c�p Lightning</li>
-                        <li>T?t ngu?n iPhone ho�n to�n (gi? Power > Slide to power off)</li>
-                        <li>Gi? d?ng th?i <strong>Home + Power</strong> trong 10 gi�y</li>
-                        <li>Sau 10 gi�y, <strong>th? n�t Power</strong>, ti?p t?c gi? n�t <strong>Home</strong> th�m 10 gi�y</li>
-                        <li>Ki?m tra:
+                        <li>Kết nối iPhone 6s với máy tính qua cáp Lightning</li>
+                        <li>Tắt nguồn iPhone hoàn toàn (giữ Power > Slide to power off)</li>
+                        <li>Giữ đồng thời <strong>Home + Power</strong> trong 10 giây</li>
+                        <li>Sau 10 giây, <strong>thả nút Power</strong>, tiếp tục giữ nút <strong>Home</strong> thêm 10 giây</li>
+                        <li>Kiểm tra:
                             <ul>
-                                <li>M�n h�nh iPhone den ho�n to�n = OK</li>
-                                <li>N?u th?y logo Apple = gi? Power qu� l�u, th? l?i</li>
-                                <li>N?u th?y "Connect to iTunes" = gi? Home qu� l�u, th? l?i</li>
+                                <li>Màn hình iPhone đen hoàn toàn = OK</li>
+                                <li>Nếu thấy logo Apple = giữ Power quá lâu, thử lại</li>
+                                <li>Nếu thấy "Connect to iTunes" = giữ Home quá lâu, thử lại</li>
                             </ul>
                         </li>
-                        <li>UnlockTool s? hi?n "DFU Mode detected" ho?c "PWNED DFU Mode"</li>
+                        <li>UnlockTool sẽ hiện "DFU Mode detected" hoặc "PWNED DFU Mode"</li>
                     </ol>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">4</div>
-                    <h4>Th?c hi?n bypass trong UnlockTool</h4>
+                    <h4>Thực hiện bypass trong UnlockTool</h4>
                     <ol>
-                        <li>Trong UnlockTool, ch?n tab <strong>iPhone</strong></li>
-                        <li>UnlockTool s? t? d?ng nh?n iPhone 6s dang ? DFU Mode</li>
-                        <li>Ch?n <strong>Hello Bypass</strong> (ho?c Passcode Bypass t�y t�nh tr?ng m�y)</li>
-                        <li>Nh?n <strong>Start</strong></li>
-                        <li>UnlockTool s? t? d?ng:
+                        <li>Trong UnlockTool, chọn tab <strong>iPhone</strong></li>
+                        <li>UnlockTool sẽ tự động nhận iPhone 6s đang ở DFU Mode</li>
+                        <li>Chọn <strong>Hello Bypass</strong> (hoặc Passcode Bypass tùy tình trạng máy)</li>
+                        <li>Nhấn <strong>Start</strong></li>
+                        <li>UnlockTool sẽ tự động:
                             <ul>
                                 <li>Exploit checkm8</li>
                                 <li>Jailbreak iPhone 6s</li>
                                 <li>Bypass Activation Lock</li>
                             </ul>
                         </li>
-                        <li>Ch? kho?ng 3-8 ph�t</li>
-                        <li>iPhone 6s kh?i d?ng l?i v� v�o m�n h�nh ch�nh</li>
-                        <li><strong>Bypass th�nh c�ng!</strong></li>
+                        <li>Chờ khoảng 3-8 phút</li>
+                        <li>iPhone 6s khởi động lại và vào màn hình chính</li>
+                        <li><strong>Bypass thành công!</strong></li>
                     </ol>
                 </div>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-check-circle me-2"></i>Xin ch�c m?ng!</h5>
-                    <p class="mb-0">N?u iPhone 6s d� v�o du?c m�n h�nh ch�nh m� kh�ng y�u c?u dang nh?p Apple ID cu, b?n d� bypass th�nh c�ng! B�y gi? c� th? s? d?ng m�y b�nh thu?ng.</p>
+                    <h5><i class="fas fa-check-circle me-2"></i>Xin chúc mừng!</h5>
+                    <p class="mb-0">Nếu iPhone 6s đã vào được màn hình chính mà không yêu cầu đăng nhập Apple ID cũ, bạn đã bypass thành công! Bây giờ có thể sử dụng máy bình thường.</p>
                 </div>
             </section>
 
             <!-- DFU Mode -->
             <section id="dfu-mode">
-                <h2><i class="fas fa-mobile-alt me-2"></i>5. C�ch V�o DFU Mode iPhone 6s (Chi Ti?t)</h2>
+                <h2><i class="fas fa-mobile-alt me-2"></i>5. Cách Vào DFU Mode iPhone 6s (Chi Tiết)</h2>
                 
-                <p>iPhone 6s l� m?t trong nh?ng model d? v�o DFU nh?t v� c� n�t Home v?t l�. Du?i d�y l� hu?ng d?n chi ti?t:</p>
+                <p>iPhone 6s là một trong những model dễ vào DFU nhất vì có nút Home vật lý. Dưới đây là hướng dẫn chi tiết:</p>
 
                 <div class="feature-card">
-                    <h5><i class="fas fa-info-circle me-2"></i>C�c bu?c v�o DFU iPhone 6s/6s Plus:</h5>
+                    <h5><i class="fas fa-info-circle me-2"></i>Các bước vào DFU iPhone 6s/6s Plus:</h5>
                     <ol>
-                        <li><strong>K?t n?i v?i m�y t�nh:</strong> D�ng c�p Lightning k?t n?i iPhone v?i m�y t�nh</li>
-                        <li><strong>T?t ngu?n:</strong> Gi? n�t Power > Slide to power off</li>
-                        <li><strong>Gi? Home + Power:</strong> �?ng th?i gi? c? hai n�t trong 10 gi�y</li>
-                        <li><strong>Th? Power, gi? Home:</strong> Sau 10 gi�y, th? n�t Power nhung ti?p t?c gi? Home th�m 10 gi�y</li>
-                        <li><strong>Ki?m tra k?t qu?:</strong>
+                        <li><strong>Kết nối với máy tính:</strong> Dùng cáp Lightning kết nối iPhone với máy tính</li>
+                        <li><strong>Tắt nguồn:</strong> Giữ nút Power > Slide to power off</li>
+                        <li><strong>Giữ Home + Power:</strong> Đồng thời giữ cả hai nút trong 10 giây</li>
+                        <li><strong>Thả Power, giữ Home:</strong> Sau 10 giây, thả nút Power nhưng tiếp tục giữ Home thêm 10 giây</li>
+                        <li><strong>Kiểm tra kết quả:</strong>
                             <ul>
-                                <li>M�n h�nh den + iTunes/UnlockTool nh?n = DFU Mode OK</li>
-                                <li>Logo Apple = Gi? Power qu� l�u</li>
-                                <li>M�n h�nh "Connect to iTunes" = Gi? Home qu� l�u</li>
+                                <li>Màn hình đen + iTunes/UnlockTool nhận = DFU Mode OK</li>
+                                <li>Logo Apple = Giữ Power quá lâu</li>
+                                <li>Màn hình "Connect to iTunes" = Giữ Home quá lâu</li>
                             </ul>
                         </li>
                     </ol>
                 </div>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-lightbulb me-2"></i>M?o v�o DFU th�nh c�ng</h5>
+                    <h5><i class="fas fa-lightbulb me-2"></i>Mẹo vào DFU thành công</h5>
                     <ul class="mb-0">
-                        <li>S? d?ng d?ng h? b?m gi? d? d?m ch�nh x�c 10 gi�y</li>
-                        <li>Th? c�p USB kh�c n?u kh�ng nh?n m�y</li>
-                        <li>Th? c?ng USB 2.0 thay v� USB 3.0</li>
-                        <li>Restart m�y t�nh n?u c?n</li>
+                        <li>Sử dụng đồng hồ bấm giờ để đếm chính xác 10 giây</li>
+                        <li>Thử cáp USB khác nếu không nhận máy</li>
+                        <li>Thử cổng USB 2.0 thay vì USB 3.0</li>
+                        <li>Restart máy tính nếu cần</li>
                     </ul>
                 </div>
 
-                <h3>Tho�t DFU Mode:</h3>
-                <p>N?u mu?n tho�t DFU Mode m� kh�ng bypass, gi? <strong>Home + Power</strong> kho?ng 10-15 gi�y cho d?n khi th?y logo Apple xu?t hi?n.</p>
+                <h3>Thoát DFU Mode:</h3>
+                <p>Nếu muốn thoát DFU Mode mà không bypass, giữ <strong>Home + Power</strong> khoảng 10-15 giây cho đến khi thấy logo Apple xuất hiện.</p>
             </section>
 
             <!-- Sau bypass -->
             <section id="sau-bypass">
-                <h2><i class="fas fa-cog me-2"></i>6. Sau Khi Bypass Th�nh C�ng</h2>
+                <h2><i class="fas fa-cog me-2"></i>6. Sau Khi Bypass Thành Công</h2>
                 
-                <h3>6.1. Nh?ng g� ho?t d?ng sau bypass:</h3>
+                <h3>6.1. Những gì hoạt động sau bypass:</h3>
                 <ul>
-                    <li>? <strong>WiFi:</strong> K?t n?i v� s? d?ng b�nh thu?ng</li>
-                    <li>? <strong>Bluetooth:</strong> K?t n?i tai nghe, loa...</li>
-                    <li>? <strong>Camera:</strong> Ch?p ?nh, quay video 4K</li>
-                    <li>? <strong>Touch ID:</strong> �ang k� v�n tay m?i v� s? d?ng</li>
-                    <li>? <strong>3D Touch:</strong> Ho?t d?ng b�nh thu?ng</li>
-                    <li>? <strong>App Store:</strong> T?i ?ng d?ng (dang nh?p Apple ID m?i)</li>
-                    <li>? <strong>C�c ?ng d?ng:</strong> Ch?y b�nh thu?ng</li>
+                    <li>✓ <strong>WiFi:</strong> Kết nối và sử dụng bình thường</li>
+                    <li>✓ <strong>Bluetooth:</strong> Kết nối tai nghe, loa...</li>
+                    <li>✓ <strong>Camera:</strong> Chụp ảnh, quay video 4K</li>
+                    <li>✓ <strong>Touch ID:</strong> Đăng ký vân tay mới và sử dụng</li>
+                    <li>✓ <strong>3D Touch:</strong> Hoạt động bình thường</li>
+                    <li>✓ <strong>App Store:</strong> Tải ứng dụng (đăng nhập Apple ID mới)</li>
+                    <li>✓ <strong>Các ứng dụng:</strong> Chạy bình thường</li>
                 </ul>
 
-                <h3>6.2. H?n ch? c� th? c�:</h3>
+                <h3>6.2. Hạn chế có thể có:</h3>
                 <ul>
-                    <li><strong>SIM/Cellular:</strong> T�y phuong ph�p bypass, c� th? kh�ng c� t�n hi?u SIM ho?c b? h?n ch?</li>
-                    <li><strong>iMessage/FaceTime:</strong> C� th? kh�ng k�ch ho?t du?c v?i Apple ID m?i</li>
-                    <li><strong>Restore/Update:</strong> N?u restore ho?c update iOS, c?n bypass l?i</li>
+                    <li><strong>SIM/Cellular:</strong> Tùy phương pháp bypass, có thể không có tín hiệu SIM hoặc bị hạn chế</li>
+                    <li><strong>iMessage/FaceTime:</strong> Có thể không kích hoạt được với Apple ID mới</li>
+                    <li><strong>Restore/Update:</strong> Nếu restore hoặc update iOS, cần bypass lại</li>
                 </ul>
 
-                <h3>6.3. Mu?n Off iCloud vinh vi?n?</h3>
+                <h3>6.3. Muốn Off iCloud vĩnh viễn?</h3>
                 <div class="info-box">
-                    <p class="mb-0">Bypass ch? l� t?m th?i, n?u restore s? c?n bypass l?i. �? Off iCloud vinh vi?n (m�y s?ch ho�n to�n), h�y s? d?ng d?ch v? Off iCloud Server t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>. Gi� Off iCloud iPhone 6s/6s Plus t? 100.000d - 250.000d t�y t�nh tr?ng Clean/Lost.</p>
+                    <p class="mb-0">Bypass chỉ là tạm thời, nếu restore sẽ cần bypass lại. Để Off iCloud vĩnh viễn (máy sạch hoàn toàn), hãy sử dụng dịch vụ Off iCloud Server tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>. Giá Off iCloud iPhone 6s/6s Plus từ 100.000đ - 250.000đ tùy tình trạng Clean/Lost.</p>
                 </div>
             </section>
 
-            <!-- L?i thu?ng g?p -->
+            <!-- Lỗi thường gặp -->
             <section id="loi-thuong-gap">
-                <h2><i class="fas fa-bug me-2"></i>7. L?i Thu?ng G?p v� C�ch Kh?c Ph?c</h2>
+                <h2><i class="fas fa-bug me-2"></i>7. Lỗi Thường Gặp và Cách Khắc Phục</h2>
                 
                 <div class="accordion" id="errorAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#err1">
-                                Kh�ng v�o du?c DFU Mode
+                                Không vào được DFU Mode
                             </button>
                         </h2>
                         <div id="err1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
-                                <p><strong>Kh?c ph?c:</strong></p>
+                                <p><strong>Khắc phục:</strong></p>
                                 <ul>
-                                    <li>�?m ch�nh x�c 10 gi�y b?ng d?ng h?</li>
-                                    <li>Th? l?i nhi?u l?n (c� th? c?n 2-3 l?n m?i quen)</li>
-                                    <li>Th? c�p USB kh�c</li>
-                                    <li>Th? c?ng USB kh�c</li>
+                                    <li>Đếm chính xác 10 giây bằng đồng hồ</li>
+                                    <li>Thử lại nhiều lần (có thể cần 2-3 lần mới quen)</li>
+                                    <li>Thử cáp USB khác</li>
+                                    <li>Thử cổng USB khác</li>
                                 </ul>
                             </div>
                         </div>
@@ -469,17 +499,17 @@ $canonical_url = "https://www.unlocktool.us/articles/90-bypass-icloud-iphone-6s.
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err2">
-                                UnlockTool kh�ng nh?n m�y
+                                UnlockTool không nhận máy
                             </button>
                         </h2>
                         <div id="err2" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>Kh?c ph?c:</strong></p>
+                                <p><strong>Khắc phục:</strong></p>
                                 <ul>
-                                    <li>C�i l?i iTunes v� restart m�y t�nh</li>
-                                    <li>Ki?m tra Device Manager xem c� thi?t b? Apple kh�ng</li>
-                                    <li>T?t ho�n to�n antivirus</li>
-                                    <li>Ch?y UnlockTool v?i Administrator</li>
+                                    <li>Cài lại iTunes và restart máy tính</li>
+                                    <li>Kiểm tra Device Manager xem có thiết bị Apple không</li>
+                                    <li>Tắt hoàn toàn antivirus</li>
+                                    <li>Chạy UnlockTool với Administrator</li>
                                 </ul>
                             </div>
                         </div>
@@ -487,17 +517,17 @@ $canonical_url = "https://www.unlocktool.us/articles/90-bypass-icloud-iphone-6s.
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err3">
-                                Bypass failed / Error xu?t hi?n
+                                Bypass failed / Error xuất hiện
                             </button>
                         </h2>
                         <div id="err3" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>Kh?c ph?c:</strong></p>
+                                <p><strong>Khắc phục:</strong></p>
                                 <ul>
-                                    <li>Th? l?i t? d?u (v�o DFU l?i)</li>
-                                    <li>C?p nh?t UnlockTool phi�n b?n m?i nh?t</li>
-                                    <li>Th? iRemoval Pro thay v� UnlockTool</li>
-                                    <li>Li�n h? h? tr?: <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></li>
+                                    <li>Thử lại từ đầu (vào DFU lại)</li>
+                                    <li>Cập nhật UnlockTool phiên bản mới nhất</li>
+                                    <li>Thử iRemoval Pro thay vì UnlockTool</li>
+                                    <li>Liên hệ hỗ trợ: <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -505,16 +535,16 @@ $canonical_url = "https://www.unlocktool.us/articles/90-bypass-icloud-iphone-6s.
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err4">
-                                iPhone treo t�o / boot loop sau bypass
+                                iPhone treo táo / boot loop sau bypass
                             </button>
                         </h2>
                         <div id="err4" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>Kh?c ph?c:</strong></p>
+                                <p><strong>Khắc phục:</strong></p>
                                 <ul>
-                                    <li>V�o DFU Mode l?i v� th? bypass l?n n?a</li>
-                                    <li>Restore iPhone b?ng iTunes r?i bypass l?i</li>
-                                    <li>N?u v?n l?i, c� th? ph?n c?ng c� v?n d?</li>
+                                    <li>Vào DFU Mode lại và thử bypass lần nữa</li>
+                                    <li>Restore iPhone bằng iTunes rồi bypass lại</li>
+                                    <li>Nếu vẫn lỗi, có thể phần cứng có vấn đề</li>
                                 </ul>
                             </div>
                         </div>
@@ -524,90 +554,90 @@ $canonical_url = "https://www.unlocktool.us/articles/90-bypass-icloud-iphone-6s.
 
             <!-- FAQ -->
             <section id="faq">
-                <h2><i class="fas fa-question-circle me-2"></i>8. C�u H?i Thu?ng G?p (FAQ)</h2>
+                <h2><i class="fas fa-question-circle me-2"></i>8. Câu Hỏi Thường Gặp (FAQ)</h2>
                 
                 <div class="accordion" id="faqAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
-                                Bypass iCloud iPhone 6s m?t bao l�u?
+                                Bypass iCloud iPhone 6s mất bao lâu?
                             </button>
                         </h2>
                         <div id="faq1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
-                                Qu� tr�nh bypass iPhone 6s ch? m?t kho?ng <strong>3-8 ph�t</strong> sau khi v�o DFU Mode. T?ng th?i gian bao g?m chu?n b? kho?ng 15-20 ph�t.
+                                Quá trình bypass iPhone 6s chỉ mất khoảng <strong>3-8 phút</strong> sau khi vào DFU Mode. Tổng thời gian bao gồm chuẩn bị khoảng 15-20 phút.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
-                                Gi� bypass iCloud iPhone 6s/6s Plus?
+                                Giá bypass iCloud iPhone 6s/6s Plus?
                             </button>
                         </h2>
                         <div id="faq2" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <strong>T? l�m:</strong> Thu� tool 8.000d/6 ti?ng t?i <a href="https://www.unlocktool.us/">UnlockTool.us</a><br>
-                                <strong>D?ch v? l�m h?:</strong> T? 50.000d t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>
+                                <strong>Tự làm:</strong> Thuê tool 8.000đ/6 tiếng tại <a href="https://www.unlocktool.us/">UnlockTool.us</a><br>
+                                <strong>Dịch vụ làm hộ:</strong> Từ 50.000đ tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3">
-                                Sau bypass iPhone 6s c� d�ng SIM du?c kh�ng?
+                                Sau bypass iPhone 6s có dùng SIM được không?
                             </button>
                         </h2>
                         <div id="faq3" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                T�y phuong ph�p bypass. Hello Bypass co b?n c� th? kh�ng c� t�n hi?u SIM. N?u c?n d�ng SIM, h�y ch?n option "with Signal" khi bypass ho?c s? d?ng tool chuy�n bi?t hon.
+                                Tùy phương pháp bypass. Hello Bypass cơ bản có thể không có tín hiệu SIM. Nếu cần dùng SIM, hãy chọn option "with Signal" khi bypass hoặc sử dụng tool chuyên biệt hơn.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4">
-                                Bypass c� vinh vi?n kh�ng?
+                                Bypass có vĩnh viễn không?
                             </button>
                         </h2>
                         <div id="faq4" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                Bypass gi? du?c cho d?n khi b?n restore iPhone. N?u restore qua iTunes ho?c update iOS, c?n bypass l?i. Mu?n vinh vi?n c?n Off iCloud qua Server.
+                                Bypass giữ được cho đến khi bạn restore iPhone. Nếu restore qua iTunes hoặc update iOS, cần bypass lại. Muốn vĩnh viễn cần Off iCloud qua Server.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq5">
-                                iPhone 6s Plus bypass gi?ng iPhone 6s kh�ng?
+                                iPhone 6s Plus bypass giống iPhone 6s không?
                             </button>
                         </h2>
                         <div id="faq5" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                C�, iPhone 6s v� 6s Plus d?u d�ng chip A9, c�ch bypass ho�n to�n gi?ng nhau. L�m theo hu?ng d?n tr�n l� du?c.
+                                Có, iPhone 6s và 6s Plus đều dùng chip A9, cách bypass hoàn toàn giống nhau. Làm theo hướng dẫn trên là được.
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <!-- CTA cu?i b�i -->
+            <!-- CTA cuối bài -->
             <section class="mt-5">
                 <div class="price-highlight">
                     <h3><i class="fas fa-unlock me-2"></i>Bypass iCloud iPhone 6s/6s Plus Ngay!</h3>
-                    <p>Chip A9 h? tr? checkm8 - Bypass d? d�ng</p>
-                    <p class="price">8.000d</p>
-                    <p class="h4">/ 6 ti?ng</p>
+                    <p>Chip A9 hỗ trợ checkm8 - Bypass dễ dàng</p>
+                    <p class="price">8.000đ</p>
+                    <p class="h4">/ 6 tiếng</p>
                     <div class="d-flex justify-content-center flex-wrap gap-3 mt-4">
-                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thu� Tool - UnlockTool.us</a>
-                        <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-download me-2"></i>T?i UnlockTool</a>
+                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê Tool - UnlockTool.us</a>
+                        <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-download me-2"></i>Tải UnlockTool</a>
                     </div>
                 </div>
 
                 <div class="service-cta">
-                    <h4><i class="fas fa-headset me-2"></i>Kh�ng T? L�m �u?c? D?ch V? L�m H?</h4>
-                    <p>K? thu?t vi�n h? tr? t? xa qua TeamViewer - Cam k?t th�nh c�ng!</p>
-                    <p class="h3 fw-bold">T? 50.000d</p>
+                    <h4><i class="fas fa-headset me-2"></i>Không Tự Làm Được? Dịch Vụ Làm Hộ</h4>
+                    <p>Kỹ thuật viên hỗ trợ từ xa qua TeamViewer - Cam kết thành công!</p>
+                    <p class="h3 fw-bold">Từ 50.000đ</p>
                     <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-external-link-alt me-2"></i>Thuetaikhoan.net</a>
                 </div>
             </section>
@@ -619,9 +649,9 @@ $canonical_url = "https://www.unlocktool.us/articles/90-bypass-icloud-iphone-6s.
             <div class="sticky-top" style="top:20px">
                 <div class="price-highlight mb-4">
                     <h5><i class="fas fa-tag me-2"></i>Bypass iPhone 6s</h5>
-                    <p class="price" style="font-size:2.5rem">8.000d</p>
-                    <p>/ 6 ti?ng</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thu� Tool Ngay</a>
+                    <p class="price" style="font-size:2.5rem">8.000đ</p>
+                    <p>/ 6 tiếng</p>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thuê Tool Ngay</a>
                 </div>
 
                 <div class="card mb-4">
@@ -630,17 +660,17 @@ $canonical_url = "https://www.unlocktool.us/articles/90-bypass-icloud-iphone-6s.
                     </div>
                     <div class="card-body">
                         <ul class="list-unstyled mb-0">
-                            <li>? Chip A9 - Checkm8</li>
-                            <li>? Bypass d? d�ng</li>
-                            <li>? Th?i gian: 3-8 ph�t</li>
-                            <li>? Gi�: 8K/6H</li>
+                            <li>✓ Chip A9 - Checkm8</li>
+                            <li>✓ Bypass dễ dàng</li>
+                            <li>✓ Thời gian: 3-8 phút</li>
+                            <li>✓ Giá: 8K/6H</li>
                         </ul>
                     </div>
                 </div>
 
                 <div class="card mb-4">
                     <div class="card-header bg-primary text-white">
-                        <i class="fas fa-download me-2"></i>T?i xu?ng
+                        <i class="fas fa-download me-2"></i>Tải xuống
                     </div>
                     <div class="card-body">
                         <a href="https://file.unlocktool.net/page/index.php" target="_blank" class="btn btn-outline-primary w-100 mb-2">UnlockTool</a>
@@ -650,13 +680,13 @@ $canonical_url = "https://www.unlocktool.us/articles/90-bypass-icloud-iphone-6s.
 
                 <div class="card">
                     <div class="card-header bg-dark text-white">
-                        <i class="fas fa-link me-2"></i>B�i vi?t li�n quan
+                        <i class="fas fa-link me-2"></i>Bài viết liên quan
                     </div>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item"><a href="89-bypass-icloud-iphone-7.php">Bypass iCloud iPhone 7</a></li>
                         <li class="list-group-item"><a href="88-bypass-icloud-iphone-8.php">Bypass iCloud iPhone 8</a></li>
                         <li class="list-group-item"><a href="87-bypass-icloud-iphone-x.php">Bypass iCloud iPhone X</a></li>
-                        <li class="list-group-item"><a href="102-iremoval-pro-la-gi.php">iRemoval Pro l� g�?</a></li>
+                        <li class="list-group-item"><a href="102-iremoval-pro-la-gi.php">iRemoval Pro là gì?</a></li>
                     </ul>
                 </div>
             </div>
@@ -671,7 +701,7 @@ $canonical_url = "https://www.unlocktool.us/articles/90-bypass-icloud-iphone-6s.
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -685,13 +715,13 @@ $canonical_url = "https://www.unlocktool.us/articles/90-bypass-icloud-iphone-6s.
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -699,15 +729,15 @@ $canonical_url = "https://www.unlocktool.us/articles/90-bypass-icloud-iphone-6s.
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -720,7 +750,7 @@ $canonical_url = "https://www.unlocktool.us/articles/90-bypass-icloud-iphone-6s.
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -731,10 +761,10 @@ $canonical_url = "https://www.unlocktool.us/articles/90-bypass-icloud-iphone-6s.
         <div class="row">
             <div class="col-md-6">
                 <h5>UnlockTool.us</h5>
-                <p class="small">Cho thu� t�i kho?n tool m? kh�a di?n tho?i uy t�n nh?t Vi?t Nam.</p>
+                <p class="small">Cho thuê tài khoản tool mở khóa điện thoại uy tín nhất Việt Nam.</p>
             </div>
             <div class="col-md-6 text-md-end">
-                <p class="small mb-1">D?ch v?: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+                <p class="small mb-1">Dịch vụ: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
                 <p class="small">&copy; 2026 UnlockTool.us - All rights reserved.</p>
             </div>
         </div>

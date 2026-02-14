@@ -1,6 +1,6 @@
-<?php
-$page_title = "SP Flash Tool MediaTek 2026 - Hu?ng D?n S? D?ng Chi Ti?t | Flash Firmware MTK";
-$page_description = "Hu?ng d?n s? d?ng SP Flash Tool d? flash firmware MediaTek chi ti?t nh?t 2026. T?i SP Flash Tool, flash ROM, s?a l?i MTK. Thu� tool h? tr? t?i UnlockTool.us 8.000d/6h";
+﻿<?php
+$page_title = "SP Flash Tool MediaTek 2026 - Hướng Dẫn Sử Dụng Chi Tiết | Flash Firmware MTK";
+$page_description = "Hướng dẫn sử dụng SP Flash Tool để flash firmware MediaTek chi tiết nhất 2026. Tải SP Flash Tool, flash ROM, sửa lỗi MTK. Thuê tool hỗ trợ tại UnlockTool.us 8.000đ/6h";
 $page_keywords = "sp flash tool, sp flash tool mediatek, flash firmware mtk, sp flash tool download, sp flash tool 2026, mediatek flash tool";
 $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.php";
 ?>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hu?ng d?n k? thu?t">
+    <meta property="article:section" content="Hướng dẫn kỹ thuật">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="M? kh�a di?n tho?i">
+    <meta property="article:tag" content="Mở khóa điện thoại">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -50,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -60,18 +60,18 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
     {"@context":"https://schema.org","@type":"Article","headline":"<?php echo $page_title; ?>","author":{"@type":"Organization","name":"UnlockTool.us"},"datePublished":"2026-01-25","dateModified":"2026-01-25"}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"HowTo","name":"Flash firmware MediaTek v?i SP Flash Tool","description":"C�c bu?c flash firmware tr�n di?n tho?i MediaTek","step":[
-        {"@type":"HowToStep","name":"C�i MTK Driver","text":"T?i v� c�i MediaTek VCOM Driver"},
-        {"@type":"HowToStep","name":"M? SP Flash Tool","text":"Gi?i n�n v� ch?y flash_tool.exe"},
-        {"@type":"HowToStep","name":"Load scatter file","text":"Ch?n Scatter-loading file t? folder firmware"},
-        {"@type":"HowToStep","name":"Flash firmware","text":"Nh?n Download, t?t m�y v� c?m c�p USB"}
+    {"@context":"https://schema.org","@type":"HowTo","name":"Flash firmware MediaTek với SP Flash Tool","description":"Các bước flash firmware trên điện thoại MediaTek","step":[
+        {"@type":"HowToStep","name":"Cài MTK Driver","text":"Tải và cài MediaTek VCOM Driver"},
+        {"@type":"HowToStep","name":"Mở SP Flash Tool","text":"Giải nén và chạy flash_tool.exe"},
+        {"@type":"HowToStep","name":"Load scatter file","text":"Chọn Scatter-loading file từ folder firmware"},
+        {"@type":"HowToStep","name":"Flash firmware","text":"Nhấn Download, tắt máy và cắm cáp USB"}
     ]}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"SP Flash Tool l� g�?","acceptedAnswer":{"@type":"Answer","text":"SP Flash Tool (Smart Phone Flash Tool) l� ph?n m?m ch�nh th?c t? MediaTek d? flash firmware tr�n c�c thi?t b? s? d?ng chip MediaTek. H? tr? flash ROM stock, unbrick, x�a FRP, IMEI repair..."}},
-        {"@type":"Question","name":"SP Flash Tool c� mi?n ph� kh�ng?","acceptedAnswer":{"@type":"Answer","text":"C�, SP Flash Tool l� ph?n m?m mi?n ph� do MediaTek ph�t tri?n. B?n c� th? t?i t? c�c ngu?n uy t�n nhu file.unlocktool.net"}},
-        {"@type":"Question","name":"SP Flash Tool h? tr? chip n�o?","acceptedAnswer":{"@type":"Answer","text":"SP Flash Tool h? tr? t?t c? chip MediaTek: MT65xx, MT67xx, Helio P/G/X series, Dimensity series. Bao g?m c�c thi?t b? Xiaomi, Oppo, Vivo, Realme, Infinix s? d?ng chip MTK."}}
+        {"@type":"Question","name":"SP Flash Tool là gì?","acceptedAnswer":{"@type":"Answer","text":"SP Flash Tool (Smart Phone Flash Tool) là phần mềm chính thức từ MediaTek để flash firmware trên các thiết bị sử dụng chip MediaTek. Hỗ trợ flash ROM stock, unbrick, xóa FRP, IMEI repair..."}},
+        {"@type":"Question","name":"SP Flash Tool có miễn phí không?","acceptedAnswer":{"@type":"Answer","text":"Có, SP Flash Tool là phần mềm miễn phí do MediaTek phát triển. Bạn có thể tải từ các nguồn uy tín như file.unlocktool.net"}},
+        {"@type":"Question","name":"SP Flash Tool hỗ trợ chip nào?","acceptedAnswer":{"@type":"Answer","text":"SP Flash Tool hỗ trợ tất cả chip MediaTek: MT65xx, MT67xx, Helio P/G/X series, Dimensity series. Bao gồm các thiết bị Xiaomi, Oppo, Vivo, Realme, Infinix sử dụng chip MTK."}}
     ]}
     </script>
     
@@ -126,14 +126,44 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
         }
     }
     </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "UnlockTool.us",
+        "url": "https://www.unlocktool.us",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.unlocktool.us/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Dịch vụ mở khóa điện thoại",
+        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.5",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "59"
+        }
+    }
+    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -143,10 +173,10 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
         <div class="row align-items-center">
             <div class="col-lg-8">
                 <h1><i class="fas fa-microchip me-3"></i><?php echo $page_title; ?></h1>
-                <p class="lead mb-4">Hu?ng d?n s? d?ng SP Flash Tool d? flash firmware MediaTek d?y d? nh?t 2026. Unbrick, flash ROM stock, x�a FRP, s?a l?i bootloop!</p>
+                <p class="lead mb-4">Hướng dẫn sử dụng SP Flash Tool để flash firmware MediaTek đầy đủ nhất 2026. Unbrick, flash ROM stock, xóa FRP, sửa lỗi bootloop!</p>
                 <div class="d-flex flex-wrap gap-3">
-                    <a href="https://file.unlocktool.net/page/tool---android---pc/tool-android---pc" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-download me-2"></i>T?i SP Flash Tool</a>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thu� Tool 8K/6H</a>
+                    <a href="https://file.unlocktool.net/page/tool---android---pc/tool-android---pc" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-download me-2"></i>Tải SP Flash Tool</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê Tool 8K/6H</a>
                 </div>
             </div>
             <div class="col-lg-4 text-center mt-4 mt-lg-0">
@@ -162,70 +192,70 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
         <div class="col-lg-8">
             
             <div class="toc-box">
-                <h4><i class="fas fa-list me-2"></i>M?c L?c B�i Vi?t</h4>
+                <h4><i class="fas fa-list me-2"></i>Mục Lục Bài Viết</h4>
                 <ul class="list-unstyled">
-                    <li><a href="#gioi-thieu">1. SP Flash Tool l� g�?</a></li>
-                    <li><a href="#chuan-bi">2. Chu?n b? tru?c khi flash</a></li>
-                    <li><a href="#cai-dat">3. C�i d?t SP Flash Tool v� Driver</a></li>
-                    <li><a href="#flash-firmware">4. Hu?ng d?n flash firmware</a></li>
-                    <li><a href="#cac-che-do">5. C�c ch? d? flash</a></li>
-                    <li><a href="#loi-thuong-gap">6. L?i thu?ng g?p v� c�ch kh?c ph?c</a></li>
-                    <li><a href="#faq">7. C�u h?i thu?ng g?p (FAQ)</a></li>
+                    <li><a href="#gioi-thieu">1. SP Flash Tool là gì?</a></li>
+                    <li><a href="#chuan-bi">2. Chuẩn bị trước khi flash</a></li>
+                    <li><a href="#cai-dat">3. Cài đặt SP Flash Tool và Driver</a></li>
+                    <li><a href="#flash-firmware">4. Hướng dẫn flash firmware</a></li>
+                    <li><a href="#cac-che-do">5. Các chế độ flash</a></li>
+                    <li><a href="#loi-thuong-gap">6. Lỗi thường gặp và cách khắc phục</a></li>
+                    <li><a href="#faq">7. Câu hỏi thường gặp (FAQ)</a></li>
                 </ul>
             </div>
 
             <section id="gioi-thieu">
-                <h2><i class="fas fa-info-circle me-2"></i>1. SP Flash Tool L� G�?</h2>
+                <h2><i class="fas fa-info-circle me-2"></i>1. SP Flash Tool Là Gì?</h2>
                 
-                <p><strong>SP Flash Tool (Smart Phone Flash Tool)</strong> l� ph?n m?m ch�nh th?c t? MediaTek, du?c thi?t k? d? flash firmware tr�n c�c thi?t b? s? d?ng chipset MediaTek. ��y l� c�ng c? kh�ng th? thi?u cho th? s?a di?n tho?i v� ngu?i d�ng mu?n t? flash ROM.</p>
+                <p><strong>SP Flash Tool (Smart Phone Flash Tool)</strong> là phần mềm chính thức từ MediaTek, được thiết kế để flash firmware trên các thiết bị sử dụng chipset MediaTek. Đây là công cụ không thể thiếu cho thợ sửa điện thoại và người dùng muốn tự flash ROM.</p>
 
-                <h3>T�nh nang c?a SP Flash Tool:</h3>
+                <h3>Tính năng của SP Flash Tool:</h3>
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-download text-primary me-2"></i>Flash Firmware</h5>
-                            <p class="small mb-0">Flash ROM stock, ROM custom, update firmware. H? tr? nhi?u ch? d?: Download Only, Firmware Upgrade...</p>
+                            <p class="small mb-0">Flash ROM stock, ROM custom, update firmware. Hỗ trợ nhiều chế độ: Download Only, Firmware Upgrade...</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-wrench text-success me-2"></i>Unbrick</h5>
-                            <p class="small mb-0">C?u m�y b? brick, bootloop, treo logo. Flash l?i firmware g?c d? ph?c h?i m�y.</p>
+                            <p class="small mb-0">Cứu máy bị brick, bootloop, treo logo. Flash lại firmware gốc để phục hồi máy.</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-eraser text-warning me-2"></i>Format/Erase</h5>
-                            <p class="small mb-0">X�a ph�n v�ng, format to�n b? b? nh?. H?u �ch khi c?n x�a FRP, pattern lock.</p>
+                            <p class="small mb-0">Xóa phân vùng, format toàn bộ bộ nhớ. Hữu ích khi cần xóa FRP, pattern lock.</p>
                         </div>
                     </div>
                     <div class="col-md-6 mb-3">
                         <div class="feature-card h-100">
                             <h5><i class="fas fa-book text-danger me-2"></i>Read Back</h5>
-                            <p class="small mb-0">Backup firmware t? m�y. �?c c�c ph�n v�ng nhu NVRAM, boot, recovery...</p>
+                            <p class="small mb-0">Backup firmware từ máy. Đọc các phân vùng như NVRAM, boot, recovery...</p>
                         </div>
                     </div>
                 </div>
 
-                <h3>Chip MediaTek du?c h? tr?:</h3>
+                <h3>Chip MediaTek được hỗ trợ:</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>D�ng chip</th>
-                            <th>V� d?</th>
-                            <th>Thi?t b?</th>
+                            <th>Dòng chip</th>
+                            <th>Ví dụ</th>
+                            <th>Thiết bị</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td><strong>MT65xx</strong></td>
                             <td>MT6572, MT6580, MT6582</td>
-                            <td>�i?n tho?i gi� r?</td>
+                            <td>Điện thoại giá rẻ</td>
                         </tr>
                         <tr>
                             <td><strong>MT67xx</strong></td>
                             <td>MT6735, MT6750, MT6755</td>
-                            <td>T?m trung cu</td>
+                            <td>Tầm trung cũ</td>
                         </tr>
                         <tr>
                             <td><strong>Helio P</strong></td>
@@ -240,114 +270,114 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
                         <tr>
                             <td><strong>Helio X</strong></td>
                             <td>X10, X20, X25, X30</td>
-                            <td>Flagship cu</td>
+                            <td>Flagship cũ</td>
                         </tr>
                         <tr>
                             <td><strong>Dimensity</strong></td>
                             <td>700, 800, 900, 1200, 9000</td>
-                            <td>Flagship m?i</td>
+                            <td>Flagship mới</td>
                         </tr>
                     </tbody>
                 </table>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-info-circle me-2"></i>Luu � quan tr?ng</h5>
-                    <p class="mb-0">SP Flash Tool ch? ho?t d?ng v?i chip MediaTek. �?i v?i Qualcomm Snapdragon, s? d?ng QFIL ho?c EDL Mode. �?i v?i Samsung Exynos, s? d?ng Odin.</p>
+                    <h5><i class="fas fa-info-circle me-2"></i>Lưu ý quan trọng</h5>
+                    <p class="mb-0">SP Flash Tool chỉ hoạt động với chip MediaTek. Đối với Qualcomm Snapdragon, sử dụng QFIL hoặc EDL Mode. Đối với Samsung Exynos, sử dụng Odin.</p>
                 </div>
             </section>
 
             <section id="chuan-bi">
-                <h2><i class="fas fa-clipboard-check me-2"></i>2. Chu?n B? Tru?c Khi Flash</h2>
+                <h2><i class="fas fa-clipboard-check me-2"></i>2. Chuẩn Bị Trước Khi Flash</h2>
                 
-                <h3>2.1. Y�u c?u ph?n c?ng</h3>
+                <h3>2.1. Yêu cầu phần cứng</h3>
                 <ul>
-                    <li><strong>M�y t�nh Windows:</strong> Windows 7/8/10/11 (32-bit ho?c 64-bit)</li>
-                    <li><strong>C�p USB:</strong> C�p d? li?u ch?t lu?ng t?t (kh�ng ph?i c�p s?c thu?ng)</li>
-                    <li><strong>�i?n tho?i MediaTek:</strong> Pin c�n �t nh?t 50%</li>
-                    <li><strong>File firmware:</strong> ROM stock/custom ph� h?p v?i model</li>
+                    <li><strong>Máy tính Windows:</strong> Windows 7/8/10/11 (32-bit hoặc 64-bit)</li>
+                    <li><strong>Cáp USB:</strong> Cáp dữ liệu chất lượng tốt (không phải cáp sạc thường)</li>
+                    <li><strong>Điện thoại MediaTek:</strong> Pin còn ít nhất 50%</li>
+                    <li><strong>File firmware:</strong> ROM stock/custom phù hợp với model</li>
                 </ul>
 
-                <h3>2.2. T?i file c?n thi?t</h3>
+                <h3>2.2. Tải file cần thiết</h3>
                 <table class="table table-custom">
                     <thead>
                         <tr>
                             <th>File</th>
-                            <th>M� t?</th>
-                            <th>Link t?i</th>
+                            <th>Mô tả</th>
+                            <th>Link tải</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td><strong>SP Flash Tool</strong></td>
-                            <td>Ph?n m?m flash firmware</td>
-                            <td><a href="https://file.unlocktool.net/page/tool---android---pc/tool-android---pc" target="_blank">T?i SP Flash Tool</a></td>
+                            <td>Phần mềm flash firmware</td>
+                            <td><a href="https://file.unlocktool.net/page/tool---android---pc/tool-android---pc" target="_blank">Tải SP Flash Tool</a></td>
                         </tr>
                         <tr>
                             <td><strong>MTK VCOM Driver</strong></td>
-                            <td>Driver d? nh?n m�y ? BROM/Preloader</td>
-                            <td><a href="https://file.unlocktool.net/page/all-driver" target="_blank">T?i MTK Driver</a></td>
+                            <td>Driver để nhận máy ở BROM/Preloader</td>
+                            <td><a href="https://file.unlocktool.net/page/all-driver" target="_blank">Tải MTK Driver</a></td>
                         </tr>
                         <tr>
                             <td><strong>Firmware</strong></td>
-                            <td>ROM stock ph� h?p v?i model</td>
-                            <td>T�m theo model m�y</td>
+                            <td>ROM stock phù hợp với model</td>
+                            <td>Tìm theo model máy</td>
                         </tr>
                     </tbody>
                 </table>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>C?nh b�o tru?c khi flash!</h5>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Cảnh báo trước khi flash!</h5>
                     <ul class="mb-0">
-                        <li><strong>Backup d? li?u:</strong> Flash firmware s? X�A to�n b? d? li?u</li>
-                        <li><strong>Firmware d�ng model:</strong> Flash sai firmware c� th? brick m�y</li>
-                        <li><strong>Kh�ng ng?t k?t n?i:</strong> Ng?t gi?a ch?ng c� th? brick m�y</li>
-                        <li><strong>Pin d?:</strong> �?m b?o pin c�n >50% ho?c s?c trong khi flash</li>
+                        <li><strong>Backup dữ liệu:</strong> Flash firmware sẽ XÓA toàn bộ dữ liệu</li>
+                        <li><strong>Firmware đúng model:</strong> Flash sai firmware có thể brick máy</li>
+                        <li><strong>Không ngắt kết nối:</strong> Ngắt giữa chừng có thể brick máy</li>
+                        <li><strong>Pin đủ:</strong> Đảm bảo pin còn >50% hoặc sạc trong khi flash</li>
                     </ul>
                 </div>
             </section>
 
             <section id="cai-dat">
-                <h2><i class="fas fa-download me-2"></i>3. C�i �?t SP Flash Tool v� Driver</h2>
+                <h2><i class="fas fa-download me-2"></i>3. Cài Đặt SP Flash Tool và Driver</h2>
                 
                 <div class="step-card">
                     <div class="step-number">1</div>
-                    <h4>C�i d?t MTK VCOM Driver</h4>
+                    <h4>Cài đặt MTK VCOM Driver</h4>
                     <ol>
-                        <li>T?i MTK VCOM Driver t? <a href="https://file.unlocktool.net/page/all-driver" target="_blank">file.unlocktool.net</a></li>
-                        <li>Gi?i n�n file t?i v?</li>
-                        <li>Ch?y file <strong>InstallDriver.exe</strong> ho?c <strong>Install.bat</strong> v?i quy?n Administrator</li>
-                        <li>L�m theo hu?ng d?n c�i d?t</li>
-                        <li><strong>Restart m�y t�nh</strong> sau khi c�i xong</li>
+                        <li>Tải MTK VCOM Driver từ <a href="https://file.unlocktool.net/page/all-driver" target="_blank">file.unlocktool.net</a></li>
+                        <li>Giải nén file tải về</li>
+                        <li>Chạy file <strong>InstallDriver.exe</strong> hoặc <strong>Install.bat</strong> với quyền Administrator</li>
+                        <li>Làm theo hướng dẫn cài đặt</li>
+                        <li><strong>Restart máy tính</strong> sau khi cài xong</li>
                     </ol>
                     <div class="info-box">
-                        <p class="mb-0"><strong>Ki?m tra driver:</strong> M? Device Manager > T?t m�y MTK > Gi? Vol Up/Down + c?m USB > N?u th?y "MediaTek PreLoader USB VCOM" l� OK.</p>
+                        <p class="mb-0"><strong>Kiểm tra driver:</strong> Mở Device Manager > Tắt máy MTK > Giữ Vol Up/Down + cắm USB > Nếu thấy "MediaTek PreLoader USB VCOM" là OK.</p>
                     </div>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">2</div>
-                    <h4>C�i d?t SP Flash Tool</h4>
+                    <h4>Cài đặt SP Flash Tool</h4>
                     <ol>
-                        <li>T?i SP Flash Tool (phi�n b?n m?i nh?t)</li>
-                        <li>Gi?i n�n v�o thu m?c (v� d?: D:\SPFlashTool)</li>
-                        <li><strong>Kh�ng c?n c�i d?t</strong>, SP Flash Tool l� portable</li>
-                        <li>Ch?y <strong>flash_tool.exe</strong> v?i quy?n Administrator</li>
+                        <li>Tải SP Flash Tool (phiên bản mới nhất)</li>
+                        <li>Giải nén vào thư mục (ví dụ: D:\SPFlashTool)</li>
+                        <li><strong>Không cần cài đặt</strong>, SP Flash Tool là portable</li>
+                        <li>Chạy <strong>flash_tool.exe</strong> với quyền Administrator</li>
                     </ol>
                     <div class="danger-box">
-                        <p class="mb-0"><strong>T?t antivirus!</strong> Windows Defender v� c�c antivirus kh�c c� th? block SP Flash Tool. T?t tru?c khi ch?y.</p>
+                        <p class="mb-0"><strong>Tắt antivirus!</strong> Windows Defender và các antivirus khác có thể block SP Flash Tool. Tắt trước khi chạy.</p>
                     </div>
                 </div>
             </section>
 
             <section id="flash-firmware">
-                <h2><i class="fas fa-bolt me-2"></i>4. Hu?ng D?n Flash Firmware</h2>
+                <h2><i class="fas fa-bolt me-2"></i>4. Hướng Dẫn Flash Firmware</h2>
                 
                 <div class="step-card">
                     <div class="step-number">1</div>
-                    <h4>M? SP Flash Tool</h4>
+                    <h4>Mở SP Flash Tool</h4>
                     <ol>
-                        <li>Chu?t ph?i <strong>flash_tool.exe</strong> > <strong>Run as administrator</strong></li>
-                        <li>Giao di?n SP Flash Tool hi?n l�n</li>
+                        <li>Chuột phải <strong>flash_tool.exe</strong> > <strong>Run as administrator</strong></li>
+                        <li>Giao diện SP Flash Tool hiện lên</li>
                     </ol>
                 </div>
 
@@ -355,120 +385,120 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
                     <div class="step-number">2</div>
                     <h4>Load Scatter File</h4>
                     <ol>
-                        <li>Click n�t <strong>choose</strong> b�n c?nh "Scatter-loading File"</li>
-                        <li>�i?u hu?ng d?n folder firmware d� gi?i n�n</li>
-                        <li>Ch?n file <strong>MT6xxx_Android_scatter.txt</strong> (t�n c� th? kh�c t�y firmware)</li>
-                        <li>SP Flash Tool s? t? d?ng load c�c ph�n v�ng c?n flash</li>
+                        <li>Click nút <strong>choose</strong> bên cạnh "Scatter-loading File"</li>
+                        <li>Điều hướng đến folder firmware đã giải nén</li>
+                        <li>Chọn file <strong>MT6xxx_Android_scatter.txt</strong> (tên có thể khác tùy firmware)</li>
+                        <li>SP Flash Tool sẽ tự động load các phân vùng cần flash</li>
                     </ol>
                     <div class="info-box">
-                        <p class="mb-0"><strong>Scatter file l� g�?</strong> ��y l� file m� t? c?u tr�c ph�n v�ng c?a firmware, cho SP Flash Tool bi?t flash file n�o v�o d?a ch? n�o trong b? nh?.</p>
+                        <p class="mb-0"><strong>Scatter file là gì?</strong> Đây là file mô tả cấu trúc phân vùng của firmware, cho SP Flash Tool biết flash file nào vào địa chỉ nào trong bộ nhớ.</p>
                     </div>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">3</div>
-                    <h4>Ch?n ch? d? flash</h4>
-                    <p>Trong tab <strong>Download</strong>, ch?n m?t trong c�c ch? d?:</p>
+                    <h4>Chọn chế độ flash</h4>
+                    <p>Trong tab <strong>Download</strong>, chọn một trong các chế độ:</p>
                     <ul>
-                        <li><strong>Download Only:</strong> Flash nh?ng ph�n v�ng du?c tick, gi? nguy�n ph?n c�n l?i. An to�n nh?t.</li>
-                        <li><strong>Firmware Upgrade:</strong> Flash v� format userdata. X�a s?ch d? li?u.</li>
-                        <li><strong>Format All + Download:</strong> Format to�n b? r?i flash. D�ng khi unbrick.</li>
+                        <li><strong>Download Only:</strong> Flash những phân vùng được tick, giữ nguyên phần còn lại. An toàn nhất.</li>
+                        <li><strong>Firmware Upgrade:</strong> Flash và format userdata. Xóa sạch dữ liệu.</li>
+                        <li><strong>Format All + Download:</strong> Format toàn bộ rồi flash. Dùng khi unbrick.</li>
                     </ul>
                     <div class="warning-box">
-                        <p class="mb-0"><strong>Khuy?n ngh?:</strong> D�ng <strong>Download Only</strong> cho h?u h?t tru?ng h?p. Ch? d�ng Format All khi m�y brick n?ng.</p>
+                        <p class="mb-0"><strong>Khuyến nghị:</strong> Dùng <strong>Download Only</strong> cho hầu hết trường hợp. Chỉ dùng Format All khi máy brick nặng.</p>
                     </div>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">4</div>
-                    <h4>Tick/b? tick c�c ph�n v�ng</h4>
-                    <p>Trong danh s�ch ph�n v�ng, tick nh?ng ph?n c?n flash:</p>
+                    <h4>Tick/bỏ tick các phân vùng</h4>
+                    <p>Trong danh sách phân vùng, tick những phần cần flash:</p>
                     <ul>
-                        <li><strong>preloader:</strong> Bootloader - quan tr?ng, c?n th?n khi flash</li>
-                        <li><strong>boot:</strong> Kernel - c?n flash khi update/unbrick</li>
+                        <li><strong>preloader:</strong> Bootloader - quan trọng, cẩn thận khi flash</li>
+                        <li><strong>boot:</strong> Kernel - cần flash khi update/unbrick</li>
                         <li><strong>recovery:</strong> Recovery mode</li>
-                        <li><strong>system:</strong> H? di?u h�nh Android</li>
-                        <li><strong>userdata:</strong> D? li?u ngu?i d�ng - b? tick n?u mu?n gi? d? li?u</li>
-                        <li><strong>nvram:</strong> Ch?a IMEI, calibration - KH�NG flash n?u kh�ng c?n</li>
+                        <li><strong>system:</strong> Hệ điều hành Android</li>
+                        <li><strong>userdata:</strong> Dữ liệu người dùng - bỏ tick nếu muốn giữ dữ liệu</li>
+                        <li><strong>nvram:</strong> Chứa IMEI, calibration - KHÔNG flash nếu không cần</li>
                     </ul>
                     <div class="danger-box">
-                        <p class="mb-0"><strong>NVRAM quan tr?ng!</strong> N?u flash nh?m NVRAM ho?c m?t NVRAM, m�y s? m?t IMEI v� c� th? m?t s�ng. Lu�n backup NVRAM tru?c!</p>
+                        <p class="mb-0"><strong>NVRAM quan trọng!</strong> Nếu flash nhầm NVRAM hoặc mất NVRAM, máy sẽ mất IMEI và có thể mất sóng. Luôn backup NVRAM trước!</p>
                     </div>
                 </div>
 
                 <div class="step-card">
                     <div class="step-number">5</div>
-                    <h4>B?t d?u flash</h4>
+                    <h4>Bắt đầu flash</h4>
                     <ol>
-                        <li>Click n�t <strong>Download</strong> (mui t�n xanh)</li>
-                        <li>SP Flash Tool ch? k?t n?i thi?t b?</li>
-                        <li><strong>T?t ngu?n di?n tho?i ho�n to�n</strong></li>
-                        <li>Gi? <strong>Vol Down</strong> (ho?c Vol Up t�y m�y) v� c?m c�p USB</li>
-                        <li>SP Flash Tool nh?n m�y v� b?t d?u flash (thanh m�u d?/v�ng/xanh)</li>
-                        <li>Ch? d?n khi hi?n <strong>v�ng tr�n xanh l� "Download OK"</strong></li>
-                        <li>R�t c�p USB v� b?t m�y</li>
+                        <li>Click nút <strong>Download</strong> (mũi tên xanh)</li>
+                        <li>SP Flash Tool chờ kết nối thiết bị</li>
+                        <li><strong>Tắt nguồn điện thoại hoàn toàn</strong></li>
+                        <li>Giữ <strong>Vol Down</strong> (hoặc Vol Up tùy máy) và cắm cáp USB</li>
+                        <li>SP Flash Tool nhận máy và bắt đầu flash (thanh màu đỏ/vàng/xanh)</li>
+                        <li>Chờ đến khi hiện <strong>vòng tròn xanh lá "Download OK"</strong></li>
+                        <li>Rút cáp USB và bật máy</li>
                     </ol>
                 </div>
 
                 <div class="success-box">
-                    <h5><i class="fas fa-check-circle me-2"></i>Flash th�nh c�ng!</h5>
-                    <p class="mb-0">Khi th?y v�ng tr�n xanh l� "Download OK", qu� tr�nh flash d� ho�n t?t. R�t c�p v� gi? n�t Power d? b?t m�y. L?n boot d?u ti�n c� th? m?t 5-10 ph�t.</p>
+                    <h5><i class="fas fa-check-circle me-2"></i>Flash thành công!</h5>
+                    <p class="mb-0">Khi thấy vòng tròn xanh lá "Download OK", quá trình flash đã hoàn tất. Rút cáp và giữ nút Power để bật máy. Lần boot đầu tiên có thể mất 5-10 phút.</p>
                 </div>
             </section>
 
             <section id="cac-che-do">
-                <h2><i class="fas fa-cogs me-2"></i>5. C�c Ch? �? Flash</h2>
+                <h2><i class="fas fa-cogs me-2"></i>5. Các Chế Độ Flash</h2>
                 
-                <h3>5.1. Download Only (Khuy?n ngh?)</h3>
+                <h3>5.1. Download Only (Khuyến nghị)</h3>
                 <div class="feature-card">
-                    <p><strong>M� t?:</strong> Ch? flash nh?ng ph�n v�ng du?c tick, kh�ng d?ng d?n ph?n c�n l?i.</p>
-                    <p><strong>Khi n�o d�ng:</strong></p>
+                    <p><strong>Mô tả:</strong> Chỉ flash những phân vùng được tick, không động đến phần còn lại.</p>
+                    <p><strong>Khi nào dùng:</strong></p>
                     <ul>
                         <li>Update firmware</li>
-                        <li>S?a l?i ph?n m?m nh?</li>
-                        <li>Flash t?ng ph�n v�ng ri�ng (boot, recovery...)</li>
+                        <li>Sửa lỗi phần mềm nhẹ</li>
+                        <li>Flash từng phân vùng riêng (boot, recovery...)</li>
                     </ul>
-                    <p class="mb-0"><strong>Uu di?m:</strong> An to�n, c� th? gi? d? li?u n?u b? tick userdata.</p>
+                    <p class="mb-0"><strong>Ưu điểm:</strong> An toàn, có thể giữ dữ liệu nếu bỏ tick userdata.</p>
                 </div>
 
                 <h3>5.2. Firmware Upgrade</h3>
                 <div class="feature-card">
-                    <p><strong>M� t?:</strong> Flash firmware v� format userdata (x�a d? li?u ngu?i d�ng).</p>
-                    <p><strong>Khi n�o d�ng:</strong></p>
+                    <p><strong>Mô tả:</strong> Flash firmware và format userdata (xóa dữ liệu người dùng).</p>
+                    <p><strong>Khi nào dùng:</strong></p>
                     <ul>
                         <li>Upgrade/downgrade version</li>
-                        <li>Reset m�y v? tr?ng th�i g?c</li>
-                        <li>X�a FRP, pattern lock</li>
+                        <li>Reset máy về trạng thái gốc</li>
+                        <li>Xóa FRP, pattern lock</li>
                     </ul>
-                    <p class="mb-0"><strong>Luu �:</strong> D? li?u ngu?i d�ng s? b? x�a.</p>
+                    <p class="mb-0"><strong>Lưu ý:</strong> Dữ liệu người dùng sẽ bị xóa.</p>
                 </div>
 
                 <h3>5.3. Format All + Download</h3>
                 <div class="feature-card border-danger">
-                    <p><strong>M� t?:</strong> Format to�n b? b? nh? (k? c? NVRAM) r?i flash firmware.</p>
-                    <p><strong>Khi n�o d�ng:</strong></p>
+                    <p><strong>Mô tả:</strong> Format toàn bộ bộ nhớ (kể cả NVRAM) rồi flash firmware.</p>
+                    <p><strong>Khi nào dùng:</strong></p>
                     <ul>
-                        <li>Unbrick m�y brick n?ng</li>
-                        <li>M�y kh�ng v�o du?c b?t k? mode n�o</li>
-                        <li>Sau khi flash sai scatter ho?c firmware</li>
+                        <li>Unbrick máy brick nặng</li>
+                        <li>Máy không vào được bất kỳ mode nào</li>
+                        <li>Sau khi flash sai scatter hoặc firmware</li>
                     </ul>
-                    <p class="mb-0 text-danger"><strong>C?nh b�o:</strong> C� th? m?t IMEI! C?n backup NVRAM tru?c ho?c write l?i IMEI sau.</p>
+                    <p class="mb-0 text-danger"><strong>Cảnh báo:</strong> Có thể mất IMEI! Cần backup NVRAM trước hoặc write lại IMEI sau.</p>
                 </div>
 
                 <h3>5.4. Read Back (Backup)</h3>
                 <div class="feature-card">
-                    <p><strong>M� t?:</strong> �?c/backup c�c ph�n v�ng t? di?n tho?i.</p>
-                    <p><strong>Khi n�o d�ng:</strong></p>
+                    <p><strong>Mô tả:</strong> Đọc/backup các phân vùng từ điện thoại.</p>
+                    <p><strong>Khi nào dùng:</strong></p>
                     <ul>
-                        <li>Backup NVRAM (IMEI) tru?c khi flash</li>
+                        <li>Backup NVRAM (IMEI) trước khi flash</li>
                         <li>Backup full firmware</li>
-                        <li>L?y firmware t? m�y kh�c c�ng model</li>
+                        <li>Lấy firmware từ máy khác cùng model</li>
                     </ul>
                 </div>
             </section>
 
             <section id="loi-thuong-gap">
-                <h2><i class="fas fa-bug me-2"></i>6. L?i Thu?ng G?p v� C�ch Kh?c Ph?c</h2>
+                <h2><i class="fas fa-bug me-2"></i>6. Lỗi Thường Gặp và Cách Khắc Phục</h2>
                 
                 <div class="accordion" id="errorAccordion">
                     <div class="accordion-item">
@@ -479,11 +509,11 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
                         </h2>
                         <div id="err1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
-                                <p><strong>Nguy�n nh�n:</strong> Firmware kh�ng ph� h?p v?i chip c?a m�y.</p>
-                                <p><strong>C�ch kh?c ph?c:</strong></p>
+                                <p><strong>Nguyên nhân:</strong> Firmware không phù hợp với chip của máy.</p>
+                                <p><strong>Cách khắc phục:</strong></p>
                                 <ul>
-                                    <li>Ki?m tra l?i model m�y v� t?i d�ng firmware</li>
-                                    <li>�?m b?o chip trong scatter file kh?p v?i chip m�y</li>
+                                    <li>Kiểm tra lại model máy và tải đúng firmware</li>
+                                    <li>Đảm bảo chip trong scatter file khớp với chip máy</li>
                                 </ul>
                             </div>
                         </div>
@@ -496,12 +526,12 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
                         </h2>
                         <div id="err2" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>Nguy�n nh�n:</strong> DA (Download Agent) kh�ng ph� h?p.</p>
-                                <p><strong>C�ch kh?c ph?c:</strong></p>
+                                <p><strong>Nguyên nhân:</strong> DA (Download Agent) không phù hợp.</p>
+                                <p><strong>Cách khắc phục:</strong></p>
                                 <ul>
-                                    <li>Th? phi�n b?n SP Flash Tool kh�c (m?i hon ho?c cu hon)</li>
-                                    <li>Th? DA file kh�c</li>
-                                    <li>Ki?m tra c�p USB v� c?ng USB</li>
+                                    <li>Thử phiên bản SP Flash Tool khác (mới hơn hoặc cũ hơn)</li>
+                                    <li>Thử DA file khác</li>
+                                    <li>Kiểm tra cáp USB và cổng USB</li>
                                 </ul>
                             </div>
                         </div>
@@ -514,12 +544,12 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
                         </h2>
                         <div id="err3" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>Nguy�n nh�n:</strong> Firmware kh�ng d?y d? ho?c sai c?u h�nh.</p>
-                                <p><strong>C�ch kh?c ph?c:</strong></p>
+                                <p><strong>Nguyên nhân:</strong> Firmware không đầy đủ hoặc sai cấu hình.</p>
+                                <p><strong>Cách khắc phục:</strong></p>
                                 <ul>
-                                    <li>T?i l?i firmware d?y d?</li>
-                                    <li>Tick d?y d? c�c ph�n v�ng trong scatter</li>
-                                    <li>Th? ch? d? "Firmware Upgrade"</li>
+                                    <li>Tải lại firmware đầy đủ</li>
+                                    <li>Tick đầy đủ các phân vùng trong scatter</li>
+                                    <li>Thử chế độ "Firmware Upgrade"</li>
                                 </ul>
                             </div>
                         </div>
@@ -532,13 +562,13 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
                         </h2>
                         <div id="err4" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>Nguy�n nh�n:</strong> Kh�ng k?t n?i du?c v?i BROM c?a m�y.</p>
-                                <p><strong>C�ch kh?c ph?c:</strong></p>
+                                <p><strong>Nguyên nhân:</strong> Không kết nối được với BROM của máy.</p>
+                                <p><strong>Cách khắc phục:</strong></p>
                                 <ul>
-                                    <li>C�i l?i MTK VCOM Driver</li>
-                                    <li>Th? c�p USB kh�c</li>
-                                    <li>Th? c?ng USB 2.0 thay v� USB 3.0</li>
-                                    <li>Gi? d�ng n�t khi c?m c�p (Vol Down ho?c Vol Up)</li>
+                                    <li>Cài lại MTK VCOM Driver</li>
+                                    <li>Thử cáp USB khác</li>
+                                    <li>Thử cổng USB 2.0 thay vì USB 3.0</li>
+                                    <li>Giữ đúng nút khi cắm cáp (Vol Down hoặc Vol Up)</li>
                                 </ul>
                             </div>
                         </div>
@@ -546,17 +576,17 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err5">
-                                <i class="fas fa-times-circle text-danger me-2"></i>M?t IMEI sau khi flash
+                                <i class="fas fa-times-circle text-danger me-2"></i>Mất IMEI sau khi flash
                             </button>
                         </h2>
                         <div id="err5" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <p><strong>Nguy�n nh�n:</strong> Flash nh?m NVRAM ho?c d�ng Format All + Download.</p>
-                                <p><strong>C�ch kh?c ph?c:</strong></p>
+                                <p><strong>Nguyên nhân:</strong> Flash nhầm NVRAM hoặc dùng Format All + Download.</p>
+                                <p><strong>Cách khắc phục:</strong></p>
                                 <ul>
-                                    <li>Restore NVRAM backup (n?u c�)</li>
-                                    <li>S? d?ng UnlockTool d? write l?i IMEI</li>
-                                    <li>D?ch v? s?a IMEI t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></li>
+                                    <li>Restore NVRAM backup (nếu có)</li>
+                                    <li>Sử dụng UnlockTool để write lại IMEI</li>
+                                    <li>Dịch vụ sửa IMEI tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -565,82 +595,82 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
             </section>
 
             <section id="faq">
-                <h2><i class="fas fa-question-circle me-2"></i>7. C�u H?i Thu?ng G?p (FAQ)</h2>
+                <h2><i class="fas fa-question-circle me-2"></i>7. Câu Hỏi Thường Gặp (FAQ)</h2>
                 
                 <div class="accordion" id="faqAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
-                                SP Flash Tool c� mi?n ph� kh�ng?
+                                SP Flash Tool có miễn phí không?
                             </button>
                         </h2>
                         <div id="faq1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
-                                <strong>C�</strong>, SP Flash Tool l� ph?n m?m mi?n ph� do MediaTek ph�t tri?n. B?n c� th? t?i t? c�c ngu?n uy t�n nhu <a href="https://file.unlocktool.net">file.unlocktool.net</a>.
+                                <strong>Có</strong>, SP Flash Tool là phần mềm miễn phí do MediaTek phát triển. Bạn có thể tải từ các nguồn uy tín như <a href="https://file.unlocktool.net">file.unlocktool.net</a>.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
-                                M�y brick c� flash du?c kh�ng?
+                                Máy brick có flash được không?
                             </button>
                         </h2>
                         <div id="faq2" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <strong>C�</strong>, SP Flash Tool c� th? flash m�y brick MediaTek qua ch? d? BROM. Ch? c?n gi? Vol Down (ho?c Vol Up) khi c?m c�p USB d? v�o BROM Mode. N?u kh�ng v�o du?c, c� th? c?n test point.
+                                <strong>Có</strong>, SP Flash Tool có thể flash máy brick MediaTek qua chế độ BROM. Chỉ cần giữ Vol Down (hoặc Vol Up) khi cắm cáp USB để vào BROM Mode. Nếu không vào được, có thể cần test point.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3">
-                                Flash c� m?t d? li?u kh�ng?
+                                Flash có mất dữ liệu không?
                             </button>
                         </h2>
                         <div id="faq3" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                T�y ch? d? flash. N?u d�ng <strong>Download Only</strong> v� b? tick userdata, d? li?u du?c gi?. N?u d�ng <strong>Firmware Upgrade</strong> ho?c <strong>Format All</strong>, d? li?u s? b? x�a. Lu�n backup tru?c!
+                                Tùy chế độ flash. Nếu dùng <strong>Download Only</strong> và bỏ tick userdata, dữ liệu được giữ. Nếu dùng <strong>Firmware Upgrade</strong> hoặc <strong>Format All</strong>, dữ liệu sẽ bị xóa. Luôn backup trước!
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4">
-                                SP Flash Tool c� flash du?c Qualcomm kh�ng?
+                                SP Flash Tool có flash được Qualcomm không?
                             </button>
                         </h2>
                         <div id="faq4" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <strong>Kh�ng</strong>, SP Flash Tool ch? d�ng cho chip MediaTek. �?i v?i Qualcomm Snapdragon, s? d?ng QFIL Tool ho?c EDL Mode v?i UnlockTool.
+                                <strong>Không</strong>, SP Flash Tool chỉ dùng cho chip MediaTek. Đối với Qualcomm Snapdragon, sử dụng QFIL Tool hoặc EDL Mode với UnlockTool.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq5">
-                                C?n h? tr? th�m th� l�m sao?
+                                Cần hỗ trợ thêm thì làm sao?
                             </button>
                         </h2>
                         <div id="faq5" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                N?u g?p kh� khan khi flash firmware, b?n c� th?:<br>
-                                - Thu� UnlockTool (8.000d/6h) t?i <a href="https://www.unlocktool.us/">UnlockTool.us</a> d? s? d?ng t�nh nang flash n�ng cao<br>
-                                - S? d?ng d?ch v? k? thu?t t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>
+                                Nếu gặp khó khăn khi flash firmware, bạn có thể:<br>
+                                - Thuê UnlockTool (8.000đ/6h) tại <a href="https://www.unlocktool.us/">UnlockTool.us</a> để sử dụng tính năng flash nâng cao<br>
+                                - Sử dụng dịch vụ kỹ thuật tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <!-- CTA cu?i b�i -->
+            <!-- CTA cuối bài -->
             <section class="mt-5">
                 <div class="price-highlight">
-                    <h3><i class="fas fa-microchip me-2"></i>Flash Firmware MediaTek D? D�ng!</h3>
-                    <p>T?i SP Flash Tool mi?n ph� - H? tr? t?t c? chip MTK</p>
+                    <h3><i class="fas fa-microchip me-2"></i>Flash Firmware MediaTek Dễ Dàng!</h3>
+                    <p>Tải SP Flash Tool miễn phí - Hỗ trợ tất cả chip MTK</p>
                     <div class="d-flex justify-content-center flex-wrap gap-3 mt-4">
-                        <a href="https://file.unlocktool.net/page/tool---android---pc/tool-android---pc" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-download me-2"></i>T?i SP Flash Tool</a>
-                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thu� Tool 8K/6H</a>
+                        <a href="https://file.unlocktool.net/page/tool---android---pc/tool-android---pc" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-download me-2"></i>Tải SP Flash Tool</a>
+                        <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê Tool 8K/6H</a>
                     </div>
                 </div>
             </section>
@@ -651,15 +681,15 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
         <div class="col-lg-4">
             <div class="sticky-top" style="top:20px">
                 <div class="price-highlight mb-4">
-                    <h5><i class="fas fa-unlock me-2"></i>Thu� UnlockTool</h5>
-                    <p class="price" style="font-size:2.5rem">8.000d</p>
-                    <p>/ 6 ti?ng</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thu� Ngay</a>
+                    <h5><i class="fas fa-unlock me-2"></i>Thuê UnlockTool</h5>
+                    <p class="price" style="font-size:2.5rem">8.000đ</p>
+                    <p>/ 6 tiếng</p>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thuê Ngay</a>
                 </div>
 
                 <div class="card mb-4">
                     <div class="card-header bg-primary text-white">
-                        <i class="fas fa-download me-2"></i>T?i xu?ng
+                        <i class="fas fa-download me-2"></i>Tải xuống
                     </div>
                     <div class="card-body">
                         <a href="https://file.unlocktool.net/page/tool---android---pc/tool-android---pc" target="_blank" class="btn btn-outline-primary w-100 mb-2">SP Flash Tool</a>
@@ -670,26 +700,26 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
 
                 <div class="card mb-4">
                     <div class="card-header bg-success text-white">
-                        <i class="fas fa-check me-2"></i>Chip h? tr?
+                        <i class="fas fa-check me-2"></i>Chip hỗ trợ
                     </div>
                     <div class="card-body">
                         <ul class="list-unstyled mb-0 small">
-                            <li>? MT65xx, MT67xx</li>
-                            <li>? Helio P/G/X series</li>
-                            <li>? Dimensity 700-9000</li>
-                            <li>? Xiaomi, Oppo, Vivo, Realme</li>
+                            <li>✓ MT65xx, MT67xx</li>
+                            <li>✓ Helio P/G/X series</li>
+                            <li>✓ Dimensity 700-9000</li>
+                            <li>✓ Xiaomi, Oppo, Vivo, Realme</li>
                         </ul>
                     </div>
                 </div>
 
                 <div class="card">
                     <div class="card-header bg-dark text-white">
-                        <i class="fas fa-link me-2"></i>B�i vi?t li�n quan
+                        <i class="fas fa-link me-2"></i>Bài viết liên quan
                     </div>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item"><a href="95-frp-realme-c55.php">FRP Realme C55</a></li>
                         <li class="list-group-item"><a href="91-frp-redmi-note-13.php">FRP Redmi Note 13</a></li>
-                        <li class="list-group-item"><a href="81-unlocktool-huong-dan-su-dung.php">Hu?ng d?n UnlockTool</a></li>
+                        <li class="list-group-item"><a href="81-unlocktool-huong-dan-su-dung.php">Hướng dẫn UnlockTool</a></li>
                     </ul>
                 </div>
             </div>
@@ -704,7 +734,7 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -718,13 +748,13 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -732,15 +762,15 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -753,7 +783,7 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -764,10 +794,10 @@ $canonical_url = "https://www.unlocktool.us/articles/100-sp-flash-tool-mediatek.
         <div class="row">
             <div class="col-md-6">
                 <h5>UnlockTool.us</h5>
-                <p class="small">Cho thu� t�i kho?n tool m? kh�a di?n tho?i uy t�n nh?t Vi?t Nam.</p>
+                <p class="small">Cho thuê tài khoản tool mở khóa điện thoại uy tín nhất Việt Nam.</p>
             </div>
             <div class="col-md-6 text-md-end">
-                <p class="small mb-1">D?ch v?: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+                <p class="small mb-1">Dịch vụ: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
                 <p class="small">&copy; 2026 UnlockTool.us - All rights reserved.</p>
             </div>
         </div>

@@ -1,6 +1,6 @@
-<?php
-$page_title = "UnlockTool Cho Xiaomi 2026 - Mi Account Remove, FRP Bypass To�n Di?n";
-$page_description = "Hu?ng d?n s? d?ng UnlockTool cho Xiaomi d?y d? nh?t 2026. Mi Account Remove, FRP Bypass Xiaomi HyperOS, MIUI 15. H? tr? Xiaomi 14, Redmi Note 13, POCO F6.";
+﻿<?php
+$page_title = "UnlockTool Cho Xiaomi 2026 - Mi Account Remove, FRP Bypass Toàn Diện";
+$page_description = "Hướng dẫn sử dụng UnlockTool cho Xiaomi đầy đủ nhất 2026. Mi Account Remove, FRP Bypass Xiaomi HyperOS, MIUI 15. Hỗ trợ Xiaomi 14, Redmi Note 13, POCO F6.";
 $page_keywords = "unlocktool xiaomi, unlocktool cho xiaomi, mi account remove unlocktool, xiaomi frp bypass unlocktool, unlock xiaomi unlocktool, unlocktool redmi";
 $canonical_url = "https://www.unlocktool.us/articles/17-unlocktool-cho-xiaomi.php";
 ?>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/17-unlocktool-cho-xiaomi.ph
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">">
     
@@ -30,13 +30,13 @@ $canonical_url = "https://www.unlocktool.us/articles/17-unlocktool-cho-xiaomi.ph
     {
         "@context": "https://schema.org",
         "@type": "HowTo",
-        "name": "C�ch x�a Mi Account b?ng UnlockTool",
-        "description": "Hu?ng d?n chi ti?t c�ch d�ng UnlockTool d? x�a Mi Account tr�n Xiaomi",
+        "name": "Cách xóa Mi Account bằng UnlockTool",
+        "description": "Hướng dẫn chi tiết cách dùng UnlockTool để xóa Mi Account trên Xiaomi",
         "step": [
-            {"@type": "HowToStep", "name": "C�i driver", "text": "C�i d?t Qualcomm 9008 ho?c MTK Driver"},
-            {"@type": "HowToStep", "name": "V�o EDL Mode", "text": "�ua Xiaomi v�o EDL Mode (9008)"},
-            {"@type": "HowToStep", "name": "M? UnlockTool", "text": "Ch?y UnlockTool, ch?n tab Xiaomi"},
-            {"@type": "HowToStep", "name": "Th?c hi?n", "text": "Ch?n Mi Account Remove v� th?c hi?n"}
+            {"@type": "HowToStep", "name": "Cài driver", "text": "Cài đặt Qualcomm 9008 hoặc MTK Driver"},
+            {"@type": "HowToStep", "name": "Vào EDL Mode", "text": "Đưa Xiaomi vào EDL Mode (9008)"},
+            {"@type": "HowToStep", "name": "Mở UnlockTool", "text": "Chạy UnlockTool, chọn tab Xiaomi"},
+            {"@type": "HowToStep", "name": "Thực hiện", "text": "Chọn Mi Account Remove và thực hiện"}
         ]
     }
     </script>
@@ -46,9 +46,9 @@ $canonical_url = "https://www.unlocktool.us/articles/17-unlocktool-cho-xiaomi.ph
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "UnlockTool c� x�a du?c Mi Account kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "C�, UnlockTool h? tr? x�a Mi Account tr�n h?u h?t c�c model Xiaomi v?i chip Qualcomm v� MediaTek, bao g?m MIUI 10-15 v� HyperOS."}},
-            {"@type": "Question", "name": "UnlockTool c� h? tr? Xiaomi HyperOS kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "C�, UnlockTool 2026 d� c?p nh?t h? tr? Xiaomi HyperOS tr�n c�c model m?i nhu Xiaomi 14, POCO F6."}},
-            {"@type": "Question", "name": "X�a Mi Account Xiaomi m?t bao l�u?", "acceptedAnswer": {"@type": "Answer", "text": "X�a Mi Account b?ng UnlockTool thu?ng m?t 3-15 ph�t t�y model v� chip (Qualcomm hay MediaTek)."}}
+            {"@type": "Question", "name": "UnlockTool có xóa được Mi Account không?", "acceptedAnswer": {"@type": "Answer", "text": "Có, UnlockTool hỗ trợ xóa Mi Account trên hầu hết các model Xiaomi với chip Qualcomm và MediaTek, bao gồm MIUI 10-15 và HyperOS."}},
+            {"@type": "Question", "name": "UnlockTool có hỗ trợ Xiaomi HyperOS không?", "acceptedAnswer": {"@type": "Answer", "text": "Có, UnlockTool 2026 đã cập nhật hỗ trợ Xiaomi HyperOS trên các model mới như Xiaomi 14, POCO F6."}},
+            {"@type": "Question", "name": "Xóa Mi Account Xiaomi mất bao lâu?", "acceptedAnswer": {"@type": "Answer", "text": "Xóa Mi Account bằng UnlockTool thường mất 3-15 phút tùy model và chip (Qualcomm hay MediaTek)."}}
         ]
     }
     </script>
@@ -130,6 +130,36 @@ $canonical_url = "https://www.unlocktool.us/articles/17-unlocktool-cho-xiaomi.ph
         }
     }
     </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "UnlockTool.us",
+        "url": "https://www.unlocktool.us",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.unlocktool.us/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Dịch vụ mở khóa điện thoại",
+        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.9",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "109"
+        }
+    }
+    </script>
 </head>
 <body>
 
@@ -137,7 +167,7 @@ $canonical_url = "https://www.unlocktool.us/articles/17-unlocktool-cho-xiaomi.ph
     <div class="container">
         <div style="font-size:3rem;margin-bottom:20px"><i class="fab fa-android"></i></div>
         <h1>UnlockTool Cho Xiaomi 2026</h1>
-        <p>Mi Account Remove - FRP Bypass - HyperOS/MIUI - H? tr? to�n di?n</p>
+        <p>Mi Account Remove - FRP Bypass - HyperOS/MIUI - Hỗ trợ toàn diện</p>
     </div>
 </header>
 
@@ -146,7 +176,7 @@ $canonical_url = "https://www.unlocktool.us/articles/17-unlocktool-cho-xiaomi.ph
         
         <!-- Feature Hero -->
         <div class="feature-hero">
-            <h3 class="text-center"><i class="fas fa-mobile-alt"></i> T�nh nang UnlockTool cho Xiaomi</h3>
+            <h3 class="text-center"><i class="fas fa-mobile-alt"></i> Tính năng UnlockTool cho Xiaomi</h3>
             <div class="row mt-4">
                 <div class="col-md-3 col-6 text-center mb-3">
                     <i class="fas fa-user-slash fa-2x mb-2"></i>
@@ -169,67 +199,67 @@ $canonical_url = "https://www.unlocktool.us/articles/17-unlocktool-cho-xiaomi.ph
         
         <!-- TOC -->
         <div class="toc">
-            <h4><i class="fas fa-list"></i> M?c l?c</h4>
+            <h4><i class="fas fa-list"></i> Mục lục</h4>
             <ul>
-                <li><a href="#gioi-thieu">1. Gi?i thi?u UnlockTool cho Xiaomi</a></li>
-                <li><a href="#tinh-nang">2. T�nh nang h? tr? Xiaomi</a></li>
-                <li><a href="#model">3. Model Xiaomi du?c h? tr?</a></li>
-                <li><a href="#chip">4. Ph�n bi?t chip Qualcomm v� MediaTek</a></li>
-                <li><a href="#chuan-bi">5. Chu?n b? tru?c khi s? d?ng</a></li>
-                <li><a href="#mi-account">6. Hu?ng d?n x�a Mi Account</a></li>
-                <li><a href="#frp">7. Hu?ng d?n FRP Bypass Xiaomi</a></li>
-                <li><a href="#luu-y">8. Luu � quan tr?ng</a></li>
+                <li><a href="#gioi-thieu">1. Giới thiệu UnlockTool cho Xiaomi</a></li>
+                <li><a href="#tinh-nang">2. Tính năng hỗ trợ Xiaomi</a></li>
+                <li><a href="#model">3. Model Xiaomi được hỗ trợ</a></li>
+                <li><a href="#chip">4. Phân biệt chip Qualcomm và MediaTek</a></li>
+                <li><a href="#chuan-bi">5. Chuẩn bị trước khi sử dụng</a></li>
+                <li><a href="#mi-account">6. Hướng dẫn xóa Mi Account</a></li>
+                <li><a href="#frp">7. Hướng dẫn FRP Bypass Xiaomi</a></li>
+                <li><a href="#luu-y">8. Lưu ý quan trọng</a></li>
                 <li><a href="#faq">9. FAQ</a></li>
             </ul>
         </div>
         
         <!-- Section 1 -->
-        <h2 id="gioi-thieu">1. Gi?i thi?u UnlockTool cho Xiaomi</h2>
+        <h2 id="gioi-thieu">1. Giới thiệu UnlockTool cho Xiaomi</h2>
         
-        <p><strong>Xiaomi</strong> l� m?t trong nh?ng h�ng di?n tho?i ph? bi?n nh?t t?i Vi?t Nam v?i c�c d�ng s?n ph?m da d?ng: Xiaomi, Redmi, POCO. Tuy nhi�n, Xiaomi cung c� h? th?ng b?o m?t ri�ng g?i l� <strong>Mi Account</strong> khi?n nhi?u ngu?i d�ng g?p kh� khan.</p>
+        <p><strong>Xiaomi</strong> là một trong những hãng điện thoại phổ biến nhất tại Việt Nam với các dòng sản phẩm đa dạng: Xiaomi, Redmi, POCO. Tuy nhiên, Xiaomi cũng có hệ thống bảo mật riêng gọi là <strong>Mi Account</strong> khiến nhiều người dùng gặp khó khăn.</p>
         
-        <p><strong>UnlockTool</strong> l� gi?i ph�p m?nh m? nh?t d? x? l� c�c v?n d? b?o m?t tr�n Xiaomi, h? tr? c? chip <strong>Qualcomm</strong> v� <strong>MediaTek</strong>, t? MIUI 10 d?n MIUI 15 v� HyperOS m?i nh?t.</p>
+        <p><strong>UnlockTool</strong> là giải pháp mạnh mẽ nhất để xử lý các vấn đề bảo mật trên Xiaomi, hỗ trợ cả chip <strong>Qualcomm</strong> và <strong>MediaTek</strong>, từ MIUI 10 đến MIUI 15 và HyperOS mới nhất.</p>
         
         <div class="feature-grid">
             <div class="feature-card">
                 <i class="fas fa-user-slash"></i>
                 <h5>Mi Account Remove</h5>
-                <p>X�a t�i kho?n Xiaomi b? kh�a, bypass m�n h�nh dang nh?p</p>
+                <p>Xóa tài khoản Xiaomi bị khóa, bypass màn hình đăng nhập</p>
             </div>
             <div class="feature-card">
                 <i class="fas fa-unlock"></i>
                 <h5>FRP Bypass</h5>
-                <p>X�a kh�a Google sau khi reset m�y</p>
+                <p>Xóa khóa Google sau khi reset máy</p>
             </div>
             <div class="feature-card">
                 <i class="fas fa-lock-open"></i>
                 <h5>Pattern/PIN Remove</h5>
-                <p>X�a m?t kh?u m�n h�nh khi qu�n</p>
+                <p>Xóa mật khẩu màn hình khi quên</p>
             </div>
             <div class="feature-card">
                 <i class="fas fa-hdd"></i>
                 <h5>Flash ROM</h5>
-                <p>Flash firmware, s?a bootloop, unbrick</p>
+                <p>Flash firmware, sửa bootloop, unbrick</p>
             </div>
             <div class="feature-card">
                 <i class="fas fa-sim-card"></i>
                 <h5>IMEI Repair</h5>
-                <p>S?a IMEI b? null ho?c unknown</p>
+                <p>Sửa IMEI bị null hoặc unknown</p>
             </div>
             <div class="feature-card">
                 <i class="fas fa-unlock-alt"></i>
                 <h5>Bootloader Unlock</h5>
-                <p>M? kh�a bootloader kh�ng c?n d?i</p>
+                <p>Mở khóa bootloader không cần đợi</p>
             </div>
         </div>
         
         <!-- Section 2 -->
-        <h2 id="tinh-nang">2. T�nh nang h? tr? Xiaomi chi ti?t</h2>
+        <h2 id="tinh-nang">2. Tính năng hỗ trợ Xiaomi chi tiết</h2>
         
         <table>
             <thead>
                 <tr>
-                    <th>T�nh nang</th>
+                    <th>Tính năng</th>
                     <th>Chip</th>
                     <th>MIUI/HyperOS</th>
                     <th>Mode</th>
@@ -251,38 +281,38 @@ $canonical_url = "https://www.unlocktool.us/articles/17-unlocktool-cho-xiaomi.ph
                 <tr>
                     <td><strong>FRP Bypass</strong></td>
                     <td>Qualcomm/MTK</td>
-                    <td>T?t c?</td>
+                    <td>Tất cả</td>
                     <td>EDL/MTK</td>
                 </tr>
                 <tr>
                     <td><strong>Pattern Remove</strong></td>
                     <td>Qualcomm/MTK</td>
-                    <td>T?t c?</td>
+                    <td>Tất cả</td>
                     <td>EDL/MTK</td>
                 </tr>
                 <tr>
                     <td><strong>Bootloader Unlock</strong></td>
                     <td>Qualcomm/MTK</td>
-                    <td>T?t c?</td>
+                    <td>Tất cả</td>
                     <td>Fastboot</td>
                 </tr>
                 <tr>
                     <td><strong>Flash ROM</strong></td>
                     <td>Qualcomm/MTK</td>
-                    <td>T?t c?</td>
+                    <td>Tất cả</td>
                     <td>EDL/MTK</td>
                 </tr>
                 <tr>
                     <td><strong>IMEI Repair</strong></td>
                     <td>Qualcomm/MTK</td>
-                    <td>T?t c?</td>
+                    <td>Tất cả</td>
                     <td>EDL/MTK</td>
                 </tr>
             </tbody>
         </table>
         
         <!-- Section 3 -->
-        <h2 id="model">3. Model Xiaomi du?c h? tr?</h2>
+        <h2 id="model">3. Model Xiaomi được hỗ trợ</h2>
         
         <h3>3.1. Xiaomi Series</h3>
         
@@ -346,9 +376,9 @@ $canonical_url = "https://www.unlocktool.us/articles/17-unlocktool-cho-xiaomi.ph
         </div>
         
         <!-- Section 4 -->
-        <h2 id="chip">4. Ph�n bi?t chip Qualcomm v� MediaTek</h2>
+        <h2 id="chip">4. Phân biệt chip Qualcomm và MediaTek</h2>
         
-        <p>Xiaomi s? d?ng hai lo?i chip ch�nh: <strong>Qualcomm (Snapdragon)</strong> v� <strong>MediaTek</strong>. M?i lo?i chip c� c�ch x? l� kh�c nhau trong UnlockTool:</p>
+        <p>Xiaomi sử dụng hai loại chip chính: <strong>Qualcomm (Snapdragon)</strong> và <strong>MediaTek</strong>. Mỗi loại chip có cách xử lý khác nhau trong UnlockTool:</p>
         
         <div class="chip-compare">
             <div class="chip-card qualcomm">
@@ -358,7 +388,7 @@ $canonical_url = "https://www.unlocktool.us/articles/17-unlocktool-cho-xiaomi.ph
                     <li><strong>Model:</strong> Xiaomi 14, POCO F6, Redmi Note 13 Pro+...</li>
                     <li><strong>Mode:</strong> EDL Mode (Qualcomm 9008)</li>
                     <li><strong>Driver:</strong> Qualcomm QDLoader 9008</li>
-                    <li><strong>Uu di?m:</strong> H? tr? t?t, nhi?u t�nh nang</li>
+                    <li><strong>Ưu điểm:</strong> Hỗ trợ tốt, nhiều tính năng</li>
                 </ul>
             </div>
             <div class="chip-card mtk">
@@ -368,220 +398,220 @@ $canonical_url = "https://www.unlocktool.us/articles/17-unlocktool-cho-xiaomi.ph
                     <li><strong>Model:</strong> Redmi Note 12, POCO M5, Redmi 12...</li>
                     <li><strong>Mode:</strong> MTK Mode (BROM/Preloader)</li>
                     <li><strong>Driver:</strong> MTK USB VCOM Driver</li>
-                    <li><strong>Uu di?m:</strong> V�o mode d? hon</li>
+                    <li><strong>Ưu điểm:</strong> Vào mode dễ hơn</li>
                 </ul>
             </div>
         </div>
         
         <div class="info-box">
-            <h4><i class="fas fa-question-circle"></i> C�ch x�c d?nh chip c?a Xiaomi</h4>
+            <h4><i class="fas fa-question-circle"></i> Cách xác định chip của Xiaomi</h4>
             <ul class="mb-0">
-                <li>V�o <strong>Settings > About Phone</strong> xem th�ng tin chip</li>
-                <li>T�m ki?m model tr�n Google d? bi?t chip</li>
-                <li>D�ng app CPU-Z d? xem chi ti?t</li>
+                <li>Vào <strong>Settings > About Phone</strong> xem thông tin chip</li>
+                <li>Tìm kiếm model trên Google để biết chip</li>
+                <li>Dùng app CPU-Z để xem chi tiết</li>
             </ul>
         </div>
         
         <!-- Section 5 -->
-        <h2 id="chuan-bi">5. Chu?n b? tru?c khi s? d?ng</h2>
+        <h2 id="chuan-bi">5. Chuẩn bị trước khi sử dụng</h2>
         
-        <h3>5.1. Ph?n m?m c?n c�</h3>
+        <h3>5.1. Phần mềm cần có</h3>
         
         <ul>
-            <li><strong>UnlockTool:</strong> <a href="https://file.unlocktool.net/page/index.php" target="_blank">T?i t?i d�y</a></li>
-            <li><strong>Driver Qualcomm 9008:</strong> <a href="https://file.unlocktool.net/page/all-driver" target="_blank">T?i driver</a></li>
-            <li><strong>Driver MTK:</strong> <a href="https://file.unlocktool.net/page/all-driver" target="_blank">T?i driver</a></li>
-            <li><strong>T�i kho?n UnlockTool:</strong> <a href="https://www.unlocktool.us/" target="_blank">Thu� t? 8K</a></li>
+            <li><strong>UnlockTool:</strong> <a href="https://file.unlocktool.net/page/index.php" target="_blank">Tải tại đây</a></li>
+            <li><strong>Driver Qualcomm 9008:</strong> <a href="https://file.unlocktool.net/page/all-driver" target="_blank">Tải driver</a></li>
+            <li><strong>Driver MTK:</strong> <a href="https://file.unlocktool.net/page/all-driver" target="_blank">Tải driver</a></li>
+            <li><strong>Tài khoản UnlockTool:</strong> <a href="https://www.unlocktool.us/" target="_blank">Thuê từ 8K</a></li>
         </ul>
         
-        <h3>5.2. C�ch v�o EDL Mode (Qualcomm 9008)</h3>
+        <h3>5.2. Cách vào EDL Mode (Qualcomm 9008)</h3>
         
-        <p><strong>C�ch 1: Test Point (Ph? bi?n nh?t)</strong></p>
+        <p><strong>Cách 1: Test Point (Phổ biến nhất)</strong></p>
         <ol>
-            <li>T?t ngu?n di?n tho?i ho�n to�n</li>
-            <li>M? n?p lung/th�o khung m�y d? l? mainboard</li>
-            <li>T�m v� ch?p Test Point (tra c?u so d? theo model)</li>
-            <li>C?m c�p USB v�o m�y t�nh trong khi gi? ch?p</li>
-            <li>Device Manager hi?n "Qualcomm HS-USB QDLoader 9008"</li>
+            <li>Tắt nguồn điện thoại hoàn toàn</li>
+            <li>Mở nắp lưng/tháo khung máy để lộ mainboard</li>
+            <li>Tìm và chập Test Point (tra cứu sơ đồ theo model)</li>
+            <li>Cắm cáp USB vào máy tính trong khi giữ chập</li>
+            <li>Device Manager hiện "Qualcomm HS-USB QDLoader 9008"</li>
         </ol>
         
-        <p><strong>C�ch 2: ADB Command (N?u c� ADB)</strong></p>
+        <p><strong>Cách 2: ADB Command (Nếu có ADB)</strong></p>
         <ol>
-            <li>B?t USB Debugging tr�n di?n tho?i</li>
-            <li>M? CMD, g�: <code>adb reboot edl</code></li>
-            <li>M�y s? kh?i d?ng v�o EDL Mode</li>
+            <li>Bật USB Debugging trên điện thoại</li>
+            <li>Mở CMD, gõ: <code>adb reboot edl</code></li>
+            <li>Máy sẽ khởi động vào EDL Mode</li>
         </ol>
         
-        <p><strong>C�ch 3: Vol Down + C�p (M?t s? model)</strong></p>
+        <p><strong>Cách 3: Vol Down + Cáp (Một số model)</strong></p>
         <ol>
-            <li>T?t ngu?n di?n tho?i</li>
-            <li>Gi? Vol Down + Vol Up v� c?m c�p USB</li>
-            <li>Gi? kho?ng 10 gi�y</li>
+            <li>Tắt nguồn điện thoại</li>
+            <li>Giữ Vol Down + Vol Up và cắm cáp USB</li>
+            <li>Giữ khoảng 10 giây</li>
         </ol>
         
-        <h3>5.3. C�ch v�o MTK Mode (MediaTek)</h3>
+        <h3>5.3. Cách vào MTK Mode (MediaTek)</h3>
         
         <ol>
-            <li>T?t ngu?n di?n tho?i ho�n to�n</li>
-            <li>Gi? Vol Down (ho?c Vol Up t�y model)</li>
-            <li>C?m c�p USB v�o m�y t�nh trong khi gi? n�t</li>
-            <li>Device Manager hi?n "MediaTek USB Port" ho?c "MTK VCOM"</li>
+            <li>Tắt nguồn điện thoại hoàn toàn</li>
+            <li>Giữ Vol Down (hoặc Vol Up tùy model)</li>
+            <li>Cắm cáp USB vào máy tính trong khi giữ nút</li>
+            <li>Device Manager hiện "MediaTek USB Port" hoặc "MTK VCOM"</li>
         </ol>
         
         <!-- Section 6 -->
-        <h2 id="mi-account">6. Hu?ng d?n x�a Mi Account</h2>
+        <h2 id="mi-account">6. Hướng dẫn xóa Mi Account</h2>
         
-        <p><strong>Mi Account</strong> l� t�i kho?n b?o m?t c?a Xiaomi. Khi b?n reset m�y ho?c flash ROM, m�y s? y�u c?u dang nh?p Mi Account d� dang k� tru?c d�. UnlockTool c� th? x�a kh�a n�y.</p>
+        <p><strong>Mi Account</strong> là tài khoản bảo mật của Xiaomi. Khi bạn reset máy hoặc flash ROM, máy sẽ yêu cầu đăng nhập Mi Account đã đăng ký trước đó. UnlockTool có thể xóa khóa này.</p>
         
-        <h3>6.1. X�a Mi Account tr�n chip Qualcomm (EDL)</h3>
+        <h3>6.1. Xóa Mi Account trên chip Qualcomm (EDL)</h3>
         
         <div class="step-box">
             <span class="step-number">1</span>
-            <strong>C�i Qualcomm 9008 Driver</strong>
-            <p class="mb-0">C�i driver t? link d� cung c?p, kh?i d?ng l?i m�y t�nh</p>
+            <strong>Cài Qualcomm 9008 Driver</strong>
+            <p class="mb-0">Cài driver từ link đã cung cấp, khởi động lại máy tính</p>
         </div>
         
         <div class="step-box">
             <span class="step-number">2</span>
-            <strong>�ua Xiaomi v�o EDL Mode (9008)</strong>
-            <p class="mb-0">S? d?ng Test Point ho?c ADB command nhu hu?ng d?n ? m?c 5.2</p>
+            <strong>Đưa Xiaomi vào EDL Mode (9008)</strong>
+            <p class="mb-0">Sử dụng Test Point hoặc ADB command như hướng dẫn ở mục 5.2</p>
         </div>
         
         <div class="step-box">
             <span class="step-number">3</span>
-            <strong>M? UnlockTool ? Tab Xiaomi</strong>
-            <p class="mb-0">Ch? ph?n m?m nh?n m�y ? Qualcomm 9008 Port</p>
+            <strong>Mở UnlockTool → Tab Xiaomi</strong>
+            <p class="mb-0">Chờ phần mềm nhận máy ở Qualcomm 9008 Port</p>
         </div>
         
         <div class="step-box">
             <span class="step-number">4</span>
-            <strong>Ch?n "Mi Account Remove" v� Click Start</strong>
-            <p class="mb-0">Ch? 3-15 ph�t. Kh�ng ng?t c�p trong qu� tr�nh x? l�!</p>
+            <strong>Chọn "Mi Account Remove" và Click Start</strong>
+            <p class="mb-0">Chờ 3-15 phút. Không ngắt cáp trong quá trình xử lý!</p>
         </div>
         
         <div class="step-box">
             <span class="step-number">5</span>
-            <strong>Ho�n t?t</strong>
-            <p class="mb-0">M�y s? t? kh?i d?ng l?i. Mi Account d� du?c x�a!</p>
+            <strong>Hoàn tất</strong>
+            <p class="mb-0">Máy sẽ tự khởi động lại. Mi Account đã được xóa!</p>
         </div>
         
-        <h3>6.2. X�a Mi Account tr�n chip MediaTek</h3>
+        <h3>6.2. Xóa Mi Account trên chip MediaTek</h3>
         
         <div class="step-box">
             <span class="step-number">1</span>
-            <strong>C�i MTK USB VCOM Driver</strong>
+            <strong>Cài MTK USB VCOM Driver</strong>
         </div>
         
         <div class="step-box">
             <span class="step-number">2</span>
-            <strong>�ua Xiaomi v�o MTK Mode</strong>
-            <p class="mb-0">T?t ngu?n, gi? Vol Down v� c?m c�p USB</p>
+            <strong>Đưa Xiaomi vào MTK Mode</strong>
+            <p class="mb-0">Tắt nguồn, giữ Vol Down và cắm cáp USB</p>
         </div>
         
         <div class="step-box">
             <span class="step-number">3</span>
-            <strong>M? UnlockTool ? Tab Xiaomi MTK</strong>
+            <strong>Mở UnlockTool → Tab Xiaomi MTK</strong>
         </div>
         
         <div class="step-box">
             <span class="step-number">4</span>
-            <strong>Ch?n "Mi Account Remove" v� Click Start</strong>
+            <strong>Chọn "Mi Account Remove" và Click Start</strong>
         </div>
         
         <div class="success-box">
-            <h4><i class="fas fa-check-circle"></i> Th�nh c�ng!</h4>
-            <p class="mb-0">Sau khi ho�n t?t, b?n c� th? s? d?ng Xiaomi m� kh�ng c?n dang nh?p Mi Account cu.</p>
+            <h4><i class="fas fa-check-circle"></i> Thành công!</h4>
+            <p class="mb-0">Sau khi hoàn tất, bạn có thể sử dụng Xiaomi mà không cần đăng nhập Mi Account cũ.</p>
         </div>
         
         <!-- Section 7 -->
-        <h2 id="frp">7. Hu?ng d?n FRP Bypass Xiaomi</h2>
+        <h2 id="frp">7. Hướng dẫn FRP Bypass Xiaomi</h2>
         
-        <p>Ngo�i Mi Account, Xiaomi c�n c� kh�a Google FRP. C�ch x? l� tuong t?:</p>
+        <p>Ngoài Mi Account, Xiaomi còn có khóa Google FRP. Cách xử lý tương tự:</p>
         
         <ol>
-            <li>�ua Xiaomi v�o EDL Mode (Qualcomm) ho?c MTK Mode (MediaTek)</li>
-            <li>M? UnlockTool ? Tab Xiaomi</li>
-            <li>Ch?n <strong>"FRP Remove"</strong> ho?c <strong>"Factory Reset"</strong></li>
-            <li>Click Start v� ch? ho�n t?t</li>
+            <li>Đưa Xiaomi vào EDL Mode (Qualcomm) hoặc MTK Mode (MediaTek)</li>
+            <li>Mở UnlockTool → Tab Xiaomi</li>
+            <li>Chọn <strong>"FRP Remove"</strong> hoặc <strong>"Factory Reset"</strong></li>
+            <li>Click Start và chờ hoàn tất</li>
         </ol>
         
         <div class="warning-box">
-            <h4><i class="fas fa-exclamation-triangle"></i> Luu �</h4>
-            <p class="mb-0">Factory Reset s? x�a to�n b? d? li?u tr�n m�y. Ch? th?c hi?n khi d� backup ho?c ch?p nh?n m?t d? li?u.</p>
+            <h4><i class="fas fa-exclamation-triangle"></i> Lưu ý</h4>
+            <p class="mb-0">Factory Reset sẽ xóa toàn bộ dữ liệu trên máy. Chỉ thực hiện khi đã backup hoặc chấp nhận mất dữ liệu.</p>
         </div>
         
         <!-- Section 8 -->
-        <h2 id="luu-y">8. Luu � quan tr?ng khi d�ng UnlockTool cho Xiaomi</h2>
+        <h2 id="luu-y">8. Lưu ý quan trọng khi dùng UnlockTool cho Xiaomi</h2>
         
         <ul>
-            <li><strong>X�c d?nh d�ng chip:</strong> Qualcomm hay MediaTek d? ch?n d�ng mode v� driver</li>
-            <li><strong>Test Point c?n th?n:</strong> Ch?p d�ng di?m, kh�ng ch?p nh?m g�y h?ng mainboard</li>
-            <li><strong>Driver ph?i d�ng:</strong> Driver sai s? kh�ng nh?n du?c m�y</li>
-            <li><strong>Kh�ng ng?t c�p:</strong> Tuy?t d?i kh�ng r�t c�p khi dang x? l�</li>
-            <li><strong>Pin d?:</strong> �?m b?o pin tr�n 30% ho?c c?m s?c</li>
-            <li><strong>Ki�n nh?n:</strong> M?t s? model m?t 15-20 ph�t</li>
+            <li><strong>Xác định đúng chip:</strong> Qualcomm hay MediaTek để chọn đúng mode và driver</li>
+            <li><strong>Test Point cẩn thận:</strong> Chập đúng điểm, không chập nhầm gây hỏng mainboard</li>
+            <li><strong>Driver phải đúng:</strong> Driver sai sẽ không nhận được máy</li>
+            <li><strong>Không ngắt cáp:</strong> Tuyệt đối không rút cáp khi đang xử lý</li>
+            <li><strong>Pin đủ:</strong> Đảm bảo pin trên 30% hoặc cắm sạc</li>
+            <li><strong>Kiên nhẫn:</strong> Một số model mất 15-20 phút</li>
         </ul>
         
         <div class="danger-box">
-            <h4><i class="fas fa-skull-crossbones"></i> C?nh b�o</h4>
-            <p class="mb-0">X�a Mi Account/FRP c� th? khi?n m�y m?t b?o h�nh. Ch? th?c hi?n khi th?c s? c?n thi?t v� ch?p nh?n r?i ro.</p>
+            <h4><i class="fas fa-skull-crossbones"></i> Cảnh báo</h4>
+            <p class="mb-0">Xóa Mi Account/FRP có thể khiến máy mất bảo hành. Chỉ thực hiện khi thực sự cần thiết và chấp nhận rủi ro.</p>
         </div>
         
         <!-- Section 9: FAQ -->
-        <h2 id="faq">9. FAQ - C�u h?i thu?ng g?p</h2>
+        <h2 id="faq">9. FAQ - Câu hỏi thường gặp</h2>
         
         <div class="faq-item">
             <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                <span><i class="fas fa-question-circle"></i> UnlockTool c� x�a du?c Mi Account tr�n HyperOS kh�ng?</span>
+                <span><i class="fas fa-question-circle"></i> UnlockTool có xóa được Mi Account trên HyperOS không?</span>
             </div>
             <div class="faq-answer">
-                <p>C�, UnlockTool 2026 d� c?p nh?t h? tr? HyperOS tr�n c�c model Xiaomi 14, POCO F6 v� m?t s? model m?i kh�c.</p>
+                <p>Có, UnlockTool 2026 đã cập nhật hỗ trợ HyperOS trên các model Xiaomi 14, POCO F6 và một số model mới khác.</p>
             </div>
         </div>
         
         <div class="faq-item">
             <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                <span><i class="fas fa-question-circle"></i> X�a Mi Account c� m?t d? li?u kh�ng?</span>
+                <span><i class="fas fa-question-circle"></i> Xóa Mi Account có mất dữ liệu không?</span>
             </div>
             <div class="faq-answer">
-                <p>T�y phuong ph�p. Mi Account Remove thu?ng gi? du?c d? li?u. Tuy nhi�n, Factory Reset s? x�a to�n b?. N�n backup tru?c khi th?c hi?n.</p>
+                <p>Tùy phương pháp. Mi Account Remove thường giữ được dữ liệu. Tuy nhiên, Factory Reset sẽ xóa toàn bộ. Nên backup trước khi thực hiện.</p>
             </div>
         </div>
         
         <div class="faq-item">
             <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                <span><i class="fas fa-question-circle"></i> T?i sao kh�ng v�o du?c EDL Mode?</span>
+                <span><i class="fas fa-question-circle"></i> Tại sao không vào được EDL Mode?</span>
             </div>
             <div class="faq-answer">
-                <p>M?t s? nguy�n nh�n: (1) Ch?p sai Test Point, (2) Driver chua c�i d�ng, (3) C�p USB k�m, (4) Model d� b? Xiaomi block EDL. Th? c�p/c?ng USB kh�c v� ki?m tra l?i Test Point.</p>
+                <p>Một số nguyên nhân: (1) Chập sai Test Point, (2) Driver chưa cài đúng, (3) Cáp USB kém, (4) Model đã bị Xiaomi block EDL. Thử cáp/cổng USB khác và kiểm tra lại Test Point.</p>
             </div>
         </div>
         
         <div class="faq-item">
             <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
-                <span><i class="fas fa-question-circle"></i> Xiaomi b? kh�a Mi Account sau update c� x�a du?c kh�ng?</span>
+                <span><i class="fas fa-question-circle"></i> Xiaomi bị khóa Mi Account sau update có xóa được không?</span>
             </div>
             <div class="faq-answer">
-                <p>C� th? x�a du?c b?ng UnlockTool. Tuy nhi�n, c?n d?m b?o model c?a b?n n?m trong danh s�ch h? tr? v� c� th? v�o du?c EDL/MTK Mode.</p>
+                <p>Có thể xóa được bằng UnlockTool. Tuy nhiên, cần đảm bảo model của bạn nằm trong danh sách hỗ trợ và có thể vào được EDL/MTK Mode.</p>
             </div>
         </div>
         
         <!-- CTA -->
         <div class="cta-box">
-            <h3><i class="fas fa-unlock"></i> X�a Mi Account Xiaomi ngay!</h3>
-            <p>T?i UnlockTool v� thu� t�i kho?n d? b?t d?u</p>
-            <a href="https://file.unlocktool.net/page/index.php" class="cta-btn"><i class="fas fa-download"></i> T?i UnlockTool</a>
-            <a href="https://file.unlocktool.net/page/all-driver" class="cta-btn"><i class="fas fa-hdd"></i> T?i Driver</a>
-            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-key"></i> Thu� 8K</a>
+            <h3><i class="fas fa-unlock"></i> Xóa Mi Account Xiaomi ngay!</h3>
+            <p>Tải UnlockTool và thuê tài khoản để bắt đầu</p>
+            <a href="https://file.unlocktool.net/page/index.php" class="cta-btn"><i class="fas fa-download"></i> Tải UnlockTool</a>
+            <a href="https://file.unlocktool.net/page/all-driver" class="cta-btn"><i class="fas fa-hdd"></i> Tải Driver</a>
+            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-key"></i> Thuê 8K</a>
         </div>
         
         <!-- Related -->
-        <h2>B�i vi?t li�n quan</h2>
+        <h2>Bài viết liên quan</h2>
         <ul>
-            <li><a href="3-mi-account-remove.php">Mi Account Remove chi ti?t</a></li>
+            <li><a href="3-mi-account-remove.php">Mi Account Remove chi tiết</a></li>
             <li><a href="16-unlocktool-cho-samsung.php">UnlockTool cho Samsung</a></li>
-            <li><a href="19-cach-su-dung-unlocktool.php">C�ch s? d?ng UnlockTool</a></li>
-            <li><a href="25-unlocktool-driver.php">Hu?ng d?n c�i Driver</a></li>
+            <li><a href="19-cach-su-dung-unlocktool.php">Cách sử dụng UnlockTool</a></li>
+            <li><a href="25-unlocktool-driver.php">Hướng dẫn cài Driver</a></li>
         </ul>
         
     </article>
@@ -594,7 +624,7 @@ $canonical_url = "https://www.unlocktool.us/articles/17-unlocktool-cho-xiaomi.ph
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -608,13 +638,13 @@ $canonical_url = "https://www.unlocktool.us/articles/17-unlocktool-cho-xiaomi.ph
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -622,15 +652,15 @@ $canonical_url = "https://www.unlocktool.us/articles/17-unlocktool-cho-xiaomi.ph
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -643,7 +673,7 @@ $canonical_url = "https://www.unlocktool.us/articles/17-unlocktool-cho-xiaomi.ph
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -651,8 +681,8 @@ $canonical_url = "https://www.unlocktool.us/articles/17-unlocktool-cho-xiaomi.ph
 </div>
 <footer>
     <div class="container text-center">
-        <p><strong>UnlockTool.us</strong> - D?ch v? cho thu� t�i kho?n UnlockTool</p>
-        <p class="mb-0">� 2026 UnlockTool.us</p>
+        <p><strong>UnlockTool.us</strong> - Dịch vụ cho thuê tài khoản UnlockTool</p>
+        <p class="mb-0">© 2026 UnlockTool.us</p>
     </div>
 </footer>
 

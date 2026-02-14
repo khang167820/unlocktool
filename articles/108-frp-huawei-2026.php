@@ -1,6 +1,6 @@
-<?php
-$page_title = "Bypass FRP Huawei 2026 - Hu?ng D?n Chi Ti?t T?t C? Model | UnlockTool";
-$page_description = "Hu?ng d?n bypass FRP Huawei m?i nh?t 2026. X�a x�c minh t�i kho?n Google tr�n t?t c? model Huawei/Honor. C�c phuong ph�p hi?u qu? nh?t - Thu� tool 8.000d/6h";
+﻿<?php
+$page_title = "Bypass FRP Huawei 2026 - Hướng Dẫn Chi Tiết Tất Cả Model | UnlockTool";
+$page_description = "Hướng dẫn bypass FRP Huawei mới nhất 2026. Xóa xác minh tài khoản Google trên tất cả model Huawei/Honor. Các phương pháp hiệu quả nhất - Thuê tool 8.000đ/6h";
 $page_keywords = "frp huawei, bypass frp huawei, huawei frp bypass 2026, xoa frp huawei, huawei google account bypass";
 $canonical_url = "https://www.unlocktool.us/articles/108-frp-huawei-2026.php";
 ?>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/108-frp-huawei-2026.php";
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/108-frp-huawei-2026.php";
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hu?ng d?n k? thu?t">
+    <meta property="article:section" content="Hướng dẫn kỹ thuật">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="M? kh�a di?n tho?i">
+    <meta property="article:tag" content="Mở khóa điện thoại">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -50,24 +50,24 @@ $canonical_url = "https://www.unlocktool.us/articles/108-frp-huawei-2026.php";
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"HowTo","name":"Bypass FRP Huawei 2026","description":"Hu?ng d?n chi ti?t c�c phuong ph�p bypass FRP tr�n di?n tho?i Huawei v� Honor","step":[
-        {"@type":"HowToStep","name":"Chu?n b?","text":"T?i driver Huawei, chu?n b? c�p USB ch�nh h�ng"},
-        {"@type":"HowToStep","name":"V�o Test Mode","text":"T?t m�y, nh?n gi? Volume Up + Power khi k?t n?i c�p"},
-        {"@type":"HowToStep","name":"M? UnlockTool","text":"Ch?n tab Huawei, ch?n FRP Bypass"},
-        {"@type":"HowToStep","name":"Ch? ho�n t?t","text":"Tool s? t? d?ng bypass FRP"}
+    {"@context":"https://schema.org","@type":"HowTo","name":"Bypass FRP Huawei 2026","description":"Hướng dẫn chi tiết các phương pháp bypass FRP trên điện thoại Huawei và Honor","step":[
+        {"@type":"HowToStep","name":"Chuẩn bị","text":"Tải driver Huawei, chuẩn bị cáp USB chính hãng"},
+        {"@type":"HowToStep","name":"Vào Test Mode","text":"Tắt máy, nhấn giữ Volume Up + Power khi kết nối cáp"},
+        {"@type":"HowToStep","name":"Mở UnlockTool","text":"Chọn tab Huawei, chọn FRP Bypass"},
+        {"@type":"HowToStep","name":"Chờ hoàn tất","text":"Tool sẽ tự động bypass FRP"}
     ]}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"Huawei d?i n�o c� th? bypass FRP?","acceptedAnswer":{"@type":"Answer","text":"H?u h?t Huawei/Honor t? Android 5 d?n Android 12+ d?u c� th? bypass FRP. Tuy nhi�n model m?i nhu Huawei P50/P60 v?i HarmonyOS c� th? h?n ch? hon."}},
-        {"@type":"Question","name":"Bypass FRP Huawei c� m?t d? li?u kh�ng?","acceptedAnswer":{"@type":"Answer","text":"C�, qu� tr�nh bypass FRP thu?ng di k�m reset m�y n�n d? li?u s? m?t. H�y backup tru?c n?u c� th? truy c?p du?c."}}
+        {"@type":"Question","name":"Huawei đời nào có thể bypass FRP?","acceptedAnswer":{"@type":"Answer","text":"Hầu hết Huawei/Honor từ Android 5 đến Android 12+ đều có thể bypass FRP. Tuy nhiên model mới như Huawei P50/P60 với HarmonyOS có thể hạn chế hơn."}},
+        {"@type":"Question","name":"Bypass FRP Huawei có mất dữ liệu không?","acceptedAnswer":{"@type":"Answer","text":"Có, quá trình bypass FRP thường đi kèm reset máy nên dữ liệu sẽ mất. Hãy backup trước nếu có thể truy cập được."}}
     ]}
     </script>
     
@@ -122,14 +122,44 @@ $canonical_url = "https://www.unlocktool.us/articles/108-frp-huawei-2026.php";
         }
     }
     </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "UnlockTool.us",
+        "url": "https://www.unlocktool.us",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.unlocktool.us/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Dịch vụ mở khóa điện thoại",
+        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.6",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "155"
+        }
+    }
+    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
@@ -139,10 +169,10 @@ $canonical_url = "https://www.unlocktool.us/articles/108-frp-huawei-2026.php";
         <div class="row align-items-center">
             <div class="col-lg-8">
                 <h1><i class="fas fa-unlock-alt me-3"></i><?php echo $page_title; ?></h1>
-                <p class="lead mb-4">Hu?ng d?n chi ti?t t?t c? c�c phuong ph�p bypass FRP (Factory Reset Protection) tr�n di?n tho?i Huawei v� Honor. C?p nh?t m?i nh?t 2026!</p>
+                <p class="lead mb-4">Hướng dẫn chi tiết tất cả các phương pháp bypass FRP (Factory Reset Protection) trên điện thoại Huawei và Honor. Cập nhật mới nhất 2026!</p>
                 <div class="d-flex flex-wrap gap-3">
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thu� UnlockTool 8K/6H</a>
-                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>H? Tr? K? Thu?t</a>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg"><i class="fas fa-shopping-cart me-2"></i>Thuê UnlockTool 8K/6H</a>
+                    <a href="https://thuetaikhoan.net" target="_blank" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>Hỗ Trợ Kỹ Thuật</a>
                 </div>
             </div>
             <div class="col-lg-4 text-center mt-4 mt-lg-0">
@@ -158,260 +188,260 @@ $canonical_url = "https://www.unlocktool.us/articles/108-frp-huawei-2026.php";
         <div class="col-lg-8">
             
             <div class="toc-box">
-                <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
+                <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
                 <ul class="list-unstyled">
-                    <li><a href="#frp-la-gi">1. FRP tr�n Huawei l� g�?</a></li>
-                    <li><a href="#model-ho-tro">2. Model Huawei h? tr?</a></li>
-                    <li><a href="#chuan-bi">3. Chu?n b? tru?c khi bypass</a></li>
-                    <li><a href="#phuong-phap-1">4. Phuong ph�p 1: UnlockTool (Khuy�n d�ng)</a></li>
-                    <li><a href="#phuong-phap-2">5. Phuong ph�p 2: Fastboot</a></li>
-                    <li><a href="#phuong-phap-3">6. Phuong ph�p 3: HCU Client</a></li>
-                    <li><a href="#loi-thuong-gap">7. L?i thu?ng g?p</a></li>
+                    <li><a href="#frp-la-gi">1. FRP trên Huawei là gì?</a></li>
+                    <li><a href="#model-ho-tro">2. Model Huawei hỗ trợ</a></li>
+                    <li><a href="#chuan-bi">3. Chuẩn bị trước khi bypass</a></li>
+                    <li><a href="#phuong-phap-1">4. Phương pháp 1: UnlockTool (Khuyên dùng)</a></li>
+                    <li><a href="#phuong-phap-2">5. Phương pháp 2: Fastboot</a></li>
+                    <li><a href="#phuong-phap-3">6. Phương pháp 3: HCU Client</a></li>
+                    <li><a href="#loi-thuong-gap">7. Lỗi thường gặp</a></li>
                     <li><a href="#faq">8. FAQ</a></li>
                 </ul>
             </div>
 
             <section id="frp-la-gi">
-                <h2><i class="fas fa-info-circle me-2"></i>1. FRP Tr�n Huawei L� G�?</h2>
+                <h2><i class="fas fa-info-circle me-2"></i>1. FRP Trên Huawei Là Gì?</h2>
                 
-                <p><strong>Factory Reset Protection (FRP)</strong> l� t�nh nang b?o m?t c?a Google tr�n h? di?u h�nh Android (t? Android 5.0 Lollipop tr? l�n). Khi reset m�y, h? th?ng s? y�u c?u dang nh?p l?i t�i kho?n Google d� li�n k?t tru?c d�.</p>
+                <p><strong>Factory Reset Protection (FRP)</strong> là tính năng bảo mật của Google trên hệ điều hành Android (từ Android 5.0 Lollipop trở lên). Khi reset máy, hệ thống sẽ yêu cầu đăng nhập lại tài khoản Google đã liên kết trước đó.</p>
 
-                <h3>V� sao c?n bypass FRP Huawei?</h3>
+                <h3>Vì sao cần bypass FRP Huawei?</h3>
                 <ul>
-                    <li><strong>Qu�n t�i kho?n Google:</strong> Kh�ng nh? email ho?c m?t kh?u d� dang k�</li>
-                    <li><strong>Mua m�y cu:</strong> Ngu?i b�n qu�n tho�t t�i kho?n</li>
-                    <li><strong>Sau reset:</strong> Reset m�y nhung kh�ng th? dang nh?p l?i</li>
-                    <li><strong>S?a ch?a:</strong> Kh�ch mang m�y d?n m� kh�ng c� t�i kho?n</li>
+                    <li><strong>Quên tài khoản Google:</strong> Không nhớ email hoặc mật khẩu đã đăng ký</li>
+                    <li><strong>Mua máy cũ:</strong> Người bán quên thoát tài khoản</li>
+                    <li><strong>Sau reset:</strong> Reset máy nhưng không thể đăng nhập lại</li>
+                    <li><strong>Sửa chữa:</strong> Khách mang máy đến mà không có tài khoản</li>
                 </ul>
 
-                <h3>�?c di?m FRP tr�n Huawei:</h3>
-                <p>Huawei c� m?t s? d?c di?m ri�ng trong vi?c tri?n khai FRP:</p>
+                <h3>Đặc điểm FRP trên Huawei:</h3>
+                <p>Huawei có một số đặc điểm riêng trong việc triển khai FRP:</p>
                 <ul>
-                    <li><strong>Huawei ID:</strong> Ngo�i Google Account, Huawei c�n c� Huawei ID ri�ng</li>
-                    <li><strong>EMUI Security:</strong> C�c l?p b?o m?t b? sung tr�n EMUI</li>
-                    <li><strong>HarmonyOS:</strong> Model m?i ch?y HarmonyOS c� co ch? kh�c</li>
-                    <li><strong>Bootloader:</strong> Huawei d� kh�a unlock bootloader t? 2018</li>
+                    <li><strong>Huawei ID:</strong> Ngoài Google Account, Huawei còn có Huawei ID riêng</li>
+                    <li><strong>EMUI Security:</strong> Các lớp bảo mật bổ sung trên EMUI</li>
+                    <li><strong>HarmonyOS:</strong> Model mới chạy HarmonyOS có cơ chế khác</li>
+                    <li><strong>Bootloader:</strong> Huawei đã khóa unlock bootloader từ 2018</li>
                 </ul>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu � quan tr?ng</h5>
-                    <p class="mb-0">T? nam 2018, Huawei d� d?ng cung c?p m� unlock bootloader. �i?u n�y khi?n vi?c bypass FRP tr�n Huawei kh� hon c�c h�ng kh�c. Tuy nhi�n, v?n c� c�c phuong ph�p hi?u qu?.</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý quan trọng</h5>
+                    <p class="mb-0">Từ năm 2018, Huawei đã dừng cung cấp mã unlock bootloader. Điều này khiến việc bypass FRP trên Huawei khó hơn các hãng khác. Tuy nhiên, vẫn có các phương pháp hiệu quả.</p>
                 </div>
             </section>
 
             <section id="model-ho-tro">
-                <h2><i class="fas fa-mobile-alt me-2"></i>2. Model Huawei H? Tr?</h2>
+                <h2><i class="fas fa-mobile-alt me-2"></i>2. Model Huawei Hỗ Trợ</h2>
                 
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>D�ng m�y</th>
-                            <th>Model ti�u bi?u</th>
-                            <th>M?c d? h? tr?</th>
+                            <th>Dòng máy</th>
+                            <th>Model tiêu biểu</th>
+                            <th>Mức độ hỗ trợ</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td><strong>Huawei P Series</strong></td>
                             <td>P8, P9, P10, P20, P30, P40</td>
-                            <td class="text-success">T?t</td>
+                            <td class="text-success">Tốt</td>
                         </tr>
                         <tr>
                             <td><strong>Huawei Mate Series</strong></td>
                             <td>Mate 8, 9, 10, 20, 30, 40</td>
-                            <td class="text-success">T?t</td>
+                            <td class="text-success">Tốt</td>
                         </tr>
                         <tr>
                             <td><strong>Huawei Y Series</strong></td>
                             <td>Y5, Y6, Y7, Y9</td>
-                            <td class="text-success">R?t t?t</td>
+                            <td class="text-success">Rất tốt</td>
                         </tr>
                         <tr>
                             <td><strong>Huawei Nova Series</strong></td>
                             <td>Nova 2, 3, 4, 5, 7</td>
-                            <td class="text-success">T?t</td>
+                            <td class="text-success">Tốt</td>
                         </tr>
                         <tr>
                             <td><strong>Honor Series</strong></td>
                             <td>Honor 7, 8, 9, 10, 20, Play</td>
-                            <td class="text-success">T?t</td>
+                            <td class="text-success">Tốt</td>
                         </tr>
                         <tr>
                             <td><strong>Huawei P50/60 (HarmonyOS)</strong></td>
                             <td>P50, P60, Mate 50</td>
-                            <td class="text-warning">H?n ch?</td>
+                            <td class="text-warning">Hạn chế</td>
                         </tr>
                     </tbody>
                 </table>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-info-circle me-2"></i>V? HarmonyOS</h5>
-                    <p class="mb-0">C�c model Huawei m?i ch?y HarmonyOS thay v� Android. Vi?c bypass FRP tr�n HarmonyOS ph?c t?p hon v� c?n c�c phuong ph�p d?c bi?t. Li�n h? <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a> d? du?c h? tr?.</p>
+                    <h5><i class="fas fa-info-circle me-2"></i>Về HarmonyOS</h5>
+                    <p class="mb-0">Các model Huawei mới chạy HarmonyOS thay vì Android. Việc bypass FRP trên HarmonyOS phức tạp hơn và cần các phương pháp đặc biệt. Liên hệ <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a> để được hỗ trợ.</p>
                 </div>
             </section>
 
             <section id="chuan-bi">
-                <h2><i class="fas fa-tools me-2"></i>3. Chu?n B? Tru?c Khi Bypass</h2>
+                <h2><i class="fas fa-tools me-2"></i>3. Chuẩn Bị Trước Khi Bypass</h2>
                 
-                <h3>Y�u c?u ph?n c?ng:</h3>
+                <h3>Yêu cầu phần cứng:</h3>
                 <ul>
-                    <li><strong>M�y t�nh:</strong> Windows 7/10/11 (64-bit khuy?n ngh?)</li>
-                    <li><strong>C�p USB:</strong> C�p ch�nh h�ng Huawei ho?c c�p ch?t lu?ng t?t</li>
-                    <li><strong>�i?n tho?i:</strong> Pin t?i thi?u 50%</li>
+                    <li><strong>Máy tính:</strong> Windows 7/10/11 (64-bit khuyến nghị)</li>
+                    <li><strong>Cáp USB:</strong> Cáp chính hãng Huawei hoặc cáp chất lượng tốt</li>
+                    <li><strong>Điện thoại:</strong> Pin tối thiểu 50%</li>
                 </ul>
 
-                <h3>Y�u c?u ph?n m?m:</h3>
+                <h3>Yêu cầu phần mềm:</h3>
                 <ul>
-                    <li><strong>Driver Huawei:</strong> <a href="https://file.unlocktool.net/page/all-driver" target="_blank">T?i t?i d�y</a></li>
-                    <li><strong>UnlockTool:</strong> <a href="https://www.unlocktool.us/" target="_blank">Thu� t?i UnlockTool.us</a></li>
+                    <li><strong>Driver Huawei:</strong> <a href="https://file.unlocktool.net/page/all-driver" target="_blank">Tải tại đây</a></li>
+                    <li><strong>UnlockTool:</strong> <a href="https://www.unlocktool.us/" target="_blank">Thuê tại UnlockTool.us</a></li>
                 </ul>
 
-                <h3>C�i d?t Driver Huawei:</h3>
+                <h3>Cài đặt Driver Huawei:</h3>
                 <div class="step-box">
                     <span class="step-number">1</span>
-                    <h5>T?i driver</h5>
-                    <p class="mb-0">T?i Huawei USB Driver t? link ? tr�n</p>
+                    <h5>Tải driver</h5>
+                    <p class="mb-0">Tải Huawei USB Driver từ link ở trên</p>
                 </div>
                 <div class="step-box">
                     <span class="step-number">2</span>
-                    <h5>Ch?y file setup</h5>
-                    <p class="mb-0">Gi?i n�n v� ch?y file DriverSetup.exe</p>
+                    <h5>Chạy file setup</h5>
+                    <p class="mb-0">Giải nén và chạy file DriverSetup.exe</p>
                 </div>
                 <div class="step-box">
                     <span class="step-number">3</span>
-                    <h5>Kh?i d?ng l?i</h5>
-                    <p class="mb-0">Restart m�y t�nh sau khi c�i xong</p>
+                    <h5>Khởi động lại</h5>
+                    <p class="mb-0">Restart máy tính sau khi cài xong</p>
                 </div>
             </section>
 
             <section id="phuong-phap-1">
-                <h2><i class="fas fa-star me-2"></i>4. Phuong Ph�p 1: UnlockTool (Khuy�n D�ng)</h2>
+                <h2><i class="fas fa-star me-2"></i>4. Phương Pháp 1: UnlockTool (Khuyên Dùng)</h2>
                 
                 <div class="success-box">
-                    <h5><i class="fas fa-check-circle me-2"></i>Phuong ph�p hi?u qu? nh?t</h5>
-                    <p class="mb-0">UnlockTool h? tr? bypass FRP Huawei qua nhi?u ch? d?: Test Mode, Fastboot, v� ADB. T? l? th�nh c�ng cao tr�n h?u h?t model.</p>
+                    <h5><i class="fas fa-check-circle me-2"></i>Phương pháp hiệu quả nhất</h5>
+                    <p class="mb-0">UnlockTool hỗ trợ bypass FRP Huawei qua nhiều chế độ: Test Mode, Fastboot, và ADB. Tỷ lệ thành công cao trên hầu hết model.</p>
                 </div>
 
-                <h3>C�c bu?c th?c hi?n:</h3>
+                <h3>Các bước thực hiện:</h3>
 
                 <div class="step-box">
                     <span class="step-number">1</span>
-                    <h5>Thu� t�i kho?n UnlockTool</h5>
-                    <p class="mb-0">Truy c?p <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a> ? �ang k� ? Thu� g�i 8.000d/6 ti?ng</p>
+                    <h5>Thuê tài khoản UnlockTool</h5>
+                    <p class="mb-0">Truy cập <a href="https://www.unlocktool.us/" target="_blank">UnlockTool.us</a> → Đăng ký → Thuê gói 8.000đ/6 tiếng</p>
                 </div>
 
                 <div class="step-box">
                     <span class="step-number">2</span>
-                    <h5>T?i v� c�i d?t UnlockTool</h5>
-                    <p class="mb-0">T?i t? <a href="https://file.unlocktool.net/page/index.php" target="_blank">file.unlocktool.net</a> ? Gi?i n�n ? Ch?y UnlockTool.exe</p>
+                    <h5>Tải và cài đặt UnlockTool</h5>
+                    <p class="mb-0">Tải từ <a href="https://file.unlocktool.net/page/index.php" target="_blank">file.unlocktool.net</a> → Giải nén → Chạy UnlockTool.exe</p>
                 </div>
 
                 <div class="step-box">
                     <span class="step-number">3</span>
-                    <h5>�ang nh?p UnlockTool</h5>
-                    <p class="mb-0">Nh?p t�i kho?n du?c c?p ? Login</p>
+                    <h5>Đăng nhập UnlockTool</h5>
+                    <p class="mb-0">Nhập tài khoản được cấp → Login</p>
                 </div>
 
                 <div class="step-box">
                     <span class="step-number">4</span>
-                    <h5>�ua Huawei v�o ch? d? ph� h?p</h5>
-                    <p><strong>Test Mode:</strong> T?t m�y ? Nh?n gi? Vol Up + Power khi c?m c�p</p>
-                    <p><strong>Fastboot:</strong> T?t m�y ? Nh?n gi? Vol Down + Power</p>
-                    <p class="mb-0"><strong>ADB:</strong> B?t USB Debugging trong Developer Options</p>
+                    <h5>Đưa Huawei vào chế độ phù hợp</h5>
+                    <p><strong>Test Mode:</strong> Tắt máy → Nhấn giữ Vol Up + Power khi cắm cáp</p>
+                    <p><strong>Fastboot:</strong> Tắt máy → Nhấn giữ Vol Down + Power</p>
+                    <p class="mb-0"><strong>ADB:</strong> Bật USB Debugging trong Developer Options</p>
                 </div>
 
                 <div class="step-box">
                     <span class="step-number">5</span>
-                    <h5>K?t n?i v� bypass</h5>
-                    <p class="mb-0">Trong UnlockTool ? Tab Huawei ? Ch?n FRP Bypass ? Click Start</p>
+                    <h5>Kết nối và bypass</h5>
+                    <p class="mb-0">Trong UnlockTool → Tab Huawei → Chọn FRP Bypass → Click Start</p>
                 </div>
 
                 <div class="step-box">
                     <span class="step-number">6</span>
-                    <h5>Ch? ho�n t?t</h5>
-                    <p class="mb-0">Tool s? t? d?ng bypass FRP. Th?i gian kho?ng 2-5 ph�t t�y model.</p>
+                    <h5>Chờ hoàn tất</h5>
+                    <p class="mb-0">Tool sẽ tự động bypass FRP. Thời gian khoảng 2-5 phút tùy model.</p>
                 </div>
 
                 <div class="info-box">
-                    <h5><i class="fas fa-lightbulb me-2"></i>M?o:</h5>
-                    <p class="mb-0">N?u m?t ch? d? kh�ng ho?t d?ng, th? ch? d? kh�c. V� d?: Test Mode kh�ng du?c th� th? Fastboot.</p>
+                    <h5><i class="fas fa-lightbulb me-2"></i>Mẹo:</h5>
+                    <p class="mb-0">Nếu một chế độ không hoạt động, thử chế độ khác. Ví dụ: Test Mode không được thì thử Fastboot.</p>
                 </div>
             </section>
 
             <section id="phuong-phap-2">
-                <h2><i class="fas fa-terminal me-2"></i>5. Phuong Ph�p 2: Fastboot Commands</h2>
+                <h2><i class="fas fa-terminal me-2"></i>5. Phương Pháp 2: Fastboot Commands</h2>
                 
-                <p>Phuong ph�p n�y s? d?ng l?nh Fastboot d? x�a ph�n v�ng FRP. Ph� h?p v?i m?t s? model cu c� bootloader d� unlock.</p>
+                <p>Phương pháp này sử dụng lệnh Fastboot để xóa phân vùng FRP. Phù hợp với một số model cũ có bootloader đã unlock.</p>
 
                 <div class="warning-box">
-                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu �</h5>
-                    <p class="mb-0">Phuong ph�p n�y y�u c?u bootloader d� unlock. Huawei d� d?ng cung c?p m� unlock t? 2018, n�n ch? �p d?ng du?c cho m�y d� unlock tru?c d�.</p>
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý</h5>
+                    <p class="mb-0">Phương pháp này yêu cầu bootloader đã unlock. Huawei đã dừng cung cấp mã unlock từ 2018, nên chỉ áp dụng được cho máy đã unlock trước đó.</p>
                 </div>
 
-                <h3>C�c bu?c th?c hi?n:</h3>
-                <pre class="bg-dark text-light p-3 rounded"><code># V�o Fastboot mode: Vol Down + Power
-# K?t n?i m�y t�nh
+                <h3>Các bước thực hiện:</h3>
+                <pre class="bg-dark text-light p-3 rounded"><code># Vào Fastboot mode: Vol Down + Power
+# Kết nối máy tính
 
-# Ki?m tra k?t n?i
+# Kiểm tra kết nối
 fastboot devices
 
-# X�a FRP (n?u bootloader d� unlock)
+# Xóa FRP (nếu bootloader đã unlock)
 fastboot erase frp
 
-# Kh?i d?ng l?i
+# Khởi động lại
 fastboot reboot</code></pre>
             </section>
 
             <section id="phuong-phap-3">
-                <h2><i class="fas fa-desktop me-2"></i>6. Phuong Ph�p 3: HCU Client</h2>
+                <h2><i class="fas fa-desktop me-2"></i>6. Phương Pháp 3: HCU Client</h2>
                 
-                <p>HCU Client l� tool chuy�n d?ng cho Huawei, c� kh? nang bypass FRP, unlock bootloader, v� nhi?u t�nh nang kh�c.</p>
+                <p>HCU Client là tool chuyên dụng cho Huawei, có khả năng bypass FRP, unlock bootloader, và nhiều tính năng khác.</p>
 
                 <table class="table table-custom">
                     <thead>
                         <tr>
-                            <th>Ti�u ch�</th>
+                            <th>Tiêu chí</th>
                             <th>HCU Client</th>
                             <th>UnlockTool</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <td>Gi�</td>
-                            <td>Credits (t�nh theo m�y)</td>
-                            <td class="text-success fw-bold">8.000d/6 ti?ng (kh�ng gi?i h?n m�y)</td>
+                            <td>Giá</td>
+                            <td>Credits (tính theo máy)</td>
+                            <td class="text-success fw-bold">8.000đ/6 tiếng (không giới hạn máy)</td>
                         </tr>
                         <tr>
                             <td>Huawei</td>
-                            <td class="text-success">Chuy�n s�u</td>
-                            <td class="text-success">T?t</td>
+                            <td class="text-success">Chuyên sâu</td>
+                            <td class="text-success">Tốt</td>
                         </tr>
                         <tr>
                             <td>iPhone</td>
-                            <td class="text-danger">Kh�ng</td>
-                            <td class="text-success">C�</td>
+                            <td class="text-danger">Không</td>
+                            <td class="text-success">Có</td>
                         </tr>
                     </tbody>
                 </table>
             </section>
 
             <section id="loi-thuong-gap">
-                <h2><i class="fas fa-bug me-2"></i>7. L?i Thu?ng G?p</h2>
+                <h2><i class="fas fa-bug me-2"></i>7. Lỗi Thường Gặp</h2>
                 
                 <div class="accordion" id="errorAccordion">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#err1">
-                                Kh�ng nh?n di?n du?c thi?t b?
+                                Không nhận diện được thiết bị
                             </button>
                         </h2>
                         <div id="err1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
                                 <ul>
-                                    <li>C�i l?i driver Huawei</li>
-                                    <li>Th? c�p USB kh�c</li>
-                                    <li>�?i c?ng USB (uu ti�n USB 2.0)</li>
-                                    <li>T?t antivirus t?m th?i</li>
+                                    <li>Cài lại driver Huawei</li>
+                                    <li>Thử cáp USB khác</li>
+                                    <li>Đổi cổng USB (ưu tiên USB 2.0)</li>
+                                    <li>Tắt antivirus tạm thời</li>
                                 </ul>
                             </div>
                         </div>
@@ -419,15 +449,15 @@ fastboot reboot</code></pre>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err2">
-                                FRP v?n c�n sau bypass
+                                FRP vẫn còn sau bypass
                             </button>
                         </h2>
                         <div id="err2" class="accordion-collapse collapse">
                             <div class="accordion-body">
                                 <ul>
-                                    <li>Th? bypass l?i b?ng phuong ph�p kh�c</li>
-                                    <li>Flash firmware g?c r?i bypass l?i</li>
-                                    <li>Li�n h? h? tr? <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></li>
+                                    <li>Thử bypass lại bằng phương pháp khác</li>
+                                    <li>Flash firmware gốc rồi bypass lại</li>
+                                    <li>Liên hệ hỗ trợ <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -435,15 +465,15 @@ fastboot reboot</code></pre>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#err3">
-                                M�y b? stuck ? logo Huawei
+                                Máy bị stuck ở logo Huawei
                             </button>
                         </h2>
                         <div id="err3" class="accordion-collapse collapse">
                             <div class="accordion-body">
                                 <ul>
-                                    <li>V�o Recovery mode (Vol Up + Power)</li>
-                                    <li>Ch?n Wipe data/factory reset</li>
-                                    <li>N?u kh�ng du?c, c?n flash firmware</li>
+                                    <li>Vào Recovery mode (Vol Up + Power)</li>
+                                    <li>Chọn Wipe data/factory reset</li>
+                                    <li>Nếu không được, cần flash firmware</li>
                                 </ul>
                             </div>
                         </div>
@@ -458,36 +488,36 @@ fastboot reboot</code></pre>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
-                                Bypass FRP Huawei c� m?t d? li?u kh�ng?
+                                Bypass FRP Huawei có mất dữ liệu không?
                             </button>
                         </h2>
                         <div id="faq1" class="accordion-collapse collapse show">
                             <div class="accordion-body">
-                                <strong>C�.</strong> Qu� tr�nh bypass FRP thu?ng di k�m reset m�y, d? li?u s? m?t. Backup tru?c n?u c� th? truy c?p du?c.
+                                <strong>Có.</strong> Quá trình bypass FRP thường đi kèm reset máy, dữ liệu sẽ mất. Backup trước nếu có thể truy cập được.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
-                                Bypass FRP c� h?p ph�p kh�ng?
+                                Bypass FRP có hợp pháp không?
                             </button>
                         </h2>
                         <div id="faq2" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                Bypass FRP tr�n di?n tho?i c?a <strong>ch�nh b?n</strong> ho?c c� s? d?ng � c?a ch? s? h?u l� h?p ph�p. Kh�ng s? d?ng d? m? kh�a di?n tho?i an tr?m.
+                                Bypass FRP trên điện thoại của <strong>chính bạn</strong> hoặc có sự đồng ý của chủ sở hữu là hợp pháp. Không sử dụng để mở khóa điện thoại ăn trộm.
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3">
-                                Sau bypass c� c?p nh?t du?c kh�ng?
+                                Sau bypass có cập nhật được không?
                             </button>
                         </h2>
                         <div id="faq3" class="accordion-collapse collapse">
                             <div class="accordion-body">
-                                <strong>C�.</strong> Sau bypass FRP, m�y ho?t d?ng b�nh thu?ng v� c� th? c?p nh?t OTA. Tuy nhi�n, n�n dang nh?p t�i kho?n Google m?i d? tr�nh b? FRP l?i sau khi reset.
+                                <strong>Có.</strong> Sau bypass FRP, máy hoạt động bình thường và có thể cập nhật OTA. Tuy nhiên, nên đăng nhập tài khoản Google mới để tránh bị FRP lại sau khi reset.
                             </div>
                         </div>
                     </div>
@@ -495,11 +525,11 @@ fastboot reboot</code></pre>
             </section>
 
             <div class="price-highlight">
-                <h4><i class="fas fa-shopping-cart me-2"></i>Thu� UnlockTool Ngay!</h4>
-                <p>Bypass FRP Huawei nhanh ch�ng - Gi� ch?</p>
-                <p class="price">8.000d</p>
-                <p class="h4">/ 6 ti?ng</p>
-                <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-shopping-cart me-2"></i>Thu� Ngay - UnlockTool.us</a>
+                <h4><i class="fas fa-shopping-cart me-2"></i>Thuê UnlockTool Ngay!</h4>
+                <p>Bypass FRP Huawei nhanh chóng - Giá chỉ</p>
+                <p class="price">8.000đ</p>
+                <p class="h4">/ 6 tiếng</p>
+                <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light btn-lg mt-3"><i class="fas fa-shopping-cart me-2"></i>Thuê Ngay - UnlockTool.us</a>
             </div>
 
         </div>
@@ -508,25 +538,25 @@ fastboot reboot</code></pre>
         <div class="col-lg-4">
             <div class="sticky-top" style="top:20px">
                 <div class="price-highlight mb-4">
-                    <h5><i class="fas fa-unlock me-2"></i>Thu� UnlockTool</h5>
-                    <p class="price" style="font-size:2.5rem">8.000d</p>
-                    <p>/ 6 ti?ng</p>
-                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thu� Ngay</a>
+                    <h5><i class="fas fa-unlock me-2"></i>Thuê UnlockTool</h5>
+                    <p class="price" style="font-size:2.5rem">8.000đ</p>
+                    <p>/ 6 tiếng</p>
+                    <a href="https://www.unlocktool.us/" target="_blank" class="btn btn-light w-100 mt-3">Thuê Ngay</a>
                 </div>
 
                 <div class="card mb-4">
                     <div class="card-header bg-danger text-white">
-                        <i class="fas fa-link me-2"></i>Link h?u �ch
+                        <i class="fas fa-link me-2"></i>Link hữu ích
                     </div>
                     <ul class="list-group list-group-flush">
-                        <li class="list-group-item"><a href="https://file.unlocktool.net/page/all-driver" target="_blank">T?i Driver</a></li>
-                        <li class="list-group-item"><a href="https://file.unlocktool.net/page/index.php" target="_blank">T?i UnlockTool</a></li>
+                        <li class="list-group-item"><a href="https://file.unlocktool.net/page/all-driver" target="_blank">Tải Driver</a></li>
+                        <li class="list-group-item"><a href="https://file.unlocktool.net/page/index.php" target="_blank">Tải UnlockTool</a></li>
                     </ul>
                 </div>
 
                 <div class="card">
                     <div class="card-header bg-dark text-white">
-                        <i class="fas fa-link me-2"></i>B�i vi?t li�n quan
+                        <i class="fas fa-link me-2"></i>Bài viết liên quan
                     </div>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item"><a href="82-frp-samsung-a12.php">FRP Samsung A12</a></li>
@@ -546,7 +576,7 @@ fastboot reboot</code></pre>
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -560,13 +590,13 @@ fastboot reboot</code></pre>
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -574,15 +604,15 @@ fastboot reboot</code></pre>
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -595,7 +625,7 @@ fastboot reboot</code></pre>
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -606,10 +636,10 @@ fastboot reboot</code></pre>
         <div class="row">
             <div class="col-md-6">
                 <h5>UnlockTool.us</h5>
-                <p class="small">Cho thu� t�i kho?n tool m? kh�a di?n tho?i uy t�n nh?t Vi?t Nam.</p>
+                <p class="small">Cho thuê tài khoản tool mở khóa điện thoại uy tín nhất Việt Nam.</p>
             </div>
             <div class="col-md-6 text-md-end">
-                <p class="small mb-1">D?ch v?: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+                <p class="small mb-1">Dịch vụ: <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
                 <p class="small">&copy; 2026 UnlockTool.us - All rights reserved.</p>
             </div>
         </div>

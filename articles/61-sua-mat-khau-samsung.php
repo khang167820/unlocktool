@@ -1,7 +1,7 @@
-<?php
-$page_title = "X�a M?t Kh?u Samsung ?? Pattern PIN Password | 2026";
-$page_description = "?? X�a m?t kh?u Samsung qu�n pattern, PIN, password. Find My Mobile, Recovery Mode, ADB, UnlockTool. Thu� tool 8K/6h. D?ch v? t? 50K.";
-$page_keywords = "x�a m?t kh?u samsung, qu�n pattern samsung, qu�n pin samsung, x�a password samsung, m? kh�a samsung qu�n m?t kh?u, remove samsung screen lock";
+﻿<?php
+$page_title = "Xóa Mật Khẩu Samsung 🔓 Pattern PIN Password | 2026";
+$page_description = "🔓 Xóa mật khẩu Samsung quên pattern, PIN, password. Find My Mobile, Recovery Mode, ADB, UnlockTool. Thuê tool 8K/6h. Dịch vụ từ 50K.";
+$page_keywords = "xóa mật khẩu samsung, quên pattern samsung, quên pin samsung, xóa password samsung, mở khóa samsung quên mật khẩu, remove samsung screen lock";
 $canonical_url = "https://www.unlocktool.us/articles/61-sua-mat-khau-samsung.php";
 ?>
 <!DOCTYPE html>
@@ -18,7 +18,7 @@ $canonical_url = "https://www.unlocktool.us/articles/61-sua-mat-khau-samsung.php
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>
     <link rel="alternate" hreflang="vi" href="<?php echo $canonical_url; ?>">
     <link rel="alternate" hreflang="x-default" href="<?php echo $canonical_url; ?>">
     <!-- Open Graph / Facebook -->
@@ -32,10 +32,10 @@ $canonical_url = "https://www.unlocktool.us/articles/61-sua-mat-khau-samsung.php
     <meta property="article:author" content="UnlockTool.us">
     <meta property="article:publisher" content="https://www.facebook.com/unlocktool.us">
     <meta property="article:modified_time" content="2026-02-06T00:00:00+07:00">
-    <meta property="article:section" content="Hu?ng d?n k? thu?t">
+    <meta property="article:section" content="Hướng dẫn kỹ thuật">
     <meta property="article:tag" content="FRP Bypass">
     <meta property="article:tag" content="UnlockTool">
-    <meta property="article:tag" content="M? kh�a di?n tho?i">
+    <meta property="article:tag" content="Mở khóa điện thoại">
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
@@ -50,8 +50,8 @@ $canonical_url = "https://www.unlocktool.us/articles/61-sua-mat-khau-samsung.php
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Trang ch?", "item": "https://www.unlocktool.us/"},
-            {"@type": "ListItem", "position": 2, "name": "B�i vi?t", "item": "https://www.unlocktool.us/articles/"},
+            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://www.unlocktool.us/"},
+            {"@type": "ListItem", "position": 2, "name": "Bài viết", "item": "https://www.unlocktool.us/articles/"},
             {"@type": "ListItem", "position": 3, "name": "<?php echo $page_title; ?>", "item": "<?php echo $canonical_url; ?>"}
         ]
     }
@@ -60,8 +60,8 @@ $canonical_url = "https://www.unlocktool.us/articles/61-sua-mat-khau-samsung.php
     {
         "@context": "https://schema.org",
         "@type": "TechArticle",
-        "headline": "X�a M?t Kh?u Samsung - Pattern PIN Password",
-        "description": "Hu?ng d?n x�a m?t kh?u Samsung v?i nhi?u phuong ph�p",
+        "headline": "Xóa Mật Khẩu Samsung - Pattern PIN Password",
+        "description": "Hướng dẫn xóa mật khẩu Samsung với nhiều phương pháp",
         "author": {"@type": "Organization", "name": "UnlockTool.us"},
         "publisher": {"@type": "Organization", "name": "UnlockTool.us"},
         "datePublished": "2024-01-01",
@@ -73,10 +73,10 @@ $canonical_url = "https://www.unlocktool.us/articles/61-sua-mat-khau-samsung.php
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": "Qu�n m?t kh?u Samsung l�m sao?", "acceptedAnswer": {"@type": "Answer", "text": "C� nhi?u c�ch: Find My Mobile (kh�ng m?t d? li?u n?u d� setup), Recovery Mode (m?t d? li?u), tool chuy�n d?ng nhu UnlockTool, ho?c d?t d?ch v?."}},
-            {"@type": "Question", "name": "X�a m?t kh?u Samsung c� m?t d? li?u kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "H?u h?t phuong ph�p d?u m?t d? li?u. Ch? Find My Mobile v� m?t s? tool d?c bi?t c� th? unlock m� kh�ng factory reset."}},
-            {"@type": "Question", "name": "Find My Mobile l� g�?", "acceptedAnswer": {"@type": "Answer", "text": "Find My Mobile l� d?ch v? c?a Samsung cho ph�p t�m, kh�a, unlock thi?t b? t? xa. C?n dang k� Samsung Account tru?c khi qu�n m?t kh?u."}},
-            {"@type": "Question", "name": "Sau Factory Reset c� b? FRP kh�ng?", "acceptedAnswer": {"@type": "Answer", "text": "C�. N?u m�y c� dang nh?p Google tru?c d�, sau reset s? y�u c?u dang nh?p l?i Google Account d� (FRP Lock). C?n bypass FRP n?u kh�ng nh?."}}
+            {"@type": "Question", "name": "Quên mật khẩu Samsung làm sao?", "acceptedAnswer": {"@type": "Answer", "text": "Có nhiều cách: Find My Mobile (không mất dữ liệu nếu đã setup), Recovery Mode (mất dữ liệu), tool chuyên dụng như UnlockTool, hoặc đặt dịch vụ."}},
+            {"@type": "Question", "name": "Xóa mật khẩu Samsung có mất dữ liệu không?", "acceptedAnswer": {"@type": "Answer", "text": "Hầu hết phương pháp đều mất dữ liệu. Chỉ Find My Mobile và một số tool đặc biệt có thể unlock mà không factory reset."}},
+            {"@type": "Question", "name": "Find My Mobile là gì?", "acceptedAnswer": {"@type": "Answer", "text": "Find My Mobile là dịch vụ của Samsung cho phép tìm, khóa, unlock thiết bị từ xa. Cần đăng ký Samsung Account trước khi quên mật khẩu."}},
+            {"@type": "Question", "name": "Sau Factory Reset có bị FRP không?", "acceptedAnswer": {"@type": "Answer", "text": "Có. Nếu máy có đăng nhập Google trước đó, sau reset sẽ yêu cầu đăng nhập lại Google Account đó (FRP Lock). Cần bypass FRP nếu không nhớ."}}
         ]
     }
     </script>
@@ -117,24 +117,54 @@ $canonical_url = "https://www.unlocktool.us/articles/61-sua-mat-khau-samsung.php
         }
     }
     </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "UnlockTool.us",
+        "url": "https://www.unlocktool.us",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.unlocktool.us/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Dịch vụ mở khóa điện thoại",
+        "brand": {"@type": "Brand", "name": "UnlockTool.us"},
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "63"
+        }
+    }
+    </script>
 </head>
 <body>
 
 <nav aria-label="Breadcrumb" class="py-2 bg-light">
     <div class="container">
         <ol class="breadcrumb mb-0" style="font-size:0.9rem;">
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang ch?</a></li>
-            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">B�i vi?t</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/"><i class="fas fa-home"></i> Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="https://www.unlocktool.us/articles/">Bài viết</a></li>
             <li class="breadcrumb-item active" aria-current="page"><?php echo $page_title; ?></li>
         </ol>
     </div>
 </nav>
 <section class="hero-section">
     <div class="container text-center">
-        <h1><i class="fas fa-lock-open me-2"></i>X�a M?t Kh?u Samsung 2026</h1>
+        <h1><i class="fas fa-lock-open me-2"></i>Xóa Mật Khẩu Samsung 2026</h1>
         <p class="lead">Pattern | PIN | Password | Fingerprint | Face ID</p>
         <div class="mt-4">
-            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>Thu� UnlockTool 8K/6H</a>
+            <a href="https://www.unlocktool.us/" class="cta-btn"><i class="fas fa-bolt me-2"></i>Thuê UnlockTool 8K/6H</a>
         </div>
     </div>
 </section>
@@ -144,199 +174,199 @@ $canonical_url = "https://www.unlocktool.us/articles/61-sua-mat-khau-samsung.php
         
         
         <div class="article-meta mb-4" style="background:#f8f9fa;padding:15px 20px;border-radius:10px;border-left:4px solid #0066cc;display:flex;flex-wrap:wrap;gap:20px;align-items:center;font-size:0.9rem;">
-            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>T�c gi?:</strong> UnlockTool.us Team</span>
-            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>C?p nh?t:</strong> 06/02/2026</span>
-            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>�?c:</strong> ~5 ph�t</span>
-            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lu?t xem:</strong> <span id="viewCount">1,234</span></span>
+            <span><i class="fas fa-user-edit me-1" style="color:#0066cc;"></i> <strong>Tác giả:</strong> UnlockTool.us Team</span>
+            <span><i class="fas fa-calendar-alt me-1" style="color:#28a745;"></i> <strong>Cập nhật:</strong> 06/02/2026</span>
+            <span><i class="fas fa-clock me-1" style="color:#ffc107;"></i> <strong>Đọc:</strong> ~5 phút</span>
+            <span><i class="fas fa-eye me-1" style="color:#17a2b8;"></i> <strong>Lượt xem:</strong> <span id="viewCount">1,234</span></span>
         </div>
         <div class="toc">
-            <h4><i class="fas fa-list me-2"></i>M?c L?c</h4>
+            <h4><i class="fas fa-list me-2"></i>Mục Lục</h4>
             <ul>
-                <li><a href="#van-de">1. V?n d? qu�n m?t kh?u Samsung</a></li>
-                <li><a href="#methods">2. C�c phuong ph�p m? kh�a</a></li>
-                <li><a href="#find-my-mobile">3. Find My Mobile (Kh�ng m?t d? li?u)</a></li>
+                <li><a href="#van-de">1. Vấn đề quên mật khẩu Samsung</a></li>
+                <li><a href="#methods">2. Các phương pháp mở khóa</a></li>
+                <li><a href="#find-my-mobile">3. Find My Mobile (Không mất dữ liệu)</a></li>
                 <li><a href="#recovery">4. Recovery Mode (Factory Reset)</a></li>
-                <li><a href="#tool">5. Tool chuy�n d?ng</a></li>
+                <li><a href="#tool">5. Tool chuyên dụng</a></li>
                 <li><a href="#adb">6. ADB (Android Debug Bridge)</a></li>
                 <li><a href="#faq">7. FAQ</a></li>
             </ul>
         </div>
         
-        <h2 id="van-de"><i class="fas fa-exclamation-circle me-2"></i>1. V?n �? Qu�n M?t Kh?u Samsung</h2>
+        <h2 id="van-de"><i class="fas fa-exclamation-circle me-2"></i>1. Vấn Đề Quên Mật Khẩu Samsung</h2>
         
-        <p>Qu�n m?t kh?u m�n h�nh kh�a Samsung (Pattern, PIN, Password) l� t�nh hu?ng ph? bi?n. Samsung c� nhi?u lo?i kh�a m�n h�nh:</p>
+        <p>Quên mật khẩu màn hình khóa Samsung (Pattern, PIN, Password) là tình huống phổ biến. Samsung có nhiều loại khóa màn hình:</p>
         
         <ul>
-            <li><strong>Pattern:</strong> V? du?ng n?i 9 ch?m</li>
-            <li><strong>PIN:</strong> M� s? 4-16 ch? s?</li>
-            <li><strong>Password:</strong> M?t kh?u ch? v� s?</li>
-            <li><strong>Fingerprint:</strong> V�n tay</li>
-            <li><strong>Face ID:</strong> Nh?n di?n khu�n m?t</li>
+            <li><strong>Pattern:</strong> Vẽ đường nối 9 chấm</li>
+            <li><strong>PIN:</strong> Mã số 4-16 chữ số</li>
+            <li><strong>Password:</strong> Mật khẩu chữ và số</li>
+            <li><strong>Fingerprint:</strong> Vân tay</li>
+            <li><strong>Face ID:</strong> Nhận diện khuôn mặt</li>
         </ul>
         
         <div class="warning-box">
-            <h5><i class="fas fa-exclamation-triangle me-2"></i>Quan tr?ng:</h5>
-            <p class="mb-0">H?u h?t phuong ph�p m? kh�a s? <strong>x�a s?ch d? li?u</strong> tr�n m�y. Ch? Find My Mobile c� th? unlock m� kh�ng m?t d? li?u (n?u d� setup tru?c).</p>
+            <h5><i class="fas fa-exclamation-triangle me-2"></i>Quan trọng:</h5>
+            <p class="mb-0">Hầu hết phương pháp mở khóa sẽ <strong>xóa sạch dữ liệu</strong> trên máy. Chỉ Find My Mobile có thể unlock mà không mất dữ liệu (nếu đã setup trước).</p>
         </div>
         
-        <h2 id="methods"><i class="fas fa-layer-group me-2"></i>2. C�c Phuong Ph�p M? Kh�a</h2>
+        <h2 id="methods"><i class="fas fa-layer-group me-2"></i>2. Các Phương Pháp Mở Khóa</h2>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Phuong ph�p</th><th>M?t d? li?u</th><th>Y�u c?u</th><th>�? kh�</th></tr>
+                <tr><th>Phương pháp</th><th>Mất dữ liệu</th><th>Yêu cầu</th><th>Độ khó</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>Find My Mobile</strong></td><td class="text-success">Kh�ng</td><td>Samsung Account</td><td>D?</td></tr>
-                <tr><td><strong>Recovery Mode</strong></td><td class="text-danger">C�</td><td>Kh�ng c?n g�</td><td>Trung b�nh</td></tr>
-                <tr><td><strong>UnlockTool</strong></td><td class="text-warning">T�y</td><td>PC + Tool</td><td>Trung b�nh</td></tr>
-                <tr><td><strong>ADB</strong></td><td class="text-success">Kh�ng</td><td>USB Debug b?t s?n</td><td>Kh�</td></tr>
-                <tr><td><strong>D?ch v?</strong></td><td class="text-warning">T�y</td><td>Li�n h?</td><td>D?</td></tr>
+                <tr><td><strong>Find My Mobile</strong></td><td class="text-success">Không</td><td>Samsung Account</td><td>Dễ</td></tr>
+                <tr><td><strong>Recovery Mode</strong></td><td class="text-danger">Có</td><td>Không cần gì</td><td>Trung bình</td></tr>
+                <tr><td><strong>UnlockTool</strong></td><td class="text-warning">Tùy</td><td>PC + Tool</td><td>Trung bình</td></tr>
+                <tr><td><strong>ADB</strong></td><td class="text-success">Không</td><td>USB Debug bật sẵn</td><td>Khó</td></tr>
+                <tr><td><strong>Dịch vụ</strong></td><td class="text-warning">Tùy</td><td>Liên hệ</td><td>Dễ</td></tr>
             </tbody>
         </table>
         
-        <h2 id="find-my-mobile"><i class="fas fa-mobile-alt me-2"></i>3. Find My Mobile (Kh�ng M?t D? Li?u)</h2>
+        <h2 id="find-my-mobile"><i class="fas fa-mobile-alt me-2"></i>3. Find My Mobile (Không Mất Dữ Liệu)</h2>
         
         <div class="tip-box">
-            <h5><i class="fas fa-check me-2"></i>Phuong ph�p t?t nh?t!</h5>
-            <p class="mb-0">N?u d� dang k� Samsung Account tru?c, d�y l� c�ch duy nh?t unlock m� <strong>kh�ng m?t d? li?u</strong>.</p>
+            <h5><i class="fas fa-check me-2"></i>Phương pháp tốt nhất!</h5>
+            <p class="mb-0">Nếu đã đăng ký Samsung Account trước, đây là cách duy nhất unlock mà <strong>không mất dữ liệu</strong>.</p>
         </div>
         
-        <h3>�i?u ki?n:</h3>
+        <h3>Điều kiện:</h3>
         <ul>
-            <li>�� dang nh?p Samsung Account tr�n m�y</li>
-            <li>B?t Find My Mobile tru?c khi qu�n m?t kh?u</li>
-            <li>M�y c� k?t n?i internet (WiFi/4G)</li>
+            <li>Đã đăng nhập Samsung Account trên máy</li>
+            <li>Bật Find My Mobile trước khi quên mật khẩu</li>
+            <li>Máy có kết nối internet (WiFi/4G)</li>
         </ul>
         
-        <h3>C�c bu?c th?c hi?n:</h3>
+        <h3>Các bước thực hiện:</h3>
         <ol>
-            <li>Truy c?p <a href="https://findmymobile.samsung.com" target="_blank">findmymobile.samsung.com</a></li>
-            <li>�ang nh?p Samsung Account</li>
-            <li>Ch?n thi?t b? Samsung c?n unlock</li>
+            <li>Truy cập <a href="https://findmymobile.samsung.com" target="_blank">findmymobile.samsung.com</a></li>
+            <li>Đăng nhập Samsung Account</li>
+            <li>Chọn thiết bị Samsung cần unlock</li>
             <li>Click <strong>"Unlock"</strong></li>
-            <li>X�c nh?n v� ch? m�y unlock</li>
+            <li>Xác nhận và chờ máy unlock</li>
         </ol>
         
         <div class="info-box">
-            <h5><i class="fas fa-info me-2"></i>Luu �:</h5>
-            <p class="mb-0">Remote Unlock s? x�a t?t c? c�c lo?i kh�a m�n h�nh (Pattern, PIN, Password, Fingerprint, Face ID) nhung <strong>gi? nguy�n d? li?u</strong>.</p>
+            <h5><i class="fas fa-info me-2"></i>Lưu ý:</h5>
+            <p class="mb-0">Remote Unlock sẽ xóa tất cả các loại khóa màn hình (Pattern, PIN, Password, Fingerprint, Face ID) nhưng <strong>giữ nguyên dữ liệu</strong>.</p>
         </div>
         
         <h2 id="recovery"><i class="fas fa-redo me-2"></i>4. Recovery Mode (Factory Reset)</h2>
         
-        <p>N?u kh�ng c� Samsung Account ho?c Find My Mobile kh�ng ho?t d?ng, c� th? Factory Reset qua Recovery Mode:</p>
+        <p>Nếu không có Samsung Account hoặc Find My Mobile không hoạt động, có thể Factory Reset qua Recovery Mode:</p>
         
-        <h3>4.1. C�ch v�o Recovery Mode</h3>
+        <h3>4.1. Cách vào Recovery Mode</h3>
         
         <div class="method-card">
-            <h5><i class="fas fa-mobile-alt me-2"></i>Samsung c� n�t Home (S7 tr? v?)</h5>
-            <p class="mb-0">T?t m�y ? Gi? <strong>Volume Up + Home + Power</strong></p>
+            <h5><i class="fas fa-mobile-alt me-2"></i>Samsung có nút Home (S7 trở về)</h5>
+            <p class="mb-0">Tắt máy → Giữ <strong>Volume Up + Home + Power</strong></p>
         </div>
         
         <div class="method-card">
-            <h5><i class="fas fa-mobile-alt me-2"></i>Samsung c� n�t Bixby (S8, S9, Note 8, Note 9)</h5>
-            <p class="mb-0">T?t m�y ? Gi? <strong>Volume Up + Bixby + Power</strong></p>
+            <h5><i class="fas fa-mobile-alt me-2"></i>Samsung có nút Bixby (S8, S9, Note 8, Note 9)</h5>
+            <p class="mb-0">Tắt máy → Giữ <strong>Volume Up + Bixby + Power</strong></p>
         </div>
         
         <div class="method-card">
-            <h5><i class="fas fa-mobile-alt me-2"></i>Samsung m?i (S10 tr? l�n)</h5>
-            <p class="mb-0">T?t m�y ? Gi? <strong>Volume Up + Power</strong>. Khi th?y logo Samsung, th? Power nhung v?n gi? Volume Up.</p>
+            <h5><i class="fas fa-mobile-alt me-2"></i>Samsung mới (S10 trở lên)</h5>
+            <p class="mb-0">Tắt máy → Giữ <strong>Volume Up + Power</strong>. Khi thấy logo Samsung, thả Power nhưng vẫn giữ Volume Up.</p>
         </div>
         
-        <h3>4.2. C�c bu?c Factory Reset</h3>
+        <h3>4.2. Các bước Factory Reset</h3>
         <ol>
-            <li>D�ng ph�m Volume d? di chuy?n, ch?n <strong>"Wipe data/factory reset"</strong></li>
-            <li>Nh?n Power d? x�c nh?n</li>
-            <li>Ch?n <strong>"Factory data reset"</strong></li>
-            <li>Ch? reset xong, ch?n <strong>"Reboot system now"</strong></li>
+            <li>Dùng phím Volume để di chuyển, chọn <strong>"Wipe data/factory reset"</strong></li>
+            <li>Nhấn Power để xác nhận</li>
+            <li>Chọn <strong>"Factory data reset"</strong></li>
+            <li>Chờ reset xong, chọn <strong>"Reboot system now"</strong></li>
         </ol>
         
         <div class="warning-box">
-            <h5><i class="fas fa-exclamation-triangle me-2"></i>Luu � v? FRP:</h5>
-            <p class="mb-0">Sau Factory Reset, n?u m�y c� dang nh?p Google tru?c d�, s? y�u c?u dang nh?p l?i Google Account d� (<strong>FRP Lock</strong>). Xem <a href="51-samsung-frp.php">b�i FRP Samsung</a> d? bypass.</p>
+            <h5><i class="fas fa-exclamation-triangle me-2"></i>Lưu ý về FRP:</h5>
+            <p class="mb-0">Sau Factory Reset, nếu máy có đăng nhập Google trước đó, sẽ yêu cầu đăng nhập lại Google Account đó (<strong>FRP Lock</strong>). Xem <a href="51-samsung-frp.php">bài FRP Samsung</a> để bypass.</p>
         </div>
         
-        <h2 id="tool"><i class="fas fa-tools me-2"></i>5. Tool Chuy�n D?ng</h2>
+        <h2 id="tool"><i class="fas fa-tools me-2"></i>5. Tool Chuyên Dụng</h2>
         
-        <p>C�c tool chuy�n nghi?p c� th? x�a Screen Lock v?i nhi?u option kh�c nhau:</p>
+        <p>Các tool chuyên nghiệp có thể xóa Screen Lock với nhiều option khác nhau:</p>
         
         <table class="comparison-table">
             <thead>
-                <tr><th>Tool</th><th>T�nh nang</th><th>Gi� thu� (6H)</th></tr>
+                <tr><th>Tool</th><th>Tính năng</th><th>Giá thuê (6H)</th></tr>
             </thead>
             <tbody>
-                <tr><td><strong>UnlockTool</strong></td><td>Screen Lock, FRP, Knox, IMEI</td><td class="text-success">8.000d</td></tr>
-                <tr><td><strong>Samsung Tool Pro</strong></td><td>Screen Lock, FRP, Flash</td><td class="text-success">8.000d</td></tr>
-                <tr><td><strong>Octoplus</strong></td><td>Screen Lock, FRP, IMEI</td><td>15.000d</td></tr>
+                <tr><td><strong>UnlockTool</strong></td><td>Screen Lock, FRP, Knox, IMEI</td><td class="text-success">8.000đ</td></tr>
+                <tr><td><strong>Samsung Tool Pro</strong></td><td>Screen Lock, FRP, Flash</td><td class="text-success">8.000đ</td></tr>
+                <tr><td><strong>Octoplus</strong></td><td>Screen Lock, FRP, IMEI</td><td>15.000đ</td></tr>
             </tbody>
         </table>
         
-        <h3>C�ch d�ng UnlockTool:</h3>
+        <h3>Cách dùng UnlockTool:</h3>
         <ol>
-            <li>Thu� UnlockTool t?i <a href="https://www.unlocktool.us/">UnlockTool.us</a></li>
-            <li>T?i v� c�i d?t UnlockTool</li>
-            <li>V�o tab <strong>Samsung</strong></li>
-            <li>Ch?n <strong>Screen Lock Remove</strong> ho?c <strong>Factory Reset</strong></li>
-            <li>K?t n?i di?n tho?i qua USB</li>
-            <li>L�m theo hu?ng d?n v�o Download Mode ho?c Recovery</li>
-            <li>Click Start v� ch? ho�n t?t</li>
+            <li>Thuê UnlockTool tại <a href="https://www.unlocktool.us/">UnlockTool.us</a></li>
+            <li>Tải và cài đặt UnlockTool</li>
+            <li>Vào tab <strong>Samsung</strong></li>
+            <li>Chọn <strong>Screen Lock Remove</strong> hoặc <strong>Factory Reset</strong></li>
+            <li>Kết nối điện thoại qua USB</li>
+            <li>Làm theo hướng dẫn vào Download Mode hoặc Recovery</li>
+            <li>Click Start và chờ hoàn tất</li>
         </ol>
         
         <h2 id="adb"><i class="fas fa-terminal me-2"></i>6. ADB (Android Debug Bridge)</h2>
         
         <div class="info-box">
-            <h5><i class="fas fa-info me-2"></i>Y�u c?u:</h5>
-            <p class="mb-0">USB Debugging ph?i du?c <strong>b?t s?n</strong> tru?c khi qu�n m?t kh?u. N?u chua b?t, phuong ph�p n�y kh�ng kh? d?ng.</p>
+            <h5><i class="fas fa-info me-2"></i>Yêu cầu:</h5>
+            <p class="mb-0">USB Debugging phải được <strong>bật sẵn</strong> trước khi quên mật khẩu. Nếu chưa bật, phương pháp này không khả dụng.</p>
         </div>
         
-        <h3>C�c bu?c:</h3>
+        <h3>Các bước:</h3>
         <ol>
-            <li>C�i ADB tr�n m�y t�nh</li>
-            <li>K?t n?i di?n tho?i qua USB</li>
-            <li>M? Command Prompt, ch?y:
+            <li>Cài ADB trên máy tính</li>
+            <li>Kết nối điện thoại qua USB</li>
+            <li>Mở Command Prompt, chạy:
                 <pre><code>adb devices
 adb shell rm /data/system/gesture.key
 adb shell rm /data/system/password.key</code></pre>
             </li>
-            <li>Kh?i d?ng l?i di?n tho?i, m�n h�nh kh�a s? b? b? qua</li>
+            <li>Khởi động lại điện thoại, màn hình khóa sẽ bị bỏ qua</li>
         </ol>
         
         <h2 id="faq"><i class="fas fa-comments me-2"></i>7. FAQ</h2>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Qu�n m?t kh?u Samsung l�m sao?</h5>
-            <p>C� nhi?u c�ch: Find My Mobile (n?u d� setup), Recovery Mode (factory reset), tool chuy�n d?ng, ho?c d?t d?ch v? t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>.</p>
+            <h5><i class="fas fa-question me-2"></i>Quên mật khẩu Samsung làm sao?</h5>
+            <p>Có nhiều cách: Find My Mobile (nếu đã setup), Recovery Mode (factory reset), tool chuyên dụng, hoặc đặt dịch vụ tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a>.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>X�a m?t kh?u c� m?t d? li?u kh�ng?</h5>
-            <p><strong>H?u h?t c�.</strong> Ch? Find My Mobile (n?u d� setup) v� ADB (n?u USB Debug b?t s?n) c� th? gi? d? li?u.</p>
+            <h5><i class="fas fa-question me-2"></i>Xóa mật khẩu có mất dữ liệu không?</h5>
+            <p><strong>Hầu hết có.</strong> Chỉ Find My Mobile (nếu đã setup) và ADB (nếu USB Debug bật sẵn) có thể giữ dữ liệu.</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Sau Factory Reset b? FRP th� sao?</h5>
-            <p>C?n bypass FRP b?ng tool. Xem <a href="51-samsung-frp.php">hu?ng d?n FRP Samsung</a> ho?c thu� UnlockTool (8K/6h).</p>
+            <h5><i class="fas fa-question me-2"></i>Sau Factory Reset bị FRP thì sao?</h5>
+            <p>Cần bypass FRP bằng tool. Xem <a href="51-samsung-frp.php">hướng dẫn FRP Samsung</a> hoặc thuê UnlockTool (8K/6h).</p>
         </div>
         
         <div class="faq-item">
-            <h5><i class="fas fa-question me-2"></i>Samsung m?i nh?t c� x�a m?t kh?u du?c kh�ng?</h5>
-            <p><strong>�u?c.</strong> UnlockTool h? tr? t?t c? model Samsung t? S7 d?n S24.</p>
+            <h5><i class="fas fa-question me-2"></i>Samsung mới nhất có xóa mật khẩu được không?</h5>
+            <p><strong>Được.</strong> UnlockTool hỗ trợ tất cả model Samsung từ S7 đến S24.</p>
         </div>
         
         <div class="price-box">
-            <h3><i class="fas fa-lock-open me-2"></i>X�a M?t Kh?u Samsung Ngay</h3>
-            <p>UnlockTool - H? tr? t?t c? model</p>
-            <p class="display-5 fw-bold">8.000d / 6H</p>
-            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg me-2"><i class="fas fa-bolt me-2"></i>Thu� Tool</a>
-            <a href="https://thuetaikhoan.net" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>D?ch V? 50K</a>
+            <h3><i class="fas fa-lock-open me-2"></i>Xóa Mật Khẩu Samsung Ngay</h3>
+            <p>UnlockTool - Hỗ trợ tất cả model</p>
+            <p class="display-5 fw-bold">8.000đ / 6H</p>
+            <a href="https://www.unlocktool.us/" class="btn btn-light btn-lg me-2"><i class="fas fa-bolt me-2"></i>Thuê Tool</a>
+            <a href="https://thuetaikhoan.net" class="btn btn-outline-light btn-lg"><i class="fas fa-headset me-2"></i>Dịch Vụ 50K</a>
         </div>
         
-        <h2><i class="fas fa-link me-2"></i>B�i vi?t li�n quan</h2>
+        <h2><i class="fas fa-link me-2"></i>Bài viết liên quan</h2>
         <ul>
             <li><a href="51-samsung-frp.php">Bypass FRP Samsung</a></li>
             <li><a href="154-download-mode-samsung.php">Download Mode Samsung</a></li>
             <li><a href="134-flash-odin.php">Flash Odin Samsung</a></li>
-            <li><a href="132-knox-samsung-remove.php">X�a Knox Samsung</a></li>
+            <li><a href="132-knox-samsung-remove.php">Xóa Knox Samsung</a></li>
         </ul>
         
     </div>
@@ -349,7 +379,7 @@ adb shell rm /data/system/password.key</code></pre>
         
         <!-- Social Share -->
         <div class="social-share mb-4">
-            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia s? b�i vi?t:</h5>
+            <h5 class="mb-3"><i class="fas fa-share-alt me-2"></i>Chia sẻ bài viết:</h5>
             <div class="d-flex flex-wrap gap-2">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode($canonical_url); ?>" target="_blank" class="btn btn-primary" style="background:#1877f2;border:none;"><i class="fab fa-facebook-f me-1"></i> Facebook</a>
                 <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode($canonical_url); ?>&text=<?php echo urlencode($page_title); ?>" target="_blank" class="btn" style="background:#1da1f2;border:none;color:#fff;"><i class="fab fa-twitter me-1"></i> Twitter</a>
@@ -363,13 +393,13 @@ adb shell rm /data/system/password.key</code></pre>
         
         <!-- Related Posts -->
         <div class="related-posts">
-            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>B�i vi?t li�n quan:</h5>
+            <h5 class="mb-3"><i class="fas fa-newspaper me-2"></i>Bài viết liên quan:</h5>
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="51-samsung-frp.php" class="text-decoration-none">Bypass FRP Samsung</a></h6>
-                            <small class="text-muted">Hu?ng d?n chi ti?t</small>
+                            <small class="text-muted">Hướng dẫn chi tiết</small>
                         </div>
                     </div>
                 </div>
@@ -377,15 +407,15 @@ adb shell rm /data/system/password.key</code></pre>
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
                             <h6 class="card-title"><a href="73-iphone-ipad-bypass.php" class="text-decoration-none">Bypass iCloud iPhone</a></h6>
-                            <small class="text-muted">T? iPhone 5s - X</small>
+                            <small class="text-muted">Từ iPhone 5s - X</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="card h-100 border-0 shadow-sm">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">T?i UnlockTool</a></h6>
-                            <small class="text-muted">Download m?i nh?t</small>
+                            <h6 class="card-title"><a href="131-tai-unlocktool.php" class="text-decoration-none">Tải UnlockTool</a></h6>
+                            <small class="text-muted">Download mới nhất</small>
                         </div>
                     </div>
                 </div>
@@ -398,7 +428,7 @@ adb shell rm /data/system/password.key</code></pre>
             <div class="author-avatar" style="width:80px;height:80px;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2rem;font-weight:bold;">UT</div>
             <div>
                 <h6 class="mb-1">UnlockTool.us Team</h6>
-                <p class="mb-0 text-muted" style="font-size:0.9rem;">�?i ngu k? thu?t vi�n chuy�n nghi?p v?i 10+ nam kinh nghi?m trong linh v?c m? kh�a di?n tho?i. H? tr? 24/7 t?i <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
+                <p class="mb-0 text-muted" style="font-size:0.9rem;">Đội ngũ kỹ thuật viên chuyên nghiệp với 10+ năm kinh nghiệm trong lĩnh vực mở khóa điện thoại. Hỗ trợ 24/7 tại <a href="https://thuetaikhoan.net">Thuetaikhoan.net</a></p>
             </div>
         </div>
         
@@ -406,8 +436,8 @@ adb shell rm /data/system/password.key</code></pre>
 </div>
 <footer class="bg-dark text-white py-4 text-center">
     <div class="container">
-        <p class="mb-2">&copy; 2026 UnlockTool.us - D?ch v? cho thu� UnlockTool uy t�n #1 Vi?t Nam</p>
-        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thu� UnlockTool 8K</a> | <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
+        <p class="mb-2">&copy; 2026 UnlockTool.us - Dịch vụ cho thuê UnlockTool uy tín #1 Việt Nam</p>
+        <p class="mb-0"><a href="https://www.unlocktool.us/" class="text-white">Thuê UnlockTool 8K</a> | <a href="https://thuetaikhoan.net" class="text-white">Thuetaikhoan.net</a></p>
     </div>
 </footer>
 
