@@ -317,10 +317,10 @@ if ($db_connected && $conn) {
     
     <!-- JS moved to bottom of body to eliminate render-blocking -->
     <style>
-        /* Font-display swap for web fonts */
-        @font-face { font-family: 'Font Awesome 6 Free'; font-display: swap; }
-        @font-face { font-family: 'Font Awesome 6 Brands'; font-display: swap; }
-        body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+        /* Font-display optional: prevents CLS from font swap reflow */
+        @font-face { font-family: 'Font Awesome 6 Free'; font-display: optional; }
+        @font-face { font-family: 'Font Awesome 6 Brands'; font-display: optional; }
+        body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-display: optional; }
         :root {
             --primary: #007bff;
             --success: #28a745;
@@ -373,10 +373,11 @@ if ($db_connected && $conn) {
             border-radius: 10px;
             overflow: hidden;
             flex-shrink: 0;
+            aspect-ratio: 1;
         }
         .logo-icon img {
-            width: 100%;
-            height: 100%;
+            width: 44px;
+            height: 44px;
             object-fit: cover;
         }
         .logo-text {
@@ -824,7 +825,7 @@ if ($db_connected && $conn) {
                 transform: scale(1);
             }
             50% {
-                transform: scale(1.08);
+                transform: scale(1.05);
             }
         }
         .floating-contact-btn:hover {
@@ -1072,18 +1073,19 @@ if ($db_connected && $conn) {
             }
             .cta-support, .history-btn { width: 100%; justify-content: center; }
         }
-    /* Blinking animation for rent button */
+    /* Blinking animation for rent button — composited only */
 .btn-blink {
     animation: pulse-btn 2s ease-in-out infinite;
     font-weight: bold;
     will-change: transform;
+    contain: layout style;
 }
 @keyframes pulse-btn {
     0%, 100% { 
         transform: scale(1);
     }
     50% { 
-        transform: scale(1.1);
+        transform: scale(1.05);
     }
 }
 /* ========== HERO BANNER ========== */
@@ -1095,6 +1097,7 @@ if ($db_connected && $conn) {
     margin-left: calc(-50vw + 50%);
     position: relative;
     overflow: hidden;
+    contain: layout style paint;
 }
 .hero-banner::after {
     content: '';
@@ -1157,9 +1160,10 @@ if ($db_connected && $conn) {
     0% { background-position: 0% 0%; }
     100% { background-position: 300% 0%; }
 }
+/* heroFadeUp: removed opacity 0→1 to prevent CLS, keep subtle slide only */
 @keyframes heroFadeUp {
-    from { opacity: 0; transform: translateY(18px); }
-    to { opacity: 1; transform: translateY(0); }
+    from { transform: translateY(8px); }
+    to { transform: translateY(0); }
 }
 .hero-content { max-width: 700px; margin: 0 auto; position: relative; z-index: 1; }
 .hero-title {
@@ -1168,7 +1172,8 @@ if ($db_connected && $conn) {
     color: #ffffff;
     line-height: 1.3;
     margin-bottom: 14px;
-    animation: heroFadeUp 0.7s ease-out both;
+    animation: heroFadeUp 0.4s ease-out both;
+    will-change: transform;
 }
 .hero-highlight {
     color: #ff6b35;
@@ -1183,7 +1188,8 @@ if ($db_connected && $conn) {
     max-width: 560px;
     margin: 0 auto 24px;
     line-height: 1.6;
-    animation: heroFadeUp 0.7s ease-out 0.15s both;
+    animation: heroFadeUp 0.4s ease-out 0.1s both;
+    will-change: transform;
 }
 /* Hero Search */
 .hero-search {
@@ -1193,7 +1199,9 @@ if ($db_connected && $conn) {
     border-radius: 8px;
     overflow: hidden;
     box-shadow: 0 2px 12px rgba(0,0,0,0.3);
-    animation: heroFadeUp 0.7s ease-out 0.3s both;
+    animation: heroFadeUp 0.4s ease-out 0.15s both;
+    will-change: transform;
+    height: 47px;
 }
 .hero-search-input {
     flex: 1;
@@ -1222,7 +1230,8 @@ if ($db_connected && $conn) {
     display: flex;
     justify-content: center;
     gap: 50px;
-    animation: heroFadeUp 0.7s ease-out 0.45s both;
+    animation: heroFadeUp 0.4s ease-out 0.2s both;
+    will-change: transform;
 }
 .hero-stat { text-align: center; }
 .hero-stat-number { font-size: 1.7rem; font-weight: 900; color: #ffffff; }
@@ -1284,10 +1293,11 @@ if ($db_connected && $conn) {
     overflow: hidden;
     background: #fff;
     box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+    aspect-ratio: 1;
 }
 .service-icon img {
-    width: 85%;
-    height: 85%;
+    width: 68px;
+    height: 68px;
     object-fit: contain;
 }
 .service-card span {
@@ -1574,7 +1584,7 @@ if ($db_connected && $conn) {
         <div class="header-row-1">
             <a href="index.php" class="logo-section">
                 <div class="logo-icon">
-                    <img src="images/logo.jpg" alt="UnlockTool.us Logo">
+                    <img src="images/logo.jpg" alt="UnlockTool.us Logo" width="44" height="44">
                 </div>
                 <div class="logo-text">
                     <h1 class="logo-title">UNLOCKTOOL.US</h1>
@@ -1821,35 +1831,35 @@ document.querySelectorAll('.contact-item').forEach(item => {
 <section class="service-strip">
     <div class="service-strip-inner">
         <a class="service-card" href="https://thuetaikhoan.net/thue-unlocktool.php" target="_blank">
-            <div class="service-icon"><img src="images/services/unlocktool.webp" alt="Unlocktool" loading="lazy"></div>
+            <div class="service-icon"><img src="images/services/unlocktool.webp" alt="Unlocktool" loading="lazy" width="68" height="68"></div>
             <span>Unlocktool</span>
         </a>
         <a class="service-card" href="https://thuetaikhoan.net/thue-griffin.php" target="_blank">
-            <div class="service-icon"><img src="images/services/griffin.webp" alt="Griffin-Unlocker" loading="lazy"></div>
+            <div class="service-icon"><img src="images/services/griffin.webp" alt="Griffin-Unlocker" loading="lazy" width="68" height="68"></div>
             <span>Griffin</span>
         </a>
         <a class="service-card" href="https://thuetaikhoan.net/thue-amt.php" target="_blank">
-            <div class="service-icon"><img src="images/services/amt.webp" alt="Android Multitool" loading="lazy"></div>
+            <div class="service-icon"><img src="images/services/amt.webp" alt="Android Multitool" loading="lazy" width="68" height="68"></div>
             <span>Android Multitool</span>
         </a>
         <a class="service-card" href="https://thuetaikhoan.net/thue-tsm.php" target="_blank">
-            <div class="service-icon"><img src="images/services/tsm.webp" alt="TSM Tool" loading="lazy"></div>
+            <div class="service-icon"><img src="images/services/tsm.webp" alt="TSM Tool" loading="lazy" width="68" height="68"></div>
             <span>TSM Tool</span>
         </a>
         <a class="service-card" href="https://thuetaikhoan.net/thue-vietmap.php" target="_blank">
-            <div class="service-icon"><img src="images/services/vietmap.webp" alt="Vietmap Live" loading="lazy"></div>
+            <div class="service-icon"><img src="images/services/vietmap.webp" alt="Vietmap Live" loading="lazy" width="68" height="68"></div>
             <span>Vietmap Live</span>
         </a>
         <a class="service-card" href="https://thuetaikhoan.net/thue-kg-killer.php" target="_blank">
-            <div class="service-icon"><img src="images/services/kg-killer.webp" alt="KG Killer" loading="lazy"></div>
+            <div class="service-icon"><img src="images/services/kg-killer.webp" alt="KG Killer" loading="lazy" width="68" height="68"></div>
             <span>KG Killer</span>
         </a>
         <a class="service-card" href="https://thuetaikhoan.net/thue-dft.php" target="_blank">
-            <div class="service-icon"><img src="images/services/dft-pro.webp" alt="DFT Pro Tool" loading="lazy"></div>
+            <div class="service-icon"><img src="images/services/dft-pro.webp" alt="DFT Pro Tool" loading="lazy" width="68" height="68"></div>
             <span>DFT Pro</span>
         </a>
         <a class="service-card" href="https://thuetaikhoan.net/thue-samsung-tool.php" target="_blank">
-            <div class="service-icon"><img src="images/services/samsung-tool.webp" alt="Samsung Tool" loading="lazy"></div>
+            <div class="service-icon"><img src="images/services/samsung-tool.webp" alt="Samsung Tool" loading="lazy" width="68" height="68"></div>
             <span>Samsung Tool</span>
         </a>
     </div>
