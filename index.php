@@ -326,6 +326,9 @@ if ($db_connected && $conn) {
             --success: #28a745;
             --danger: #dc3545;
         }
+        html, body {
+            overflow-x: hidden;
+        }
         body {
             background-color: #f0f2f5;
             min-height: 100vh;
@@ -762,6 +765,10 @@ if ($db_connected && $conn) {
                 width: 28px;
                 height: 28px;
                 font-size: 14px;
+            }
+            .logo-icon img {
+                width: 28px;
+                height: 28px;
             }
             .header-container {
                 padding: 8px 12px;
@@ -1319,6 +1326,7 @@ if ($db_connected && $conn) {
     }
     .service-card { padding: 8px 6px 6px; min-width: 0; flex: 0 0 calc(25% - 6px); border-radius: 10px; }
     .service-icon { width: 36px; height: 36px; }
+    .service-icon img { width: 30px; height: 30px; }
     .service-card span { font-size: 0.55rem; }
 }
 
