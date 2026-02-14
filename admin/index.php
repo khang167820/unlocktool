@@ -32,9 +32,12 @@ $history = $conn->query("SELECT o.*, a.username FROM orders o LEFT JOIN accounts
 <head>
     <meta charset="UTF-8">
     <title>Trang Quản Trị</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
     <style>
-        body { background: #f5f7fa; padding: 12px; font-size: 13px; }
+        body { background: #f5f7fa; padding: 12px; font-size: 13px; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
         h2 { font-size: 18px; margin-bottom: 10px; }
         .stat-box { background: #fff; border-radius: 8px; padding: 12px; text-align: center; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
         .stat-box h3 { font-size: 22px; margin: 0; color: #007bff; }

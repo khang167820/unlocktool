@@ -2,6 +2,17 @@
 
 document.addEventListener('DOMContentLoaded', function () {
 
+    // ===== Lazy Loading for Images =====
+    var images = document.querySelectorAll('.content-wrapper img, .hero-section img');
+    images.forEach(function (img) {
+        if (!img.hasAttribute('loading')) {
+            img.setAttribute('loading', 'lazy');
+        }
+        if (!img.hasAttribute('decoding')) {
+            img.setAttribute('decoding', 'async');
+        }
+    });
+
     // ===== Reading Progress Bar =====
     const progressBar = document.querySelector('.reading-progress');
     if (progressBar) {

@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 require '../includes/session_config.php';
 require '../config.php';
 session_start();
@@ -26,9 +26,12 @@ $history = $conn->query("SELECT o.*, a.username FROM orders o LEFT JOIN accounts
 <head>
   <meta charset="UTF-8">
   <title>Trang Quản Trị</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
   <style>
-    body { padding: 2rem; background: #f7f7f7; }
+    body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; padding: 2rem; background: #f7f7f7; }
     .nav-link { margin-right: 1rem; }
     .history-table { font-size: 0.9rem; }
   </style>

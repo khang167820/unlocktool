@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 // assign_accounts.php - Gán tài khoản cho các đơn đã thanh toán nhưng chưa có account
 require 'includes/session_config.php';
 require '../config.php';
@@ -91,9 +91,12 @@ require 'includes/nav.php';
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Gán tài khoản cho đơn hàng</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
     <style>
-        body { padding: 20px; background: #f5f5f5; }
+        body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; padding: 20px; background: #f5f5f5; }
         .card { margin-bottom: 20px; }
         .table th { background: #343a40; color: white; }
         .badge-warning { font-size: 1rem; }

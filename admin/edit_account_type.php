@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 // admin/edit_account_type.php - Quản lý loại tài khoản
 require '../config.php';
 
@@ -17,6 +17,9 @@ $result = $conn->query("SELECT id, username, type FROM accounts ORDER BY id");
 <head>
     <meta charset="UTF-8">
     <title>Quản lý loại tài khoản</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body class="p-4">

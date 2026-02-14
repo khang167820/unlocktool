@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 // admin/accounts.php - Quản lý tài khoản
 require 'includes/session_config.php';
 session_start();
@@ -133,9 +133,12 @@ $accounts = $conn->query("
 <head>
     <meta charset="UTF-8">
     <title>Quản lý tài khoản</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
 <style>
-        body { background: #f5f7fa; padding: 12px; font-size: 13px; }
+        body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f7fa; padding: 12px; font-size: 13px; }
         h2 { font-size: 18px; margin-bottom: 10px; }
         .page-container { max-width: 1280px; margin: 0 auto; }
         .form-control { height: 32px; padding: 4px 8px; font-size: 13px; }
