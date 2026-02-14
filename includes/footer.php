@@ -64,20 +64,23 @@ function copyToClipboard(text) {
     });
 }
 
-// Copy button handler
-$(document).on('click', '.copy-btn', function() {
-    const text = $(this).data('clipboard-text') || $(this).data('copy');
+// Copy button handler (vanilla JS — no jQuery dependency)
+document.addEventListener('click', function(e) {
+    var btn = e.target.closest('.copy-btn');
+    if (!btn) return;
+    var text = btn.getAttribute('data-clipboard-text') || btn.getAttribute('data-copy');
     if (text) {
-        navigator.clipboard.writeText(text).then(() => {
-            const btn = $(this);
-            const oldText = btn.text();
-            btn.text('Đã sao chép');
-            setTimeout(() => btn.text(oldText), 1200);
+        navigator.clipboard.writeText(text).then(function() {
+            var oldText = btn.textContent;
+            btn.textContent = 'Đã sao chép';
+            setTimeout(function() { btn.textContent = oldText; }, 1200);
         });
     }
 });
 </script>
 <?php if (!empty($extra_scripts)) echo $extra_scripts; ?>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" defer></script>
 </body>
 </html>
 

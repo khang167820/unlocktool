@@ -89,6 +89,20 @@ AddDefaultCharset UTF-8
 
 # ========== END SPEED OPTIMIZATION ==========
 
+# Vary header cho CDN/proxy caching
+<IfModule mod_headers.c>
+    Header append Vary Accept-Encoding
+</IfModule>
+
+# Cache PHP article pages (5 phút) 
+<IfModule mod_headers.c>
+    <FilesMatch "\.php$">
+        <If "%{REQUEST_URI} =~ m#^/articles/#">
+            Header set Cache-Control "public, max-age=300, must-revalidate"
+        </If>
+    </FilesMatch>
+</IfModule>
+
 # Bảo vệ chống hotlinking (tùy chọn)
 # RewriteCond %{HTTP_REFERER} !^$
 # RewriteCond %{HTTP_REFERER} !^https?://(www\.)?unlocktool\.us [NC]
