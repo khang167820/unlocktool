@@ -746,11 +746,19 @@ if ($db_connected && $conn) {
         @media (max-width: 768px) {
             body {
                 padding-top: 0 !important;
+                margin: 0;
             }
             .main-header {
                 position: relative !important;
                 min-height: auto;
                 padding: 0;
+                width: 100%;
+                margin: 0;
+                border-radius: 0;
+                left: 0;
+                right: 0;
+                border-left: none;
+                border-right: none;
             }
             .header-row-1 {
                 min-height: 40px;
@@ -775,6 +783,9 @@ if ($db_connected && $conn) {
             }
             .overlay {
                 margin-top: 10px !important;
+                margin-left: 0 !important;
+                margin-right: 0 !important;
+                max-width: 100% !important;
             }
         }
         
@@ -796,7 +807,7 @@ if ($db_connected && $conn) {
         .table-responsive thead th { position: sticky; top: 0; z-index: 10; }
         thead th { background-color: #1a73e8; color: #ffffff; }
         @media (max-width: 768px) {
-            .overlay { max-width: 100%; padding: 10px 6px; margin-top: 10px; }
+            .overlay { max-width: 100%; padding: 10px 6px; margin: 10px 0 0 0; }
             .table th, .table td { font-size: 0.7rem; padding: 6px 4px; }
             .badge-success, .badge-danger { font-size: 0.65rem; padding: 4px 8px; }
         }
