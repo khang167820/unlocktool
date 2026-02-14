@@ -18,26 +18,31 @@ $base_url = 'https://www.unlocktool.us/';  // Thay bằng URL thực tế của 
 
 // Kết nối cơ sở dữ liệu với error handling tốt hơn
 $conn = null;
+$db_connected = false;
 try {
-    $conn = new mysqli($db_host, $db_user, $db_pass, $db_name);
+    $conn = @new mysqli($db_host, $db_user, $db_pass, $db_name);
     if ($conn->connect_error) {
         error_log("Database connection error: " . $conn->connect_error);
-        die("Lỗi kết nối cơ sở dữ liệu. Vui lòng thử lại sau.");
+        $conn = null;
+        $db_connected = false;
+    } else {
+        $db_connected = true;
+        $conn->set_charset("utf8");
+        
+        // Đặt timezone cho MySQL giống PHP (Việt Nam UTC+7)
+        $conn->query("SET time_zone = '+07:00'");
+        
+        // Tự động đóng kết nối khi script kết thúc
+        register_shutdown_function(function() use (&$conn) {
+            if ($conn && !$conn->connect_error) {
+                $conn->close();
+            }
+        });
     }
-    $conn->set_charset("utf8");
-    
-    // Đặt timezone cho MySQL giống PHP (Việt Nam UTC+7)
-    $conn->query("SET time_zone = '+07:00'");
-    
-    // Tự động đóng kết nối khi script kết thúc
-    register_shutdown_function(function() use (&$conn) {
-        if ($conn && !$conn->connect_error) {
-            $conn->close();
-        }
-    });
 } catch (Exception $e) {
     error_log("Database connection exception: " . $e->getMessage());
-    die("Lỗi kết nối cơ sở dữ liệu. Vui lòng thử lại sau.");
+    $conn = null;
+    $db_connected = false;
 }
 
 // Thiết lập múi giờ Việt Nam
