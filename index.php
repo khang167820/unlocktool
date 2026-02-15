@@ -326,8 +326,11 @@ if ($db_connected && $conn) {
             --success: #28a745;
             --danger: #dc3545;
         }
+        *, *::before, *::after { box-sizing: border-box; }
         html, body {
             overflow-x: hidden;
+            margin: 0;
+            padding: 0;
         }
         body {
             background-color: #f0f2f5;
