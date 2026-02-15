@@ -2236,7 +2236,7 @@ document.querySelectorAll('.contact-item').forEach(item => {
 </section>
 
 <!-- ========== SECTION: Bài Viết Gần Đây ========== -->
-<section class="seo-section" id="bai-viet">
+<section class="seo-section" id="bai-viet" style="display:none;">
     <h2 class="seo-section-title">Bài Viết Hữu Ích</h2>
     <p class="seo-section-subtitle">Hướng dẫn, thủ thuật và kiến thức chuyên sâu về UnlockTool & GSM</p>
     <div class="blog-grid">
