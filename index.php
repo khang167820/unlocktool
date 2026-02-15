@@ -1597,7 +1597,7 @@ if ($db_connected && $conn) {
 
 </style>
 </head>
-<body class="p-4">
+<body>
 
 <!-- Main Header -->
 <header class="main-header" id="mainHeader">
